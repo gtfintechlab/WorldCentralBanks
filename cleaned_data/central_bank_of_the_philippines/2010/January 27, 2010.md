@@ -1,0 +1,444 @@
+# 2
+
+
+**HIGHLIGHTS OF THE MEETING OF THE MONETARY BOARD ON**
+
+**MONETARY POLICY ISSUES HELD ON 28 JANUARY 2010[1]**
+
+
+**I.** **Monetary Policy Decision**
+
+The Monetary Board decided to:
+
+a) Maintain the BSP’s policy rates at 4.00 percent for the
+overnight RRP (borrowing) rate and 6.00 percent for the
+overnight RP (lending) rate;
+
+b) Maintain the current interest rates on term RRPs, RPs, and
+SDAs;
+
+c) Maintain the current reserve requirement ratios; and
+
+d) Align the peso rediscount rate with the BSP overnight RRP
+rate, effective 1 February 2010.
+
+The Monetary Board's decision was based on its view that current
+monetary policy settings remained appropriate as inflation forecasts
+continued to be within the target ranges over the policy horizon and
+economic recovery is expected to proceed at a gradual pace.
+
+The Board also noted that as global credit markets continued to
+normalize, the risk of contagion from global financial stresses has
+markedly been reduced in domestic financial markets.
+
+**II.** **Key Considerations in the Formulation of the Monetary Policy**
+**Stance**
+
+  - The Monetary Board noted that the prevailing inflation outlook which
+continued to support the maintenance of current policy settings as
+inflation is expected to track a target-consistent path over the policy
+horizon. Emerging baseline forecasts indicate that inflation would
+
+1 The discussions presented reflect the assessment made by the Monetary Board based on the information
+available at the time of the policy meeting. The sets of economic information were provided by the
+technical secretariat of the Advisory Committee (AC). The Advisory Committee is composed of the
+Governor of the BSP as Chairman and four members, namely: the Deputy Governor of the Monetary
+Stability Sector, the Deputy Governor of the Supervision and Examination Sector, the Assistant Governor
+of the Monetary Policy Sub-Sector, and the Managing Director of the Treasury Department. The highlights
+of the discussions on the 28 January 2010 meeting were approved by the Monetary Board during its
+regular meeting held on 18 February 2010. The next meeting of the Monetary Board on monetary policy
+issues is scheduled on 11 March 2010.
+
+**Page 1 of 8**
+
+
+-----
+
+settle slightly above the middle of the 4.5 percent + 1.0 percentage
+point target range for 2010 and at the lower half of the 4.0 percent +
+1.0 percentage point target range for 2011.
+
+- Inflationary pressures are expected to remain manageable, with
+demand-side pressures on consumer prices expected to remain
+subdued over the near term given the modest improvement in
+domestic demand conditions and stable inflation expectations.
+
+- Inflationary pressures over the near term are also expected to be
+tempered by global conditions such as adequate inventory levels and
+the presence of spare capacity in advanced economies. Meanwhile,
+some major central banks have started to signal a gradual exit from
+their extraordinary stimulus measures implemented earlier, and this
+could help reduce global inflation risks going forward.
+
+- The Board also considered the latest assessment on the risks to the
+inflation outlook which points to persistence in supply-side price
+pressures due to:
+� possible resurgence in commodity prices in the near term given
+clearer prospects of recovery in the global economy in 2010,
+� presence of structural weaknesses in the oil industry,
+� tight supply in key agricultural products,
+� prevailing El Niño weather conditions, and
+� pending adjustments in domestic power charges.
+
+- The Monetary Board also noted that domestic demand had started to
+pick up in Q4 2009. For the first time in 10 months, bank lending net of
+RRP accelerated in November 2009, reflecting in part the revival of
+industrial activity as exports growth turned positive in November
+following 13 consecutive months of contraction. Capacity utilization in
+the manufacturing sector rose to its highest level since November
+2008 while energy sales to the industrial sector posted its highest
+growth since May 2008.
+
+- The Monetary Board, however, recognized that while recent
+developments suggest a recovery starting in Q4 2009, there are yet
+no clear signs of a strong pick-up in the growth of domestic demand.
+For one, the growth in manufacturing activity could be the result of
+temporary factors such as an “inventory bounce” and stimulative
+government spending. With global recovery still uncertain once
+stimulus measures are withdrawn across countries, keeping policy
+rates steady remains the appropriate stance for as long as the inflation
+outlook allows and until there are clearer signs of a self-sustaining
+growth in domestic demand.
+
+**Page 2 of 8**
+
+
+# 2
+
+settle slightly above the middle of the 4.5 percent + 1.0 percentage
+point target range for 2010 and at the lower half of the 4.0 percent +
+
+
+-----
+
+**III.   Recent Developments**
+
+The Monetary Board considered the following developments:
+
+**A. Domestic price conditions**
+
+  - For 2009, headline inflation averaged 3.2 percent, well within the
+Government’s target range of 2.5-4.5 percent for the year.
+
+  - December 2009 inflation was higher at 4.4 percent compared to 2.8
+percent in November 2009. Inflation pressures in December 2009
+were traced mainly to higher prices of petroleum products. The prices
+of petroleum products increased after the price caps on these items
+were lifted in mid-November 2009. Meat and rice prices were also
+higher in December 2009 as the recent weather disturbances
+continued to impact adversely on the supply of these products.
+
+  - Core inflation, which excludes some food and energy items to
+measure generalized price pressures, was higher in December 2009
+at 3.2 percent from 2.7 percent in November 2009.
+
+  - Seasonally-adjusted month-on-month headline and core inflation in
+December 2009 were unchanged from the previous month’s levels.
+
+**B.  Inflation Expectations**
+
+  - Surveys showed well-contained inflation expectations for 2010 and
+2011.
+
+  - Results of the BSP’s survey of private sector economists for
+December 2009 yielded a within-target but slightly higher inflation
+forecast for 2010. Expected inflation for 2010 increased to 4.8 percent
+from 4.6 percent in the previous month. For 2011, the mean inflation
+forecast was also slightly higher at 4.7 percent from 4.5 percent.
+
+  - Meanwhile, results of the latest Asia Pacific consensus forecasts as of
+January 2010 also showed within-target but slightly higher inflation for
+the Philippines for 2010. Respondents to the survey expect inflation
+for 2010 at 4.8 percent, up from 4.6 percent in December 2009. For
+2011, respondents to the survey expect inflation at 4.7 percent, also
+within the BSP’s target.
+
+**Page 3 of 8**
+
+
+# 2
+
+**III.   Recent Developments**
+
+
+-----
+
+**C. Inflation Outlook**
+
+  - The latest baseline forecasts indicate that inflation would settle slightly
+above the middle of the 4.5 percent + 1.0 percentage point target
+range for 2010 and at the lower half of the 4.0 percent + 1.0
+percentage point target range for 2011.
+
+  - The risks around the central projection for inflation lie mainly on the
+upside, including a stronger-than-expected world economic recovery;
+a possible resurgence in global commodity prices; constraints to
+investments in the oil and agriculture sectors; adverse weather
+conditions; persistence of domestic supply tightness in key agricultural
+sectors; and higher-than-anticipated adjustments in electricity rates.
+
+  - Downside risks to the inflation outlook include a weak economic
+recovery and its likely downward pull on commodity prices, and a
+sustained appreciation of the peso due to the weakening of other
+currencies and the strong inflows of foreign exchange.
+
+**D.  Demand conditions**
+
+  - Latest demand indicators signaled a pick-up in demand activity
+starting Q4 2009. Exports entered positive territory in November after
+13 consecutive months of contraction. Other leading indicators
+mirrored this trend: capacity utilization in the manufacturing sector
+rose to its highest level since November 2008 while energy sales to
+the industrial sector posted its highest growth since May 2008. This
+development could indicate that the manufacturing sector has started
+to recover in Q4 2009. Household and government spending likewise
+accelerated in Q4 2009. As a result, GDP growth accelerated to 1.8
+percent in Q4 from 0.4 percent in the previous quarter.
+
+**E.  Supply-side indicators**
+
+Developments in Agriculture
+
+  - Agriculture, fishery and forestry (AFF) contracted by 2.8 percent in the
+fourth quarter, reflecting the impact of a series of tropical storms that
+damaged crops, livestock, poultry, and fishery. _Palay production_
+declined further by 13.9 percent from negative 2.2 percent in Q4 2008
+and a 1.5 percent growth in the previous quarter.
+
+  - As of 15 January 2010, the country's total rice inventory is sufficient to
+last for 77 days. After tropical storms “Ondoy” and “Pepeng” destroyed
+about 1.3 MMT of paddy rice or an equivalent of 850 TMT of milled
+rice, the NFA has advanced its purchase program for 2010.
+
+**Page 4 of 8**
+
+
+# 2
+
+**C. Inflation Outlook**
+
+
+-----
+
+ - Due to the decline in the rice production in Q4 2009, rice prices
+increased in areas outside Metro Manila (AOMM) in most weeks of
+December 2009 and in the first two weeks of January 2010. Rice
+prices in Metro Manila (MM), however, were steady because of NFA
+intervention.
+
+ - Preliminary data from the Bureau of Agriculture Statistics (BAS)
+showed that the prices of beef products were generally stable in
+December, but a slight increase in prices was noted for pork and
+dressed chicken. This reflected some supply tightness for both
+products with the higher demand during the holiday season.
+Meanwhile, refined sugar prices generally increased, breaching the
+suggested price band in most trading centers, influenced by the trend
+in world prices.
+
+ - In the global market for cereals, Food and Agriculture Organization’s
+(FAO) December 2009 Food Outlook forecasts world cereal
+production in 2009 to be 2.0 percent below the previous year’s global
+high, and is expected to be the second largest crop on record. Most of
+the reduction in output was expected to come from coarse grain and
+rice. The decline in cereal output was largely due to smaller plantings,
+in response to generally lower cereal prices. It was also due to
+adverse weather conditions in a number of major cereal-producing
+countries.
+
+ - In December, international corn and wheat prices declined while rice
+prices increased. The uptrend in rice prices reflected strong import
+demand in the global market after storms destroyed crops in the
+Philippines, widening a shortfall in the world’s biggest buyer, and after
+drought reduced harvests in India.
+
+ - The current El Niño episode has reached moderate strength and will
+likely be prevalent in the first semester of 2010.
+
+Oil Price Developments
+
+ - Spot price of Dubai crude as well as prices in the oil futures market
+recovered in January 2010 on increased demand for heating oil during
+the prolonged winter in the US and Europe as well as positive market
+reaction on reports that China’s demand for oil jumped by 25 percent
+in December 2009.
+
+ - Latest readings for the oil supply-demand balance indicate a moderate
+increase in crude oil prices in the near term. Noting that there is still
+uncertainty on the strength and durability of world economic recovery,
+OPEC members decided to maintain current oil production levels
+during their 22 December 2009 meeting in Angola.
+
+**Page 5 of 8**
+
+
+# 2
+
+           - Due to the decline in the rice production in Q4 2009, rice prices
+increased in areas outside Metro Manila (AOMM) in most weeks of
+
+
+-----
+
+  - As of 25 January, domestic retail prices of unleaded gasoline, diesel,
+and kerosene posted a net increase of P1.62 per liter, P1.00 per liter,
+and P0.49 per liter, respectively.
+
+Developments in the Utilities Sector
+
+  - The ERC approved the increase in Meralco’s distribution charge in
+2010. In particular, the distribution charge for residential customers
+consuming 200 kilowatt-hours (kwh) per month will increase by about
+27.5 percent. However, the total electricity bill is not expected to
+increase by this magnitude as the distribution charge accounts for only
+about 10 percent of total electricity cost.
+
+  - As of end-2009, PSALM had bid out 43.8 percent of the National
+Power Corporation’s (NPC) contracts with independent power
+producers (IPP) in the Luzon and Visayas grids. This means that
+PSALM is moving closer to achieving the last precondition for open
+access and retail competition in the Philippines which is to transfer at
+least 70 percent of NPC’s IPP contracts to the IPP Administrators.
+
+  - Water rates in Metro Manila increased effective Q1 2010 due to the
+annual adjustment of basic rates, which offset the decrease in the
+foreign currency differential component of the water rates. On a
+quarter-on-quarter basis, water rates of Manila Water and Maynilad
+increased by 8.8 percent and 6.9 percent, respectively.
+
+**F. Financial Market Developments**
+
+Government Securities Market
+
+  - Compared to the end of December 2009, movements in the secondary
+market yields and term spreads as of 25 January 2010 were mixed.
+Most short-term yield rates declined, whereas some tenors in the
+middle- and long-end of the yield curve increased. Most investors
+turned cautious about investing long-term, given mixed signals about
+domestic fiscal sustainability. The uncertainty regarding the start of the
+BSP’s tightening cycle also influenced investors’ decisions.
+
+Interest Rate Differentials
+
+  - The differential between the BSP policy rate and the US federal funds
+rate remained steady in December while the risk-adjusted policy
+interest rate differential widened in December 2009 as the risk
+premium declined, thereby encouraging capital inflows.
+
+**Page 6 of 8**
+
+
+# 2
+
+           - As of 25 January, domestic retail prices of unleaded gasoline, diesel,
+and kerosene posted a net increase of P1.62 per liter, P1.00 per liter,
+
+
+-----
+
+Stock Market
+
+  - The Philippine Stock Exchange Index closed 2009 higher by 63.0
+percent compared to the last trading day of December 2008. On the
+first and second trading weeks of 2010, trading activity was strong,
+driven by blue chips stocks. However, on the last week of January, the
+stock index fell due to investors’ negative reaction to reports of the
+Obama administration plans to limit banks’ hedging activities and that
+China will continue to curb lending.
+
+Foreign Exchange
+
+  - For the first half of January 2010, the peso appreciated due to
+massive capital reallocation to emerging market economies and
+Overseas Filipinos’ (OF) remittance inflows. However, since the
+middle of January 2010, there was renewed risk aversion due to the
+worsening fiscal situation in Greece, the perception that China will
+continue to tighten monetary policy, the speculation that the global
+economy’s recovery may be slowing, and worries on the status of the
+US banking system after President Obama unveiled plans to rein in
+trading by banks.
+
+Global Bond and Credit Default Swap Spreads
+
+  - Debt spreads tightened in the first week of December as Dubai World
+began talks to restructure less than half of its debt. The significant
+growth in China’s manufacturing sector likewise provided support for
+the market while higher commodity prices added to optimism that a
+recovery in developing economies will be sustained.
+
+**G. Domestic Liquidity and Credit Conditions**
+
+  - Domestic liquidity continued to grow in November 2009, albeit at a
+slightly slower pace of 12.0 percent year-on-year (y-o-y) compared to
+12.5 percent in October. On a monthly basis, seasonally-adjusted M3
+growth decelerated to 1.1 percent in November from 1.6 percent
+(revised) in the previous month. The expansion in liquidity continued
+to be fueled by the sustained growth in net foreign assets (NFA). This
+can be traced to the steady growth in the NFA positions of both the
+BSP and the banks as the BSP continued to build up its international
+reserves, with strong inflows from OF remittances, while banks settled
+a significant portion of their foreign liabilities.
+
+  - Bank lending, net of banks’ reverse repurchase (RRP) placements
+with the BSP, grew by 6.6 percent year-on-year, faster than the
+previous month’s growth of 4.7 percent. Outstanding loans of
+commercial banks, including RRPs, grew by 2.6 percent, unchanged
+from the growth posted in October 2009. On a month-on-month
+
+**Page 7 of 8**
+
+
+# 2
+
+Stock Market
+
+
+-----
+
+seasonally-adjusted basis, commercial banks’ lending in November
+increased by 0.6 percent for loans inclusive of RRPs, and by 2.0
+percent for loans net of RRPs. Loans for production activities
+expanded year-on-year by 6.7 percent in November, higher than the
+4.2 percent posted in the previous month. Meanwhile, growth in
+consumption loans was broadly unchanged.
+
+  - Total equity raised in the PSE reached P38.8 billion for 2009, higher
+than the previous year’s level at P31.6 billion. The total capital raised
+for the first eleven months of 2009 reached only P10.0 billion relative
+to the P30.5 billion recorded in the comparable period in 2008. Private
+placements in Metro Pacific amounting to P27.7 billion brought the
+total equity raised in 2009 higher than the level reached in 2008.
+
+  - Corporate bond issuances amounted to P411.8 billion for 2009,
+significantly higher than the previous year’s level at P117.4 billion.
+Non-financial corporations accounted for the bulk of the bond issues
+at P335.6 billion, which is 81.5 percent of the total corporate bonds
+issued in 2009.
+
+**H.  Fiscal developments**
+
+  - The January-November 2009 fiscal deficit reached P272.5 billion,
+more than four times higher than the P66.7 billion deficit in the
+comparable period in 2008, exceeding the P250 billion programmed
+deficit for the full year of 2009.
+
+**I.  External developments**
+
+  - Leading indicators in the advanced and emerging economies point to a
+return to growth, combined with very low global inflation rates. The
+global composite Purchasing Managers’ Index (PMI) showed an
+acceleration in end-2009, reaching 53.4 in December from 51.0 in
+November. Nevertheless, uncertainty remains regarding the
+sustainability of future growth beyond the impact of the stimulus
+measures.
+
+**Page 8 of 8**
+
+
+# 2
+
+seasonally-adjusted basis, commercial banks’ lending in November
+increased by 0.6 percent for loans inclusive of RRPs, and by 2.0
+
+
+-----
+

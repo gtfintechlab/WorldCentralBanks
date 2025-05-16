@@ -1,0 +1,121 @@
+# MINUTES OF A MEETING OF THE BOARD OF DIRECTORS OF THE CENTRAL BANK OF COLOMBIA ON MARCH 26, 2010
+ A regular meeting of the Board of Directors of the Central Bank of Colombia was held in the city of Bogotá on March 26, 2010.
+ Present:  Mr. Oscar Iván Zuluaga, Minister of Finance and Public Credit Mr. José Darío Uribe, Governor of the Central Bank of Colombia
+ Full-time Board Members in Attendance: Mr. Carlos Gustavo Cano  Mr. Juan José Echavarría  Mr. Fernando Tenjo Mr. Cesar Vallejo Mr. Juan Pablo Zárate
+ Inflation and the economic situation were discussed with respect to growth and prospects for the future, and monetary-policy decisions were reached. The following is a summary of the main issues addressed during the meeting. 
+ 1.  BACKGROUND
+ a.  Recent Developments in Inflation 
+ Annual consumer inflation in February was 2.09%, which is 1 bp less than in January. Monthly inflation was 0.83% and all annual core inflation indicators were down. 
+ The annual variation in food prices went from -0.5% in January to -0.1% in February, but was less than the figure forecast by the technical team. 
+
+
+-----
+
+# Perishable food prices have increased during the year to date as a consequence of El Niño weather. However, other market-basket components have declined, thanks to (i) lower meat prices as a result of weak internal demand and closure of exports to the Venezuelan market, (ii) moderate adjustments in the price of food outside the home, also due to weak internal demand and the moderate minimum wage hike, and (iii) stability in the price of imported foods.
+ The annual increase in the price of regulated goods and services went from 3.9% in January to 4.2% in February, owing to government authorized increases in gasoline and diesel oil prices. 
+ The annual variation in the price of non-tradables, excluding food and regulated prices, dropped from 4.4% in January to 3.9% in February, consolidating the downward trend witnessed since September of last year. 
+ The annual increase in the price of tradables goods, excluding food and regulated items, declined from 1.2% in January to 1% in February, partly due to cumulative appreciation in the price of the peso in recent months compared to the dollar. 
+ With the preliminary data for March, inflation expectations derived from trading in government bonds at 1, 5 and 10 years declined to 3.87%, 4.71% and 4.46%, with respective reductions of 39 bp, 18 bp and 60 bp.
+ Inflation expectations revealed by the Central Bank’s monthly survey at the beginning of March declined and are within the long-term target range set by the Board of Directors. 
+ The annual variation in the producer price index (PPI) was -0.4% as opposed to 0.5 % last month.
+ b.  Growth
+ DANE released the annual GDP growth figures for the fourth quarter and all of 2009. The Colombian economy grew 0.4% during 2009 as a whole, while annual GDP growth in the fourth quarter came to 2.5%. These results exceed the forecasts developed by the technical team. Compared to GDP in the third quarter, the fourth quarter witnessed an increase of 1.1% (4.7% annualized quarterly). Thus, GDP levels increased during each of the four quarters in
+
+2
+
+
+-----
+
+# 2009, with the only decline in those levels occurring during the fourth quarter of 2008. 
+ On the demand side, GDP growth in 2009 was propelled by investment in civil works and government consumption. Household consumption was a factor as well, but less so. Private consumption experienced only slight annual declines during the first half of 2009, but recovered during the latter half of the year. In fact, during the fourth quarter, it exceeded the maximum level observed in 2008. 
+ Net exports also contributed positively to annual GDP growth during 2009 as a whole, inasmuch as the sharp slump in imports offset the decline in external sales. 
+ Finally, there was a dramatic annual decline in investment apart from civil works. The contraction in spending of this type was associated with less investment in machinery and equipment for the industrial sector. 
+ As for the different branches of the economy, the sectors that contributed the most to annual GDP in all of 2009 and during the fourth quarter as well were civil works, mining and the financial sector. The annual increase in civil works during the second half of the year surpassed 40%. The mining sector was bolstered by petroleum GDP, which grew steadily throughout the year at annual rates invariably above 10%. 
+ Building construction and industry were the sectors that declined the most in 2009. The fourth-quarter figures for building construction have yet to show clear signs of recovery. However, in the case of industrial GDP, a slight recovery in levels was observed during the second half of the year. Transport was another sector that also saw reductions throughout 2009, while commerce experienced only weak annual growth in the fourth quarter of the year. 
+ The economic indicators for January and February 2010, particularly those concerning retail sales and the demand for energy, indicate first-quarter recovery could be faster than expected. Moreover, expectations within the business community (industrialists and merchants) regarding the performance of the economy in the coming months remained relatively high. 
+ The following are some of the relevant indicators:
+
+3
+
+
+-----
+
+# - The annual variation in the industrial production index was 1.6% in January, which is more than was forecast by the technical team. 
+ - The Fedesarrollo business opinion survey shows expectations for industrial activity in the next three months are high. 
+ - According to the Fedesarrollo survey, the positive perception among merchants in January with respect to the economic situation at present and six months out continues to increase. 
+ - The Fenalco indicators, with February data, show a rise in sales for the sector, although they still are at low levels. 
+ - The overall demand for energy (regulated and unregulated, excluding exports) was up 5.6% in February, in annual terms. This is the best it has been since February 2008.
+ - The number of passengers on national flights in January continued to reflect good momentum (with an annual increase of more than 30%), while air cargo shipping recovered compared to December.
+ - The Fedesarrollo Consumer Confidence Index (CCI), with February data, shows an increase in confidence for the second month in a row, although it still is at relatively low levels. 
+ - January saw significant annual growth in retail sales (8.8%), primarily due to motor vehicle sales, which were up at an annual rate of 30.6%. According to information from the Colombian Motor Vehicle Committee, the rate at which those sales rose in February was high as well (10%). 
+ - Imports of capital goods, in constant pesos, continued to register negative growth in January.
+ Total exports in dollars came to US$ 2,913 million in January, with a 15.3% annual increase. This expansion is mainly the result of more sales to the United States (80%) and Asia (112%). In terms of value, the most growth was in mining and agriculture, with respective annual increases of 45.8% and 23.8%. Industrial exports were down 9.1%. Excluding industrial exports of coffee, ferronickel, gold and petroleum by-products, export value in dollars
+
+4
+
+
+-----
+
+# declined 21.6% in annual terms. All the sectors experienced less volume (- 13.7%). 
+ The recovery in total exports during January compared to the same month in 2009 is attributed primarily to exports of crude and petroleum by-products to markets in the United States and Asia. The same month also witnessed a major annual increase (28%) in industrial exports to the United States (excluding coffee, crude oil by-products, gold and ferronickel), mostly because of food and beverage sales. During January, exports to Venezuela plunged 77% in annual terms, with industrial and agricultural products suffering the largest reductions (-68% and (-100%, respectively). 
+ Imports (CIF) in January 2009 amounted to US$ 2,697 m, having fallen 3.1% in annual terms as a result of fewer imports of capital goods (-17.8% annual). However, in terms of volume, imports rose at an annual rate of 24.6% due to higher volumes of intermediate goods (39.1%). 
+ During the moving quarter ended in January, the unemployment rate (UR) was 12.3% nationwide and 13.2% in 13 areas. When seasonally adjusted, the unemployment rate declined slightly in both domains compared to December 2009, suggesting it has ceased to deteriorate for the first time since the end of 2007.
+ c.  The External Context 
+ The information at hand shows the U.S. economy grew 5.9% during the fourth quarter (annualized quarterly) and continued to expand at the start of 2010. Industrial production and retail sales in the United States continued to grow during January and February, as did consumer lending, which rebounded in January after 20 months of steady decline. In contrast, growth in the European countries appears to be at a standstill. 
+ The Venezuelan economy contracted 5.8% during the fourth quarter and 3.3% during the year as a whole. As for 2010, analysts anticipate negative growth (- 0.4%), which - together with the trade restrictions - would keep sales of Colombian products to Venezuela at exceptionally low levels. 
+ Growth in the developed and emerging economies, and particularly the accelerated economic growth in China and India, continues to keep
+
+5
+
+
+-----
+
+# commodity prices relatively high. If this momentum in world demand carries on as expected, prices would remain at current levels. The economic indicators for Brazil, Chile and Peru show an upward trend during the fourth quarter of last year and so far in 2010. 
+ In this environment, total inflation in most of the developed economies has increased due to the effect of energy resources. However, this does not seem to be the result of a long-term trend, inasmuch as core inflation remains low (except in the United Kingdom), and even has declined. 
+ The markets are still nervous about Europe’s sovereign debt, particular in the case of Portugal and Greece, which is why the euro continued to weaken against the dollar. Government debt problems in Europe have had a relatively mild impact on the emerging economies, including Latin America. Although there was a bit of an increase in the region’s risk premiums during February, this expansion reversed itself during the course of March. Latin American currencies appreciated against the dollar, with the exception of the Chilean peso.
+ d.  Financial Variables 
+ During the last two months, the annual variations in liabilities subject to reserve requirements (LSR) and M3 have remained relatively stable. In the course of the last 13 weeks, the annual increase in these aggregates was 7.8% and 7.4%, respectively. For February 2010, the real growth in M3 came to 4.2%, which is similar to the rate posted in January of this year. 
+ Overall lending in domestic currency was up at a nominal annual rate of 6.0% by the beginning of March, which is somewhat higher than it was the month before (5.5%). Although the consumer loan portfolio continues to grow slightly (nominal 3.4% at the start of March), it did surge compared to the increase registered the month before (2.3%), owing to a build-up in disbursements (26.1% annual). The increase in the amount outstanding in the adjusted mortgage portfolio is much greater (16.7%) and disbursements were up by 54%. The commercial loan portfolio grew 4.7% as opposed to 4.5% the month before.
+ When including commercial lending and bond placement (COP$445 billion), the amount outstanding at February comes to COP$100.7 t. This implies an
+
+6
+
+
+-----
+
+# increase of 1.3% for the year to date and an annual increase of 8.2%. COP $234 b in bonds were placed during March. 
+ The interbank rates (IBR and BRI) in early March continued to move towards the policy rate. As of March 16, they were 5 bp below this indicator, on average. The monthly data at February show a moderate decline in nominal lending rates with respect to January, while nominal deposit rates remained stable. In real terms, all average interest rates increased during February, with the exception of those on treasury and consumer loans. 
+ Medium and long-term government bonds valuated -22bp and -36 bp, respectively, during the four- week period ended March 16. 
+ 2. DISCUSSION AND POLICY OPTIONS 
+ The following points were emphasized by the Board of Directors during its deliberations: 
+ i The February figure for inflation, which was less than the rate forecast by the Central Bank’s technical team and by the market concerning many of the sub-baskets in the consumer price index  ii The drop in core inflation indicators, following the increase in January  iii The temporary effect El Niño weather might have on price hikes  iv The outcome for growth in 2009 as a whole and during the final quarter, which exceeded the technical team’s forecast  v Available indicators of economic activity in January and February 2010, particularly those concerning retail sales and the demand for energy, which suggest faster first-quarter recovery than anticipated  vi The expectations of industrialists and merchants with respect to economic performance in the coming months, which remain high vii The increase in monetary aggregates at rates between 7% and 8% viii The peso loan portfolio in the financial system, which continues to grow more than nominal GDP ix The performance of market interest rates in response to the decline in the Central Bank’s benchmark rate x The impact of the exchange rate on inflation and on output growth in the tradable sectors xi Interest rates on government bonds, which dropped in the case of medium and long-term bonds.
+
+7
+
+
+-----
+
+# The main points analyzed by the members of the Board centered on: (i) the elements that affect inflation forecasts for 2010, particularly an eventual temporary surge in food and regulated prices due to El Niño weather; (ii) the lag between monetary policy measures and their impact on production and prices; (iii) the economic growth forecasts for 2010, which suggest that recovery will be quicker than anticipated; (iv) the poor performance of exports to Venezuela compared to those in 2009; (v) the performance of monetary aggregates and its possible impact on economic recovery; (vi) the recent momentum in the financial system’s loan portfolio; (vii) the drop in inflation expectations; (viii) the risk balance between growth and inflation in the context of an economy that continues to exhibit weak growth and a level of inflation that is within the long-term range set by the Board of Directors; and (ix) the need to bolster the monetary authority’s credibility and to anchor inflation expectations around the long-term target. 
+
+ The Board of Directors emphasized the following with respect to the performance of inflation during the month: (i) annual consumer inflation in February was 2.09%, which is 1 basis point less than in January and better than was forecast by the market and the Central Bank’s technical studies; (ii) core inflation indicators declined, moving into the target range set by the Board of Directors (between 2% and 4%); and (iii) the Central Bank’s inflation forecasts include some temporary food-price hikes brought on by El Niño weather, which are expected to reverse during the second half of the year. 
+
+ The economy in the United States, which is Colombia’s main trading partner, has seen an increase in industrial production and retail sales so far this year, while China and India continue to experience accelerated growth, which has allowed for high commodity prices. Growth in the Latin American countries is recovering.
+ DANE reported 0.4% annual GDP growth in 2009 and 2.5% annual GDP growth during the fourth quarter of that year. These results prove the Colombian economy is sufficiently sound to withstand external shocks.
+ The indicators on hand with respect to economic activity during the year to date, particularly in terms of retail sales and the demand for energy, also point to added momentum in the economy. This is corroborated by expectations
+
+8
+
+
+-----
+
+# within the business community, which are still relatively high. All these factors indicate the Colombian economy is definitely on the road to recovery. 
+ The Board of Directors believes the Central Bank’s expansive monetary policy has allowed for a steady decline in interest rates on deposits and lending. It also is of the opinion that the benchmark rate, as it now stands, continues to stimulate economic growth in an environment characterized by a healthy financial system. Therefore, it agreed to maintain the Central Bank’s intervention rate at its current levels.
+ 3.  POLICY DECISION 
+ The Board of Directors decided to hold the Central Bank’s intervention rate steady at 3.5%. 
+ Bogotá, Colombia April 9, 2010
+
+9
+
+
+-----
+

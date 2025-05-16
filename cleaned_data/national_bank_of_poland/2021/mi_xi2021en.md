@@ -1,0 +1,213 @@
+# Minutes of the Monetary Policy Council decision making meeting held
+
+ on 3 November 2021
+
+At the Council meeting, it was observed that the recovery in global economic activity was
+
+continuing. It was emphasised that owing to further activity growth, many economies had
+
+already made up for the pandemic-induced losses. It was observed that preliminary GDP
+
+data for 2021 Q3 pointed to continued favourable economic conditions in the United States
+
+as well as the euro area, where economic growth was markedly above the forecasts. It was
+
+stressed that the economic situation in the euro area remained good despite the adverse
+
+effect of supply-side disruptions on the economic climate in industry, and was supported
+
+by the substantial activity rebound in the service sector. It was underlined that current
+
+forecasts pointed to further global activity growth in 2022. At the same time, the risk of
+
+global GDP growth below the current forecasts was deemed to prevail. In this context, it
+
+was pointed out that the difficult epidemiological situation persisting in many countries,
+
+along with the supply constraints in some markets and a sharp rise in commodity prices,
+
+were having a downward effect on activity in some economies. The slowdown in GDP
+
+growth in China in 2021 Q3, driven by pandemic disruptions and the economic policy
+
+pursued by Chinese authorities, was also highlighted.
+
+It was observed that commodity prices in the global markets continued to be substantially
+
+higher than a year ago. It was indicated that gas prices, despite a recent correction, were
+
+still several times higher than in the autumn of 2020. Oil and coal also continued to be
+
+more expensive. Certain Council members were of the opinion that the rise in energy
+
+commodity prices was driven by both demand factors – such as the ongoing recovery in
+
+the global economy after the pandemic crisis – and supply constraints due to the oil
+
+production policy of OPEC+ and Russia’s gas export policy. It was observed that another
+
+factor boosting energy prices in Europe was the sharp rise in the prices of CO2 emission
+
+allowances. Food price growth, driven up by rising global prices of some agricultural
+
+commodities, was also highlighted.
+
+It was emphasised that these factors, together with disruptions in global supply chains
+
+and a steep rise in international transport costs, were contributing to a substantial rise in
+
+inflation in many countries. It was pointed out that price growth in many countries,
+
+including the United States and the euro area, was well above the central banks’ inflation
+
+targets, running at highest levels in decades. It was also observed that according to
+
+forecasts, global price growth would also remain elevated in 2022, a development which
+
+in the summer 2021 had not yet been anticipated.
+
+1/3
+
+
+-----
+
+It was emphasised that despite rising inflation, major central banks were keeping interest
+
+rates low and were conducting asset purchases. At the same time, given the growing risk
+
+of higher inflation lasting longer than previously forecast, some of those banks were
+
+signalling a reduction in the scale of monetary accommodation. In particular, the Federal
+
+Reserve was hinting at embarking on a gradual reduction in the scale of net asset
+
+purchases later this year. At the same time, it was underscored that central banks in
+
+Central and Eastern Europe, as well as in some advanced economies, were already raising
+
+interest rates.
+
+While analysing the situation in the Polish economy, Council members drew attention to
+
+the ongoing economic recovery. Incoming data and estimates suggest that the relatively
+
+rapid economic growth, exceeding 5%, had continued in 2021 Q3. GDP growth was
+
+supported by robust consumer demand, benefiting from a favourable situation in the
+
+labour market, which was reflected in a decline in unemployment and a substantial rise in
+
+average wages. Favourable situation also continued in the industry, despite the negative
+
+impact of limited supply of some intermediate goods on activity in some branches.
+
+It was judged that the favourable economic situation would probably continue also in the
+
+coming quarters. It was observed that the findings of the November NBP projection also
+
+suggested such a scenario. At the same time, it was indicated that the main factors of
+
+uncertainty about the economic outlook were factors likely to have a negative impact on
+
+economic activity, including the effects of the pandemic, as well as the impact of supply
+
+constraints and high prices of energy commodities on the global economic climate.
+
+At the meeting it was pointed out that according to the Statistics Poland flash estimate,
+
+inflation in Poland had risen to 6.8% y/y in October 2021, and stood at 1.0% in monthly
+
+terms. The majority of Council members underlined that heightened inflation was still
+
+mainly the result of the impact of external factors beyond the influence of domestic
+
+monetary policy, including much higher global prices of energy and agricultural
+
+commodities than a year earlier, previous hikes in electricity prices and waste disposal
+
+charges, as well as global transport and supply chain disruptions. At the same time, these
+
+Council members judged that the ongoing economic recovery, including demand
+
+stimulated by rising household income, had also added to the price growth. Certain
+
+Council members pointed out that this was reflected in an elevated level of core inflation.
+
+These Council members also drew attention to the higher level of inflation expectations
+
+than in previous years, in particular, the expectations of enterprises. They also underlined
+
+the importance of the exchange rate channel in the monetary transmission mechanism.
+
+2/3
+
+
+-----
+
+When analysing the inflation outlook, the Council members pointed out that the
+
+significant increase in global commodity prices observed in 2021 and the prolonged global
+
+supply disruptions had caused a significant increase in inflation forecasts for the coming
+
+quarters both globally and in Poland. The Council members judged that with the expected
+
+further recovery in domestic economic activity and the favourable labour market
+
+situation, this would create a risk of elevated inflation becoming entrenched over the
+
+monetary policy horizon. Such a risk was also indicated by the results of NBP’s November
+
+projection, according to which, without a further adjustment of monetary policy, price
+
+growth could run above the NBP inflation target even after the fading of the impact of
+
+current pandemic-commodity shock. Certain Council members expressed the opinion that
+
+the risk of elevated price growth becoming entrenched might also be increased by the
+
+weakening of structural factors, such as globalisation and changes in retail market
+
+structure, which in previous years had reduced price growth in Poland.
+
+When referring to the situation in the credit market, certain Council members underlined
+
+that the rise in the value of corporate and consumer loans remained limited. However,
+
+other Council members pointed to the high growth in mortgage loans.
+
+The Council members recognised that, in order to lower inflation to the NBP target in the
+
+medium term, NBP interest rates should be raised. Therefore, the Council decided to raise
+
+the reference rate by 0.75 percentage points, i.e. to 1.25% and to set the remaining NBP
+
+interest rates at the following levels: the lombard rate at 1.75%, the deposit rate at 0.75%,
+
+the rediscount rate at 1.30%, and the discount rate at 1.35%.
+
+The Council members pointed out that, due to the external causes of the elevated inflation,
+
+including growth in fuel prices, and the further forecasted increases in electricity prices–
+
+in the near future inflation would continue to significantly exceed the inflation target. At
+
+the same time, they emphasised that the interest rate increases in October and November
+
+would reduce the risk of elevated inflation becoming entrenched in the medium term and
+
+would have a limiting impact on inflation expectations. The Council members stated that
+
+further monetary policy decisions would depend on the assessment of incoming
+
+information on the economic situation, including the outlook for inflation and for
+
+economic activity.
+
+Publication date: 10 December 2021
+
+3/3
+
+
+-----
+

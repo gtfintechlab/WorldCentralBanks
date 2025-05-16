@@ -1,0 +1,50 @@
+# Central Bank of Egypt
+
+**Press Release**
+**July 21, 2011**
+
+**_In its meeting held on July 21, 2011, the Monetary Policy Committee (MPC) decided to_**
+**_keep the overnight deposit rate and overnight lending rate unchanged at 8.25 percent_**
+**_and 9.75 percent, respec�vely, and the 7-day repo at 9.25 percent. The discount rate_**
+**_was also kept unchanged at 8.5 percent._**
+
+Headline CPI increased by 0.42 percent (m/m) in June following the 0.20 percent in May,
+keeping the annual rate almost unchanged at 11.79 percent. On the other hand, core
+CPI increased by 0.45 percent in June following the 0.54 percent in May, while the
+annual rate inched up to 8.94 percent from 8.81 percent recorded the previous month.
+The latest monthly developments in both headline and core have been mainly driven by
+sporadic increases in the prices of food items, largely on the back of supply bottlenecks
+and distortions in the distribution channels. The continuation of these market
+imperfections, in addition, to an unanticipated rebound in international food prices pose
+upside risks to the inflation outlook.
+
+Meanwhile, real GDP contracted by 4.2 percent in 2010/2011 Q3 which marks the first
+negative year-on-year growth rate since the release of quarterly GDP data in 2001/2002.
+It is important to note that while a marked decline in economic activity was expected,
+the magnitude is larger than anticipated at the outset of the revolution. This came on
+the back of significant declines in the tourism, manufacturing and construction sectors.
+In the meantime, given the increased uncertainty that faced market participants early
+this year, investment witnessed a significant annual retrenchment of 26 percent in the
+quarter ending March 2011. Looking ahead, the current political transformation may
+continue to have ramifications on both consumption as well as investment decisions,
+adversely weighing on key sectors within the economy. Moreover, there are concerns
+related to the global recovery on the back of renewed worries regarding fiscal
+challenges facing the Euro Area. These factors, combined, pose downside risks to
+domestic GDP going forward.
+
+Against the above background, the slowdown in economic growth should limit upside
+risks to the inflation outlook. Given the balance of risks on the inflation and GDP
+outlooks and the increased uncertainty at this juncture, the MPC judges that the current
+key CBE rates are appropriate.
+
+The MPC will continue to closely monitor all economic developments and will not
+hesitate to adjust the key CBE rates to ensure price stability over the medium-term.
+
+Dr. Rania Al-Mashat
+Assistant Sub Governor, Monetary Policy Unit
+Telephone number: 27701315
+E-mail address: monetary.policy@cbe.org.eg
+
+
+-----
+

@@ -1,0 +1,963 @@
+# Monetary Policy Summary and minutes of the Monetary
+
+ Policy Committee meeting ending on 3 August 2016
+
+## Publication date: 4 August 2016
+
+These are the minutes of the Monetary Policy Committee meeting ending on 3 August 2016.
+
+They are available at http://www.bankofengland.co.uk/publications/Pages/news/2016/008.aspx
+
+The Bank of England Act 1998 gives the Bank of England operational responsibility for setting monetary policy
+
+to meet the Government’s inflation target. Operational decisions are taken by the Bank’s Monetary Policy
+
+Committee. The minutes of the Committee meeting ending on 14 September will be published on 15
+
+September 2016.
+
+
+-----
+
+### Monetary Policy Summary, August 2016
+
+The Bank of England’s Monetary Policy Committee (MPC) sets monetary policy to meet the 2% inflation target,
+
+and in a way that helps to sustain growth and employment. At its meeting ending 3 August 2016, the MPC
+
+voted for a package of measures designed to provide additional support to growth and to achieve a sustainable
+
+return of inflation to the target. This package comprises: a 25 basis point cut in Bank Rate to 0.25%; a new
+
+Term Funding Scheme to reinforce the pass-through of the cut in Bank Rate; the purchase of up to £10 billion of
+
+UK corporate bonds; and an expansion of the asset purchase scheme for UK government bonds of £60 billion,
+
+taking the total stock of these asset purchases to £435 billion. The last three elements will be financed by the
+
+issuance of central bank reserves.
+
+Following the United Kingdom’s vote to leave the European Union, the exchange rate has fallen and the outlook
+
+for growth in the short to medium term has weakened markedly. The fall in sterling is likely to push up on CPI
+
+inflation in the near term, hastening its return to the 2% target and probably causing it to rise above the target in
+
+the latter part of the MPC’s forecast period, before the exchange rate effect dissipates thereafter. In the real
+
+economy, although the weaker medium-term outlook for activity largely reflects a downward revision to the
+
+economy’s supply capacity, near-term weakness in demand is likely to open up a margin of spare capacity,
+
+including an eventual rise in unemployment. Consistent with this, recent surveys of business activity,
+
+confidence and optimism suggest that the United Kingdom is likely to see little growth in GDP in the second half
+
+of this year.
+
+These developments present a trade-off for the MPC between delivering inflation at the target and stabilising
+
+activity around potential. The MPC’s remit requires it to explain how it has balanced that trade-off. Given the
+
+extent of the likely weakness in demand relative to supply, the MPC judges it appropriate to provide additional
+
+stimulus to the economy, thereby reducing the amount of spare capacity at the cost of a temporary period of
+
+above-target inflation. Not only will such action help to eliminate the degree of spare capacity over time, but
+
+because a persistent shortfall in aggregate demand would pull down on inflation in the medium term, it should
+
+also ensure that inflation does not fall back below the target beyond the forecast horizon. Thus, in tolerating a
+
+temporary period of above-target inflation, the Committee expects the eventual return of inflation to the target to
+
+be more sustainable.
+
+The MPC’s choice of instruments is based on a consideration of their likely impact on the real economy and
+
+inflation. The MPC has examined closely the interaction between monetary policy and the financial sector, both
+
+with regard to ensuring the effective transmission of monetary policy to households and businesses, and with
+
+consideration for the financial stability consequences of its policy actions.
+
+The cut in Bank Rate will lower borrowing costs for households and businesses. However, as interest rates are
+
+close to zero, it is likely to be difficult for some banks and building societies to reduce deposit rates much
+
+further, which in turn might limit their ability to cut their lending rates. In order to mitigate this, the MPC is
+
+launching a Term Funding Scheme (TFS) that will provide funding for banks at interest rates close to Bank
+
+Rate. This monetary policy action should help reinforce the transmission of the reduction in Bank Rate to the
+
+real economy to ensure that households and firms benefit from the MPC’s actions. In addition, the TFS
+
+
+-----
+
+provides participants with a cost effective source of funding to support additional lending to the real economy,
+
+providing insurance against the risk that conditions tighten in bank funding markets.
+
+The expansion of the Bank of England’s asset purchase programme for UK government bonds will impart
+
+monetary stimulus by lowering the yields on securities that are used to determine the cost of borrowing for
+
+households and businesses. It is also likely to trigger portfolio rebalancing into riskier assets by current holders
+
+of government bonds, further enhancing the supply of credit to the broader economy.
+
+Purchases of corporate bonds could provide somewhat more stimulus than the same amount of gilt purchases.
+
+In particular, given that corporate bonds are higher-yielding instruments than government bonds, investors
+
+selling corporate debt to the Bank could be more likely to invest the money received in other corporate assets
+
+than those selling gilts. In addition, by increasing demand in secondary markets, purchases by the Bank could
+
+reduce liquidity premia; and such purchases could stimulate issuance in sterling corporate bond markets.
+
+As set out in the August Inflation Report, conditional on this package of measures, the MPC expects that by the
+
+three-year forecast horizon unemployment will have begun to fall back and that much of the economy’s spare
+
+capacity will have been re-absorbed, while inflation will be a little above the 2% target. In those projections the
+
+cumulative growth in output is still around 2½% less at the end of the forecast period than in the MPC’s May
+
+projections. Much of this reflects a downward revision to potential supply that monetary policy cannot offset.
+
+However, monetary policy can provide support as the economy adjusts. Had it not taken the action announced
+
+today, the MPC judges it likely that output would be lower, unemployment higher and slack greater throughout
+
+the forecast period, jeopardising a sustainable return of inflation to the target.
+
+This package contains a number of mutually reinforcing elements, all of which have scope for further action.
+
+The MPC can act further along each of the dimensions of the package by lowering Bank Rate, by expanding the
+
+TFS to reinforce further the monetary transmission mechanism, and by expanding the scale or variety of asset
+
+purchases. If the incoming data prove broadly consistent with the August Inflation Report forecast, a majority of
+
+members expect to support a further cut in Bank Rate to its effective lower bound at one of the MPC’s
+
+forthcoming meetings during the course of the year. The MPC currently judges this bound to be close to, but a
+
+little above, zero.
+
+All members of the Committee agreed that policy stimulus was warranted at this time, and that Bank Rate
+
+should be reduced to 0.25% and be supported by a TFS. Eight members supported the introduction of a
+
+corporate bond scheme, and six members supported further purchases of UK government bonds.
+
+These measures have been taken against a backdrop of other supportive actions taken by the Bank of England
+
+recently. The FPC has reduced the countercyclical capital buffer to support the provision of credit and has
+
+announced that it will exclude central bank reserves from the exposure measure in the current UK leverage ratio
+
+framework. This latter measure will enhance the effectiveness of the TFS and asset purchases by minimising
+
+the potential countervailing effects of regulatory requirements on monetary policy operations. The Bank has
+
+previously announced that it will continue to offer indexed long-term repo operations on a weekly basis until the
+
+end of September 2016 as a precautionary step to provide additional flexibility in the Bank’s provision of liquidity
+
+insurance. The PRA will also smooth the transition to Solvency II for insurers.
+
+
+-----
+
+### Minutes of the Monetary Policy Committee meeting ending on 3 August 2016
+
+1 Before turning to its immediate policy decision, and against the backdrop of its latest projections for output
+
+and inflation, the Committee discussed financial market developments; the international economy; money,
+
+credit, demand and output; and supply, costs and prices.
+
+**Financial markets**
+
+2 Global financial market sentiment had improved since the Committee’s previous meeting. Even so, both
+
+sterling and the prices of UK-focused risky assets had remained significantly below their pre-referendum levels.
+
+This was consistent with the United Kingdom’s vote to leave the European Union being seen by financial market
+
+participants primarily as a domestic shock, with relatively limited international spillovers. The Committee
+
+discussed the factors behind the general improvement in risk sentiment before turning to market expectations
+
+for domestic policy action.
+
+3 Global equity prices had been broadly unchanged on the month and investment grade corporate bond
+
+spreads had generally declined. Measures of financial market volatility had also declined: the VIX had fallen
+
+back close to its lowest level since the start of the year, and option-implied volatilities through to the end of the
+
+year for the FTSE 100 and the major US and euro-area equity indices had decreased, to below their historical
+
+averages.
+
+4 These moves had been supported by expectations of looser global monetary policy. In the euro area,
+
+market participants expected the ECB’s asset purchase programme to be expanded further by September. In
+
+the US, although short rates had retraced some of their post-referendum decline, the market-implied path of
+
+policy rates remained very flat, and below the published expectations of FOMC members. The FOMC had left
+
+rates unchanged at its latest policy meeting, with the next rate increase not priced into financial markets until Q4
+
+2018. The Bank of Japan had announced more stimulus, increasing the size of its exchange-traded fund
+
+purchases and doubling the size of its US dollar lending facility.
+
+5 In contrast to the global picture, UK-focused asset prices had continued to imply a weaker outlook for the
+
+domestic economy than had been the case prior to the referendum. The sterling trade-weighted effective
+
+exchange rate was around 10% lower than the conditioning assumption in the May Inflation Report. UK
+focused equity prices within the FTSE All-Share Index, including for UK banks, had stabilised on the month, but
+
+had remained below their pre-referendum levels. Although sterling high-yield corporate bond spreads had fallen
+
+on the month, they remained higher than their pre-referendum levels, in contrast to comparable international
+
+indices.
+
+6 Consistent with a weaker outlook for the UK economy, and given the guidance in the MPC’s July Minutes,
+
+market contacts expected some easing in monetary policy at the August meeting. Meeting-to-meeting OIS
+
+swaps showed that a 25 basis point Bank Rate cut had been priced in for August, with a further 10 basis point
+
+cut expected later in the year. This was consistent with the latest Reuters poll, in which 42 of the 50
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 3 August 2016** 1
+
+
+-----
+
+respondents expected a 25 basis point cut in Bank Rate in August. The same poll had also reported that 50%
+
+of respondents who had expressed a view expected the MPC’s asset purchase programme to be expanded this
+
+month. More broadly, there had been discussions among market contacts about the potential for a wider range
+
+of measures to be launched, including in some case the possibility of corporate bond and bank funding
+
+schemes. There had generally been much less of a consensus view around the use of these tools among
+
+contacts.
+
+7 The asset price movements observed following the referendum suggested that market participants viewed
+
+the effects as likely to be contained locally. There was also evidence that investors placed some weight on
+
+eventual changes to UK trading arrangements being minimal. For example, in a recent poll of international fund
+
+managers, over half of those surveyed had said they expected the United Kingdom to retain access to the EU
+
+Single Market. The precise parameters of the United Kingdom’s future relationship with the European Union
+
+remained highly uncertain, and it seemed likely that asset prices would remain sensitive to perceived
+
+developments in this outlook in the months ahead.
+
+**The international economy**
+
+8 The Committee discussed how its assessment of the global spillovers from the referendum result had
+
+evolved over the month. Prior to the referendum, the MPC had identified three main channels through which
+
+existing vulnerabilities in the global economy could be affected: first, through the effect of sharp moves in
+
+financial market prices, including exchange rates; second, by the crystallisation of financial stability risks; and
+
+third, by the emergence of widespread risk aversion. Adverse reactions had not occurred to a significant extent:
+
+financial market sentiment had improved and there was little evidence of the financial stability and risk channels
+
+at work, partly reflecting the significant steps taken by regulators in recent years to enhance the resilience of the
+
+financial system. It therefore appeared that, although further shifts in sentiment could not be ruled out, some of
+
+the major downside economic risks to the global economy had abated.
+
+9 There was little evidence, so far, in timely economic and financial indicators of any sizeable adverse
+
+economic impact of the referendum result on the global economy. In the euro area, consumer confidence
+
+indicators had fallen a little in July, while the composite PMI output indicator had been little changed. The
+
+forward-looking element of the PMI survey had shown a sharper deterioration in expectations, but was
+
+nevertheless consistent with modest growth in Q3. The ECB Bank Lending Survey indicated that credit
+
+conditions had continued to improve across the euro area and were expected to ease further.  Elsewhere,
+
+portfolio flows to emerging market economies had strengthened further following the referendum result,
+
+suggesting little contagion. In the United States, the first estimate of GDP growth in 2016 Q2 had been weaker
+
+than the consensus expectation, although a significant proportion reflected weaker stockbuilding. Consumption
+
+growth had picked up and continued labour market normalisation was expected to support strengthening
+
+domestic demand. As a consequence, the global growth outlook incorporated in the August Inflation Report
+
+projection was only a little weaker than in May, driven by slighter weaker euro area activity.  This revised
+
+outlook was consistent with the IMF’s July 2016 World Economic Outlook, which pointed to global growth of
+
+3.1% in 2016 and 3.4% in 2017 as a central case.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 3 August 2016** 2
+
+
+-----
+
+10 Nevertheless, there was considerable uncertainty about the global outlook and a number of areas of
+
+fragility remained. Sharp falls in the equity prices of some European banks since the referendum had
+
+highlighted vulnerabilities in the system. The results of the European Banking Association stress tests had
+
+reinforced perceptions of the location of vulnerabilities, with a particular focus on Italian banks, reflecting their
+
+high level of non-performing loans and lower capital ratios than the European average. Outside Europe,
+
+financial risk remained significant in China, where economic expansion had been associated with an increase in
+
+the growth of credit from already rapid rates, and in EMEs where a material proportion of debt was denominated
+
+in foreign currency. These and other factors had the potential to weaken the economic outlook, raise political
+
+risks and reignite concerns about debt sustainability.
+
+**Money, credit, demand and output**
+
+11 UK GDP had been estimated to have grown by 0.6% in 2016 Q2, stronger than the 0.4% growth
+
+registered in Q1 and 0.3 percentage points higher than had been incorporated in the May Inflation Report
+
+projections. Of particular note had been the contribution of industrial production, which had grown by 2.1% on
+
+the quarter, and particularly sharply in April. Construction output had fallen slightly for the second quarter in
+
+succession.
+
+12 The United Kingdom’s vote to leave the European Union had led to a pronounced shift in the outlook for
+
+activity, and the Committee considered what the recent indicators implied about near-term growth prospects.
+
+Official activity data pertaining to Q3 had not yet become available. Business surveys conducted after the
+
+referendum had generally suggested that activity had slowed sharply. The Markit/CIPS PMIs for services,
+
+manufacturing and construction for July had all been consistent with falling output. Services output and
+
+expectations indices had seen their sharpest falls since the survey began in 1996, taking both to their lowest
+
+levels since 2009. However, although a composite output indicator derived from these surveys had historically
+
+been a relatively reliable early indicator of GDP growth, in advance of official data, there had been occasions
+
+when it had over-reacted to specific events. In that light, it was noteworthy that the Lloyds measure of business
+
+confidence had improved markedly in July after a sharp fall immediately after the referendum, and the CBI
+
+Quarterly Industrial Trends Survey had indicated that manufacturing output had held up in the three months to
+
+July. Although expectations of output growth over the next three months measured by the CBI survey had
+
+declined, this had been only to around their historical averages. That said, the same survey had reported that
+
+investment intentions had fallen, and there had been the largest decline in business optimism since 1974.
+
+Moreover, the CBI composite activity indicator for July, which included the service sector, had reported a sharp
+
+fall in the balance relating to expected output over the next three months. The latest survey by the RICS had
+
+reported a further, and pronounced, weakening in commercial real estate investment enquiries, in line with other
+
+market intelligence provided to the Committee. Overall, indicators pointed to a material slowing in GDP growth
+
+in Q3.
+
+13 The Bank’s macroeconomic uncertainty indicator had risen further in July, to around two standard
+
+deviations above its historical average. The primary driver had been an increase in the dispersion of external
+
+economists’ growth forecasts, while media citations of uncertainty and option-implied exchange rate volatility,
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 3 August 2016** 3
+
+
+-----
+
+which had driven much of the pre-referendum rise in measured uncertainty, had both declined slightly. It was
+
+possible that there might be some abatement in near-term uncertainty following the formation of a new
+
+government. However, intelligence from the Bank’s Agents had indicated that many businesses had yet to
+
+make strategic decisions about their future plans in light of the vote to leave the European Union.
+
+14 Consumer indicators and other market intelligence provided to the Committee had generally suggested
+
+that household demand had held up more firmly than overall economic activity. The GfK/EC consumer
+
+confidence balance for July had shown a material fall, but only back to a level close to its long-run average, and
+
+other consumer confidence indicators had displayed similar moves. The Bank’s Agents’ scores for consumer
+
+services turnover had also been relatively upbeat. By contrast, the CBI Distributive Trades Survey had reported
+
+a marked drop in sales in July and in expected sales in August. It was possible that any detrimental effect on
+
+households of the weaker activity outlook would emerge only when it became evident in employment and pay.
+
+15 In sum, the recent indicators had painted a picture of relative firmness in consumer demand but with some
+
+early warning signs of weakness, and possibly contraction, in certain business sectors. This was not atypical of
+
+the early stages of a slowdown, with weakness in investment foreshadowing weakness in household incomes
+
+and spending. Taking all of the evidence together, and recognising that the uncertainty surrounding any such
+
+assessment was greater than usual, the Committee’s central expectation was that the United Kingdom was
+
+likely to see little growth in GDP during the second half of the year. This would mark a pronounced slowdown
+
+from the annualised growth of around 2% that had been seen in the first half of 2016.
+
+**Supply, costs and prices**
+
+16 Twelve-month CPI inflation had risen by 0.2 percentage points to 0.5% in June, with the increase driven
+
+by fuel and recreational goods prices. Core inflation – the inflation rate of CPI excluding energy, food and
+
+tobacco – had also risen by 0.2 percentage points, to 1.4%. These increases were in line with expectations
+
+made at the time of the May Inflation Report. At that time, CPI inflation had been expected to pick up gradually
+
+over the remainder of 2016 as core inflation remained steady and the drags from past declines in energy, food
+
+and some other goods’ prices began to fade.
+
+17 The near-term outlook for CPI inflation had changed markedly on account of the depreciation of sterling
+
+that had followed the referendum. The fall in the currency was likely to lead to a fairly rapid pick up in CPI
+
+inflation over the remainder of 2016, as additional import price pressure supplemented the increase in inflation
+
+that had already been expected. CPI inflation was now expected to rise to around its 2% target in the first half
+
+of 2017.
+
+18 Domestic labour cost pressures had been subdued in the first half of the year, despite the fall in the
+
+headline rate of unemployment to 4.9% in the three months to May. Whole economy regular pay growth, which
+
+had been picking up, had been slightly weaker than expected at 2.2% in the three months to May, compared to
+
+the same three months a year earlier. On a national accounts basis, whole economy unit labour costs had risen
+
+by 1.5% in the year to Q1, partly driven by a pickup in non-wage costs which tended to be volatile from quarter
+
+to quarter. Recent pay and estimated productivity trends had been consistent with annual growth in unit wage
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 3 August 2016** 4
+
+
+-----
+
+costs of around only 0.2% in Q2. A range of measures of domestically generated inflation had also remained
+
+contained.
+
+19 The Committee discussed some of the near-term risks to the outlook for pay growth and the extent to
+
+which it would be influenced by a more rapid pickup in CPI inflation than had previously been expected. The
+
+central case set out in the Inflation Report was that wage growth would pick up gradually in the near term before
+
+softening in 2017, given increased slack in the labour market. An upside risk to that outlook was that
+
+employees might seek greater pay rises to maintain growth in their purchasing power as inflation rose. Other
+
+upside risks to the wage outlook were the effects of the National Living Wage, which had been introduced in
+
+April, and the possibility that employers would more readily concede higher wage claims because of concerns
+
+about losing migrant workers that might not be easy to replace. Against that, one of the features of the UK
+
+economy since the financial crisis had been the apparent flexibility of real wages, possibly driven by the
+
+cumulated effect of labour market reform over a number of years. This suggested that pay was likely to be less
+
+affected by a pickup in inflation than it had been in earlier decades.
+
+20 Domestic inflationary pressure would also be affected by developments in inflation expectations.
+
+Measures of inflation expectations had been, on average, subdued relative to their pre-crisis averages, in part
+
+reflecting the low inflation environment. Measures of inflation compensation in financial markets were an
+
+indicator of financial market participants’ inflation expectations and could provide a timely signal of how inflation
+
+expectations had changed since the referendum. Shorter-term inflation compensation measures had picked up
+
+a little, consistent with an expectation that the depreciation in sterling would push up on prices in the near term.
+
+By contrast, inflation compensation five-to-ten years ahead had fallen a little. A similar pattern had been
+
+apparent in households’ inflation expectations: the monthly YouGov/Citi measure of household inflation
+
+expectations one year ahead had risen by 0.3 percentage points to 1.8% in July, while the equivalent measure
+
+of expectations five-to-ten years ahead had fallen by 0.1 percentage points to 2.4%, its lowest level since the
+
+survey began in 2005.
+
+**The immediate policy decision**
+
+21 The Committee set monetary policy to meet the 2% inflation target, and in a way that helped sustain
+
+growth and employment. The vote to leave the European Union was likely to have significant implications for
+
+the UK economic outlook, and it would take time for those implications to become clear. The Committee’s prior
+
+belief had been that this outcome could lead to a materially lower path for growth and a notably higher path for
+
+inflation than in the projections set out in the May Inflation Report. The early indications had been broadly
+
+consistent with this assessment, and this had been reflected in the August Inflation Report projections.
+
+22 It had been encouraging that the apparent spillovers from the referendum result to the global economy
+
+had so far been limited. Global equity prices had been broadly unchanged on the month and investment grade
+
+corporate bond spreads had generally declined, as had measures of expected asset price volatility; some of
+
+these moves were likely to reflect expectations of looser global monetary policy. Outside the United Kingdom,
+
+the euro area was likely to be the most directly affected by the UK vote. Most timely activity indicators there had
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 3 August 2016** 5
+
+
+-----
+
+declined somewhat, but were nevertheless consistent with modest growth in Q3, although long-standing
+
+financial vulnerabilities remained. It was likely, however, that the lower level of sterling and slower growth in UK
+
+demand would weigh on euro area exports, and the MPC had lowered slightly its projection for GDP growth in
+
+the currency bloc. There had been little material news regarding the other major advanced or emerging
+
+economies since the May Report.
+
+23 In contrast, the referendum outcome had had a pronounced effect on the domestic outlook, affecting the
+
+paths of demand, supply and the exchange rate. Demand was expected to be markedly weaker, and
+
+unemployment higher, than in May. This was the result of a number of forces, including the protracted period of
+
+heightened uncertainty that was now in prospect, an expected weakening in the housing market, and a higher
+
+cost of capital for UK-focused firms, given notable falls in their equity prices. These factors were projected to
+
+weigh particularly on business and housing investment in the near term and, with time, consumer spending.
+
+Together, these implied a lower path for private domestic demand. Set against that, the fall in sterling should
+
+provide some support for exports. Alongside lower real incomes in the United Kingdom, which would weigh on
+
+imports, this was projected to imply that net trade would provide some support to demand, albeit one that was
+
+insufficient to prevent a substantial fall in GDP growth.
+
+24 Although it would be some time until any such effects were reflected in official data releases, some had
+
+begun to manifest in surveys of investment intentions, business activity, and the housing market. The MPC was
+
+mindful of the fact that survey indicators might react excessively to events in their immediate aftermath, and so
+
+sharp movements should be treated with some caution. Although the quantitative read-across from the surveys
+
+to activity was uncertain, the evidence that some degree of a slowdown was in train had been clear, and the
+
+best collective judgement of the Committee was that the economy was likely to see little growth in the second
+
+half of this year.
+
+25 A key judgement was the extent to which this lower path for demand was likely to be matched by a lower
+
+path for supply. Here, too, there were numerous forces at work. The weakness in demand would itself weigh
+
+on supply growth as a period of low investment restrained growth in the capital stock and productivity. There
+
+could also be more direct implications for supply from the vote to leave the European Union. The UK’s trading
+
+relationships with its major trading partners were likely to be different, but precisely how would be unclear for
+
+some time. If companies were uncertain about the future impact of this on their businesses, they could delay
+
+decisions about building supply capacity or entering new markets. In anticipation of the UK’s new trading
+
+arrangements, a period of resource reallocation could be necessary as some sectors expanded and others
+
+contracted. Finally – and although it had only small implications for average wages, productivity, and so
+
+inflation – the path for net migration, and therefore labour supply, was particularly uncertain in light of the vote to
+
+leave the European Union. As a result of these factors, the MPC expected supply growth to remain well below
+
+past average rates throughout the forecast period.
+
+26 On balance, demand was likely to fall relative to supply, so that a margin of spare capacity was expected
+
+to open up and the unemployment rate was expected to rise from its current level of 4.9% over the course of the
+
+next year or so. All else equal, this would be expected to weigh on consumer price inflation as firms found it
+
+more difficult to raise prices given that lower demand and higher unemployment were expected to mean that
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 3 August 2016** 6
+
+
+-----
+
+wage growth remained below pre-crisis rates. Acting against that, the fall in the sterling exchange rate was
+
+expected to push up on import prices and consumer prices notably over the next three years. This was likely to
+
+hasten the return of CPI inflation to the 2% target, and probably cause it to rise above the target in the latter part
+
+of the forecast period, before the exchange rate effect dissipated thereafter.
+
+27 In the absence of any monetary policy response, these shifts in the outlooks for activity and domestically
+driven inflation were expected to endure. An extended period of uncertainty was likely to widen the margin of
+
+spare capacity in the economy for some time. Equally, the pass-through of higher import costs to consumer
+
+prices was likely to be incomplete even at the end of the MPC’s forecast period as, for example, past
+
+experience suggested that it took time for retailers of imported goods to reflect fully their higher costs in the
+
+prices they charged. The MPC expected inflation to return to the target within two years. Given the persistence
+
+of these effects, however, it expected thereafter to balance a period of above-target inflation in the second and
+
+third years of the forecast, owing primarily to imported price pressures, with a period over which the economy
+
+operated below full capacity, which would bear down on domestic costs.
+
+28 Fully offsetting the persistent effects of sterling’s depreciation would require exerting further downward
+
+pressure on domestic costs. This would involve lost output and higher unemployment. In the Committee’s
+
+judgement, such outcomes would be undesirable and, moreover, would be unlikely to generate a sustainable
+
+return of inflation to the target beyond the three-year forecast horizon. In line with its remit, the MPC therefore
+
+judged it appropriate to set policy so that inflation settled at its target over a slightly longer period than the usual
+
+18-24 months in order to mitigate some of the adverse effects on growth.
+
+29 The MPC was unanimous in the view that some policy easing was needed to reduce the amount of spare
+
+capacity and thus ensure that inflation returned sustainably to the target. The Committee had a range of tools at
+
+its disposal to support the economy, and its choice of instruments would follow from a consideration of their
+
+likely impact on the real economy – including how they supported UK households and businesses – and
+
+inflation. The MPC also discussed the interaction between monetary policy and the financial sector, with regard
+
+both to ensuring the effective transmission of monetary policy to the real economy, and to maintaining the
+
+stability of the financial system.
+
+30 A cut in Bank Rate would lower borrowing costs for companies and households. However, as interest
+
+rates were close to zero it was likely to be difficult for some banks and building societies to reduce deposit rates
+
+much further, which in turn might limit their ability to cut their lending rates. Analysis by staff across the Bank
+
+had suggested that a reduction in Bank Rate towards zero from 0.5% could, by itself, lower banks’ net interest
+
+margins a little, which could in turn lead to upward pressure on margins on new lending. In such circumstances,
+
+the transmission of monetary policy would be less effective than usual.
+
+31 To avoid the risk that reductions in Bank Rate did not feed through fully to the rates faced by households
+
+and businesses, the MPC considered the establishment of a Term Funding Scheme (TFS) that would provide
+
+funding for banks at interest rates close to Bank Rate, and was calibrated so that any reduction in Bank Rate
+
+had a broadly neutral impact on building societies’ and banks’ margins in aggregate. This monetary policy
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 3 August 2016** 7
+
+
+-----
+
+measure should help reinforce the transmission of the reduction in Bank Rate to the real economy so that
+
+households and firms benefitted from the MPC’s actions.
+
+32 In addition to its primary monetary policy objective, the TFS would provide participants with a cost
+
+effective source of funding in the form of central bank reserves to support additional lending to the real
+
+economy. Banks would be able to access another pound of funding for every pound their net lending expanded.
+
+Although bank funding markets had been resilient in the face of the worsening outlook for the real economy,
+
+there remained a risk that funding conditions could tighten. The TFS would provide an alternative source of
+
+finance, and, in addition to its direct effect on funding costs, it could lower market rates.
+
+33 The MPC also considered an expansion of its asset purchase programme for UK government bonds,
+
+financed by the issuance of central bank reserves. This would trigger portfolio rebalancing into riskier assets,
+
+lowering the real cost of borrowing for households and companies. The Committee was mindful of the fact that
+
+an expansion of its asset purchase programme would be within the context of an already low interest rate
+
+environment. Long-term interest rates had fallen over recent years, reflecting a range of factors including the
+
+outlook for long-term supply and the balance between global saving and planned global investment. Lower
+
+yields posed potential risks to some aspects of the functioning of the financial system, for example by increasing
+
+the deficits of many pension funds and through their effects on the business models of insurers. At present,
+
+however, those effects appeared to be relatively limited. Many companies that saw increased pension deficits
+
+were able to extend the period over which they brought them back to balance, maintaining the existing level of
+
+contributions. Indeed, the overall size of contributions to defined benefit schemes had been broadly stable over
+
+the past decade[1] despite fluctuations in the size of the deficit.
+
+34 The MPC also discussed the merits of purchasing private sector assets, financed by the issuance of
+
+central bank reserves. Given that corporate bonds were higher-yielding instruments than government bonds,
+
+investors selling corporate debt to the Bank could be more likely to invest the money received in corporate
+
+assets than those selling gilts. In addition, by increasing demand in secondary markets, purchases by the Bank
+
+could reduce liquidity premia. The Asset Purchase Facility had been used to ease conditions in corporate debt
+
+markets during intense financial market stress in 2009; only small quantities of private sector assets had been
+
+purchased but the Bank’s purchases played a role in reducing liquidity premia from elevated levels.  Moreover,
+
+such purchases could stimulate issuance in sterling corporate bond markets. It was therefore likely that
+
+purchases of corporate bonds would provide a greater boost to activity, pound for pound, than purchases of
+
+government bonds. In addition, such purchases were judged likely to have fewer implications for the financial
+
+system than additional gilt purchases.
+
+35 The MPC would look to purchase a portfolio of sterling non-financial investment-grade bonds
+
+representative of issuance by firms making a material contribution to the UK economy, in order to impart broad
+
+economic stimulus. The likely size of the market that would be eligible for the purchase scheme was around
+
+£150bn. The purchases would probably increase the prices and lower the rates on eligible bonds and the
+
+programme could stimulate issuance of bonds that would be eligible for the scheme. Although corporate bonds
+
+were typically issued by larger companies, any shift towards debt issuance would reduce their demand for bank
+
+1 The version of these Minutes originally published erroneously stated “…over the past two decades…”.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 3 August 2016** 8
+
+
+-----
+
+lending, potentially freeing up the amount of bank capital that was available to fund lending to smaller
+
+businesses.
+
+36 These policy deliberations took place against a backdrop of other supportive actions taken by the Bank of
+
+England recently. The Bank had previously announced that it would continue to offer indexed long-term repo
+
+operations on a weekly basis until the end of September 2016 as a precautionary step to provide additional
+
+flexibility in the Bank’s provision of liquidity insurance. The PRA would also smooth the transition to Solvency II
+
+for insurers.
+
+37 The MPC also viewed the domestic banking system as being much better placed to face the challenging
+
+outlook than during earlier periods of stress. Over recent years, regulators in the United Kingdom and
+
+internationally had required banks to strengthen their balance sheets so that the financial system had become
+
+more resilient. The Financial Policy Committee (FPC) expected that capital and liquidity buffers would be drawn
+
+upon as needed to support the supply of credit and in support of market functioning, and had recently reduced
+
+the countercyclical capital buffer rate from 0.5% to zero. This had reduced regulatory capital buffers by
+
+£5.7 billion, raising banks’ capacity for lending to UK households and businesses by up to £150 billion.
+
+38 In addition, the MPC had been informed that the FPC would announce the exclusion of central bank
+
+reserves from the exposure measure in the current UK leverage ratio framework with immediate effect. In so
+
+doing, the FPC’s aim was to ensure that the leverage ratio did not act as a barrier to the effective
+
+implementation of policy measures that led to an increase in central bank reserves.
+
+39 The Committee discussed whether to cut Bank Rate immediately to its effective lower bound, close to but
+
+a little above zero, or whether to cut Bank Rate by 25 basis points at this meeting. For a majority of Committee
+
+members a case could be made for cutting Bank Rate immediately to the effective lower bound. However, most
+
+Committee members also thought there was value in delivering the required stimulus via a broad package of
+
+measures and recognised that there would be further opportunities to assess economic prospects at coming
+
+meetings in the light of new data.
+
+40 The Governor invited the Committee to vote on the propositions that:
+
+Bank Rate be reduced by 25 basis points to 0.25%;
+
+The Bank of England introduce a Term Funding Scheme, financed by the issuance of central bank
+
+reserves, that would reinforce the transmission of the cut in Bank Rate;
+
+The Bank of England purchase a stock of sterling non-financial investment-grade corporate bonds, issued
+
+by firms making a material contribution to the UK economy, financed by the issuance of central bank
+
+reserves, of up to £10 billion;
+
+The Bank of England increase the stock of purchased UK government bonds, financed by the issuance of
+
+central bank reserves, by £60 billion to a total of £435 billion.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 3 August 2016** 9
+
+
+-----
+
+The Committee voted unanimously in favour of the propositions on Bank Rate and the Term Funding Scheme.
+
+The Committee voted 8-1 in favour of the scheme to purchase corporate bonds. Kristin Forbes voted against
+
+the proposition, preferring no purchases of corporate bonds at this time. The Committee voted 6-3 in favour of
+
+increasing the stock of purchases of UK government bonds. Kristin Forbes, Ian McCafferty and Martin Weale
+
+voted against the proposition, preferring no additional purchases at this time.
+
+41 The three members who voted against purchases of government bonds took the view that the
+
+deterioration in recent surveys and confidence measures observed in the aftermath of the referendum may
+
+overstate the weakness of the economy. As such, the additional stimulus through immediate purchases of
+
+government bonds risked increasing the overshoot of inflation relative to the target. These members felt that
+
+any decision to purchase government bonds could be made at future meetings, once more information became
+
+available. The member who also voted against the purchase of corporate bonds at this meeting was particularly
+
+concerned about excessive stimulus at this stage, the costs of easing monetary policy, and the risks involved in
+
+the programme.
+
+42 As set out in the August Inflation Report, conditional on this package, the MPC expected that by the three
+year forecast horizon unemployment would have begun to fall back and that much of the economy’s spare
+
+capacity would have been re-absorbed; and that inflation would be a little above the 2% target. In those
+
+projections the cumulative growth in output was around 2½% less at the end of the forecast period than in the
+
+MPC’s May projections. Much of this reflected a downward revision to potential supply that monetary policy
+
+could not offset. However, monetary policy could provide support as the economy adjusted. Had the MPC not
+
+taken this action, it judged it likely that output would be lower, unemployment higher and slack greater
+
+throughout the forecast period, and that this would jeopardise a sustainable return of inflation to the target.
+
+43 This package contained a number of mutually reinforcing elements, all of which had scope for further
+
+action. The MPC could act further along each of the dimensions of the package by lowering Bank Rate, by
+
+expanding the TFS to reinforce further the monetary transmission mechanism, and by expanding the scale or
+
+variety of asset purchases. If the incoming data proved broadly consistent with the August Inflation Report
+
+forecast, a majority of members expected to support a further cut in Bank Rate to its effective lower bound at
+
+one of the MPC’s forthcoming meetings during the course of the year. The MPC currently judged this bound to
+
+be close to, but a little above, zero.
+
+44 The Committee agreed that the additional purchases of UK government bonds should take place over a
+
+six month period. The cash flows associated with the redemptions of gilts owned by the APF that occured while
+
+the APF was undertaking additional gilt purchases would be incorporated into the overall purchase programme.
+
+This would be subject to the total stock of purchases not increasing at any point above the target stock. The
+
+purchases of sterling non-financial investment grade corporate bonds should take place over an 18 month
+
+period. Further details would be set out in Market Notices.
+
+45 Finally, the Governor expressed his appreciation to Martin Weale for his contribution as a member of the
+
+Committee.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 3 August 2016** 10
+
+
+-----
+
+46 The following members of the Committee were present:
+
+Mark Carney, Governor
+Ben Broadbent, Deputy Governor responsible for monetary policy
+Jon Cunliffe, Deputy Governor responsible for financial stability
+Nemat Shafik, Deputy Governor responsible for markets and banking
+Kristin Forbes
+Andrew Haldane
+Ian McCafferty
+Gertjan Vlieghe
+Martin Weale
+
+47 Dave Ramsden was present as the Treasury representative.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 3 August 2016** 11
+
+
+-----
+

@@ -1,0 +1,459 @@
+### Publication date: 24 January 2007
+
+## MINUTES OF
+# MONETARY POLICY COMMITTEE MEETING
+## 10 & 11 JANUARY 2007
+
+##### These are the minutes of the Monetary Policy Committee meeting held on  10 & 11 January 2007.
+
+ They are also available on the Internet http://www.bankofengland.co.uk/publications/minutes/mpc/pdf/2007/mpc0701.pdf
+
+ The Bank of England Act 1998 gives the Bank of England operational responsibility  for setting interest rates to meet the Government’s inflation target. Operational  decisions are taken by the Bank’s Monetary Policy Committee. The Committee meets  on a regular monthly basis and minutes of its meetings are released on the  Wednesday of the second week after the meeting takes place. Accordingly, the  minutes of the Committee meeting held on 7 & 8 February will be published on  21 February 2007.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 10-11 JANUARY 2007
+
+1 Before turning to its immediate policy decision, the Committee discussed developments in
+
+financial markets; the international economy; money, credit, demand and output; and supply, costs
+
+and prices.
+
+**Financial markets**
+
+2 In the United Kingdom, the United States and the euro area, short-term interest rates had risen by
+
+around 30 basis points since the Committee’s December meeting and longer-term forward rates had
+
+risen by 10-30 basis points. Interest rates had risen steadily over the month and there had been no
+
+obvious single explanatory factor. In the United Kingdom, market prices were now consistent with a
+
+further increase of 25 basis points in Bank Rate in the next few months and a relatively flat profile
+
+thereafter. Expectations for interest rate increases in the euro area had also firmed and expectations of
+
+cuts in the United States had diminished somewhat.
+
+3 Foreign exchange rates were little changed on the month. The sterling effective exchange rate
+
+index (ERI) had remained near the top of the range it had occupied for the previous decade. Estimates
+
+published by a number of economic commentators were all consistent with a long-run equilibrium
+
+exchange rate below the current level.
+
+4 The major equity market indices in Europe and Japan had risen again on the month, despite
+
+rising real interest rates. There had been general buoyancy in asset prices, which some thought partly
+
+reflected the expansion in global liquidity and credit. Relatively low interest rates, for example in
+
+Japan and Switzerland, might be helping to fund cross-currency investments into higher yielding
+
+assets, with investors assuming that low exchange rate volatility would persist, as implied by options
+
+prices.
+
+5 Estimates of the equity risk premium seemed not to have declined in line with the continuing
+
+compression of spreads for more risky fixed-income assets. One possible explanation of this could
+
+have been the strong income growth and high saving rates in Asian countries which tended to invest in
+
+fixed-income securities rather than equities.
+
+
+-----
+
+2
+
+**The international economy**
+
+6 The news on the world economy during the month pointed to continued growth in the United
+
+Kingdom’s major overseas markets. Survey and official data for the euro area in the fourth quarter had
+
+been consistent with GDP growth slightly above trend. The apparent weakness in German retail sales
+
+growth in 2006 remained a puzzle given the increase in VAT that had been announced for the start of
+
+2007. But stronger employment growth in Germany seemed likely to support household income and
+
+hence future consumption spending.
+
+7 In the United States, the fall in home sales had shown some signs of leveling off and there was
+
+little evidence of a significant spillover from the weak housing market to consumption. Employment
+
+growth was particularly robust in the fourth quarter and this would support consumption. The Institute
+
+of Supply Management (ISM) manufacturing survey index for December had been consistent with
+
+some degree of expansion in output. The ISM non-manufacturing index had eased slightly, but
+
+remained high. GDP growth in the fourth quarter seemed likely to be firm. It now seemed more
+
+probable that the United States would experience only a modest overall slowdown in growth,
+
+concentrated in residential investment and the auto sector.
+
+8 The spot price of oil had fallen by nearly 18% on the month, reflecting unusually mild winter
+
+weather in the United States and high stock levels. In the previous week the prices of several metals
+
+had fallen. In the euro area, the flash estimate of HICP inflation for December was for an unchanged
+
+rate of 1.9%. US CPI inflation had picked up to 2% in November, from 1.3% in October, as the
+
+negative effect from lower energy prices diminished. Falling US unemployment might presage greater
+
+wage pressures, but the relatively high profit share in the United States suggested that any pickup in
+
+pay growth might not feed directly into higher prices.
+
+**Money, credit, demand and output**
+
+9 The level of UK GDP had been revised up by some 0.2%, though the estimated quarterly growth
+
+rate in the third quarter had remained at 0.7%. Within the expenditure components, the levels of
+
+consumption and whole economy investment had been revised down, while the levels of net trade and
+
+business investment were higher.
+
+
+-----
+
+3
+
+10 In December, the CIPS/RBS business activity index for services had recorded a balance of 60.6,
+
+its highest level since June 1997. The Bank’s regional Agents had also reported slightly stronger
+
+service sector output growth. However, the weighted number of profit warnings from service sector
+
+businesses had increased further in the fourth quarter, although it was not clear whether this indicated
+
+something about the level of overall activity, or other factors such as unexpected cost increases.
+
+11 Manufacturing growth in the fourth quarter looked to have been weaker than earlier in the year.
+
+Data from the Office for National Statistics (ONS) had recorded a fall in output in October which was
+
+largely reversed in November, but the CIPS/RBS survey balance had eased further in December.
+
+Taking monthly manufacturing and services data, business surveys and the Agents’ reports together
+
+suggested that Q4 GDP growth would be close to its longer-term potential rate.
+
+12 Expenditure indicators for the fourth quarter indicated reasonably robust growth. Retail sales
+
+had risen by 0.5% in the 3 months to November. And a survey by the Agents had suggested that sales
+
+in December had been higher than a year earlier. In the housing market, the average of the lenders’
+
+house price indices was up 3.7% in the fourth quarter and 9.5% in the year to December. The quantity
+
+indicators gave more mixed signals: loan approvals were high, but the Royal Institution of Chartered
+
+Surveyors’ survey balance for new buyer enquiries had continued to fall. The ratio of house prices to
+
+earnings remained well above its long-run average although it remained difficult to know how much of
+
+this could be justified by a fundamental shift in demand relative to supply.
+
+13 The annual growth rate of broad money (M4) had slowed to 13% in November, but overall credit
+
+growth (M4 lending) had picked up to 16.5%. Nominal domestic demand growth had picked up
+
+during the course of 2006.
+
+**Supply, costs and prices**
+
+14 The latest Labour Force Survey data, for the three months to October, showed the employment
+
+rate stable at 60.1%, and the unemployment and participation rates as having ticked down to 5.5% and
+
+63.6% respectively. A measure of weighted non-employment appeared to have stabilised in the past
+
+few months. On the supply of labour, there was little indication that the extent of inward migration
+
+would diminish in the near term and there probably remained a degree of slack in the labour market.
+
+
+-----
+
+4
+
+15 Survey measures of capacity utilisation in manufacturing and services, weighted together to
+
+produce whole-economy estimates, suggested that the degree of spare capacity within firms had been
+
+diminishing. The reports of the Bank’s regional Agents had been consistent with a continued
+
+reduction in spare capacity in both manufacturing and services firms in the fourth quarter.
+
+16 There had been little new information on settlements and earnings. Regular pay growth had
+
+picked up to 3.8% in the three months to October. In November, settlements had remained unchanged
+
+at 3%. A report from Income Data Services (IDS) had recorded that the first few settlements in 2007
+
+had produced a median settlement of 4%, compared with a median of 3% in the fourth quarter of 2006.
+
+But these early settlements related to only 10% of the employees normally covered by January
+
+agreements and they included the later stages of some multi-year agreements.
+
+17 The annual rate of inflation in manufacturers’ input prices had fallen further in November and
+
+output price inflation had been broadly stable. CIPS/RBS survey measures for December had
+
+indicated that input price inflation had continued to diminish in both manufacturing and services. But
+
+the survey balances for output price inflation in services had picked up a little in December, in contrast
+
+to the manufacturing sector, perhaps reflecting the relative growth of demand.
+
+18 In line with pre-release arrangements, an advance estimate of CPI inflation of 3.0% in December
+
+had been provided to the Governor ahead of publication. That compared with 2.7% in November.
+
+Part of the rise in the inflation rate could be explained by petrol prices having risen this December
+
+while having fallen in December 2005. Analysis of the data had to wait until publication but, since the
+
+summer of 2006, the Committee had been projecting a sharp pickup in CPI inflation during the autumn
+
+and winter months before falling back towards the target in 2007 as energy and import price inflation
+
+moderated. Although that pickup had occurred, it appeared that there had been some news:
+
+lower-than-expected contributions, for example, from energy and university tuition fees, had been
+
+offset by a broader range of price increases, especially for food.
+
+
+-----
+
+5
+
+**The immediate policy decision**
+
+19 The world and domestic economies had evolved largely as the Committee had projected in the
+
+August and November Inflation Reports but the recent data had suggested that the balance of risks
+
+might have shifted. In particular, the risk of a greater slowdown in the United States, arising from a
+
+weakening housing market, had diminished. Overall, the world economy appeared to be robust and
+
+the downside risks appeared to have diminished somewhat.
+
+20 There had been a further significant fall in the spot price of oil, which was probably explained by
+
+unusually mild weather and high stock levels. If sustained, the lower oil price would help to contain
+
+inflationary pressures in oil-consuming countries, as well as supporting demand growth going forward.
+
+21 There had been little news about the path of domestic output growth. The level of GDP had been
+
+revised up a little and, within that, the level of consumption was estimated to be a little lower and net
+
+trade and business investment a little higher. The Committee placed little weight on the early
+
+estimates of the expenditure components.
+
+22 In aggregate, the data were broadly consistent with the November Inflation Report projections.
+
+But the CIPS/RBS business surveys and the Agents’ reports both suggested some upside risks to short
+term growth. And the retail sales indicators for the fourth quarter had been robust, perhaps suggesting
+
+less downside risk of a further slowing in consumption growth. Broad money and credit growth
+
+continued to be very strong and asset prices were buoyant across the board.
+
+23 The Committee considered whether the high level of asset prices should be a concern for
+
+monetary policy. There could be some risk arising from a direct pass through of higher asset prices to
+
+household wealth and hence into the demand for goods and services. There could also be some risk of
+
+a sharp reversal in asset prices although, to the extent that they were reflecting ongoing fundamental
+
+changes in the global economy such as growth in China, it was perhaps unlikely that they would
+
+unwind soon. Some members argued that the strength of money, credit and asset prices could
+
+influence the nominal side of the economy, for example, by influencing inflation expectations. That
+
+strength could be an indicator of incipient inflationary pressures.
+
+
+-----
+
+6
+
+24 The labour market had developed largely as the Committee had expected. The quantity
+
+indicators showed a broadly stable picture and there was little evidence yet of any change in wage
+
+settlements or pay growth. The Committee noted the high median pay settlement recorded by IDS, but
+
+it was too early to tell what would happen with January settlements overall. It was likely that there
+
+was some continuing slack in the labour market, but the increase in retail price inflation posed an
+
+upside risk to pay growth.
+
+25 The available survey evidence on spare capacity within firms had suggested that this had continued
+
+to tighten. The Agents had reported an increased readiness of retailers to push through price increases,
+
+particularly for foodstuffs. Investment growth had been strengthening, perhaps encouraged by the
+
+increased supply of labour as well as by robust demand, but it would take some time for new fixed
+
+investment to relieve capacity constraints.
+
+26 In its August and November Inflation Reports, the Committee had anticipated a short-run spike
+
+in CPI inflation, falling back during 2007. While the outturn for CPI inflation had been close to the
+
+Committee’s projections during the autumn, some members thought that there seemed to be more
+
+underlying inflationary pressure in the short run than previously expected. Looking back over 2006 as
+
+a whole, the outturn for GDP growth looked set to be very close to that expected in the February 2006
+
+_Inflation Report, but CPI inflation was materially higher than projected at that time. Some of that_
+
+surprise could be accounted for by the effects of unexpected energy price increases. Another
+
+unexpected increase had come from the rise in fuel duty. One possible explanation for the extent of
+
+upwards pressure on inflation was that profit margins might have been initially squeezed by higher
+
+energy prices in the face of some weakness in demand in 2005. As demand growth had recovered
+
+through 2006, firms might have sought to raise profits by increasing prices.
+
+27 Although the Committee had received advance notification of the December CPI release on the
+
+morning of its meeting, it had not had been able to analyse in detail the reasons for the sharp increase
+
+in inflation. The central projection in the November Inflation Report had been for CPI inflation to fall
+
+back towards the target during 2007, as energy and import price inflation moderated. Some members
+
+thought that the balance of risks to this central case had now shifted to the upside. A risk for the
+
+medium-term was the possibility of dislodging inflation expectations. With RPI inflation likely to be
+
+nearly 4½% in December, the Committee noted that it was important that wage negotiators did not
+
+accommodate what should prove to be a temporary spike in inflation.
+
+
+-----
+
+7
+
+28 On the policy decision, the Committee noted that an immediate change in Bank Rate would
+
+clearly be a surprise to financial markets. Market prices indicated that a rate rise of 25 basis points
+
+was expected, but not until February. This probably reflected the fact that the Committee had not
+
+changed interest rates other than in an Inflation Report month for some 2½ years.
+
+29 The Committee agreed that, although the news on the month had been broadly in line with its
+
+central projections, the balance of risks to the outlook for inflation had shifted upwards. There was a
+
+range of views amongst the Committee over the new balance of risks and over whether the news had
+
+been sufficient to warrant an increase in Bank Rate this month or whether it would be better to wait
+
+and judge the news in the context of the Committee’s February Inflation Report.
+
+30 For a majority of members there was already sufficient evidence to justify an increase in Bank
+
+Rate and no compelling reason to delay. The world economy was robust, nominal domestic demand
+
+was growing strongly and real output growing at least at its potential rate. Spare capacity had
+
+diminished and inflation had been rising as it had become easier to increase prices. For these members
+
+there was a significant risk that inflation would not fall back as quickly as the Committee had expected
+
+in its central case in the November Inflation Report and little risk that an increase in interest rates
+
+would cause an unnecessarily sharp slowdown in activity. There was a risk that the 50 basis points
+
+rise in Bank Rate since August might not be sufficient to keep demand and inflation expectations in
+
+check and an early increase in rates might prevent larger increases later. For some of these members,
+
+the fast pace of money and credit growth and buoyant asset prices gave additional concerns about
+
+upside pressures to inflation.
+
+31 For other members, there was insufficient news to warrant an immediate increase in Bank Rate.
+
+Although the upside risks had increased, the most likely prospect was that inflation would fall back
+
+later this year. The Committee should not be interpreted as reacting to short-term volatility in CPI
+
+inflation. It was difficult to know how informative the current inflation rate was, given sharp
+
+movements in volatile components such as energy and food. The Committee had already raised rates
+
+by 50 basis points since the summer. If new data made it clear that it was necessary to increase Bank
+
+Rate further then it would help to have the Inflation Report to explain why in the context of the
+
+medium-term prospect. In the meantime, the recent increase in CPI inflation would add to the risks in
+
+the current wage round, and so it was important to communicate clearly that the Committee would act
+
+
+-----
+
+8
+
+
+if pay accelerated or inflation expectations were threatened. But an increase in Bank Rate this month
+
+ran the risk of prompting an excessive monetary tightening by shifting up market interest rates.
+
+32 The Governor invited the Committee to vote on the proposition that Bank Rate should be
+
+increased by 25 basis points to 5.25%. Five members of the Committee (the Governor, John Gieve,
+
+Kate Barker, Tim Besley and Andrew Sentance) voted in favour of the proposition. Rachel Lomax,
+
+Charlie Bean, David Blanchflower and Paul Tucker voted against, preferring to maintain Bank Rate
+
+at 5.0%.
+
+33 The following members of the Committee were present:
+
+Mervyn King, Governor
+Rachel Lomax, Deputy Governor responsible for monetary policy
+John Gieve, Deputy Governor responsible for financial stability
+Kate Barker
+Charles Bean
+Tim Besley
+David Blanchflower
+Andrew Sentance
+Paul Tucker
+
+Jon Cunliffe was present as the Treasury representative.
+
+
+-----
+

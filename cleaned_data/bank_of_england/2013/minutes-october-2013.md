@@ -1,0 +1,585 @@
+### Publication date: 23 October 2013
+
+## MINUTES OF THE 
+# MONETARY POLICY COMMITTEE MEETING
+## 8 and 9 October 2013
+
+##### These are the minutes of the Monetary Policy Committee meeting held on 
+
+ 8 and 9 October 2013. 
+
+ They are also available on the Internet
+
+ http://www.bankofengland.co.uk/publications/minutes/Pages/mpc/pdf/2013/mpc1310.aspx
+
+ The Bank of England Act 1998 gives the Bank of England operational responsibility for setting
+
+ monetary policy to meet the Government’s inflation target. Operational decisions are taken by
+
+ the Bank’s Monetary Policy Committee. The Committee meets on a regular monthly basis and
+
+ minutes of its meetings are released on the Wednesday of the second week after the meeting
+
+ takes place. Accordingly, the minutes of the Committee meeting to be held on 
+
+ 6 and 7 November will be published on 20 November 2013.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 8 AND 9 OCTOBER 2013
+
+1 Before turning to its immediate policy decision, the Committee discussed financial market
+
+developments; the international economy; money, credit, demand and output; and supply, costs and
+
+prices.
+
+**Financial markets**
+
+2 Developments in financial markets over the month had largely reflected news emanating from
+
+the United States, including the FOMC’s decision at its September meeting not to reduce the pace of
+
+its asset purchases, and political negotiations about the fiscal position. Although the US government
+
+shutdown and concerns over the debt ceiling had appeared to have only limited effects on broader
+
+financial markets, credit default swap premia on US government debt had increased and yields on US
+
+Treasury bills maturing in late October had risen to nearly 30 basis points, from around 2 basis points
+
+at the end of September.
+
+3 Advanced economy market interest rates had generally risen in the early part of the month before
+
+falling back following the FOMC announcement. Overall, nominal UK ten-year forward gilt rates
+
+were nearly 30 basis points lower on the month, with smaller falls in US and euro-area rates.
+
+Shorter-term market rates had also fallen. Overnight index swap rates implied that Bank Rate was
+
+expected to increase by a full 25 basis points by June 2015. The median expectation from the Reuters
+
+survey of economists was that the first rise in Bank Rate would be in November 2015.
+
+4 Although it was still lower than at the start of the year, the sterling effective exchange rate index
+
+(ERI) was around 3½% higher than in the run-up to the August Inflation Report. Over the month, the
+
+ERI had risen by 1%, driven in large part by a 4% rise against the US dollar, which had probably been
+
+partly associated with the US fiscal impasse. Part of the appreciation could reflect recent more
+
+positive data outturns in the United Kingdom than elsewhere. It was also possible that the risk
+
+
+-----
+
+2
+
+premium that investors demanded for holding sterling had fallen as the recovery had appeared to take
+
+hold and the financial system had continued to heal.
+
+5 As an example of the broader improvement in bank funding conditions since mid-2012, Lloyds
+
+Banking Group had issued a five-year senior unsecured bond at a spread over swap rates of around
+
+60 basis points in early October, compared with a spread of more than 300 basis points on a similar
+
+bond in January 2012. UK bank issuance in public markets was still limited, perhaps in part due to
+
+banks having an ample supply of retail deposits, as noted by respondents to the Bank’s latest Bank
+
+_Liabilities Survey._
+
+6 The S&P 500 index had risen a little over the month as a whole, although it had fallen back
+
+following the FOMC’s September decision not to reduce the pace of its asset purchases. The FTSE
+
+All-Share index had fallen a little. The Euro Stoxx 300 index had risen strongly.
+
+**The international economy**
+
+7 Over 2013 so far, there had been signs that the mix of global growth was shifting, with the
+
+advanced economies continuing their gradual recovery but with some further slowing in the emerging
+
+economies. The latest IMF projections had suggested that this shift was likely to continue into 2014.
+
+8 Following six quarters of contraction, euro-area output had risen by 0.3% in 2013 Q2 and had
+
+appeared likely to expand a little further in Q3. That was despite a sharp fall in industrial production
+
+in July, but was consistent with the further rise in the composite Purchasing Managers’ Index, which
+
+reached 52.2 in September. The pace of expansion in the euro area over coming years was likely to be
+
+dampened by the impact of the continuing adjustment in the periphery, alongside the impaired banking
+
+system in the euro area more broadly. The extent to which growth would be held back by this
+
+adjustment was uncertain, but recent growth rates in some core countries had been somewhat
+
+reassuring.
+
+9 There had been mixed evidence on US activity during the month: the non-manufacturing ISM
+
+index, which had been volatile but generally strong in recent months, fell markedly in September, but
+
+the manufacturing ISM index had risen a touch and core capital goods orders had strengthened in
+
+August. Housing market activity had fallen back, possibly reflecting rises in mortgage interest rates
+
+
+-----
+
+3
+
+since the spring. The partial government shutdown would make it harder to assess how the US
+
+recovery was progressing. The shutdown would directly depress US activity in the fourth quarter but,
+
+unless it was prolonged, the impact was likely to be small. Nevertheless, persistent uncertainty about
+
+the political situation could weigh on financial markets and on household and business confidence.
+
+The shutdown would also result in a delay to key data releases, such as non-farm payrolls.
+
+10 The FOMC policy decision in September, together with domestic policy actions and some better
+
+economic news, had eased some of the immediate pressures on those emerging economies that had
+
+experienced capital outflows since May. The developments on the month had provided policymakers
+
+in those economies with more time to address underlying vulnerabilities, but the outlook remained
+
+sensitive to global developments.
+
+11 Japanese output had expanded by 1.9% over the first half of 2013, following the significant
+
+policy measures introduced since the start of the year. Equity prices had risen by 60% since Autumn
+
+2012, and there had been a marked improvement in business confidence more recently. Moreover, the
+
+policy measures appeared, as desired, to have boosted inflation expectations. The medium-term
+
+outlook for Japanese activity would, however, depend on the successful implementation of structural
+
+reforms, in particular to the labour market.
+
+12 Dollar Brent oil prices had fallen by almost 5% on the month, with the fall in sterling oil prices a
+
+little larger at 8%. In contrast, many other commodity prices had been little changed.
+
+**Money, credit, demand and output**
+
+13 UK GDP growth in the second quarter, at 0.7%, had not been revised. The revised breakdown of
+
+expenditure had, however, suggested less progress in rebalancing than did the previous release, with
+
+net trade making no contribution to growth. In addition, business investment had been estimated to
+
+have fallen by nearly 3%, although that looked at odds with other indicators such as companies’
+
+investment intentions.
+
+14 Surveys had continued to point to strong growth in the second half of the year, with Markit/CIPS
+
+activity indices remaining at high levels in September, and a sharp pickup in the BCC output and
+
+orders balances in Q3. By themselves, surveys would point to growth of around 1% a quarter in the
+
+
+-----
+
+4
+
+second half of 2013. The Bank’s Agents also judged that output growth had picked up to at least trend
+
+rates in Q3. There were limited official data on the third quarter, but industrial production had fallen
+
+by 1.1% in August. Overall, Bank staff estimated that growth in the second half of the year would
+
+remain around 0.7% a quarter or a little higher, stronger than expected at the time of the August
+
+_Inflation Report._
+
+15 The recovery in growth since the end of 2012 appeared in part to reflect a dissipation of
+
+uncertainty – for example, as the perceived tail risks in the euro area had receded – against the
+
+backdrop of considerable monetary stimulus. That was consistent with a survey carried out by the
+
+Bank’s Agents that had shown a much smaller drag on companies’ investment plans from uncertainty
+
+than in a similar survey a year earlier. It was possible that there could be a self-sustaining element to
+
+growth, with the recovery to date helping to reinforce business and household confidence.
+
+16 The recovery in growth had also probably reflected easing credit conditions, as reduced
+
+euro-area concerns and the Funding for Lending Scheme had borne down on UK bank funding costs.
+
+That had led to an improvement in credit availability for businesses and households and lower interest
+
+rates on a range of products relative to those in mid-2012. The Bank’s latest Credit Conditions Survey
+
+had suggested a further increase in credit availability for both households and businesses in 2013 Q3.
+
+Despite a rise in market interest rates since the time of the MPC’s August meeting, quoted mortgage
+
+rates on most types of product had ticked down since the end of July, effective rates on new loans to
+
+companies had not changed in August, and investment grade corporate bond yields had changed little.
+
+17 The fall in mortgage rates was one factor behind the recent revival in housing market activity.
+
+Mortgage approvals for house purchase had risen to around 62,000 in August. And housing
+
+investment had made a positive contribution to growth in the first half of the year. House price
+
+inflation had also begun to pick up: the average of the Halifax and Nationwide house price indices
+
+pointed to a rise of 0.6% on the month in September, with twelve-month house price inflation around
+
+6%. In London, price rises had been larger. Although some measures, such as that produced by the
+
+Land Registry, had pointed to smaller price rises over the past year, they recorded prices later in the
+
+house purchase process and were therefore less timely indicators. The RICS three-month ahead house
+
+price expectations balance had increased again in September and was pointing to very strong price
+
+rises. But the RICS sales-to-stock ratio, historically well correlated with house price inflation, had
+
+been weaker. Overall, indicators pointed to continued house price rises. This would increase the
+
+
+-----
+
+5
+
+collateral available to both households and small businesses, which could provide some further support
+
+to activity.
+
+18 One factor that would play a role in the housing and mortgage market in the following year was
+
+the mortgage guarantee component of the Help to Buy Scheme, the details of which had been released
+
+during the month. The scheme had been designed to help people with small deposits gain access to
+
+mortgage finance and should relax credit constraints for some would-be borrowers. It could therefore
+
+further support the revival in the housing market.
+
+**Supply, costs and prices**
+
+19 Twelve-month CPI inflation had fallen to 2.7% in August. In line with the usual pre-release
+
+arrangements, an advance estimate for twelve-month CPI inflation of 2.7% for September had been
+
+provided via the Governor to the MPC, ahead of publication. Those outturns were lower than expected
+
+at the time of the August Inflation Report and, although the component level data for September were
+
+not yet available, data up to August had suggested that the downside news was concentrated in more
+
+import-intensive components. The 8% fall in sterling oil prices on the month also suggested a
+
+somewhat lower outlook for CPI inflation over the coming year. Acting against that, the latest
+
+information had suggested that domestic energy prices might be increased by a little more than the
+
+rises of around 5% assumed at the time of the August Inflation Report, although it now seemed likely
+
+that those rises would happen later in the year. Further ahead, the recent appreciation of sterling would
+
+tend to bear down on inflation, reducing the likelihood of inflation being above 2.5% at the 18-24
+
+month period relevant to the MPC’s forward guidance ‘knockout’.
+
+20 Twelve-month growth in private sector regular pay had been 1.2% in the three months to July.
+
+There were some signs that pay growth was picking up from its very low levels: shorter-term
+
+measures of pay growth were above the twelve-month measures, and the REC permanent salaries
+
+index had risen for the fourth successive month in September to its highest level since February 2008.
+
+Some recovery in wage inflation was, however, to be expected as productivity growth recovered. In
+
+the second quarter, private sector hourly productivity had grown by 0.6%, the first rise in hourly
+
+productivity since 2011 Q2, and it looked likely to increase again in the third quarter. Taking wages
+
+and productivity together, the expectation in the August Inflation Report that the four-quarter change
+
+
+-----
+
+6
+
+in unit labour costs would be zero or modestly negative in the second half of 2013 remained broadly
+
+on track.
+
+21 The headline LFS unemployment rate had fallen to 7.7% in the three months to July, and a fall in
+
+the claimant count measure in August, together with surveys of companies’ employment intentions,
+
+had suggested that it would fall further over the rest of the year, probably at a faster pace than
+
+anticipated at the time of the August Inflation Report. The fall in unemployment in the three months
+
+to July appeared to reflect growth in full-time permanent jobs, and there was no reason to believe it to
+
+be erratic. Moreover, average hours had continued to rise such that total hours worked had increased
+
+by more than employment in heads in the three months to July. It now therefore seemed probable that
+
+unemployment would be lower, and output growth faster, in the second half of 2013 than expected at
+
+the time of the August Inflation Report.
+
+22 Developments since the Committee’s August Inflation Report suggested that slack had been
+
+eroded a little more quickly than anticipated. The BCC survey had shown a rise in capacity utilisation
+
+in the manufacturing and service sectors in the third quarter. The fall in unemployment had suggested
+
+a modest reduction in slack in the labour market. Although by itself, an increase in average hours
+
+worked could also signal less slack, their recent strength had in part appeared to reflect a continuation
+
+of a longer-term rise since the start of the recession, rather than a purely cyclical development. In
+
+particular, there had been a shift from public to private sector employment, where average hours
+
+worked were higher, and there was evidence from the Labour Force Survey that part-time employees
+
+wanted to work longer hours than they had in the past, perhaps reflecting the impact of the crisis on
+
+their household finances.
+
+23 The evolution of unemployment and slack more broadly over coming quarters would depend on
+
+the extent to which the weakness in productivity in recent years had primarily reflected an endogenous
+
+response to the weakness in demand or had a more structural component. For example, measured
+
+productivity could rise quite quickly if companies no longer needed to allocate so much staff effort to
+
+winning business as demand picked up. But to the extent that productivity growth had been held back
+
+because the efficient allocation of resources had been impeded in recent years by the problems in the
+
+banking sector, it would probably take longer for productivity to recover. There remained a range of
+
+views among Committee members on the factors responsible for the recent weakness in productivity
+
+
+-----
+
+7
+
+and it was too soon to draw a firm conclusion from recent labour market outturns about the extent to
+
+which productivity would increase.
+
+24 There had been little news on inflation expectations on the month. The YouGov/Citigroup
+
+survey of households had suggested that expectations had ticked down in September both one and five
+
+to ten years ahead. Measures derived from financial markets had changed little on the month.
+
+**The immediate policy decision**
+
+25 The Committee set monetary policy to meet the 2% inflation target in the medium term, and in a
+
+way that avoided undesirable volatility in output in the short term. In pursuit of that objective, the
+
+Committee had, at the time of the August Inflation Report, provided guidance regarding the future path
+
+of monetary policy. That guidance stated that the Committee did not intend to raise Bank Rate from
+
+its current level of 0.5% or to reduce its stock of asset purchases at least until the LFS headline
+
+unemployment rate had fallen to a threshold of 7%, subject to three ‘knockout’ conditions, relating to:
+
+the judged likelihood that inflation would not exceed 2.5% 18-24 months ahead; the stability of
+
+measures of medium-term inflation expectations; and the impact of the stance of monetary policy on
+
+financial stability as judged by the Bank’s Financial Policy Committee (FPC).
+
+26 The news on the month had continued to suggest a robust recovery in activity in the United
+
+Kingdom. Monetary stimulus remained considerable and confidence appeared to be rising. On their
+
+own, the business surveys were pointing to an increase in output of around 2% over the second half of
+
+the year, although the Bank staff’s latest projection was lower. The revival in the housing market was
+
+likely to provide a fillip to both dwellings investment and consumer spending. Moreover, recent
+
+increases in market interest rates had been partially reversed, and credit availability had continued to
+
+improve. The rise in the sterling exchange rate would reduce the extent to which imported prices were
+
+squeezing households’ real incomes, and therefore the drag on consumption. But set against that, the
+
+exchange rate appreciation would support import growth and dampen export growth in the medium
+
+term. More generally, the main factor determining the pace of export growth would be the level of
+
+global activity. Here the news had been mixed. The outlook for the United States seemed slightly
+
+softer on the month, the recovery in the euro area remained modest, and there remained a risk of a
+
+sharp slowdown in emerging economies. Overall, therefore, there was a risk that the recovery in the
+
+United Kingdom might be less well balanced between exports and domestic consumption than was
+
+
+-----
+
+8
+
+ultimately needed. The latest data suggested that the current account deficit had averaged around 4%
+
+of GDP in the four quarters to 2013 Q2.
+
+27 The headline LFS unemployment rate had fallen but, at 7.7% in the three months to July,
+
+remained well above the Committee’s 7% forward guidance threshold. The recent reduction in the
+
+unemployment rate indicated that slack in the economy was, as anticipated, being eroded as activity
+
+picked up. If anything, that was occurring a little faster than envisaged at the time of the August
+
+_Inflation Report, although it remained unusually difficult to gauge the effective degree of slack in the_
+
+economy. It was encouraging that private sector hourly productivity had grown at close to its trend
+
+rate in the second quarter following two years of falling productivity. But it was too early to draw a
+
+strong inference about future prospects from the latest data. Within the framework provided by
+
+forward guidance, the Committee would continue to monitor closely the evolution of the labour
+
+market, productivity, and a range of indicators of economic capacity pressures and the domestic
+
+inflationary pressures resulting from them.
+
+28 The Committee considered developments on the month in the context of the three knockouts that
+
+would override the forward guidance announced in August.
+
+29 The appreciation of sterling since the August Inflation Report would lower import costs, which
+
+reduced the probability of CPI inflation being above 2.5% in 18-24 months time. There had been less
+
+news on domestically generated inflationary pressures. Productivity growth had begun to pick up and
+
+that appeared to have been accompanied by a modest strengthening in pay growth, but overall there
+
+had been little news on the likely path of unit labour costs in the second half of the year. Forthcoming
+
+pay settlements in early 2014, likely to be the first against a backdrop of rising demand and
+
+productivity for some time, would be informative. More generally, the Committee would continue to
+
+monitor early indicators of pricing behaviour for signs of rising domestic inflationary pressure.
+
+30 There had been little news regarding medium-term inflation expectations. Financial market
+
+based measures had been broadly flat, and the one household measure released during the month had
+
+ticked down. There was, therefore, little reason to alter the Committee’s judgement that medium-term
+
+inflation expectations remained sufficiently well anchored.
+
+
+-----
+
+9
+
+31 At its meeting on 18 September 2013, the FPC had agreed that, in light of its assessment of the
+
+current risks to financial stability, the stance of UK monetary policy did not pose a significant threat to
+
+financial stability that could not be contained by the substantial range of mitigating policy actions
+
+available to the FPC, the Financial Conduct Authority and the Prudential Regulation Authority in a
+
+way consistent with their objectives. This had been communicated to the MPC in advance of its
+
+meeting.
+
+32 All Committee members agreed that neither of the price stability knockout conditions that would
+
+override the forward guidance provided in August had been breached; and the FPC had agreed that the
+
+financial stability knockout had not been breached. With unemployment remaining above the 7%
+
+threshold, the Committee’s forward guidance therefore remained in place and no MPC member
+
+thought it appropriate to tighten the stance of monetary policy at the current juncture. Market rates had
+
+fallen back over the month and output appeared to be expanding at least as fast as expected at the time
+
+of the August Inflation Report. All members therefore agreed that there was currently little case for
+
+increasing the degree of monetary stimulus further.
+
+33 The Governor invited the Committee to vote on the propositions that:
+
+Bank Rate should be maintained at 0.5%;
+
+The Bank of England should maintain the stock of asset purchases financed by the issuance
+
+of central bank reserves at £375 billion.
+
+Regarding Bank Rate, the Committee voted unanimously in favour of the proposition.
+
+Regarding the stock of asset purchases, the Committee voted unanimously in favour of the proposition.
+
+34 Finally, the Governor expressed his appreciation to Paul Tucker for the personal contributions
+
+that he had made in establishing the monetary policy framework, to the work of the MPC since
+
+becoming a member in 2002, and to the Bank more broadly during his long and distinguished career,
+
+most recently as Deputy Governor responsible for financial stability.
+
+
+-----
+
+10
+
+35 The following members of the Committee were present:
+
+Mark Carney, Governor
+Charles Bean, Deputy Governor responsible for monetary policy
+Paul Tucker, Deputy Governor responsible for financial stability
+Ben Broadbent
+Spencer Dale
+Paul Fisher
+Ian McCafferty
+David Miles
+Martin Weale
+
+Dave Ramsden was present as the Treasury representative.
+
+As permitted under the Bank of England Act 1998, as amended by the Financial Services Act 2012,
+
+Michael Cohrs was also present as an observer in his role as a member of the Oversight Committee of
+
+Court.
+
+
+-----
+

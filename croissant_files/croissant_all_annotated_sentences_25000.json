@@ -1,0 +1,416 @@
+{
+  "@context": {
+    "@language": "en",
+    "@vocab": "https://schema.org/",
+    "arrayShape": "cr:arrayShape",
+    "citeAs": "cr:citeAs",
+    "column": "cr:column",
+    "conformsTo": "dct:conformsTo",
+    "cr": "http://mlcommons.org/croissant/",
+    "data": { "@id": "cr:data", "@type": "@json" },
+    "dataBiases": "cr:dataBiases",
+    "dataCollection": "cr:dataCollection",
+    "dataType": { "@id": "cr:dataType", "@type": "@vocab" },
+    "dct": "http://purl.org/dc/terms/",
+    "extract": "cr:extract",
+    "field": "cr:field",
+    "fileProperty": "cr:fileProperty",
+    "fileObject": "cr:fileObject",
+    "fileSet": "cr:fileSet",
+    "format": "cr:format",
+    "includes": "cr:includes",
+    "isArray": "cr:isArray",
+    "isLiveDataset": "cr:isLiveDataset",
+    "jsonPath": "cr:jsonPath",
+    "key": "cr:key",
+    "md5": "cr:md5",
+    "parentField": "cr:parentField",
+    "path": "cr:path",
+    "personalSensitiveInformation": "cr:personalSensitiveInformation",
+    "recordSet": "cr:recordSet",
+    "references": "cr:references",
+    "regex": "cr:regex",
+    "repeated": "cr:repeated",
+    "replace": "cr:replace",
+    "sc": "https://schema.org/",
+    "separator": "cr:separator",
+    "source": "cr:source",
+    "subField": "cr:subField",
+    "transform": "cr:transform"
+  },
+  "@type": "sc:Dataset",
+  "distribution": [
+    {
+      "@type": "cr:FileObject",
+      "@id": "repo",
+      "name": "repo",
+      "description": "The Hugging Face git repository.",
+      "contentUrl": "https://huggingface.co/datasets/gtfintechlab/all_annotated_sentences_25000/tree/refs%2Fconvert%2Fparquet",
+      "encodingFormat": "git+https",
+      "sha256": "https://github.com/mlcommons/croissant/issues/80"
+    },
+    {
+      "@type": "cr:FileSet",
+      "@id": "parquet-files-for-config-5768",
+      "containedIn": { "@id": "repo" },
+      "encodingFormat": "application/x-parquet",
+      "includes": "5768/*/*.parquet"
+    },
+    {
+      "@type": "cr:FileSet",
+      "@id": "parquet-files-for-config-78516",
+      "containedIn": { "@id": "repo" },
+      "encodingFormat": "application/x-parquet",
+      "includes": "78516/*/*.parquet"
+    },
+    {
+      "@type": "cr:FileSet",
+      "@id": "parquet-files-for-config-944601",
+      "containedIn": { "@id": "repo" },
+      "encodingFormat": "application/x-parquet",
+      "includes": "944601/*/*.parquet"
+    }
+  ],
+  "recordSet": [
+    {
+      "@type": "cr:RecordSet",
+      "dataType": "cr:Split",
+      "key": { "@id": "5768_splits/split_name" },
+      "@id": "5768_splits",
+      "name": "5768_splits",
+      "description": "Splits for the 5768 config.",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "5768_splits/split_name",
+          "dataType": "sc:Text"
+        }
+      ],
+      "data": [
+        { "5768_splits/split_name": "train" },
+        { "5768_splits/split_name": "test" },
+        { "5768_splits/split_name": "val" }
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "@id": "5768",
+      "description": "gtfintechlab/all_annotated_sentences_25000 - '5768' subset\n\nAdditional information:\n- 3 splits: train, test, val",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "5768/split",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-5768" },
+            "extract": { "fileProperty": "fullpath" },
+            "transform": {
+              "regex": "5768/(?:partial-)?(train|test|val)/.+parquet$"
+            }
+          },
+          "references": { "field": { "@id": "5768_splits/split_name" } }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "5768/sentences",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-5768" },
+            "extract": { "column": "sentences" }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "5768/stance_label",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-5768" },
+            "extract": { "column": "stance_label" }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "5768/time_label",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-5768" },
+            "extract": { "column": "time_label" }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "5768/certain_label",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-5768" },
+            "extract": { "column": "certain_label" }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "5768/year",
+          "dataType": "cr:Int64",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-5768" },
+            "extract": { "column": "year" }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "5768/bank_name",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-5768" },
+            "extract": { "column": "bank_name" }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "5768/__index_level_0__",
+          "dataType": "cr:Int64",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-5768" },
+            "extract": { "column": "__index_level_0__" }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "dataType": "cr:Split",
+      "key": { "@id": "78516_splits/split_name" },
+      "@id": "78516_splits",
+      "name": "78516_splits",
+      "description": "Splits for the 78516 config.",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "78516_splits/split_name",
+          "dataType": "sc:Text"
+        }
+      ],
+      "data": [
+        { "78516_splits/split_name": "train" },
+        { "78516_splits/split_name": "test" },
+        { "78516_splits/split_name": "val" }
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "@id": "78516",
+      "description": "gtfintechlab/all_annotated_sentences_25000 - '78516' subset\n\nAdditional information:\n- 3 splits: train, test, val",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "78516/split",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-78516" },
+            "extract": { "fileProperty": "fullpath" },
+            "transform": {
+              "regex": "78516/(?:partial-)?(train|test|val)/.+parquet$"
+            }
+          },
+          "references": { "field": { "@id": "78516_splits/split_name" } }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "78516/sentences",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-78516" },
+            "extract": { "column": "sentences" }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "78516/stance_label",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-78516" },
+            "extract": { "column": "stance_label" }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "78516/time_label",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-78516" },
+            "extract": { "column": "time_label" }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "78516/certain_label",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-78516" },
+            "extract": { "column": "certain_label" }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "78516/year",
+          "dataType": "cr:Int64",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-78516" },
+            "extract": { "column": "year" }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "78516/bank_name",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-78516" },
+            "extract": { "column": "bank_name" }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "78516/__index_level_0__",
+          "dataType": "cr:Int64",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-78516" },
+            "extract": { "column": "__index_level_0__" }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "dataType": "cr:Split",
+      "key": { "@id": "944601_splits/split_name" },
+      "@id": "944601_splits",
+      "name": "944601_splits",
+      "description": "Splits for the 944601 config.",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "944601_splits/split_name",
+          "dataType": "sc:Text"
+        }
+      ],
+      "data": [
+        { "944601_splits/split_name": "train" },
+        { "944601_splits/split_name": "test" },
+        { "944601_splits/split_name": "val" }
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "@id": "944601",
+      "description": "gtfintechlab/all_annotated_sentences_25000 - '944601' subset\n\nAdditional information:\n- 3 splits: train, test, val",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "944601/split",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-944601" },
+            "extract": { "fileProperty": "fullpath" },
+            "transform": {
+              "regex": "944601/(?:partial-)?(train|test|val)/.+parquet$"
+            }
+          },
+          "references": { "field": { "@id": "944601_splits/split_name" } }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "944601/sentences",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-944601" },
+            "extract": { "column": "sentences" }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "944601/stance_label",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-944601" },
+            "extract": { "column": "stance_label" }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "944601/time_label",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-944601" },
+            "extract": { "column": "time_label" }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "944601/certain_label",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-944601" },
+            "extract": { "column": "certain_label" }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "944601/year",
+          "dataType": "cr:Int64",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-944601" },
+            "extract": { "column": "year" }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "944601/bank_name",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-944601" },
+            "extract": { "column": "bank_name" }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "944601/__index_level_0__",
+          "dataType": "cr:Int64",
+          "source": {
+            "fileSet": { "@id": "parquet-files-for-config-944601" },
+            "extract": { "column": "__index_level_0__" }
+          }
+        }
+      ]
+    }
+  ],
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
+  "name": "all_annotated_sentences_25000",
+  "description": "\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nFor dataset summary, please refer to https://huggingface.co/datasets/gtfintechlab/all_annotated_sentences_25000\n\n\t\n\t\t\n\t\tAdditional Information\n\t\n\nThis dataset is annotated across three different labels: Stance Detection, Temporal Classification, and Uncertainty Estimation. The labels have four, two, and two unique values that they can hold, respectively. This dataset contains 25,000 sentences taken from the meeting minutes of the 25 central banks referenced in our… See the full description on the dataset page: https://huggingface.co/datasets/gtfintechlab/all_annotated_sentences_25000.",
+  "alternateName": [
+    "gtfintechlab/all_annotated_sentences_25000",
+    "all_annotated_sentences_25000"
+  ],
+  "creator": {
+    "@type": "Organization",
+    "name": "Financial Services Innovation Lab, Georgia Tech",
+    "url": "https://huggingface.co/gtfintechlab"
+  },
+  "keywords": [
+    "text-classification",
+    "English",
+    "cc-by-nc-sa-4.0",
+    "10K - 100K",
+    "parquet",
+    "Tabular",
+    "Text",
+    "Datasets",
+    "pandas",
+    "Croissant",
+    "Polars",
+    "arxiv:2410.20651",
+    "🇺🇸 Region: US",
+    "finance",
+    "econ"
+  ],
+  "license": "https://choosealicense.com/licenses/cc-by-nc-sa-4.0/",
+  "url": "https://huggingface.co/datasets/gtfintechlab/all_annotated_sentences_25000"
+}

@@ -1,0 +1,71 @@
+#           MONETARY PROGRAM FOR SEPTEMBER 2017
+ BCRP LOWERED THE POLICY INTEREST RATE TO 3.50%
+
+1. The Board of the Central Reserve Bank of Peru approved to lower the monetary policy
+
+interest rate by 25 basis points to 3.50 percent.
+
+This level of the benchmark rate is compatible with an inflation forecast in which inflation
+remains within the target range during 2017 and 2018. This forecast takes into account the
+following factors:
+
+i) The increase in prices of some food products and water tariffs in August will have a
+
+transitory effect on inflation. Measures of inflationary trend are within the target range
+and are projected to continue to decline in the coming months;
+
+ii) Expectations of inflation in 12 months’ time continued to decrease, standing at 2.7
+
+percent in August;
+
+iii) The pace of growth of domestic economic activity continues to be below its potential
+
+growth level. Economic activity is expected to recover as a result of increased
+government and private spending, and
+
+iv) The world economy continues to show a gradual recovery, although there is still some
+
+uncertainty associated with a possible reversal of central banks’ monetary stimulus in
+developed countries.
+
+2. The Board oversees new data on inflation and inflation determinants to assess the
+
+convenience of making additional changes in the monetary policy stance if deemed
+necessary.
+
+3. Inflation in August recorded a rate of 0.67 percent, as a result of which the year-to-year rate
+
+of inflation rose from 2.85 percent in July to 3.17 percent in August. If it not considers the
+contribution of the increases in prices of water and lemon, the inflation on the month would
+be 0.07 percent and the year-to-year inflation, 2.41 percent. Inflation without food and energy
+recorded 0.38 percent, as a result of which the year-to-year rate rose from 2.36 percent in
+July to 2.57 percent in August, within the target range (1-3 percent). Inflation is forecast to
+converge to the target range during 2017 and remain within this range during 2018.
+
+4. The indicators of business expectations have improved and remain on the optimistic side.
+
+GDP is expected to grow between 2.5 and 3.0 percent in 2017.
+
+5. The Board of the Central Bank also approved to lower the annual interest rates on lending
+
+and deposit operations in domestic currency (not included in auctions) between BCRP and
+the financial system, as specified below:
+
+a. Overnight deposits: 2.25 percent.
+b. Direct repos and rediscount operations: i) 4.05 percent for the first 15 operations
+
+carried out by a financial institution in the last 12 months, and ii) the interest rate set
+by the Committee of Monetary and Foreign Exchange Operations for additional
+operations to the 15 first operations carried out in the last 12 months.
+
+c. Swaps: a commission equivalent to a minimum annual effective cost of 4.05 percent.
+
+6. The Board will approve the Monetary Program for October on its meeting of October 12,
+
+2017.
+
+Lima, September 14, 2017
+
+
+-----
+

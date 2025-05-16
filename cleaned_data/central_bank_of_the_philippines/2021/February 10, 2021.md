@@ -1,0 +1,256 @@
+**HIGHLIGHTS OF THE MEETING OF THE MONETARY BOARD ON THE MONETARY POLICY**
+
+**STANCE HELD ON 11 FEBRUARY 2021[1]**
+
+
+**I.** **Monetary Policy Decision**
+
+The Monetary Board decided to:
+
+a) Maintain the overnight RRP (borrowing) rate at 2.00 percent; and
+
+b) Maintain accordingly the current levels of overnight deposit and overnight lending rates
+
+at 1.50 percent and 2.50 percent, respectively.
+
+**II.** **Key Considerations in the Formulation of the Monetary Policy Stance**
+
+  - The Monetary Board’s decision was based on its assessment that inflation is likely to remain
+elevated in the coming months, reflecting the impact of supply constraints on domestic prices
+of key food commodities such as meat and vegetables as well as the recent uptick in
+international oil prices. At the same time, the latest baseline forecasts show inflation returning
+to within the target range of 2-4 percent over the policy horizon as supply-side influences
+subside. Meanwhile, inflation expectations continue to be anchored within the inflation target
+band.
+
+  - In assessing the monetary policy stance, the Monetary Board also noted that the balance of risks
+to the inflation outlook appears to be broadly balanced around the baseline path in 2021 but is
+seen to continue leaning toward the downside in 2022. Tighter supply of meat products owing
+in part to the African Swine Fever (ASF) outbreak in the country could lend further upside
+pressures on inflation. However, the ongoing pandemic may continue to pose downside risks to
+demand and to the inflation outlook. While recent indicators of activity and sentiment have
+shown some improvement, the emergence of new variants of the virus and possible delays in
+mass vaccination programs continue to temper prospects for economic recovery and growth.
+
+  - Given these considerations, the Monetary Board was of the view that monetary policy settings
+remained appropriate in providing sustained accommodation to domestic activity. All forwardlooking information on the inflation environment also continues to suggest an eventual
+deceleration to target over the policy horizon, with the greater part of ongoing price pressures
+concentrated in a specific range of CPI components. The effective and timely implementation of
+non-monetary direct measures to address supply issues of key commodities would be crucial in
+helping temper near-term pressures and avoid second-round effects. At the same time, the
+BSP’s previous policy easing measures should be allowed to continue to work their way through
+the economy, thereby complementing crucial fiscal policy measures in supporting private
+demand and market confidence.
+
+1 The discussions herein reflect the assessment made by the Monetary Board based on a comprehensive set of economic information available at the
+
+i f h li i Th i f h M B d h li i h d l d 25 M h 2021
+
+
+-----
+
+**III.** **Recent Developments and Inflation Outlook**
+
+The Monetary Board considered the following developments in deciding on the monetary
+
+policy stance:
+
+**A. Domestic price conditions**
+
+  - Year-on-year headline inflation rose to 4.2 percent in January, which was higher than the
+3.5 percent in December and was above the BSP’s monthly forecast of 3.3-4.1 percent for the
+month. The higher inflation outturn was due mainly to faster price increases of selected key
+food items. Inflation for meat remained elevated as domestic supply continued to be adversely
+affected by the ASF outbreak. Year-on-year inflation for fruits and vegetables also increased,
+further contributing to the rise in food inflation. Vegetable prices have gone up with the onset
+of the lean season as well as supply disruptions following the series of typhoons in late 2020.
+Fish inflation also went up as a result of reduced supply with the close of the fishing season.
+Fishing operations were also hampered by the Northern Monsoon. Meanwhile, year-on-year
+non-food inflation held steady in January 2021 compared to December 2020.
+
+  - Official core inflation, which excludes selected volatile food and energy items to measure
+underlying price pressures, also inched up to 3.4 percent year-on-year in January 2021 from
+3.3 percent in December 2020.
+
+**B.  Inflation expectations**
+
+  - The latest results of the BSP’s survey of private sector analysts for January 2021 showed the
+mean inflation forecast for 2021 rising to 3.4 percent from 3.0 percent based on the December
+2020 survey. Meanwhile, the mean inflation forecast for 2022 was unchanged at 3.0 percent.
+The mean inflation forecast for 2023 stood at 3.0 percent. The BSP’s survey of private sector
+economists was conducted from 5 to 25 January 2021.
+
+**C.  Inflation outlook**
+
+  - The latest baseline forecasts suggest that inflation is projected to accelerate above the highend of the target range from Q1 to Q3 2021 due to the transitory impact of supply-side price
+pressures as well as positive base effects. Inflation is expected to average at 4.0 percent for
+2021 and 2.7 percent for 2022. The upward revision in the 2021 forecast was due largely to the
+higher-than-expected inflation outturns in December 2020 and January 2021 and the increase
+in global commodity prices. Meanwhile, the forecast for 2022 was slightly lower compared to
+the previous round due primarily to negative base effects.
+
+**Baseline Inflation Forecasts**
+
+**Forecast as of** **Forecast as of**
+
+**17 December 2020** **11 February 2021**
+
+2021 3.2 4.0
+
+2022 2.9 2.7
+
+  - The risks to the inflation outlook appear to be broadly balanced for 2021 but could remain on
+the downside for 2022. Supply-side price pressures from oil and meat prices along with the
+impact of an earlier rollout of COVID-19 vaccines on domestic economic activity are the primary
+upside risks to inflation. Meanwhile, lower tariff rates on meat products and the potential
+
+|Baseline Inflation Forecasts|Col2|Col3|
+|---|---|---|
+||Forecast as of 17 December 2020|Forecast as of 11 February 2021|
+|2021|3.2|4.0|
+|2022|2.9|2.7|
+
+
+-----
+
+impact on global and domestic economic prospects due to delays in mass vaccination and the
+spread of new variants of the virus are the main downside risks to inflation.
+
+**D. Demand conditions**
+
+  - Philippine GDP is projected to contract until Q1 2021 while consumer and business sentiment
+have been aided by expectations of vaccine rollout. Greater fiscal support could also help
+minimize possible economic scarring and sustain the country’s nascent recovery.
+
+  - Domestic economic activity is projected to contract at a slower pace in Q1 2021 before
+recovering in Q2 2021 onwards. The decline in GDP is seen to be driven primarily by further
+deterioration in the services sectors, which remained heavily affected by the pandemic despite
+the easing in quarantine measures. In particular, the services sector is likely to continue to
+contract due to the slowdown in transport, tourism, and other service activities. Meanwhile, the
+agriculture sector is projected to expand slightly due to improved weather conditions during the
+quarter. Likewise, the industry sector could begin to gradually expand as manufacturing activity
+picks up based on evidence from high-frequency indicators.
+
+  - Forward-looking indicators for manufacturing production suggest slight improvement in
+business operations. The preliminary composite PMI in January 2021 breached the 50-point
+expansion threshold at 50.7, an increment of 1.4 index points from the December PMI of 49.3.
+The higher PMI in January may be attributed to the faster expansion of the manufacturing and
+retail and wholesale sectors brought about by the improvement in overall demand. On the other
+hand, the continued implementation of quarantine measures in major cities across the world
+contributed to the faster contraction of the services sector during the month in review.
+Meanwhile, respondent-firms generally anticipate less favorable business environment in
+February 2021 on possible delays in vaccine distribution.
+
+  - As quarantine measures in NCR and surrounding provinces have eased, mobility activity has also
+been gradually rising closer to pre-COVID baseline figures in locations such as grocery and
+pharmacy, parks, and retail and recreation. Most of the mobility indicators temporarily
+breached the baseline during the holiday period before reverting to below baseline figures in
+January 2021, albeit continuing to improve which suggests a rise in economic activity for the
+Philippines. Meanwhile, mobility numbers under residential have been gradually declining,
+implying that people are staying less at home. On the other hand, transit stations remained
+subdued amid limited public transportation options despite easing containment measures in the
+country.
+
+**E.  Supply-side indicators**
+
+Developments in Agriculture
+
+  - Domestic retail rice prices remained stable, owing to ample supply of the grain, and moved
+closer to international prices as envisioned with the enactment of R.A. No. 11203.
+
+  - Meanwhile, the continued escalation of the ASF outbreak has lowered domestic hog supply,
+which in turn led to the increase in pork prices. The Department of Agriculture (DA) has rolledout measures to help stabilize the supply and price of meat, which include increased shipments
+of hogs from ASF-free provinces, swine repopulation program, and ASF control and
+management programs. In addition, the government is studying the reduction of tariffs for
+imports of pork to augment domestic supply conditions.
+
+
+-----
+
+  - According to the latest climate advisory of the Philippine Atmospheric, Geophysical and
+Astronomical Services Administration[2], moderate La Niña is expected to continue until April
+2021, which is anticipated to adversely affect vulnerable areas and sectors of the country since
+a La Niña event is associated with above normal rainfall condition.
+
+Oil Price Developments
+
+  - International crude oil prices rallied in January 2021 amid ongoing COVID-19 vaccine rollout,
+which boosted market sentiment along with constrained production given OPEC+ agreement.
+As such, energy analysts expect market demand to outstrip supply for both 2021 and 2022.
+The rise in prices in the near term resulted in a backwardation of curve. However, crude oil price
+path remained highly uncertain given the new virus strains and bottlenecks in the supply of and
+distribution of vaccines. In the domestic market, pump prices have also been rising with some
+risks toward the upside with the impending closure of the Petron refinery.
+
+Developments in the Utilities Sector
+
+  - The overall electricity rate increased slightly in January 2021 due to higher power generation
+charges. According to Meralco, the upward adjustment in the generation cost was primarily due
+to higher charges from Power Supply Agreements (PSAs) and Independent Power Producers
+(IPPs) as Luzon peak demand in December 2020 decreased on the back of cooler temperature
+and more non-working holidays relative to November. Similarly, the demand for power in
+Meralco’s franchise in December 2020 fell to its lowest since the lifting of the enhanced
+community quarantine (ECQ) in May 2020. Meralco stated that the lower demand led to fixed
+costs from power suppliers being spread over lower energy volume, resulting in higher effective
+generation rates to consumers.
+
+**F. Financial market developments**
+
+  - In January 2021, the peso appreciated slightly against the US dollar, partly owing to positive
+sentiment amid the country’s record-high Gross International Reserve (GIR) at end-December
+2020 of $110.12 billion, as well as Fitch Ratings’ affirmation of the Philippines’ “BBB” investment
+credit rating. However, market cautiousness over (i) the continued rise in coronavirus infections
+locally; (ii) the decline in foreign direct investments (FDI) in October 2020; and (ii) increasing
+global oil prices partly tempered the peso’s appreciation.
+
+**G. Domestic liquidity and credit conditions**
+
+  - Domestic liquidity growth slowed in December 2020. Preliminary data show that domestic
+liquidity (M3) expanded by 9.5 percent year-on-year to about ₱14.2 trillion in December. This
+was slower than the 10.5-percent growth in November. Meanwhile, with the ongoing health
+crisis constraining domestic economic activity, bank lending further slowed down due to muted
+business confidence and banks’ stricter loan standards attributed mainly to continued
+disruptions in business operations. Outstanding loans of universal and commercial banks
+declined by 0.7 percent in December after increasing by 0.5 percent in November.
+
+  - Nevertheless, liquidity in the financial system remained ample as a result of the BSP’s
+extraordinary liquidity-enhancing measures. The increased liquidity in the financial system is
+reflected in continued oversubscriptions in the T-bill and T-bond auctions by the BTr in January
+2021, which have resulted in full awards on the back strong demand for GS amid manageable
+
+2 S l Cli O l k R f 27 J 2021
+
+
+-----
+
+inflation expectations. Similar oversubscriptions have been observed in TDF, RRP, and the BSP
+bills auctions, while transactions in the interbank market and overnight lending facility (OLF) of
+the BSP have diminished significantly. Domestic interest rates have also been declining following
+the BSP’s cumulative 200-bp policy rate cut in 2020.
+
+**H.  Fiscal developments**
+
+  - The National Government (NG) recorded a ₱1,068.9 billion fiscal deficit for January – November
+2020. Netting out the interest payments in NG expenditures, the primary deficit amounted to
+₱713.8 billion, more than nine-fold of the amount recorded in the previous year.
+
+**I.  External developments**
+
+  - Global prospects improve amid vaccine rollout although headwinds remain from renewed
+waves and new virus variants. In the January 2021 World Economic Outlook Update, the IMF
+raised its full-year economic growth projection for 2021 relative to its October 2020 WEO
+forecast. The upward revision reflects the stronger-than-projected momentum on average
+across regions in the second half of 2020, expectations of COVID-19 vaccine-related
+improvements in economic activity in the latter part of 2021, and additional policy support in
+some large economies, notably in the US and Japan.
+
+  - Nevertheless, even as recent vaccine approvals have raised hopes of a recovery from the crisis,
+exceptional uncertainty surrounds the outlook as renewed COVID-19 waves and new virus
+variants pose risks. Moreover, the pace of rebound from the pandemic is seen to vary
+significantly across countries, depending on the severity of the crisis, access to medical
+interventions, effectiveness of policy support, exposure to cross-country spillovers, and
+structural characteristics entering the health crisis.
+
+
+-----
+

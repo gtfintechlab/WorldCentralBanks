@@ -1,0 +1,256 @@
+**Edited Minutes of the Monetary Policy Committee Meeting (No. 5/2022)**
+
+**23 and 28 September 2022, Bank of Thailand**
+
+**Publication Date: 12 October 2022**
+
+**Members Present**
+
+Sethaput Suthiwartnarueput (Chairman), Mathee Supapongse (Vice Chairman), Vachira Arromdee,
+Kanit Sangsubhan, Rapee Sucharitakul, Somchai Jitsuchon, and Subhak Siwaraksa
+
+**The Global Economy and Financial Markets**
+
+**Thailand’s trading partner economies were projected to slow down,** with growth revised
+down from 3.4 percent in 2022 and 3.1 percent in 2023 to 2.9 and 2.6 percent, respectively.
+The downward revision was to reflect the slower growth in advanced economies due to
+elevated inflation and the accelerated pace of policy normalization by several central banks.
+The EU economy has faced additional inflationary pressures from high energy prices as a result
+of the prolonged conflict with Russia. Meanwhile, Asian economies would decelerate in
+response to weaker global demand. China would grow at a slower rate given additional
+impacts on domestic demand following the strict zero-COVID policy imposed in many cities as
+well as protracted stress in the real estate sector.
+
+**Global financial markets were volatile, driven by concerns over soaring inflation and**
+**restrictive monetary policy by several central banks. Most central banks placed more**
+emphasis on tackling rising inflation which led to faster pace of rate hikes. Given the Fed’s
+aggressive rate hikes as well as investors’ concerns over the global slowdown, the US dollar
+had thus strengthened rapidly relative to all other currencies. Government bond yields had
+also risen in most countries while risky asset prices had fallen. The **Thai** **government** **bond**
+**yields gradually increased, with short-term government bond yields rising in line with the Thai**
+policy rate. Meanwhile, long-term government bond yields increased in tandem with US
+Treasury yields. On exchange rates, the baht continued to depreciate against the US dollar
+**due to the strengthening of the US dollar, but was still in line with regional currencies. The**
+magnitude of the baht depreciation was moderate compared with regional peers, while there
+had not been any unusual movements in capital flows. Looking ahead, the financial markets
+would still be subject to high uncertainty. Key risk factors included inflationary pressures,
+monetary policy tightening by major central banks, as well as the global growth outlook.
+
+**Domestic Economy**
+
+**The Thai economy would continue to recover at 3.3 percent in 2022 and 3.8 percent in 2023,**
+**down from 3.3 percent and 4.2 percent previously projected.** This was due to, first, the
+number of foreign tourists that had continued to increase more than expected, with the
+number of tourist arrivals in 2022 being revised up to 9.5 million from 6 million thanks to
+growing travel demand and the relaxation of international travel restrictions. The number of
+tourist arrivals in 2023 was also raised to 21 million from 19 million, with most of them being
+Asian ex-China tourists. Second, private consumption would continue to recover especially
+service consumption, which had returned to the pre-pandemic level on the back of the
+recovery in the tourism sector. In addition, the labor market continued to improve with the
+recovery more evenly distributed. The unemployment rate fell to 1.4 percent and the total
+labor income increased across all groups. Meanwhile, non-farm income was expected to grow
+14 percent in 2022 and 6 percent in 2023, rebounding from the contraction of 18 percent in
+
+
+-----
+
+2020. Self-employed workers’ income, which had been recovering slowly, would also increase
+by 33 percent in 2022 and 9 percent in 2023. Third, merchandise exports would expand as
+expected in 2022 owing to concerns over the food crisis and easing of electronic parts
+shortages. Nevertheless, the growth of merchandise exports could decelerate in 2023 given a
+slowdown in global demand in tandem with trading partners’ economic growth outlook.
+
+**Headline inflation in 2022 would remain largely unchanged from the previous forecast and**
+**was expected to gradually decline in line with global oil and commodity prices. Headline**
+inflation was expected to be at 6.3 percent in 2022 due to elevated energy and fresh food
+prices as well as a gradual increase in cost pass-through, as reflected in the core inflation rising
+to 2.6 percent on the back of food-related products prices. The increase in headline inflation
+was mainly driven by cost-push inflation, while signs of demand-pull inflation were not yet
+observed as the Thai economy was still in the recovery stage. Short-term inflation
+expectations started to fall, while medium-term inflation expectations remained anchored
+within the target range of 1-3 percent. Headline inflation would gradually decline into the
+target range in 2023 when it was expected to be at 2.6 percent on account of decreasing
+energy and domestic retail oil prices. Meanwhile, core inflation was expected to fall to 2.4
+percent in 2023 as cost pressures would subside. However, it would remain at a level
+exceeding the historical average.
+
+**The inflation forecast had taken into account both upside and downside risks**
+**comprehensively. The baseline assessment has already incorporated, to a certain extent,**
+**factors that could give rise to inflation remaining elevated for a prolonged period of time.**
+**As such, the risks to the baseline inflation forecast were largely symmetric. On the one hand,**
+**inflation could be higher than the baseline projection due to several factors. First, cost pass-**
+through could increase if businesses were to face rising cost pressure from multiple sources
+simultaneously. The Thai baht depreciation would also be monitored as it could exert
+additional pressures on businesses’ import prices. Moreover, demand-pull inflation could pick
+up in the period ahead as the economic recovery started to gain pace. Second, energy-related
+government relief measures, such as excise tax reduction or electricity bill subsidy, could end
+earlier or be less than expected. Third, labor market conditions could tighten as wages rise in
+some sectors and areas that had faced labor shortages. Although there have not been signs of
+a broad-based wage increase, risks from tight labor market conditions should be monitored in
+the period ahead, especially in some labor-intensive industries. On the other hand, inflation
+**could also be lower than the baseline projection if energy prices were to decline more than**
+the baseline assessment due to falling demand as a result of the global slowdown.
+
+**Discussions by the Committee**
+
+  - **The Committee assessed that the economic recovery would continue to gain traction**
+
+**mainly on the back of tourism and domestic consumption. Global economic**
+**slowdown would have an impact on merchandise exports but would not derail the**
+**overall economic recovery.** Inbound tourism could recover more strongly than
+expected thanks to further relaxation of international travel restrictions and Thailand’s
+tourism promotion policy. Also, tourism recovery should be relatively insusceptible to
+global recession as the recent inbound foreign tourist arrivals were mostly short-haul
+and premium travelers whose decisions to travel were not significantly affected by the
+economic conditions in their countries. Meanwhile, private consumption was expected
+to continue recovering in a more broad-based manner, supported by the income
+
+
+-----
+
+improvement that had spread into the services sector and low-income households. As
+a result, this would be an important driver of private consumption in the period ahead.
+However, some members perceived that the global slowdown would be a risk that
+could affect Thai merchandise exports more than expected and would continue to
+closely monitor the outlook of global and trading partner economies.
+
+- **The Committee viewed that inflation risks remained high and must be closely**
+
+**monitored, especially for core inflation.** This was reflected in the rise in several
+categories of prices in core inflation due to higher and more widespread cost passthrough. Businesses could pass on costs further in the face of simultaneous price
+increases from multiple sources, such as raw material prices, oil prices, and wages.
+Such pass-through could affect inflation expectations and thus should be monitored
+along with inflation dynamics and inflation expectations in the period ahead.
+
+- **The Committee noted that potential labor shortages in some recovering labor-**
+
+**intensive businesses, such as hotels, restaurants, and construction, could create**
+**upward pressures on wages and limit the recovery in such businesses. Workers who**
+had previously relocated still faced difficulty returning to the labor force, such as a lack
+of resources to start a new job in economic zones. Additionally, some Thai workers had
+switched to self-employed jobs with better pay in line with growth of e-commerce
+sector, which could cause labor shortages and wage pressures to continue for some
+time. Developments in the labor market and wage increases should thus be monitored
+in the period ahead. Meanwhile, the increase in minimum wage in October 2022 had
+a limited impact on overall wages as most workers already earned more than the
+minimum wage. The knock-on effect on higher wages was hence limited.
+
+- **The Committee viewed that the depreciation of the baht against the US dollar had**
+
+**been rapid and continuous due to the strengthening of the US dollar but was still in**
+**line with regional currencies. The nominal effective exchange rate (NEER) had only**
+depreciated by around 2 percent since the start of 2022, indicating that the baht
+movements were in line with those of trading partner currencies and thus did not
+affect Thailand’s competitiveness. Also, there had not been any unusual capital flow
+movements, with Thailand’s capital flows still registering net inflows since the start of
+2022. Moreover, Thailand’s external stability remained resilient and would be able
+**to accommodate volatilities in capital flows. Thailand’s international reserves were**
+ranked the 12[th]-highest worldwide and amounted to more than 3 times the short-term
+external debt. Meanwhile, Thailand’s external debt was low at only 38 percent of GDP.
+Moreover, the recovery in the tourism sector would help reduce the current account
+deficit and curb depreciation pressure in the period ahead. **Nevertheless, the**
+**Committee was concerned that the rapid depreciation of the baht could create**
+**additional cost pressures for businesses and would accelerate more cost pass-**
+**through. This would in turn affect inflation and therefore developments in the**
+**foreign exchange market should be closely monitored, especially in the period of**
+**heightened volatilities.**
+
+- **The Committee deemed that gradual and measured policy normalization remained**
+
+**an appropriate stance of monetary policy and would be ready to adjust the size and**
+**timing of policy normalization should the growth and inflation outlook shift from the**
+
+
+-----
+
+**current assessment. The gradual policy normalization was consistent with the current**
+growth and inflation outlook due to the followings:
+**(1)** **The economic recovery continued to gain traction and was more broad-based,**
+
+both in terms of business sectors, especially services, and in terms of income
+distribution. As a result, the Thai economy was ready to accommodate a gradual
+normalization to the level that would be consistent with sustainable growth in the
+long term.
+
+**(2)** **Headline inflation was close to the previous assessment, driven mainly by supply-**
+
+side and global factors which would subside in the period ahead. Meanwhile, the
+**risks to core inflation increased, mainly due to cost pass-through. Nonetheless,**
+**demand-pull inflationary pressures were still limited as the Thai economy was**
+**still in the early stage of recovery. Moreover, the wage-price spiral risks remained**
+limited as non-farm workers, or those who earn wages, accounted for only 44
+percent of total workers in Thailand, compared to 85-92 percent in the United
+States, Germany, and the UK. Thailand’s labor supply was also more elastic than
+that of other countries. Workers in Thailand could move quite easily across sectors
+in response to changing demand in different situations.
+
+**(3)** **There remained vulnerabilities in some businesses and households, especially**
+
+**SMEs in some sectors that had yet to fully recover and low-income households**
+**that were sensitive to the rising living costs who would be affected by aggressive**
+policy rate hikes and could in turn derail the recovery. The Committee thus viewed
+that a gradual policy normalization should be done in conjunction with targeted
+measures and sustainable debt solutions to support vulnerable groups.
+
+Notwithstanding, should the growth and inflation outlook shift from the current
+**assessment, the Committee would be ready to adjust the size and timing of policy**
+**normalization accordingly.** For example, if the economy could recover faster than
+expected or inflation could persistently rise from demand-pull pressures, the
+Committee could consider raising the policy rate by more than 0.25 percentage point.
+On the other hand, the Committee could consider temporarily halting the hikes to
+await clarity should more uncertainties ensue in the period ahead, such as if the global
+economy were to slow down by more than currently assessed.
+
+**Monetary policy decision**
+
+**The Committee voted unanimously to raise the policy rate by 0.25 percentage point from**
+**0.75 to 1.00 percent.**
+
+The Committee viewed that the Thai economic recovery would continue to gain traction,
+mainly driven by tourism and private consumption. The tourism sector recovered better than
+expected from the continued increase in the number of foreign tourist arrivals. Moreover, the
+economic recovery was more broad-based, both in terms of business sectors, especially
+services, and in terms of income distribution. Headline inflation remained at a high level as
+cost pass-through had increased in recent periods, despite declining global oil prices and
+subsiding supply chain bottlenecks. Core inflation increased mainly due to higher cost passthrough. Nonetheless, demand-pull inflationary pressures were still limited as the Thai
+economy was still in the recovery stage, while signs of a broad-based wage increase were not
+yet observed. However, there remained a need to closely monitor risks to inflation. **The**
+**overall growth and inflation outlook remained largely unchanged from the previous**
+
+
+-----
+
+**assessment. The Committee deemed that gradual and measured policy normalization**
+**remained an appropriate course for monetary policy and thus voted to raise the policy rate**
+**by 0.25 percentage point at this meeting.**
+
+**The Committee deemed it important to have targeted measures and sustainable debt**
+**solutions in place for vulnerable groups.** The Committee assessed that overall financial
+system remained resilient. Commercial banks had high levels of capital and loan loss provision.
+Debt serviceability of households and businesses had improved in line with the economic
+recovery. However, SMEs in some sectors had yet to fully recover and some low-income
+households were sensitive to the rising living costs. Financial institutions should thus continue
+to press ahead with debt restructuring.
+
+**The Committee viewed that overall financial conditions remained accommodative.** Real
+interest rates remained negative and overall funding costs were still conducive for business
+financing, although government bond yields gradually increased in line with the outlook of
+policy normalization. The depreciation of the baht against the US dollar was rapid and
+continuous due to the strengthening of the US dollar but was still in line with regional
+currencies. The Committee would continue to closely monitor developments in the financial
+**and exchange rate markets, especially in the period of heightened volatilities.**
+
+Under the monetary policy framework with objectives of maintaining price stability,
+supporting sustainable and full-potential economic growth, and preserving financial stability,
+**the Committee judged that the Thai economy would continue to recover but with increased**
+**inflation risks. The policy rate should be normalized in a gradual and measured manner to**
+**the level that would be consistent with sustainable growth in the long term. The Committee**
+**would be ready to adjust the size and timing of policy normalization should the growth and**
+**inflation outlook shift from the current assessment.**
+
+Monetary Policy Group
+12 October 2022
+
+
+-----
+

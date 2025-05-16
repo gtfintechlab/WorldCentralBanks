@@ -1,0 +1,73 @@
+# Minutes of a Meeting of the Board of Directors of Banco de la República Held on February 25, 2011 
+ A regular meeting of the Board of Directors of Banco de la República was held in the city of Bogotá on February 25, 2011.
+ Present:  Mr. Juan Carlos Echeverry, Minister of Finance and Public Credit Mr. José Darío Uribe, Governor, Banco de la República 
+ Full-time Board Members in Attendance: Mr. Carlos Gustavo Cano  Mr. Juan José Echavarría  Mr. Fernando Tenjo Mr. Cesar Vallejo Mr. Juan Pablo Zárate
+ Inflation and the economic situation were discussed with respect to growth and prospects for the future, and monetary-policy decisions were reached.  The following is a summary of the main topics addressed at the meeting. 
+ 1. BACKGROUND 
+ a. Recent Developments in Inflation 
+ Annual consumer inflation in January was 3.4% (0.91% for the month). This is 13 basis points (bp) more than in December.
+ The increase in inflation compared to December was due to upward pressure from food and regulated items. The annual variation in food prices went from 4.1% in December to 4.8% in January, bolstered mainly in this instance by tradable foods and beef. Although annual inflation in perishable foods affected by winter weather remains high, its contribution to the build-up in inflation was less on this occasion than in past months. The annual change
+
+
+-----
+
+# in regulated prices went from 6.6% in December to 7.0% in January, and was concentrated in fuels. 
+ In contrast, the annual variation in prices for non-tradable goods and services, excluding food and regulated items, declined from 3.5% in December to 3.4% in January. The annual change in prices for tradables, excluding food and regulated items, remained stable, but continues to be in negative terrain. 
+ As for the core inflation indicators, their average in January remained stable at 2.5%. The lowest indicator was still the CPI, excluding food and regulated items, with an annual rate of 1.7%. On the other hand, the annual change in producer prices (PPI) came to 4.3%, which is slightly less than the figure posted in December (4.4%). As to its make-up, there was an increase in the annual variation in the imported component and a decline in that of the national component. 
+ In January, inflation expectations for the end of 2011 were the same as the month before (3.6%). The situation with respect to expectations at one year and for longer periods (5 and 10 years), measured with government bonds, was similar. The latter surpass the long-term target range (2% - 4%).
+ b. Growth 
+ The figures available for the end of 2010 suggest a fourth-quarter rise in GDP similar to the increase registered for the third quarter of 2010. In which case, the Colombian economy would have grown at a rate of nearly 4.0% for the year as a whole. Said performance would be based on the momentum in internal demand, fueled primarily by household consumption and by gross fixed capital formation. 
+ Despite a setback in consumer confidence during the last four months of 2010, its level in January, as measured by the Fedsarrollo indicator, is not low in historic terms. Added to this is the continued expansion in consumer lending, at high rates in December and January, and retail sales, which posted an annual increase of 12.4% in December. This being the case, it is still reasonable to expect good growth in private consumption for the final quarter of 2010 and the first quarter of 2011. 
+
+2
+
+
+-----
+
+# Imports of capital goods, with strong growth at the end of the year, suggest the momentum in investment in capital goods is still positive. Likewise, the increase in building permits during November points to better impetus in home construction during 2011, as does the December increase in cement sales.
+ With respect to foreign trade, total exports in dollars at December showed an annual variation of 20.1%, largely due to the mining, energy and coffee sector, which registered 30.4% annual growth. The cumulative 12- month increase in total exports is 21.1%. Total imports in dollars showed an annual variation of 30.1% in December. The cumulative 12-month increase in total imports came to 23.7%. 
+ Generally speaking, the macroeconomic conditions continue to signal an important amount of economic growth in 2011. Specifically, the expectation is still one of growing world demand, high terms of trade, which will increase compared to 2010, elevated FDI flows, a recovery in jobs, and broad terms for internal lending, with relatively low real interest rates. Accordingly, GDP is expected to perform favorably in 2011 and to be around 4.5%. Nevertheless, this expectation is surrounded by a great deal of uncertainty, given the various economic and political risks facing the world, as well as the extent of growth in public spending in Colombia. 
+ c. Financial Variables 
+ Nominal interest rates on consumer and ordinary lending averaged 17.5% and 10.1% in January, with respective increases on the order of 65 bp and 77 bp compared to the month before. The rate on mortgage loans was 12.1%, which is 11bp less than what is was in December. 
+ The annual increase in the total gross loan portfolio in domestic currency came to 14.9% in January, as opposed to 14.1% the month before. The consumer and mortgage loan portfolios are still the most dynamic, with respective annual variations of 21.9% and 16.7%. The annual increase in the commercial loan portfolio was 13.3% by January. 
+ The interest rates on one-year and five-year government bonds rose 37 bp and 46 bp, respectively, between January 28 and January 25, 2011. Interest on the 10-year bond was 8.9%, which is 42 bp more than the rate posted on January 28.
+
+3
+
+
+-----
+
+# d. The External Context 
+ The external context is marked by the effects political unrest in certain countries is beginning to have on the economic situation worldwide. The impact, in the short term, has been a considerable jump in the price of oil and a drop in world stock markets. 
+ As for world growth, it continues to occur at two speeds. On the one hand, there are the developed countries with moderate growth, although the results for the US economy showed better than expected performance. On the other hand, the emerging economies continue to grow at a fast pace, propelled by Asia and Latin America. 
+ The better than expected performance in the United States during the fourth quarter of 2010 (2.8% annualized quarterly -a/q-) would be explained by the boost from household consumption and net exports. However, there are still a number of risks to economic recovery in the US. First of all, unemployment remains high and its duration has increased. Secondly, loans to households and companies are still at low levels and there is no sign of a revival any time soon. Thirdly, the rise in oil prices could jeopardize the gains in available household income and put the brakes on consumption. 
+ The Euro zone grew at a modest rate of 1.2% (a/q), with Germany showing high growth rates and the periphery, low growth rates or even declines in some cases. Although the past month saw less risk in the zone, measured on the basis of CDs at five years of sovereign debt, the solvency of the European peripheral economies is still in doubt and a possible intensification of the upheaval in the Euro zone cannot be ruled out. 
+ On the other hand, international commodity prices have increased in recent months because of supply and demand factors. In the case of demand, good performance by the emerging economies and an increased use of farm products to produce biofuels has brought upward pressure to bear on the price of many agricultural goods. On the supply side, the problems with weather since mid-2010 and recent political events have contributed to the increase in these prices. In this context, the impact of the weather is likely to subside during the course of the year. As for the impact from demand, it may last longer, since it obeys structural factors associated with the good performance expected of the emerging economies. 
+
+4
+
+
+-----
+
+# In this environment of good world growth (fueled largely by the emerging economies) and high commodity prices, some central banks, mainly those of the emerging economies, have begun to reduce the monetary stimulus by raising their interest rates to keep inflation in check.
+ 2. DISCUSSION AND POLICY OPTIONS 
+ The Board of Directors emphasized the following aspects relative to the way inflation performed during the month:
+ (i) Annual consumer inflation was 3.40% in January, which is similar to what the market expected and 23 basis points above the December figure. As witnessed in the two months before, most of the pressure came from prices for food and regulated items, especially fuel.  (ii) The core inflation indicators remained stable, and their average is still in the lower half of the target range. (iii) The past three months saw an increase in inflation expectations, which continued during February, even though the outcome for inflation the month before was what the market expected. Although inflation expectations at one year were in the upper half of the target range, those between two and 10 years, measured with government bonds, completed two straight months above the ceiling of that range.
+ The following was highlighted with respect to economic growth:  (i) Economic growth in 2011 is forecast at around 4.5%, considering that more moderate growth during the second half of 2010, partly due to supply factors, will result in approximately 4% growth for that year.   (ii) Internal demand is showing considerable momentum associated with household consumption as well as investment in machinery and equipment. (iii) The contribution from public spending is expected to be more during 2011 than in 2010. This is consistent with what is observed during periods before local administrations are about to leave office and with the programs put in place to repair the damage cause by the wave of winter weather.  (iv) The forecasts for world growth in 2011 and 2012 have been revised upward at rates that continue to exceed average long-term growth, primarily due to growth in the emerging economies. The latter is manifest in historically high terms of trade for commodity-producing countries like Colombia. 
+
+5
+
+
+-----
+
+# The members of the Board evaluated the possibility of raising intervention interest rates at this meeting, consistent with what was announced at the last meeting on whether or not to gradually reduce the monetary stimulus of past months to make the added momentum in the Colombian economy sustainable over time and to keep inflation within the long-term target range.  In particular, they emphasized the following points:  (i) the existence of a historically low intervention interest rate in both nominal and real terms;  (ii) the risks extremely low interest rates for too long a period of time can imply for financial stability, growth and future inflation;  (iii) the forecast by the Bank’s technical team, which indicates the economy will return to near capacity levels during the second half of the year;  (iv) the delayed impact of monetary policy;  (v) the recent momentum in internal demand, lending and the rise in home prices some time ago; (vi) the inconsistency that could result from having an exceptionally low interest rate coupled with anticipated growth in 2011 and 2012 near the trend and inflation forecast close to the mid-point of the long-term target range: (vii) inflation expectations over one year that surpass the target; and  (viii) the stability of the exchange rate in recent weeks and the favorable results of the foreign currency purchase program. 
+ The risks in the world economy were considered as well; specifically, the continued uncertainty sparked by the fiscal situation in several industrialized countries and the rise in the international price of oil in recent weeks as a result of the political instability in the Middle East.  Moreover, weather factors and the considerable momentum in the emerging economies have intensified inflationary pressure in those countries, particularly because of the recent increase in commodity prices. 
+ 3. POLICY DECISION 
+ The Board of Directors agreed to a 25 basis point increase in Banco de la República’s intervention interest rate, placing it at 3.25%.
+ Bogotá, Colombia March 11, 2011
+
+6
+
+
+-----
+

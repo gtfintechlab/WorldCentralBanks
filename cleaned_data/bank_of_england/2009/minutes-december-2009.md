@@ -1,0 +1,532 @@
+### Publication date: 23 December 2009
+
+## MINUTES OF THE 
+# MONETARY POLICY COMMITTEE MEETING
+## 9 AND 10 DECEMBER 2009
+
+##### These are the minutes of the Monetary Policy Committee meeting held on  9 and 10 December 2009.
+
+ They are also available on the Internet http://www.bankofengland.co.uk/publications/minutes/mpc/pdf/2009/mpc0912.pdf
+
+ The Bank of England Act 1998 gives the Bank of England operational responsibility  for setting interest rates to meet the Government’s inflation target. Operational  decisions are taken by the Bank’s Monetary Policy Committee. The Committee meets  on a regular monthly basis and minutes of its meetings are released on the  Wednesday of the second week after the meeting takes place. Accordingly, the  minutes of the Committee meeting to be held on 6 and 7 January will be published on  20 January 2010.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 9 AND 10 DECEMBER 2009
+
+1 Before turning to its immediate policy decision, the Committee discussed financial market
+
+developments; the international economy; money, credit, demand and output; and supply, costs and
+
+prices.
+
+**Financial markets**
+
+2 Over the month a number of events had caused price volatility in the major financial markets.
+
+But in general that volatility had been short-lived. These events included the request by Dubai World
+
+on 25 November for a debt repayment standstill, and announcements by credit rating agencies in
+
+relation to the sovereign ratings of a number of European countries. These developments had
+
+sharpened market focus on sovereign creditworthiness and some sovereign credit default swap (CDS)
+
+premia had increased.
+
+3 Short-term interest rate expectations had declined over the month, with twelve-month ahead
+
+overnight index swap (OIS) rates falling by around 40 basis points. There had been falls, albeit less
+
+marked, in the United States and the euro area, as financial market participants had reassessed the rate
+
+at which the exceptional degree of monetary stimulus would be withdrawn. Longer-term rates had
+
+fallen too, with government bond yields declining in all three currency areas. There had been little
+
+immediate market reaction to the publication of the Government’s Pre-Budget Report on 9 December.
+
+4 Despite the fall in UK government bond yields, their spreads over OIS rates had increased for the
+
+second successive month. The ten-year spread had fallen by around 90 basis points between the
+
+publication of the February Inflation Report and the beginning of August, but had risen by over 50
+
+basis points subsequently. There were a number of possible explanations for this turnaround. First,
+
+gilt yields might have risen relative to OIS rates in anticipation of higher future gilt issuance. Second,
+
+market participants might have revised down their expectations of the demand for gilts from banks
+
+during the transition to the FSA’s new liquidity requirements. And third, it was possible that the
+
+
+-----
+
+2
+
+gilt-OIS spread could have increased if market participants had altered their views about the eventual
+
+scale or pace of the MPC’s asset purchase programme.[1] The relative importance of these, or other,
+
+potential explanations in explaining the recent increase in the gilt-OIS spread was unclear.
+
+5 Equity prices had risen by around 1% in the United Kingdom and the rest of Europe on the
+
+month, and by nearly 5% in the United States. But UK equity prices remained over 20% below
+
+pre-crisis peaks. Sterling investment-grade corporate bond spreads were roughly unchanged over the
+
+month, although yields had fallen.
+
+6 The sterling effective exchange rate had fallen by around 2% over the month, and was close to
+
+its average for 2009. Sterling remained around 25% below its July 2007 peak.
+
+**The international economy**
+
+7 Euro-area GDP was estimated to have grown by 0.4% in 2009 Q3. The recovery had most likely
+
+continued in the fourth quarter: the Purchasing Managers’ Indices had risen further and were close to
+
+their ten-year averages. However, the expenditure mix of the third-quarter GDP data raised concerns
+
+about the strength of that recovery going into 2010. Consumer spending and investment had fallen
+
+modestly. And the need for balance sheet repair in some sectors, and weak labour market prospects,
+
+might restrain private demand growth in the future. Activity in the third quarter had been supported by
+
+stockbuilding, government consumption and net trade. Some of those factors could prove temporary,
+
+in which case output growth might moderate subsequently.
+
+8 Some euro-area countries faced stronger economic headwinds than others, in part reflecting the
+
+extent of the necessary household and public sector balance sheet consolidation. Spain and Ireland had
+
+seen particularly large rises in unemployment. And concerns over the fiscal position in Greece had
+
+been highlighted during the month. There was a risk that protracted weakness in these countries could
+
+dent UK export prospects. There was also a possibility that problems in those economies could affect
+
+other parts of the euro area, and the rest of Europe, via direct economic and financial linkages or
+
+confidence.
+
+1 i h i bli h d i i ll i l d h h il d ld h d li d h h i d
+
+
+-----
+
+3
+
+9 There had been some positive developments in the United States. The non-farm payrolls data for
+
+November had fallen by much less than many commentators had expected. There had also been
+
+upward revisions to employment in preceding months. And the unemployment rate had fallen.
+
+Spending on services and non-durable goods had shown some resilience, though spending on durables,
+
+other than vehicles, remained weak. There were signs of continuing stabilisation in the housing
+
+market. And the Federal Reserve’s Beige Book had been reasonably upbeat about the economy more
+
+generally. But on the downside, the surveys from the Institute for Supply Management had been
+
+weaker, with the headline indices for manufacturing and non-manufacturing both falling back. There
+
+remained uncertainty over the persistence of the impact of the financial crisis on the banking system
+
+and the extent to which it might impede the recovery.
+
+10 The robust recovery in many of the emerging Asian economies had continued. And the strength
+
+of that rebound had probably been a factor behind the rise in commodity prices during 2009. It was
+
+likely that much of the growth across emerging Asia continued to be driven by direct policy action
+
+rather than unaided growth in private domestic demand. Growth in government spending remained
+
+high. And credit growth had remained buoyant in China and India. But resistance to exchange rate
+
+appreciation in some Asian economies suggested that activity in future might revert to a dependence
+
+on export demand, especially from the advanced economies. If that were to happen, the problem of
+
+global imbalances could re-emerge.
+
+11 Two official estimates of Japanese GDP growth had been published during the month. The
+
+initial estimate of 1.2% had been heavily revised to just 0.3%.
+
+**Money, credit, demand and output**
+
+12 M4, adjusted to exclude the money holdings of institutions that intermediate funds between
+
+banks, had declined by 5.3% on a three-month annualised basis in October, weaker than in earlier
+
+months. That fall in money balances was a source of concern. Households’ and non-financial
+
+companies’ money balances had, however, continued to grow, albeit at weak rates, together increasing
+
+by 3.3% on a three-month annualised basis in October. Instead, the weakness of adjusted M4
+
+remained centered in the money holdings of financial companies not involved in intermediation
+
+between banks, primarily institutional investors. These had fallen by £31 billion between August and
+
+October.
+
+
+-----
+
+4
+
+13 It was likely that such financial companies had been running down bank deposits partly to
+
+finance the acquisition of corporate sector assets. That would have depressed aggregate money growth
+
+if those assets had been issued by banks or by other businesses that had subsequently used the
+
+proceeds to repay bank borrowing. Both capital raising by banks and increased capital market
+
+issuance by non-financial businesses seeking to reduce their reliance on bank credit were symptomatic
+
+of the ongoing weakness of the banking sector. But such developments might prove beneficial to the
+
+economy if they enabled banks to restructure their balance sheets faster, and while they did so allowed
+
+businesses to access an alternative source of credit. Having fallen back during the late summer, total
+
+capital market issuance by UK non-financial companies had picked up more recently, including among
+
+a few lower-rated issuers. Throughout the year to date, capital market issuance had been running some
+
+way above the levels seen in the years leading up to the financial crisis.
+
+14 Small and medium-sized firms were less able to access capital markets directly, and were likely
+
+to be more reliant on bank borrowing as a source of external finance. There were some indications
+
+that credit conditions were tighter for smaller businesses, including from the Bank’s regional Agents.
+
+Nevertheless, there was, as yet, little evidence that such firms’ activity had been disproportionately
+
+affected. The performance of small and medium-sized businesses, and in particular the extent to
+
+which they may be adversely affected by constraints within the banking system, would remain a
+
+concern over the next year or so.
+
+15 The ONS had revised up its estimate of GDP growth in the third quarter to -0.3%. Data released
+
+subsequently had revealed large upward revisions to official estimates of construction output in Q2 and
+
+Q3. All else equal, this new information would cause GDP to be revised up further once incorporated
+
+into the National Accounts.
+
+16 Industrial production, and within that manufacturing output, had been unchanged on the month
+
+in October, following a sharp increase in September. That had underlined the need to interpret volatile
+
+monthly developments with caution. Looking through that volatility, the level of manufacturing
+
+output had barely changed since January. Both the CIPS/Markit manufacturing Purchasing Managers’
+
+Index and the service sector activity index had been broadly unchanged between October and
+
+November, pointing to a modest increase in activity in the fourth quarter. While that was encouraging,
+
+these indicators revealed little about the likely path of activity further ahead.
+
+
+-----
+
+5
+
+17 The durability of the recovery in output growth would depend crucially on the prospects for
+
+private final demand. In that context, some aspects of the expenditure breakdown within the Q3 GDP
+
+release had seemed promising. Consumer spending had largely stabilised in the third quarter, having
+
+fallen almost 4% over the preceding year. But expenditure might have been temporarily boosted by
+
+the effect of the vehicle scrappage scheme and by households bringing forward spending in advance of
+
+the scheduled reversal in January of the VAT rate cut. Those effects were hard to quantify, making the
+
+extent of the underlying recovery in consumer spending, and therefore future prospects, difficult to
+
+judge. It was likely to be some months before the underlying trend in consumer spending became
+
+more evident.
+
+18 Business investment had fallen by 3% in the third quarter – a smaller fall than in the previous
+
+quarter. Survey evidence of improved business optimism and investment intentions, including from
+
+the Bank’s regional Agents, pointed to some recovery in investment spending over the coming
+
+quarters.
+
+19 Overall, it was possible that private final domestic demand would recover earlier than expected
+
+at the time of the November Inflation Report. Moreover, the Q3 data indicated that the anticipated
+
+boost to business spending as inventory levels stabilised had yet to occur. That, too, would support
+
+GDP growth in the near future.
+
+20 Over the medium term, the pattern of activity in the UK economy needed to rebalance away
+
+from private and public consumption and towards net exports. However, exports in the third quarter
+
+had been weaker than might have been expected given the substantial depreciation of sterling over the
+
+past two years and the recovery of world trade growth since the beginning of 2009. Net exports had
+
+subtracted 0.2 percentage points from GDP growth in the third quarter, though early estimates of the
+
+trade contribution to GDP growth were often revised.
+
+21 The Government’s Pre-Budget Report had been published on 9 December. A preliminary
+
+assessment suggested that the new plans were unlikely to have a significant impact on the outlook for
+
+inflation relative to the fiscal assumptions underlying the November Inflation Report projections.
+
+However, the precise composition of anticipated spending and receipts could have consequences for
+
+the Committee’s projections, so a fuller analysis was warranted. There remained uncertainty over the
+
+size and nature of the fiscal consolidation that would occur over coming years.
+
+
+-----
+
+6
+
+**Supply, costs and prices**
+
+22 CPI inflation had been 1.5% in October. Following the usual pre-release arrangements, an
+
+advance estimate for CPI inflation of 1.9% in November had been provided to the Governor ahead of
+
+publication. Those outturns were broadly in line with the November Inflation Report central
+
+projection. A detailed breakdown of the November figure was not yet available, but it was likely that
+
+an increase in petrol price inflation had played a significant role in pushing up overall CPI inflation.
+
+23 The Committee continued to expect CPI inflation to increase further over coming months. But
+
+the degree of uncertainty over the near-term path of inflation was greater than usual. One significant
+
+uncertainty stemmed from the difficulty in predicting the size and timing of the impact of the reversal
+
+in January of the VAT rate cut.
+
+24 Survey data released during the month indicated that households’ medium and longer-term
+
+inflation expectations had edged up. Proxies for inflation expectations derived from financial market
+
+prices had been little changed.
+
+25 There had been tentative indications that pay growth was settling at a low level in the latest data
+
+for September. Excluding bonuses, the annual growth rates of both the private sector average earnings
+
+index and average weekly earnings had been roughly unchanged for three months. Forward-looking
+
+indicators of pay growth were mixed. The majority of annual pay settlements, which took place at the
+
+beginning of the year, would be agreed during a period in which inflation was likely to be high relative
+
+to the target. And reports from the Bank’s regional Agents suggested that some firms which had
+
+imposed pay freezes or cuts this year would be unlikely to do so for a second year running. But set
+
+against that, a slow recovery in activity, low productivity growth, and the possibility of an increase in
+
+households’ labour supply in response to the fall in their wealth, implied that a significant degree of
+
+slack in the labour market would persist for some time, bearing down on pay pressures. The Agents
+
+also reported that some other businesses were considering pay freezes in 2010, after having granted
+
+increases in 2009.
+
+26 According to the LFS measure, employment had increased by 6,000 in the three months to
+
+September by comparison with the previous non-overlapping quarter. But, within that, full-time
+
+
+-----
+
+7
+
+employment had fallen, offset by an increase in part-time working. As a result, the average number of
+
+hours worked per employee had fallen. The unemployment rate had remained stable at 7.8%.
+
+27 It was possible that the apparent resilience of employment during the recession reflected
+
+businesses’ willingness to retain workers, as long as wage growth remained muted, in anticipation that
+
+the decline in demand would be temporary. That was consistent with improved survey measures of
+
+business optimism and hiring intentions, and reports from the Bank’s regional Agents that firms did
+
+not expect to make significant further lay-offs. In the near term this would have the beneficial effect
+
+of maintaining employment and avoiding the loss of skills and labour market detachment associated
+
+with unemployment. However, if a pickup in demand did not occur as quickly as firms anticipated,
+
+there was a risk of a further shake-out of labour at a later date. It was also possible that the resilience
+
+of the labour market data over past quarters indicated that the level of output had been somewhat
+
+higher than officially estimated.
+
+**The immediate policy decision**
+
+28 All members agreed that the medium-term outlook for inflation and activity had not changed
+
+materially from that described in the November Inflation Report.
+
+29 Most members felt that there had been some positive developments for the near term, albeit
+
+relatively minor ones by comparison to the uncertainties surrounding the medium-term outlook. The
+
+estimate of third-quarter GDP had already been revised up and a further upward revision was likely.
+
+In addition, although it was unwise to draw firm conclusions from early estimates of quarterly GDP,
+
+the mix of demand in the third quarter was consistent with greater momentum looking ahead. The
+
+decline in consumption and investment showed signs of stabilising earlier than anticipated, and growth
+
+had yet to benefit from a stabilisation of inventory levels. Businesses’ capital market issuance had
+
+increased since the late summer. Both official and survey data indicated that the labour market had so
+
+far remained more resilient than might have been expected, which was consistent with survey evidence
+
+of a recovery in business optimism. And some of the macroeconomic data from overseas had been
+
+positive, especially in Asia.
+
+30 But equally there had been some less favourable developments. Money growth had been
+
+disappointing. And while the growth rate of households’ and non-financial companies’ money
+
+
+-----
+
+8
+
+balances had held up better than aggregate broad money, it remained weak in absolute terms. The
+
+narrowing of the spread between gilt yields and corresponding OIS rates, which Committee members
+
+had viewed as an indicator of the positive impact from the asset purchase programme, had partly
+
+reversed over the previous two months. The reasons for that were unclear, however, and it remained
+
+likely that the full impact of the asset purchase programme on the economy would be felt only with a
+
+lag. The Committee would continue to monitor closely the evidence on the impact of its asset
+
+purchase programme.
+
+31 The positive news about private final domestic demand in the Q3 GDP release had been
+
+tempered by weaker exports than might have been expected in the light of sterling’s depreciation and
+
+the bounceback in world trade. Possibly related to that, the level of manufacturing output had been
+
+broadly unchanged since the beginning of the year. Although the euro area as a whole had emerged
+
+from recession, there were clear vulnerabilities within some member countries. And, more broadly,
+
+financial market volatility surrounding events in Dubai and the rating agency downgrade of Greek
+
+sovereign debt had provided a reminder of the potential for shocks to affect the United Kingdom.
+
+32 It was to be expected at this stage of the cycle that there would be both positive and negative
+
+developments and quite probable that the balance between them would change from month to month.
+
+That would make it difficult to identify with any confidence the turning point in economic activity.
+
+Developments during this month had not been sufficient to alter Committee members’ views about the
+
+major forces driving the medium-term outlook for inflation or about the risks to it. While CPI inflation
+
+would most probably continue to rise in the near term, there was a substantial degree of spare capacity
+
+in the economy. That was likely to remain a powerful restraint to inflation for some time. But there
+
+were exceptional uncertainties over the outlook for inflation and activity growth, which would only be
+
+resolved over time. These included the willingness and ability of banks to lend to the private sector,
+
+the extent to which households would increase saving in response to weakened balance sheets and
+
+employment uncertainty, and the size, speed and nature of the fiscal consolidation.
+
+33 In November, the Committee had decided on and announced a £25 billion extension to its
+
+programme of asset purchases that would take until the February MPC meeting to complete. The
+
+medium-term outlook had changed little since then. For those members who had preferred a different
+
+policy action at the November meeting, a slightly different scale of asset purchases could still be
+
+justified. But the lack of significant news on the month meant that the case for deviating from the
+
+
+-----
+
+9
+
+programme of asset purchases announced in November was outweighed by the benefits of completing
+
+it as planned.
+
+34 The Governor invited the Committee to vote on the proposition that:
+
+Bank Rate should be maintained at 0.5%;
+
+The Bank of England should continue with the programme, as announced following its
+
+5 November meeting, of asset purchases totalling £200 billion financed by the creation of
+
+central bank reserves.
+
+The Committee voted unanimously in favour of the proposition.
+
+35 The following members of the Committee were present:
+
+Mervyn King, Governor
+Charles Bean, Deputy Governor responsible for monetary policy
+Paul Tucker, Deputy Governor responsible for financial stability
+Kate Barker
+Spencer Dale
+Paul Fisher
+David Miles
+Adam Posen
+Andrew Sentance
+
+Dave Ramsden was present as the Treasury representative.
+
+
+-----
+

@@ -1,0 +1,102 @@
+Press Release – August 18[th], 2022
+
+**MPC decided to keep key policy rates unchanged**
+
+**In its meeting today, the Monetary Policy Committee (MPC) decided to keep the Central**
+**Bank of Egypt’s (CBE) overnight deposit rate, overnight lending rate, and the rate of the**
+**main operation unchanged at 11.25 percent, 12.25 percent, and 11.75 percent, respectively.**
+**The discount rate was also kept unchanged at 11.75 percent.**
+
+Global economic activity has continued to slow down affected by spillovers from the Russo
+Ukrainian conflict, while increased geopolitical risk in South-East Asia is raising uncertainty
+
+regarding the global economic outlook. Furthermore, despite edging down recently, global
+
+financial conditions have remained relatively tight as major central banks have continued to raise
+
+policy rates and reduce asset purchase programs with the aim of containing increased inflationary
+
+pressures in their respective countries. Meanwhile, global commodity prices have slightly declined
+
+after reaching their peak following the Russo-Ukrainian conflict.
+
+Domestic economic activity is estimated to have grown by a preliminary figure of 6.2 percent in
+
+fiscal year 2021/22, compared to 3.3 percent in the previous fiscal year. This reflects stronger than
+
+previously expected growth. Latest available data for the first nine months of the fiscal year shows
+
+that GDP growth was mainly driven by the private sector, particularly non-petroleum
+
+manufacturing, tourism, and trade. Meanwhile, public sector activity was supported by natural gas
+
+extractions, Suez Canal and the general government. Moreover, most leading indicators remained
+
+in positive territory in 2022 Q2. Going forward, economic activity is expected to be supported by
+
+the government’s planned structural reforms. This, however, will be at a slower pace than
+
+previously projected, given the negative spillovers emanating from the Russo-Ukrainian conflict,
+
+among other factors.
+
+Regarding the labor market, the unemployment rate stabilized at 7.2 percent in 2022 Q2. The
+
+witnessed stability comes in light of both employment and the labor force figures increasing by
+
+similar magnitudes, offsetting one another.
+
+In July 2022, annual headline urban inflation resumed its upward trend, that started in December
+
+2021, to record 13.6 percent, that is after decelerating in June 2022 to record 13.2 percent. In
+
+addition, July’s annual core inflation - which excludes volatile food and regulated items - recorded
+
+15.6 percent in July 2022 from 14.6 percent during the previous month. The increase was driven
+
+by higher prices of core food, retail items and services. This can be mainly attributed to the
+
+
+-----
+
+seasonal impact of Eid Al-Adha, the repercussions of the Russo-Ukrainian conflict, as well as, the
+
+indirect effects of higher prices of fuel products.
+
+The MPC decided that keeping policy rates unchanged remains consistent with achieving price
+
+stability over the medium term. The MPC treats the developments emanating from the Russo
+Ukrainian conflict to be among the exogenous shocks that are outside the scope of monetary policy
+
+and yet may lead to transitory deviations from pre-announced target rates. Monetary policy tools
+
+are utilized to anchor inflation expectations, contain demand-side pressures and second-round
+
+effects emanating from supply shocks that may lead to deviations from inflation targets. Therefore,
+
+in accommodation of the first-round effects of supply shocks, the elevated annual headline
+
+inflation rate will be temporarily tolerated relative to the CBE’s pre-announced target of 7 percent
+
+(±2 percentage points) on average in 2022 Q4, before declining thereafter.
+
+In its decision to maintain policy rates unchanged today, the MPC takes note of its policy rate
+
+hikes in its previous meetings, and will continue to assess their impact on inflation expectations
+
+and other macroeconomic developments over the medium term. Achieving low and stable inflation
+
+over the medium term is a requisite condition to achieve sustainable economic growth.
+
+The MPC reiterates that the path of future policy rates remains a function of inflation expectations,
+
+rather than of prevailing inflation rates and as such, will not hesitate to adjust its stance to achieve
+
+its price stability mandate.
+
+**Monetary Policy Sector**
+monetary.policy@cbe.org.eg
+
+
+-----
+

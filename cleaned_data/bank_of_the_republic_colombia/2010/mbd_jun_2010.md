@@ -1,0 +1,96 @@
+# Minutes of a Meeting of the Board of Directors of the Central Bank of Colombia on June 18, 2010
+ A regular meeting of the Board of Directors of the Central Bank of Colombia was held in the city of Bogotá on June 18, 2010.
+ Present:  Mr. Oscar Iván Zuluaga, Minister of Finance and Public Credit Mr. José Darío Uribe, Governor of the Central Bank of Colombia
+ Full-time Board Members in Attendance: Mr. Carlos Gustavo Cano  Mr. Juan José Echavarría  Mr. Fernando Tenjo Mr. Cesar Vallejo Mr. Juan Pablo Zárate
+ Inflation and the economic situation were discussed with respect to growth and prospects for the future, and monetary-policy decisions were taken.  The following is a summary of the main issues addressed during the meeting. 
+ 1. BACKGROUND
+ a. Recent Developments in Inflation 
+ Annual consumer inflation in May was 2.07%, which is 9 bp more than in April. Monthly inflation was 0.10% and some of the annual core inflation indicators stopped declining.
+ The annual change in food prices went from 0.93% in April to 1% in May, given the higher cost of eating out. The price of perishables dropped for
+
+
+-----
+
+# the first time during the year, while the price of processed foods remained stable.  The annual increase in prices for regulated goods went from 3.9% in April to 4.6% in May. This was because of adjustments in the price of gasoline. 
+ The annual variation in prices for non-tradables, excluding food and regulated goods and services, remained stable during May at 3.9%. 
+ The annual increase in prices for tradables, excluding food and regulated goods and services, declined from -0.3% in April to -0.5% in May, which is the lowest on record for this indicator 
+ With the preliminary data for June, inflation expectations derived from trading in government bonds at one, five and 10 years declined to 1.49%, 3.5% and 3.88%, respectively.
+ The inflation expectations detected through the quarterly and monthly surveys conducted by the Central Bank of Colombia at the start of June continue to weaken and are within the long-term target range set by the Board of Directors.
+ In May, annual producer price inflation (PPI) was 1.3%, as opposed to an annual variation of 0.3% in April. The PPI increased mainly because of a drop in the basis of comparison in May of last year. 
+ b. Growth 
+ The data released in recent weeks indicate the Colombian economy will grow faster than expected. The following are some of the relevant indicators:
+ - The industrial confidence indicator in April, which includes questions about orders, inventory and expectations and is correlated closely with annual growth in industrial production, continued to exhibit an upward tendency.  The way this indicator has performed recently is explained by the questions on industrial inventory and orders. The opposite was true several months back, when the question on the momentum in expectations for production was the only one to show an increase. 
+
+2
+
+
+-----
+
+# - The total demand for energy rose 4.4% during May, in annual terms, posting increases compared to the fourth quarter of 2009 and the early months of 2010.
+ - The Fedsarrollo Consumer Confidence Indicator was up again in May.  As was the case in April, the increase in household confidence was bolstered by better short and mid-term expectations, along with a better perception of actual economic conditions. A high point is the gradual improvement, so far during 2010, in willingness to purchase durable goods and housing.
+ Total exports in April came to US$3.491 billion, having grown 43.8% with respect to the same month in 2009. This was due to more exports in dollars from the mining sector (73.6%) as well as the industrial sector (30.8%). The exports from these sectors also rose in terms of volume (18.0% and 43.7%, respectively). Industrial exports, minus coffee, petroleum by- products, ferronickel and gold, reached levels in April that were similar to those observed during the same month in 2009, with 1.3% annual growth. 
+ Compared to March 2010, total exports in dollars rose 4.4% primarily because of the increase in mining exports (15.7%). 
+ The country’s leading export products (coffee, coal, ferronickel, petroleum and petroleum by-products), which accounted for 64% of total exports in the month of April, increased 86% in value and 23% in volume, in annual terms.
+ In April, industrial exports to Venezuela, minus Colombia’s leading exports (coffee, petroleum by-products, ferronickel and gold) fell 65% in annual terms, while those to the United States and to other countries posted respective annual increases of 43% and 42%. Sales to Ecuador were a high point, having grown 49.3% in April compared to the same month the year before. Although countries such as the United States, Brazil, Chile and Ecuador have gained ground as destinations for Colombia’s industrial exports, minus the leading products, the average monthly extent of these sales during 2010 to date (US$840 m) is still less than the average on record for the same period in 2007 (US$903 m).  
+ - Total imports (CIF) in April came to US$3.182 billion, having increased 19.3% in value compared to the same month in 2009; however, they were 4.2% less with respect to March 2010. The rise in imports during April
+
+3
+
+
+-----
+
+# originated primarily with added imports of consumer goods (particularly durables) and intermediate goods (specifically for industry).  Purchases of capital goods were down 13.8% in April compared to the same month the year before, thanks to fewer imports of transportation equipment (-47,7%) and despite an annual increase of 16.9% in imports of capital goods for industry. 
+ c. External Context 
+ The markets continued to exhibit a great deal of volatility during May and early June. Added to the debt problems of the so-called PIIGS (Portugal, Italy, Ireland, Greece and Spain) were those of Hungary. This situation led to an increase in global risk indicators; however, their impact on the emerging countries in the region, including Colombia, has not been severe. 
+ As a result, international stock markets continued to fall sharply, particularly in the developed countries, where an important part of the valuation gained during the past year was lost. At the same time, the euro continued to depreciate against the dollar. 
+ The effect in Latin America and in other emerging economies has been slight, and recent weeks have seen relatively little increase in the region’s risk premiums. Nor has there been a strong impact on Latin American currencies. The most notable effects were in Brazil and Chile; their currencies have been depreciating since the beginning of May. In the case of the Colombian peso, this tendency has been much less pronounced and the peso has appreciated in the last 20 days. The region’s stock markets have dropped, but not as much as those in the developed countries. The Colombian stock market is one of the most stable. 
+ As for growth, the real figures for the first quarter confirm the recovery in productive activity. During that period, several countries in the region, such as Brazil and Peru, saw an important increase in GDP, as did other emerging countries in Asia. 
+ The main impact of the added external uncertainty has been on commodity prices, particularly in the case of oil. If this tendency continues it will be especially damaging for commodity exporting countries, as it will affect their terms of trade and, in doing so, their GDP. 
+ d. Financial Variables 
+
+4
+
+
+-----
+
+# There were no changes during May in the tendencies of the major monetary aggregates. M3 rose at an annual rate of 8.0%. Much the same can be said of and liabilities subject to reserve requirements (8.0% annual increase) and cash (8.6% annual growth). In constant pesos, M3 increased at an annual rate of 5.3%.
+ The total loan portfolio held by the financial system in pesos at the end of May was up by an annual rate of 4.6%, which is less than the increase posted in April (5.0%). The slowdown was concentrated in the commercial loan portfolio.
+ Despite low annual growth in the commercial loan portfolio, when considering the bond issues in the productive sector, the estimated annual increase in lending to the commercial sector was 4.0% by May.
+ Annual growth in the mortgage loan portfolio is 17% in constant pesos and has shown an upward tendency for more than six months. The real consumer loan portfolio increased in May at an annual rate of 3.6%; it also has exhibited a positive tendency since December of last year. 
+ The Central Bank’s interest rate cuts were still being passed through to the market rates in May. The DTF benchmark rate was 3.6% in May as opposed to 3.9% in April. Most other deposit rates also declined to a similar extent during the last five weeks.  All the lending rates were down, except those for loans to builders. 
+ Between May 26 and June 16, the rates on government bonds registered respective negative variations of 2bp, 23bp and 4bp in the short, medium and long tranches. 
+ 2. DISCUSSION AND POLICY OPTIONS 
+ The following points were emphasized by the Board of Directors during its deliberations: 
+ i The outcome for inflation in May, which was lower than expected by the market and by the Central Bank’s technical team 
+
+5
+
+
+-----
+
+# ii The core inflation indicators, which are no longer declining but are still within the target range established by the Board of Directors  iii Inflation expectations, which continued to lessen iv The faster-than-expected recovery in the economy during the first quarter v The improvement in business and consumer expectations  vi The stable growth in monetary aggregates  vii Growth in the peso-denominated loan portfolio held by the financial system at levels similar to the estimated increase in nominal GDP for 2010  viii The way asset prices have performed recently ix How market interest rates have behaved in response to the Central Bank’s benchmark rate cut  x The impact of the exchange rate on inflation and output growth in the tradable sectors xi Interest rates on government bonds, which were down during the month  xii Recovery of the global economy and the sharp uncertainty generated by the crisis in several European countries. 
+ The main points analyzed by the members of the Board centered on the following aspects: (i) the forecasts for inflation in 2010 and 2011 ; (ii) less variation in the price of tradable goods due to appreciation of the peso with respect to the dollar; (iii) the time it takes monetary policy measures to have an effect on production and prices; (iv) forecasts for economic growth in 2010, which suggest the recovery will be faster than anticipated; (v) the recent increase in the financial system’s loan portfolio and in asset prices; (vi) the drop in inflation expectations; (vii) the risk balance between growth and inflation in the context of a recovering economy and inflation that is slightly below the long-term target range; (viii) the uncertainty the European crisis has sparked in the world economy; and (ix) the need to bolster the monetary authority’s credibility and to anchor inflation expectations to the long-term target. 
+
+ The Board of Directors highlighted the following with respect to the way inflation behaved during the month: (i) annual consumer inflation in May was 2.07%, which is slightly higher than in April (9 bp), but less than expected by the market and by the Central Bank’s technical team; (ii) most of the core inflation indicators are still in the lower part of the long-term target
+
+6
+
+
+-----
+
+# range set by the Board (3% +/-1%); (iii) inflation expectations continued to decline; and (iv) the outcome for inflation last month is consistent with the technical team’s forecasts, which show- with a high degree of certainty – that inflation will be within the long-term target range in 2010 and 2011. 
+
+ The Board emphasized that information received in the last few weeks indicates the Colombian economy will grow faster than expected, without producing inflationary pressures. The increase in exports, fueled by the recovery in global economic momentum and better terms of trade confirms the build-up in the Colombian economy, as do other factors such as the increase in consumer and producer confidence, the increase in a number of leading indicators, and the soundness of the financial system. 
+ The international markets have been extremely volatile as a result of the government debt crisis in several European countries. So far, the effects of that crisis are uncertain. However, it is worth noting that the Latin American economies show an increasingly stronger recovery accompanied by a build-up in their currencies.
+ The Board of Directors believes its expansive monetary policy contributes to economic growth in an environment characterized by a healthy financial system. 
+
+ 3. POLICY DECISION 
+
+ The Board of Directors agreed to make no change in the Central Bank’s intervention rate, which will remain at 3%.
+ Bogotá, Colombia July 2, 2010
+
+7
+
+
+-----
+

@@ -1,0 +1,235 @@
+**HIGHLIGHTS OF THE MEETING OF THE MONETARY BOARD ON MONETARY POLICY ISSUES**
+
+**HELD ON 24 JANUARY 2013[1]**
+
+
+**I.** **Monetary Policy Decision**
+
+The Monetary Board (MB) decided to:
+
+a) Maintain the BSP’s policy interest rates at 3.5 percent for the overnight RRP
+(borrowing) rate and 5.5 percent for the overnight RP (lending) rate;
+
+b) Maintain the current interest rates on term RRPs and RPs;
+
+c) Maintain the current reserve requirement ratios; and
+
+d) Set the pricing of the Special Deposit Account (SDA) at 3.00 percent regardless
+of tenor, effective immediately, consistent with the BSP’s continuing efforts to
+fine‐tune the operation of its monetary policy tools.
+
+**II.** **Key Considerations in the Formulation of the Monetary Policy Stance**
+
+  - The MB’s decision to maintain policy interest rate settings was based on its assessment
+that the inflation environment remained manageable. Latest baseline forecasts
+continue to track the lower half of the 3‐5 percent target range for 2013 and 2014,
+while inflation expectations also remain firmly anchored.
+
+  - Moreover, the MB considered the risks to the inflation outlook to be evenly balanced
+around the baseline forecast path. In particular, although global economic activity has
+stabilized in recent months, uncertainty surrounding the ongoing fiscal consolidation
+and lingering financial market stresses in advanced economies continue to weigh down
+on global growth prospects, thus mitigating upward pressures on commodity prices.
+However, pending domestic power rate adjustments and the strong inflow of capital
+continue to pose upside risks to the inflation outlook.
+
+  - The MB likewise noted the solid growth of the economy which is expected to continue
+based on most recent available indicators. Nevertheless, improving productive capacity
+on the back of continued growth in the aggregate capital stock appears to have
+produced a convergence between strong growth and low inflation. This view is
+supported by the various measures of core inflation which continue to indicate a benign
+trend for underlying inflation.
+
+1 The discussions presented reflect the assessment made by the Monetary Board based on the information available at the time of the policy
+meeting. A comprehensive set of economic information was provided by the Technical Secretariat of the Advisory Committee (AC). The AC is
+composed of the Governor of the BSP as Chairman and four members, namely: the Deputy Governor of the Monetary Stability Sector, the
+Deputy Governor of the Supervision and Examination Sector, the Assistant Governor of the Monetary Policy Sub‐Sector, and the Assistant
+Governor of the Treasury Department. The highlights of the discussions on the 24 January 2013 meeting were approved by the Monetary
+Board during its regular meeting held on 14 February 2013. The next meeting of the Monetary Board on monetary policy issues is scheduled on
+14 March 2013.
+
+
+-----
+
+  - At the same time, the MB decided to set the interest rates on the SDA facility at 3.00
+percent regardless of tenor, effective immediately, consistent with the BSP’s continuing
+efforts to fine‐tune the operation of its monetary policy tools. Previously, the SDA rate
+was priced at a premium over the policy rate. The MB decided to rationalize the SDA
+facility as an intermediate step toward the medium‐term objective of developing an
+interest rate corridor for the BSP’s various monetary policy instruments. Amid
+manageable liquidity growth and a benign inflation outlook, the operational refinement
+in the SDA facility will help enhance the ability of the BSP to ensure that liquidity
+remains adequate to meet the requirements of the growing economy.
+
+  - Going forward, the MB recognized the need to continuously monitor emerging demand
+and price developments to ensure that monetary policy settings remain consistent with
+price stability while being supportive of economic growth. The MB also reiterated its
+readiness to deploy additional macroprudential measures to address any potential
+misalignment in asset prices.
+
+**III.   Recent Developments and Inflation Outlook**
+
+The MB considered the following developments in coming up with its policy decision:
+
+**A. Domestic price conditions**
+
+  - December inflation increased slightly, driven mainly by higher inflation for food.
+Likewise, seasonally‐adjusted month‐on‐month headline inflation went up. Tight
+domestic supply conditions, triggered by the recent weather‐related production
+disruptions, as well as the onset of holiday season demand led to higher retail prices of
+food, particularly rice, fish, fruits, vegetables, and meat. Meanwhile, non‐food inflation
+went down as a result of lower charges for household electricity rates due to lower
+demand. On a year‐to‐date basis, the average headline inflation in 2012 was within the
+Government’s target for the year.
+
+  - Meanwhile, underlying inflationary pressures are relatively subdued as year‐on‐year
+core inflation continued to decline in December and the three alternative measures of
+core inflation estimated by the BSP were steady.
+
+**B.  Inflation expectations**
+
+  - The benign inflation environment is supported by well‐anchored inflation expectations.
+Inflation expectations based on forecast surveys by the BSP and by Asia Pacific (AP)
+Consensus remain within the lower half of the target band for 2013‐2014. Results of the
+January 2013 AP Consensus survey yielded a lower mean inflation forecast for 2013.
+Likewise, results of the BSP private sector survey in December 2012 showed lower
+mean inflation forecasts for 2012‐2014.
+
+
+-----
+
+**C. Inflation outlook**
+
+  - The latest baseline inflation forecasts continue to be within the target range over the
+policy horizon. The decline in the forecasted inflation for 2013 is slightly lower
+compared to the forecasts during the previous policy meeting due to lower‐than‐
+forecasted actual inflation in December 2012 as well as the decline in oil prices.
+However, for 2014, the estimated impact of higher taxes on tobacco and alcohol
+products and the change in NFA rice price assumptions offset the impact of the lower
+actual CPI in December 2012 and the decline in oil prices, thereby resulting in an
+upward adjustment in the 2014 average inflation forecast. Nevertheless, latest baseline
+inflation forecasts remained close to the lower bound of the target over the policy
+horizon.
+
+  - The risks to future inflation are considered to be broadly balanced. Downside risks to
+inflation outlook continue to persist owing to uncertainty over the strength of the
+global economy. At the same time, continued appreciation of the peso could temper
+imported inflation. Meanwhile, the upside pressures could emanate from additional
+petitions for utility rate adjustments and strong surge in liquidity.
+
+**D.  Demand conditions**
+
+  - The most recent available indicators continue to depict solid growth in the economy.
+Vehicle and energy sales have been strong in Q4 with growth in overall electricity sales
+driven by the commercial and industrial sectors. Capacity utilization rate in the
+manufacturing sector remained above 80 percent while the latest Purchasing
+Managers’ Index (PMI) readings continue to indicate expansion in the manufacturing,
+retail/wholesale, and services sectors. Strong consumer sentiment for the quarter‐and
+year‐ahead was also recorded in the Q4 Consumer Expectations Survey.
+
+**E.  Supply‐side indicators**
+
+Developments in Agriculture
+
+  - The agriculture sector expanded by 2.9 percent in 2012 from a growth of 2.6 percent in
+2011 due to increased output in the crops, livestock and poultry subsectors. Crop
+production, which accounted for about 52 percent of total agricultural output,
+increased by 4.1 percent during the year on account mainly of rice (up 8.1 percent) and
+corn (up 6.3 percent).
+
+  - The monthly FAO food price index dipped in December due largely to lower
+international prices of cereals and oils/fats. Cereal prices declined due to favorable
+supply outlook while the oil prices fell as abundant production in Southeast Asia
+coincided with a protracted weakness of import demand. For 2012, the Index averaged
+212 points, 7.0 percent lower than the 2011 level, with declines noted across all food
+categories.
+
+
+-----
+
+Oil Price Developments
+
+    - Oil prices decreased in December after US crude stockpiles rose to an 11‐year high and
+on concerns over how the US fiscal cliff will be resolved. Meanwhile, as of 23 January
+2013, the month‐to‐date average price of oil increased following a rebound in China’s
+export growth.
+
+Developments in the Utilities Sector
+
+    - The generation charge of Meralco registered an uptick in January 2013 due to the higher
+cost of electricity from the National Power Corporation (NPC). The increase in NPC’s
+power rates was partly offset by the reduction in wholesale electricity and spot market
+charges and independent power producers’ rates. The net increase in electricity rates in
+January was incorporated in the baseline inflation forecasts.
+
+**F. Financial market developments**
+
+    - The PSEi continued to rally for the fifth straight month in January, boosted by optimism
+about global economic recovery following reports of an expansion in US and China’s
+manufacturing and the passing of a bill by the US Congress averting spending cuts and
+reinstating tax cuts. The PSEi surpassed the 6,100 mark and set a new record high on
+21 January 2013, driven by positive investor sentiment about the country’s robust
+growth and manageable inflation outlook.
+
+    - Similarly, for the period 1‐22 January 2013 the peso further strengthened to average
+P40.72/US$1, buoyed by continued optimism that the Philippines would get investment
+grade rating within the year.
+
+    - Debt spreads also narrowed in the first half of January on global stabilization signs,
+prompting markets to continue buying emerging market bonds. However, spreads
+inched up by 3‐5 bps beginning 11 January over concerns on US debt ceiling that is set
+to expire by late February. As of 14 January, the extra yield investors demand for
+emerging‐market debt over US Treasuries (or the EMBI+Global spread) stood at
+251 bps, wider than from previous month’s end of 248 bps. The EMBI+ Philippine
+spread likewise expanded to 121 bps from end‐December’s 119 bps. However, the
+country’s 5‐year sovereign credit default swap (CDS) continued to trade below 100 bps
+at 98.83 bps on 14 January after closing in 2012 at 105.7 bps.
+
+**G. Domestic liquidity and credit conditions**
+
+    - Domestic liquidity or M3 grew at a faster pace of 9.8 percent year‐on‐year in November
+from 8.6 percent in October. Money supply growth was driven by the expansion of net
+domestic assets (NDA). The increase in the NDA, in turn, was due to the sustained
+increase in bank lending. Meanwhile, net foreign assets (NFA) decreased in November,
+due mainly to the continued decline in banks’ NFA as their foreign liabilities continued
+to increase due in part to higher placements and deposits made by foreign banks with
+their local branches, while their foreign assets contracted due to the decline in loan
+receivables from foreign banks.
+
+
+-----
+
+    - The growth of outstanding loans of commercial banks, net of banks’ reverse repurchase
+(RRP) placements with the BSP, grew by 14.0 percent in November from the previous
+month’s expansion of 15.8 percent. Commercial banks’ loans have been growing
+steadily at double‐digit growth rates since January 2011. Loans for production
+activities—which comprised more than four‐fifths of banks’ aggregate loan portfolio—
+grew by 14.6 percent in November from 16.4 percent a month earlier.
+
+    - Corporates continue to tap capital markets for financing. Corporate bond issuances for
+the period January‐November 2012 reached P248.3 billion, 27.8 percent higher than
+the 2011 level of P194.3 billion. Likewise, the total equity raised in the Philippine Stock
+Exchange (PSE) during the same period amounted to P203.5 billion, higher by
+87.3 percent compared to the previous year’s level of P108.6 billion.
+
+**H.  Fiscal developments**
+
+    - Government spending continued to gain some momentum in the latter part of 2012.
+The fiscal deficit in the period January‐November 2012 was P127.3 billion, P31.0 billion
+higher than the deficit incurred during the same period in 2011, albeit lower than the
+programmed deficit for the year. This represented 45.6 percent of the P279.1 billion
+programmed deficit for 2012. Revenue collections increased by 12.7 percent while
+expenditure was higher by 14.1 percent.
+
+**I.  External developments**
+
+    - The MB noted that global developments over the past month have turned slightly more
+favorable. The JP Morgan Global All‐Industry Output Index rose to a nine‐month high in
+December. There have been further signs that the pace of growth had stabilized in
+China while the US economy had continued to grow at a moderate pace, with the
+uncertainties posed by the ‘fiscal cliff’ somewhat reduced. Meanwhile, economic
+activity in the euro area remains weak, but indicators signal potential stabilization.
+
+
+-----
+

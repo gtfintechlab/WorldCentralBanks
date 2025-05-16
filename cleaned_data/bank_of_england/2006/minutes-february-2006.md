@@ -1,0 +1,478 @@
+### Publication date: 22 February 2006
+
+## MINUTES OF
+# MONETARY POLICY COMMITTEE MEETING
+## 8 and 9 February 2006
+
+##### These are the minutes of the Monetary Policy Committee meeting held on  8 and 9 February 2006.
+
+ They are also available on the Internet http://www.bankofengland.co.uk/publications/minutes/mpc/pdf/2006/mpc0602.pdf
+
+ The Bank of England Act 1998 gives the Bank of England operational responsibility  for setting interest rates to meet the Government’s inflation target. Operational  decisions are taken by the Bank’s Monetary Policy Committee. The Committee meets  on a regular monthly basis and minutes of its meetings are released on the  Wednesday of the second week after the meeting takes place. Accordingly, the  minutes of the Committee meeting held on 8 and 9 March will be published on  22 March 2006.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 8-9 FEBRUARY 2006
+
+1 Before turning to its immediate policy decision, and against the background of its latest
+
+projections for output and inflation, the Committee discussed developments in financial markets; the
+
+international economy; money, credit, demand and output; and costs and prices.
+
+**Financial markets**
+
+2 Domestic short-term interest rates had ended the month a few basis points higher than at the time
+
+of the January meeting. Sterling money market instruments implied that interest rate expectations
+
+were broadly flat over the next year or so, and were close to where they stood at the time of the
+
+November Inflation Report. According to the Reuters survey, the mean expectation of private sector
+
+economists had remained for one interest rate reduction this year.
+
+3 Both UK and US long-term implied forward interest rates had been little changed on the month,
+
+though in each case there had been a small fall in forward real interest rates offset by a small rise in
+
+inflation expectations. There had been a rise in long-term forward rates in the euro area, the reasons
+
+for which were unclear.
+
+4 The sterling effective exchange rate index (ERI) had been flat over the past month, but had fallen
+
+by around 1% since the time of the November Inflation Report. Looking back over a longer period,
+
+sterling had been broadly stable within a fairly narrow range. The dollar had appreciated over the past
+
+month against both the euro and yen. The movement in the dollar-euro exchange rate was perhaps a
+
+little surprising given the upward shift in longer-term euro-area interest rates.
+
+5 Equity prices were little changed over the past month in the United Kingdom and the euro area,
+
+while the US S&P 500 index had fallen a little. Most major equity price indices had remained
+
+significantly higher than at the time of the November Inflation Report.
+
+**The international economy**
+
+6 After several months of generally positive news on activity, the latest indicators for both the
+
+United States and the euro area had seemed more equivocal.
+
+
+-----
+
+2
+
+7 In the euro area, the retail sales and trade data had pointed to slightly slower growth in 2005 Q4
+
+than thought a month or two ago. However, this slight reassessment of the likely outturn for Q4 did
+
+not alter the picture of a steady recovery in growth, with the services Purchasing Managers Index
+
+(PMI) and the European Commission industrial confidence balance both strengthening. A key
+
+question remained whether consumption growth would pick up further. But with signs that firms were
+
+expecting to employ more labour and household borrowing strong, the outlook seemed fairly positive.
+
+8 Growth in the United States had slowed to 0.3% in Q4, the slowest quarterly growth rate since
+
+2002. Although the slowdown was broadly based across expenditure categories, there were a number
+
+of reasons for discounting the slowdown as erratic. These included: the impact of the hurricanes on
+
+both consumption and the production of oil and gas; the unwinding of incentives on auto purchases;
+
+the impact of a strike at Boeing on investment; and an erratic fall in defence spending. Consequently,
+
+GDP growth seemed likely to bounce back in Q1. That being said, some of the January indicators had
+
+been a little weaker than expected, for example the latest non-farm payrolls data and the non
+manufacturing purchasing managers’ index.
+
+9 There was a possibility that there might be a more sustained period of adjustment in the United
+
+States, particularly in the housing market, with house sales and housing construction indicators both
+
+easing recently. The house price inflation rate had fallen in November and December, while forward
+looking indicators of activity had also edged lower in recent months. A slowdown in the US housing
+
+market would probably have implications for consumption and private residential investment. But just
+
+as in the United Kingdom, the correlation between house price inflation and consumption growth had
+
+fallen in recent years, and so although some further dampening of consumer spending was possible, it
+
+was not clear how far any adjustment in the housing market would affect consumption growth.
+
+10 The latest Japanese indicators appeared to confirm that the weakness in growth in Q3 had been
+
+temporary, and pointed to a rebound in Q4. The rest of Asia still seemed to be growing strongly.
+
+11 Oil prices had risen through most of the month, but had fallen back just before the policy
+
+meeting to end the period broadly unchanged. This volatility seemed largely to reflect concerns about
+
+the potential for oil supply disruptions in Nigeria and the Middle East. There remained significant
+
+uncertainty about the future path of oil and other energy prices. Option contracts suggested that
+
+
+-----
+
+3
+
+financial market participants thought the risks to future oil prices were skewed to the upside. Non-oil
+
+commodity prices had increased strongly in recent months, which seemed likely to reflect the
+
+acceleration in world industrial production and expectations of continued growth.
+
+12 Core measures of both producer and consumer price inflation in the United States and the euro
+
+area had remained subdued, but headline measures of consumer price inflation had been a little higher.
+
+**Money, credit, demand and output**
+
+13 The preliminary estimate for GDP growth in the United Kingdom was 0.6% in Q4. Service
+
+sector growth had picked up significantly. The subsequent industrial production release showed that
+
+manufacturing output had fallen by 1% in Q4, which was weaker than had been assumed by the Office
+
+for National Statistics (ONS) in the preliminary GDP release. The surveys for manufacturing had
+
+remained more upbeat than the official output data. It was difficult to know how much of the recent
+
+weakness was due to cyclical developments, and how much was the continued influence of longer
+term structural factors, such as increased competition from low-cost producers in emerging market
+
+economies. Energy production had risen a little in Q4, rebounding from the very weak level in Q3.
+
+Over the longer term it had been on a declining trend.
+
+14 The output indicators for Q1 had remained reasonably strong. The CIPS/RBS services business
+
+activity index had fallen slightly following the strong rise in December, but remained above the broad
+
+range it had occupied for much of the past two years. The CIPS/RBS manufacturing index had
+
+remained unchanged in January. Taken together, the surveys pointed to slightly faster GDP growth in
+
+2006 Q1 than in 2005 Q4. It was important not to place too much weight on small movements in
+
+measured GDP growth rates from quarter to quarter, given that the profile might look somewhat
+
+different after the ONS had received more information, and the data had gone through the normal
+
+cycle of revisions.
+
+15 As far as the expenditure data were concerned, a key question remained the near-term strength of
+
+consumption. Retail sales had risen strongly in Q4, and at the fastest rate since 2004 Q2. The BRC
+KPMG Retail Sales Monitor and CBI Distributive Trades Survey both suggested some moderation in
+
+the pace of growth in January. Vehicle registrations had remained weak. The Bank’s regional Agents
+
+suggested that consumer services growth had picked up.
+
+
+-----
+
+4
+
+16 The recent slackening of employment growth and the rise in unemployment could weigh on
+
+future consumer spending growth. However, housing market activity and prices continued to point to
+
+a pickup in the housing market. This could be indicative of strengthening confidence and reduced
+
+uncertainty on the part of households. The average of the lenders’ house price indices had risen 1¾%
+
+in the three months to January compared with the previous three months, and loan approvals for house
+
+purchase had risen back towards the levels recorded in the second half of 2003 and first half of 2004.
+
+17 While secured lending growth had remained above 10% at an annualised rate, which was
+
+consistent with the strengthening housing market, the growth rate of unsecured credit had slowed in
+
+recent quarters. The average monthly flow of unsecured credit had now fallen to around half the rate
+
+of a year ago. Within unsecured credit, the annual rate of growth of credit card lending had also
+
+halved over the past year. The annual growth rate of the M4 monetary aggregate had increased to
+
+12.6% in December, the highest rate since 1990.
+
+**Costs and prices**
+
+18 The Labour Force Survey (LFS) measure of the unemployment rate increased to 5.0% in the
+
+three months to November, the highest since 2003. That rise in unemployment reflected both an
+
+unexpectedly weak employment rate, and an unexpectedly high participation rate. The slackening in
+
+the employment rate might have reflected the beginning of an unwind in the labour hoarding that had
+
+been a possible explanation for the low productivity growth recorded recently. If that were the
+
+explanation, it was possible that employment growth could remain subdued for at least another quarter
+
+or two. Against that, there were some signs from business surveys that this slowing would prove
+
+temporary. The Bank’s regional Agents had reported that companies, on average, were planning to
+
+increase employment, particularly in business services.
+
+19 There had been little news on pay settlements since the January meeting. The annual rate of
+
+regular pay growth ticked down, and overall earnings growth fell sharply in the three months to
+
+November. The Bank’s regional Agents had reported the results of an informal survey which indicated
+
+that pay settlements and pay growth might edge up a little this year. It was too early to be confident
+
+that there would be no second round effects on earnings from the rise in energy prices.
+
+
+-----
+
+5
+
+20 The weakness in average earnings growth in recent months had been a little surprising, given
+
+that some surveys and anecdotal evidence had pointed to stable, or faster, growth. The ONS
+
+experimental series for Average Weekly Earnings had recorded a slightly stronger profile than the
+
+Average Earnings Index. It was possible that the recent weakness in the growth of average earnings
+
+had reflected the timing of bonuses this year compared to last, and that the bonus contribution would
+
+bounce back. It was also possible that the recent fall in earnings growth reflected falls in overtime and
+
+other elements of non-basic pay that were related to productivity and profits, and reflected weaker
+
+activity in the first half of 2005. If so, earnings growth might pick up, reflecting the strengthening in
+
+activity seen in the second half of 2005.
+
+21 As the Committee had previously discussed, the recent rises in energy prices implied the need
+
+for an adjustment in real wage growth. The rise in energy prices would require the growth rate of the
+
+real consumption wage to be slower than it otherwise would have been if employment growth were to
+
+be sustained. This adjustment could come about via higher inflation, lower nominal wage growth, or
+
+some combination of the two. It was possible that firms were reacting to increased energy costs by
+
+putting additional downward pressure on their other costs – including labour costs. So some of the
+
+adjustment might be coming through average earnings as well as in prices.
+
+22 It was difficult to know whether the rise in energy prices had had any adverse effects on supply
+
+thus far, though it was probable that any effects on investment and supply would take some time to
+
+feed through. But, equally, it remained difficult to know by how much migration was boosting
+
+potential supply.
+
+23 In line with pre-release arrangements, an advance estimate of CPI inflation for January had been
+
+provided to the Governor ahead of publication. This had indicated that inflation was 1.9% in January.
+
+There were also revisions to the past data. In particular, the December inflation rate had been revised
+
+down from 2.0% to 1.9%. Since the November Inflation Report, inflation outturns had been a little
+
+lower than expected.
+
+**The February GDP growth and inflation projections**
+
+24 The Committee reached its policy decision in the light of the projections to be published in the
+
+_Inflation Report on Wednesday 15 February._
+
+
+-----
+
+6
+
+25 The Committee’s central projection, based on its collective judgement and the assumption that
+
+official interest rates followed the path implied by the market yield curve, was for the four-quarter
+
+growth rate of GDP to move slightly above its historical average as the quarters of weak growth in
+
+2005 dropped out of the calculation. It then eased back in the second half of the projection as domestic
+
+demand growth moderated. Compared with November, the profile was a little stronger in the first part
+
+of the projection, but slightly weaker thereafter. The central view implied a steady expansion of
+
+consumer spending, but business investment growth was likely to remain soft in the short term. Net
+
+trade was assumed to make a broadly neutral contribution to GDP growth during the forecast period
+
+with a stronger assumed profile for import penetration, and a weaker assumed profile for UK
+
+exporters’ market share, than three months ago.
+
+26 The central projection for CPI inflation, on the market-based assumption about the path of
+
+official interest rates, was for it to remain close to the 2% target throughout the forecast period, as a
+
+declining contribution from the prices of energy and imported consumer goods was offset by a gradual
+
+increase in the pressure of demand on capacity. Compared with November, the profile was slightly
+
+higher around the end of the first year of the projection, mainly on account of the further increase in
+
+energy prices, but similar further out.
+
+27 The Committee’s best collective judgement was that the key risks to the central projection
+
+related to: the outlook for consumer spending; the prospects for net exports; the sustainability of low
+
+long-term interest rates; the margin of spare capacity; the evolution of energy prices and their impact
+
+on inflation. There was a range of views among members, but the Committee judged that, relative to
+
+the central projection, the overall risks were to the downside for growth and broadly balanced for
+
+inflation.
+
+28 The Committee’s projections for GDP growth and CPI inflation conditioned on a constant
+
+interest rate of 4.5% were similar to those based on market rates, reflecting the broadly flat interest rate
+
+profile implied by the market yield curve for the next two years.
+
+**The immediate policy decision**
+
+29 Against this backdrop, there were a number of arguments in favour of leaving the Bank’s official
+
+interest rate unchanged, to which different members attached different weights.
+
+
+-----
+
+7
+
+30 There had been relatively little news in financial markets over the past month, though the news
+
+over the past quarter should provide some stimulus to growth. Although the central projection was for
+
+global growth to be slightly stronger than projected in November, there remained risks in both
+
+directions to the prospects for demand growth in the UK’s primary export markets. The preliminary
+
+ONS estimate of UK output growth had increased in Q4, largely reflecting the strength of services
+
+output and a turnaround in energy production. The earlier slowdown in output growth therefore
+
+appeared to have been relatively shallow. Growth was now close to its historical average rate. The
+
+latest indicators and surveys had pointed to GDP growth strengthening a little in Q1.
+
+31 The weakness of consumption growth in the first half of 2005 appeared to have abated, but the
+
+prospects for consumption were still uncertain. There were signs of weaker growth in some of the
+
+more recent indicators, although the housing market had been stronger than expected. Looking further
+
+ahead, there was uncertainty about whether post-tax labour income would pick up as quickly as
+
+expected in the central case, and about whether households would seek to improve their financial
+
+position by increasing their saving rate. Nevertheless, for most members the near-term outlook for
+
+consumption growth looked stronger than at the time of the November Report. Overall, most members
+
+thought that a gradual strengthening of GDP growth was the most likely central case, though with the
+
+balance of risks on the downside. There was some concern that a reduction in interest rates at this
+
+stage would provide further support to the housing market and consumption at a time when GDP
+
+growth was already strengthening, and that would increase the probability of inflation rising above the
+
+target in the medium term.
+
+32 Consumer price inflation remained close to target, and inflation expectations appeared to be well
+
+anchored. Gas prices seemed likely to push up on inflation to a greater extent than had been expected
+
+in November, and there remained uncertainty about the future path of energy prices more generally.
+
+The central projection was for inflation to remain close to target, as a declining contribution from the
+
+prices of energy and imported consumer goods was offset by a gradual increase in the pressure of
+
+demand on capacity. Business surveys and evidence from the labour market had been consistent with
+
+there being some margin of spare capacity, although there was considerable uncertainty about its size.
+
+In particular, it was hard to judge how much supply capacity had been and would be eroded by the
+
+increase in energy prices. In the light of these considerations, it seemed appropriate to leave the repo
+
+rate unchanged.
+
+
+-----
+
+8
+
+
+33 For one member there was a case for an immediate reduction in the repo rate. The fall in GDP
+
+growth below its historical trend for much of the past eighteen months, the recent rise in
+
+unemployment and the surveys of capacity utilisation, pointed to the emergence of spare capacity in
+
+the economy. While the outlook for consumption had improved over the recent past, the central
+
+projection for consumption and investment appeared too optimistic. Consequently, it appeared
+
+unlikely that the degree of spare capacity in the economy would diminish as much as had been
+
+envisaged in the central projection. And given that pipeline pressures were modest, it seemed likely
+
+that inflation would fall below target once the effects of higher energy prices had dropped out of the
+
+year-on-year calculations.
+
+34 The Governor invited the Committee to vote on the proposition that the repo rate should be
+
+maintained at 4.5%. Eight members of the Committee (the Governor, Rachel Lomax, John Gieve,
+
+Kate Barker, Charles Bean, Richard Lambert, Paul Tucker and David Walton) voted in favour.
+
+Stephen Nickell voted against, preferring a reduction in the repo rate of 25 basis points.
+
+35 The following members of the Committee were present:
+
+Mervyn King, Governor
+Rachel Lomax, Deputy Governor responsible for monetary policy
+John Gieve, Deputy Governor responsible for financial stability
+Kate Barker
+Charles Bean
+Richard Lambert
+Stephen Nickell
+Paul Tucker
+David Walton
+
+Jon Cunliffe was present as the Treasury representative.
+
+
+-----
+

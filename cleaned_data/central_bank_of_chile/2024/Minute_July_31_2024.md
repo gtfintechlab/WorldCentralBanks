@@ -1,0 +1,202 @@
+# MONETARY POLICY MEETING
+
+### JULY 2024
+
+**[INF*RES*AS]**
+
+
+-----
+
+## MONETARY POLICY MEETING
+
+##### Monetary policy meeting No. 307, held on 30-31 July 2024.
+
+Present: Rosanna Costa, Governor; Stepanka Novy, Vice-Governor; Alberto Naudon, Board member; Luis
+Felipe Céspedes, Board member; Claudio Soto, Board member.
+
+Also present: Luis Óscar Herrera, General Manager; Juan Pablo Araya, legal Counsel and Attestor; Elías
+Albagli, Monetary Policy Division Director; Ricardo Consiglio, Financial Markets Division Director; Rosario
+Celedón, Financial Policy Division Director; Gloria Peña, Statistics and Data Division Director; Michel
+Moure, Institutional Affairs Division Director; Markus Kirchner, Macroeconomic Analysis Manager; Enrique
+Orellana, Monetary Policy Strategy and Communication Manager; Sofía Bauducco, Economic Research
+Manager; Guillermo Carlomagno Real, International Analysis Manager; Felipe Musa, Market Operations
+Manager; Miguel Fuentes, Financial Stability Manager; David Kohn, Head of Massive Information Analysis
+Department; Andrés Sansone, Advisor to the Finance Minister; Erika Arraño, Senior Economist; Marlys
+Pabst, Secretary General.
+
+#### 1. Background
+
+**The international scenario**
+
+On the external front, global inflation had generally continued to decline at a moderate pace, mainly
+due to a slow decline in the services components. In the United States, June’s inflation had been below
+expectations and the labor market was showing signs of moderation at the margin, including only modest
+job creation. This had turned the market’s outlook for the Federal Reserve (Fed)’s monetary policy somewhat
+less contractionary.
+
+In the Eurozone, total inflation had receded as expected, although its core component had remained
+unchanged compared to May and exceeded projections, in a context where the inflationary dynamic of the
+region had shown some volatility in recent months due to one-off events.
+
+In several Latin American economies, inflation had tended to stabilize. On one hand, the widespread
+rebound of food prices in the region, partly influenced by the lagged effects of the El Niño phenomenon.
+On the other hand, core inflation had fallen, along with the prices of goods, in a scenario of no significant
+slack in the labor markets.
+
+
+-----
+
+About activity, second-quarter growth had accelerated in the United States exceeding market forecasts.
+Every component of domestic demand had contributed to boost growth in the country, with a noteworthy
+contribution of private consumption. This situation contrasted with the limited pace of growth observed in
+the rest of the world, especially due to a greater-than-expected slowdown in China in the second quarter.
+This was explained, in large part, by the weakness of consumption, while investment had continued to
+show a disparity between the deteriorating residential sector and a more favorable evolution of investment
+in manufacturing and infrastructure.
+
+In the Eurozone, high-frequency activity data for the second quarter showed signs that the bloc’s economy
+was growing, but at a somewhat slower pace than in the preceding quarter. Monthly Latin American
+indicator had maintained their dynamism and suggested that the rebound observed in the first quarter
+would continue going forward. Overall, growth prospects had not changed significantly for 2024-2025.
+
+As for global financial markets, compared with the previous Meeting, long-term interest rates had seen
+some decline in both developed and emerging economies. The stock markets had shown mixed movements
+and the global dollar had appreciated.
+
+In general, commodity prices had dropped since the last Meeting. The drop in metals responded partly to
+somewhat weaker signals from China, along with other elements such as a lower momentum associated
+with the energy transition in developed economies and some positive supply-side news. Thus, although
+with fluctuations, the price of copper had decreased with respect to the June meeting. The price of a (WTIBrent average) oil barrel was around US$79 in the days prior to the Meeting (-5% since the June Meeting).
+Food prices had remained fairly stable during June, although there had been significant falls for some grains
+due to a more favorable outlook on the supply side.
+
+**The domestic scenario**
+
+In June, headline inflation had been in line with forecasts in the last IPoM. The core measure --CPI without
+volatile items-- had varied less than expected, mainly in goods and due to factors that were estimated to
+be transitory. Among them, the occurrence of trade-related events that had a stronger than anticipated
+downward impact. On the volatile side, foodstuff prices had risen more than expected due to adverse
+weather events. Thus, the annual variation of the CPI --spliced benchmark series-- reached 3.8% and
+that of the core measure reached 3.2%. Regarding two-year inflation expectations, both the Economic
+Expectations Survey (EEE) and the Financial Operators’ Survey (EOF) were at around 3%.
+
+Local activity had performed below expectations in the June IPoM. In May, the non-mining Imacec had
+decreased 0.5% month-on-month in its seasonally adjusted series (+0.2% annually), a result that was
+largely explained by one-off supply factors, mainly associated with manufacturing and mining. June sectoral
+activity data (INE) showed a below-expected performance in some sectors.
+
+
+-----
+
+On the demand side, high-frequency indicators pointed to no major differences with the projections of the
+last IPoM. The large-scale investment project surveys stood out, showing a significant increase in the amounts
+foreseen for the upcoming years. In the labor market, the unemployment rate for the moving quarter
+ending in June remained at 8.3%. Although still in pessimistic territory, the expectations of businesses and
+households had picked up somewhat.
+
+In the local financial market, short- and long-term indexed interest rates had declined since the last Meeting,
+in a context where nominal rates had not changed much. The peso had depreciated, in line with a lower
+copper price. Meanwhile, the IPSA stock index had oscillated and had fallen a little sin the last Meeting.
+
+Our Bank Lending Survey (ECB) for the second quarter of 2024 revealed that the lending conditions had
+been stable in most portfolios, while the demand for loans was still low in every segment.
+
+Real consumer and commercial loans were still declining, with annual variations of -2.1% and -2.8% in
+June, respectively. In the housing segment, they maintained moderate growth (+2.3% in real annual terms
+in the same period). The rates of shorter-term loans continued to reflect the pass-through of MPR cuts,
+in line with the usual patterns. Delinquency rates continued to increase in the commercial and housing
+portfolios, while they decreased slightly in the consumer segment.
+
+At this Meeting, the Economic Expectations Survey (EEE) median anticipated a reduction in the MPR of
+25 basis points (bp), and both the Financial Traders Survey (EOF) along with the projections implicit in the
+prices of financial assets pointed to a pause. At one year, both surveys placed the MPR at 4.75%, while the
+forward curve saw it at 5%.
+
+#### 2. Background analysis and discussion
+
+It was noted that, generally, incoming news since the last Meeting did not deviate from the trends assumed
+in the June IPoM. On the one hand, the economy was recovering, with demand being somewhat more
+dynamic than activity. On the other, the direct impact of electricity prices on inflation would be significant,
+but transitory. Moreover, the outlook for investment, especially in the mining sector, was picking up. Finally,
+the US inflationary cycle would feature a gradual convergence to its 2% target, suggesting that the America
+economy, which had been unexpectedly dynamic lately, was losing speed. This would allow the Fed to go
+ahead with its gradual process of lowering its benchmark rate, with one or two cuts of 25bp during this
+year. In this context, global financial markets will remain broadly unchanged, with long rates still high but
+with possible minor declines, and the dollar remaining strong.
+
+In any case, it was noted that there were new developments whose impact was important to measure,
+as they could generate risks for the central scenario. On the external front, the weakness of the Chinese
+
+
+-----
+
+economy stood out, which contributed to a significant downward correction in the price of copper. If
+persistent, the Chilean economy could have a milder external impulse than contemplated in the IPoM, since
+the copper price, which was one of the factors behind the adjustment of the projections, not only because
+of its impact on mining investment, but also because of its consequences on expectations and the resulting
+effect on household spending, could have a greater impact on the Chilean economy..
+
+At home, partial second-quarter data showed slower than expected activity. However, a more thorough
+analysis pointed to some specific factors in this result, while domestic demand performed relatively in
+line, albeit with a restructuring of domestic demand towards lower consumption and higher investment.
+Regarding inflation, the depreciation of the peso and the fact that the INE would not factor the subsidies
+associated with the electric bill hike into its CPI calculation, pushed up the inflation outlook for the second
+half of 2024 and the first half of 2025.
+
+It was pointed out that the evolution of the macroeconomic scenario seemed to be generating relevant
+risks with opposing effects on inflation. On one hand, the risk that activity would turn out to be lower
+than expected, leading to lower inflationary pressures. On the other hand, there was a risk of greater
+inflationary persistence, in a context of higher levels of inflation in the short term associated with the rise
+in electricity prices.
+
+It was argued that neither risk scenario was imminent and neither dominated over the other. Although
+activity was behaving below expectations, this was not the case with demand and some particular elements
+were identified. Meanwhile, the reaction of inflation expectations and interest rates showed that the
+markets had grasped the specific origin of the inflationary shock and its transitory nature. All in all, it was
+emphasized that this issue should remain under close scrutiny.
+
+#### 3. Analysis of monetary policy options
+
+All five Board members agreed that the information at hand confirmed that, generally speaking, the economy
+was evolving in line with the trends depicted in the June IPoM’s central scenario. Despite some important
+news regarding activity and the short-term inflation forecast that had to be considered, they pulled in
+opposite directions for the future inflationary dynamic. It was agreed that a more thorough analysis of the
+implications of these elements for monetary policy would be undertaken in the context of the next IPoM
+when more background information would be available to contrast these trends.
+
+The Board agreed that it continued to consider the strategy outlined in the last IPoM to be valid, i.e., that
+the convergence of inflation to the 3% target was consistent with a policy rate that would be further
+reduced over the monetary policy horizon. Accordingly, they considered the most appropriate options to be
+(i) hold the MPR, or (ii) lower it by 25bp to 5.5%.
+
+
+-----
+
+The Board agreed that the two options were compatible with the strategy proposed in the IPoM, noting
+that market expectations actually assigned fairly the same probability to both. Hence, choosing one or the
+other option required considering tactical aspects and the weighting of risks.
+
+On the one hand, considering the central scenario of the June IPoM, it was reasonable to begin to make
+pauses in the MPR lowering process. In addition, given the fact that short-term inflation projections were
+being revised upwards, there was room to be cautious and wait for the next Report with more background
+information and a revision of the medium-term outlook. As for the decision to lower the MPR, conditional
+on the central scenario, making that choice now or at one of the following meetings was just a timing issue.
+However, lowering the rate at this Meeting would limit the leeway for the rest of the year.
+
+Considering the related risks, it was noted that neither option clearly dominated over the other, and the
+data that would be known before the next IPoM would help to better gauge their implications.
+
+#### 4. Monetary policy decision
+
+Governor Costa, Vice-Governor Novy and Board members Naudon, Céspedes and Soto voted for keeping
+the monetary policy rate (MPR) at 5.75%.
+
+
+-----
+
+**MONETARY POLICY MEETING**
+JULY 2024
+
+
+-----
+

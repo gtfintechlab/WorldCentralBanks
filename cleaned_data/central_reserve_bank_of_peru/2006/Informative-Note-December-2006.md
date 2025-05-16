@@ -1,0 +1,100 @@
+## PRESS RELEASE
+
+ MONETARY PROGRAM FOR DECEMBER 2006
+
+ BCRP MAINTAINS THE REFERENCE INTEREST RATE AT 4.50%
+
+1. The Board of Directors of the BCRP decided to maintain the reference interest
+rate for the interbank market at 4.50 percent, taking into account that:
+
+a. The inflation rate continues to be within the lower range of the announced
+target range (1.5 – 2.5 percent), in line with the inflation forecasts outlined
+in our Inflation Report of September. As described in this Report, due to
+the reversal of the price increases observed in some food products,
+inflation is expected to be temporarily below the lower range of the
+inflation target during the next months, returning thereafter to a level
+within the inflation target range (1.5 percent – 3.5 percent).
+
+b. The risks forecast in our previous Inflation Report persist. Particularly, an
+increased growth of domestic demand –not coupled by an increase in
+productivity- would generate upward pressures on inflation and would,
+consequently, require that preventive adjustments be made in terms of
+the monetary stance. In this context, the Central Bank will continue to
+evaluate any relevant macroeconomic information and take any
+necessary action in order to ensure that inflation remains within the target
+range in the medium term.
+
+2. This decision has been made taking into account the following information:
+
+a. The Consumer Price lndex for Metropolitan Lima (CPI) decreased 0.28
+percent in November. As a result of this, the CPI inflation rate
+accumulated in the last twelve months was 1.54 percent, close to the
+lower range of the inflation target (1.5 percent). One of the factors
+explaining this evolution was the prices of food products, especially the
+lower prices of onion, poultry, potato and sugar. On the other hand, core
+inflation was 0.13 percent, and accumulated a last-12-month rate of 1.45
+percent.
+
+b. Economic activity is estimated to have grown by 6.9 percent in October,
+accumulating a rate of 7.4 percent in the January-October 2006 period,
+boosted by the dynamic performace of domestic demand which is
+estimated to have grown 9.6 percent in the same period. All domestic
+demand components show high rates of growth, particularly private
+consumption and investment which are estimated to have grown 5.8
+percent and 19.7 percent respectively as a result of a favorable context
+marked by high consumers’ and business confidence.
+
+
+-----
+
+c. The average monthly interest rate in the interbank market was 4.48
+percent in November, while the average 90-day corporate prime rate for
+credit in soles was 5.25 percent, a level 6 bps. lower than in October.
+
+d. The country risk indicator at the end of November was 158 bps., which
+represented an increase of 8 bps. with respect to the close of October,
+and reflected –although to a lesser extent- the evolution observed in the
+region. Furthermore, the yield of the 20-year sovereign bonds in
+domestic currency decreased for the sixth consecutive month, falling from
+6.90 percent in October to 6.88 percent in November.
+
+e. The nuevo sol appreciated 0.5 percent in nominal terms against the dollar
+in November when the exchange rate was S/. 3.22 per dollar. However, in
+real terms, the nuevo sol depreciated 0.6 percent against the currencies
+of our main trading partners, and taking into account relative inflation with
+said countries. Over the last twelve months, the nuevo sol has
+appreciated 4.6 percent against the dollar in nomimal terms and 0.7
+percent in real terms.
+
+During the month of November, banks’ exchange position increased by
+US$ 48 million. The balance of net forward sales decreased by US$ 133
+million and net purchases of dollars in the spot market amounted to US$
+569 million. The Central Bank intervened in the exchange market
+purchasing US$ 610 million, of which US$ 150 million were sold to the
+Public Treasury.
+
+3. During the session, the Board of Directors approved the annual interest rates on
+the following operations in soles between the BCRP and the financial system:
+
+a. Direct repo and rediscount operations: 5.25 percent.
+b. Overnight deposits: 3.75 percent.
+
+Likewise, the Board of Directors approved the interest rates on the following
+operations in dollars between the BCRP and the financial system:
+
+a. Rediscount operations: 1-month LIBOR plus one percentage point.
+b. Overnight deposits: overnight LIBOR minus 3/8 of one percentage
+point.
+c. Swap: a commission equivalent to a minimum annual effective cost of
+5.25 percent.
+d. Reserve requirements in foreign currency subject to remuneration: 2.75
+percent anually.
+
+4. The Board will approve the following Monetary Program (January 2007) on the
+session to be held on January 4, 2007.
+
+
+-----
+
+-----
+

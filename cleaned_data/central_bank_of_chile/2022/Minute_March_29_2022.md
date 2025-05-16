@@ -1,0 +1,122 @@
+# MONETARY POLICY MEETING
+
+### MARCH 2022
+
+**[INF*RES*AS]**
+
+
+-----
+
+## MONETARY POLICY MEETING
+
+##### Monetary Policy Meeting No. 288, held 29 March 2022.
+
+Present: Rosanna Costa, Governor; Pablo García, Vice Governor; Alberto Naudon, Board member; Luis
+Felipe Céspedes, Board member.
+
+Present the Finance Minister, Mario Marcel.
+
+Also present: Beltrán de Ramón, General Manager; Juan Pablo Araya, Legal Counsel and Attestor; Elías Albagli,
+Monetary Policy Division Director; Paulina Yazigi, Financial Markets Division Director; Rodrigo Alfaro, acting
+Financial Policy Division Director; Gloria Peña, Statistics Division Director; Michel Moure, Institutional Affairs
+Division Director; Diego Ballivián, Corporate Risk Division Director; Markus Kirchner, Macroeconomic Analysis
+Manager; Enrique Orellana, Monetary Policy Strategy and Communication; Miguel Fuentes, International
+Analysis Manager; Diego Gianelli, Market Operations Manager; Felipe Lozano, Communications Manager;
+Andrés Sansone, Advisor to the Finance Minister; Marlys Pabst, Secretary General.
+
+#### 1. Background
+
+Inflation and its short-term outlook had continued to rise and was projected to approach 10% by mid2022. Higher inflation was having a significant impact on households, and continued to respond mainly
+to the recent quarters’ overspending wave. This impact had been exacerbated against a backdrop of
+significant cost pressures, which had been further increased by the commodity price shock triggered by
+Russia’s invasion of Ukraine. The central scenario of the December Monetary Policy Report projected that
+in the latter part of 2022 inflation would begin to converge to the 3% target, which it would reach within
+the two-year horizon.
+
+Resolving the imbalances that the economy had accumulated over some quarters was vital for this
+convergence, fundamentally by adjusting the fiscal and monetary impulse, among other factors. Accordingly,
+and with a less favorable external scenario after the excessive growth of 2021, the economy would expand
+at a rate below its potential in 2022 and 2023, with contractions in private consumption and investment.
+
+
+-----
+
+#### 2. Background analysis and discussion
+
+The discussion centered around the evolution of the macroeconomic scenario, noting that the current
+situation seemed particularly challenging for monetary policy decision-making. First, there was an apparent
+change in the cyclical direction of the economy, which posed difficulties in properly calibrating monetary
+policy signals, as there was the risk of arriving too late or going too fast. Second, despite the rapid and
+significant increases in the MPR in recent quarters, inflation expectations from expert surveys and market
+prices indicated that risks of further persistence in inflationary dynamics continued. Third, there was the
+geopolitical shock present, which was having a negative impact on supply, implying higher costs and
+inflationary pressures in the short term, but which could lead to disinflationary effects in the medium term.
+
+The discussion turned to the evolution of inflation expectations and the reasons behind their divergence
+from the two-year 3% target. It was said that it was important to understand the motives behind these
+expectations, specifically whether they responded to a judgment on the Bank’s capacity to meet the inflation
+target or there were originated in a different view of the future evolution of the determinants of inflation..
+It was noted that it was difficult to establish which of the two reasons had greater weight: the first of them
+seemed less relevant considering that the Bank had raised the rate sharply over a short time span, even
+taking the market by surprise, and it was one of the world’s most proactive central banks in this matter.
+Therefore, the second explanation seemed more reasonable. Various sources suggested that the market
+had a clearly less contractionary view of demand, which was naturally associated with higher inflation.
+
+It was mentioned that beyond the reasons behind the behavior of inflation expectations, the fact that they
+remained above 3% in the two-year horizon was a matter of concern. On the one hand, it could lead to
+high inflation persisting longer than assumed in the central scenario of the Report, which was a problem
+in itself, because it would entail a more contractionary TPM trajectory, in the different scenarios under
+analysis, in order to ensure the convergence of inflation to the 3% target over the monetary policy horizon.
+On the other hand, in a context of high short-term inflation and a weak economy in the medium term,
+keeping inflation expectations in line with the target was essential for monetary policy to be able to deal
+appropriately with this scenario.
+
+#### 3. Analysis of monetary policy options
+
+The Board agreed that the Monetary Policy Rate (MPR) should be further raised at a significant pace, consistent
+with a scenario where annual inflation was already high and was set to continue rising in the near future. The
+central scenario of the March Report considered an MPR that would be close to 7.5% in the second quarter
+of the year. While this scenario did not constitute a commitment by the Board, as decisions were subject to
+macroeconomic developments, it did allow for the establishment of policy options relevant to this Meeting: (i)
+raising the MPR by 125 basis points (bp); (ii) raising it by 150bp; and (iii) raising it by 175bp.
+
+
+-----
+
+All the Board members agreed that the three options were plausible, but that the 150bp option was the one
+that best fit in both technical and communicational terms with the intended message to be conveyed. Such
+a decision left them in a more comfortable position to react to any deviation or to accelerate the adjustment
+if deemed prudent as new information would become available going forward.
+
+Regarding the 125-bp and 175-bp options, there was agreement among the Board members that both
+had disadvantages, particularly the former. In the view of one Board member a 125bp increase could be
+ruled out based on the current inflation expectations scenario and what such an option would signal. In
+particular, because it would come as a major surprise, which could convey a relatively lower concern about
+the inflationary scenario and its outlook. Regarding the 175-bp option, all the Board members agreed
+that it could give stronger signals of concern about inflation, but it could also indicate an MPR trajectory
+that would go beyond the conditions described in the central scenario, and was therefore complex to
+communicate. All the Board members also agreed that increases in the MPR above 175bp —as could be
+observed in the expectations of some market agents— were outside the macroeconomic scenario that the
+Bank considered plausible.
+
+All the Board Members agreed that the Chilean economy was facing a complex scenario, and that the
+Bank’s main task was to ensure the convergence of inflation to the 3% target within the two-year horizon.
+For this reason, the Board would take every action necessary to meet this objective. Failure to do so would
+not only call the Central Bank’s credibility into question, but would also put the economy at risk, as it could
+end up causing a higher cost in terms of reduced economic activity and employment by weakening its ability
+to implement a countercyclical monetary policy.
+
+#### 4. Monetary policy decision
+
+Governor Costa, Vice-Governor García, and Board members Naudon and Céspedes voted for raising the
+monetary policy interest rate by 150 basis points, to 7%.
+
+
+-----
+
+**MONETARY POLICY MEETING**
+MARCH 2022
+
+
+-----
+

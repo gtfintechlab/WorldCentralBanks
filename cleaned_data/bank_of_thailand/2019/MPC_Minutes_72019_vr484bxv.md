@@ -1,0 +1,307 @@
+**Edited Minutes of the Monetary Policy Committee Meeting (No. 7/2019)**
+
+**6 November 2019, Bank of Thailand**
+
+**Publication Date:** **20 November** **2019**
+
+**Members Present**
+
+Veerathai Santiprabhob (Chairman), Mathee Supapongse (Vice Chairman), Paiboon
+Kittisrikangwan, Sethaput Suthiwart-Narueput, Kanit Sangsubhan, Subhak Siwaraksa, and
+Somchai Jitsuchon
+
+**The Global Economy**
+
+**Trading partner economies would continue to slow down due to the impacts of uncertainties**
+**arising from international trade tensions despite some signs of improvement in the short**
+**term. Advanced economies** were expected to moderate due to exports, production, and
+investment. Meanwhile, the services industry would remain a key sector supporting the
+economy. Private consumption would be supported by rising wages and tightening labor
+markets. China would expand at a slower pace, prompting the authorities to launch monetary
+and fiscal stimulus measures to help shore up the economy. While these measures were in a
+smaller scale than those in the past, they were designed to be more targeted and taken into
+account financial stability consideration. Asian economies (excluding Japan and China) would
+also moderate in line with production, exports, and a prolonged downturn in the electronic
+cycle. In coordination with monetary policy, fiscal policy would support Asian economies by
+increasingly focusing on infrastructure investment. Monetary policy of trading partners in both
+advanced and regional economies would loosen further. The Federal Reserve (Fed) additionally
+cut its policy rate in October 2019 as insurance against potential adverse impacts on the
+economic and inflation outlook from uncertainties pertaining to the global economy and trade
+tensions. The European Central Bank (ECB) kept their accommodative monetary policy stance
+and would start its new Asset Purchase Program (APP) in November 2019. Many regional
+central banks such as the Reserve Bank of India, the Bank of Korea, Bank Indonesia, and the
+Reserve Bank of Australia also cut policy rates further in October.
+
+**The Committee assessed that there was a probability of trading partner economies and global**
+**trade volume growing at a slower pace than the baseline projection due to (1) the global**
+economic slowdown, (2) potentially prolonged trade protectionism through both tariff and nontariff measures that would impinge on services sector employment in advanced economies, and
+(3) heightened geopolitical risks. The Committee noted that Thailand’s trading partner
+economies would not show a clear sign of improvement next year, although the global economy
+would gain traction due to the economic recovery in Latin America and Russia, as both were
+not Thailand’s major trading partners. Monetary policy space in various countries would be
+more limited. Policy rates would be lower for longer. However, there were still policy space for
+fiscal policy, especially in Asia, which would be an important tool for stimulating the economy
+in the period ahead.
+
+**Moreover, risks of global financial stability would heighten in the medium to long term due**
+**to the lower for longer environment caused by accommodative monetary policy of advanced**
+**economies. Investors would search for higher yields by investing in riskier assets, which could**
+lead to underpricing of risks. There was higher risk accumulation in non-bank financial
+institutions due to less regulation. The Committee thus saw a need to closely monitor
+(1) development of trading partner economies, (2) other countries’ monetary and fiscal policies,
+
+
+-----
+
+and (3) risks pertaining to economy and financial stability in order to assess their impacts on the
+Thai economy that could occur through various macroeconomic linkages.
+
+**The Financial Markets**
+
+**Concerns in the global financial markets abated thanks to positive progress on trade**
+**negotiations between the US and China in the first stage of the partial US-China trade**
+**agreement. The deal included (1) postponement of US tariff hikes on some Chinese products,**
+(2) removal of designation of China as currency manipulator, and (3) China’s pledge to increase
+imports of some agricultural products from the US. In addition, Brexit negotiation made some
+progress after a three-month extension until 31 January 2020. Prices of most risky assets
+increased owing to the risk-on sentiments after the first phrase of trade deal between US and
+China had some progress. Long-term US government bond yields rose in tandem with global
+financial market conditions. However, long-term Thai government bond yields only slightly
+increased due to domestic investors’ demand for long-term bonds.
+
+**On** **exchange rates, the Thai baht appreciated against the US dollar since the previous meeting**
+in line with regional currencies and emerging market risky asset prices. Movements of the baht
+somewhat diverged from those of the yen and gold prices due to risk-on sentiments following
+better prospects in trade negotiations between the US and China as well as Brexit negotiation.
+The nominal effective exchange rate (NEER) appreciated since the previous meeting.
+
+**The Committee viewed that financial markets would remain highly uncertain going forward**
+**due to various factors,** including uncertainties pertaining to trade negotiations between the US
+and China, Brexit, and the global economic slowdown. These factors could cause volatilities in
+asset prices and exchange rates. Moreover, monetary policy stance of advanced economies
+would be an important factor affecting confidence in global financial markets going forward.
+The Committee remained concerned about baht appreciation against trading partner
+currencies given the economy continued to slow down, as heightened external uncertainties
+could cause the Thai economy to be more sensitive to greater currency appreciation. This would
+be an additional pressure on the softening employment and domestic demand, particularly in
+export-related manufacturing and services sectors. **The Committee supported the Bank of**
+**Thailand in relaxing regulations in order to facilitate capital outflows and help promote**
+**balanced cross-border flows, which could lessen pressure on the baht as well as facilitate**
+**foreign exchange risk management of the private sector. In addition the Committee saw the**
+need for the Bank of Thailand to (1) closely monitor developments of exchange rates, capital
+flows, and impacts on the economy through various channels and (2) to review the
+effectiveness of the implemented capital outflow relaxation measures every three months and
+consider implementing additional measures at an appropriate timing if necessary. These
+additional measures included those under the Bank of Thailand’s authority and those required
+collaboration with other private and public organizations, particularly efforts to stimulate
+investment to reduce the large current account surplus. Such investment projects, including
+those requiring imported capital goods, would help boost the economy during the global
+economic slowdown. These investment projects would also enhance growth potential of the
+Thai economy and restructure the economy to keep up with changes especially in digital
+technology.
+
+**Domestic Economic Conditions and Financial Stability**
+
+**The Thai economy would expand at a lower rate than previous projection and further below**
+**its potential due to the contraction in merchandise exports that increasingly affected the**
+
+
+-----
+
+labor market. Merchandise exports would contract more significantly and would recover at
+a slower pace than the previous assessment due to (1) the slowdown in trading partner
+economies and global trade as a result of trade tensions and (2) indirect impacts of increasing
+Chinese merchandise exports redirected to the region. Exports of services would moderate.
+Tourism expenditure declined following the global economic slowdown. Private consumption
+was expected to slow down despite supports from fiscal stimulus. This was due to moderated
+household income and a sharp fall in employment, particularly in export-related
+manufacturing sectors, as well as elevated household debt. Looking ahead, private
+consumption would encounter downward risks regarding a broad-based decline in nonagricultural employment and a decline in agricultural output due to the low dam water levels.
+**Private investment** would grow at a lower rate than previously assessed in tandem with
+merchandise exports and domestic demand. However, greater clarity of public-private
+partnership projects for infrastructure investment and the relocation of production base to
+Thailand would support investment going forward. **Public expenditure would expand at a**
+lower rate than the previous assessment due partly to delay in the state-owned enterprise
+investment projects and a reduction in state-owned enterprise investment budgets for fiscal
+year 2020.
+
+**The Committee assessed that there remained possibilities that the Thai economy could**
+**expand at a slower pace. These included key merchandise exports such as (1) automotive**
+and auto parts that would be affected by the global economic slowdown and within-industry
+changes such as automation as well as a growing trend of electronic vehicle with less parts
+needed, causing lower demand for workers and (2) electronic goods that would face with a
+slower-than-expected recovery of the global electronic cycle. Moreover, some Thai
+entrepreneurs might gain less benefit from the upcycle due to technological changes.
+Regarding domestic demand, the Committee concerned over the fast decline in employment
+in both agricultural and non-agricultural sectors in a broad-based manner that would continue
+to decline further following the slowdown in the economic outlook and impacts of drought
+next year. The Committee thus saw a need to closely monitor developments in the labor
+market and debt servicing capability of households.
+
+**The annual averages of headline inflation in 2019 and 2020 were projected to be lower than**
+**the previous projection and below the lower bound of the inflation target due to lower-**
+than-expected energy prices in tandem with the global economic slowdown as well as a
+sooner-than-expected return to the normal level of crude oil production in Saudi Arabia after
+the attack on production plants. Core inflation was expected to increase at a lower rate than
+expected owing to processed food prices, where the pass-through of fresh food prices to
+processed food prices was limited. This partly reflected low demand-pull inflationary
+pressures. Nevertheless, long-term **inflation expectations slightly increased from the**
+previous period, while short-term inflation expectations were largely unchanged.
+
+**Financial system risks still posed vulnerabilities to financial stability. The financial cycle that**
+remained above trend could reflect some vulnerabilities. However, the financial cycle was
+expected to moderate in the period ahead. On leverage, loan quality of SMEs continued to
+deteriorate. This was attributed to the worsening loan quality of medium-sized SMEs in
+addition to that of small-sized SMEs which were highly vulnerable owing to existing structural
+problems. Meanwhile, loan quality of some corporates affected by trade tensions also
+worsened. Regarding household debt, the household debt-to-GDP ratio remained elevated
+and would continue to edge up as a result of the economic slowdown as well as loan
+expansion by commercial banks and non-bank financial institutions, especially credit card and
+
+
+-----
+
+personal loans. Households increasingly resorted to collateralized personal loans for liquidity,
+part of which could be for business purposes. In addition, the share of households sensitive
+to negative income shocks increased, and the Committee would thus monitor these
+households during the economic downturn. In order to curb household debt problems going
+forward, the Bank of Thailand worked with commercial banks to establish guidelines on
+responsible lending and standardize debt service ratio (DSR) calculation in order to collate
+DSR data in case additional measures intended to curb household debt would become
+necessary in the future. **Search-for-yield behavior that led to underpricing of risks** still
+persisted in the prolonged low interest rate environment. Large corporates increasingly
+turned to the bond market for funds instead of commercial banks during the low interest rate
+environment, with banks becoming cautious in extending loans. Some high-yield bonds and
+perpetual bonds were found to be bought by individuals who might underprice risks. Growth
+of saving cooperative assets subsided following moderation in deposits and their members’
+equities. Regarding the **property sector, after the implementation of the revised loan-to-**
+value (LTV) measure, households and commercial banks changed their behavior as intended.
+Speculation abated as reflected in (1) the slower growth of new condominium loans for the
+second and subsequent contracts, (2) the tightened credit underwriting standards, and (3)
+the decline in condominium prices due to softened demand. Prices of single houses and
+townhouses were largely unchanged. Property developers adjusted by delaying new project
+launches. Meanwhile, the government’s reduction of transfer fees and mortgage registration
+fees to 0.01 percent for new housing units under three million baht effective 2 November
+2019 was expected to help reduce the oversupply in the property sector to some extent.
+
+**The Committee viewed that the macroprudential measures previously implemented helped**
+**curb vulnerabilities in the financial system to some extent. The Committee saw a need to**
+continuously monitor and assess the impacts of LTV measure on the property sector. There
+also was a need to monitor financing by large corporates that might underprice risks and risks
+associated with large saving cooperatives that were highly financially interconnected.
+Moreover, the Committee viewed that household debt was a critical and urgent structural
+risk that would require a multi-dimensional resolution. Cooperation between various parties
+was needed to reduce leverage and to restructure existing debt. In this light, greater emphasis
+should be placed on borrowers’ debt servicing capability. The Committee thus directed
+a study of additional appropriate measures to curb potentially increased risks in the future.
+
+**Monetary Policy Decision**
+
+The Committee assessed that the Thai economy would expand at a lower rate than previously
+assessed and further below its potential due to the contraction in merchandise exports that
+increasingly affected employment and domestic demand. Headline inflation would be below
+the lower bound of the inflation target. Overall financial conditions were accommodative. Real
+interest rates and government bond yields remained low. Liquidity in the financial system
+remained ample. Meanwhile, the baht continued to appreciate. Financial stability had already
+been taken care of to some extent, but there remained pockets of risks that warranted
+continued monitoring. Most Committee members judged that a more accommodative
+monetary policy stance would contribute to the continuation of economic growth and should
+support the rise of headline inflation toward target. The Committee therefore voted 5 to 2 to
+**cut the policy rate by 0.25 percentage point from 1.50 to 1.25 percent. Two members voted**
+**to maintain the policy rate at 1.50 percent. The Committee discussed key considerations**
+**underpinning the policy decision. Their conclusions were as follows.**
+
+
+-----
+
+**1) The Thai economy was expected to expand at a lower rate than previously assessed and**
+**further below its potential. Merchandise exports contracted more than the previous**
+assessment and were projected to recover at a slower pace. Employment would decline
+significantly in both agricultural and non-agricultural sectors. Public expenditure would grow at
+a lower rate than previously estimated. The Committee viewed that the Thai economy would
+**encounter higher risks from both external and internal factors including (1) uncertain trade**
+tensions and prolonged downturn in the electronic cycle, (2) the weakening outlook of trading
+partners’ economies, especially China and Asia, together with intensifying geopolitical risks,
+(3) more accommodative monetary policy stance in advanced and regional economies,
+(4) uncertainties pertaining to public expenditure and the progress on public-private
+partnership infrastructure investment and the consequent impact on private investment,
+(5) more-than-expected slowdown in private consumption as a result of declining employment
+and income, and (6) risks from drought next year which could affect agricultural output and
+farm income.
+
+**The Committee assessed that continued exchange rate appreciation affected exports and the**
+**overall economy. The impacts could be seen from business profits and liquidity, a sharp**
+reduction in employment in export-related manufacturing sectors, signs of slowdown in
+domestic demand and deteriorated debt servicing capability in the sectors related to export
+contraction. The Committee thus saw the need to closely monitor exchange rate and its impacts
+on the economy.
+
+**2) Headline inflation would be below the lower bound of the inflation target** **in 2019 and 2020**
+due to lower-than-expected energy prices in line with the global economic slowdown and with
+quicker-than-expected recovery in Saudi Arabia oil production. In addition, core inflation was
+expected to be lower than the previous estimate owing to subdued demand-pull inflationary
+pressures. In the period ahead, the Committee viewed that inflation projection would face
+uncertainties from oil price fluctuations and weather conditions. Moreover, structural changes
+such as impacts from the expansion of e-commerce, heightened price competition, and
+productivity upgrades which reduced production costs could cause inflation to rise at a slower
+pace than in the past.
+
+**3) Some financial system risks which had been partly addressed by the implemented**
+**macroprudential measures.** For instance, property sector risks abated after the
+implementation of the loan-to-value (LTV) measure. Moreover, banks were more cautious in
+extending loans during the economic slowdown. However, other financial stability risks had
+**not improved and warranted continued monitoring.** First, debt servicing capability of
+households and SMEs could be worsened amid economic slowdown, particularly in the case of
+additional income shocks, while elevated household debt could build up vulnerabilities in the
+household sector. Second, search-for-yield behavior in the prolonged low interest rate
+environment could lead to underpricing of risks, especially by large corporates and saving
+cooperatives. Third, the property sector remained oversupplied in some areas.
+
+**Given the softening economic outlook and prolonged low interest rates, the Committee**
+**viewed that microprudential and macroprudential measures would need to play an**
+**increasing role in addressing financial stability risks. The Committee supported the Bank of**
+Thailand to work with other organizations in order to push forward household and SME debt
+resolutions. Such resolutions included debt restructuring and the debt clinic, together with
+putting into practice guidelines for responsible lending and for building financial discipline and
+promoting household savings. The Committee saw a need to continue monitoring impacts of
+
+
+-----
+
+the implemented measures and study additional appropriate measures to curb potentially
+increased risks in the future.
+
+**The Committee engaged in extensive discussion regarding the necessity of the policy rate cut**
+**to 1.25 percent at this meeting. Most Committee members viewed that more accommodative**
+**monetary policy would support economic growth during the slowdown as well as the rise of**
+**headline inflation toward target in the context of heightened uncertainties mainly from**
+**external factors.** This would give both public and private sectors time to adjust to the economic
+downturn. The adjustments included restructuring household and corporate debt such as
+(1) broadening the scope of the debt clinic to include more debtors and (2) restructuring SMEs
+debt to enhance their debt servicing capability as well as to keep their businesses operating.
+Moreover, the policy rate cut could also facilitate fiscal policy to support the economy. In
+addition, most Committee members viewed that the policy rate cut together with the relaxation
+of capital outflow regulations would reduce pressure on the baht to some extent. Nevertheless,
+**two Committee members viewed that a policy rate cut given the already accommodative**
+**monetary policy stance might not lend additional support to economic growth compared with**
+potentially increased financial stability risks, which could pose adverse effect on economic
+growth in the long run. In addition, the effect of a policy rate cut on reducing pressure on the
+baht could be limited as baht appreciation was driven mainly by inflows from current account
+surplus and foreign direct investment. Furthermore, there remained a need to preserve the
+limited policy space for coping with potentially heightened risks in the future.
+
+**In the discussion of the monetary policy outlook the Committee would be data-dependent by**
+closely monitoring the developments of the outlook for growth, inflation, and financial stability,
+together with associated risks in deliberating monetary policy going forward. The Committee
+would stand ready to use policy tools as appropriate. Furthermore, the Committee saw the
+**need for policy coordination between related public and private organizations to support**
+**growth recovery and economic restructuring** given structural problems facing the Thai
+economy that could affect competitiveness and growth outlook going forward. The problems
+should be firmly addressed by all related parties.
+
+**Monetary Policy Group**
+**20 November 2019**
+
+
+-----
+

@@ -1,0 +1,724 @@
+# Monetary Policy Summary and minutes of the Monetary
+
+ Policy Committee meeting ending on 2 November 2016
+
+## Publication date: 3 November 2016
+
+These are the minutes of the Monetary Policy Committee meeting ending on 2 November 2016.
+
+They are available at http://www.bankofengland.co.uk/publications/Pages/news/2016/011.aspx
+
+The Bank of England Act 1998 gives the Bank of England operational responsibility for setting monetary policy
+
+to meet the Government’s inflation target. Operational decisions are taken by the Bank’s Monetary Policy
+
+Committee. The minutes of the Committee meeting ending on 14 December will be published on 15 December
+
+2016.
+
+
+-----
+
+### Monetary Policy Summary, November 2016
+
+The Bank of England’s Monetary Policy Committee (MPC) sets monetary policy to meet the 2% inflation target,
+
+and in a way that helps to sustain growth and employment. At its meeting ending on 2 November 2016 the
+
+Committee voted unanimously to maintain Bank Rate at 0.25%. The Committee voted unanimously to continue
+
+with the programme of sterling non-financial investment-grade corporate bond purchases totalling up to
+
+£10 billion, financed by the issuance of central bank reserves. The Committee also voted unanimously to
+
+continue with the programme of £60 billion of UK government bond purchases to take the total stock of these
+
+purchases to £435 billion, financed by the issuance of central bank reserves.
+
+At the time of the August Inflation Report, the Committee announced a package of supportive measures that it
+
+judged was appropriate to balance the trade-off that had emerged in the economic outlook. On the one hand,
+
+economic activity was expected to weaken and unemployment to rise, given the period of uncertainty likely to
+
+follow the referendum on EU membership. On the other hand, inflation was expected to rise to a rate above the
+
+2% target, for an extended period, as a result of the depreciation of sterling that had accompanied the
+
+referendum result. At the August meeting, a majority of Committee members also expected to support a further
+
+cut in Bank Rate at one of the remaining MPC meetings of 2016 if the outlook remained broadly consistent with
+
+the one set out in the August Report.
+
+In the three months since then, indicators of activity and business sentiment have recovered from their lows
+
+immediately following the referendum and the preliminary estimate of GDP growth in Q3 was above
+
+expectations. These data suggest that the near-term outlook for activity is stronger than expected three months
+
+ago. Household spending appears to have grown at a somewhat faster pace than projected in August, and the
+
+housing market has been more resilient than expected. By contrast, investment intentions have continued to
+
+soften and the commercial property market has been subdued.
+
+In financial markets, the past three months have been characterised by two phases. In the first, the sterling
+
+exchange rate stabilised for a period following its initial post-referendum depreciation. Supported by the
+
+measures announced by the MPC in August and more positive activity indicators, financial conditions and other
+
+asset prices recovered from the deterioration seen straight after the referendum, accompanied by a sharp
+
+increase in corporate bond issuance. However, in the period since the beginning of October, the sterling
+
+effective exchange rate index has depreciated further. Market intelligence attributes these latter movements to
+
+perceptions that the United Kingdom’s future trading arrangements with the EU might be less open than
+
+previously anticipated, requiring a lower real exchange rate to improve competitiveness and support activity.
+
+Longer-term gilt yields have risen notably, as have market-implied expectations of medium-term inflation.
+
+
+-----
+
+The Committee’s latest projections for output, unemployment and inflation, conditioned on average market
+
+yields, are set out in the November Inflation Report. Output growth is expected to be stronger in the near term
+
+but weaker than previously anticipated in the latter part of the forecast period. In part that reflects the impact of
+
+lower real income growth on household spending. It also reflects uncertainty over future trading arrangements,
+
+and the risk that UK-based firms’ access to EU markets could be materially reduced, which could restrain
+
+business activity and supply growth over a protracted period. The unemployment rate is projected to rise to
+
+around 5½% by the middle of 2018 and to stay at around that level throughout 2019.
+
+Largely as a result of the depreciation of sterling, CPI inflation is expected to be higher throughout the three
+year forecast period than in the Committee’s August projections. In the central projection, inflation rises from its
+
+current level of 1% to around 2¾% in 2018, before falling back gradually over 2019 to reach 2½% in three
+
+years’ time. Inflation is judged likely to return to close to the target over the following year.
+
+The MPC’s Remit requires that monetary policy should balance the speed with which inflation is returned to the
+
+target with the support for real activity. Developments since August, in particular the direct impact of the further
+
+depreciation of sterling on CPI inflation, have adversely affected that trade-off. This impact will ultimately prove
+
+temporary, and attempting to offset it fully with tighter monetary policy would be excessively costly in terms of
+
+foregone output and employment growth. However, there are limits to the extent to which above-target inflation
+
+can be tolerated.
+
+Those limits depend, for example, on the cause of the inflation overshoot, the extent of second-round effects on
+
+inflation expectations and domestic costs, and the scale of the shortfall in economic activity below potential. In
+
+the MPC’s November forecast, the inflation overshoot is the product of a perceived shock to future supply,
+
+which has caused the exchange rate to fall, alongside a modest projected shortfall of activity. Inflation
+
+expectations have picked up to around their past average levels and domestic costs have remained contained.
+
+Given the projected rise in unemployment, together with the risks around activity and inflation, and the potential
+
+for further volatility in asset prices, the MPC judges it appropriate to accommodate a period of above-target
+
+inflation. That notwithstanding, the MPC is monitoring closely the evolution of inflation expectations.
+
+In light of these developments, and in keeping with its Remit, the MPC at its November meeting agreed
+
+unanimously that Bank Rate should be maintained at its current level. It also agreed unanimously that it
+
+remained appropriate to continue the previously announced asset purchase programmes, financed by the
+
+issuance of central bank reserves.
+
+Earlier in the year, the MPC noted that the path of monetary policy following the referendum on EU membership
+
+would depend on the evolution of the prospects for demand, supply, the exchange rate, and therefore inflation.
+
+This remains the case. Monetary policy can respond, in either direction, to changes to the economic outlook as
+
+they unfold to ensure a sustainable return of inflation to the 2% target.
+
+
+-----
+
+### Minutes of the Monetary Policy Committee meeting ending on 2 November 2016
+
+1 Before turning to its immediate policy decision, and against the backdrop of its latest projections for output
+
+and inflation, the Committee discussed financial market developments; the international economy; money,
+
+credit, demand and output; and supply, costs and prices.
+
+**Financial markets**
+
+2 Since the Committee’s previous meeting there had been significant movements in UK asset prices, most
+
+notably a large sterling depreciation. The Committee considered the factors behind the recent moves, as well
+
+as market expectations for domestic policy action.
+
+3 The sterling trade-weighted effective exchange rate index had depreciated by 6% since the Committee’s
+
+previous meeting, leaving it 7% lower than the 15-day average at the time of the August Inflation Report.
+
+Market contacts had attributed the recent movements to perceptions that the United Kingdom’s future trading
+
+arrangements with the European Union might be less open than previously anticipated, requiring a lower
+
+exchange rate to maintain competitiveness and support activity. Implied volatilities in sterling foreign exchange
+
+options had risen, with one-year implied volatility reaching a level similar to that seen immediately after the
+
+United Kingdom’s vote to leave the European Union. Consistent with views from market participants that there
+
+remained downside risks to sterling, the price of options offering protection against the risk of further sterling
+
+depreciation had increased compared with the price of protection against an appreciation.
+
+4 Gilt yields had also risen notably over the period, and by more than long-term government bond yields in
+
+other economies. Ten-year gilt yields had increased by 40 basis points relative to the time of the August
+
+_Inflation Report. The bulk of the move had occurred alongside the depreciation of sterling, with a further_
+
+increase following the release of stronger-than-expected UK GDP data. Much of the rise in gilt yields had
+
+appeared to reflect an increase in the inflation compensation component. Shorter-term inflation compensation
+
+measures had picked up, consistent with an expectation that the depreciation in sterling would push up on
+
+inflation in the near term. Longer-term inflation compensation five-to-ten years ahead had also risen to levels
+
+around their past averages.
+
+5 Short sterling rates had risen since the August Inflation Report, and only a very low implied probability of a
+
+cut in Bank Rate was priced into the sterling OIS curve by the end of the year. The latest Reuters poll of
+
+economists had also shown a shift in Bank Rate expectations, with 30 per cent of respondents expecting a cut
+
+by the end of the year, compared with 81 per cent in the previous survey. The same survey had revealed little
+
+expectation of any further extension to the other elements of the MPC’s August package over the next twelve
+
+months.
+
+6 Reflecting the exchange rate depreciation’s impact on the sterling profits of multinationals, the FTSE
+
+All-Share index had risen relative to other advanced economy benchmark equity indices. In contrast, the equity
+
+prices of domestically focused UK firms within the FTSE All-Share index had fallen. Sterling non-financial
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 2 November 2016** 1
+
+
+-----
+
+investment grade corporate bond spreads had also increased a little, widening relative to dollar and euro
+
+spreads. Although sterling corporate bond issuance had picked up markedly following the announcement of the
+
+MPC’s Corporate Bond Purchase Scheme in August, it had slowed in October.
+
+7 Internationally, market implied measures suggested a majority view that the US FOMC would increase rates
+
+at its December meeting, in line with broadly positive US data outturns and communication from FOMC
+
+members. While the ECB had left policy unchanged at its October meeting, market expectations were for
+
+further easing at a subsequent meeting. The Bank of Japan’s communications on its monetary policy
+
+framework had been seen by market participants as reducing the likelihood of further aggressive stimulus.
+
+**The international economy**
+
+8 The news on the global outlook since the MPC’s previous meeting had been slightly to the upside, and
+
+growth in the second half of 2016 was expected to be a little higher than that in the first half. Nevertheless, the
+
+Committee’s forecast of medium-term growth of a little over 2% per year in UK trade-weighted terms was
+
+subdued by historical standards.
+
+9 In the euro area, GDP had been estimated to have grown by 0.3% in 2016 Q3. This was in line with what
+
+had been expected at the time of the August Inflation Report, though slightly weaker than the signal from recent
+
+monthly indicators. Early indications from business surveys had suggested a pickup in the pace of growth in
+
+Q4. The ECB had left policy unchanged in October, but market expectations of further loosening meant that
+
+monetary conditions continued to be supportive of growth into 2017.
+
+10 In the United States, the advance estimate of Q3 GDP growth had been 0.7%. This represented a
+
+pronounced pickup from the 0.4% rise in Q2, driven by a turnaround in stock-building. The near-term outlook
+
+for consumption remained solid, supported by continued improvement in the labour market. There appeared to
+
+have been little evidence that uncertainty about the outcome of the presidential election had weighed on
+
+economic activity. Inflation had picked up a little, with twelve-month core PCE inflation at 1.7% in August and
+
+September, up from 1.6% in July.
+
+11 The official estimate of Chinese Q3 GDP growth had been 1.8%. This had been in line with expectations
+
+and showed continuing signs of some rebalancing away from manufacturing and investment towards services
+
+and consumption. Debt growth had remained rapid, however, with mortgage lending having risen by 30% in the
+
+year to Q3. The Chinese authorities had recently announced new restrictions on home purchases in more than
+
+20 cities and had introduced a range of measures designed to curb property developers’ access to debt and
+
+equity financing.
+
+12 The price of oil had risen to around $50 per barrel on a 15-day average basis, about 12% higher than at
+
+the time of the August Inflation Report. Oil prices had increased following the OPEC meeting in late September,
+
+at which members had agreed to cut production. If implemented, these production cuts were expected to take
+
+the oil market from close to balance at present to a state of excess demand.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 2 November 2016** 2
+
+
+-----
+
+**Money, credit, demand and output**
+
+13 UK GDP had increased by 0.5% in 2016 Q3, according to the preliminary estimate, notably stronger than
+
+the expectation incorporated in the August Inflation Report projections. Growth during the quarter had been
+
+more than accounted for by the service sector, where output had expanded by 0.8%. Manufacturing and
+
+construction output had both contracted. Business surveys had provided mixed signals, with some having
+
+recovered sharply from their weakness immediately following the EU referendum result, while others had
+
+remained subdued and consistent with a modest slowing in near-term activity. However, official estimates of
+
+activity had diverged from the signals provided by the main business surveys, with the latter pointing to
+
+materially weaker growth in the recent past. This suggested that a degree of caution was warranted in
+
+interpreting the data.
+
+14 The strength in services output in Q3 appeared consistent with other indications that consumer demand
+
+had remained relatively robust: the distribution sector, hotels and restaurants, and the film industry had all
+
+made noteworthy contributions to output growth during the quarter. Consumer confidence had stabilised at a
+
+little above its long-run level and housing market activity and prices had proved somewhat more resilient than
+
+expected. The latest household survey conducted by NMG on behalf of the Bank had shown little evidence of
+
+increased uncertainty about income and employment prospects following the EU referendum.
+
+15 By contrast, there had been further evidence that corporate investment spending was likely to experience
+
+some drag from uncertainty about the economic outlook. Investment intentions surveys, including reports from
+
+the Bank’s Agents, had, by and large, failed to recover from their post-referendum declines. The Bank’s new
+
+Decision Maker Panel, a survey of around 500 firms designed to gauge company expectations and uncertainty,
+
+had pointed to elevated levels of uncertainty among a sizable minority of firms, with negative implications for
+
+their year-ahead investment spending.
+
+16 Growth in broad money had strengthened during 2016, with the four-quarter growth rate in Q3 having
+
+reached its highest level since the financial crisis. It was possible that at least part of that strengthening of
+
+money growth for both households and some financial companies had reflected a switch out of other, riskier,
+
+assets into sterling deposits for precautionary reasons. The rise in financial companies’ deposit holdings could
+
+also in part be a consequence of the Bank of England’s asset purchases.
+
+17 Overall, activity during the middle of 2016 had been more resilient than the Committee had expected in
+
+August. It remained likely that demand would slow during 2017 as rising costs of imports and tradable items
+
+weighed on real incomes, but that slowing might be more gradual than previously thought, not least because the
+
+recent fall in sterling should provide further support to exports. This assessment remained tentative, however,
+
+as uncertainty about the outlook remained unusually high, and shifts in sentiment among households,
+
+companies and financial market investors had the potential to generate marked changes in the economic
+
+outlook.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 2 November 2016** 3
+
+
+-----
+
+**Supply, costs and prices**
+
+18 Twelve-month CPI inflation had increased by 0.4 percentage points to 1.0% in September, slightly higher
+
+than the figure expected by Bank staff. Conditional on the market yields prevailing at the time of the latest
+
+November Inflation Report, CPI inflation was expected to continue to rise, reaching around 1½% at the turn of
+
+the year and rising further to around 2¾% in mid-2018 before beginning to fall back gradually thereafter. This
+
+anticipated pickup in inflation was primarily a result of two factors. First, the combined effect of reductions in
+
+global energy prices a year earlier dropping out of the twelve-month calculation and the more recent increase in
+
+global energy prices, especially in sterling terms, pushing up on fuel prices over the coming months. The
+
+second factor was the more general impact of the depreciation of sterling on the prices of imported and tradable
+
+goods and services.
+
+19 Sterling's depreciation had occurred in three phases: the persistent decline in value between
+
+mid-November 2015 and April 2016; the more abrupt depreciation immediately following the referendum on the
+
+United Kingdom's membership of the EU in June; and the marked decline that had happened around the start
+
+of October. In total, sterling had depreciated by 21% since the November 2015 peak, and by 7% since the time
+
+that the Committee's August Inflation Report projections had been finalised. Reflecting the earlier phases of the
+
+depreciation, sterling goods import prices, excluding oil, had increased by around 7½% between November
+
+2015 and August 2016. There was uncertainty over the extent and speed with which this increase in imported
+
+costs would be passed through into final consumer prices. Given the size of the fall in sterling, and its
+
+association with a weaker outlook for supply, it was possible that pass-through to CPI inflation would be
+
+relatively brisk. The movement in the sterling exchange rate had been sufficiently large to push projected
+
+inflation above the 2% target for an extended period. In the central projection to be published in the November
+
+_Inflation Report, the contribution to CPI inflation from the prices of imports (other than energy) and tradable_
+
+items was expected to rise to over 1 percentage point, falling back to around ⅔ percentage points by the end of
+
+2019 and toward zero over the following year or so.
+
+20 Regarding domestic cost pressures, wage growth had remained moderate and roughly in line with
+
+expectations at the time of the August Inflation Report. The annual growth of regular pay in the three months to
+
+August had been 2.4% in the private sector and 2.3% in the economy as a whole. It remained to be seen to
+
+what extent pay growth would rise with headline inflation, and to what extent it would continue to be restrained
+
+by subdued productivity growth. Also important would be the margin of slack likely to result from the softening
+
+of demand growth described in the November Inflation Report projections.
+
+21 Employment growth and labour market participation had been stronger than expected at the time of the
+
+August Inflation Report. The employment rate had increased to 60.6% in the three months to August, its
+
+highest in over 40 years, and the number of vacancies in official data and posted online had remained at
+
+relatively elevated levels. Most surveys had suggested that jobs growth would be likely to slow a little in the
+
+near term. Combined with the prospect of only moderate output growth in 2016 H2, this meant that the growth
+
+of labour productivity, expressed as output per hour worked, was expected to average around 0.4% per quarter
+
+in the second half of the year. This, in turn, suggested that aggregate unit labour costs were expected to grow
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 2 November 2016** 4
+
+
+-----
+
+in annual terms by around 2% – roughly one percentage point lower than had been the norm in the decade
+
+before the financial crisis. A range of other measures of domestic cost pressures – such as the GVA deflator,
+
+the service sector producer price index and estimates of 'core' service sector CPI – had picked up in recent
+
+quarters, but remained below pre-crisis historical norms.
+
+22 During the month, the YouGov/Citigroup survey had indicated that households’ expectations of inflation
+
+one year ahead had picked up sharply from 1.7% in September to 2.5% in October, a likely reaction to the effect
+
+of the depreciation of sterling. The comparable expectation for inflation five to ten years ahead had increased
+
+only a little, to 2.7% in October. By contrast, measures of investors’ required inflation compensation in the
+
+medium term derived from financial market prices had increased notably. Although these measures had risen
+
+from relatively low levels to around their past averages, the scale of their rise was noteworthy, and the MPC
+
+would be watchful for the possibility of further increases.
+
+**The immediate policy decision**
+
+23 The Committee set monetary policy to meet the 2% inflation target, and in a way that helped sustain
+
+growth and employment. In keeping with its Remit, at the time of the August Inflation Report, the Committee
+
+had announced a package of supportive measures that it judged was appropriate to balance the trade-off that
+
+had emerged in the economic outlook. On the one hand, economic activity had been expected to weaken and
+
+unemployment to rise, given the period of uncertainty likely to follow the referendum on EU membership. On
+
+the other hand, inflation had been expected to rise to a rate above the 2% target, for an extended period, as a
+
+result of the depreciation of sterling that had accompanied the referendum result. At the August meeting, a
+
+majority of Committee members had also expected to support a further cut in Bank Rate at one of the remaining
+
+MPC meetings of 2016 if the outlook remained broadly consistent with the one set out in the August Report.
+
+Three months later, the key question was how the economic outlook, and therefore the policy trade-off, had
+
+changed.
+
+24 Since the time of the August Inflation Report, indicators regarding the near-term outlook for growth had
+
+been stronger than expected. Nonetheless, sterling had depreciated considerably further. The Committee
+
+discussed these developments.
+
+25 The preliminary estimate of GDP growth in the third quarter had been 0.5%, materially stronger than the
+
+Committee had expected three months previously. Survey indicators of activity had generally recovered from
+
+their troughs immediately following the referendum, albeit to differing degrees. As a whole, these business
+
+surveys had pointed to weaker growth than the official data, even allowing for their recovery after July.
+
+Importantly, a discernible pattern had become evident, with indicators relating to household sentiment and
+
+spending noticeably stronger than those relating to the corporate sector. Retail sales, indicators of consumer
+
+confidence and the housing market data had been resilient, as had consumer services output in the preliminary
+
+Q3 GDP data. By contrast, indicators of businesses’ investment and employment intentions had generally
+
+continued to soften and the commercial property market had remained subdued.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 2 November 2016** 5
+
+
+-----
+
+26 In financial markets, the further depreciation of sterling had been the most notable aspect of a three-month
+
+period characterised by two phases. In the first phase, the sterling exchange rate had stabilised for a period
+
+following its initial post-referendum depreciation. Supported by the measures announced by the MPC in August
+
+and more positive activity indicators, financial conditions and other asset prices had recovered from the
+
+deterioration seen straight after the referendum, accompanied by a sharp increase in corporate bond issuance.
+
+However, in the period since the beginning of October, and despite the continuation of a relatively positive flow
+
+of UK economic data, the sterling effective exchange rate index had depreciated further taking the total
+
+depreciation since sterling’s November 2015 peak to 21%. Market intelligence had attributed the most recent
+
+movements to perceptions that the UK’s future trading arrangements with the EU might be less open than
+
+previously anticipated. That could result in weaker longer-term prospects for income growth and require a lower
+
+real exchange rate to improve competitiveness and support activity.
+
+27 At face value, the decline in sterling seemed at odds with the more optimistic picture implied by the
+
+resilience of household spending. Any such difference in view between households and financial market
+
+investors about the probable long-run consequences of the United Kingdom’s withdrawal from the EU would be
+
+resolved over time as the nature of future international trading relationships, and their consequences for
+
+demand and supply, became clearer. Meanwhile, however, a wide range of potential outcomes remained
+
+possible, and both the economic outlook and asset prices remained susceptible to shifts in sentiment in one
+
+direction or the other. For instance, it was possible that sterling might appreciate at some point in the future if
+
+investors’ assessment of the outlook for income growth became more positive. Conversely, it was possible that
+
+households’ spending would slow reasonably significantly, perhaps prompted initially by the negative impact of
+
+sterling’s sizeable depreciation on their real incomes.
+
+28 The depreciation of sterling had been accompanied by a notable increase in longer-term gilt yields, which
+
+had exceeded the increases in the yields of overseas government bonds. Much of this appeared to reflect an
+
+increase in the compensation that investors required for future inflation. Both near-term and medium-term
+
+inflation break-even rates had increased materially. In the near term, an increase in expectations of inflation
+
+seemed a natural response to the likely impact of sterling’s depreciation on the price level. It was less
+
+straightforward to attribute the increase in medium-term measures of inflation compensation to recent
+
+movements in sterling, however. The Committee noted that, during the recent period in which CPI inflation had
+
+fallen below the target and in which domestic cost growth had remained subdued, both short and medium-term
+
+forward inflation compensation measures had fallen. The recent parallel increases in short and medium term
+
+inflation compensation measures had so far only returned them to around past average levels. The MPC would
+
+nevertheless remain watchful for the possibility of further increases in measures of inflation compensation in
+
+financial markets, as well as in surveys of households’ and businesses’ inflation expectations.
+
+29 The net result of the developments since the August Inflation Report, and particularly the depreciation of
+
+sterling, had adversely affected the trade-off between the outlook for inflation and real activity that the MPC was
+
+required by its Remit to balance. The Committee’s updated projections for output, unemployment and inflation,
+
+conditioned on average market yields, were described in detail in the November Inflation Report. Output growth
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 2 November 2016** 6
+
+
+-----
+
+was expected to be stronger in the near term, reflecting the resilience in particular of indicators of household
+
+spending and sentiment. But it was expected to be weaker than previously anticipated in the medium term.
+
+In part that reflected the impact of lower real income growth on household spending as a consequence of the
+
+depreciation of sterling. It also reflected persistent uncertainty over future trading arrangements, and the
+
+possibility that UK-based firms’ access to EU markets could be materially reduced, which could restrain both
+
+business activity and supply growth. The unemployment rate was projected to rise to around 5½% by the
+
+middle of 2018, and to stay at around that level throughout 2019 – a little lower in the near term than in the
+
+August Inflation Report projections, but slightly higher further ahead. Largely as a result of the depreciation of
+
+sterling, CPI inflation was now expected to be higher throughout the three-year forecast period than in the
+
+Committee’s August projections. In the central case, it rose from its September level of 1% to around 2¾% in
+
+mid-2018 before falling back gradually over 2019 to reach 2½% by the end of the three-year forecast period.
+
+Inflation was judged likely to return to close to the target over the following year.
+
+30 The Committee considered the appropriate policy response to the more challenging trade-off that these
+
+projections implied. The impact of sterling’s depreciation on CPI inflation would ultimately prove temporary and,
+
+in the Committee’s judgement, attempting to offset it fully with tighter monetary policy would be excessively
+
+costly in terms of foregone output and employment growth. However, there were limits to the extent to which
+
+above-target inflation could be tolerated. These limits depended, for example, on the cause of the inflation
+
+overshoot, the extent of second-round effects on inflation expectations and domestic costs, and the scale of the
+
+shortfall in economic activity below potential. In the MPC’s November forecast, the inflation overshoot was the
+
+product of a perceived shock to future supply, which had caused the exchange rate to fall, alongside a modest
+
+projected shortfall of activity. Inflation expectations had picked up to around their past average levels and
+
+domestic costs had remained contained. Given the projected rise in unemployment, together with the risks
+
+around activity and inflation, and the potential for further volatility in asset prices, the Committee judged it
+
+appropriate to accommodate a period of above-target inflation. That notwithstanding, the MPC would monitor
+
+closely the evolution of inflation expectations.
+
+31 In light of the developments of the past three months, all MPC members agreed that that the guidance it
+
+had issued following its August meeting regarding the likelihood of a further cut in Bank Rate had expired. As
+
+the Committee had noted earlier in the year, the future path of monetary policy would depend on the evolution of
+
+the prospects for demand, supply, the exchange rate, and therefore inflation. Monetary policy could respond, in
+
+either direction, to changes to the economic outlook as they unfolded to ensure a sustainable return of inflation
+
+to the 2% target.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 2 November 2016** 7
+
+
+-----
+
+32 The Governor invited the Committee to vote on the propositions that:
+
+Bank Rate be maintained at 0.25%;
+
+The Bank of England continue with the programme of sterling non-financial investment-grade corporate
+
+bond purchases totalling up to £10 billion, financed by the issuance of central bank reserves;
+
+The Bank of England continue with the programme of £60 billion of UK government bond purchases to
+
+take the total stock of these purchases to £435 billion, financed by the issuance of central bank reserves.
+
+The Committee voted unanimously in favour of all three propositions. For Kristin Forbes and Ian McCafferty,
+
+who had opposed the increase in gilt purchases in August, the current outlook still did not fully warrant the
+
+additional stimulus generated by the increase in the size of the gilt purchase programme. However, given the
+
+potential costs to the economy of reversing the programme underway, they would not vote against the
+
+continuation of that programme. For Kristin Forbes, these arguments also applied to the corporate bond
+
+purchase programme.
+
+33 The following members of the Committee were present:
+
+Mark Carney, Governor
+Ben Broadbent, Deputy Governor responsible for monetary policy
+Jon Cunliffe, Deputy Governor responsible for financial stability
+Nemat Shafik, Deputy Governor responsible for markets and banking
+Kristin Forbes
+Andrew Haldane
+Ian McCafferty
+Michael Saunders
+Gertjan Vlieghe
+
+Dave Ramsden was present as the Treasury representative.
+
+As permitted under the Bank of England Act 1998, as amended by the Bank of England and Financial Services
+
+Act 2016, Anthony Habgood was also present on 27 and 31 October 2016 and David Prentis was present on
+
+31 October 2016 as observers for the purposes of exercising oversight functions in their roles as members of
+
+the Bank’s Court of Directors.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 2 November 2016** 8
+
+
+-----
+

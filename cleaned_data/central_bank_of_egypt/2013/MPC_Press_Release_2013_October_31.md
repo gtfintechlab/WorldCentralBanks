@@ -1,0 +1,51 @@
+# f gyp
+
+**Press Release**
+
+**October 31, 2013**
+
+**_In its meeting held on October 31, 2013, the Monetary Policy Committee (MPC) decided_**
+**_to keep the overnight deposit rate, overnight lending rate, and the rate of the CBE's_**
+**_main operation unchanged at 8.75 percent, 9.75 percent, and 9.25 percent, respectively._**
+**_The discount rate was also kept unchanged at 9.25 percent._**
+
+Headline CPI increased by 1.57 percent (m/m) in September compared to an inch up of
+0.68 percent in August, bringing the annual rate to 10.15 percent in September from 9.74
+percent in August. On the other hand, core CPI increased by 1.70 percent (m/m) in
+September after inching up by 0.14 percent in August, pushing the annual rate to 11.15
+percent in September from 8.97 percent recorded in the previous month. The latest
+monthly developments in both headline and core inflation were driven by increases in
+several food prices combined with a number of non‐food prices. The latter, however, were
+mostly confined to seasonal items associated with Haj season and the beginning of the
+school year. Going forward, while inflation numbers are projected to continue to be
+affected by seasonal patterns associated with Eid festivities and the beginning of the
+school year, upside risks to the inflation outlook continue to moderate as the possibility of
+a rebound in international food prices is unlikely in light of recent global developments.
+
+Meanwhile, real GDP growth registered 1.5 percent in 2012/2013 Q4, bringing the annual
+growth rate for the whole year of 2012/2013 to 2.1 percent, following a similarly feeble
+growth rate of 2.2 percent recorded in 2011/2012. Economic activity remained sluggish in
+2012/2013 on the back of weak growth rates in most of the key sectors, namely
+manufacturing, construction and tourism, in addition to the contraction in the petroleum
+sector. In the meantime, investment levels remained low given the heightened
+uncertainty that faced market participants since early 2011 and the weak credit growth to
+the private sector. Looking ahead, downside risks that surround the global recovery on the
+back of challenges facing the Euro Area and the softening growth in emerging markets
+could pose downside risks to domestic GDP going forward.
+
+The pronounced downside risks to domestic GDP combined with the persistently negative
+output gap since 2011 will limit upside risks to the inflation outlook going forward. Given
+the mixed balance of risks surrounding the inflation and the GDP outlooks at this juncture,
+MPC judges that the current key CBE rates are appropriate.
+
+The MPC will continue to closely monitor all economic developments and will not hesitate
+to adjust the key CBE rates to ensure price stability over the medium‐term.
+
+Dr. Rania Al‐Mashat
+Sub Governor, Monetary Policy
+Telephone number: 27701315
+E‐mail address: monetary.policy@cbe.org.eg
+
+
+-----
+

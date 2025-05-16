@@ -1,0 +1,170 @@
+# Monetary Policy Meeting[1]/
+
+#### DECEMBER 2019
+
+CENTRAL BANK OF CHILE
+
+#### [INF*RES*AS]
+
+1/ This is a translation of a document originally written in Spanish. In case of discrepancy or difference
+in interpretation, the Spanish original prevails. Both versions are available at www.bcentral.cl
+
+
+-----
+
+## MINUTES OF THE MONETARY POLICY MEETING
+
+#### Monetary Policy Meeting No. 269, held on 4 December 2019.
+
+Present: Mario Marcel, Governor; Joaquín Vial, Vice-Governor; Pablo García,
+Board member; Rosanna Costa, Board member; Alberto Naudon, Board member.
+
+Present the Finance Minister, Ignacio Briones.
+
+Also present, Alejandro Zurbuchen, General Manager; Juan Pablo Araya, General
+Counsel and Attestor; Elías Albagli, Monetary Policy Division Director; Beltrán
+de Ramón, Financial Markets Division Director; Solange Berstein, Financial
+Operations Division Director; Gloria Peña, Statistics Division Director; Michel
+Moure, Institutional Affairs Division Director; Miguel Fuentes, Macroeconomic
+Analysis Manager; Enrique Orellana, Strategy and Communication of Monetary
+Policy Manager; Diego Gianelli, Market Operations Manager; Felipe Lozano,
+Communications Manager; Hermann González, Advisor to the Finance Minister;
+Marlys Pabst, Secretary General.
+
+#### 1. Background analysis and discussion
+
+The data submitted to the Board and analysis thereof are contained in the
+December Monetary Policy Report. This document highlighted that the
+macroeconomic scenario has undergone an abrupt change since mid-October.
+Until then, the economy had behaved in line with projections in the September
+Report, with annual GDP growth at 3.3% in the third quarter and an annual
+CPIEFE variation of around 2%. The crisis that had broken out on 18 October
+was characterized by social demands that had prompted the discussion of
+relevant institutional changes —including a new Constitution— and pressures
+for social reforms. This process, however, had been accompanied by significant
+and prolonged episodes of violence, which had triggered major disruptions in the
+productive system, severely reducing activity and weakening employment. The
+information at hand showed a significant rise in uncertainty and a deterioration
+in confidence that were amplifying these effects.
+
+The financial markets had been strained by sharp price movements, which in
+some cases had gone beyond what one would expect given the country risk.
+The Board had taken various measures to ensure liquidity in both pesos and
+
+
+dollars, and had decided to intervene in the foreign exchange market to rein
+in the high exchange rate volatility and help in the adjustments so they would
+proceed appropriately.
+
+About projections, the recently announced increase in the fiscal impulse, coupled
+with the already very expansionary monetary policy, would help contain the
+economic downturn in the policy horizon, so after a contraction of 2.5% annually
+in the fourth quarter of 2019, GDP would grow between 0.5% and 1.5% in
+2020. The important deceleration of growth would widen the activity gap over
+the monetary policy horizon, pulling down inflation. However, the financial
+impacts of the higher uncertainty and the more persistent effects of the peso
+depreciation, would increase inflationary pressures over the policy horizon.
+
+All the Board members agreed that the diagnosis of the current state of the
+economy was highly uncertain, so in the coming months efforts would need
+to concentrate on making comprehensive evaluations of the macroeconomic
+scenario in order to determine its most likely short-term evolution. In addition,
+in the immediate future the consequences of the disruptions in economic activity
+and the protraction of disturbances of the public order had been clearly reflected
+in the drop in October’s Imacec. Still, in the medium term the situation could
+be further complicated by increased uncertainty. It was affecting consumer and
+business confidence, financial asset prices and the value of the dollar, signaling
+a perception that negative effects would last longer. Among many issues, this
+was related to the lack of certainty on several political, economic and social
+issues so, to avoid major adverse effects, new agreements were required in order
+to narrow the spaces of uncertainty as quickly as possible. In fact, it was noted
+that the Report’s baseline scenario pointed to very low growth in 2020 to begin
+recovery in 2021, which relied partly on the assumption that uncertainty would
+dissipate throughout this period, so that companies and individuals would invest
+again and regularize their consumption decisions. Absent this, the economy
+could stagnated for several years.
+
+There was debate around the evolution of inflation in the next few quarters,
+particularly because of uncertainty regarding which effect would dominate,
+either the impact of the idiosyncratic depreciation of the peso or the widening of
+the activity gap. It was brought up that the unusual nature of the phenomenon
+affecting the economy meant that its effects on inflation were more difficult to
+forecast and called for a special effort of analysis and scrutiny. Actually, this
+characteristic of the current situation assigned much value to the information
+that would be gathered in the coming months. Thus, going forward, information
+on the evolution of inflation, activity, and financial and credit conditions would
+be much appreciated.
+
+
+-----
+
+Some Board members raised concern about the need to monitor very carefully
+how the monetary policy pass-through channel was working. In their view, in an
+environment of uncertainty and risk, the sensitivity of spending and production
+decisions to monetary policy was likely to be altered. While the measures taken
+by the Bank had succeeded in normalizing the functioning of the money and
+foreign exchange markets, their evolution had to be continually monitored in
+the coming quarters. In particular, how credit risk would evolve, how this might
+affect the behavior of banks, and what measures could be taken to ensure the
+expeditious transmission of monetary policy.
+
+#### 2. Analysis of monetary policy options
+
+All five Board members agreed that the underlying factors that generated
+uncertainty and influenced the evolution of economic activity and inflation were
+outside the scope of macroeconomic policies, despite the fact that they could
+help to mitigate their negative impacts somewhat. In this sense, when defining
+the course of the monetary policy, it was necessary to take into account that in
+moments of falling GDP and employment it was essential for the MPR to have
+a strong expansionary tone.
+
+They also agreed that the decision to hold the MPR at 1.75% dominated every
+other option. First, the current degree of monetary expansion was estimated to
+be consistent with the cyclical weakness of the economy, with the high level of
+uncertainty regarding its future evolution, and with the fiscal stimulus program
+that the government had announced in previous days. Second, the necessary
+consistency between exchange rate intervention and monetary policy limited
+the room for rate reductions over the coming months, as speculation on the
+latter could generate the kind of volatility the intervention sought to avoid.
+Finally, it would be inconvenient to consider raising the MPR, as the Report’s
+scenario did not contemplate rises for some time, even taking into account the
+short-term inflationary impact of the peso depreciation.
+
+One Board member recalled that in the recent past the Bank’s reaction to
+an environment of deteriorating activity had been to boost the monetary
+stimulus, always keeping in mind the right calibration of the impact of the
+peso depreciation on inflation, which now would be even bigger due to its
+idiosyncratic nature. This time around, however, he thought that the prudent
+thing to do was to signal a flat MPR during a period, because the direction that
+the social unrest had taken had created a climate of stress and uncertainty that
+could take various forms. In particular, he noted that the Bank had adopted
+
+
+extraordinary measures of liquidity provision and had begun a foreign exchange
+intervention that limited —especially the latter— the countercyclical action that
+in principle could be expected from monetary policy.
+
+#### 3. Monetary policy decision
+
+Governor Marcel, Vice-Governor Vial and Board members García, Costa and
+Naudon voted for keeping the MPR at 1.75%. Furthermore, they agreed
+that a signal had to be given that the MPR would be kept stable over the
+coming months, awaiting for more information about the unfolding to
+the macroeconomic scenario. With such information factored in, the next
+movements could be either up or down depending on the true state of the
+economy and the inflationary outlook.
+
+In the Board’s opinion, flatlining the MPR not only was consistent with inflation’s
+convergence in the policy horizon, but it also contributed to reducing uncertainty
+within the economy during a troubled period. In addition, it would be coupled
+with the greater exchange rate stability generated by the intervention and the
+provision of liquidity to the market that had been assured through different
+instruments. In the Board’s view, reducing uncertainty was imperative in order
+to spur the economic recovery, reduce the probability of a recession and prevent
+unemployment from reaching high levels difficult to reverse. True enough, for
+the Central Bank it was not possible to reduce this uncertainty in its roots, but
+at least it could prevent it from multiplying via its impact on the markets.
+
+
+-----
+

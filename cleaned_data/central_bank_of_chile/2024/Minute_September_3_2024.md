@@ -1,0 +1,153 @@
+# MONETARY POLICY MEETING
+
+### SEPTEMBER 2024
+
+**[INF*RES*AS]**
+
+
+-----
+
+## MONETARY POLICY MEETING
+
+##### Monetary policy session No. 308, held on 3 September 2024.
+
+Present: Rosanna Costa, Governor; Stepanka Novy, Vice-Governor; Alberto Naudon, Board member; Luis
+Felipe Céspedes, Board member; Claudio Soto, Board member.
+
+Also present, Luis Óscar Herrera, General Manager; Juan Pablo Araya, Legal Counsel and Attestor; Elías
+Albagli, Monetary Policy Division Director; Ricardo Consiglio, Financial Markets Division Director; Rosario
+Celedón, Financial Policy Division Director; Gloria Peña, Statistics and Data Division Director; Silvana Celedón,
+Institutional Affairs Director (s); Markus Kirchner, Macroeconomic Analysis Manager; Enrique Orellana,
+Monetary Policy Strategy and Communication Manager; Sofía Bauducco, Economic Research Manager;
+Guillermo Carlomagno, International Analysis Manager; Felipe Musa, Market Operations Manager; Silvana
+Celedón, Communications Manager; Andrés Sansone, Advisor to the Finance Minister; Marlys Pabst,
+Secretary General.
+
+#### 1. Background
+
+As had been anticipated, the strong dynamism of activity at the beginning of the year had subsided, which
+was partly associated with the reversal of some transitory elements. However, the magnitude of the reversal
+was somewhat greater than expected. Part of the difference was explained by the decline in service-related
+activities and another part by the impact of some on-off supply elements, related to the availability of fishery
+resources in the industry, the effect of a climatic shock and maintenance downtime in mining operations.
+The July Imacec showed a significant acceleration of month-to-month activity, although it was estimated
+that once again a significant part was due to these transitory factors, in a context of high volatility.
+
+Demand had also underperformed in the second quarter, held back by private consumption. Household
+spending on non-durable goods and services had declined, breaking the upward trend of previous quarters.
+This behavior occurred in a context in which several of its fundamentals had evolved in line with expectations.
+Gross fixed capital formation (GFCF) had stabilized after the sharp drop of the second half of last year.
+However, high-frequency indicators reveal important differences between sectors, as most sectors exhibited
+poor results in contrast with the dynamism of investment in the mining industry.
+
+Total annual inflation had risen to 4.4% in July, while core inflation remained close to 3.5% (benchmark
+series). The higher-than-expected headline inflation in the June IPoM was related to volatile items, mainly
+
+
+-----
+
+due to the increase in electric power rates and the prices of goods included in that CPI measure. Market
+inflation expectations exhibited a sharp contrast between the short and medium term. In line with financial
+asset prices, one-year inflation expectations had risen significantly, while at two years they remained aligned
+with the 3% target.
+
+The MPR cuts continued to be passed through to bank lending rates according to the usual patterns. Bank
+credit remained weak, especially its commercial component, amid conditions of access to financing without
+major changes. This result was consistent with the behavior of sectoral investment, dynamic for mining,
+which used Foreign Direct Investment more intensively to finance itself and weaker in the rest of the sectors,
+more prone to borrowing from banks.
+
+On the external front, news from the United States continued to dominate the economic landscape. The last
+few weeks had been characterized by the markets’ assessment of the American economy’s growth and the
+actions of the Federal Reserve (Fed). After the latter signaled the imminent start of the Fed funds rate (FFR)
+cutting cycle, short- and long-term rates had fallen in the main economies and the dollar had depreciated
+globally. The Chilean peso followed the movements of global markets, responding to the volatility of the
+external scenario.
+
+The projections for activity and demand continued to estimate that the economy would grow around its
+trend over the next few years. For 2024, the range for the GDP growth forecast was lowered at its high end,
+and unchanged for 2025 and 2026. Private consumption would regain momentum, although its level at the
+end of the projection horizon would be lower than in the previous estimate. The evolution of several of its
+fundamentals —such as the lower cost of credit and the increase in the real wage bill— suggested that its
+recent moderation would not last long. The GFCF growth forecast for the period 2024-2026 was somewhat
+lower than the one considered in June, reflecting the weak investment in the non-mining sectors. For
+the mining industry, the central scenario confirmed the greater impulse from investment, which would
+positively boost activity in other sectors, especially construction.
+
+The headline inflation projection was revised up for the short term, mainly due to the greater increase in
+volatile items. In the medium term, it is expected to decline more rapidly than foreseen in June, given the
+lower inflationary pressures stemming from domestic demand. It is estimated that it will converge to the
+3% target in the early months of 2026, and remain nearby until the end of the projection horizon.
+
+The estimated impulse that the Chilean economy would receive from abroad considered that our trading
+partners’ growth would be fairly the same as our previous projection —i.e., around 3% in the period 20242026—, with some improvement in international financial conditions, including low long-term interest rates
+and somewhat lower terms of trade.
+
+
+-----
+
+#### 2. Background analysis and discussion
+
+It was noted that, with respect to the June IPoM and the July monetary policy meeting, there had been three
+developments that deserved analysis. First, the Fed Governor had communicated that “the time has come
+to lower the target range for the FFR…,” which was interpreted by all market participants as an imminent
+start of the cycle of monetary policy adjustments. In addition, the number of expected cuts for this year
+had risen compared to the assumption in the last IPoM and in the July meeting. This occurred in a context
+where, despite no major surprises in U.S. activity, the markets had intensified their perception that the U.S.
+economy could slow down more rapidly. In fact, this had led to episodes of high volatility at the beginning
+of August and was also generating movements at the time of the meeting. It was also noted that global
+interest rates at different maturities had declined and the peso had appreciated over the course of the past
+month, due to both changes in the rate differential and a decrease in foreign exchange premiums.
+
+A second factor worth mentioning was the evolution of domestic activity and demand in the second quarter.
+Although activity did not differ much from what had been projected after factoring in a series of supply-side
+factors that had affected various sectors, demand had been less buoyant. Private consumption posted a
+quarter-on-quarter decline, after its significant expansion in the first quarter of the year. It was estimated that
+this result would have little persistence given the evolution of consumption fundamentals, so the projected
+quarterly variations going forward did not differ from previous projections. However, the level of consumption
+would remain below the previous forecast throughout the projection horizon, which explained the expected
+behavior of domestic demand. Investment, although in line, showed significant weakness in every sector other
+than mining. In this scenario, consumption and investment projections were revised downwards by around
+1% until 2026. All this took place in a scenario of still weak credit —a behavior that appeared consistent with
+the evolution of investment in the non-mining sectors— and employment had shown a marginal deceleration.
+
+Finally, the behavior of inflation expectations showed that market agents had considered the transitory
+nature of the effect of the increase in electric rates. There was a significant rise in inflation expectations
+in the short term, while in the two-year term they remained at around 3%. This occurred in a scenario
+where inflation had ultimately risen to some extent, as a result of a slightly higher-than-expected increase
+in electricity prices.
+
+#### 3. Monetary policy options
+
+The Board agreed that the combined information accumulated since the June Monetary Policy Report
+showed that the lower demand was being counterbalanced by the pressure on prices from energy costs,
+among other factors. This, together with inflation expectations aligned with the 3% target, reduced the
+risks of greater inflationary persistence in the medium term as a result of the cost shock, which pulled down
+the balance of inflationary risks present at the previous meeting.
+
+
+-----
+
+In that context, the Board members agreed that the MPR could be further reduced toward its neutral level.
+Given the lower risks to inflation that were assessed, this decline would be somewhat faster than previously
+considered.
+
+The Board considered reducing the MPR by 25 or 50 basis points, quickly discarding the latter. There was
+consensus that the option of cutting 25 points off the MPR was perfectly coherent with the central scenario
+of the September IPoM, with further lowering the MPR later on, and with the risks that menaced the
+economy. Moreover, the decision had undisputable communicational advantages.
+
+#### 4. Monetary policy decision
+
+Governor Costa, Vice-Governor Novy and Board members Naudon, Céspedes and Soto voted for reducing
+the MPR by 25 basis points, to 5.5%.
+
+
+-----
+
+**MONETARY POLICY MEETING**
+SEPTEMBER 2024
+
+
+-----
+

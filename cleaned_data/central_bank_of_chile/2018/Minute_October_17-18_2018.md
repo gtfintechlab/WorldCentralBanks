@@ -1,0 +1,396 @@
+# Monetary Policy Meeting[1]/
+
+#### OCTOBER 2018
+
+CENTRAL BANK OF CHILE
+
+#### [INF*RES*AS]
+
+1/ This is a translation of a document originally written in Spanish. In case of discrepancy or difference
+in interpretation, the Spanish original prevails. Both versions are available at www.bcentral.cl
+
+
+-----
+
+## MINUTES OF THE MONETARY POLICY MEETING
+
+#### Monetary policy meeting No. 260, held on 17-18 October, 2018.
+
+Present: Mario Marcel, Governor; Joaquín Vial, Vice-Governor; Pablo García,
+Board member; Rosanna Costa, Board member, Alberto Naudon, Board member.
+
+Present: the Finance Minister, Felipe Larraín.
+
+Also present: Alejandro Zurbuchen, General Manager; Juan Pablo Araya, General
+Counsel and Attestor; Elías Albagli, Monetary Policy Division Director; Beltrán
+de Ramón, Financial Markets Division Director; Solange Berstein, Financial
+Operations Division Director; Gloria Peña, Statistics Division Director; Michel
+Moure, Institutional Affairs Division Director; Miguel Fuentes, Macroeconomic
+Analysis Manager; Enrique Orellana, Strategy and Communication of Monetary
+Policy Manager; Diego Gianelli, acting International Analysis Manager; Matías
+Tapia, acting Modeling and Economic Analysis Manager; Matías Bernier,
+Domestic Markets Manager; Juan Carlos Piantini, International Markets Manager;
+Rodrigo Alfaro, Financial Stability Manager; Francisco Ruiz, Macroeconomic
+Statistics Manager; Luis Álvarez, Communications Manager; Claudia Sotz, Head
+of the Financial Conjuncture Department; Hermann González, Advisor to the
+Finance Minister; Tatiana Vargas, Senior Economist; María del Pilar Cruz, Senior
+Economist; Carlos Medel, Senior Economist; Marlys Pabst, Secretary General.
+
+#### 1. Analysis of the technical teams
+
+The international scenario was still characterized by the volatility and risk
+aversion of financial markets, coinciding with the markets' perception that
+the Federal Reserve (Fed) would speed up its monetary normalization process
+more than expected, in a context where the divergence between the cyclical
+state of the US economy and the rest of the developed world had deepened.
+Regarding the unfolding of the trade conflict, tensions had tended to focus on
+the US-China exchange, while there had been a favorable evolution of those
+among other countries within the framework of new trade agreements. Worth
+noting was the reduction of import tariffs by China to other trading partners,
+and the new agreement signed by the US, Canada and Mexico. The negotiations
+around Brexit and the fixing of Italy's fiscal budget had generated uncertainty
+in the markets. In this scenario, long-term interest rates had risen in most
+countries, especially in the US. This had triggered episodes of risk aversion
+
+
+with the consequent reshuffling of investment portfolios. Thus, the more risky
+assets, including stock markets, had had significant reversions, while capital
+continued to flow out of the emerging economies.
+
+The widening of the divergence between the cyclical position of the US economy
+and the rest of the developed countries could be seen in various indicators. On
+the one hand, while GDP growth figures remained dynamic in the US, they had
+adjusted slightly downwards in the Eurozone, with a widespread moderation
+in all the bloc's economies. On the other hand, the more conjunctural activity
+figures showed that this divergence continued, especially in short-term
+expectations. The surveys to purchasing managers (PMI) pointed to significant
+disparity in manufacturing and services that anticipated a favorable performance
+in the US and some moderation in the Eurozone, but with activity growth still
+above potential.
+
+In Japan, the manufacturing and services outlook had also moderated, although
+it remained above the pivot of expansion. All this was consistent with the
+inflationary pressures affecting each one. Thus, annual core inflation in the
+US continued to stand at or above 2%, depending on how the measurement,
+while in the Eurozone it had dropped to somewhat less than 1% and near 0%
+annually in Japan.
+
+In this scenario, the Fed had once again raised the benchmark rate at its
+September meeting with prospects that, without new developments, it would
+continue to advance in the monetary normalization. However, the authority's
+statement had put on the table the possibility that monetary policy could become
+contractionary in the policy horizon. Thus, the market internalized that the Fed
+could go faster than previously expected, which pushed the long-term rates up.
+Monetary policy and its outlook in the rest of the developed world had seen
+no major changes.
+
+In this environment, current Chinese activity indicators continued to show
+some slowdown. Authorities had taken further measures to boost activity, such
+as reducing the bank's reserve requirement. In Latin America, Argentina had
+reached a new agreement with the IMF that had helped to calm the markets,
+while in Brazil there was a better mood in the markets especially after the
+outcome of the first presidential round. In Mexico, the aforementioned trade
+agreement with its northern neighbors had toned down the uncertainty of
+previous months.
+
+The price of most commodities, although with significant fluctuations, had
+risen since the September meeting. The copper price had risen about 5% since
+
+
+-----
+
+then, driven by Chinese imports that showed more dynamism in September
+while inventories continued to show some depletion in the margin. The price
+of Brent and WTI oil had risen by around 4% and 1%, respectively, mainly due
+to supply disruptions in important producer countries.
+
+#### Domestic scenario
+
+In the local financial system, the high volatility of the trajectory of the Chilean
+peso stood out, ranging between CLP 655 and 700 per dollar, to settle at CLP
+670 at the time of the meeting, fairly unchanged from the previous instance. The
+multilateral measures had shown a similar evolution, with an MER appreciation
+of 0.5%. Thus, the real exchange rate (RER, index 1986 = 100) had reached 93.4
+in September and it was estimated that, considering the information available,
+it had approached 91.8 so far in October. The stock market (IPSA) measured in
+pesos had also seen significant fluctuations in recent weeks, dropping around 2%
+since the previous monetary policy meeting. In the local fixed-income market,
+interest rates had risen across the board, although the increase in shorter-term
+rates stood out, in line with the increase in MPR expectations since the last
+meeting: close to 55 and 40 bp for BCP2 and BCU2, respectively. Meanwhile,
+the longer-term rates had risen less than their external counterparts, in a context
+in which the local risk indicators remained contained.
+
+Domestic credit continued to be characterized by low interest rates and limited
+real growth in loans, except for the commercial portfolio that showed greater
+dynamism. The Bank Credit Survey for the third quarter of 2018 indicated
+supply conditions with some minor restrictions in lending to households
+(consumer and housing) and big companies. Meanwhile, demand was perceived
+to be stronger in the different segments, especially in households, big companies
+and real estate.
+
+The market's expectations about the trajectory of the monetary policy rate
+(MPR) —from surveys to specialists and prices of financial assets— suggested
+that the withdrawal of the monetary stimulus would begin some time during
+the fourth quarter of the year, although with some divergence on the exact
+moment it would happen. During the policy horizon, the different measures
+had revised upwards the expected MPR level. For this meeting they placed it
+between 3.25% and 3.75% at twelve months (between 3.0% and 3.25% in
+September), while two years ahead they placed it between 4.0% and 4.25%
+(between 3.5 and 4% in September).
+
+About domestic activity, figures known after the latest Monetary Policy Report
+depicted an economy that was expanding at a somewhat slower pace than
+
+
+anticipated. In the July-August period, the mining Imacec had shown a decline
+in annual terms (-3.6% average), associated with specific elements in some
+works, although the evolution of the other sectors (3.9% annual average) was
+consistent with the baseline scenario of September as well as with the average
+of private expectations (as per the Economic Expectations Survey, EES) for that
+period. As in previous months, the performance of several investment-related
+lines continued to stand out, such as business services and wholesale trade. In
+this context, the outlook for GDP growth (EES) for this year had not changed
+since the close of the September Report (4%). For the 2019-2020 period they
+had some changes, but all consistent with the projections in the current baseline
+scenario.
+
+Regarding domestic demand, investment in machinery and equipment continued
+to lead the increase in spending, with imports of capital goods showing new
+highs. In the construction and works component, some indicators showed a
+certain acceleration in the margin, especially in the production of building
+materials. Business expectations (IMCE) remained in positive terrain, with
+improvements in all areas. Private consumption of durable goods continued to
+stand out for its high dynamism. As had been the trend previously, this was based
+especially on the behavior of the automotive segment, whose sales growth was
+still among its highest in recent years. In the labor market, the review of the group
+of information sources —including not only surveys, but also administrative
+records and qualitative information compiled for the Business Perceptions
+Report, among others— pointed to a bounded dynamism of employment and
+salaries, but stronger than suggested by the traditional surveys. Consumer
+confidence (IPEC) showed some decline in the second half of the year so far
+and was slightly below the neutral threshold. All in all, expectations about the
+economic situation of households one year ahead are still positive.
+
+The opinions gathered in the framework of the Business Perceptions Report
+(IPN) confirmed a rebound of the economy, whose performance in many cases
+surpassed that of the previous year. In any case, most of the respondents revealed
+that their total results were worse than expected, mainly blaming the difficulty
+to adjust prices in the face of strong competition, and in certain areas and/or
+regions a persistent reluctance in the customers' spending decisions. Investment
+plans were somewhat more dynamic in a greater number of economic sectors.
+Regarding the labor market, again those surveyed did not intend to make changes
+in their staff in the near future, with wage pressures that were still generally
+contained, backed by increased migratory inflows for certain types of jobs
+according to the respondents' visions. In terms of costs, without being a matter
+of great concern, the mention of the higher fuel prices appeared as a novelty in
+the conversations. And there was no great concern about the recent exchange
+
+
+-----
+
+rate movements in the opinion of many respondents. In the financial area,
+several banks surveyed reported less stringent lending conditions, reiterating
+also the low interest rate levels in place. They added that the operations aimed
+at restructuring the financial burden of customers continued to dominate.
+
+September's inflation had been 0.3% monthly, slightly below the forecast in the
+last Report and market expectations. In annual terms, headline inflation had
+risen to 3.1%. By components, the annual change in energy prices had risen
+to 11%, in particular because of higher fuel prices in pesos, a price increase
+at the global level and the depreciation of the peso. The price of fruits and
+vegetables had posted an annual variation of 12%, mainly explained by a low
+base of comparison because of an unusual seasonal behavior in September
+2017. Meanwhile, core inflation —CPIEFE— had also risen, to 2.1% annually.
+By components, the CPIEFE for services had risen to 3.4% annually, while for
+goods it had remained unchanged.
+
+The outlook for inflation remained similar to that in the baseline scenario in
+the September Report, because although inflation had been slightly below the
+forecast, it had been partly affected by one-off occurrences, such as lower food
+inflation. In this context, private expectations for inflation had remained around
+3% one and two years ahead. As of December of this year, the prospects derived
+from inflation insurance had dropped to 2.9% (3.1% at the September meeting),
+while those derived from the EES were at 3.0% (2.9% at the previous meeting).
+
+#### 2. Background analysis and discussion
+
+There was agreement among the participants that the incoming figures since the
+publication of the September Monetary Policy Report were consistent with the
+baseline scenario in it and with the monetary policy orientation communicated
+at the time.
+
+On the external front, it was noted that the main piece of news was related
+to the reinforcement of a scenario where the United States diverged from
+other developed economies, and market expectations now indicated a faster
+adjustment of monetary policy in the US. It was also pointed out that the risks
+around the trade tensions were being circumscribed to the United States and
+China, and that since the last meeting, market prospects seemed to improve in
+this sense, as reflected in the higher commodity prices. Meanwhile, concerns
+about Europe had resurfaced, both because of Brexit-related difficulties and
+because of greater political uncertainty in the region. It was pointed out that in
+
+
+recent weeks the external scenario seemed less adverse for the emerging world.
+The latest developments had been more about volatilities in specific countries
+dealing with idiosyncratic issues rather than a negative shock on the emerging
+economies as a bloc. This did not prevent the persistence of high degrees of
+uncertainty, which would also remain for a long time. For this reason, there was
+coincidence that, rather than postponing monetary policy decisions pending the
+eventual dissipation of threats, the wise thing to do was to remain alert to the
+unfolding of events and be prepared to respond to the materialization of risks,
+especially those that involved a contractionary shock on the Chilean economy.
+
+About the local economy, it was noted that the evolution of non-mining GDP
+had been in line with the projections in the last Report. That had not been the
+case with mining GDP, which had been unexpectedly low, but this had to do
+with specific, non-cyclical factors. Moreover, it was said, the deceleration of
+GDP growth, total and non-mining, and its velocity was part of the projections,
+not only since September, but since several Monetary Policy Reports. On the
+demand side, investment was still dynamic, which was consistent with growth
+in imports in machinery and equipment and, furthermore, was corroborated by
+the change of tone in the preliminary interviews for the Business Perceptions
+Report. It was added that, although this greater investment was offset by slightly
+lower consumption growth, it allowed to have more confidence on the growth
+trajectory projected for 2019 and 2020. Regarding inflation, it was noted that
+it had evolved as foreseen. This included the fact that the annual increase in
+some inflation measures was still low, but that, at the same time, its evolution
+reflected that the process of inflation recovery was proceeding according to
+plan, something that was particularly evident in those products that historically
+had been more closely associated with the evolution of activity. In the area of
+fiscal policy, it was mentioned that the proposed budget of the public sector for
+2019, currently being discussed by the Congress, was consistent with the fiscal
+consolidation plan announced at the beginning of this Administration. For the
+same reason, the fiscal impulse that was deducted from the proposed budget
+was consistent with the assumptions in the September Report’s baseline scenario.
+
+Mention was made of the fact that both the assessment of the current state of
+the economy and its outlook continued to point to narrowing capacity gaps in
+recent quarters. Overall, the projections continued to indicate that the most
+reasonable thing was to assume an economy growing in line with the baseline
+scenario in the September Report, with headline and core inflation hovering
+around 3% in a few months' time. In addition, these projections were shared by
+the vast majority of market agents, as was visible, for example, in the Economic
+Expectations Survey (EES).
+
+
+-----
+
+It was pointed out that one of the factors that brought most uncertainty to the
+evaluation of the state of capacity gaps was the state of the labor market. In this
+regard, it was noted that in recent months a thorough review of all available
+information on the behavior of the labor market had been carried out, concluding
+that, in terms of both employment and compensations, it had performed
+somewhat better than suggested by the traditional surveys. In particular, the
+data from administrative records, the analysis of the magnitude and impact of
+immigration, the qualitative information of the Business Perceptions Report
+and the review of data collection methodologies and expansion of the sample
+results, shaped a scenario where the labor market had been able to absorb a
+supply shock from immigration, in which wage growth could have been partially
+contained by a greater labor supply and in which the wage bill had grown as
+expected. All this was consistent with the expansion of private consumption
+and with capacity gaps that would allow inflation to adjust gradually.
+
+#### 3. Analysis of monetary policy options
+
+All the Board members agreed that the analysis of the new information made
+available since the last monetary policy meeting —and the publication of the
+Monetary Policy Report— were consistent with the projections in the baseline
+scenario and supported the orientation of the monetary policy that had been
+communicated in September. Therefore, the need to start the gradual process
+of monetary stimulus withdrawal was ratified.
+
+It was said that the economy already accumulated four quarters of growth
+above potential, which, beyond the doubts about its exact magnitude, had
+been consolidating a process of reducing the activity gap. This was reflected
+in the behavior of the CPIEFE for services, which had accelerated visibly since
+the beginning of the year. In addition, the prospects for greater dynamism of
+investment and a strong expansion of private consumption suggested that
+this process would continue in the coming months. In turn, the analysis of a
+broad set of information on the labor market, reduced the doubts about the
+evaluation of the state of the gaps in the labor market. All the above meant that
+a timely start of the monetary normalization process was an expression of the
+progress made by the Chilean economy in the last year and not the response to
+an imminent inflationary problem.
+
+All five Board members agreed that, in the absence of reasons to modify the
+diagnosis contained in the September Report on the prospects for inflation and
+its medium-term fundamentals, tactical elements could be considered to help
+define the precise moment to begin the monetary normalization process. On
+
+
+this, it was noted that, beyond the reservations that part of the market or analysts
+might have about the decision to normalize the MPR, the available data, plus
+the analysis and the published statement, led to the conclusion that starting
+normalizing the monetary policy was absolutely consistent with the current
+macroeconomic scenario and inflation perspectives. In any case, it was added,
+the growth prospects synthesized in the EES were fairly aligned with the baseline
+scenario in the Report, which was of the first order for the achievement of the
+inflation target. For this reason, they said, it was not strange that the focus was
+placed rather at the most appropriate time to start the process of withdrawal of
+the monetary stimulus and the differences were concentrated in periods very
+close to each other.
+
+**Option 1: start to withdraw the monetary stimulus, by raising the**
+**MPR by 25 basis points**
+
+The main argument in favor of this option was its total consistency with the
+evaluation made after the publication of the Monetary Policy Report and
+with the fact that the baseline scenario in it was still fully valid. In this sense,
+initiating the withdrawal of the monetary stimulus at this meeting favored a
+more gradual convergence to the neutral rate, which bought more time to
+consider the necessary pauses and flexibility that might be required later on.
+Also, that the current expansionary stance of monetary policy —between 150
+and 200 basis points below the neutral rate— was high considering that the
+economy had been growing for several quarters above potential and inflation
+was heading towards 3%.
+
+It was also essential to bear in mind the importance of consistency between the
+actions of central banks and their narrative as a fundamental element to enhance
+the credibility of monetary policy. At the previous Meeting, the decision to hold
+the MPR constant had been based essentially on tactical elements —in particular,
+not to take the market by surprise— rather than on macroeconomic elements
+associated with the baseline scenario. Likewise, on that occasion it was reported
+that if there were no significant variations in the macro scenario, it would be
+appropriate to start the process of monetary normalization relatively quickly,
+which was understood as doing it at this meeting or, at the most, at the next.
+Raising the MPR at this meeting was consistent with the previous statement, since
+the current analysis did not point to mayor deviations from the macroeconomic
+scenario, to which it was added that an important fraction of the market had
+internalized the message that the MPR would be raised sooner than had been
+expected until early September.
+
+
+-----
+
+Opposing this option, it could be argued that an increase in the MPR at this
+meeting could be over-interpreted by the market and cause an excessive
+steepening of the curve, causing a monetary policy bias markedly more
+contractionary than the Board considered reasonable. Although this risk was
+always present, especially after a long period with a flat rate, it was important
+to draw a line between the decision to start the normalization process and its
+subsequent velocity. For this reason it had to be communicated that the future
+process of moving the MPR would probably include pauses and would have a
+gradual pace that, as always, would be calibrated according to the evolution of
+the macro cycle and inflation.
+
+**Option 2: keep the MPR at 2.5%**
+
+The main argument for this option was the persistence of the risks and the need
+to collect more information on their evolution before proceeding with the MPR
+normalization process. However, especially abroad, its materialization remained
+diffuse and it seemed unlikely that waiting a little longer would bring greater
+clarity in this regard. Rather it seemed that these risk scenarios would accompany
+monetary policy decisions for a long time. Moreover, should a change in the
+orientation of monetary policy be required, the Board would have the usual
+flexibility to communicate a different situation effectively and opportunely.
+
+#### 4. Monetary policy decision
+
+The Board decided, with the votes of Governor Marcel, Vice-Governor Vial and
+Board members García, Costa and Naudon, to raise the monetary policy interest
+rate by 25 basis points, to 2.75%.
+
+
+-----
+

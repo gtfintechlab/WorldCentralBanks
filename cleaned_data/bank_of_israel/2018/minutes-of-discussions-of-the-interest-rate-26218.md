@@ -1,0 +1,168 @@
+## BANK OF ISRAEL
+
+Office of the Spokesperson and Economic Information
+
+March 12, 2018
+
+# Report on the Bank of Israel’s discussions prior to deciding
+ on the interest rate
+
+## The discussions took place on February 25 and 26, 2017.
+
+ General
+
+The Monetary Committee sets the interest rate in a process that includes two
+discussions––the first in a broad forum, and the second in a narrower one.
+
+In the broad-forum discussion, the relevant background economic conditions are
+presented, including the real and financial-monetary developments in Israel’s
+economy, and developments in the global economy. Participants in this discussion
+include the members of the Monetary Committee, senior representatives from the
+various departments of the Bank, and economists from the economic departments
+(Research and Market Operations), who prepare and present the material for
+discussion.
+
+In the narrow forum—which consists of the Monetary Committee and the Director of
+the Research Department—the Research and the Market Operations Departments
+present their views of the main considerations that should guide the setting of the
+monetary policy. An open discussion on monetary policy follows, which ends with a
+vote on the level of the interest rate. According to Section 18(c) of the Bank of Israel
+Law, 5770–2010, the decision on the interest rate is reached by majority vote of the
+members of the Monetary Committee who participate in the voting. If the vote is tied,
+the Chairperson (the Governor) has an additional vote.
+
+A summary view of the economic situation available at the time of the Committee’s
+discussion is presented in the [notice regarding the interest rate decision, which was](http://www.boi.org.il/en/NewsAndPublications/PressReleases/Pages/26-2-18.aspx)
+[published on February 26, and in the data file that accompanied the notice.](https://www.boi.org.il/en/NewsAndPublications/PressReleases/Documents/Interest%20Rate%20decision%20February%2026%2c%202018.pdf)
+
+Page 1 of 4
+
+
+-----
+
+## THE NARROW-FORUM DISCUSSION
+
+The members of the Monetary Committee participating in the discussion decide on
+the appropriate rate of interest for the economy. After the discussion, it was decided to
+keep the interest rate unchanged at 0.1 percent. Five Committee members supported
+the proposal to keep the interest rate unchanged, and one Committee member
+supported increasing the interest rate to 0.25 percent.
+
+The discussion focused on several main issues: (1) real economic activity; (2)
+inflation, (3) the global environment and the exchange rate, (4) the housing market,
+and (5) the forward guidance policy.
+
+## Main points of discussion
+
+In their discussion on economic activity, the Committee members discussed National
+Accounts data for the fourth quarter of 2017. They noted that the economy is growing
+at a pace similar to its potential growth rate, and that the composition of growth in the
+past year seems more balanced: It was not based solely on private consumption
+growth, but also on an increase in exports, against the background of solid growth in
+world trade. The Committee referred as well to labor market data that indicate a tight
+labor market, reflected in a record high employment rate, a record low unemployment
+rate, a high ratio of job vacancies to the number of unemployed people, a decline in
+the share of people who are employed in part time positions involuntarily, and a rapid
+increase in wages in the past three years. It was noted that the increase in wage per
+employee post moderated in recent months, but data on the growth in health tax
+receipts (updated through January 2018) indicate continued increase at a high rate.
+
+The Committee noted that the inflation environment is lower than the target. They
+added that there was some increase in inflation expectations from the various sources,
+against the background of the depreciation that occurred since the last interest rate
+decision. They said that the inflation rate is expected to decline in the coming period,
+in accordance with the seasonal path and due to government-initiated price reductions;
+however, to the extent that the shekel deprecation will persist, it—and with it, the
+increase in wages—is expected to support a rise in inflation. The Committee members
+said that some factors continue to reduce the inflation rate at this time, including
+measures the government is taking to reduce the cost of living, the enhanced
+competition reflected in, among other things, a marked increase in online purchases of
+consumer products over the past decade, and the relatively low level of global
+inflation. They assessed that these factors do not reflect weakness in demand.
+
+The Committee members noted that the global environment is in a positive trend,
+reflected in upward revisions of international institutions’ growth forecasts for major
+economies and for world trade. The improvement in the global economy is expected
+to increase demand for Israeli exports. They noted that the US Federal Reserve is
+expected to increase the federal funds rate at its next meeting, and twice more in 2018.
+Despite other central banks continuing to adopt accommodative monetary policy, a
+
+
+-----
+
+less accommodative future path of monetary policy is beginning to be priced in to
+financial markets. The ECB maintained its negative interest rate policy and signaled
+that it is expected to continue.
+
+The Committee members discussed the deprecation in the shekel against the
+background of Bank of Israel intervention in the foreign exchange market, and
+occurrences in financial markets. The majority of Committee members claimed that
+the shekel is over-appreciated.
+
+The Committee noted that housing market data continue to point to moderation of
+demand, which is reflected in the continued decline in the number of transactions and
+a decrease in home prices in the last three months for which data was published. The
+Committee members noted that investment in residential construction declined in the
+past three quarters, and it is possible that this decline indicates a moderation in supply
+of homes as well.
+
+The Committee members reiterated that the monetary accommodation will be
+maintained as long as necessary in order to entrench the inflation environment within
+the target range. One of the Committee members noted that there will be room for
+further accommodation in the future if the inflation environment remains below
+target, and particularly if there is continued moderation in the increase in wages,
+which is the main factor that would support an increase in inflation. Another member
+said that as the low inflation rate does not indicate a problem in demand, it would not
+be right for the Committee to condition a change in monetary policy only on
+developments in inflation, and it would be correct to decide on policy taking into
+account other considerations, including the manner in which the continued low
+interest rate impacts on asset prices and on savings.
+
+As noted, five Committee members reasoned that the interest rate should be kept
+unchanged. In their reasoning for the decision, the Committee members noted that the
+inflation environment remains low and that there is a need to keep the interest rate at
+its low level in order to support its return to within the target range. They added that
+increasing the interest rate before the entrenchment of inflation within the target range
+is liable to ultimately delay the return of the interest rate to higher levels, due to its
+possible impact on the exchange rate and on inflation expectations. The Committee
+members also noted that although the low interest rate creates financial risks, they are
+not only the result of the interest rate set by the Bank of Israel, and they are not at
+such a high level that requires an increase in the interest rate: mortgage volume
+stabilized, the increase in consumer credit moderated, and in parallel the increase in
+labor income continues, and the level of savings, even after declining, remains high
+by international comparison. One of the Committee members was of the opinion that
+the interest rate should be raised to 0.25 percent. He felt that the low inflation rate is
+impacted by, among other things, the level of prices in Israel being higher to begin
+with compared with other countries and the government working to reduce the cost of
+living, and it does not indicate a problem with demand. This Committee member was
+of the opinion that less emphasis should be placed on the over-appreciated level of the
+
+
+-----
+
+exchange rate in view of the economy’s switch from goods exports to services exports
+and the growth in world trade, which are expected to reduce the sensitivity of exports
+to the level of the exchange rate. It is therefore proper to decide on the policy while
+taking into account other considerations, including the manner in which the continued
+low interest rate impacts on asset prices and on saving.
+
+**Participants in the narrow-forum discussion:**
+
+**Members of the Monetary Committee:**
+Dr. Karnit Flug, Governor of the Bank and Chairperson
+Dr. Nadine Baudot-Trajtenberg, Deputy Governor
+Mr. Andrew Abir, Director of the Market Operations Department
+Prof. Reuben Gronau
+Prof. Moshe Hazan
+Prof. Zvi Hercowitz
+
+**Other participants in the narrow-forum discussion:**
+Daniel Hahiashvili, Chief of Staff to the Governor
+Daniel Nathan, Economist in the Research Department
+Esti Schwartz, Secretary of the Monetary Committee
+Yoav Soffer, Bank of Israel Spokesperson
+Prof. Michel Strawczynski, Director of the Research Department
+
+
+-----
+

@@ -1,0 +1,157 @@
+# Monetary Policy Meeting[1]/
+
+#### MARCH 2018
+
+CENTRAL BANK OF CHILE
+
+#### [INF*RES*AS]
+
+1/ This is a translation of a document originally written in Spanish. In case of discrepancy or difference
+in interpretation, the Spanish original prevails. Both versions are available at www.bcentral.cl
+
+
+-----
+
+## MINUTES OF THE MONETARY POLICY MEETING
+
+#### Monetary policy meeting No. 255, held on 20 March 2018.
+
+Present: Mario Marcel, Governor; Joaquín Vial, Board member; Pablo García,
+Board member; Rosanna Costa, Board member.
+
+Also present: Alejandro Zurbuchen, General Manager; Juan Pablo Araya, General
+Counsel and Attestor; Alberto Naudon, Research Division Director; Beltrán
+de Ramón, Financial Markets Division Manager; Solange Berstein, Financial
+Operations Division Director; Gloria Peña, Statistics Division Director; Miguel
+Fuentes, Macroeconomic Analysis Manager; Enrique Orellana, Strategy and
+Communication of Monetary Policy Manager; Matías Bernier, Domestic Financial
+Markets Manager; Luis Álvarez, Communications Manager; Hermann González,
+Advisor to the Finance Minister; Marlys Pabst, Secretary General.
+
+#### 1. Background analysis and discussion
+
+The information presented to the Board and analysis thereof was that contained
+in the March Monetary Policy Report. Primarily, it showed that growth in activity
+had increased in recent months, particularly in the non-mining sectors. The
+revision of National Accounts data showed that growth in the non-mining sectors
+had recovered its dynamism in the second half of 2017, after a slow start of
+the year. With this, 2017’s growth had been —on average— fairly as expected,
+but with a composition that provided a better starting point for 2018, which
+was relevant in the revision of the growth forecast for the current year. On the
+external front, the momentum driving the Chilean economy had consolidated
+above expectations, with favorable financial conditions, world growth that would
+outpace earlier years and commodity prices that had persisted above year-ago
+levels. Early February figures had revealed a period of greater volatility, with
+decreases in the prices of risky assets and higher global uncertainty. However, this
+period had been of short duration and its effects had not been very persistent.
+Domestically, during the last few months inflation had behaved in line with
+expectations, remaining near 2%. Still, in the projections of the new baseline
+scenario, the convergence of inflation to 3% would take longer than had been
+thought in December, given the additional appreciation of the peso in recent
+months. Toward 2019 and 2020, these projections assumed that inflation would
+accelerate, largely because the economy would close the activity gap gradually
+
+
+and steadily. This considered that, on average, the economy would grow above
+potential during the period 2018-2020. Regarding monetary policy, the Board
+had kept the monetary policy rate (MPR) at 2.5% for several months and, in
+the baseline scenario, estimated that it would keep the monetary stimulus near
+its current levels and would begin to reduce it conditional on macroeconomic
+conditions consolidating the convergence of inflation toward 3%.
+
+During the discussion of these antecedents, several participants referred to the
+external economy, pointing out that the observed price adjustments associated
+with better perspectives in the developed world did not alter the scenario
+relevant for Chile. Some participants stressed that the better than expected global
+figures were drawing more attention to some downside risks, especially in the
+financial markets. One participant underscored the risks derived from a more
+expansionary fiscal policy in the US, when there were already symptoms of the
+gaps closing which, together with augmenting the external deficit, could add
+inflationary pressures. He also highlighted, due to their medium- and long-term
+implications, the risks associated with protectionist measures adopted by the US.
+
+About the evolution of inflation and its fundamentals, the participants noted that
+inflation had remained on the expected trajectory for several months and soon it
+would be on a lower trajectory driven by the effects of the recent appreciation of
+the peso. All the participants emphasized that headline inflation was still low, as
+was core inflation, so there was a risk that inflation could stay low for longer than
+expected. Some participants added that while there was some degree of surprise
+about the pace of the economic recovery, the estimates of the current size of the
+gap and the evaluation of its implications for inflationary pressures were not
+very different from December’s scenario. If this was coupled with a still relatively
+appreciated real exchange rate, it became clear that the risks for inflation were
+still present. One participant stressed that, in any case, the incorporation of
+higher growth into economic expectations had been undermining the arguments
+for an additional appreciation of the peso. In fact, in the weeks leading up to
+this Meeting it had rather experienced a depreciation.
+
+All the participants noted that the recent and expected economic performance
+and its effects on the closing of the activity gap reduced the risks for inflation.
+Thus, they pointed out that after two years, the growth forecasts indicated that
+there the gap would close, helping inflation’s convergence to the target with the
+current MPR. It was said that, actually, the inflation expectations reflected in
+longer-term market prices had changed very little in response to the peso’s most
+recent appreciation. It was also noted that these perspectives for activity relied on
+a consolidated recovery of investment, more dynamic exports and consumption
+
+
+-----
+
+remaining strong, all of it supported by favorable financial conditions. One
+participant drew attention to the risks coming from the labor market. He
+mentioned that although the employment figures had tended to improve in
+the margin beyond the sectoral composition, nominal wages had continued, to
+some extent, growing at pretty low rates, which reduced the upward pressure
+on prices and was a factor to take into consideration in future decisions.
+
+#### 2. Analysis of monetary policy options[2]/
+
+All the Board members agreed that, given the current economic conditions
+(depicted in the baseline scenario of the March Monetary Policy Report), the
+convergence of inflation to 3% in the usual horizon was consistent with keeping
+an expansionary monetary policy, in line with what several expectations surveys
+indicated. This was, keeping the MPR at its current level during this year and a
+gradual normalization towards neutral levels thereafter. Some Board members
+considered that the option to increase the monetary stimulus was still valid, in a
+context where inflation was expected to remain below the target for a long time
+and where the activity gap remained negative. Especially because even though
+the risk for inflation’s convergence was clearly smaller, it had not disappeared.
+The main arguments in favor and against each of these options were:
+
+**Option 1: holding the MPR at 2.5%**
+
+All the Board members agreed that this option was consistent with the March
+Report’s baseline scenario, particularly with the monetary policy strategy
+described therein. For this reason, and because of its alignment with market
+expectations for the macroeconomic outlook of the coming months, it was
+an option that ensured credibility and effectiveness. Furthermore, it provided
+space for a timely reaction if faced with some of the most likely risk scenarios.
+
+**Option 2: lowering the MPR by 25pb**
+
+Some Board members noted that this option would be justified from a risk
+management perspective, especially as long as core inflation remained below
+the tolerance range and low inflation rates were expected for a significant
+period of time. However, they agreed that it was very complex to explain this
+
+2/ In order to preserve the regulatory individual anonymity in the discussion, all five Board members
+are herein referred to as males, including female member Ms. Rosanna Costa.
+
+
+kind of decision considering the developments in the macroeconomic scenario.
+In particular, because inflation had not experienced additional downside
+shocks, such as new appreciations of the peso. Also because the medium-term
+projections pointed clearly to inflation converging to the target within the policy
+horizon, with smaller downside risks. In addition, considering developments of
+the macroeconomic scenario, it was highly probable that the decision to cut the
+MPR would have to be reversed in the short term, thus eroding its effectiveness
+and making it even more difficult and confusing to justify.
+
+#### 3. Agreed policy action
+
+The Board decided, with the votes of Governor Marcel and Board members Vial,
+García and Costa, to keep the monetary policy interest rate at 2.5%.
+
+
+-----
+

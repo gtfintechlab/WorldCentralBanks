@@ -1,0 +1,1049 @@
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.0.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/hp/Desktop/global-central-banks/src/llm_benchmarking/inference.py", line 9, in <module>
+    from datasets import load_dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/__init__.py", line 17, in <module>
+    from .arrow_dataset import Dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/arrow_dataset.py", line 59, in <module>
+    import pandas as pd
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/__init__.py", line 49, in <module>
+    from pandas.core.api import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/api.py", line 28, in <module>
+    from pandas.core.arrays import Categorical
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/__init__.py", line 1, in <module>
+    from pandas.core.arrays.arrow import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/__init__.py", line 5, in <module>
+    from pandas.core.arrays.arrow.array import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/array.py", line 50, in <module>
+    from pandas.core import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/ops/__init__.py", line 8, in <module>
+    from pandas.core.ops.array_ops import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/ops/array_ops.py", line 56, in <module>
+    from pandas.core.computation import expressions
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/computation/expressions.py", line 21, in <module>
+    from pandas.core.computation.check import NUMEXPR_INSTALLED
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/computation/check.py", line 5, in <module>
+    ne = import_optional_dependency("numexpr", errors="warn")
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/compat/_optional.py", line 135, in import_optional_dependency
+    module = importlib.import_module(name)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/numexpr/__init__.py", line 24, in <module>
+    from numexpr.interpreter import MAX_THREADS, use_vml, __BLOCK_SIZE1__
+AttributeError: _ARRAY_API not found
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.0.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/hp/Desktop/global-central-banks/src/llm_benchmarking/inference.py", line 9, in <module>
+    from datasets import load_dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/__init__.py", line 17, in <module>
+    from .arrow_dataset import Dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/arrow_dataset.py", line 59, in <module>
+    import pandas as pd
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/__init__.py", line 49, in <module>
+    from pandas.core.api import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/api.py", line 28, in <module>
+    from pandas.core.arrays import Categorical
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/__init__.py", line 1, in <module>
+    from pandas.core.arrays.arrow import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/__init__.py", line 5, in <module>
+    from pandas.core.arrays.arrow.array import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/array.py", line 64, in <module>
+    from pandas.core.arrays.masked import BaseMaskedArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/masked.py", line 60, in <module>
+    from pandas.core import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/nanops.py", line 52, in <module>
+    bn = import_optional_dependency("bottleneck", errors="warn")
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/compat/_optional.py", line 135, in import_optional_dependency
+    module = importlib.import_module(name)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/bottleneck/__init__.py", line 7, in <module>
+    from .move import (move_argmax, move_argmin, move_max, move_mean, move_median,
+Traceback (most recent call last):
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/numpy/core/_multiarray_umath.py", line 44, in __getattr__
+    raise ImportError(msg)
+ImportError: 
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.0.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+
+2025-04-15 03:09:32,525 - together_inference - INFO - Starting inference on 2025-04-15
+2025-04-15 03:09:32,526 - together_inference - INFO - Loading dataset...
+2025-04-15 03:09:33,762 - together_inference - INFO - Loaded 150 sentences from the dataset.
+2025-04-15 03:09:33,762 - together_inference - INFO - Using model: together_ai/meta-llama/Llama-3-70b-chat-hf
+2025-04-15 03:09:33,762 - together_inference - INFO - Using seed: 5768
+2025-04-15 03:09:33,763 - together_inference - INFO - Processing 150 documents in 30 batches.
+2025-04-15 03:09:33,763 - together_inference - INFO - Processing batch 1/30 with 5 sentences.
+2025-04-15 03:09:33,763 - together_inference - INFO - Processing batch 1/30
+2025-04-15 03:09:34,971 - together_inference - INFO - Completed batch 1/30
+2025-04-15 03:09:34,977 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence does not mention the Bank of Israel or its monetary policy, instead discussing the global financial crisis and its impact on other countries."
+}
+2025-04-15 03:09:34,977 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies that central banks will maintain an expansionary policy, which is typically associated with a dovish stance that supports economic growth."
+}
+2025-04-15 03:09:34,977 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies that inflation forecasts are at the upper limit of the target range or even higher, suggesting a potential need for tightening monetary policy."
+}
+2025-04-15 03:09:34,977 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The decline in mortgages granted suggests a slowdown in credit growth, which may indicate a need for accommodative monetary policy, hence a dovish stance."
+}
+2025-04-15 03:09:34,977 - together_inference - INFO - Response: {
+"label": "dovish",
+"justification": "The decline in commodity prices, particularly oil, suggests a decrease in inflationary pressures, which could lead the Bank of Israel to adopt a more accommodative monetary policy stance."
+}
+2025-04-15 03:09:34,977 - together_inference - INFO - Processing batch 2/30 with 5 sentences.
+2025-04-15 03:09:34,977 - together_inference - INFO - Processing batch 2/30
+2025-04-15 03:09:35,938 - together_inference - INFO - Completed batch 2/30
+2025-04-15 03:09:35,938 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence discusses Japan's economy, which is unrelated to the Bank of Israel's monetary policy meeting."
+}
+2025-04-15 03:09:35,938 - together_inference - INFO - Response: {
+"label": "dovish",
+"justification": "The decline in exports across multiple industries suggests a potential slowdown in economic growth, which may lead the Bank of Israel to adopt a more accommodative monetary policy stance."
+}
+2025-04-15 03:09:35,938 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests a slowdown in business credit growth, which may indicate a need for accommodative monetary policy, hence a dovish stance."
+}
+2025-04-15 03:09:35,939 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence discusses Germany's trade surplus and the eurozone's growth, which is unrelated to the Bank of Israel's monetary policy meeting."
+}
+2025-04-15 03:09:35,939 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The increase in inflation expectations above the target range suggests a potential need for monetary tightening, which is a hawkish stance."
+}
+2025-04-15 03:09:35,939 - together_inference - INFO - Processing batch 3/30 with 5 sentences.
+2025-04-15 03:09:35,939 - together_inference - INFO - Processing batch 3/30
+2025-04-15 03:09:37,077 - together_inference - INFO - Completed batch 3/30
+Running inference for Bank of Israel
+[ModelResponse(id='nqAFY7R-4yUbBN-93099e3f28f681ab', created=1744700974, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence does not mention the Bank of Israel or its monetary policy, instead discussing the global financial crisis and its impact on other countries."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=257, total_tokens=298, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFY7A-4yUbBN-93099e3f2885177b', created=1744700974, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies that central banks will maintain an expansionary policy, which is typically associated with a dovish stance that supports economic growth."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=189, total_tokens=236, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFY6u-4yUbBN-93099e3f2a30e645', created=1744700974, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies that inflation forecasts are at the upper limit of the target range or even higher, suggesting a potential need for tightening monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=193, total_tokens=240, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFY7g-4yUbBN-93099e3f2c073ad6', created=1744700974, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The decline in mortgages granted suggests a slowdown in credit growth, which may indicate a need for accommodative monetary policy, hence a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=199, total_tokens=248, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFY6q-4yUbBN-93099e3f1f3c0626', created=1744700973, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "dovish",\n"justification": "The decline in commodity prices, particularly oil, suggests a decrease in inflationary pressures, which could lead the Bank of Israel to adopt a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=181, total_tokens=230, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAFYSY-4yUbBN-93099e462830e600', created=1744700975, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence discusses Japan\'s economy, which is unrelated to the Bank of Israel\'s monetary policy meeting."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=181, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFYRU-4yUbBN-93099e45ec5f0626', created=1744700975, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "dovish",\n"justification": "The decline in exports across multiple industries suggests a potential slowdown in economic growth, which may lead the Bank of Israel to adopt a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=176, total_tokens=223, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFYSj-4yUbBN-93099e4639648206', created=1744700975, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests a slowdown in business credit growth, which may indicate a need for accommodative monetary policy, hence a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=192, total_tokens=239, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFYSN-4yUbBN-93099e462c1ec978', created=1744700975, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence discusses Germany\'s trade surplus and the eurozone\'s growth, which is unrelated to the Bank of Israel\'s monetary policy meeting."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=183, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFYSU-4yUbBN-93099e462cde05a2', created=1744700975, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The increase in inflation expectations above the target range suggests a potential need for monetary tightening, which is a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=199, total_tokens=242, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAFYht-4yUbBN-93099e4bd8ee0626', created=1744700976, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests a positive trend in unemployment, implying a stronger economy, which may lead the Bank of Israel to maintain an accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=191, total_tokens=241, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFYhv-4yUbBN-93099e4bdbcee600', created=1744700976, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "dovish",\n"justification": "The sentence indicates a 100% probability of a 25 basis point interest rate cut, which suggests an accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=204, total_tokens=246, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFYi5-4yUbBN-93099e4be9ac05a2', created=1744700976, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The appreciation of the shekel against major currencies implies a decrease in interest rates or a more accommodative monetary policy, which is a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=198, total_tokens=248, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFYhv-4yUbBN-93099e4be9bfc978', created=1744700976, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies that the contractionary policy had a negative impact on the economy, suggesting that the Bank of Israel\'s monetary policy stance is hawkish."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=186, total_tokens=235, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFYi3-4yUbBN-93099e4bec7d8206', created=1744700976, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests a moderation in supply of homes, which could lead to a decrease in housing prices and inflation, implying a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=194, total_tokens=242, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 03:09:37,082 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests a positive trend in unemployment, implying a stronger economy, which may lead the Bank of Israel to maintain an accommodative monetary policy stance."
+}
+2025-04-15 03:09:37,082 - together_inference - INFO - Response: {
+"label": "dovish",
+"justification": "The sentence indicates a 100% probability of a 25 basis point interest rate cut, which suggests an accommodative monetary policy stance."
+}
+2025-04-15 03:09:37,082 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The appreciation of the shekel against major currencies implies a decrease in interest rates or a more accommodative monetary policy, which is a dovish stance."
+}
+2025-04-15 03:09:37,082 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies that the contractionary policy had a negative impact on the economy, suggesting that the Bank of Israel's monetary policy stance is hawkish."
+}
+2025-04-15 03:09:37,082 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests a moderation in supply of homes, which could lead to a decrease in housing prices and inflation, implying a dovish stance."
+}
+2025-04-15 03:09:37,082 - together_inference - INFO - Processing batch 4/30 with 5 sentences.
+2025-04-15 03:09:37,082 - together_inference - INFO - Processing batch 4/30
+2025-04-15 03:09:38,097 - together_inference - INFO - Completed batch 4/30
+2025-04-15 03:09:38,098 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The sentence highlights supply-side constraints and depreciation as potential inflationary pressures, indicating a concern for price stability, which is a characteristic of a hawkish stance."
+}
+2025-04-15 03:09:38,098 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies that the Fed chairman's statement led to a delay in interest rate hikes, which suggests a dovish stance as it indicates a more accommodative monetary policy."
+}
+2025-04-15 03:09:38,098 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence does not mention the Bank of Israel or its monetary policy, and instead discusses the euro area, making it irrelevant to the task."
+}
+2025-04-15 03:09:38,098 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence does not mention the Bank of Israel's monetary policy or any related indicators, making it irrelevant for classification."
+}
+2025-04-15 03:09:38,098 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The fall in vacancies suggests a slowdown in economic activity, which may lead the Bank of Israel to adopt a more accommodative monetary policy stance."
+}
+2025-04-15 03:09:38,098 - together_inference - INFO - Processing batch 5/30 with 5 sentences.
+2025-04-15 03:09:38,099 - together_inference - INFO - Processing batch 5/30
+2025-04-15 03:09:39,312 - together_inference - INFO - Completed batch 5/30
+2025-04-15 03:09:39,312 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The lower-than-expected inflation rate suggests that the Bank of Israel may not need to tighten monetary policy, which is a dovish signal."
+}
+2025-04-15 03:09:39,312 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence indicates that the Bank of Israel is taking measures to lower interest rates, which is a dovish stance as it aims to stimulate economic activity."
+}
+2025-04-15 03:09:39,312 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies that the Bank of Israel is likely to follow the Fed's rate cuts, which would lead to a more accommodative monetary policy, hence a dovish stance."
+}
+2025-04-15 03:09:39,313 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The governor's decision to leave the interest rate unchanged suggests a neutral stance, as it neither tightens nor loosens monetary policy."
+}
+2025-04-15 03:09:39,313 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence reports a slight increase in CPI, but still below the seasonal path consistent with the inflation target, indicating no strong signal for a change in monetary policy stance."
+}
+2025-04-15 03:09:39,313 - together_inference - INFO - Processing batch 6/30 with 5 sentences.
+2025-04-15 03:09:39,313 - together_inference - INFO - Processing batch 6/30
+2025-04-15 03:09:40,178 - together_inference - INFO - Completed batch 6/30
+
+[ModelResponse(id='nqAFZ3j-4yUbBN-93099e530e710626', created=1744700977, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The sentence highlights supply-side constraints and depreciation as potential inflationary pressures, indicating a concern for price stability, which is a characteristic of a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=178, total_tokens=223, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFZ3n-4yUbBN-93099e53087c8206', created=1744700977, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies that the Fed chairman\'s statement led to a delay in interest rate hikes, which suggests a dovish stance as it indicates a more accommodative monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=54, prompt_tokens=200, total_tokens=254, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFZ3f-4yUbBN-93099e530aa6e600', created=1744700977, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence does not mention the Bank of Israel or its monetary policy, and instead discusses the euro area, making it irrelevant to the task."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=181, total_tokens=223, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFZ3i-4yUbBN-93099e530a33c978', created=1744700977, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence does not mention the Bank of Israel\'s monetary policy or any related indicators, making it irrelevant for classification."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=174, total_tokens=211, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFZ3h-4yUbBN-93099e530f6b05a2', created=1744700977, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The fall in vacancies suggests a slowdown in economic activity, which may lead the Bank of Israel to adopt a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=182, total_tokens=230, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAFZMR-4yUbBN-93099e596b1e0626', created=1744700978, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The lower-than-expected inflation rate suggests that the Bank of Israel may not need to tighten monetary policy, which is a dovish signal."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=216, total_tokens=264, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFZNC-4yUbBN-93099e596fa4e600', created=1744700978, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence indicates that the Bank of Israel is taking measures to lower interest rates, which is a dovish stance as it aims to stimulate economic activity."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=195, total_tokens=245, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFZMK-4yUbBN-93099e596fd6c978', created=1744700978, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies that the Bank of Israel is likely to follow the Fed\'s rate cuts, which would lead to a more accommodative monetary policy, hence a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=55, prompt_tokens=217, total_tokens=272, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFZMS-4yUbBN-93099e596c2e8206', created=1744700978, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The governor\'s decision to leave the interest rate unchanged suggests a neutral stance, as it neither tightens nor loosens monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=187, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFZMK-4yUbBN-93099e596cdf05a2', created=1744700978, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence reports a slight increase in CPI, but still below the seasonal path consistent with the inflation target, indicating no strong signal for a change in monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=51, prompt_tokens=202, total_tokens=253, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAFZi6-4yUbBN-93099e60f8480626', created=1744700979, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The slowdown in the index\'s growth rate from 1.4% to 0.7% suggests a less inflationary environment, which may lead the Bank of Israel to adopt a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=64, prompt_tokens=190, total_tokens=254, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFZi3-4yUbBN-93099e60fe73e600', created=1744700979, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The decline in yield to maturity on CPI-indexed government bonds suggests a decrease in expected inflation, which is a dovish signal for monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=208, total_tokens=257, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFZiA-4yUbBN-93099e60f8318206', created=1744700979, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence merely reports on the committee\'s assessment of the global economy without indicating a clear bias towards tightening or loosening monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=184, total_tokens=228, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFZi9-4yUbBN-93099e60fb5805a2', created=1744700979, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence does not mention the Bank of Israel or its monetary policy, instead discussing the World Bank\'s growth forecast for far eastern economies."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=191, total_tokens=232, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFZi7-4yUbBN-93099e60f856c978', created=1744700979, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence highlights the risks of inflation and depreciation, which suggests that the Bank of Israel may need to tighten monetary policy to mitigate these risks, indicating a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=53, prompt_tokens=219, total_tokens=272, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 03:09:40,182 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The slowdown in the index's growth rate from 1.4% to 0.7% suggests a less inflationary environment, which may lead the Bank of Israel to adopt a more accommodative monetary policy stance."
+}
+2025-04-15 03:09:40,182 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The decline in yield to maturity on CPI-indexed government bonds suggests a decrease in expected inflation, which is a dovish signal for monetary policy."
+}
+2025-04-15 03:09:40,182 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence merely reports on the committee's assessment of the global economy without indicating a clear bias towards tightening or loosening monetary policy."
+}
+2025-04-15 03:09:40,182 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence does not mention the Bank of Israel or its monetary policy, instead discussing the World Bank's growth forecast for far eastern economies."
+}
+2025-04-15 03:09:40,182 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence highlights the risks of inflation and depreciation, which suggests that the Bank of Israel may need to tighten monetary policy to mitigate these risks, indicating a hawkish stance."
+}
+2025-04-15 03:09:40,183 - together_inference - INFO - Processing batch 7/30 with 5 sentences.
+2025-04-15 03:09:40,183 - together_inference - INFO - Processing batch 7/30
+2025-04-15 03:09:41,402 - together_inference - INFO - Completed batch 7/30
+2025-04-15 03:09:41,407 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence does not provide any information about the Bank of Israel's monetary policy stance or decisions, but rather discusses inflation trends in Asian countries."
+}
+2025-04-15 03:09:41,407 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies that the forecasters expect the interest rate hike to be delayed, which suggests a dovish stance, indicating a more accommodative monetary policy."
+}
+2025-04-15 03:09:41,407 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence mentions several factors that could lead to higher inflation, such as rising wages and expansionary fiscal policy, which may prompt the Bank of Israel to tighten its monetary policy."
+}
+2025-04-15 03:09:41,407 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence expresses concerns about growing risks to the economy, implying a more cautious approach to monetary policy, which is characteristic of a dovish stance."
+}
+2025-04-15 03:09:41,407 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence indicates a rising trend in the expected short-term real interest rate, suggesting a tightening of monetary policy, which is a hawkish stance."
+}
+2025-04-15 03:09:41,407 - together_inference - INFO - Processing batch 8/30 with 5 sentences.
+2025-04-15 03:09:41,407 - together_inference - INFO - Processing batch 8/30
+2025-04-15 03:09:43,254 - together_inference - INFO - Completed batch 8/30
+2025-04-15 03:09:43,259 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The expected interest rate in a year's time is relatively low, indicating a dovish stance as it suggests the Bank of Israel is not planning to tighten monetary policy aggressively."
+}
+2025-04-15 03:09:43,259 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The committee is downplaying the significance of rising inflation expectations, suggesting that actual rates may be lower, which implies a more accommodative monetary policy stance."
+}
+2025-04-15 03:09:43,259 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The discussion of downward revisions to global growth forecasts and changes in expectations regarding the path of global interest rates suggests a more cautious and accommodative monetary policy stance."
+}
+2025-04-15 03:09:43,259 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies that the committee members are concerned about the negative impact of the global slowdown on the Israeli economy, which suggests a more accommodative monetary policy stance."
+}
+2025-04-15 03:09:43,259 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The significant increase in outstanding housing credit suggests a potential risk to financial stability, which may prompt the Bank of Israel to tighten its monetary policy."
+}
+2025-04-15 03:09:43,260 - together_inference - INFO - Processing batch 9/30 with 5 sentences.
+2025-04-15 03:09:43,260 - together_inference - INFO - Processing batch 9/30
+2025-04-15 03:09:44,350 - together_inference - INFO - Completed batch 9/30
+
+[ModelResponse(id='nqAFZy5-4yUbBN-93099e666d32c978', created=1744700980, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence does not provide any information about the Bank of Israel\'s monetary policy stance or decisions, but rather discusses inflation trends in Asian countries."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=182, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFZyD-4yUbBN-93099e666bf30626', created=1744700980, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies that the forecasters expect the interest rate hike to be delayed, which suggests a dovish stance, indicating a more accommodative monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=51, prompt_tokens=183, total_tokens=234, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFZyK-4yUbBN-93099e6669d3e600', created=1744700980, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence mentions several factors that could lead to higher inflation, such as rising wages and expansionary fiscal policy, which may prompt the Bank of Israel to tighten its monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=54, prompt_tokens=189, total_tokens=243, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFZyE-4yUbBN-93099e666b1e8206', created=1744700980, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence expresses concerns about growing risks to the economy, implying a more cautious approach to monetary policy, which is characteristic of a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=207, total_tokens=256, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFZy9-4yUbBN-93099e666f8405a2', created=1744700980, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence indicates a rising trend in the expected short-term real interest rate, suggesting a tightening of monetary policy, which is a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=185, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAFaLE-4yUbBN-93099e6e09b70626', created=1744700981, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The expected interest rate in a year\'s time is relatively low, indicating a dovish stance as it suggests the Bank of Israel is not planning to tighten monetary policy aggressively."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=54, prompt_tokens=217, total_tokens=271, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFaL8-4yUbBN-93099e6e08c6e600', created=1744700981, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The committee is downplaying the significance of rising inflation expectations, suggesting that actual rates may be lower, which implies a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=224, total_tokens=274, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFaLE-4yUbBN-93099e6e0def05a2', created=1744700981, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The discussion of downward revisions to global growth forecasts and changes in expectations regarding the path of global interest rates suggests a more cautious and accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=51, prompt_tokens=196, total_tokens=247, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFaLD-4yUbBN-93099e6e0e1fc978', created=1744700981, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies that the committee members are concerned about the negative impact of the global slowdown on the Israeli economy, which suggests a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=52, prompt_tokens=187, total_tokens=239, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFaLK-4yUbBN-93099e6e0f318206', created=1744700981, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The significant increase in outstanding housing credit suggests a potential risk to financial stability, which may prompt the Bank of Israel to tighten its monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=187, total_tokens=234, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAFatH-4yUbBN-93099e79acd68206', created=1744700983, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The high annual rate of increase in house prices suggests that the Bank of Israel may need to tighten monetary policy to curb inflationary pressures."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=202, total_tokens=248, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFat7-4yUbBN-93099e799902e600', created=1744700983, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence acknowledges the existence of both positive and negative forces affecting the shekel, indicating a balanced and neutral stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=197, total_tokens=238, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFatK-4yUbBN-93099e799a520626', created=1744700983, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies that financial conditions in advanced economies may worsen, which could lead to a more accommodative monetary policy stance to mitigate the negative effects."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=196, total_tokens=246, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFatD-4yUbBN-93099e79a800c978', created=1744700983, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence provides a neutral, factual observation about Israel\'s exports without expressing any opinion or hinting at a specific monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=192, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFatF-4yUbBN-93099e79aec505a2', created=1744700983, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The slowdown in employee posts growth suggests a weakening economy, which may lead the Bank of Israel to adopt an accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=203, total_tokens=250, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 03:09:44,356 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The high annual rate of increase in house prices suggests that the Bank of Israel may need to tighten monetary policy to curb inflationary pressures."
+}
+2025-04-15 03:09:44,356 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence acknowledges the existence of both positive and negative forces affecting the shekel, indicating a balanced and neutral stance."
+}
+2025-04-15 03:09:44,356 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies that financial conditions in advanced economies may worsen, which could lead to a more accommodative monetary policy stance to mitigate the negative effects."
+}
+2025-04-15 03:09:44,356 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence provides a neutral, factual observation about Israel's exports without expressing any opinion or hinting at a specific monetary policy stance."
+}
+2025-04-15 03:09:44,356 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The slowdown in employee posts growth suggests a weakening economy, which may lead the Bank of Israel to adopt an accommodative monetary policy stance."
+}
+2025-04-15 03:09:44,356 - together_inference - INFO - Processing batch 10/30 with 5 sentences.
+2025-04-15 03:09:44,356 - together_inference - INFO - Processing batch 10/30
+2025-04-15 03:09:45,531 - together_inference - INFO - Completed batch 10/30
+2025-04-15 03:09:45,538 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence emphasizes the importance of passing the budget according to guidelines to maintain growth, but does not explicitly mention monetary policy or interest rates, indicating a neutral stance."
+}
+2025-04-15 03:09:45,538 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence does not mention the Bank of Israel or its monetary policy, instead discussing the US economy, making it irrelevant to the task."
+}
+2025-04-15 03:09:45,538 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence indicates a gradual increase in interest rates to stabilize inflation, which suggests a hawkish stance."
+}
+2025-04-15 03:09:45,538 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence only mentions the research department's macroeconomic forecast and does not provide any information about the Bank of Israel's monetary policy stance."
+}
+2025-04-15 03:09:45,538 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence does not mention the Bank of Israel's monetary policy or any related indicators, making it irrelevant for classification."
+}
+2025-04-15 03:09:45,538 - together_inference - INFO - Processing batch 11/30 with 5 sentences.
+2025-04-15 03:09:45,538 - together_inference - INFO - Processing batch 11/30
+2025-04-15 03:09:46,615 - together_inference - INFO - Completed batch 11/30
+2025-04-15 03:09:46,616 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests that some participants are noting moderating forces on housing price increases, implying a less urgent need for monetary tightening."
+}
+2025-04-15 03:09:46,616 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence suggests a mixed picture of the economy, with growth continuing but at a slower pace, which does not lean strongly towards tightening or easing monetary policy."
+}
+2025-04-15 03:09:46,616 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies a potential slowdown in the global economy, which may lead the Bank of Israel to adopt an accommodative monetary policy stance."
+}
+2025-04-15 03:09:46,616 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests a substantial interest rate reduction, which implies a dovish stance as it indicates a willingness to ease monetary policy."
+}
+2025-04-15 03:09:46,616 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies that the market expects fewer interest rate reductions, suggesting a more hawkish stance by the Bank of Israel."
+}
+2025-04-15 03:09:46,616 - together_inference - INFO - Processing batch 12/30 with 5 sentences.
+2025-04-15 03:09:46,616 - together_inference - INFO - Processing batch 12/30
+2025-04-15 03:09:48,142 - together_inference - INFO - Completed batch 12/30
+
+[ModelResponse(id='nqAFbD7-4yUbBN-93099e808e52e600', created=1744700984, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence emphasizes the importance of passing the budget according to guidelines to maintain growth, but does not explicitly mention monetary policy or interest rates, indicating a neutral stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=223, total_tokens=273, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFbDS-4yUbBN-93099e808f140626', created=1744700984, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence does not mention the Bank of Israel or its monetary policy, instead discussing the US economy, making it irrelevant to the task."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=192, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFbDC-4yUbBN-93099e808c0805a2', created=1744700984, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence indicates a gradual increase in interest rates to stabilize inflation, which suggests a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=217, total_tokens=256, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFbDA-4yUbBN-93099e8088318206', created=1744700984, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence only mentions the research department\'s macroeconomic forecast and does not provide any information about the Bank of Israel\'s monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=180, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFbD7-4yUbBN-93099e8088b3c978', created=1744700984, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence does not mention the Bank of Israel\'s monetary policy or any related indicators, making it irrelevant for classification."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=184, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAFbZm-4yUbBN-93099e87ec270626', created=1744700985, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests that some participants are noting moderating forces on housing price increases, implying a less urgent need for monetary tightening."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=181, total_tokens=226, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFbZd-4yUbBN-93099e87ee65e600', created=1744700985, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence suggests a mixed picture of the economy, with growth continuing but at a slower pace, which does not lean strongly towards tightening or easing monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=182, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFbZb-4yUbBN-93099e87ea5405a2', created=1744700985, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies a potential slowdown in the global economy, which may lead the Bank of Israel to adopt an accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=188, total_tokens=235, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFbZe-4yUbBN-93099e87ebc38206', created=1744700985, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests a substantial interest rate reduction, which implies a dovish stance as it indicates a willingness to ease monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=233, total_tokens=278, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFbZh-4yUbBN-93099e87e9c8c978', created=1744700985, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies that the market expects fewer interest rate reductions, suggesting a more hawkish stance by the Bank of Israel."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=202, total_tokens=245, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAFbtQ-4yUbBN-93099e8eb9080626', created=1744700986, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies a potential slowdown in Israel\'s growth rate, which may lead to a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=225, total_tokens=269, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFbtQ-4yUbBN-93099e8ebf368206', created=1744700986, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The committee\'s commitment to meeting the price stability target suggests a focus on inflation control, which is a characteristic of a hawkish monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=182, total_tokens=230, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFbtG-4yUbBN-93099e8ebc68e600', created=1744700986, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests a slowdown in the economy, which may imply a need for accommodative monetary policy, hence a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=187, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFbtG-4yUbBN-93099e8eba0ac978', created=1744700986, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The weakening of the shekel suggests a more accommodative monetary policy stance, which is typically associated with a dovish tone."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=181, total_tokens=226, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFbtR-4yUbBN-93099e8ebf8d05a2', created=1744700986, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence reports inflation within the target range and in line with forecasts, indicating no pressure for the Bank of Israel to adjust its monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=232, total_tokens=279, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 03:09:48,153 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies a potential slowdown in Israel's growth rate, which may lead to a more accommodative monetary policy stance."
+}
+2025-04-15 03:09:48,153 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The committee's commitment to meeting the price stability target suggests a focus on inflation control, which is a characteristic of a hawkish monetary policy stance."
+}
+2025-04-15 03:09:48,153 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests a slowdown in the economy, which may imply a need for accommodative monetary policy, hence a dovish stance."
+}
+2025-04-15 03:09:48,153 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The weakening of the shekel suggests a more accommodative monetary policy stance, which is typically associated with a dovish tone."
+}
+2025-04-15 03:09:48,153 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence reports inflation within the target range and in line with forecasts, indicating no pressure for the Bank of Israel to adjust its monetary policy stance."
+}
+2025-04-15 03:09:48,153 - together_inference - INFO - Processing batch 13/30 with 5 sentences.
+2025-04-15 03:09:48,153 - together_inference - INFO - Processing batch 13/30
+2025-04-15 03:09:49,542 - together_inference - INFO - Completed batch 13/30
+2025-04-15 03:09:49,552 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The decrease in bond yields suggests a relaxation of monetary policy, which is a dovish stance."
+}
+2025-04-15 03:09:49,552 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The committee's stance is neutral as it acknowledges the current price stability but also expresses caution about potential future inflation risks, without leaning towards tightening or easing monetary policy."
+}
+2025-04-15 03:09:49,552 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies a rising inflation risk, which may prompt the Bank of Israel to tighten its monetary policy, hence a hawkish stance."
+}
+2025-04-15 03:09:49,552 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence only reports on home prices without providing any indication of the Bank of Israel's monetary policy stance or intentions."
+}
+2025-04-15 03:09:49,552 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The committee's acknowledgement of low inflation rates despite recent increases suggests a relaxed stance on monetary policy, indicating a dovish tone."
+}
+2025-04-15 03:09:49,552 - together_inference - INFO - Processing batch 14/30 with 5 sentences.
+2025-04-15 03:09:49,552 - together_inference - INFO - Processing batch 14/30
+2025-04-15 03:09:50,866 - together_inference - INFO - Completed batch 14/30
+2025-04-15 03:09:50,867 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests that the Bank of Israel's measures have successfully cooled the real estate market, implying a dovish stance as the bank is not expected to tighten monetary policy further."
+}
+2025-04-15 03:09:50,867 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests that real activity continued to expand, implying a growing economy, which may lead to a more accommodative monetary policy stance."
+}
+2025-04-15 03:09:50,867 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence describes mixed changes in individual components of the index, which balances out to meet expectations, indicating no clear bias towards tightening or easing monetary policy."
+}
+2025-04-15 03:09:50,867 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence only reports on the balance of payments surplus and does not provide any information about the Bank of Israel's monetary policy stance or decisions."
+}
+2025-04-15 03:09:50,867 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence suggests a cautious and data-dependent approach to monetary policy, without indicating a bias towards tightening or easing, hence a neutral stance."
+}
+2025-04-15 03:09:50,867 - together_inference - INFO - Processing batch 15/30 with 5 sentences.
+2025-04-15 03:09:50,867 - together_inference - INFO - Processing batch 15/30
+2025-04-15 03:09:52,270 - together_inference - INFO - Completed batch 15/30
+
+[ModelResponse(id='nqAFcLp-4yUbBN-93099e984ffc0626', created=1744700988, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The decrease in bond yields suggests a relaxation of monetary policy, which is a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=194, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFcLg-4yUbBN-93099e984f75e600', created=1744700988, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The committee\'s stance is neutral as it acknowledges the current price stability but also expresses caution about potential future inflation risks, without leaning towards tightening or easing monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=198, total_tokens=248, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFcM1-4yUbBN-93099e984c428206', created=1744700988, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies a rising inflation risk, which may prompt the Bank of Israel to tighten its monetary policy, hence a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=182, total_tokens=228, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFcLy-4yUbBN-93099e984eeb05a2', created=1744700988, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence only reports on home prices without providing any indication of the Bank of Israel\'s monetary policy stance or intentions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=216, total_tokens=257, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFcLi-4yUbBN-93099e9848eec978', created=1744700988, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The committee\'s acknowledgement of low inflation rates despite recent increases suggests a relaxed stance on monetary policy, indicating a dovish tone."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=198, total_tokens=243, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAFcmo-4yUbBN-93099ea11903e600', created=1744700989, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests that the Bank of Israel\'s measures have successfully cooled the real estate market, implying a dovish stance as the bank is not expected to tighten monetary policy further."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=55, prompt_tokens=209, total_tokens=264, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFcm5-4yUbBN-93099ea11e6a0626', created=1744700989, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests that real activity continued to expand, implying a growing economy, which may lead to a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=196, total_tokens=243, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFcm8-4yUbBN-93099ea118918206', created=1744700989, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence describes mixed changes in individual components of the index, which balances out to meet expectations, indicating no clear bias towards tightening or easing monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=214, total_tokens=262, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFcm4-4yUbBN-93099ea11e6ec978', created=1744700989, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence only reports on the balance of payments surplus and does not provide any information about the Bank of Israel\'s monetary policy stance or decisions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=202, total_tokens=244, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFcmA-4yUbBN-93099ea11ddc05a2', created=1744700989, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence suggests a cautious and data-dependent approach to monetary policy, without indicating a bias towards tightening or easing, hence a neutral stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=227, total_tokens=272, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAFd9s-4yUbBN-93099ea94d370626', created=1744700990, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests that inflation expectations are at the lower bound of the target range, implying that there is no pressure to raise interest rates, which is a dovish signal."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=54, prompt_tokens=178, total_tokens=232, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFdCk-4yUbBN-93099ea948e9e600', created=1744700991, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies that the strengthening of the euro is hindering economic recovery, suggesting that the Bank of Israel may need to adopt an accommodative monetary policy to support growth."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=54, prompt_tokens=175, total_tokens=229, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFd9i-4yUbBN-93099ea94cd18206', created=1744700990, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence only mentions discussion of the impacts of the war on financial markets and the foreign exchange market, without indicating any specific policy direction or bias."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=178, total_tokens=220, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFd9n-4yUbBN-93099ea949b9c978', created=1744700990, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies that inflation is expected to be below the target range, suggesting a dovish stance as it may not warrant tightening monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=217, total_tokens=265, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFd9j-4yUbBN-93099ea94cf205a2', created=1744700990, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence highlights the contribution of the shekel\'s appreciation to the low inflation rate, implying that the Bank of Israel may not need to tighten monetary policy to combat inflation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=54, prompt_tokens=194, total_tokens=248, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 03:09:52,270 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests that inflation expectations are at the lower bound of the target range, implying that there is no pressure to raise interest rates, which is a dovish signal."
+}
+2025-04-15 03:09:52,270 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies that the strengthening of the euro is hindering economic recovery, suggesting that the Bank of Israel may need to adopt an accommodative monetary policy to support growth."
+}
+2025-04-15 03:09:52,270 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence only mentions discussion of the impacts of the war on financial markets and the foreign exchange market, without indicating any specific policy direction or bias."
+}
+2025-04-15 03:09:52,270 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies that inflation is expected to be below the target range, suggesting a dovish stance as it may not warrant tightening monetary policy."
+}
+2025-04-15 03:09:52,271 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence highlights the contribution of the shekel's appreciation to the low inflation rate, implying that the Bank of Israel may not need to tighten monetary policy to combat inflation."
+}
+2025-04-15 03:09:52,271 - together_inference - INFO - Processing batch 16/30 with 5 sentences.
+2025-04-15 03:09:52,271 - together_inference - INFO - Processing batch 16/30
+2025-04-15 03:09:53,450 - together_inference - INFO - Completed batch 16/30
+2025-04-15 03:09:53,457 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence suggests that the Bank of Israel is considering an interest rate hike to combat inflation, indicating a hawkish stance."
+}
+2025-04-15 03:09:53,457 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The decline in interest rates on indexed mortgages and stability in unindexed floating-rate mortgages suggests an accommodative monetary policy stance."
+}
+2025-04-15 03:09:53,457 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence simply presents a summary of the economic situation and the committee's discussion without indicating any bias towards tightening or loosening monetary policy."
+}
+2025-04-15 03:09:53,457 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence only mentions a small increase in commodity prices due to a specific event, without providing any information about the Bank of Israel's monetary policy stance or its potential impact on the economy."
+}
+2025-04-15 03:09:53,457 - together_inference - INFO - Response: {
+"label": "dovish",
+"justification": "The decline in trade and services revenue suggests a slowdown in economic activity, which may lead the Bank of Israel to adopt a more accommodative monetary policy stance."
+}
+2025-04-15 03:09:53,457 - together_inference - INFO - Processing batch 17/30 with 5 sentences.
+2025-04-15 03:09:53,457 - together_inference - INFO - Processing batch 17/30
+2025-04-15 03:09:54,506 - together_inference - INFO - Completed batch 17/30
+2025-04-15 03:09:54,506 - together_inference - INFO - Response: {
+"label": "dovish",
+"justification": "The sentence indicates an improvement in the labor market, with increased new posts and recruitment, and a decline in dismissals, which suggests a dovish stance as it may lead to a more accommodative monetary policy."
+}
+2025-04-15 03:09:54,506 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence suggests that inflation expectations are close to the midpoint of the target range, indicating a stable and neutral monetary policy stance."
+}
+2025-04-15 03:09:54,506 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The expectation of positive growth indicates a optimistic outlook, which is typically associated with a dovish stance that favors accommodative monetary policy."
+}
+2025-04-15 03:09:54,506 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The forecasted rise in the policy rate indicates a tightening of monetary policy, which is a hawkish stance."
+}
+2025-04-15 03:09:54,506 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The decline in inflation expectations suggests that the market expects a more accommodative monetary policy, which is a dovish signal."
+}
+2025-04-15 03:09:54,506 - together_inference - INFO - Processing batch 18/30 with 5 sentences.
+2025-04-15 03:09:54,507 - together_inference - INFO - Processing batch 18/30
+2025-04-15 03:09:55,697 - together_inference - INFO - Completed batch 18/30
+
+[ModelResponse(id='nqAFdZZ-4yUbBN-93099eb1f9ebe600', created=1744700992, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence suggests that the Bank of Israel is considering an interest rate hike to combat inflation, indicating a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=190, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFdZg-4yUbBN-93099eb1fb6d0626', created=1744700992, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The decline in interest rates on indexed mortgages and stability in unindexed floating-rate mortgages suggests an accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=193, total_tokens=237, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFdZe-4yUbBN-93099eb1fc66c978', created=1744700992, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence simply presents a summary of the economic situation and the committee\'s discussion without indicating any bias towards tightening or loosening monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=276, total_tokens=316, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFdZr-4yUbBN-93099eb1f9448206', created=1744700992, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence only mentions a small increase in commodity prices due to a specific event, without providing any information about the Bank of Israel\'s monetary policy stance or its potential impact on the economy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=185, total_tokens=235, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFdZh-4yUbBN-93099eb1fbd005a2', created=1744700992, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "dovish",\n"justification": "The decline in trade and services revenue suggests a slowdown in economic activity, which may lead the Bank of Israel to adopt a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=184, total_tokens=230, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAFdvD-4yUbBN-93099eb968970626', created=1744700993, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "dovish",\n"justification": "The sentence indicates an improvement in the labor market, with increased new posts and recruitment, and a decline in dismissals, which suggests a dovish stance as it may lead to a more accommodative monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=57, prompt_tokens=209, total_tokens=266, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFdv3-4yUbBN-93099eb968e7e600', created=1744700993, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence suggests that inflation expectations are close to the midpoint of the target range, indicating a stable and neutral monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=214, total_tokens=257, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFdvC-4yUbBN-93099eb96d048206', created=1744700993, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The expectation of positive growth indicates a optimistic outlook, which is typically associated with a dovish stance that favors accommodative monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=184, total_tokens=230, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFdv4-4yUbBN-93099eb96d99c978', created=1744700993, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The forecasted rise in the policy rate indicates a tightening of monetary policy, which is a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=198, total_tokens=239, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFdv8-4yUbBN-93099eb9697e05a2', created=1744700993, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The decline in inflation expectations suggests that the market expects a more accommodative monetary policy, which is a dovish signal."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=203, total_tokens=247, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAFeEH-4yUbBN-93099ebffd800626', created=1744700994, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The cut in the interest rate and the subsequent fall in the expected real interest rate indicate an accommodative monetary policy stance, which is characteristic of a dovish approach."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=53, prompt_tokens=223, total_tokens=276, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFeE6-4yUbBN-93099ebffeade600', created=1744700994, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence does not mention the Bank of Israel or its monetary policy, instead discussing Europe\'s growth rate, making it irrelevant to the task."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=198, total_tokens=240, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFeED-4yUbBN-93099ebff8238206', created=1744700994, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence does not provide any information about the Bank of Israel\'s monetary policy stance, as it only mentions geopolitical risks without indicating any specific action or direction."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=174, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFeEC-4yUbBN-93099ebffd46c978', created=1744700994, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The sentence suggests a strong economy with increasing wage payments, which may lead the Bank of Israel to consider tightening monetary policy to prevent inflation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=206, total_tokens=247, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFeEG-4yUbBN-93099ebfff2405a2', created=1744700994, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence expresses concern about the potential negative impact of currency appreciation on exports, which implies a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=199, total_tokens=244, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 03:09:55,698 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The cut in the interest rate and the subsequent fall in the expected real interest rate indicate an accommodative monetary policy stance, which is characteristic of a dovish approach."
+}
+2025-04-15 03:09:55,698 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence does not mention the Bank of Israel or its monetary policy, instead discussing Europe's growth rate, making it irrelevant to the task."
+}
+2025-04-15 03:09:55,698 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence does not provide any information about the Bank of Israel's monetary policy stance, as it only mentions geopolitical risks without indicating any specific action or direction."
+}
+2025-04-15 03:09:55,698 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The sentence suggests a strong economy with increasing wage payments, which may lead the Bank of Israel to consider tightening monetary policy to prevent inflation."
+}
+2025-04-15 03:09:55,698 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence expresses concern about the potential negative impact of currency appreciation on exports, which implies a more accommodative monetary policy stance."
+}
+2025-04-15 03:09:55,698 - together_inference - INFO - Processing batch 19/30 with 5 sentences.
+2025-04-15 03:09:55,698 - together_inference - INFO - Processing batch 19/30
+2025-04-15 03:09:56,852 - together_inference - INFO - Completed batch 19/30
+2025-04-15 03:09:56,852 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence presents a mixed picture of the economy, with moderating growth and strong consumption activity, indicating a neutral stance."
+}
+2025-04-15 03:09:56,852 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence provides regional employment data without indicating any clear trend or implication for the overall economy, making it neutral in terms of monetary policy stance."
+}
+2025-04-15 03:09:56,852 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence does not mention the Bank of Israel's monetary policy meeting or any related decisions, making it irrelevant for classification."
+}
+2025-04-15 03:09:56,852 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies a higher-than-expected deficit, which may lead to a more accommodative monetary policy stance to support economic growth."
+}
+2025-04-15 03:09:56,853 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies that the Bank of Israel's interest rate was higher than the ECB rate, suggesting a tighter monetary policy stance, which is characteristic of a hawkish stance."
+}
+2025-04-15 03:09:56,853 - together_inference - INFO - Processing batch 20/30 with 5 sentences.
+2025-04-15 03:09:56,853 - together_inference - INFO - Processing batch 20/30
+2025-04-15 03:09:57,694 - together_inference - INFO - Completed batch 20/30
+2025-04-15 03:09:57,694 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence expresses caution about market volatility and sensitivity to global economic developments, but does not explicitly indicate a bias towards tightening or easing monetary policy."
+}
+2025-04-15 03:09:57,694 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence neither indicates a tightening nor an easing of monetary policy, instead, it provides a neutral analysis of the exchange rate movement."
+}
+2025-04-15 03:09:57,694 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The strong growth in tax income suggests a robust economy, which may lead the Bank of Israel to consider tightening monetary policy to prevent overheating."
+}
+2025-04-15 03:09:57,694 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests that the Bank of Israel should not raise the interest rate due to global financial instability and slowing economic growth, indicating a dovish stance."
+}
+2025-04-15 03:09:57,694 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence only reports on home prices without providing any indication of the Bank of Israel's stance or decision on monetary policy."
+}
+2025-04-15 03:09:57,694 - together_inference - INFO - Processing batch 21/30 with 5 sentences.
+2025-04-15 03:09:57,694 - together_inference - INFO - Processing batch 21/30
+2025-04-15 03:09:59,040 - together_inference - INFO - Completed batch 21/30
+
+[ModelResponse(id='nqAFeb4-4yUbBN-93099ec77bea0626', created=1744700995, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence presents a mixed picture of the economy, with moderating growth and strong consumption activity, indicating a neutral stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=189, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFear-4yUbBN-93099ec77e99e600', created=1744700995, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence provides regional employment data without indicating any clear trend or implication for the overall economy, making it neutral in terms of monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=201, total_tokens=242, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFeb2-4yUbBN-93099ec77c5b8206', created=1744700995, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence does not mention the Bank of Israel\'s monetary policy meeting or any related decisions, making it irrelevant for classification."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=228, total_tokens=266, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFeav-4yUbBN-93099ec77cb505a2', created=1744700995, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies a higher-than-expected deficit, which may lead to a more accommodative monetary policy stance to support economic growth."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=229, total_tokens=275, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFeau-4yUbBN-93099ec77fa5c978', created=1744700995, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies that the Bank of Israel\'s interest rate was higher than the ECB rate, suggesting a tighter monetary policy stance, which is characteristic of a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=53, prompt_tokens=190, total_tokens=243, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAFevk-4yUbBN-93099ecea9920626', created=1744700996, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence expresses caution about market volatility and sensitivity to global economic developments, but does not explicitly indicate a bias towards tightening or easing monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=200, total_tokens=246, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFevj-4yUbBN-93099eceae1ae600', created=1744700996, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence neither indicates a tightening nor an easing of monetary policy, instead, it provides a neutral analysis of the exchange rate movement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=202, total_tokens=246, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFevo-4yUbBN-93099eceafc38206', created=1744700996, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The strong growth in tax income suggests a robust economy, which may lead the Bank of Israel to consider tightening monetary policy to prevent overheating."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=200, total_tokens=242, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFevk-4yUbBN-93099eceaa50c978', created=1744700996, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests that the Bank of Israel should not raise the interest rate due to global financial instability and slowing economic growth, indicating a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=196, total_tokens=246, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFevn-4yUbBN-93099ecea97205a2', created=1744700996, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence only reports on home prices without providing any indication of the Bank of Israel\'s stance or decision on monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=226, total_tokens=268, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAFfB1-4yUbBN-93099ed3dd5c0626', created=1744700997, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence mentions \'positive\' data on the US economy, implying a strong economy that may warrant higher interest rates, which is a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=221, total_tokens=270, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFfAz-4yUbBN-93099ed3dd4505a2', created=1744700997, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence indicates that the inflation rate is within the target range, suggesting that the Bank of Israel\'s monetary policy stance is likely to remain unchanged."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=184, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFfB2-4yUbBN-93099ed3da92e600', created=1744700997, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests a decrease in inflationary pressures, which implies a dovish stance as it reduces the need for monetary policy tightening."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=208, total_tokens=254, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFfBM-4yUbBN-93099ed3da818206', created=1744700997, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence does not provide any direct indication of the Bank of Israel\'s monetary policy stance, instead focusing on market volatility and liquidity."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=187, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFfAv-4yUbBN-93099ed3deb6c978', created=1744700997, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests an influx of long-term capital into the economy, which is typically associated with a dovish stance as it implies a more accommodative monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=52, prompt_tokens=189, total_tokens=241, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 03:09:59,047 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence mentions 'positive' data on the US economy, implying a strong economy that may warrant higher interest rates, which is a hawkish stance."
+}
+2025-04-15 03:09:59,047 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence indicates that the inflation rate is within the target range, suggesting that the Bank of Israel's monetary policy stance is likely to remain unchanged."
+}
+2025-04-15 03:09:59,047 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests a decrease in inflationary pressures, which implies a dovish stance as it reduces the need for monetary policy tightening."
+}
+2025-04-15 03:09:59,047 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence does not provide any direct indication of the Bank of Israel's monetary policy stance, instead focusing on market volatility and liquidity."
+}
+2025-04-15 03:09:59,047 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests an influx of long-term capital into the economy, which is typically associated with a dovish stance as it implies a more accommodative monetary policy."
+}
+2025-04-15 03:09:59,047 - together_inference - INFO - Processing batch 22/30 with 5 sentences.
+2025-04-15 03:09:59,048 - together_inference - INFO - Processing batch 22/30
+2025-04-15 03:10:00,077 - together_inference - INFO - Completed batch 22/30
+2025-04-15 03:10:00,078 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The expected interest rate of 3.75% or 4% is higher than the expected inflation rate of 2.4%, indicating a tightening of monetary policy to combat inflation."
+}
+2025-04-15 03:10:00,078 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies that the central bank (the Fed) is not concerned about inflation, expecting it to decline again, which suggests a dovish stance."
+}
+2025-04-15 03:10:00,078 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The narrowing of the yield gap between Israeli and US government bonds suggests a decrease in market expectations of future interest rate hikes, indicating a dovish stance."
+}
+2025-04-15 03:10:00,078 - together_inference - INFO - Response: {
+"label": "dovish",
+"justification": "The narrowing of spreads in the corporate bond market, particularly for lower-rated companies, suggests easier credit conditions, which is a dovish signal."
+}
+2025-04-15 03:10:00,078 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence expresses a balanced approach, mentioning both price stability and support for growth and employment, without indicating a bias towards tightening or easing monetary policy."
+}
+2025-04-15 03:10:00,078 - together_inference - INFO - Processing batch 23/30 with 5 sentences.
+2025-04-15 03:10:00,078 - together_inference - INFO - Processing batch 23/30
+2025-04-15 03:10:01,476 - together_inference - INFO - Completed batch 23/30
+2025-04-15 03:10:01,477 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence does not explicitly mention the Bank of Israel's monetary policy stance, instead focusing on the impact of geopolitical reality and fiscal policy management."
+}
+2025-04-15 03:10:01,477 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The increase in long-term yields suggests a hawkish stance, as it implies higher borrowing costs and reduced stimulus in the economy."
+}
+2025-04-15 03:10:01,477 - together_inference - INFO - Response: {
+"label": "dovish",
+"justification": "The sentence implies potential harm to certain industries, suggesting a cautious or accommodative monetary policy stance."
+}
+2025-04-15 03:10:01,477 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies that the Bank of Israel's interest rate was lower than the ECB rate, suggesting a more accommodative monetary policy stance."
+}
+2025-04-15 03:10:01,477 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence does not provide a clear stance on the Bank of Israel's monetary policy, instead comparing it to other central banks and emerging markets."
+}
+2025-04-15 03:10:01,477 - together_inference - INFO - Processing batch 24/30 with 5 sentences.
+2025-04-15 03:10:01,477 - together_inference - INFO - Processing batch 24/30
+2025-04-15 03:10:02,501 - together_inference - INFO - Completed batch 24/30
+
+[ModelResponse(id='nqAFfac-4yUbBN-93099edc5cff0626', created=1744700999, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The expected interest rate of 3.75% or 4% is higher than the expected inflation rate of 2.4%, indicating a tightening of monetary policy to combat inflation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=56, prompt_tokens=201, total_tokens=257, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFfaY-4yUbBN-93099edc5f7de600', created=1744700999, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies that the central bank (the Fed) is not concerned about inflation, expecting it to decline again, which suggests a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=197, total_tokens=247, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFfaa-4yUbBN-93099edc5f498206', created=1744700999, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The narrowing of the yield gap between Israeli and US government bonds suggests a decrease in market expectations of future interest rate hikes, indicating a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=205, total_tokens=255, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFfak-4yUbBN-93099edc5b0e05a2', created=1744700999, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "dovish",\n"justification": "The narrowing of spreads in the corporate bond market, particularly for lower-rated companies, suggests easier credit conditions, which is a dovish signal."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=179, total_tokens=222, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFfaV-4yUbBN-93099edc5aabc978', created=1744700999, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence expresses a balanced approach, mentioning both price stability and support for growth and employment, without indicating a bias towards tightening or easing monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=217, total_tokens=264, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAFftE-4yUbBN-93099ee2b9f60626', created=1744701000, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence does not explicitly mention the Bank of Israel\'s monetary policy stance, instead focusing on the impact of geopolitical reality and fiscal policy management."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=195, total_tokens=241, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFft6-4yUbBN-93099ee2cfe9e600', created=1744701000, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The increase in long-term yields suggests a hawkish stance, as it implies higher borrowing costs and reduced stimulus in the economy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=183, total_tokens=227, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFftC-4yUbBN-93099ee2cf3505a2', created=1744701000, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "dovish",\n"justification": "The sentence implies potential harm to certain industries, suggesting a cautious or accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=184, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFft5-4yUbBN-93099ee2c99fc978', created=1744701000, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies that the Bank of Israel\'s interest rate was lower than the ECB rate, suggesting a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=190, total_tokens=237, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFftF-4yUbBN-93099ee2ca508206', created=1744701000, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence does not provide a clear stance on the Bank of Israel\'s monetary policy, instead comparing it to other central banks and emerging markets."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=201, total_tokens=247, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAFgJP-4yUbBN-93099eeb78f20626', created=1744701001, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence indicates stability in interest rate expectations, implying no change in the monetary policy stance, which is a neutral signal."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=177, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFgJF-4yUbBN-93099eeb7e7fe600', created=1744701001, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence only reports a moderate growth rate of 2.5% without providing any context or indication of the Bank of Israel\'s stance or future actions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=179, total_tokens=228, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFgJB-4yUbBN-93099eeb7fc5c978', created=1744701001, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The mention of high uncertainty surrounding the forecast implies a cautious approach, which is characteristic of a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=175, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFgJN-4yUbBN-93099eeb7f138206', created=1744701001, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies that the Bank of Israel expects a decline in demand, which will moderate price increases, suggesting a less hawkish stance on inflation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=194, total_tokens=243, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFgJH-4yUbBN-93099eeb7e2b05a2', created=1744701001, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence highlights that inflation remains above target in most countries, suggesting that the Bank of Israel may need to maintain a tight monetary policy to combat inflationary pressures."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=51, prompt_tokens=205, total_tokens=256, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 03:10:02,505 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence indicates stability in interest rate expectations, implying no change in the monetary policy stance, which is a neutral signal."
+}
+2025-04-15 03:10:02,505 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence only reports a moderate growth rate of 2.5% without providing any context or indication of the Bank of Israel's stance or future actions."
+}
+2025-04-15 03:10:02,505 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The mention of high uncertainty surrounding the forecast implies a cautious approach, which is characteristic of a dovish stance."
+}
+2025-04-15 03:10:02,505 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies that the Bank of Israel expects a decline in demand, which will moderate price increases, suggesting a less hawkish stance on inflation."
+}
+2025-04-15 03:10:02,505 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence highlights that inflation remains above target in most countries, suggesting that the Bank of Israel may need to maintain a tight monetary policy to combat inflationary pressures."
+}
+2025-04-15 03:10:02,505 - together_inference - INFO - Processing batch 25/30 with 5 sentences.
+2025-04-15 03:10:02,505 - together_inference - INFO - Processing batch 25/30
+2025-04-15 03:10:04,084 - together_inference - INFO - Completed batch 25/30
+2025-04-15 03:10:04,091 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The decrease in the yield on 5-year CPI-indexed bonds suggests a decrease in expected inflation, which is a dovish signal for monetary policy."
+}
+2025-04-15 03:10:04,091 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The increase in interest rates on CPI indexed and unindexed floating rate mortgages suggests a tightening of monetary policy, which is a hawkish stance."
+}
+2025-04-15 03:10:04,091 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The governor's decision to leave the interest rate unchanged suggests a neutral stance, as it neither tightens nor loosens monetary policy."
+}
+2025-04-15 03:10:04,091 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies that the current trend is not conducive to achieving the inflation target, suggesting that the Bank of Israel may need to tighten its monetary policy."
+}
+2025-04-15 03:10:04,091 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence discusses the government's revenue forecast and does not provide any information about the Bank of Israel's monetary policy stance or interest rates."
+}
+2025-04-15 03:10:04,091 - together_inference - INFO - Processing batch 26/30 with 5 sentences.
+2025-04-15 03:10:04,091 - together_inference - INFO - Processing batch 26/30
+2025-04-15 03:10:05,279 - together_inference - INFO - Completed batch 26/30
+2025-04-15 03:10:05,280 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies that the Bank of Israel is unlikely to raise interest rates due to the dovish tone set by the ECB president and the drop in commodity prices."
+}
+2025-04-15 03:10:05,280 - together_inference - INFO - Response: {
+"label": "dovish",
+"justification": "The sentence mentions a decline in manufacturing production, which could imply a need for accommodative monetary policy, hence a dovish stance."
+}
+2025-04-15 03:10:05,280 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The withdrawal of a large amount of money (NIS 10 billion) in a short period suggests a tightening of monetary policy, which is a hawkish stance."
+}
+2025-04-15 03:10:05,281 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies a rise in interest rates, which is a hawkish stance, as it suggests a tightening of monetary policy to combat inflation or other economic concerns."
+}
+2025-04-15 03:10:05,281 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests a leaning towards a more accommodative stance, as one committee member supported a rate cut, indicating a dovish tone."
+}
+2025-04-15 03:10:05,281 - together_inference - INFO - Processing batch 27/30 with 5 sentences.
+2025-04-15 03:10:05,281 - together_inference - INFO - Processing batch 27/30
+2025-04-15 03:10:06,430 - together_inference - INFO - Completed batch 27/30
+
+[ModelResponse(id='nqAFgbw-4yUbBN-93099ef1eec7e600', created=1744701002, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The decrease in the yield on 5-year CPI-indexed bonds suggests a decrease in expected inflation, which is a dovish signal for monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=195, total_tokens=245, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFgc6-4yUbBN-93099ef1eecf0626', created=1744701002, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The increase in interest rates on CPI indexed and unindexed floating rate mortgages suggests a tightening of monetary policy, which is a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=193, total_tokens=240, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFgbz-4yUbBN-93099ef1e8b5c978', created=1744701002, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The governor\'s decision to leave the interest rate unchanged suggests a neutral stance, as it neither tightens nor loosens monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=180, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFgc4-4yUbBN-93099ef1eb0c8206', created=1744701002, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies that the current trend is not conducive to achieving the inflation target, suggesting that the Bank of Israel may need to tighten its monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=177, total_tokens=226, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFgc2-4yUbBN-93099ef1eb7105a2', created=1744701002, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence discusses the government\'s revenue forecast and does not provide any information about the Bank of Israel\'s monetary policy stance or interest rates."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=208, total_tokens=248, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAFh64-4yUbBN-93099efbee9b0626', created=1744701004, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies that the Bank of Israel is unlikely to raise interest rates due to the dovish tone set by the ECB president and the drop in commodity prices."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=52, prompt_tokens=246, total_tokens=298, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFh5n-4yUbBN-93099efbe8eae600', created=1744701004, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "dovish",\n"justification": "The sentence mentions a decline in manufacturing production, which could imply a need for accommodative monetary policy, hence a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=180, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFh5U-4yUbBN-93099efbea31c978', created=1744701004, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The withdrawal of a large amount of money (NIS 10 billion) in a short period suggests a tightening of monetary policy, which is a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=52, prompt_tokens=176, total_tokens=228, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFh5d-4yUbBN-93099efbe8678206', created=1744701004, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies a rise in interest rates, which is a hawkish stance, as it suggests a tightening of monetary policy to combat inflation or other economic concerns."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=51, prompt_tokens=217, total_tokens=268, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFh5W-4yUbBN-93099efbeaea05a2', created=1744701004, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests a leaning towards a more accommodative stance, as one committee member supported a rate cut, indicating a dovish tone."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=191, total_tokens=238, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAFhS6-4yUbBN-93099f035c1e0626', created=1744701005, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence reports stable CPI and higher tax revenues, indicating a neutral monetary policy stance as there is no clear indication of inflationary pressures or economic slowdown."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=231, total_tokens=279, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFhSG-4yUbBN-93099f035bf88206', created=1744701005, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests a recovery in employee recruitment, implying a positive economic outlook, which is consistent with a dovish monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=194, total_tokens=240, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFhSQ-4yUbBN-93099f035b24e600', created=1744701005, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The rise in nominal yields on short-term instruments suggests a tightening of monetary policy, indicating a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=187, total_tokens=228, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFhS5-4yUbBN-93099f035d74c978', created=1744701005, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies that the tightening of credit terms slowed economic activity, indicating a restrictive monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=175, total_tokens=214, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFhS9-4yUbBN-93099f03584605a2', created=1744701005, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence simply presents a factual summary of the economic situation without expressing any opinion or bias, making it a neutral statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=207, total_tokens=244, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 03:10:06,430 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence reports stable CPI and higher tax revenues, indicating a neutral monetary policy stance as there is no clear indication of inflationary pressures or economic slowdown."
+}
+2025-04-15 03:10:06,430 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests a recovery in employee recruitment, implying a positive economic outlook, which is consistent with a dovish monetary policy stance."
+}
+2025-04-15 03:10:06,430 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The rise in nominal yields on short-term instruments suggests a tightening of monetary policy, indicating a hawkish stance."
+}
+2025-04-15 03:10:06,430 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies that the tightening of credit terms slowed economic activity, indicating a restrictive monetary policy stance."
+}
+2025-04-15 03:10:06,430 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence simply presents a factual summary of the economic situation without expressing any opinion or bias, making it a neutral statement."
+}
+2025-04-15 03:10:06,430 - together_inference - INFO - Processing batch 28/30 with 5 sentences.
+2025-04-15 03:10:06,430 - together_inference - INFO - Processing batch 28/30
+2025-04-15 03:10:07,721 - together_inference - INFO - Completed batch 28/30
+2025-04-15 03:10:07,722 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence indicates that the Bank of Israel is maintaining its accommodative stance by holding onto securities it had purchased, which suggests a dovish monetary policy stance."
+}
+2025-04-15 03:10:07,722 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence indicates a plan to increase interest rates to combat inflation, which is a hawkish stance."
+}
+2025-04-15 03:10:07,722 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence highlights potential adverse impacts on demand and appreciation pressures on the shekel, implying a cautious and accommodative monetary policy stance."
+}
+2025-04-15 03:10:07,722 - together_inference - INFO - Response: {
+"label": "dovish",
+"justification": "The sentence implies that interest rates are expected to remain high for a longer period but then decrease, which suggests a dovish stance as it hints at future easing."
+}
+2025-04-15 03:10:07,722 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence only reports on tax revenues without providing any information about the Bank of Israel's monetary policy stance or decisions."
+}
+2025-04-15 03:10:07,722 - together_inference - INFO - Processing batch 29/30 with 5 sentences.
+2025-04-15 03:10:07,722 - together_inference - INFO - Processing batch 29/30
+2025-04-15 03:10:09,126 - together_inference - INFO - Completed batch 29/30
+2025-04-15 03:10:09,126 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies a positive outlook on the economy, which may lead to a more accommodative monetary policy stance."
+}
+2025-04-15 03:10:09,126 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The decline in exports suggests a slowdown in economic growth, which may lead the Bank of Israel to adopt a more accommodative monetary policy stance."
+}
+2025-04-15 03:10:09,126 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests that the committee is maintaining an accommodative stance, with low interest rates and continued government bond purchases, to support economic recovery and inflation."
+}
+2025-04-15 03:10:09,126 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies a positive outlook on the crisis solution, reflected in positive financial market returns, which suggests a more accommodative monetary policy stance."
+}
+2025-04-15 03:10:09,126 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The lowered inflation forecasts suggest a reduced need for monetary tightening, implying a dovish stance."
+}
+2025-04-15 03:10:09,126 - together_inference - INFO - Processing batch 30/30 with 5 sentences.
+2025-04-15 03:10:09,126 - together_inference - INFO - Processing batch 30/30
+2025-04-15 03:10:10,347 - together_inference - INFO - Completed batch 30/30
+
+[ModelResponse(id='nqAFhmb-4yUbBN-93099f0a7e39e600', created=1744701006, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence indicates that the Bank of Israel is maintaining its accommodative stance by holding onto securities it had purchased, which suggests a dovish monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=51, prompt_tokens=176, total_tokens=227, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFhmq-4yUbBN-93099f0a79540626', created=1744701006, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence indicates a plan to increase interest rates to combat inflation, which is a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=221, total_tokens=260, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFhmi-4yUbBN-93099f0a7de405a2', created=1744701006, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence highlights potential adverse impacts on demand and appreciation pressures on the shekel, implying a cautious and accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=221, total_tokens=267, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFhn3-4yUbBN-93099f0a7f608206', created=1744701006, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "dovish",\n"justification": "The sentence implies that interest rates are expected to remain high for a longer period but then decrease, which suggests a dovish stance as it hints at future easing."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=226, total_tokens=273, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFhmd-4yUbBN-93099f0a7ef1c978', created=1744701006, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence only reports on tax revenues without providing any information about the Bank of Israel\'s monetary policy stance or decisions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=204, total_tokens=240, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAFi9y-4yUbBN-93099f128f8e0626', created=1744701007, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies a positive outlook on the economy, which may lead to a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=178, total_tokens=220, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFi9r-4yUbBN-93099f128b95e600', created=1744701007, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The decline in exports suggests a slowdown in economic growth, which may lead the Bank of Israel to adopt a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=187, total_tokens=235, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFiA1-4yUbBN-93099f128b368206', created=1744701007, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests that the committee is maintaining an accommodative stance, with low interest rates and continued government bond purchases, to support economic recovery and inflation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=219, total_tokens=269, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFi9u-4yUbBN-93099f128d2ac978', created=1744701007, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies a positive outlook on the crisis solution, reflected in positive financial market returns, which suggests a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=201, total_tokens=249, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFi9y-4yUbBN-93099f128bfc05a2', created=1744701007, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The lowered inflation forecasts suggest a reduced need for monetary tightening, implying a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=197, total_tokens=235, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAFiaH-4yUbBN-93099f1b5fe30626', created=1744701009, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence simply describes the process of the monetary committee\'s discussion without providing any information about the direction or tone of the interest rate decision, making it neutral."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=238, total_tokens=282, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFiaF-4yUbBN-93099f1b5d6be600', created=1744701009, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The majority of participating members recommended an interest rate increase, indicating a bias towards tightening monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=205, total_tokens=243, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFiaQ-4yUbBN-93099f1b5ff08206', created=1744701009, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence does not mention the Bank of Israel\'s monetary policy or any decisions related to interest rates, inflation, or economic growth."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=178, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFiaM-4yUbBN-93099f1b5a3805a2', created=1744701009, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies that the committee is not concerned about inflationary pressures from labor market tightness, suggesting a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=192, total_tokens=237, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAFiaT-4yUbBN-93099f1b5b43c978', created=1744701009, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies that the market does not expect an interest rate hike, which suggests a dovish stance, indicating a more accommodative monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=189, total_tokens=238, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 03:10:10,356 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence simply describes the process of the monetary committee's discussion without providing any information about the direction or tone of the interest rate decision, making it neutral."
+}
+2025-04-15 03:10:10,357 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The majority of participating members recommended an interest rate increase, indicating a bias towards tightening monetary policy."
+}
+2025-04-15 03:10:10,357 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence does not mention the Bank of Israel's monetary policy or any decisions related to interest rates, inflation, or economic growth."
+}
+2025-04-15 03:10:10,357 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies that the committee is not concerned about inflationary pressures from labor market tightness, suggesting a dovish stance."
+}
+2025-04-15 03:10:10,357 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies that the market does not expect an interest rate hike, which suggests a dovish stance, indicating a more accommodative monetary policy."
+}
+2025-04-15 03:10:10,360 - together_inference - INFO - Inference completed. Returning DataFrame with 150 rows.
+2025-04-15 03:10:10,361 - together_inference - INFO - Time taken for inference: 37.83581495285034
+2025-04-15 03:10:10,373 - together_inference - INFO - Inference completed for stance. Results saved to /Users/hp/Desktop/global-central-banks/llm_inference_output/bank_of_israel/stance_together_ai/meta-llama/Llama-3-70b-chat-hf_20250415_5768.csv
+

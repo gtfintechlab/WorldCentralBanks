@@ -1,0 +1,270 @@
+**Minutes of the Banco de la Republica Board of Director’s meeting on**
+
+**December 16, 2011**
+
+On December 16, 2011, the regular meeting of the Board of Directors of the Banco de la
+Republica was held in the city of Bogota.
+
+Present were:
+
+Juan Carlos Echeverry, Minister of the Treasury and Public Credit
+Jose Dario Uribe, the General Director
+Full‐time Board members present: Carlos Gustavo Cano, Juan Jose Echavarria, Fernando
+Tenjo, Juan Pablo Zarate and Cesar Vallejo
+
+The inflationary and economic growth situations as well as the outlook for both were
+discussed and decisions were made with respect to monetary policy. Below is a summary
+of the main topics dealt with in this meeting.
+
+**1. BACKGROUND**
+
+a. Recent developments in inflation:
+
+Annual consumer inflation in November was 3.96% (0.14% monthly), 6 basis points (bp)
+lower than in October. The adjustment of accumulated prices over the course of the year is
+3.29%, which is higher than what had been registered during the same period last year
+(2.51%).
+
+The drop in total inflation during the month was mainly due to the slowdown in the
+variation of food prices. The CPI excluding food, in turn, remained at 3.03%. This was the
+result of a decline in the annual change in the CPI for regulated items that offset the
+increase in the CPI for tradables and non‐tradables (excluding food and regulated items).
+
+In the case of the CPI for food the annual change went from 6.6% in October to 6.4% in
+November as a result of which the accumulated six‐month rising trend has been
+interrupted. In terms of annual variations, the declines were concentrated in perishables
+as they went from 17.6% in October to 14.6% in November. For the majority of the other
+subgroups in the basket, there was an upswing in the annual change. In the case of
+potatoes and fruit, there have been absolute drops in prices that occurred after a period of
+significant rises. This suggests that the recent movements have been associated with the
+normal supply cycle for these products. So far, the intense rainfall caused by the Niña
+phenomenon has not caused an interruption in the supply chain for food except in the case
+of milk and eggs. The prices for imported food have registered few rises in the last few
+months in spite of the depreciation of the peso. This could be linked to some declines that
+have been seen in international prices.
+
+
+-----
+
+The slowdown in the basket for regulated prices (a fall of 48 bp compared to October) was
+due to a correction in the fees for electricity in Cali after a sharp rise that was registered
+two months ago. In the case of the domestic price for gas and the prices for public
+transportation, there were no significant changes in November, but there was a significant
+rise in the cost of natural gas. This was the item that exercised the most upward pressure
+on that sub‐basket.
+
+The CPI for tradables excluding food and regulated prices, in turn, was at 0.6% (annual
+variation) compared to 0.4% the previous month. For several months this group has been
+showing increases that are related to the depreciation of the exchange rate in the second
+half of the year.
+
+With respect to the non‐tradables excluding food and regulated prices, the annual change
+in November was 3.6%. Rent, which is the main component of this basket, showed a slight
+upward trend which, nonetheless, does not imply any annual readjustments that are much
+above 3% yet (3.3% in November).
+
+In spite of the fact that total inflation declined, core inflation continued to rising in
+November. The average for the three indicators monitored by the Banco de la Republica
+was at 3.34%, which is 7 bp more than the month before. Even if all of the indicators rose,
+they would still remain within the target range.
+
+Inflation expectations did not show significant changes in the last month. Those
+expectations obtained through the monthly survey as of December of this year are at 3.6%,
+which is the same as it was a month ago, and those for 12 months are at 3.4%, which is
+slightly above the responses in October.  The expectations obtained on the basis of the TES
+showed a slight dip after the increase registered the previous month. All of them except for
+the 10 year expectations stayed between 3.5% and 4.0%.
+
+In November, there was a significant reduction in the annual variation of the PPI (to 6.8%
+after 7.9% last month). The slowdown occurred in both the group of imported goods and
+the one of locally produced and consumed goods.
+
+b. Growth
+
+The latest indicators of economic activity for the third quarter of 2011 confirmed that the
+annual growth rate for the economy surged in comparison to what had been seen in the
+first half of the year. It also confirmed that the Colombian economy is still being driven
+mainly by domestic demand.
+
+In the information that was recently published, the most interesting was the data on public
+works projects for the third quarter. According to DANE, the indicator rose 22.8% in
+annual terms. The largest expansion within the area was in construction work associated
+with the mining sector. The census on building shows that there has been an increase of
+
+
+-----
+
+close to 10% annually in area occupied by buildings in the third quarter. Other quarterly
+indicators associated with the service sector (hotels, travel agencies) and livestock (animal
+slaughter) also showed favorable performance in the third quarter.
+
+The strong domestic demand for the period occurred within a framework of relatively low,
+real interest rates, high availability of loans, and a rise in employment. Under these
+conditions, household consumption has continued to show strong performance, especially
+in relationship to the purchases of durable goods. Investment has been driven by public
+works construction projects, by the purchases of machinery and transportation equipment,
+and by the expansion of housing.
+
+By branches of activity, the sectors that have registered higher rates of growth are
+construction and mining.
+
+The few indicators available for the fourth quarter of 2011 are showing a little slowdown in
+the rate of annual growth although their strength is still high. Sales of vehicles continued to
+rise per unit in November. Consumer confidence recovered in November after having
+dropped in the previous three months. The level of this indicator can still be considered
+high (it has been above its average since 2001). The consumer loan portfolio continues to
+expand at rates that are close to 25%.
+
+With respect to supply, most of the indicators associated with the industrial sector remain
+stable (orders, inventory, demand for electricity, etc.). ANDI also revealed that the growth
+of industrial production up to October was 6%, a figure that is similar to the one given a
+month earlier (6.1% for the year up to September).
+
+In October, total exports in dollars came to a value of US$4.713 million and grew 32.6%
+annually. This increase is mainly the result of mining exports. Foreign sales of agricultural
+commodities (coffee, bananas and flowers) declined 5.3% compared to the same month a
+year ago. This performance came from primarily the drop in the quantities of coffee (20%
+annually) and flowers (15.5% annually) sent. The rest of the exports excluding
+commodities registered an annual growth of 8.1% driven mainly by food, beverages and
+chemical products.
+
+In the labor market, the unemployment rate continued its declining trend. The monthly
+figure as of October was 9.0% for the national total and 10.2% for the thirteen main cities.
+With respect to the national total, this figure is the lowest for the last decade. Again, the
+larger growth of the labor demand (measured as the employment rate) in comparison to
+the growth of the labor supply (measured by the overall participation rate) explains the
+drop in the unemployment rate.
+
+The performance described is in line with what is contemplated in the September Inflation
+Report where there is a range of output growth for the entire year that is between 5% and
+6%.
+
+c. Financial Variables
+
+
+-----
+
+Total loans in national (NC) and foreign (FC) currency are maintaining high rates of growth.
+All of the types of credit including those for both household and business continue to
+register a growth that is well above the growth of economic activity.
+
+In November, the real interest rates (discounting the CPI excluding food) for consumer,
+mortgage and commercial loans were at 14.9%, 9.9%, and 8.3% respectively. These figures
+are lower than the averages that have been seen since 1998.
+
+d. Foreign Context
+
+The measures taken to overcome the European debt crisis after the meeting between the
+European Central Bank and the leaders of the European Union from December 7 to 9 seem
+to have been considered insufficient by the markets. This is what has been demonstrated
+by the recent increase in the interest on the Italian and Spanish 10‐year bonds and the drop
+of the euro to US$1.30, its lowest level since January of this year. As a result, the financial
+markets are remaining at high levels of volatility.
+
+The new information available suggests that the global economy is deteriorating at a higher
+rate than expected. In the euro zone, a very low rate of growth is projected for the last
+quarter of 2011 and the first one of 2012 with a high risk that it will go into negative
+territory. In particular, the marked deterioration of business and consumer expectations
+just like the lower rate of expansion in the largest economies in the region (Germany and
+France), causes them to anticipate a mediocre performance in 2012. Furthermore, the
+liquidity restrictions of the European banks, in spite of the cut in the benchmark interest
+rate (from 1.25% to 1%) and the new liquidity easing approved by the European Central
+Bank, threaten to strangle credit. Add to this the rigidity of the fiscal adjustment imposed
+by the new regulations, which limit the structural deficit to 0.5% of the GDP for member
+countries of the European Union. This could accentuate the slowdown in economic activity
+in the short term. In the United States, the better indicators for economic activity in the last
+few weeks have mitigated fears of a double recession. However, the foreign risks
+associated with Europe or a sharp slowdown in China could limit their rate of growth.
+
+In the emerging economies the data from the latest months show a sharper slowdown than
+was estimated in the central scenario in the September Inflation Report as a result of
+domestic and foreign factors. China and Brazil have begun to implement less restrictive
+monetary and fiscal policies in order to encourage domestic demand and counteract the
+effects of more limited foreign growth. In China, the fall in housing prices has begun to
+generate concern. During the last few years, construction has been the primary motor for
+growth in this economy and a crisis in that sector could cause a sharp slowdown.
+
+
+-----
+
+In terms of monetary policy, the advanced economies are holding to a lax position and
+some emerging economies such as Brazil and Thailand have begun to lower their
+benchmark rates. For the next few months, analysts expect that more economies will
+follow suit and help stimulate domestic demand in each country.
+
+The international prices for the main commodities have declined moderately. Specifically,
+the international price for petroleum is in the upper part of the range estimated in the last
+quarterly report. As a result, the terms of trade remain high and continue to drive national
+income.
+
+The biggest risk of the central growth forecasts is a disorderly adjustment in Europe. If this
+should materialize, the global economy will grow considerably less than expected, the
+international prices for commodities could fall and global risk aversion will be exacerbated.
+This will have an adverse effect on the Colombian economy. There is a lot of uncertainty
+about the magnitude of a tightening like that and its effects.
+
+**2. DISCUSSION AND POLICY OPTIONS**
+
+The majority of the Board thought it would be advisable to keep the Bank’s benchmark
+interest rates unaltered based on the balance between the foreign and domestic situations,
+a balance that is, nonetheless, highly sensitive to the new information available.
+
+The opinion of the Board was that, regarding the foreign front, the following points should
+be kept in mind: (i) The international financial markets are still showing high levels of
+volatility as a result of the sovereign debt problems in Europe. It is probable that the
+economies in the euro‐zone will shrink in the last quarter of 2011 and in the first half of
+2012, though there is high level of uncertainty about the magnitude of the contraction and
+its effects. (ii) If a disorderly adjustment should materialize in Europe, the worldwide
+economy will grow considerably less than expected, the international prices for
+commodities could fall, and global risk aversion would be exacerbated. All of this would
+adversely affect the Colombian economy. (iii) The United States economy may expand at a
+moderate rate and it is expected that it will continue to do so for a prolonged period. (iv)
+Various emerging economies have shown recent signs of a slowdown.
+
+In the domestic context, the following should be kept in mind: (i) The international prices
+for commodities remain at high levels and are stimulating the national income of producing
+countries. (ii) The most recent information on the performance of economic activity
+suggests that the growth of the GDP in the third quarter will surpass 6%. (iii) Commercial
+lending is growing at a high rate and seems to be surging. The performance of consumer
+loans suggests that households have raised their degree of leveraging considerably. (iv)
+The indices for new and used housing prices are still at their maximum registers. (v) The
+measurements of core inflation continue to rise and the majority are surpassing 3%. (vi)
+The information available shows that, as a result of the increases in the benchmark interest
+rates and the performance of other international and local variables, inflation expectations
+obtained through the TES stopped rising and even showed a slight drop and, (vii) signs
+that, even if the Colombian economy remains strong, this momentum could be moderating.
+
+
+-----
+
+The inflation expectations and forecasts are increasingly dominated by the expectations
+and predictions concerning the climate, which monetary policy lacks appropriate tools to
+deal with and, (viii) the probable impact of decisions regarding wages and labor
+regulations on inflation expectations and workings of the labor market.
+
+One member of the Board expressed as his opinion that the benchmark interest rates
+should be raised 25 bp based on the following: (i) The sectors in the domestic context of
+the Colombian economy that were pointed out indicate the need for an increase in the
+benchmark rate. As was mentioned before, the excessive growth of loans and the
+persistence of low interest rates could be a source of financial imbalances, while the
+excessive expansion in demand or increases in labor costs, could raise inflation
+expectations and lower the credibility of monetary policy in a context in which the core
+inflation indicators continue to grow and, (ii) even if the international financial markets
+remain at high levels of volatility as a result of the difficulties related to the sovereign debt
+problems in Europe, the level of uncertainty has not changed with respect to the previous
+month and the probability of a disorderly financial adjustment is low. In addition, the
+United States economy is expanding at a positive rate.
+
+**3. POLICY DECISION**
+
+The Board of Directors agreed by majority to keep the benchmark interest rate unaltered.
+
+The Board will continue to monitor the international situation, the inflation trend and
+projections, growth, and the performance of the asset markets carefully and reiterates that
+the monetary policy will depend on the new information available.
+
+Bogota, December 22, 2011
+
+
+-----
+

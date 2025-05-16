@@ -1,0 +1,292 @@
+# ��
+
+
+**HIGHLIGHTS OF THE MEETING OF THE MONETARY BOARD ON**
+
+**MONETARY POLICY ISSUES HELD ON 21 SEPTEMBER 2006***
+
+
+The Advisory Committee[1] submitted the following recommendations
+for the consideration of the Monetary Board:
+
+1) Maintain the current monetary policy settings as follows:
+
+(a) Maintain the BSP’s policy interest rates at 7.5 percent for the
+overnight RRP (borrowing) rate and 9.75 percent for the overnight RP
+(lending) rate; and
+
+(b) Maintain the current interest rates on term RRPs, RPs, and SDAs.
+
+2) Maintain the current reserve requirement ratios at 10 percent for regular
+reserves on the deposit liabilities of universal banks (UBs) and
+commercial banks (KBs), and 11 percent for liquidity reserves on the
+deposit liabilities of UBs and KBs; and
+
+3) Continue to articulate the BSP's support for the Government's use of nonmonetary measures to address supply-side risks to basic commodity
+prices and continue representation and coordination with concerned
+government agencies for this purpose.
+
+The Monetary Board then proceeded to review the recent
+developments and the key considerations in the formulation of the BSP’s
+monetary policy stance.
+
+**I. Review of Recent Developments**
+
+**Inflation**
+
+- Headline inflation continued to moderate in August, falling to 6.3 percent
+from 6.4 percent in July. This was due to slower price increases for fuel,
+light and water (FLW), as well as services and miscellaneous items.
+
+## ��������������������������������������������
+
+- The discussion presented herein reflects the assessment made by the Monetary Board based on the
+information available at the time of the policy meeting. The highlights of the discussions of the 21
+September 2006 meeting were approved by the Monetary Board during its regular meeting held on 12
+October 2006.
+1 The Advisory Committee is composed of the Governor of the BSP as Chairman and four members,
+namely: the Deputy Governor for the Monetary Stability Sector, the Deputy Governor for Supervision and
+Examination Sector, the Managing Director of the Treasury Department, and the Officer-In-Charge of the
+Department of Economic Research.
+
+**Page 1 of 1**
+
+
+-----
+
+Similarly, core inflation—defined as headline inflation after excluding
+volatile food and energy items—decelerated to 5.3 percent from 5.4
+percent in July.
+
+- International spot and futures prices of crude oil eased in August on
+higher US gasoline inventories and easing geopolitical tension over Iran’s
+nuclear program. Similarly, domestic pump prices of gasoline and
+kerosene were reduced during the month.
+
+**Demand**
+
+- Data continued to generally point to moderate demand conditions.
+
+��Gross Domestic Product (GDP) rose by 5.5 percent in the second
+quarter of 2006. This was higher than the year-ago growth rate of 5.4
+percent but lower than the first quarter’s 5.7 percent. Gross National
+Product (GNP) expanded by 6.6 percent, boosted by the double-digit
+growth in Net Factor Income from Abroad (NFIA).
+
+��Based on the results of the Monthly Integrated Survey of Selected
+Industries (MISSI), which covers 509 manufacturing establishments,
+average capacity utilization rose to 80.3 percent in June from a
+revised rate of 80.2 percent in May.
+
+��Growth in merchandise export earnings decelerated to 12.9 percent in
+July. This can be traced to the slowdown in manufactured exports
+which comprised 85.7 percent of total.
+
+��Growth in merchandise imports slowed to 7.7 percent in June due to
+lower growth in imports of capital goods and mineral fuels, lubricants
+and related materials.
+
+��Based on the new National Statistics Office (NSO) definition of
+unemployment, the jobless rate declined to 8.0 percent in July 2006
+from 8.2 percent in the previous quarter, but remained higher relative
+to the year-ago rate of 7.7 percent. The same trend was observed for
+the jobless rate using the old NSO definition of unemployment.[2]
+
+��Passenger car sales increased by 15.1 percent year-on-year in July,
+higher than the previous month’s 6.6 percent. Sales of trucks and
+
+## ��������������������������������������������
+2 Beginning in April 2005, the NSO released a new definition of unemployment, which covers all persons 15
+years old and over and are reported as: (1) without work and currently available for work and seeking work;
+or (2) without work and currently available for work but not seeking work for the following reasons:
+(a) tired/believed no work available; (b) awaiting results of previous job application; (c) temporary
+illness/disability; (d) bad weather; and (e) waiting for rehire/job recall. The old definition of unemployment
+did not consider the availability criterion.
+
+**Page 2 of 2**
+
+
+# ��
+
+Similarly, core inflation—defined as headline inflation after excluding
+volatile food and energy items—decelerated to 5.3 percent from 5.4
+
+
+-----
+
+buses surged by 56.9 percent year-on-year in July, reversing the 29.8
+percent decline in the previous month.
+
+��Appliance sales continued to decline, with total units sold falling by 20
+percent year-on-year in July.
+
+��Total energy sales by the Manila Electric Company (Meralco) declined
+for a second month, falling by 2.0 percent year-on-year in June. This
+was due to reduced energy consumption by all sectors except the
+industrial sector.
+
+��Based on data from Colliers International Research, property values in
+Metro Manila were unchanged in the second quarter relative to the
+previous quarter but were higher on a year-on-year basis. Meanwhile,
+the average office and residential vacancy rates in the Makati Central
+Business District continued to ease.
+
+## ��Results of the third quarter 2006 Business Expectations Survey (BES)
+showed that firms expect business activity to be robust in the fourth
+quarter in line with the seasonal increase in demand. Meanwhile, the
+third quarter 2006 Consumer Expectations Survey (CES) indicated a
+more cautious consumer outlook for the fourth quarter and the next 12
+months. �
+## ���
+**Domestic Liquidity**
+
+- Domestic liquidity, as measured by M3, rose by 13.2 percent year-on-year
+in July based on preliminary data from the BSP’s Depository Corporations
+Survey (DCS).[3] This was a slight deceleration from the 13.4 percent
+growth registered in June. Liquidity expansion continued to be driven by
+sustained inflows from overseas Filipino workers’ remittances and
+portfolio investments.
+
+- Outstanding loans of commercial banks (KBs) rose by 4.3 percent yearon-year in July, from a marginal decline of 0.6 percent in the previous
+month. The improvement was driven mainly by the growth in loans to the
+financial institutions, real estate and business services (FIREBS) sector
+and the community, social and personal services sector.
+
+**Other Domestic Developments**
+
+- The Bureau of Agricultural Statistics (BAS) reported a 5.1 percent
+increase in agricultural production for the first semester of 2006. This was
+
+## ��������������������������������������������
+3 The DCS, which replaced the Monetary Survey (MS) as the basis for measuring domestic liquidity,
+features an expanded list of surveyed institutions that includes the BSP, commercial banks, thrift banks,
+rural banks, non-stock savings and loan associations and non-banks with quasi-banking functions.
+
+**Page 3 of 3**
+
+
+# ��
+
+buses surged by 56.9 percent year-on-year in July, reversing the 29.8
+percent decline in the previous month.
+
+
+-----
+
+higher than the 1.4 percent growth recorded in the same period in 2005.
+Higher output growth was traced to the recovery of the crops subsector
+and increased fishery and livestock production.
+
+- Treasury bill (T-bill) auction rates eased across all tenors on 11
+September 2006 relative to 31 July 2006 due to continued strong demand
+for government securities amid ample market liquidity.
+
+- Positive market sentiment generated by sustained economic expansion
+and better-than-expected fiscal position for the first seven months resulted
+in the strengthening of the peso against the US dollar. Stronger regional
+currencies due partly to market expectations of a pause in the US
+tightening cycle, and sustained inflows from OFW remittances, export
+earnings and foreign investments likewise contributed to the peso’s
+appreciation.
+
+- The National Government (NG) generated a P14.3 billion fiscal surplus in
+August, which brought down the year-to-date fiscal deficit to P34.2 billion,
+57.7 percent lower than the deficit for the comparable period in 2005. The
+eight-month fiscal deficit is equivalent to less than a third of the full-year
+target of P125.0 billion.
+
+**External Developments**
+
+- Global economic activity was strong in the second quarter of 2006 on
+renewed strength of domestic consumption, continued growth in services,
+and steady improvements in corporate profits. Nonetheless, recent
+developments continued to indicate a rebalancing in the composition of
+global demand. A number of risks also remain, notably the volatility in
+international oil prices, disorderly unwinding of global imbalances, and
+unexpected tightening of financial markets. Risks to the outlook for prices
+remain on the upside, with inflationary pressures appearing to have
+increased in countries where sustained high rates of growth have
+absorbed spare capacity.
+
+- Major central banks maintained their policy rates at current levels despite
+indications of inflation pressures in their respective economies. The US
+Federal Open Market Committee (FOMC) kept the federal funds target
+rate steady at 5.25 percent in September as US economic growth
+moderated earlier this year. However, the FOMC maintained that further
+policy rate increases may be needed going forward to address existing
+inflation risks depending on the evolution of the outlook for inflation and
+output. The European Central Bank (ECB) Governing Council maintained
+key interest rates in August but remained of the view that a progressive
+withdrawal of monetary accommodation is warranted to help anchor
+medium to longer-term inflation expectations. Similarly, the Bank of
+England's Monetary Policy Committee kept its official bank rate steady at
+4.75 percent in September. The Bank of Japan decided in the same
+
+**Page 4 of 4**
+
+
+# ��
+
+higher than the 1.4 percent growth recorded in the same period in 2005.
+Higher output growth was traced to the recovery of the crops subsector
+
+
+-----
+
+month to maintain current policy settings at it encouraged the
+uncollateralized overnight call rate to remain at around 0.25 percent.
+
+**II. Key Considerations in the Formulation of the Monetary Policy**
+**Stance**
+
+- The Monetary Board was of the view that current monetary policy settings
+remained appropriate to prevailing demand and supply-side conditions.
+Forecasts continued to show a generally declining path for inflation, with
+average inflation for 2007 expected to settle within the 4-5 percent target
+in the absence of further adverse shocks. The stronger peso should help
+keep down the domestic prices of imported commodities, particularly
+crude oil, while the favorable outlook for agriculture should help ensure
+stable food prices.
+
+- Meanwhile, the continued easing of core inflation suggested minimal
+demand-based inflation pressures. Aggregate demand, to date, has been
+driven largely by consumer spending.
+
+- However, the Monetary Board also recognized that the inflation outlook
+remained at risk from energy-related cost-side pressures. These
+pressures stem mainly from the vulnerability of world oil prices to supply
+constraints and geopolitical disruptions. Potential shifts in the public’s
+inflation expectations will thus continue to require monitoring. The
+possibility of such shifts does not appear to be a pressing concern at the
+moment, but could become a risk in the future if cost pressures escalate
+more sharply than expected. This assessment applies equally to potential
+second-round pressures linked to wage-setting behavior. Liquidity
+conditions will also continue to be closely monitored in view of their
+potential impact on inflation.
+
+- With this assessment, the Monetary Board reiterated its strong
+commitment to achieving the inflation targets for the medium term and its
+readiness to act against emerging risks to the outlook for inflation and to
+inflation expectations.
+
+**III. Monetary Policy Decision**
+
+- After considering the risks to inflation and the evidence that has become
+available since its previous meeting on monetary policy, the Monetary
+Board unanimously approved the recommendations of the Advisory
+Committee.
+
+The next meeting of the Monetary Board to discuss the monetary
+policy setting is scheduled on 2 November 2006.
+
+**Page 5 of 5**
+
+
+# ��
+
+month to maintain current policy settings at it encouraged the
+uncollateralized overnight call rate to remain at around 0.25 percent.
+
+
+-----
+

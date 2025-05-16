@@ -1,0 +1,49 @@
+# Central Bank of Egypt
+
+**Press Release**
+
+August 13, 2020
+
+**The Monetary Policy Committee (MPC) decided to keep the Central Bank of Egypt’s (CBE)**
+**overnight deposit rate, overnight lending rate, and the rate of the main operation unchanged**
+**at 9.25 percent, 10.25 percent, and 9.75 percent, respectively. The discount rate was also kept**
+**unchanged at 9.75 percent.**
+
+Annual headline urban inflation declined to 4.2 percent in July 2020 from 5.6 percent in June
+2020, the lowest rate recorded since November 2019. The decline was due to continued muted
+inflationary pressures and supported by favorable base effects. Monthly headline urban inflation
+recorded 0.4 percent in July 2020 compared to 1.8 percent in July 2019, which incorporated the
+impact of the implemented fiscal consolidation measures to reach cost recovery for fuel products
+in 2019. July 2020 monthly headline urban inflation continued to reflect higher non-food prices
+and lower food prices for the third consecutive month. In the meantime, annual core inflation
+declined to 0.7 percent in July 2020 from 1.0 percent in June 2020, the lowest rate on record.
+
+Preliminary data show that real GDP growth for FY19/20 recorded 3.8 percent compared to 5.6
+percent in the first half of the fiscal year. This reflects the impact of the COVID-19 outbreak and
+the accompanying containment measures. Nevertheless, the contribution of the public sector to
+growth increased in 2020 Q1, particularly in the petroleum manufacturing sector, which
+supported economic activity during this period. Meanwhile, a number of leading indicators
+started showing signs of recovery in June and July 2020, in tandem with the easing of the
+containment measures. The unemployment rate recorded 9.2 percent in April 2020, compared
+to 7.7 and 8.0 percent in 2020 Q1 and 2019 Q4, respectively.
+
+Globally, economic activity remained weak despite some recovery associated with some ease of
+the COVID-19 related lock-down measures, which partly supported the recent increase of
+international oil prices. Meanwhile, global financial conditions continued to improve, supported
+mainly by policy measures despite the ongoing uncertainty.
+
+Annual headline inflation rate is expected to remain below the inflation target’s mid-point of 9.0
+percent on average during 2020 Q4. Yet with the ongoing high level of global uncertainty, and
+given the preemptive measures taken by the Central Bank of Egypt, including the reduction of
+300 basis points during the unscheduled MPC meeting on March 16, 2020, the MPC decided to
+keep key policy rates unchanged.
+
+The MPC closely monitors all economic developments and will not hesitate to utilize all available
+tools to support the recovery of economic activity, within its price stability mandate.
+
+**Monetary Policy Sector**
+[E-Mail: monetary.policy@cbe.org.eg](mailto:monetary.policy@cbe.org.eg)
+
+
+-----
+

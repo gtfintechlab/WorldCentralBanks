@@ -1,0 +1,240 @@
+# Minutes of the Monetary Policy Council decision-making meeting held
+
+ on 8 November 2023
+
+At the meeting, it was noted that the economic conditions in Poland’s largest trading
+
+partners remained weakened. At the same time, uncertainty about the activity outlook
+
+persisted in the external environment of the Polish economy. In 2023 Q3, annual GDP
+
+growth in the euro area had slowed down to 0.1%, and in Germany economic activity had
+
+declined. Available forecasts suggest that growth in the euro area would recover in 2024,
+
+albeit gradually. At the same time, the recovery would be fraught with uncertainty, among
+
+others, due to the effects of monetary policy tightening by the European Central Bank and
+
+also due to structural problems in some of the large euro area economies. In turn, in the
+
+United States the economic conditions remained favourable, and in 2023 Q3 activity
+
+growth had increased. However, it was pointed out that some of the recently published
+
+data, including data on the labour market, signalled the risk of a slowdown in this
+
+economy.
+
+The Council members observed that the disinflation process was advancing across the
+
+world. According to the Eurostat flash estimate, inflation had fallen to 2.9% in the euro
+
+area in October. Core inflation had also declined, although it remained higher. In Central
+
+and Eastern Europe price growth had also fallen. It was pointed out that according to the
+
+forecasts of the major central banks, further disinflation would, however, proceed more
+
+slowly. As a result, the inflation target in the euro area should be met in the second half of
+
+2025, and in the United States as late as 2026.
+
+It was underlined that the central banks in the euro area and in the United States had kept
+
+interest rates unchanged at their recent policy meetings. Certain Council members
+
+observed that both the European Central Bank and the Federal Reserve of the United
+
+States were signalling that their monetary policy would remain restrictive for an extended
+
+period.
+
+At the meeting it was noted that the heightened geopolitical tensions in the Middle East
+
+were a risk factor for the global economy. These tensions were pushing up prices of some
+
+commodities, although the scale of the impact had, so far, been limited.
+
+Amid the weakened global economic conditions, also in Poland activity growth remained
+
+low, although some data signal its gradual recovery. The Council members pointed out
+
+that in September 2023 retail sales had declined in annual terms, but the scale of the fall
+
+1/4
+
+
+-----
+
+had been smaller than in previous months. Industrial output had also declined in annual
+
+terms; however, in monthly terms and after seasonal adjustment it had risen. In turn, the
+
+growth in construction and assembly output had been the highest in more than a year.
+
+Moreover, a gradual improvement in consumer sentiment was highlighted. Taking into
+
+account monthly data, the Council members judged that GDP growth in 2023 Q3 had most
+
+likely been positive, although it had remained low.
+
+While analysing the labour market situation, the Council members noted that it remained
+
+good. Nevertheless, in September 2023 annual employment growth in the enterprise sector
+
+once again stood at zero. On the other hand, amid a marked fall in inflation, growth in real
+
+wages in this sector was positive. At the same time, nominal wage growth was gradually
+
+slowing down. Also survey results indicated that wage pressure was weakening
+
+somewhat. However, certain Council members drew attention to the fact that the
+
+percentage of firms planning wage increases remained above the long-term average.
+
+According to the majority of the Council members, the effects of the previous NBP
+
+monetary policy tightening were still observed in the credit market. The annual growth in
+
+lending to households continued to be negative, in particular, due to the decline in total
+
+volume of mortgage loans, despite some revival observed in this market segment.
+
+Whereas, consumer credit was rising, albeit at a relatively slow pace.
+
+While discussing the outlook for economic activity, the Council members pointed out that
+
+although in 2023 activity growth was low, in line with the NBP November projection the
+
+coming quarters would see GDP growth accelerate. It was also indicated that in 2023 GDP
+
+growth was to be lower than expected in July, while in the next two years it was to be
+
+somewhat faster. Yet, it was emphasised that output gap was expected to remain negative
+
+in the projection horizon, which would support the decline in inflation.
+
+At the meeting, it was pointed out that the annual CPI index had again fallen markedly in
+
+October 2023, running at 6.5% according to the Statistics Poland flash estimate. It was
+
+stressed that price growth had fallen in all the main components of the inflation basket,
+
+probably including also core inflation. It was assessed that this was the effect of the
+
+weakening of both demand and cost pressure, whose decline was reflected, in particular,
+
+in the negative annual PPI growth.
+
+While discussing the outlook for inflation in Poland, the majority of the Council members
+
+pointed out that in line with the November projection, inflation would decline in the
+
+coming quarters, albeit, as previously anticipated, the decline would be slower than to
+
+2/4
+
+
+-----
+
+date. It was emphasised that the projection assumed that inflation would return to the
+
+NBP inflation target, i.e. 2.5% ±1 percentage point, in 2025 Q4. Thus, it was assessed that
+
+the horizon of inflation returning to the target had not materially changed compared to
+
+the July projection, which resulted from the fact that lower NBP interest rates were offset
+
+with weaker demand pressure and lower inflation at the starting point of the projection.
+
+It was also indicated that the slightly higher inflation in 2025 assumed in the November
+
+projection compared to the July projection was the effect of higher food and energy prices
+
+amid unchanged average annual core inflation. Certain Council members pointed out that
+
+core inflation was to remain above the upper limit for deviations from the NBP inflation
+
+target until the end of the projection horizon.
+
+The Council members pointed out that inflation developments, both in the short- and
+
+medium-term, were fraught with uncertainty, including the uncertainty related to the
+
+future course of fiscal and regulatory policies. Special attention was drawn to the
+
+uncertainty about future VAT rates on food products and the uncertainty related to energy
+
+price regulations as well as other elements of fiscal policy in the coming years.
+
+The majority of the Council members assessed that the current interest rate level was
+
+supporting the decline in inflation. Those members argued that further decline in inflation,
+
+which contributes to lowering inflation expectations, increases real interest rates. On the
+
+other hand, certain Council members pointed to a slight rise in inflation expectations of
+
+enterprises in the recent period and a slight deterioration in the structure of responses in
+
+the survey of consumer inflation expectations.
+
+The majority of the Council members assessed that incoming data indicated low demand
+
+and cost pressures in the Polish economy, which amidst weakened economic conditions
+
+and falling inflation pressure abroad would support a gradual decline in domestic
+
+inflation. Considering the adjustment in the NBP interest rates introduced in recent
+
+months, together with uncertainty about a future course of fiscal and regulatory policies
+
+and their impact on inflation, the Council decided to keep the NBP interest rates
+
+unchanged. The Council judged that the current level of the NBP interest rates was
+
+conducive to meeting the NBP inflation target in the medium term. It was emphasised that
+
+the Council flexibly determined the desirable time necessary to bring inflation back to the
+
+target, as bringing inflation rapidly back to the target might entail significant costs to
+
+macroeconomic and financial stability. The Council members upheld the assessment that
+
+the decrease in inflation would be faster if supported by an appreciation of the zloty
+
+3/4
+
+
+-----
+
+exchange rate, which, in the Council’s assessment, would be consistent with the
+
+fundamentals of the Polish economy.
+
+The view was expressed that given the persistently high annual price growth and elevated
+
+inflation expectations, the level of the NBP interest rates was too low to ensure the return
+
+of inflation to the target in the medium term and to lower inflation expectations to levels
+
+consistent with the medium-term inflation target.
+
+The Council decided to keep the NBP interest rates unchanged: the reference rate at 5.75%;
+
+the lombard rate at 6.25%; the deposit rate at 5.25%; the rediscount rate at 5.80%; the
+
+discount rate at 5.85%.
+
+The Council members pointed out that further decisions of the Council would depend on
+
+incoming information regarding the prospects for inflation and economic activity.
+
+Publication date: 8 December 2023
+
+4/4
+
+
+-----
+

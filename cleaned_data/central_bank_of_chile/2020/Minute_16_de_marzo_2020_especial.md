@@ -1,0 +1,182 @@
+# Monetary Policy Meeting[1]/
+
+#### MARCH 2020
+
+CENTRAL BANK OF CHILE
+
+#### [INF*RES*AS]
+
+1/ This is a translation of a document originally written in Spanish. In case of discrepancy, the
+Spanish original prevails. Both versions are available at www.bcentral.cl
+
+
+-----
+
+## MINUTES OF THE MONETARY POLICY MEETING
+
+#### Monetary policy meeting No. 271 (extraordinary session), held on 16 March 2020.
+
+Present: Governor Mario Marcell, Vice-Governor Joaquín Vial, Pablo García,
+Board member, Alberto Naudon, Board member, Rosanna Costa, Board member.
+
+Present the Finance Minister, Ignacio Briones.
+
+Also present: Juan Pablo Araya, General Counsel and Attestor; Elías Albagli,
+Monetary Policy Division Director; Beltrán de Ramón, Financial Markets
+Division Director; Solange Berstein, Financial Operations Division Director;
+Gloria Peña, Statistics Division Director; Michel Moure, Institutional Affairs
+Division Director; Markus Kirchner, Macroeconomic Analysis Manager;
+Enrique Orellana, Strategy and Communication of Monetary Policy Manager;
+Miguel Fuentes, International Analysis Manager; Andrés Fernández, Economic
+Research Manager; Diego Gianelli, Market Operations Manager; Felipe Lozano,
+Communications Manager; Luis Óscar Herrera, Advisor to the Finance Minister;
+Marlys Pabst, Secretary General.
+
+#### 1. Background
+
+The rapid spread of Covid-19 together with the sanitary measures adopted in
+various countries were beginning to severely affect the capacity of households
+and firms to carry out their social and economic activities normally. In recent
+weeks, the international financial markets were exhibiting an unusual degree
+of volatility and a fall of their main indicators. As a response, many central
+banks had anticipated their monetary policy decisions and announced a string
+of complementary measures intended to facilitate liquidity provision and the
+normal operation of their credit markets.
+
+While Chile’s economic indicators were yet to reflect the effects of these
+disruptions, the progression of the virus in other countries pointed at significant
+impacts on the affected firms’ sales and cash flows. If it proved persistent in
+time, it could erode their solvency position, in particular that of SMEs, which
+would adversely affect economic activity and the labor market. Such a situation
+might hinder the normal transmission of monetary policy.
+
+
+Taking stock of the significant changes in the macroeconomic scenario, the
+Board decided to conduct an extraordinary monetary policy meeting on 16
+March 2020, which was communicated to the public the morning of that day.
+
+#### 2. Background analysis and discussion
+
+Emphasis was placed on the uniqueness of the shock being faced. On the one
+hand, the effects of the social crisis that had burst out in October were still
+unfolding, and although the Imacec in December and January had been above
+expectations, other real and financial variables showed a deterioration in recent
+months. In particular, the behavior of salaried employment, the persistent
+pessimism of expectations and the meager credit growth, most notably of
+consumer loans, stood out. On the other hand, the global Covid-19-related
+sanitary crisis that had broken out in recent weeks was becoming the main factor
+reshaping both the global and local scenarios. Actually, our country had rapidly
+moved to phase 4 of the outbreak, which entailed a number of restrictions that
+would have immediate effects on the economy’s performance. The complexity
+of this sanitary event was exacerbated by the difficulty of estimating its effects,
+because it was so unfamiliar that it was causing great uncertainty not only locally
+but throughout the entire world.
+
+It was noted that an important number of central banks were adopting significant
+measures to mitigate the effects of the crisis. In this regard, it was recalled that
+the Bank had already adopted a major package of measures at the end of last
+year when the social crisis had significantly affected the domestic markets.
+Hence, if new decisions were to be made they should take into account the
+steps that had already been taken. It was noted that the market, in particular
+the exchange rate, had not overreacted to that morning’s announcement of a
+special meeting being summoned.
+
+It was commented that the biggest concern over the short term was the need
+to safeguard the proper functioning of the credit channel. This was a dominant
+element, both because it boosted the power of the transmission channel of
+monetary policy and because, in one way or another, it made it easier for the
+private sector to absorb some of the financial costs of the interruptions caused
+by the epidemic. While it seemed impossible to foresee that there would be no
+associated problems, this did not mean that facilities could not be devised to
+generate such funding and mitigate the impact on the private sector.
+
+
+-----
+
+#### 3. Analysis of monetary policy options
+
+All five Board members agreed that the scenario where the country was operating
+was one of seldom seen, extraordinarily high, uncertainty that was sweeping
+through the real economy and the financial system. Undoubtedly the shock
+would have contractionary effects and reduce inflationary pressures in the policy
+horizon. There was also significant risk of contagion between real shocks and
+the situation of the financial system. In particular because the weaker or more
+vulnerable segments of the corporate sector—most specially small firms—
+would have a reduced capacity to sustain the dramatic adjustment in their
+cash flows. A particularly complex situation because the social explosion had
+greatly eaten into the liquidity margins of an important number of businesses
+and most affected sectors.
+
+The entire Board agreed that the current situation called for a clear, multidimensional and mutually consistent policy response. On the one hand, it was
+necessary to protect and deepen the monetary stimulus, in order to address the
+severe contraction that the economy would suffer in the coming months, and to
+counteract its deflationary impact, which was being amplified by a worldwide
+fall in the oil price. On the other hand, it was necessary to continue ensuring
+the proper, flexible and stress-free functioning of financial intermediation in
+the main markets in which the Bank had influence, particularly fixed-income
+securities, plus banking and corporate financing. Finally, it was necessary to
+promote the flow of credit and refinancing to the private sector, which was
+going to be severely strained in the coming months, and where the aim was
+to avoid permanent damage to the balance sheets that would lead to company
+bankruptcies, a sharp rise in layoffs, and persistent effects on the economy and
+the national financial system. All the Board members agreed that this policy
+response should contemplate extending the current monetary stimulus and
+taking measures to safeguard the normal functioning of the credit markets and
+the effective transmission of the greater monetary impulse.
+
+#### 4. Monetary policy decision
+
+All the Board members voted for adopting a set of extraordinary measures.
+These included opening a funding facility for the banks conditional on their
+increase in loans (FCIC), valid for six months, to grant credits charged to it
+over a term of up to four years with an initial loan amount equivalent to 3% of
+their commercial and consumer portfolios as reported by the Financial Market
+Commission (CMF) for 29 February 2020 (benchmark portfolio). It was also
+
+
+agreed that the additional resources channeled through the FCIF would be
+proportional to each entity’s lending increase with respect to its benchmark
+portfolio, and the extension factor would be greater for loans to smaller firms
+(SMEs). As for its cost, it was agreed that banking firms making use of this facility
+would be charged an interest rate equal to the MPR in effect at the moment of
+request. Should the MPR be modified during the six months of the program’s
+duration, the rate for the residual term of the credit would be adjusted to its
+lower value for the period.
+
+The Board also agreed, as extraordinary measures, to include corporate bonds
+among the eligible collateral for all the liquidity operations in pesos in place,
+including the FCIC; to launch a bank bond purchase program from SOMA
+system participants for an amount equal to the UF equivalent of up to 4 billion
+US dollars; and to extend the forex sale program up to 9 January 2021.
+
+With respect to the MPR, all the Board members voted in favor of a reduction,
+noting that the change in the macroeconomic scenario required a stronger
+monetary impulse to successfully achieve convergence of inflation to the target.
+Governor Marcel, Vice-Governor Vial and Board member García voted for cutting
+75 basis points off the MPR, bringing it to 1%. Their argument was that the
+present circumstances made it necessary to act sooner, so a reduction of that
+magnitude would cause no major inconveniences in the domestic markets. They
+actually mentioned that after the extraordinary meeting had been announced
+that morning, the markets were betting on MPR reductions of 50 or 75 basis
+points, and no unexpected reaction had been observed in other variables,
+including the exchange rate.
+
+Board members Naudon and Costa voted for lowering the MPR by 50 basis
+points, to 1.25%. In their opinion, the important financial tensions the country
+was experiencing—and that could increase due to the world markets’ events as
+well as escalating domestic stress— could result in a scenario like the one Chile
+had endured at the end of last year, significantly affecting the functioning of the
+markets, including the exchange rate. Thus, they believed that the wisest thing
+to do was to slow down the pace of reducing the rate while boosting the rest of
+the measures that sought to strengthen liquidity and foster credit. According
+to these Board members, these measures were of first order, while they deemed
+correct to continue on a declining interest rate path, monitoring its effects on
+the evolution of the financial markets.
+
+Several Board members (JV, RC, AN) pointed out that future movements of the
+monetary policy rate would be conditional not only on the evolution of the
+macro economy, but also on the evolution of the financial markets.
+
+
+-----
+

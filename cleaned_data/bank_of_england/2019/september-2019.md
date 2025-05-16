@@ -1,0 +1,821 @@
+# Monetary Policy Summary and minutes of the Monetary
+
+ Policy Committee meeting ending on 18 September
+
+ 2019
+
+## Publication date: 19 September 2019
+
+These are the minutes of the Monetary Policy Committee meeting ending on 18 September 2019.
+
+They are available at https://www.bankofengland.co.uk/monetary-policy-summary-and
+minutes/2019/september-2019.
+
+The Bank of England Act 1998 gives the Bank of England operational responsibility for setting monetary policy
+
+to meet the Government’s inflation target. Operational decisions are taken by the Bank’s Monetary Policy
+
+Committee. The minutes of the Committee meeting ending on 6 November will be published on 7 November
+
+2019.
+
+
+-----
+
+### Monetary Policy Summary, September 2019
+
+The Bank of England’s Monetary Policy Committee (MPC) sets monetary policy to meet the 2% inflation target,
+
+and in a way that helps to sustain growth and employment. At its meeting ending on 18 September 2019, the
+
+MPC voted unanimously to maintain Bank Rate at 0.75%. The Committee voted unanimously to maintain the
+
+stock of sterling non-financial investment-grade corporate bond purchases, financed by the issuance of central
+
+bank reserves, at £10 billion. The Committee also voted unanimously to maintain the stock of UK government
+
+bond purchases, financed by the issuance of central bank reserves, at £435 billion.
+
+Since the MPC’s previous meeting, the trade war between the United States and China has intensified, and the
+
+outlook for global growth has weakened. Monetary policy has been loosened in many major economies.
+
+Shifting expectations about the potential timing and nature of Brexit have continued to generate heightened
+
+volatility in UK asset prices, in particular the sterling exchange rate has risen by over 3½%.
+
+Brexit-related developments are making UK economic data more volatile, with GDP falling by 0.2% in 2019 Q2
+
+and now expected to rise by 0.2% in Q3. The Committee judges that underlying growth has slowed, but
+
+remains slightly positive, and that a degree of excess supply appears to have opened up within companies.
+
+Brexit uncertainties have continued to weigh on business investment, although consumption growth has
+
+remained resilient, supported by continued growth in real household income. The weaker global backdrop is
+
+weighing on exports. The Government has announced a significant increase in departmental spending for
+
+2020-21, which could raise GDP by around 0.4% over the MPC’s forecast period, all else equal.
+
+CPI inflation fell to 1.7% in August, from 2.1% in July, and is expected to remain slightly below the 2% target in
+
+the near term. The labour market appears to remain tight, with the unemployment rate having been just under
+
+4% since the beginning of this year. Annual pay growth has strengthened further to the highest rate in over a
+
+decade. Unit wage cost growth has also risen, to a level above that consistent with meeting the inflation target
+
+in the medium term. The labour market does not appear to be tightening further, however, with official and
+
+survey measures of employment growth softening.
+
+For most of the period following the EU referendum, the degree of slack in the UK economy has been falling
+
+and global growth has been relatively strong. Recently, however, entrenched Brexit uncertainties and slower
+
+global growth have led to the re-emergence of a margin of excess supply. Increased uncertainty about the
+
+nature of EU withdrawal means that the economy could follow a wide range of paths over coming years. The
+
+appropriate response of monetary policy will depend on the balance of the effects of Brexit on demand, supply
+
+and the sterling exchange rate.
+
+
+-----
+
+It is possible that political events could lead to a further period of entrenched uncertainty about the nature of,
+
+and the transition to, the United Kingdom’s eventual future trading relationship with the European Union. The
+
+longer those uncertainties persist, particularly in an environment of weaker global growth, the more likely it is
+
+that demand growth will remain below potential, increasing excess supply. In such an eventuality, domestically
+
+generated inflationary pressures would be reduced.
+
+In the event of a no-deal Brexit, the exchange rate would probably fall, CPI inflation rise and GDP growth slow.
+
+The Committee’s interest rate decisions would need to balance the upward pressure on inflation, from the likely
+
+fall in sterling and any reduction in supply capacity, with the downward pressure from any reduction in demand.
+
+In this eventuality, the monetary policy response would not be automatic and could be in either direction.
+
+In the event of greater clarity that the economy is on a path to a smooth Brexit, and assuming some recovery in
+
+global growth, a significant margin of excess demand is likely to build in the medium term. Were that to occur,
+
+the Committee judges that increases in interest rates, at a gradual pace and to a limited extent, would be
+
+appropriate to return inflation sustainably to the 2% target.
+
+In all circumstances, the Committee will set monetary policy appropriately to achieve the 2% inflation target.
+
+The MPC judges at this meeting that the existing stance of monetary policy is appropriate.
+
+
+-----
+
+### Minutes of the Monetary Policy Committee meeting ending on 18 September 2019
+
+1 Before turning to its immediate policy decision, the Committee discussed: monetary and financial
+
+conditions; the international economy; demand, output, money and credit; and supply, costs and prices.
+
+**Monetary and financial conditions**
+
+2 Government bond yields and risky asset prices had generally been little changed over the period as a
+
+whole since the Committee’s previous meeting. That had masked significant falls during August, appearing to
+
+reflect the continuing trade war between the United States and China, and wider concerns about the global
+
+growth outlook.  These asset prices had retraced subsequently. In the United States, ten-year Treasury yields
+
+had remained somewhat lower than at the time of the MPC’s previous meeting, however.
+
+3 Monetary policy had been loosened in many major economies. Following the Federal Open Market
+
+Committee’s (FOMC) 25 basis point cut in the target range for the federal funds rate on 31 July, the US
+
+instantaneous forward Overnight Index Swap (OIS) curve was now pricing in a further 25 basis point cut at the
+
+FOMC’s 17-18 September meeting. In the euro area, the ECB Governing Council had announced a package of
+
+easing measures on 12 September. This had been composed of: a 10 basis point reduction in the deposit
+
+facility rate; the introduction of a two-tier reserve remuneration scheme for banks; a re-starting of net
+
+purchases of government and corporate bonds of €20 billion per month under the asset purchase programme,
+
+with no set end date specified; and a reduction of up to 20 basis points in the cost of bank funding via a new
+
+series of targeted longer-term refinancing operations. The ECB had also strengthened its forward guidance by
+
+emphasising that interest rates would remain at their present or lower levels until the inflation outlook robustly
+
+converged to its target.
+
+4 UK asset prices had been affected by global developments and also by Brexit news. The instantaneous
+
+forward OIS curve had remained slightly downward sloping, but was higher than at the time of the previous
+
+MPC meeting. It had risen around the passage of the European Union (Withdrawal) (No. 6) Bill, which sought to
+
+delay the United Kingdom’s departure from the European Union if Parliament by 19 October had neither
+
+approved a withdrawal agreement nor endorsed a no-deal exit. The increase in market forward pricing for Bank
+
+Rate was broadly consistent with responses to the latest Reuters survey of economists, in which the mean
+
+expectation was for Bank Rate to remain on hold over the coming twelve months.
+
+5 The sterling exchange rate index (ERI) had increased by over 3½% since the previous MPC meeting, and
+
+by around 1½% compared to the 15-day average on which the August Inflation Report had been conditioned.
+
+The probability of a no-deal Brexit during 2019 derived from betting odds had fallen sharply around the passage
+
+of the European Union (Withdrawal) (No. 6) Bill, and the implied probability of the United Kingdom leaving the
+
+European Union with a deal this year had risen more recently. A reduction in the perceived probability of an
+
+imminent no-deal Brexit had led sterling implied volatilities to fall back from their recent highs. These had
+
+remained at elevated levels, however, especially relative to other currency pairs and around the three-month
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 18 September 2019** 1
+
+
+-----
+
+horizon. Risk reversals had remained strongly negative, suggesting that markets continued to place more
+
+weight on a large sterling depreciation than on a large appreciation.
+
+6 UK five-year inflation swap rates, five years forward had been little changed relative to the time of the
+
+August MPC meeting. On 4 September, the Chancellor had announced his intention to consult on whether to
+
+bring the method of calculating RPI into line with that used for CPIH between 2025 and 2030. On the day, five
+year swap rates, five years forward had fallen slightly, although there had been a somewhat larger reaction in
+
+longer maturity rates, with the 30-year forward swap rate having fallen by around 20 basis points.
+
+7 UK bank funding costs had been little changed compared with those prevailing at the time of the previous
+
+MPC meeting. According to the CBI Industrial Trends Survey, the availability and cost of corporate credit had
+
+increased as a concern, but had remained fairly low down the list of factors judged by companies to be limiting
+
+investment, with uncertainty about demand continuing to be identified as the most significant constraint. That
+
+was consistent with intelligence from the Bank’s Agents, with most large companies noting that credit remained
+
+readily available. The Agents had, however, noted some indications that credit conditions may be tightening for
+
+some small and medium-sized companies, and in a few particular sectors. There had been little news in
+
+household credit conditions since the previous MPC meeting.
+
+8 There had been acute volatility in US repo markets towards the end of the period since the MPC’s
+
+previous meeting, but there had been no spillovers to UK money markets.
+
+**The international economy**
+
+9 UK-weighted global GDP growth appeared to have been slightly weaker than expected at the time of the
+
+August Inflation Report. World goods trade and industrial production had fallen in 2019 Q2, by 0.7% and 0.1%
+
+respectively. Forward-looking indicators suggested that the near-term outlook was somewhat weaker, with the
+
+JP Morgan global manufacturing PMI new export orders index continuing to fall, to its lowest level since 2012.
+
+10 Alongside the data news, the US-China trade war had intensified over the summer. Shortly after the
+
+publication of the August Report, the United States administration had announced increases of existing tariffs on
+
+$250 billion of imports from China, from 25% to 30%, and had introduced new tariffs of 15% on most of the
+
+remaining $300 billion of US imports from China. Almost all US imports from China were now subject to
+
+significantly higher tariff rates than at the start of 2018. The Chinese authorities had retaliated, with tariffs of 5
+10% applied to some goods on a $75 billion target list. The implementation of a subset of the latest round of
+
+tariff increases had subsequently been delayed by two weeks to 15 October.
+
+11 With bilateral tariffs between the United States and China now approximately 20 percentage points higher
+
+than at the start of 2018, the Committee discussed both the marginal economic impact of the latest
+
+developments and the cumulative impact of the trade war. Bank staff continued to expect that the direct
+
+economic impacts would, in themselves, be relatively small, as tariff rates and their coverage increased. There
+
+had also been increasing evidence, however, that, combined with confidence and sentiment effects, the trade
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 18 September 2019** 2
+
+
+-----
+
+war was having a material negative impact on global business investment growth. There had, moreover, been
+
+few signs of significant offsetting effects from trade diversion.
+
+12 Euro-area GDP growth had slowed to 0.2% in 2019 Q2, in line with the previous release, but down from
+
+0.4% in Q1. The slowdown had been most notable in Germany, where GDP had contracted by 0.1%. Italy had
+
+recorded flat GDP on the quarter, while French GDP growth had held up at 0.3%. The near-term euro-area
+
+outlook continued to look subdued, with the manufacturing PMI having remained close to the 50 no-change
+
+mark since the start of the year. Bank staff now judged that GDP growth in the euro area would be 0.2% in Q3,
+
+unchanged from Q2, but 0.1 percentage points lower than had been expected at the time of the August Report.
+
+The package of easing measures announced by the ECB was expected to provide support to the outlook.
+
+13 US GDP had grown by 0.5% in 2019 Q2, unrevised from the advance estimate.  Annual GDP revisions
+
+for the past five years had left the level of GDP little changed, but growth was now estimated to have moderated
+
+to a greater degree in 2018, suggesting somewhat weaker momentum. Growth over the recent past also
+
+appeared to have been more reliant on consumption and government spending, with contributions from
+
+business investment and exports having been revised down. Recent indicators of investment and
+
+manufacturing had, on balance, weakened, perhaps reflecting the impact of trade tensions. Overall, however,
+
+Bank staff judged that Q3 GDP growth would come in a touch stronger than expected at the time of the August
+
+_Report, at 0.6%, reflecting robust household consumption._
+
+14 In China, key activity indicators had been broadly consistent with the slowing in growth expected at the
+
+time of the August Report. Although volatile, annual industrial production growth had slowed to 4.4% in August,
+
+well below market expectations and the weakest reading in 17 years. Annual retail sales growth had fallen by
+
+over 2 percentage points in August, to 7.5%, reflecting a contraction in car sales on the month following the
+
+implementation of new emission standards. Fixed-asset investment had slowed marginally in August, to 5.5%,
+
+although the Caixin services PMI had risen slightly. On balance, activity indicators suggested that domestic
+
+growth momentum had weakened, and that the US-China trade war could be having a more meaningful impact
+
+on growth. In Hong Kong, GDP had contracted by 0.4% in 2019 Q2, compared with a rise of 1.3% in Q1. This
+
+slowing, however, was not anticipated to have a large direct impact on the Chinese outlook, given the relatively
+
+small size of the Hong Kong economy compared with mainland China.
+
+15 GDP data for non-China emerging market economies in 2019 Q2 had been mixed, but broadly in line with
+
+the August Report. A weighted average of manufacturing PMIs for seven major emerging market economies
+
+had declined slightly in August, although services PMIs had generally held up in July and August.
+
+16 Spot oil prices were broadly unchanged since the August Report, at around $64 per barrel. Prices had
+
+initially fallen following the MPC’s previous meeting, reflecting increased trade tensions against a backdrop of
+
+weakening global demand. They had risen sharply following the attacks on Saudi Arabia’s oil supply
+
+infrastructure.
+
+17 Euro-area annual HICP inflation had been stable, at 1.0%, in August, and core HICP inflation had also
+
+remained weak, at 0.9%. Wage growth had continued to firm, however, to 2.7% on a year earlier in 2019 Q2,
+
+the highest rate since the start of the series in 2010.
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 18 September 2019** 3
+
+
+-----
+
+18 US annual headline and core PCE inflation had remained soft in July, at 1.4% and 1.6% respectively.
+
+Most of the easing in core inflation since last December had been accounted for by the clothing and the financial
+
+services and insurance components, both of which appeared to have been affected by temporary factors.
+
+Annual headline CPI inflation had eased to 1.7% in August, in contrast to core CPI inflation which had picked up
+
+to 2.4%, its highest rate since July 2018.
+
+**Demand, output, money and credit**
+
+19 In the United Kingdom, GDP had fallen by 0.2% in 2019 Q2, 0.2 percentage points weaker than had been
+
+expected at the time of the August Inflation Report. That news had reflected small downward revisions to
+
+monthly GDP growth in April and May. Monthly GDP in July had risen by 0.3%, stronger than Bank staff’s
+
+expectations.
+
+20 Bank staff’s nowcast for GDP growth in 2019 Q3 as a whole had been revised down slightly to 0.2%, from
+
+0.3% at the time of the August Report.  Mechanically that downward revision could be attributed to a smaller
+than-expected boost to GDP growth from car production. Updated intelligence from the Bank’s Agents
+
+suggested that some vehicle manufacturers had shut down as usual in the summer, in addition to previous
+
+shutdowns in April as part of Brexit-related contingency plans that had pushed down Q2 GDP growth. One car
+
+manufacturer had recently announced a further shutdown at the end of October and the beginning of November,
+
+and it was possible that other manufacturers could follow suit, pushing down Q4 GDP growth.
+
+21 Uncertainty about the extent and timing of Brexit-related adjustments to companies’ inventory holdings in
+
+the United Kingdom and in the European Union had persisted. Based on the latest available official output and
+
+expenditure data, Bank staff judged that a decline in stockbuilding was likely to have subtracted between 0.1
+
+and 0.2 percentage points from UK GDP growth in 2019 Q2, net of its impact on exports and imports, following
+
+a similar-sized boost to GDP growth in Q1. There had not yet been clear signs from most business surveys that
+
+stock levels were being increased ahead of the 31 October Brexit deadline, at least in the United Kingdom,
+
+although the balance of responses to the latest Bank’s Agents’ Brexit survey and Decision Maker Panel (DMP)
+
+suggested that a small boost to GDP from stockbuilding was likely during the autumn.
+
+22 Looking through recent movements in the most volatile components of GDP, the Committee judged that
+
+underlying growth in the first half of this year had been weaker than in 2017 and 2018, though still slightly
+
+positive. The available indicators suggested a similarly weak picture for Q3.
+
+23 Business investment had fallen by 0.5% in 2019 Q2 and had now declined in five of the past six quarters.
+
+Contacts of the Bank’s Agents had continued to report weak investment intentions, in part due to the soft global
+
+environment but primarily due to Brexit uncertainties. Results from the Agents’ latest Brexit survey suggested
+
+that companies who judged themselves not ready for a no-deal Brexit had the weakest investment intentions,
+
+and that they were also expecting the weakest output and employment outturns over the next year in a no-deal
+
+scenario. There had been a rise in the proportion of respondents to the August DMP reporting that Brexit was
+
+one of their top three sources of uncertainty. Disaggregated results from the DMP suggested that the recent
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 18 September 2019** 4
+
+
+-----
+
+pickup in uncertainty had been broadly based across companies. While the level of uncertainty had remained
+
+highest for those who exported the most to the European Union, it had also risen for other firms exposed to the
+
+European Union through more indirect channels such as imports and migrant labour.
+
+24 Official external trade data had been especially volatile over the course of this year in part due to the
+
+effects of Brexit-related stockbuilding on exports and imports. The trade data had also been distorted by swings
+
+in flows of non-monetary gold that had widened the UK’s trade deficit significantly in 2019 Q1, but unwound
+
+subsequently, such that the current account deficit was also likely to have narrowed markedly in Q2. The
+
+Bank’s Agents’ score for manufacturing export growth had continued to fall, with intelligence pointing to a
+
+negative impact from global trade tensions in particular. Some of the Agents’ contacts had also reported that
+
+EU-based customers had become more nervous about the risk of supply disruption in the event of a no-deal
+
+Brexit.
+
+25 Following growth of 0.6% in 2019 Q1, household consumption had risen by 0.5% in Q2, stronger than
+
+expected in the August Report. That had been slightly below the growth in real household labour income over
+
+the same period. More recently, retail sales volumes had grown by 0.5% in the three months to July.
+
+Consumer confidence had fallen back sharply in August, although that had only slightly more than unwound the
+
+increase in confidence recorded in July. House prices had been broadly flat on most measures over recent
+
+months. Mortgage approvals for house purchase had continued to edge up, although HMRC property
+
+transactions had weakened, even following upward revisions to initial estimates that may have been distorted
+
+downwards by a change in reporting requirements. Housing investment had fallen by 0.8% in Q2, and had now
+
+declined in four of the past six quarters.
+
+26 The Government had announced a significant increase in departmental current spending for fiscal year
+
+2020-21 in Spending Round 2019. All else equal, Bank staff estimates suggested that this could raise GDP by
+
+around 0.4% over the MPC’s forecast period.
+
+**Supply, costs and prices**
+
+27 Twelve-month CPI inflation had fallen to 1.7% in August, from 2.1% in July, in line with staff expectations
+
+immediately prior to the release. Core CPI inflation had declined to 1.5% and core services CPI inflation had
+
+been 2.0%.
+
+28 CPI inflation was expected to remain slightly below the MPC’s 2% target over the remainder of 2019.
+
+Energy prices were the main driver of the near-term profile. Base effects would push down inflation over the
+
+next couple of months, before gas and electricity prices were due to fall in October as a result of Ofgem’s
+
+updated price caps. In January 2020, the drag from energy prices would be likely to wane due to the
+
+implementation of Ofgem’s main price cap in January 2019 dropping out of the annual comparison.
+
+29 Recent data releases had continued to show a divergence between price and labour cost-based
+
+measures of domestically generated inflation. A proxy for the annual growth of private sector unit wage costs,
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 18 September 2019** 5
+
+
+-----
+
+based on regular pay data, had reached 3.9% in 2019 Q2, a ten-year high and above the range consistent with
+
+the 2% inflation target. That had reflected strengthening wage growth and weak productivity growth.
+
+30 Regular pay in the private sector had risen by 4.0% in the year to 2019 Q2, its highest rate for eleven
+
+years. It had fallen back to 3.9% in the three months to July, but that was still 0.2 percentage points higher than
+
+projected in the August Report. Growth in whole economy total pay had reached 4.0%, the highest since June
+
+2008 and 0.4 percentage points stronger than expected in the August Report. That had partly been driven by
+
+upside news in bonuses, which had been particularly strong in the construction and public sectors. The median
+
+private sector settlement from the Bank’s database had risen from 2.6% in the twelve months to September
+
+2018 to 2.9% in September 2019. Base effects were likely to depress pay growth over the coming months,
+
+although private sector unit wage costs were still likely to have risen at rates above target-consistent levels in
+
+Q3.
+
+31 The unemployment rate had fallen to 3.8% in the three months to July, reversing the rise recorded in
+
+June. That was 0.1 percentage points higher than expected in the August Report. The unemployment rate had
+
+been relatively stable throughout 2019, fluctuating between 3.8% and 3.9% since January.
+
+32 Employment growth had been weak in 2019 compared with recent years and available indicators
+
+suggested that this weakness would continue. Employment growth had fallen to 0.1% in the three months to
+
+July, and the employment rate had edged back down to 61.5%. The increase in the number of people
+
+employed had been driven largely by increasing full-time employment. Looking ahead, the Agents’ employment
+
+intentions score had fallen somewhat and the REC headline index was now a full standard deviation below its
+
+historical average. Vacancies had continued to decline in the three months to August, and were around 6%
+
+lower than their peak in the three months to January. Given the declines in unemployment, the reduction in the
+
+ratio of vacancies to unemployment had been smaller.
+
+33 The Committee discussed the implications of recent developments for the degree and composition of
+
+spare capacity in the economy. Since the MPC’s previous annual review of the supply side of the economy in
+
+February, the weakening in underlying GDP growth implied that a margin of spare capacity had opened up in
+
+the economy, assuming that supply had continued to evolve relatively smoothly. It was not clear that slack had
+
+emerged in the labour market, however. Unemployment had remained below the MPC’s judgement of the
+
+equilibrium unemployment rate, of 4¼%, labour participation had remained robust and there had been limited
+
+news in average hours worked. There were signs of emerging slack within firms, consistent with both the IHS
+
+Markit/CIPS and CBI survey measures of capacity utilisation decreasing over the past year. The Agents’
+
+capacity utilisation score had also fallen recently, albeit to a somewhat smaller degree.
+
+34 While supply side variables typically moved relatively slowly and smoothly, it was notable that productivity
+
+growth appeared to have weakened further so far this year. Econometric analysis using responses from the
+
+Decision Maker Panel suggested that Brexit uncertainties had depressed productivity growth through several
+
+channels since the referendum. One channel had been via the diversion of resources, with, for example, a
+
+number of companies reporting that their senior executive officers had spent time preparing for Brexit. That
+
+would be detracting from output and productivity growth, although probably only temporarily. Brexit
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 18 September 2019** 6
+
+
+-----
+
+uncertainties could also be having a more persistent negative impact on potential supply, through channels such
+
+as reduced investment and the reallocation of activity away from more productive internationally exposed
+
+firms. If supply growth had weakened, that could imply that not all of the recent softening in GDP growth had
+
+led to an increase in excess supply. The Committee would continue to monitor closely the evolution of the
+
+supply side of the economy in response to Brexit.
+
+35 While there had been no new data on corporate inflation expectations since the Committee’s previous
+
+meeting, measures of households’ shorter-term inflation expectations had risen slightly. That was consistent
+
+across the Bank of England/TNS Inflation Attitudes Survey and the measures from the Citi, Barclays Basix and
+
+the GfK surveys. The latest Inflation Attitudes Survey had asked about the impact of Brexit on respondents’
+
+one-year and two-year ahead inflation expectations. At those horizons, 50% and 44% of respondents
+
+respectively had reported that Brexit had raised their inflation expectations, compared with around 10% of
+
+respondents at both horizons saying that it had lowered their inflation expectations. By contrast, measures of
+
+households’ longer-term inflation expectations had either been broadly flat or had fallen slightly.
+
+**The immediate policy decision**
+
+36 The MPC sets monetary policy to meet the 2% inflation target, and in a way that helps to sustain growth
+
+and employment. In pursuing that objective, the main challenges the Committee faced had been to assess the
+
+economic implications of the United Kingdom withdrawing from the European Union against a backdrop, more
+
+recently, of weaker global growth, and to identify the appropriate policy response to that changing outlook. That
+
+outlook depended significantly on the nature and timing of EU withdrawal, in particular: the form of new trading
+
+arrangements between the European Union and the United Kingdom; whether the transition to them was abrupt
+
+or smooth; and how households, businesses and financial markets responded.
+
+37 The Committee reviewed global and domestic developments since its previous meeting.
+
+38 The outlook for global growth had weakened as the trade war between the United States and China had
+
+intensified. UK-weighted global GDP growth appeared to have been slightly weaker than expected at the time
+
+of the August Inflation Report, driven largely by developments in the euro area. The German economy, and its
+
+industrial sector in particular, had been sensitive to the weakness in global trade. The quality of global growth
+
+also appeared to have deteriorated, as investment growth across advanced economies had weakened. Set
+
+against that, economic and financial imbalances appeared, at the global level, to be smaller than in the past.
+
+39 Monetary policy had been loosened in many major economies, including in the euro area where a
+
+package of easing measures announced by the ECB was expected to provide support to the outlook.
+
+40 Although there had not been much news from global financial markets by the end of the period leading up
+
+to the MPC’s September meeting, the sharp falls in government bond yields observed during August had
+
+continued a downward trend that had been in place for almost a year. The declines over that latter period had
+
+reflected both lower real interest rates and, away from the United Kingdom, a reduction in implied inflation
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 18 September 2019** 7
+
+
+-----
+
+compensation. These moves partly reflected the impact of the US-China trade war, including its broader effects
+
+on confidence and sentiment. In addition, they could have reflected a judgement by market participants that the
+
+global equilibrium interest rate was lower than they had previously thought.
+
+41 Shifting expectations about the potential timing and nature of Brexit had continued to generate heightened
+
+volatility in UK asset prices. The sterling exchange rate and market forward pricing of Bank Rate had both risen
+
+as the perceived probability of a no-deal Brexit had fallen. The implied probability of the United Kingdom
+
+leaving the European Union with a deal this year had also increased more recently. Sterling implied volatilities
+
+had remained at elevated levels.
+
+42 Brexit-related developments, such as stockbuilding and shutdowns in car production around previous
+
+Brexit deadlines, were making UK economic data more volatile. GDP had fallen by 0.2% in 2019 Q2 and was
+
+now expected to rise by 0.2% in Q3, compared with 0.3% at the time of the August Report. That small
+
+downward revision to the Q3 nowcast could be attributed to a smaller-than-expected boost to GDP growth from
+
+car production, as some vehicle manufacturers had shut down again over the summer in addition to closures in
+
+April. Business surveys of companies’ output had remained weak, and the latest indicators of output
+
+expectations had declined further. The Committee judged that underlying growth had slowed, but remained
+
+slightly positive.
+
+43 Brexit uncertainties, and more recently the slowing global economy, had weighed on business investment,
+
+which had now declined in five of the past six quarters. There had been a rise in the proportion of respondents
+
+to the Decision Maker Panel (DMP) reporting that Brexit was one of their top three sources of uncertainty. The
+
+weaker global backdrop was weighing on exports. Consumption growth had remained resilient, however,
+
+supported by continued growth in real household income.
+
+44 The Government had announced a significant increase in departmental spending for 2020-21, which could
+
+raise GDP by around 0.4% over the MPC’s forecast period, all else equal.
+
+45 The labour market appeared to remain tight, although it was possible that some recent developments
+
+were lagging the broader weakness in economic activity. The unemployment rate had been just under 4% since
+
+the beginning of this year and, though the number of vacancies had fallen, the vacancies to unemployment ratio
+
+had remained fairly close to its previous high. Employment growth had been weak in the first two quarters of
+
+2019 and the available indicators suggested that this weakness would continue. So, although it was too early to
+
+judge that the labour market was loosening, it did not appear to be tightening further.
+
+46 Given the recent weakness in activity, the Committee judged that a degree of excess supply appeared to
+
+have opened up in the economy, and that this was most likely to be situated within companies. That was
+
+consistent with the movements in some, though not all, survey measures of capacity utilisation. It was hard to
+
+be precise about the degree of emerging spare capacity in the economy, however. In particular, the DMP
+
+suggested that productivity growth had weakened due to the response of companies to Brexit uncertainties.
+
+That could imply that part of the recent softening in activity had reflected a reduction in supply growth, rather
+
+than it all having fed through to an increase in excess supply.
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 18 September 2019** 8
+
+
+-----
+
+47 CPI inflation had fallen to 1.7% in August, from 2.1% in July. It was expected to remain slightly below the
+
+2% target in the near term, before rising close to the target at the beginning of next year, mainly reflecting
+
+developments in energy prices. Annual pay growth had strengthened further to the highest rate in over a
+
+decade. Unit wage cost growth had also risen, to a level above that consistent with meeting the inflation target
+
+in the medium term, although core services CPI inflation had remained slightly below target-consistent levels.
+
+48 The Committee turned to its immediate policy decision.
+
+49 For most of the period following the EU referendum, the degree of slack in the UK economy had been
+
+falling and global growth had been relatively strong. Recently, however, entrenched Brexit uncertainties and
+
+slower global growth had led to the re-emergence of a margin of excess supply. Increased uncertainty about
+
+the nature of EU withdrawal meant that the economy could follow a wide range of paths over coming years.
+
+The appropriate response of monetary policy would depend on the balance of the effects of Brexit on demand,
+
+supply and the sterling exchange rate.
+
+50 It was possible that political events could lead to a further period of entrenched uncertainty about the
+
+nature of, and the transition to, the United Kingdom’s eventual future trading relationship with the European
+
+Union. The longer those uncertainties persisted, particularly in an environment of weaker global growth, the
+
+more likely it was that demand growth would remain below potential, increasing excess supply. In such an
+
+eventuality, domestically generated inflationary pressures would be reduced.
+
+51 In the event of a no-deal Brexit, the exchange rate would probably fall, CPI inflation rise and GDP growth
+
+slow. The Committee’s interest rate decisions would need to balance the upward pressure on inflation, from the
+
+likely fall in sterling and any reduction in supply capacity, with the downward pressure from any reduction in
+
+demand. In this eventuality, the monetary policy response would not be automatic and could be in either
+
+direction.
+
+52 In the event of greater clarity that the economy was on a path to a smooth Brexit, and assuming some
+
+recovery in global growth, a significant margin of excess demand was likely to build in the medium term. Were
+
+that to occur, the Committee judged that increases in interest rates, at a gradual pace and to a limited extent,
+
+would be appropriate to return inflation sustainably to the 2% target.
+
+53 In all circumstances, the Committee would set monetary policy appropriately to achieve the 2% inflation
+
+target.
+
+54 The MPC judged at this meeting that the existing stance of monetary policy was appropriate.
+
+55 The Governor invited the Committee to vote on the propositions that:
+
+Bank Rate should be maintained at 0.75%;
+
+The Bank of England should maintain the stock of sterling non-financial investment-grade corporate bond
+
+purchases, financed by the issuance of central bank reserves, at £10 billion;
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 18 September 2019** 9
+
+
+-----
+
+The Bank of England should maintain the stock of UK government bond purchases, financed by the
+
+issuance of central bank reserves, at £435 billion.
+
+The Committee voted unanimously in favour of all three propositions.
+
+56 The following members of the Committee were present:
+
+Mark Carney, Chair
+Ben Broadbent
+Jon Cunliffe
+Andrew Haldane
+Jonathan Haskel
+Dave Ramsden
+Michael Saunders
+Silvana Tenreyro
+Gertjan Vlieghe
+
+Vanessa MacDougall was present as the Treasury representative.
+
+As permitted under the Bank of England Act 1998, as amended by the Bank of England and Financial Services
+
+Act 2016, Bradley Fried and Dorothy Thompson were present on 12 September as observers for the purpose of
+
+exercising oversight functions in their role as members of the Bank’s Court of Directors.
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 18 September 2019** 10
+
+
+-----
+

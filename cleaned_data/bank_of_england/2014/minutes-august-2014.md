@@ -1,0 +1,798 @@
+### Publication date: 20 August 2014
+
+## MINUTES OF THE 
+# MONETARY POLICY COMMITTEE MEETING
+## 6 and 7 August 2014
+
+These are the minutes of the Monetary Policy Committee meeting held on 6 and 7 August 2014.
+
+They are also available on the Internet
+
+http://www.bankofengland.co.uk/publications/minutes/Pages/mpc/pdf/2014/mpc1408.aspx
+
+The Bank of England Act 1998 gives the Bank of England operational responsibility for setting
+
+monetary policy to meet the Government’s inflation target. Operational decisions are taken by
+
+the Bank’s Monetary Policy Committee. The Committee meets on a regular monthly basis and
+
+minutes of its meetings are released on the Wednesday of the second week after the meeting
+
+takes place. Accordingly, the minutes of the Committee meeting to be held on
+
+3 and 4 September will be published on 17 September 2014.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 6 AND 7 AUGUST 2014
+
+1 Before turning to its immediate policy decision, and against the backdrop of its latest projections
+
+for output and inflation, the Committee discussed financial market developments; the international
+
+economy; money, credit, demand and output; and supply, costs and prices.
+
+**Financial markets**
+
+2 Financial markets had remained relatively resilient despite a number of significant events during
+
+the month. These included: heightened geopolitical tensions in Russia and Ukraine, and in the Middle
+
+East; a technical default on an Argentinian public debt payment; the announcement of public support
+
+for a large Portuguese bank; and comments by the chair of the FOMC regarding asset valuations in
+
+particular sectors. Although these events had triggered only a fairly modest market reaction, there
+
+were some tentative signs in some asset classes of a reduction in risk appetite.
+
+3 Instantaneous twelve-month sterling forward rates derived from overnight index swaps had risen
+
+modestly following the release of unexpectedly high June CPI data, but this effect had subsequently
+
+unwound so as to leave short rates fractionally lower over the month as a whole. The option-implied
+
+volatility of short sterling rates at horizons up to a year ahead had remained at or below pre-crisis
+
+norms. Financial market prices suggested expectations of a 25 basis point increase in Bank Rate in the
+
+first quarter of 2015. The economists participating in the Reuters survey held a similar view, in
+
+general, although a significant minority of the economists surveyed expected an increase in Bank Rate
+
+of 25 basis points by the end of 2014.
+
+4 Movements in long rates had been more notable, with ten-year forward rates having fallen by
+
+20-30 basis points during the month in the United Kingdom, United States and euro area. These
+
+movements had continued the trend seen since the start of the year, which had been consistent with an
+
+increased perception that the interest rates likely to be necessary to balance economic demand and
+
+supply in the medium term would be lower than during much of the pre-crisis period.
+
+
+-----
+
+2
+
+5 The sterling effective exchange rate index had been broadly unchanged over the month as a
+
+whole, but it had appreciated by 2% since the time of the May Inflation Report and by 4% since the
+
+turn of the year. The levels of implied sterling-dollar volatility at horizons up to a year ahead were at
+
+pre-crisis lows.
+
+6 Within the broader context of low actual and implied volatility in financial markets, there were
+
+some signs of a modest reduction in risk appetite following the events of the month. High-yield
+
+sterling corporate bond spreads had increased by around 50 basis points during the month and those of
+
+their dollar equivalents by over 70 basis points. The major advanced economy equity price indices had
+
+fallen by between 1% and 5%.
+
+**The international economy**
+
+7 The news on the international economy had been mixed over the month and, although global
+
+growth was likely to be a little stronger in the second half of the year than it had been during the first,
+
+the balance of risks, particularly those stemming from the euro area and the political situation in
+
+Russia and Ukraine, probably lay to the downside.
+
+8 In the United States, GDP in the second quarter had increased by 1%, slightly stronger than
+
+Bank staff had expected, and the fall in output in Q1 had been revised down to 0.5%. Although, since
+
+the crisis, strong outturns for quarterly growth had not been a reliable indicator of sustained growth
+
+above trend, surveys for July suggested that momentum would be maintained in the third quarter.
+
+More broadly, the underlying strength of demand was still uncertain: much of the increase in output in
+
+Q2 had been accounted for by a rise in stockbuilding and employment growth had fallen back a little
+
+in July.
+
+9 The latest indicators suggested that economic growth in the euro area had not picked up in the
+
+second quarter. Although GDP in Spain had risen by 0.6%, there had been a fall in output of 0.2% in
+
+Italy. In addition, the timing of public holidays across the region looked to have depressed industrial
+
+production in May, and Bank staff’s estimate of euro-area GDP growth in Q2 was only 0.2%, the same
+
+as in Q1. Purchasing Managers’ Indices (PMIs) for July were consistent with an improvement in
+
+euro-area output growth in the third quarter, perhaps to around ½%, but, set against that, there had
+
+
+-----
+
+3
+
+been a sharp fall in new industrial orders in Germany.
+
+10 The disappointing news on euro-area activity had been accompanied by further weakness in
+
+inflation. The flash estimate of twelve-month euro-area inflation for July had fallen to 0.4%. Much of
+
+the 2½ percentage point fall in inflation since its peak at the end of 2011 had reflected the mechanical
+
+impact of past rises in commodity prices and indirect taxes in a number of countries dropping out of
+
+the annual calculation. Inflation excluding these factors had probably been low for quite some time,
+
+but it might well have weakened further since the spring. High unemployment, particularly in the
+
+periphery, was likely to have been a material restraint on prices and, as activity picked up, it was
+
+possible that inflation in these countries would begin to rise. But, with inflation in many core
+
+economies likely to stay below 2% and slack still remaining, the process of rebalancing and restoring
+
+competitiveness in the periphery might well prove a greater and more persistent drag on euro-area
+
+activity.
+
+11 The news on emerging economies had been mixed. Four-quarter GDP growth in China had risen
+
+to 7.5% in Q2 from 7.4% in Q1. Since then, surveys of manufacturing output had improved while the
+
+HSBC services PMI had fallen back sharply. Nonetheless, it was likely that the large number of
+
+targeted stimulus measures implemented by the Chinese authorities since the spring would be
+
+sufficient to keep growth close to the government’s 7½% target for the rest of the year. The rapid
+
+growth in credit and the vulnerabilities associated with the shadow banking system, however,
+
+remained a risk to the outlook for China’s economy.
+
+12 There had been little change in most commodity prices, notwithstanding the large number of
+
+geopolitical risks. The prices of agricultural commodities had generally fallen a little and oil prices
+
+were also slightly lower, despite the conflict in Iraq and renewed turmoil in Libya. UK wholesale gas
+
+prices had risen by around 5%, however, following the imposition by the European Union and United
+
+States of further sanctions on Russia. A further escalation in tensions between Russia and Ukraine
+
+could have a material impact on commodity prices, as well as leading to a reduction in trade with
+
+many European countries.
+
+
+-----
+
+4
+
+**Money, credit, demand and output**
+
+13 As expected, the ONS’s preliminary estimate of GDP growth for the second quarter had been
+
+0.8%, the same rate as in the first quarter. Bank staff continued to expect estimates of growth in Q1
+
+and Q2 to be revised up fractionally, to 0.9%, based on the strength of other surveys of business
+
+activity and the historical pattern of data revisions. Thereafter, growth was expected to ease
+
+somewhat. The latest survey data suggested that the slowing of growth in the second half of the year
+
+was likely to be less pronounced than expected at the time of the May Inflation Report. For instance,
+
+the composite Markit/CIPS output index had strengthened in July, with the services activity index
+
+standing at an eight-month high, although the forward-looking expectations indices had fallen a little.
+
+The updated expectation of Bank staff was for an estimate of GDP growth of 0.8% in the mature data
+
+for the third and fourth quarters.
+
+14 Although manufacturing output growth had dropped back in the second quarter, there appeared
+
+as yet little sign that sterling’s recent appreciation had significantly dented export demand. Export
+
+surveys had weakened somewhat but remained relatively upbeat. A special survey conducted on
+
+behalf of the MPC by the Bank’s Agents had suggested that businesses expected export growth to
+
+improve over the coming twelve months as overseas demand recovered. The survey suggested that the
+
+main impact of the appreciation so far had been to reduce sterling sales values, and so profit margins,
+
+rather than volumes. This had partially unwound some of the increase in exporters’ average margins
+
+seen following the sterling depreciation at the onset of the financial crisis. Some firms anticipated that
+
+the impact on export sales volumes would be more pronounced were sterling to appreciate further.
+
+15 Following four consecutive monthly falls, the number of mortgage loan approvals for house
+
+purchase had increased by 5,000, to 67,000, in June. The number of applications for mortgages had
+
+also picked up a little. Together, these data supported intelligence gained from the major UK lenders
+
+that the immediate negative effect on lending activity associated with the implementation of the
+
+Mortgage Market Review was beginning to wane. Most lenders expected that its impact would
+
+continue to subside in July. Nevertheless, mortgage approvals had been weaker than expected at the
+
+time of the May Inflation Report, when they had been projected to rise to around 85,000 per month by
+
+the end of the year. The recent indicators suggested that a number around 75,000 per month on
+
+average in Q4 now seemed more likely. A confidential preview of the RICS survey indicated that new
+
+buyer enquiries at estate agents had fallen in July, albeit only slightly, for the first time in 18 months.
+
+
+-----
+
+5
+
+In both June and July, by contrast, the number of new instructions to sell properties received by estate
+
+agents had risen slightly.
+
+16 Together, the apparent reduction in demand for, and increase in the supply of, homes in the
+
+secondary market would act to ease pressure on house prices. The Nationwide house price index had
+
+risen by only 0.1% in July and the Land Registry index had been flat in June. The more volatile
+
+Halifax index had increased by 1.4% in July, however. The Committee’s updated assumption for
+
+house price inflation was somewhat softer than that made three months ago, with the pace of price
+
+appreciation expected to slow to around ½% per month on average by 2015 Q1. This reflected some
+
+unwinding of the relative price increases seen in London in recent years.
+
+17 The stock of broad money had expanded at an annual rate close to 4% in June, a little below the
+
+growth of nominal GDP in Q1. Within that, households’ M4 had risen at a similar pace. After
+
+controlling for the effects of movements in market interest rates, the expansion of households’ money
+
+holdings since the start of the crisis had been greater than would normally have been associated with
+
+the observed increases in nominal spending and wealth.
+
+18 The appropriate signal to draw from the past pace of household money growth depended on
+
+whether the apparent increase in the demand for money holdings would prove lasting. It was possible
+
+that, following the financial crisis, households would in aggregate desire to maintain a larger buffer of
+
+liquid assets than during the preceding years of economic stability. Although surveys indicated that
+
+households’ confidence in the general economic environment was near record highs, indicators of
+
+households’ confidence in their own financial situation remained below pre-crisis levels. Set against
+
+that, it was also possible that households’ desire for liquid money balances would diminish as the
+
+expansion progressed and uncertainty over unemployment and income continued to fall. In this case,
+
+the money would either be spent or reinvested in less liquid assets, potentially pushing up their prices.
+
+In the August Inflation Report forecast, the household saving rate was expected to fall a little in the
+
+near term as spending exceeded income growth. The switch in the composition of households’ money
+
+balances away from time deposits and towards instant-access sight deposits seen since mid-2012 was
+
+consistent with that judgement. Such a portfolio adjustment was also consistent with the fact that the
+
+term structure of interest rates had flattened significantly since mid-2012 as bank funding costs had
+
+fallen.
+
+
+-----
+
+6
+
+19 Corporate money holdings had grown at an annual rate of almost 9% in June. In the past,
+
+increased corporate money holdings had often been an indicator of subsequent periods of higher
+
+capital expenditure. The pickup in business investment underlying the Committee’s August Inflation
+
+_Report projections was associated with a fall in the corporate financial surplus over the three-year_
+
+forecast period. The four-quarter growth of bank credit to corporates had only just turned positive in
+
+2014 Q2, although capital market financing had been firm in recent years, and might be expected to
+
+remain so.
+
+**Supply, costs and prices**
+
+20 Twelve-month CPI inflation had risen from 1.5% in May to 1.9% in June, rather stronger than
+
+Bank staff and other economists had expected immediately beforehand. Most of the surprise was
+
+centred in the prices of clothing and footwear, which had risen between May and June for the first time
+
+since the CPI series had begun in 1996. Although it was possible that this partly reflected an unusual
+
+delay to the start of the summer sales that normally caused the sub-index to fall in June – a factor
+
+which would unwind in subsequent months – there was little firm evidence to suggest that this had
+
+occurred. And there were other reasons to suppose that the increase in prices might be more lasting.
+
+21 The BRC and Bank’s Agents reported that the clothing sector had recently experienced relatively
+
+solid demand. And retailers had suggested that this summer’s sales were less widespread than in
+
+previous years, reflecting a reduced need to discount prices heavily in order to clear excess stock. In
+
+addition, it was possible that the increase in the clothing and footwear CPI sub-index in June had been
+
+related to a change in the precise composition of the sample of goods in the basket. Information from
+
+the ONS indicated that a high proportion of price quotes had been collected from goods selected as
+
+replacements for items that had become unavailable in the shops. Any effect of this kind on the
+
+measured price level would be expected to affect the twelve-month inflation rate for a year. Bank staff
+
+expected CPI inflation to remain a little below the 2% target over the coming few months.
+
+22 The labour market data for May continued to underscore the strikingly opposing trends of
+
+strength in employment growth and weakness in wages. Employment had increased by just over
+
+¼ million in the three months to May compared with the previous non-overlapping quarter.
+
+Unemployment had continued to fall, on the LFS measure to 6.5% from 7.2% at the end of 2013. At
+
+the same time, according to the AWE measure, private sector annual regular pay growth had edged
+
+
+-----
+
+7
+
+down to just under 1%. Total pay growth, as expected, had been weaker, reflecting the impact on the
+
+timing of bonus payments of changes to the income tax regime in 2013. Alternative indicators of wage
+
+growth from business surveys and recruitment agencies remained stronger than the official AWE data.
+
+23 When combined with the output data, the strength of employment growth implied that hourly
+
+labour productivity had fallen back in 2014 Q2 and had probably stood at a level no higher than a year
+
+earlier. Indeed, according to the latest data vintage, hourly productivity looked to have grown barely
+
+at all over the previous five years. Excluding the years after the two world wars, current data indicated
+
+that the recent period had seen the slowest rate of productivity growth over any five years since at least
+
+the late 19[th] century. Even with productivity flat, however, weak wage data implied that unit wage
+
+costs appeared to have changed little over the past year.
+
+24 The juxtaposition of strong employment and weak wages was consistent with an increase in
+
+households’ desired supply of labour. The increase in labour market participation over the past few
+
+years had perhaps been the most striking development – all the more so when set against the
+
+demographic impact of an aging population which would otherwise have been expected to reduce
+
+aggregate participation quite materially. The proportion of the population aged 16+ either in work or
+
+seeking it had risen to just under 64% in May: its highest level in 23 years. While it was possible that
+
+a part of this reflected a cyclical increase in participation rates as real incomes remained squeezed and
+
+more jobs became available, there were also reasons to suppose that higher levels of participation were
+
+partly structural. Improved health and longevity, and consequently the ability and need to work longer
+
+to provide for retirement, were likely to have boosted labour market participation. Additional
+
+contributing factors might have been the recent increase in the state retirement age for women and the
+
+planned further increases in state retirement ages, the phasing out of compulsory retirement ages, and
+
+changes to disability benefit rules. It was also possible that increased concerns over their debt burdens
+
+might have encouraged some people to work later in life, or for more hours per week.
+
+25 In addition, there were reasons to believe that the rate of unemployment achievable without
+
+acceleration in wages had fallen back since the depths of the recession. First, the number of long-term
+
+unemployed had fallen. Second, after several years where stagnant or falling real wages and
+
+productivity had been the norm, workers might be more likely to acquiesce to continued wage
+
+restraint. And, third, it was possible that the long-run equilibrium rate of unemployment – determined
+
+by the structural characteristics of the labour market – had fallen back over a number of years. This
+
+
+-----
+
+8
+
+could reflect the increased incentives to search for work provided by benefit reforms, and
+
+technological improvements in job matching, for instance, the increasing prevalence of online job
+
+advertising and search.
+
+26 Bank staff would be undertaking further analysis regarding the evolution of labour supply over
+
+the coming months.
+
+**The August 2014 growth and inflation projections**
+
+27 The Committee’s central view, on the assumption that Bank Rate followed a path implied by
+
+market interest rates and the stock of purchased assets stayed at £375 billion, was that the economy
+
+would expand at close to, or a little above, its historical average rate for much of the next two to three
+
+years. Growth would ease a little in the near term, as the boost from the pent-up demand released by
+
+the easing in credit conditions and lifting of uncertainty faded. Beyond the near term, domestic
+
+demand would be underpinned by a gradual recovery in the growth of productivity and household
+
+incomes. Consumer spending, housing investment and business investment were all anticipated to
+
+make positive contributions to growth throughout the forecast period. The contribution from net trade
+
+would be mildly negative, reflecting persistently low growth in the United Kingdom’s main export
+
+markets, and the lagged effect of the recent rise in sterling.
+
+28 The risks around that central case were judged to be slightly to the downside. That primarily
+
+reflected global uncertainties, including the possibility that investors might reappraise their appetite for
+
+risk. The outlook for productivity was another key source of uncertainty – productivity growth had
+
+repeatedly disappointed, and there was a risk that it would prove weaker still than in the MPC’s
+
+downwardly revised central view.
+
+29 Unemployment was projected to decline throughout the forecast period, albeit at a slower rate
+
+than over the recent past. The outlook for unemployment would be closely linked to that for
+
+productivity: for a given GDP profile, stronger productivity growth would tend to be associated with
+
+less pronounced declines in unemployment, and vice versa. In the central view, the remaining spare
+
+capacity in the economy would be fully absorbed towards the end of the forecast period.
+
+
+-----
+
+9
+
+30 The Committee’s central view was that inflation would remain close to, but a little below, 2% for
+
+the next couple of years, before reaching the target at the end of the forecast period. In part, that was
+
+because the anticipated modest expansion in supply capacity would help to slow the rate at which slack
+
+was absorbed, thereby limiting the build-up of domestic inflationary pressure. The muted inflation
+
+outlook also reflected the dampening effect on import prices of the recent rise in the sterling exchange
+
+rate. There were risks on either side of this projection, in particular stemming from labour costs. As
+
+labour market slack diminished and productivity growth picked up, wage growth was expected to rise
+
+slowly. But wage growth could pick up more sharply than expected, particularly if recruitment
+
+pressures broadened and intensified. Against that, it was also possible that wage pressures could
+
+remain weaker for longer if labour supply growth remained strong.
+
+**The immediate policy decision**
+
+31 The Committee set monetary policy to meet the 2% target in the medium term, and in a way that
+
+helped to sustain growth and employment. The Committee had given guidance in its February
+
+_Inflation Report on how it would seek to achieve the inflation target over the policy horizon. The_
+
+central message of that guidance remained relevant: given the likely persistence of headwinds
+
+weighing on the economy, when Bank Rate did begin to rise, it was expected to do so only gradually.
+
+Moreover, the persistence of those headwinds, together with the legacy of the financial crisis, meant
+
+that Bank Rate was expected to remain below average historical levels for some time to come. The
+
+actual path for monetary policy, even after the first rise in Bank Rate, would, however, remain
+
+dependent on economic conditions. In other words, the Committee’s guidance on the likely pace and
+
+extent of interest rate rises was an expectation, not a promise.
+
+32 The macroeconomic news regarding the global economy had been relatively limited during the
+
+month. The recovery in US growth in the second quarter had been a little firmer than anticipated.
+
+By contrast, another quarter of materially sub-trend growth in the euro area seemed likely in Q2, and
+
+HICP inflation had fallen further in July. There had been a number of significant geopolitical events
+
+regarding the conflict between Ukraine and Russia and also in the Middle East. The Argentinian
+
+government had defaulted on a debt payment. And a large Portuguese bank had imposed losses on
+
+some creditors and required state support. The prices of some risky assets, such as high-yield
+
+corporate bonds and equities, had fallen on the month. Although actual and implied volatilities across
+
+a range of asset classes remained low, it was possible nonetheless that these price falls represented the
+
+
+-----
+
+10
+
+first steps by investors in a reassessment of risk appetite and a return of asset price volatility to more
+
+normal levels. Whether or not such a process would be detrimental to sustaining the expansion might
+
+depend on how gradual or abrupt it proved to be.
+
+33 Domestically, output growth had remained firm and employment growth firmer such that
+
+productivity had continued to disappoint. Although output growth looked likely to be a touch stronger
+
+than previously assumed going into the second half of the year, it also seemed probable that output per
+
+worker would recover more slowly, with productivity growth assumed to remain below its pre-crisis
+
+rate throughout the three-year forecast contained in the August Inflation Report. While employment
+
+growth had been strong, wage growth had been weak. This had been a feature of the UK labour
+
+market data for some time. One explanation was that it would simply take time for the tightening in
+
+the labour market – evidenced by the reduction in unemployment and indications of skills shortages
+
+from business surveys – to feed into pay claims, especially if perceptions of job insecurity following
+
+the financial crisis remained high. Another, not necessarily inconsistent, explanation was that there
+
+had been an increase in the supply of labour that households, especially in older age cohorts, were
+
+prepared to offer at a given wage rate. That might reflect increased longevity, recent reforms to state
+
+retirement and benefit rules, or concerns about debt levels and pension provision. This would tend to
+
+increase the degree to which output and employment could expand without generating inflationary
+
+pressure.
+
+34 The Committee’s central expectation – assuming that Bank Rate followed the path implied by
+
+market yields and that the stock of purchased assets remained at £375 billion – was that inflation was
+
+likely to remain close to, but a little below, 2% for the next couple of years, before reaching the target
+
+at the end of the three-year forecast period. Inflation would be dampened by the effect on import
+
+prices of the recent rise in the sterling exchange rate. And a modest expansion in supply capacity
+
+would help to slow the rate at which slack was absorbed, thereby limiting the build-up of domestic
+
+inflationary pressure resulting from the pace of output and employment growth. In the Committee’s
+
+best collective judgement, the degree of slack had narrowed somewhat, and the central estimate was
+
+now broadly in the region of 1% of GDP. There was, however, a wide range of views on the
+
+Committee – on either side of that central estimate – about the likely extent of spare capacity currently
+
+remaining in the economy, and also about its likely impact, and that of its components, on inflation.
+
+In the view of some members, the degree of spare capacity had diminished sufficiently that, although
+
+
+-----
+
+11
+
+some slack still remained, exactly how much was uncertain enough that estimates of it were becoming
+
+a somewhat less informative guide to the appropriate future path of monetary policy.
+
+35 The Committee considered the level of Bank Rate appropriate to meeting the inflation target.
+
+36 For most members, there remained insufficient evidence of inflationary pressures to justify an
+
+immediate increase in Bank Rate. These members put forward a number of arguments, on which they
+
+each placed different weights. In the central projection contained in the August Inflation Report, even
+
+with the gradual and limited increases in Bank Rate implied by market rates, inflation was expected to
+
+reach the 2% target only at the end of the three-year forecast period. Growth was likely to ease a little
+
+as the boost from pent-up demand released by the easing in credit conditions and lifting of uncertainty
+
+faded. This would slow the pace at which slack was being eroded. Wage growth remained weak,
+
+suggesting that slack in the labour market might have been greater than previously thought. Taking
+
+account of flat productivity, unit wage costs were currently growing at a rate well below that consistent
+
+with meeting the inflation target in the medium term. Given the risk that an increase in labour supply
+
+or persistent concerns over job security would result in weak wage growth continuing for longer, there
+
+would be merit in waiting to see firmer evidence that solid increases in pay growth were in prospect
+
+before tightening policy. This would allow the expansion to become more entrenched. Even if wage
+
+growth were to recover earlier than expected, it appeared that, in aggregate, consumer-facing firms’
+
+margins had recovered over the past year and so would be able to absorb some increase in costs before
+
+such costs passed through to consumer prices.
+
+37 There were also arguments regarding the current and prospective impact of Bank rate on the
+
+economy, on which these members placed different weights. It was possible that, given the strength of
+
+the headwinds faced by the economy, even the current extraordinarily low level of Bank Rate was not
+
+providing a great deal of stimulus to activity. A premature tightening in monetary policy might leave
+
+the economy vulnerable to shocks, with the effectiveness of any further necessary stimulus being
+
+limited by the effective lower bound on Bank Rate. In addition, increases in Bank Rate well ahead of
+
+any pickup in wage and income growth risked increasing the vulnerability of highly indebted
+
+households. Finally, an unexpected increase in Bank Rate might cause sterling to appreciate further,
+
+bearing down on inflation and further impeding UK economic rebalancing.
+
+
+-----
+
+12
+
+38 That said, a potential over-reaction in financial markets was not necessarily a reason to delay an
+
+increase in Bank Rate if that were merited by the economic data. It was also noted that the longer the
+
+expansion continued, the less likely it became that some of the downside risks to growth and inflation
+
+would appear. This, along with a continued improvement in credit conditions, would in time diminish
+
+the need for such a low level of Bank Rate.
+
+39 For two members, in particular, economic circumstances were sufficient to justify an immediate
+
+rise in Bank Rate. These members noted that the continuing rapid fall in unemployment alongside
+
+survey evidence of tightening in the labour market created a prospect that wage growth would pick up.
+
+They noted that it was possible that wages were lagging developments in the labour market to some
+
+extent. If that were true, wages might not start to rise until spare capacity in the labour market were
+
+fully used up. Since monetary policy, too, could be expected to operate only with a lag, it was
+
+desirable to anticipate labour market pressures by raising Bank Rate in advance of them. Moreover, if
+
+recent robust GDP growth rates had been underpinned by stimulatory monetary policy, in addition to a
+
+release of pent-up demand driven by reduced uncertainty and improved credit conditions, then the
+
+erosion of spare capacity would be likely to remain rapid while policy remained expansionary. In the
+
+judgement of these members, even after a rise of 25 basis points in Bank Rate, monetary policy would
+
+remain extremely supportive, and an early rise would facilitate the Committee’s aspiration that the
+
+rises in Bank Rate should be only gradual. These members further noted that, while there were always
+
+likely to be risks associated with the possible financial market reaction to the first increase in Bank
+
+Rate after such a protracted period, it was unclear that these risks would be lessened, and indeed
+
+possible they would be augmented, by delaying that increase.
+
+
+-----
+
+13
+
+40 The Governor invited the Committee to vote on the propositions that:
+
+Bank Rate should be maintained at 0.5%;
+
+The Bank of England should maintain the stock of purchased assets financed by the
+
+issuance of central bank reserves at £375 billion.
+
+Regarding Bank Rate, seven members of the Committee (the Governor, Ben Broadbent, Jon Cunliffe,
+
+Nemat Shafik, Kristin Forbes, Andrew Haldane and David Miles) voted in favour of the proposition.
+
+Ian McCafferty and Martin Weale voted against the proposition, preferring to increase Bank Rate by
+
+25 basis points.
+
+Regarding the stock of purchased assets, the Committee voted unanimously in favour of the
+
+proposition.
+
+41 The Committee had an initial discussion of the operating framework appropriate for
+
+implementing its monetary policy decisions as the economy began to return to normal. The
+
+Committee noted that the current system, under which all central bank reserves were remunerated at
+
+Bank Rate, could continue to be used to implement the Committee’s decisions on Bank Rate in the
+
+near term. The Committee would continue those discussions and provide further information
+
+regarding the operating framework in the coming months. Looking further ahead, the framework will
+
+be reviewed alongside decisions about the future of the Asset Purchase Facility.
+
+42 The following members of the Committee were present:
+
+Mark Carney, Governor
+Ben Broadbent, Deputy Governor responsible for monetary policy
+Jon Cunliffe, Deputy Governor responsible for financial stability
+Nemat Shafik, Deputy Governor responsible for markets and banking
+Kristin Forbes
+Andrew Haldane
+Ian McCafferty
+David Miles
+Martin Weale
+
+Nicholas Macpherson was present as the Treasury representative.
+
+
+-----
+

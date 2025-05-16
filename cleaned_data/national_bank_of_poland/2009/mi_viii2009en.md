@@ -1,0 +1,187 @@
+N a t i o n a l B a n k o f P o l a n d
+
+M o n e t a r y P o l i c y C o u n c i l
+
+# MINUTES OF THE MONETARY POLICY COUNCIL DECISION-MAKING MEETING HELD ON 26 AUGUST 2009
+
+During the meeting the Monetary Policy Council discussed the outlook for inflation in the context
+of the past, current and, primarily, anticipated economic situation.
+
+The discussion at the meeting focused on the outlook for economic growth abroad and in Poland,
+medium-term inflation outlook, zloty exchange rate developments and credit market conditions.
+
+While discussing the external environment of the Polish economy it was pointed out that the data on
+the United States and the euro area, including the GDP data for 2009 Q2, indicate easing of
+recessionary tendencies in those economies. In particular, it was emphasised that GDP in quarterly
+terms grew in Germany and France, i.e. in countries being the most important markets for Polish
+exports. It was pointed out that GDP growth might have been driven by growing demand for
+exports of those countries reported by the Chinese economy, which was connected with the fiscal
+stimulus programme supporting public sector investment in China. It was indicated that since the
+July meeting of the Council, the majority of economic sentiment indicators had further improved
+and GDP growth forecasts for 2010 in the United States and in the euro area had been slightly
+revised upwards.
+
+At the same time, it was emphasised that the global economic activity had continued at a low level
+and at present it was difficult to assess whether the easing of recessionary tendencies would prove
+permanent and what would be the scale of a possible recovery. Considerable uncertainty about the
+outlook for the global economy is primarily connected with the next year’s finalising of stimulus
+programmes which are now significantly contributing to mitigating recessions in major economies.
+The unfavourable situation in the labour market, strong rise in savings and decline in consumption
+in the United States together with further deterioration in euro-area labour market all indicate that
+the stimulus programmes may have only a limited bearing on reviving private demand. Another
+important factor affecting global economic growth will be GDP growth in China. The assessment of
+the growth outlook is additionally hindered by persisting problems in the banking sector.
+
+Some members of the Council argued that the above mentioned factors, after a temporary recovery
+driven by direct effect of stimulus programmes, might bring about another decline in the global
+economic growth. In particular, those members argued that the expected recovery in the euro area
+might not prove long-lived. In this context, they pointed out that despite certain improvement in the
+financial markets conditions the majority of commercial banks operating in the euro area continued
+to tighten their lending policies. Other Council members assessed that despite considerable
+uncertainty persisting, the incoming information indicated an improvement in the outlook for the
+global economic growth, which might suggest that the global recession would be less severe than
+anticipated. Those members also pointed out that the growing role of Asian countries in the global
+economy might contribute to the recovery in the euro area despite weak domestic demand in this
+economy.
+
+While analysing the inflationary processes abroad, it was pointed out that despite growing
+commodity prices the decline in overall price level in the United States and in the euro area had
+
+00 919 Warszawa Świętokrzy ska 11/21 phone no (22) 826 99 55 fax no (22) 826 37 51
+
+
+-----
+
+further deepened, amidst further decrease in positive core inflation indicators. Some members of the
+Council argued that these trends indicated that possible global inflationary threats would be
+probably of a longer-term nature and in the coming quarters major central banks should not be
+expected to start tightening their monetary policy. In the opinion of those Council members, the
+persisting pressure on price decline in the global economy would be, through import prices, curbing
+inflation in Poland. Other members of the Council pointed out that due to an unprecedented scale of
+stimulation measures introduced in the largest economies, the credibility of the so-called exit
+strategy from the expansionary macroeconomic policy would be of key importance for permanent
+anchoring of inflationary expectations and, as a result, for stabilising inflation at a low level.
+
+While addressing the situation in Poland, the members of the Council pointed out that the data on
+the domestic economic climate were ambiguous. On the one hand, further decline in Polish exports
+and persisting negative annual growth in industrial output (including the output of intermediate and
+investment goods), deepening fall in employment in the corporate sector, growing unemployment
+rate and further decline in bank lending all pointed to the continuation of low activity in the Polish
+economy. On the other hand, the majority of economic sentiment indicators rose, which may
+indicate an improvement in the economic situation in the months to come.
+
+While discussing the outlook for economic growth, it was stressed that it largely depended on
+economic situation abroad and the related external demand for Polish products. It was pointed out
+that factors supporting economic growth in Poland included the continuing, albeit lower than in the
+previous quarters, consumption growth and a positive contribution of net exports, connected with
+both the improvement in the price competitiveness of the Polish products in relation to imports
+driven by the depreciation of the zloty in the second half of 2008 and at the beginning of 2009, and
+also by the effect of stimulus packages introduced in the major world economies. In this context it
+was argued that uncertainty related to GDP growth in Poland included how permanent would be the
+easing of recessionary tendencies in Poland’s main trading partners and exchange rate
+developments. Some Council members pointed out that the zloty appreciation observed over the
+recent months, through lowering the price competitiveness of Polish products, may be conducive to
+reducing the contribution of net exports to GDP growth and to extending the slowdown in the
+Polish economy. Those Council members argued that the same effect may be brought by the
+deterioration of labour market situation, including the lowering of the real aggregate wages, which
+may translate into curbing consumer demand. It was pointed out that another factor that had a
+negative impact on GDP growth was the reduction in the supply of bank loans.
+
+At the meeting, the Council also discussed current and expected inflation developments. It was
+indicated that the inflation rise in July 2009 to 3.6%, i.e. above the NBP’s inflation target of 2.5%
+and slightly above the upper limit for deviations from the target set at 3.5%, was primarily driven
+by a strong surge in prices of tobacco resulting from changes in the excise tax and by a further
+increase in fuel prices. Some Council members argued that despite the fact that inflation could
+remain at a heightened level in the coming period – mainly due to the relatively high annual growth
+of food and regulated prices – the available forecasts point to its decline in the second half of 2010,
+which should be supported by the negative output gap connected with the still weak external and
+domestic demand, continuing low wage pressure and the previous appreciation of the zloty.
+
+Other Council members emphasised that CPI inflation in Poland is characterised by a relatively
+high persistence and subsequent projections were extending the horizon of inflation returning to the
+target, which does not support the anchoring of inflation expectations. Those members also pointed
+out that in line with the June projection, in 2010-2011 CPI inflation should be running below core
+inflation net of food and energy prices, which has not been observed since 2003. Moreover, some
+members of the Council argued that the slowing potential output growth combined with the
+improving outlook for economic growth may cause the negative output gap to close earlier than
+
+
+-----
+
+anticipated. It was also emphasised that currently both inflation and GDP growth in Poland were
+significantly higher than in most countries of the European Union.
+
+The Council paid a lot of attention to the exchange rate developments, emphasising the zloty
+appreciation in the recent period. Some Council members indicated that the improved sentiment in
+the world financial markets, relatively favourable economic situation in Poland as compared to
+other EU countries and the access to a flexible credit line of the International Monetary Fund
+lowered the risk of strong zloty depreciation. At the same time, the persistently heightened volatility
+of the zloty exchange rate was emphasised.
+
+Some members of the Council indicated that one factor affecting the zloty exchange rate could be
+the disparity of nominal interest rates between Poland and the euro area and the United States
+favouring – especially amidst stabilising financial market situation – the inflow of capital, which
+was reflected in the growing share of foreign investors in the market of Polish Treasury securities.
+Other Council members, however, assessed that the perspectives of capital inflow to the Central and
+Eastern European countries were to a greater extent influenced by the sentiment of foreign investors
+towards the region and by the disparity in real terms, which was significantly lower than that
+calculated in nominal terms.
+
+While addressing the situation in the banking sector, on the one hand – the further reduction of
+lending to the corporate sector was emphasised, and on the other – the still stable increases in
+consumer loans to households. In this context, some Council members pointed out that banks were
+increasing their profit margins, which meant that lowering of the costs of newly granted loans was
+smaller than the scale of the implemented cuts in the NBP interest rates. In the opinion of those
+Council members, the monetary policy should account for shifts in profit margins resulting from the
+business cycle. Other members of the Council argued that in the current situation the effectiveness
+of the credit channel was limited, which meant that possible further interest rate cuts would have
+only minor effect for the supply of credit.
+
+While analysing the situation in the banking sector, the Council also discussed the situation of
+cooperative banks. It was emphasised that those banks have a large local significance, among
+others, due to the preferential loans they offer for investments and development projects in
+agriculture as well as their contribution to financing local governments. It was pointed out that
+cooperative banks were characterised with a surplus of deposits over extended loans and a lower
+share of irregular loans in their credit portfolios than commercial banks, which gave cooperative
+banks considerable potential for lending expansion. However, in the opinion of some Council
+members, an increase in lending by cooperative banks called for the adoption of measures aimed at
+raising regulatory capital of this sector.
+
+While discussing interest rates, some members of the Council pointed out that the real ex ante rates,
+i.e. rates deflated with expected inflation, remained positive, which combined with the output gap
+remaining negative, could justify further NBP rate cuts. Other members of the Council, however,
+argued that amidst large uncertainty accompanying inflation forecasts and, at the same time, its high
+persistence, economic agents in their decision making would to a larger extent consider the real ex
+post interest rates, i.e. rates deflated with current inflation, which were currently close to zero and
+could be expected to run at a very low level also in the months to come.
+
+While considering the decision on interest rates, the Council assessed that the uncertainty about the
+outlook for inflation and economic growth in the world and in Poland justified keeping the rates
+unchanged at the current meeting. Some Council members believed that the risk of economic
+growth continuing at a low level in the longer run combined with the forecasted significant inflation
+decline in 2010 might justify further easing of the monetary policy in the future. Moreover, it was
+argued that the anticipated increase in the deficit of the public finance sector would be primarily the
+effect of automatic stabilisers rather than anticyclical measures introduced in the fiscal policy,
+
+
+-----
+
+which – in the opinion of those Council members – did not restrict the possibility of further
+monetary policy easing. Other members of the Council pointed out that the incoming data suggested
+that the recession in the world economy and the slowdown of growth in Poland might prove milder
+than previously expected. Those members argued that signs of economic recovery justified the
+assessment that the probabilities of inflation running above or below the inflation target in the
+medium term were roughly equal, while the NBP’s interest rates should be kept unchanged also in
+the coming months.
+
+At the meeting, the prevailing view was that the probability of inflation running below the inflation
+target in the medium term was higher than the probability of inflation running above the target.
+
+The Council kept the interest rates unchanged: the reference rate at 3.50%, the lombard rate at
+5.00%, the deposit rate at 2.00% and the rediscount rate at 3.75%.
+
+_Publication date: 24 September 2009_
+
+
+-----
+

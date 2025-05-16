@@ -1,0 +1,473 @@
+### January 2024
+
+## Bank of Korea
+
+
+-----
+
+English version
+
+#### Minutes of the Monetary Policy Board Meeting
+
+##### January 2024
+
+Ⅰ. Outline
+
+1. Date of meeting: Thursday, January 11, 2024
+
+2. Place: Monetary Policy Board Meeting Room
+
+3. Monetary Policy Board members present:
+
+Rhee, Chang Yong, Chairman (Governor)
+Cho, Yoon-Je
+Suh, Young Kyung
+Shin, Sung Hwan
+Chang, Yongsung
+Ryoo, Sangdai (Senior Deputy Governor)
+
+4. Monetary Policy Board members absent: none
+
+5. Participants:
+Kang, Sungjun, Auditor
+Min, Jwa Hong, Deputy Governor
+Lee, Sang Hyeong, Deputy Governor
+Lee, Jongryeol, Deputy Governor
+Kim, Woong, Deputy Governor
+Chae, Byung Deuk, Deputy Governor
+Lee, Jae Won, Director General, Economic Research Institute
+Choi, Chang Ho, Director General, Research Department
+Kim, Inkoo, Director General, Financial Stability Department
+Hong, Kyung Sik, Director General, Monetary Policy Department
+Park, Jongwoo, Director General, Financial Markets Department
+Oh, Kum Hwa, Director General, International Department
+Kwon, Min Soo, Director General, Reserve Management Group
+Min, Jun Gyu, Director General, Office of Legal Affairs
+Choi, Yong Hoon, Director General, Monetary Policy Board Secretariat
+Kim, Yong Sik, Press Officer
+Hur, Hyun, Head, MPB Administrative Support Team
+
+1) This English version is an excerpt of each Policy Board member’s opinion on the Bank of Korea’s
+
+Base Rate decision, taken from the Minutes of the Monetary Policy Board Meeting.
+
+1
+
+
+-----
+
+##### Ⅱ. Discussions Concerning Monetary Policy Decision
+
+At the January 11 Monetary Policy Board meeting, each member
+
+expressed their opinion on the Bank of Korea’s Base Rate decision.
+
+All members shared the opinion that, in overall consideration of the
+
+domestic and international financial and economic environments, it would be
+desirable to leave the Base Rate unchanged at the current 3.50% level for the
+intermeeting period.
+
+One member presented the view that it would be appropriate to keep
+the Base Rate at its current level of 3.50% for the intermeeting period.
+
+This member noted that, affected by ongoing high interest rate policies,
+
+global inflation had entered a subdued phase and that inflation in most countries
+had been substantially down from its peak. The member projected that the global
+economy would slow somewhat with monetary tightening having repercussions in
+the real sector. The member however anticipated that global trade, which had
+been unusually sluggish last year, would recover gradually, having positive
+impacts on Korea’s exports.
+
+Regarding the domestic economy, the member noted that growth was
+
+exhibiting a gradual recovery trend, boosted by favorable semiconductor and
+automobile exports, while domestic demand, such as private consumption and
+investment, had continued to show a weak recovery. The member assessed the
+labor market as being robust, with the unemployment rate hitting a record low
+of 2.3% in the third quarter of 2023. The member stated that the strong
+employment indicators were a result of growing economic participation by
+women and by the elderly, and went on to argue that a recovery in employment
+among young people would be needed to enhance long-term productivity and to
+expand growth potential.
+
+With respect to inflation, the member commented that consumer price
+
+inflation had continued to decline to 3.1% in the third quarter last year, and that
+it then rebounded somewhat to 3.4% in the fourth quarter. The member noted
+that the rebound had been attributable to supply shocks, including the fading
+away of base-period effects and the rise in oil and agricultural product prices,
+and projected that the gradual decline would continue unless there were
+
+2
+
+
+-----
+
+additional supply shocks. The member also forecast that core inflation excluding
+food and energy would continue to moderate, to reach the lower 2% level at the
+end of the year. Going forward, however, the member expected that it might
+take a considerable period of time for inflation to converge on the target level
+due to favorable labor market conditions and persistent inflation.
+
+Concerning the financial sector, the member noted that difficulties in
+
+vulnerable sectors caused by persistently high interest rates were gradually
+becoming apparent, as seen in the escalating delinquency rates on loans to small
+businesses and on those related to real estate project financing. More specifically,
+the member pointed out that potential risks in financial markets had increased
+following Taeyoung E&C’s application for a debt workout plan, but that markets
+remained stable so far without concern spreading across the entire market. The
+member argued that it would be necessary to closely monitor future issues
+related to real estate project financing so as to prevent them from developing
+into systemic risks.
+
+The member believed that recent inflation developments have shown the
+
+tangible results of the high interest rate policy that the Bank has been
+maintaining to bring inflation down. However, the member also pointed out that
+it needed to maintain the tightening stance until it is confident that inflation is
+safely returning to the target. The member added that there had been past cases
+where long painstaking efforts turned out to have been in vain when inflation
+failed to become anchored. The member also stated that high interest rates help
+to strengthen the foundation for stable growth by reducing private debt and by
+securing future consumption and investment resources. The member mentioned
+that although recessions are painful, they also have a cleansing effect that allows
+the resolution of less competitive sectors so that resources can be used in a
+more productive manner. The member expressed the view that it was appropriate
+to keep the Base Rate at the current 3.5%, and to deal with the negative side
+effects of high rates with micro-level measures, such as ad hoc liquidity
+provisions, if necessary, while monitoring changes in domestic and overseas
+financial and economic developments.
+
+Another member noted that it would be appropriate to maintain the Base
+
+Rate at the current level of 3.50% for this meeting.
+
+The member stated that the global economy saw a gradual slowdown in
+
+3
+
+
+-----
+
+growth as the effects of monetary tightening continued, but that growth was
+expected to improve modestly after the second half of the year. The member
+noted that inflation in the major advanced economies continued an underlying
+trend of deceleration but still remained elevated, and was expected to take some
+time to stabilize at target levels.
+
+The member projected that the domestic economy would likely continue
+
+to improve modestly, with a weaker consumption recovery, but with ongoing
+strong exports. The member saw that employment remained favorable overall,
+although growth in the number of persons employed was gradually slowing. The
+member noted that the real estate market had seen a slowdown in transaction
+volumes and a downward shift in house prices in both the Seoul metropolitan
+area and in provincial areas, but that uncertainty remained high depending on the
+future policy direction. As for domestic inflation, the member noted that
+
+consumer price inflation declined due mainly to lower petroleum product prices
+and smaller increases in other industrial product prices, and core inflation
+continued to decelerate. Going forward, the member expected domestic inflation
+to continue its underlying slowdown, but at a moderate pace due to the spillover
+effects of accumulated cost pressures.
+
+The member pointed out that financial and foreign exchange markets had
+
+seen a significant reduction in risk aversion sentiment since the December
+FOMC meeting. The member stated that government bond yields fell sharply due
+mainly to the sharp decline in U.S. Treasury bond yields, and short-term market
+interest rates also declined significantly. As for household loans, the member
+commented that other loans had declined, but housing-related loans had sustained
+strong growth, and delinquency rates on corporate loans had continued to rise
+led by loans to SMEs, but were still low compared to the long-term average
+delinquency rate in the past. The member presented the opinion that risks related
+to real estate project financing had emerged of late, but the impact on the
+financial system as a whole would likely be limited. However, the member saw
+a need to closely monitor future relevant developments.
+
+The member expressed the view that, in consideration of the overall
+
+domestic and international economic conditions, it would be appropriate to keep
+the Base Rate unchanged at 3.5% at this meeting. The member stated that, while
+inflation was expected to continue in its underlying slowdown, it was still
+significantly above the target level and uncertainty surrounding the future
+inflation path persisted. In addition, the member saw that, while inflation
+
+4
+
+
+-----
+
+expectations had moderated somewhat of late, it was expected to take some time
+to anchor at the target level.
+
+The member pointed out that, in light of these considerations, it would
+
+be necessary to keep the Base Rate unchanged at 3.5% at this Monetary Policy
+Board meeting and to maintain a tight monetary policy stance for a sufficient
+period of time until the Board was confident that inflation would stabilize at the
+target level. The member presented the opinion that, going forward, it would be
+necessary to make monetary policy decisions by closely examining the inflation
+path with a focus placed on anchoring inflation at the target level, while taking
+into account domestic and international economic conditions, changes in monetary
+policies of major countries, and risks to economy and financial stability.
+
+Another member suggested that it would be appropriate to leave the Base
+
+Rate unchanged at the current level of 3.50%.
+
+The member observed that global financial market conditions had eased
+
+considerably with the U.S. long-term Treasury yield decreasing on heightened
+expectations of an earlier-than-anticipated pivot by the U.S. Federal Reserve. The
+member predicted that the global economy would continue its slow growth for
+some time due to tightening monetary policies, and that it would be affected by
+the pace of monetary policy shifts in major countries starting in the second half
+of this year. In the U.S., the member noted that the consumption slowdown had
+continued moderately, and that economic growth had slowed at a
+
+lower-than-expected pace. The member added that, while its inflation had slowed,
+core inflation had shown slower progress than anticipated. As for China, the
+member noted that domestic demand there has been sluggish, driven by the
+continuing real estate market slump, despite an accommodative fiscal policy. The
+member commented on the euro area, saying that its slump would continue for
+some time, weighed down by high inflation and high interest rates.
+
+The member assessed that, on the domestic economic front, the effects of
+
+monetary policy tightening were being transmitted to the real economy, as the
+recovery in private consumption was weaker than expected, construction
+investment remained sluggish, and as the increase in the number of persons
+employed continued to decline moderately, although exports were recovering.
+Going forward, the member expected economic growth to continue to improve
+moderately in the real sector, led by exports, and private consumption to recover
+
+5
+
+
+-----
+
+to a level consistent with the potential growth rate this year. However, the
+member also saw that uncertainty surrounding the forecast path for private
+consumpion had increased since the pandemic outbreak, and, by their nature,
+facilities and construction investment and exports were subject to large forecast
+errors along their paths. The member thus stated that the outlook for future
+growth paths was more uncertain than in the past.
+
+The member stated that inflation had continued to slow moderately,
+
+consistent with the projected path, and that this trend was expected to continue
+this year, as well. However, the member pointed out that current consumer and
+core inflation were still well above the inflation target of 2%, and that the gap
+between them and the projected levels at the end of last year were quite large.
+The member saw potential upside risks to inflation coming from uncertainties in
+the pace of administered price increases in the future, from energy and
+agricultural and marine product prices, from the impact of the government's early
+fiscal spending in the first half of this year, from the speed of price
+transmission of accumulated supply shocks, and from geopolitical risks.
+
+The member noted that, in financial markets, tight financial conditions
+
+had eased somewhat, with domestic long-term government bond yields falling
+sharply as a result of the decline in U.S. Treasury bond yields due mainly to
+strengthening expectations of an early shift in the U.S. Federal Reserve's policy
+stance. However, given that real estate prices had turned downward, growth in
+household debt had shrunk considerably, and that delinquency rates among
+households and corporations were increasing, the member judged that domestic
+financial conditions still remained tight. In addition, the member commented that,
+while the foreign exchange and financial markets had remained stable following
+the announcement of a debt workout application by a construction company,
+financial instability remained a potential risk, with widespread concern over the
+possibility of real estate project financing failures. The member considered it
+appropriate to respond with microeconomic policy measures targeted on the
+sectors triggering financial instability in the event that financial instability in
+certain sectors were to materialize in the future. The member saw that the
+domestic foreign exchange market had been generally stable and that foreign
+currency financing conditions had also been favorable.
+
+Taking into consideration these domestic and overseas economic
+
+conditions, the member saw a need to keep the Base Rate unchanged at the
+current level of 3.50% this time and to monitor progress in the real economy
+
+6
+
+
+-----
+
+and inflation relative to the projected paths for some time, while checking that
+both consumer and core inflation declined sufficiently in-line with their forecast
+paths.
+
+Meanwhile, another member presented the view that it would be
+
+appropriate to keep the Base Rate at its current level of 3.50% for the
+intermeeting period.
+
+The member noted that global economic growth had slowed, driven by
+
+the continuing tightening monetary policy stances in major countries and the
+weakened demand for services, and that this trend would continue into the first
+half of this year. The member also observed that international oil prices had
+fluctuated within a limited range, and that downward pressure would be
+dominant as supply and demand conditions improved. The member projected that
+it would take considerable time before inflation in major economies returns to
+the target, as the pace of slowdown will likely be modest despite a significant
+fall from its peak.
+
+With regard to global financial markets, the member observed that
+
+government bond yields had declined in major countries driven by heightened
+expectations of policy rate cuts, that the U.S. dollar had weakened, and that
+global equity prices had risen. The member noted, however, that entering this
+year, the expectations for policy rate cuts had somewhat weakened in major
+countries, partially reversing developments in those indicators.
+
+Concerning the domestic economy, the member projected that the
+
+recovery momentum for consumption would weaken, while exports and facilities
+investment would continue to improve moderately, led by the recovery in the
+global semiconductor business. The member expected this year’s growth to be
+in-line with the November forecast.
+
+The member expected inflation to continue slowing this year. The
+
+member added that consumer price inflation is likely to approach the target level
+at year-end or early next year, and that core inflation seems to be gradually
+falling, considering the demand pressures.
+
+However, the member viewed that some evidence warrants caution
+
+against jumping to a conclusion that inflation had entered a period of stability in
+
+7
+
+
+-----
+
+spite of the moderating indicators. The member pointed out that inflation had not
+been fully down, and economic agents’ sensitivity to prices still remained high,
+requiring caution against any remaining momentum for price change. The
+member concluded that a prudent approach, taking into account various
+indicators, was required, rather than putting too much meaning onto certain
+indicators.
+
+The member noted that in domestic financial markets short- and
+
+long-term interest rates declined and exchange rates fluctuated within a limited
+range mainly on developments of global financial market.. In terms of household
+lending by financial institutions, the member expected that factors like
+
+strengthened government control of loans, housing prices that had shifted to
+declines, and a decrease in the number of housing transactions to come into
+play. However, the member added that any impact of the recent sharp fall in
+home mortgage loan rates should also be monitored closely. Despite the rise in
+delinquency rates at non-bank financial institutions, and credit events among
+some companies with larger exposure to real estate project financing (PF), the
+member believed that the risk is unlikely to spill over onto the overall financial
+system. However, the member argued that, given elevated wariness in the market
+regarding real estate PF loans, authorities should strengthen their monitoring and
+stand ready to face any market unrest.
+
+In summary, the member assessed that, despite the continuing modest
+
+improvement in the economy and inflation seemingly stabilizing, one should
+remain mindful of any lingering uncertainties concerning the disinflation outlook,
+and keep monitoring markets for financial stability. In overall consideration of
+the above-mentioned circumstances, the member believed that it was desirable to
+keep the Base Rate at the current level of 3.50% for the intermeeting period,
+and to maintain the tightening stance while closely monitoring developments of
+inflation and key indicators of the monetary policy transmission channel, until
+uncertainties surrounding the inflation outlook are fully resolved.
+
+Another member argued that it would be appropritate to leave the Base
+Rate unchanged at the current 3.50% for the intermeeting period.
+
+The member stated that major economies had maintained price stability
+
+since the second half of last year and witnessed their growth and employment
+situations approach equilibrium levels. The member saw that the rapid expansion
+
+8
+
+
+-----
+
+of the U.S. economy had slowed somewhat, but that it remained on track for a
+soft landing, sustaining favorable growth without massive job losses, with
+inflation decreasing. The member mentioned that, in the euro area, the
+manufacturing sector had been lackluster due to rising costs and a slowdown in
+China’s economic growth, and the services sector had exhibited a slower
+recovery, but inflation had fallen rapidly to the mid-2% range led by energy and
+food prices. The member projected that, in China, the real estate slump and
+geopolitical fragmentation had been working as a factor contributing to a
+strucutural slowdown in growth, but the pace of the slowdown would be modest,
+affected by economic stimulus measures.
+
+The member also forecast that the growth rate of the domestic economy
+
+would be in the lower 2% range, slightly surpassing the potential growth rate,
+and that inflation would gradually converge on 2%. The member stated that,
+according to an analysis by the Research Department, this projection was made
+based largely on favorable external conditions, such as a recovery in global trade
+driven by goods and IT demand, as well as falling international oil prices,
+despite a global economic slowdown this year. The member assessed that the
+growth exhibited qualitative improvements, as well, with an increased contribution
+from the private sector, especially in facilities investment, a reduced dependency
+on government spending and construction investment, and progress made on
+diversifying export destinations.
+
+The member however pointed out several factors continuously putting
+
+downward pressure on growth, such as a structural slowdown in private
+consumption affected by sluggish real income, increased debt-servicing burdens,
+and the population aging. The member also noted that weakening export and
+investment momentum due to global fragmentation and to increased offshore
+production, and weak employment growth among the prime working-age
+population in the labor market, were both factors putting downward pressure on
+growth.
+
+Concerning financial markets, the member saw that market interest rates
+
+fell and stock prices rose as investor sentiment had improved, based on
+expectations of the easing of monetary tightening in major countries. The
+member however went on to state that potential destabilizing factors remained,
+such as rising delinquency rates on loans from non-banks, and heightening risks
+related to project financing following Taeyoung E&C’s application for a debt
+workout plan. As for FX markets, the member noted that, despite improvements
+
+9
+
+
+-----
+
+in the current account, the won-dollar exchange rate, linked to the strengthening
+of the U.S. dollar, had been fluctuating at around the lower 1,300 won level. In
+terms of household debt, the member assessed that housing-related loans had
+continued to increase while the decline in loans from non-bank financial
+institutions and unsecured loans had accelerated, and they went on to argue that
+it would be necessary to closely monitor future trends here.
+
+Summarizing all these economic and financial conditions, the member
+
+forecast that, while the economy would grow at a faster pace, there would be a
+further deepening divergence between the export and consumption sectors, and
+inflation would continue to moderate in its underlying trend. The member added
+that, in this regard, a need for further monetary tightening appeared to have
+decreased. The member however judged that, since consmer price inflation was
+expected to remain above its target for more than a year and since supply-side
+upward pressures remained, it would be necessary to maintain the current
+tightening stance for a considerable period of time. The member also argued
+that, in implementing a monetary policy pivot, priority should be placed on
+ensuring that inflationary pressures have slowed and that inflation expectations
+are stable. The member went on to state that consideration should also be given
+to domestic demand and private debt.
+
+10
+
+
+-----
+

@@ -1,0 +1,321 @@
+**_HIGHLIGHTS OF THE MEETING OF THE MONETARY BOARD ON THE_**
+
+**_MONETARY POLICY STANCE HELD ON 21 SEPTEMBER 2023 [1]_**
+
+**I.** **Monetary Policy Decision**
+
+The Monetary Board decided to:
+
+a) Maintain the Target Reverse Repurchase (RRP) rate at 6.25 percent;
+
+and
+
+b) Maintain the current interest rates on the overnight deposit facility at
+
+5.75 percent and overnight lending facility at 6.75 percent.
+
+**II.** **Key Considerations in the Formulation of the Monetary Policy Stance**
+
+       - Based on the sum of new information and its assessment of the impact of
+
+previous monetary policy actions, the Monetary Board decided that
+keeping the policy interest rate unchanged was appropriate. Latest BSP
+baseline projections show a slightly higher inflation path. Nonetheless,
+inflation is still projected to revert to the 2 to 4 percent target range by Q4
+2023 in the absence of further supply-side shocks. While food and
+transport prices continue to drive headline inflation, core inflation has
+moderated further, implying an easing in underlying pressures. In addition,
+inflation expectations remain anchored to the target range over the policy
+horizon.
+
+       - Average inflation is now seen to reach 5.8 percent in 2023 from 5.6 percent
+
+previously, while the forecast for 2024 likewise rose to 3.5 percent from 3.3
+percent. For 2025, the forecast is unchanged at 3.4 percent. The upward
+adjustments in the 2023 and 2024 projections reflect the spillovers from
+weather disturbances, rising global crude oil prices, and the recent
+depreciation of the peso. The balance of risks to the inflation outlook
+remains skewed toward the upside. The major upside risks to the inflation
+outlook are the potential impact of further adjustments in transport fares
+and electricity rates.
+
+       - The Monetary Board noted that recent indicators of domestic economic
+
+activity pointed to waning pent-up demand, even as fiscal efforts continue
+to focus on support through programmed spending. Past interest rate
+increases, which continue to be transmitted via the interest rate channels
+also weighed on credit.
+
+1 The discussions herein reflect the assessment made by the Monetary Board based on macroeconomic and financial
+
+information available at the time of the monetary policy meeting. The next meeting of the Monetary Board on the
+
+
+-----
+
+  - Given these considerations, the Monetary Board deemed it appropriate to
+
+maintain prevailing monetary policy settings while emphasizing the BSP’s
+focus on resuming monetary policy tightening action to respond to
+emerging upside risks to the inflation outlook and potential second-round
+effects that could dislodge inflation expectations. The Monetary Board also
+reiterated the need for non-monetary intervention, including the
+temporary reduction of import tariffs with calibrated volumes and timely
+arrival of import commodities. The BSP also continues to prioritize the
+restoration of inflation towards a target-consistent path over the medium
+term, in line with its primary mandate to ensure price stability.
+
+**III.** **Recent Developments and Inflation Outlook**
+
+The Monetary Board considered the recent macroeconomic and financial
+
+developments discussed below in assessing the monetary policy stance:
+
+**A. Domestic price conditions**
+
+  - Headline inflation rose again to 5.3 percent year-on-year (y-o-y) in August
+
+from 4.7 percent in July, bringing the year-to-date average inflation to 6.6
+percent, due mainly to faster price increases for food and non-alcoholic
+beverages as well as transport. In contrast, the official core inflation rate
+further decelerated to 6.1 percent y-o-y in August from 6.7 percent in July.
+Alternative measures of core inflation, except for weighted median,
+likewise declined in August from the preceding month. On a month-onmonth seasonally adjusted basis, inflation in August 2023 moved at a faster
+pace at 1.1 percent from nil growth in the previous month.
+
+**B.  Inflation expectations**
+
+  - Inflation expectations have increased but remain well within the target
+
+range for 2024 and 2025. The results of the BSP Survey of External
+Forecasters for September 2023 showed a higher mean inflation forecast
+for 2023 at 5.9 percent relative to the August 2023 mean forecast (5.5
+percent). Inflation expectations for 2024 and 2025 also increased to 3.7
+percent (from 3.5 percent) and 3.5 percent (from 3.4 percent), respectively.
+Analysts expect inflation to accelerate anew due to recent supply-side
+shocks domestically and overseas. They also anticipate further upside risks
+to the inflation outlook, due mainly to supply disruptions, particularly from
+the adverse impact of weather disturbances and trade restrictions.
+
+**C.  Inflation outlook**
+
+  - The latest staff baseline inflation forecasts are higher compared to the
+
+previous round for 2023 and 2024. Inflation is projected to average at 5.8
+percent for 2023 and 3.5 percent for 2024. Meanwhile, baseline inflation
+projection for 2025 remained unchanged at 3.4 percent.
+
+The upward adjustments in the inflation forecast for 2023 and 2024 were
+driven mainly by the higher-than-expected outturn for August 2023 and
+
+
+-----
+
+higher inflation nowcast for September 2023. Higher global oil prices and
+the depreciation of the peso likewise contributed to the upward revision.
+
+**Baseline inflation forecasts**
+
+**17 August 2023** **21 September 2023**
+
+**MB Meeting** **MB Meeting**
+
+2023 5.6 5.8
+
+2024 3.3 3.5
+
+2025 3.4 3.4
+
+- The risks to the inflation outlook are still tilted to the upside for 2023 to 2025
+
+and may trigger a possible breach of the inflation target in 2024. The
+potential impact of higher transport charges is among the major risks to
+the inflation outlook given the fare increase petitions filed by transport
+groups in August 2023 due to elevated oil prices. In addition, higher
+electricity rates may result in the near term from the Supreme Court
+decision in July 2022 to nullify Energy Regulatory Commission’s 2014 order
+to cap Wholesale Electricity Market prices in November to December 2013.
+Other key upside risks to the inflation outlook are the impact of El Niño
+weather conditions on food prices and utility rates; higher-than-expected
+minimum wage adjustments in areas outside NCR; and higher domestic
+prices of key food items facing ongoing supply constraints. Meanwhile, the
+impact of a weaker-than-expected global recovery remains the primary
+downside risk to the outlook.
+
+**D. Demand conditions**
+
+- Recent data on economic activity reflect the impact of weaker domestic
+
+and external demand. Business confidence for the current quarter
+weakened in Q3 2023 but was more upbeat for the next quarter and the
+next 12 months. Labor market conditions have eased slightly relative to the
+preceding month as unemployment and underemployment rates
+increased, while the labor force and employment levels and rates declined
+as of July 2023. Meanwhile, merchandise exports contracted in July, due to
+the drop in export values of coconut oil, other mineral products, and other
+manufactured goods. In contrast, the modest improvement in consumer
+sentiment for the second half of 2023 and double-digit growth in vehicle
+sales in July suggest that private consumption will remain a main
+contributor to growth in the near term. At the same time, faster expansion
+for both volume and value manufacturing indices from the Monthly
+Integrated Survey of Selected Industries (MISSI) in July and recovery of the
+Purchasing Managers’ Index (PMI) based on the report of the Philippine
+Institute for Supply Management (PISM) in August signal possible
+improvement in the manufacturing sector. The latest outturn in PISM’s
+PMI also show growth in retail and wholesale, and services.
+
+**E.  Supply-side indicators**
+
+Developments in Agriculture
+
+|Baseline inflation forecasts|Col2|Col3|
+|---|---|---|
+||17 August 2023 MB Meeting|21 September 2023 MB Meeting|
+|2023|5.6|5.8|
+|2024|3.3|3.5|
+|2025|3.4|3.4|
+
+
+-----
+
+  - Nationwide average retail rice prices increased from month-ago levels in
+
+August 2023. The upward movement in rice prices reflected the uptrend in
+farmgate prices due to cost pressures from inputs, as well as the rise in
+international rice prices, particularly in the quotes from the country’s major
+import sources.
+
+  - Domestic food security is continuously threatened by the country’s
+
+vulnerability to natural calamities, spread of animal diseases, volatility in
+input prices, and trade restrictions pushing up international commodity
+prices. The whole-of-government approach is expected to address food
+inflation and mitigate risks to food security through urgent
+
+implementation of measures to fill short-term supply gap and boost local
+production. Moreover, the Department of Agriculture has undertaken and
+coordinated measures to address the effect of El Niño on the agricultural
+supply in anticipation of a prolonged dry season.
+
+  - Based on the latest assessment of weather conditions as of 14 September
+
+2023, prevailing El Niño conditions will likely continue through January –
+March 2024 season. According to PAGASA’s latest climate outlook as of 23
+August 2023, moderate El Niño is present and may further strengthen
+towards the latter part of 2023. In addition, most climate models predict
+that this El Niño episode could persist until at least April 2024.
+
+Oil Price Developments
+
+  - Dubai crude oil prices rose in the first week of September 2023 compared
+
+to the full-month average price in August 2023, driven primarily by the
+extension of Saudi Arabia and Russia’s voluntary supply cuts until the end
+of the year as well as lower US crude oil inventories. Nevertheless, concerns
+of weaker demand prospects due to the sluggish economic outturn for
+China and tight global monetary policy continue to temper increases in
+international oil prices.
+
+  - High prices in the near term are aligned with the tight global oil market
+
+outlook for the second half of 2023.[2] The International Energy Agency (IEA),
+Organization of the Petroleum Exporting Countries (OPEC) and the US
+Energy Information Administration (EIA) expect excess demand in H2
+2023. However, oil market outlook is mixed for 2024, as the IEA and OPEC
+forecast a deficit in the oil market, while the US EIA projects a surplus. The
+expected deficit in the near term is influenced mainly by the production
+cuts of the OPEC+[3] as well as the projected increase in fuel demand in
+China.
+
+Developments in the Utilities Sector
+
+2 August 2023 Outlook
+3 The Organization of the Petroleum Exporting Countries + (OPEC +) countries include Russia, Mexico, Kazakhstan, Oman,
+
+A b iji M l i B h i S h S d B i d S d
+
+
+-----
+
+- Retail electricity rates increased in September 2023, reflecting higher costs
+
+from the Power Supply Agreements (PSAs) and Independent Power
+Producers (IPPs). Charges from PSAs and IPPs rose because of higher fuel
+prices and the depreciation of the peso against the US dollar. IPP charges
+also increased due to the restrictions of Malampaya gas supply, which led
+to increased use of more expensive alternative fuels by First Gas Plants.
+
+**F. Financial market developments**
+
+- The peso depreciated against the US dollar by 0.9 percent for the period
+
+1-8 September 2023 from the previous month, due to the strengthening of
+the US dollar following the hawkish pronouncements from the US Federal
+Reserve. The increase in safe-haven asset demand due to the release of
+weak services PMI data in China likewise weighed down the peso.
+Nonetheless, these factors were partly pared by the country’s higher
+foreign portfolio investments in July.
+
+- On a year-to-date basis, the peso likewise depreciated against the US dollar
+
+by 1.6 percent on 8 September 2023 from the end-December 2022 closing
+rate. Most Asian currencies, except for the Indonesian Rupiah, also
+weakened against the US dollar on a year-to-date basis.
+
+**G. Liquidity and credit conditions**
+
+- Liquidity and credit growth slightly slowed down. Preliminary data showed
+
+that M3 grew by 5.7 percent y-o-y in July 2023, lower than the 5.9 percent
+expansion recorded in June 2023. Meanwhile, outstanding loans of
+universal and commercial banks, net of RRP placements with the BSP
+increased at a slower rate of 7.7 percent y-o-y in July 2023 from 7.8 percent
+in June 2023. Past interest rate increases also continue to be transmitted
+via the interest rate channels.
+
+**H.  Fiscal developments**
+
+- The National Government (NG) recorded a deficit of P599.5 billion in
+
+January-July 2023 which is 21.2 percent lower than the deficit in the same
+period in 2022. The lower deficit can be traced from the growth in revenues
+outpacing the percentage increase in expenditures. Meanwhile, netting
+out the interest payments in NG expenditures, the primary deficit
+amounted to P253.5 billion, 43.9 percent lower than the deficit recorded in
+2022.
+
+- The NG is accelerating public spending in line with the fiscal program for
+
+2023 to attain the growth objectives. NG expenditures grew by 2.7 percent
+in January-July 2023. Specifically, primary expenditures increased by 1.5
+percent, partly driven by the recovery in July 2023 primary spending. The
+15.3 percent growth in primary expenditure in July 2023 countered the 0.7
+percent decline in the first half of 2023.
+
+**I.  External developments**
+
+
+-----
+
+- Global economic activity has expanded at a more moderate pace due to
+
+faster contraction in manufacturing output and slower expansion in
+service-related business activity. Specifically, the JP Morgan All-Industry
+Output Index eased to 50.6 in August 2023 from 51.6 in the preceding
+month. Further, manufacturing activity in China returned to expansion
+while that of the US and Japan remained in contraction territory, reflecting
+persistently weak demand conditions. ASEAN manufacturing sector also
+posted modest expansion, as the S&P Global ASEAN manufacturing PMI
+rose in August 2023 from July 2023.
+
+- Several central banks have maintained their respective key policy interest
+
+rates in August 2023 to continue their assessment of the impact of
+previous monetary policy adjustments. By contrast, some central banks
+raised policy rates to address the persistence of inflationary pressures,
+while one central bank introduced a rate cut to stimulate credit demand
+and boost economic activity.
+
+
+-----
+

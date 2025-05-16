@@ -1,0 +1,119 @@
+# MONETARY POLICY MEETING
+
+### MARCH 2021
+
+**[INF*RES*AS]**
+
+
+-----
+
+## MONETARY POLICY MEETING
+
+##### Monetary Policy Meeting No. 280, held on 30 March 2021.
+
+Present: Mario Marcel, Governor; Pablo García, Board member; Alberto Naudon, Board member, Rosanna
+Costa, Board member. Vice-Governor Joaquín Vial was absent on sick leave.
+
+Also present: Alejandro Zurbuchen, General Manager; Juan Pablo Araya, Legal Counsel and Attestor; Elías
+Albagli, Monetary Policy Division Director; Beltrán de Ramón, Financial Markets Division Director; Solange
+Berstein, Financial Policy Division Director; Gloria Peña, Statistics Division Director; Michel Moure, Institutional
+Affairs Division Director; Markus Kirchner, Macroeconomic Analysis Manager; Enrique Orellana, Monetary
+Policy Strategy and Communication Manager; Miguel Fuentes, International Analysis Manager; Andrés
+Fernández, Economic Research Manager; Felipe Lozano, Communications Manager; Cristóbal Gamboni,
+Advisor to the Finance Minister; Yennifer Chahuán, Acting Secretary General.
+
+#### 1. Background
+
+Background information for this Meeting was contained in the March Monetary Policy Report, to be
+released the following day. This Report noted that the Chilean economy had been advancing steadily in its
+recovery process after the massive shock caused by the pandemic. The year 2020 had ended with greater
+dynamism than had been foreseen in December, reflecting the better adaptation of firms and households
+and the support of a substantial monetary and fiscal impulse. Thus, although in the immediate future a
+setback in local activity was projected due to the tightening of sanitary measures, the outlook for 2021 had
+strengthened, supported also by the sustained progress of the vaccination campaign, the greater impulse
+from abroad, and ongoing expansionary policies. However, the indicators showed that there were still
+significant risks latent associated with such an unprecedented shock.
+
+On the one hand, there was the still complex epidemiological evolution, which added uncertainty to the
+timing and manner in which sanitary restrictions would be eased. On the other hand, the recovery continued
+to be heterogeneous, with significant lags in the sectors most intensive in social interaction, which partially
+explained the important gaps that persisted in the labor market. At the global level, the correct calibration
+of monetary and fiscal stimuli in terms of their size, scope and permanence emerged as key, so as to
+strengthen the recovery without generating macro-financial imbalances. Equally important were the scars
+that the pandemic would inflict on households and businesses—including the deterioration of their net
+worth—and its impact on the future dynamism of the economy.
+
+
+-----
+
+#### 2. Background analysis and discussion
+
+It was noted that the macroeconomic scenario, in general, presented a better aspect compared with late
+last year. Several economies, Chile included, were recovering faster than had been foreseen early in the year
+and their outlooks for 2021 had improved. All this configured a global scenario that would provide greater
+impetus, with faster growth of our trading partners and better terms of trade. In addition, especially in the
+case of Chile, there was the progress of the vaccination process, which was expected to lead to a significant
+reduction in sanitary restrictions in the second half of the year.
+
+In any case, there was agreement that, despite the positive news, the evolution of activity would be negative
+in the immediate future, due to the tightening of sanitary measures. Although these effects were expected
+to be milder than those observed in the early stages of the pandemic, and probably more transitory, they
+would nonetheless delay the economy’s recovery process. For all of the above reasons, the unfolding of
+the sanitary situation going forward was a critical element in the evolution of the macroeconomic scenario.
+Moreover, while the recovery continued to be very heterogeneous across sectors, job creation had slowed
+down and continued to lag significantly behind economic activity.
+
+It was remarked that, although projections for 2021 were improving, the scenario was still surrounded by
+significant risks. One was the heterogeneity of both the effects of the crisis and the recovery process.
+
+Whether at the level of countries, economic sectors and/or socioeconomic groups, there were considerable
+differences in the way the pandemic had impacted their economic situation, which posed challenges as
+to how to manage the level of monetary and fiscal stimuli without generating imbalances that would put
+the economy at risk. Doubts concerning the severity of the scars the pandemic would leave were also
+an element that could condition the measures’ fine-tuning. Finally, the risks associated with the rise in
+long-term interest rates in Chile and elsewhere were discussed. Although these risks were linked to the
+perception of an improved economic scenario and, therefore, were not in themselves cause for concern,
+the possibility of abrupt movements in long rates continued to be a latent risk, particularly due to market
+questionings about the fiscal and monetary policy mix in the United States.
+
+#### 3. Analysis of monetary policy options
+
+All the Board members present agreed that, while prospects for the economy had improved, for inflation to
+converge to the target over the policy horizon, monetary policy needed to remain highly expansionary. They
+also agreed that the range of risks was significant, and close attention should continue to be paid to the
+evolution of both sanitary conditions and the economy’s recovery. In this context, there was consensus that
+everything suggested that the MPR would be kept at its minimum level for several more quarters, which was
+consistent with the fact that most of the scenarios analyzed in the MP Report anticipated no increases in 2021.
+
+
+-----
+
+The Board agreed that, even after considering all the risks and uncertainties regarding the future evolution
+of the economy, the prevailing view was that the most complex part of the shock was being left behind.
+Therefore, the time was approaching when monetary policy would once again be implemented in the
+traditional way, where the momentum was determined by the level of the MPR and the orientation that the
+Board provided on it.
+
+The Board deemed it important to clarify that returning to traditional monetary policy making did not
+require the extraordinary measures taken during the pandemic to be extinguished beforehand. In the past
+year, conventional measures—such as lowering the MPR to its 0.5% minimum—as well as unconventional
+ones—such as the FCIC and the bond purchase program—had been adopted. The latter had already been
+defined in terms of their amount and duration and, barring any changes, would be extinguished with the
+passing of time. This, in any case, was no obstacle for the Bank to make every adjustment it considered
+necessary to accommodate the end of these measures as their duration expired.
+
+#### 4. Monetary policy decision
+
+Governor Marcel and Board members García, Naudon and Costa voted in favor of holding the MPR at
+0.5%. In addition, they agreed to effect not changes to the unconventional liquidity and credit support
+measures in place.
+
+
+-----
+
+**MONETARY POLICY MEETING**
+MARCH 2021
+
+
+-----
+

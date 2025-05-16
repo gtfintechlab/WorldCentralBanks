@@ -1,0 +1,54 @@
+# PRESS RELEASE
+
+ MONETARY POLICY STATEMENT SEPTEMBER 2021
+ BCRP RAISES THE REFERENCE RATE TO 1.0%
+
+1. The Board of Directors of the Central Reserve Bank of Peru (BCRP) decided to raise the reference
+interest rate by 50 bps to 1.0 percent. Monetary policy is still expansionary with a historically low
+reference interest rate. The current decision does not necessarily imply a cycle of successive
+increases in the reference rate. This decision takes into account the following developments:
+
+# i. The year-on-year inflation rate increased from 3.81 percent in July to 4.95 percent in August
+
+being temporarily above the target range due to factors such as the increase in international
+prices of food and fuel, as well as the exchange rate. Trend inflation remains around the
+center of the target range. Year-on- year core inflation was 2.39 percent in August.
+
+# ii. Inflation is expected to return to the target range in the next twelve months and remain
+
+within that range for the rest of next year, due to the reversal of the effects of transitory
+factors on the inflation rate (exchange rate, fuel and grain prices in international markets)
+and that economic activity will remain below its potential level.
+
+# iii. One-year-ahead expected inflation increased from 3.0 percent in July to 3.1 in August, being
+
+slightly above the upper limit of the inflation target range.
+
+# iv. Most leading indicators and expectations about the economy deteriorated in August and
+
+remain in pessimistic territory.
+
+# v. Global economic activity is improving and this process is expected to continue in the next
+
+quarters, as the vaccination process continues around the world, and significant stimulus
+packages are implemented in developed countries.
+
+2. The Board is especially attentive to new information referring to inflation expectations and the
+evolution of economic activity to consider, if necessary, changes in the monetary policy position.
+The BCRP will continue to take the necessary steps to sustain the payments system and credit
+flows. Financial markets were highly volatile in a context of uncertainty and the BCRP’s actions
+were intended to mitigate this volatility
+
+3. The Board also decided to raise the following interest rates on its window facility operations in
+domestic currency with financial entities:
+
+# i. Overnight deposits: 0.85 percent per year.
+ ii. Direct security/currency repo and rediscount operations: 1.5 percent per year.
+
+4. The BCRP Board’s next monetary policy session will take place on October 7, 2021.
+
+Lima, September 9, 2021
+
+
+-----
+

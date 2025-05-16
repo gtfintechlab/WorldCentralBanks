@@ -1,0 +1,241 @@
+**HIGHLIGHTS OF THE MEETING OF THE MONETARY BOARD ON THE MONETARY POLICY**
+
+
+**STANCE HELD ON 24 SEPTEMBER 2015[1]**
+
+**I.** **Monetary Policy Decision**
+
+The Monetary Board (MB) decided to:
+
+a) Maintain the BSP’s key policy interest rates at 4.00 percent for the overnight RRP
+
+(borrowing) facility and 6.00 percent for the overnight RP (lending) facility;
+
+b) Maintain the current interest rates on term RRPs, RPs and SDAs; and
+
+c) Maintain the current reserve requirement ratios.
+
+**II.** **Key Considerations in the Formulation of the Monetary Policy Stance**
+
+  - The MB’s decision was based on its assessment that prevailing price and output conditions
+
+support maintaining current monetary policy settings. Latest baseline forecasts indicate
+that average inflation could fall below the inflation target range of 3 percent ± 1
+percentage point for 2015 due to the successive low inflation outturns in recent months.
+However, inflation is projected to return gradually to a path consistent with the inflation
+target for 2016-2017. Meanwhile, inflation expectations also remain anchored within the
+inflation target band over the policy horizon.
+
+  - The Monetary Board noted that upside risks could come from the impact of stronger and
+
+protracted El Niño dry weather conditions on food prices and utility rates as well as
+pending petitions for power rate adjustments. In addition, the Monetary Board considered
+the weakness in the global economy and the continuing uncertainty in the global financial
+markets.
+
+  - The Monetary Board likewise is of the view that domestic demand conditions remain firm,
+
+supported by buoyant business and consumer sentiment and ample domestic liquidity.
+
+  - Given these considerations, the Monetary Board believes that the benign inflation outlook
+
+and the economy’s underlying growth momentum provide ample room to keep monetary
+policy settings unchanged at this time.
+
+1 The discussions herein reflect the assessment made by the Monetary Board based on a comprehensive set of economic information available at
+the time of the policy meeting. The highlights of the discussions on the 24 September 2015 meeting were approved by the Monetary Board during
+its regular meeting held on 15 October 2015. The next meeting of the Monetary Board on monetary policy issues is scheduled on 12 November
+2015
+
+
+-----
+
+**III.   Recent Developments and Inflation Outlook**
+
+The MB considered the following developments in deciding on the monetary policy stance:
+
+**A. Domestic price conditions**
+
+  - Year-on-year headline inflation eased further to 0.6 percent in August from 0.8 percent in
+
+July. Other indicators also decreased such as the official core inflation, two out of three
+alternative measures of core inflation estimated by the BSP, and the number and weight of
+the above-threshold CPI items. Meanwhile, the seasonally-adjusted 3-month moving
+average annualized headline and core inflation rates were higher during the month.
+
+  - The lower August headline inflation was traced mainly to slower price increases in both
+
+food and non-food items following favorable supply conditions. Food inflation decelerated
+further as price increases of most food items slowed down while prices for bread and
+cereals, including rice and corn, declined relative to year-ago levels. Likewise, non-food
+inflation slowed further owing to the downward adjustment in electricity rates as a result
+of lower generation charges from Independent Power Producers (IPPs) and from the
+Wholesale Electricity Spot Market (WESM) as well as price rollbacks for kerosene, LPG,
+diesel, and gasoline.
+
+  - By geographical location, inflation in the National Capital Region (NCR) eased to
+
+0.2 percent in August from 0.8 percent in July. Meanwhile, inflation in areas outside NCR
+was steady at 0.8 percent.
+
+**B.  Inflation expectations**
+
+  - Inflation expectations depicted in the Consensus Economics and the BSP survey of private
+
+sector economists remained within the target range over the policy horizon. Results of the
+August 2015 BSP’s survey of private sector economists and of the September 2015
+Consensus Economics survey showed that inflation is expected to settle slightly below the
+target range in 2015. Nonetheless, inflation forecasts for 2016-2017 stayed close to the
+midpoint of the target range.
+
+  - Meanwhile, respondents for both Consumer Expectations Survey (CES) and Business
+
+Expectations Survey (BES) expect inflation to increase for the current quarter up to the
+near term. Results of the CES for Q3 2015 indicated that inflation is expected to be
+stronger over the next 12 months, with more respondents anticipating higher inflation for
+the year than earlier predicted. Similarly, results of the BES for Q3 2015 indicated that
+more respondents expected inflation to increase for the current and next quarters
+compared to those who said otherwise.
+
+
+-----
+
+**C.  Inflation outlook**
+
+ - Inflation could settle slightly below the low-end of the government’s announced target
+
+range in 2015 and approach the midpoint of the target range in 2016 – 2017. The
+reduction in the forecasted inflation path for 2015 could be attributed mainly to lower
+global crude oil prices and lower-than-expected GDP growth. Meanwhile, the forecasted
+inflation could be higher in 2016 – 2017 mainly due to expectations of a longer _El Niño_
+episode and potential exchange rate volatilities.
+
+ - The risks to future inflation remain broadly balanced. Slower global economic activity,
+
+fiscal underspending, and petitions for lower transport fares continue to pose downside
+risks while potential adjustments in electricity rates given pending petitions and the impact
+of stronger-than-expected El Niño conditions are the upside risks to inflation.
+
+**D. Demand conditions**
+
+ - The Q2 2015 GDP data showed some recovery in growth momentum, with the economy
+
+expanding year-on-year by 5.6 percent. Domestic sources of growth continue to support
+output expansion. Accelerated consumer and government spending and increased
+investments drove the second quarter growth, offsetting the negative percentage
+contribution of net exports. Meanwhile, the services and industry sectors continued to be
+the main drivers of growth on the production side.
+
+**E.  Supply-side indicators**
+
+Developments in Agriculture
+
+ - The average retail price of regular-milled rice continued to decrease in August-September
+
+from peak levels 12 months ago due partly to the arrival of the additional rice importation.
+Meanwhile, the average retail price of well-milled rice was broadly steady.
+
+ - The Food and Agriculture Organization (FAO) Food Price Index (FPI) posted the sharpest
+
+recorded drop since December 2008. The index average of 155.7 points in August 2015
+was lower by 8.5 points (5.2 percent) and 42.6 points (21.5 percent) from the month-ago
+and year-ago levels, respectively. Except for meat prices which were broadly stable during
+the review period, all prices declined during the month due to ample global supply and
+favorable production outlook.
+
+ - In August 2015, the sea surface temperatures (SST) reflected El Niño conditions gradually
+
+intensifying to a strong level. The consensus of El Niño Southern Oscillation (ENSO)
+prediction models indicate that the El Niño conditions in August have strengthened and
+will likely persist until the end of 2015, with around 75-percent chance that it will continue
+until May 2016.
+
+
+-----
+
+Oil Price Developments
+
+ - Dubai crude prices further declined in August and through most of September on concerns
+
+of weaker global demand coupled with worries that global supply glut could persist.
+Concerns over an oversupplied oil market intensified as international oil agencies
+projected that global production of oil will continue to outpace demand till end-2016
+combined with Iran’s released statement that it will raise output to defend its market
+share.
+
+Developments in the Utilities Sector
+
+ - Electricity rates fell for the fourth consecutive month in September due to lower
+
+generation cost. According to Meralco, the decrease was mainly driven by the lower
+generation costs from Independent Power Producers and Power Supply Agreements as a
+result of higher dispatch level in August.
+
+**F. Financial market developments**
+
+ - The Philippine stock market index dipped in early September but rebounded ahead of the
+
+US FOMC meeting on 16-17 September 2015. The local index declined in early September
+as deepening fears of a global growth slowdown amid weaker-than-expected
+manufacturing data from China, the US and Europe weighed heavily on investor
+sentiments. However, during the week of the two-day US Fed policy meeting, the local
+index rallied and traded above the 7,000 mark on expectations that the timing of the US
+interest rate hike will be pushed back to the latter part of 2015.
+
+ - The peso weakened during the first half of September as the peso was weighed down by
+
+the weak exports data for July. The peso was also under slight pressure ahead of the
+16-17 September 2015 FOMC meeting. Nevertheless, the sustained inflows of foreign
+exchange from overseas Filipino remittances, BPO and tourism receipts, foreign portfolio
+investments, as well as the ample level of the country’s gross international reserves
+provided support to the peso.
+
+ - After debt spreads widened in August following China’s move to devalue its currency, debt
+
+spreads slightly eased in the first half of September as investors await for the result of the
+FOMC meeting. Debt spreads widened after the FOMC meeting as investors flock to
+safe-haven bonds, bidding up prices of US Treasury bonds which pushed yields down and
+widened spreads with emerging market bonds.
+
+**G. Domestic liquidity and credit conditions**
+
+ - Domestic liquidity (M3) grew by 8.5 percent year-on-year in July 2015 to reach
+
+P7.7 trillion. This was slightly slower than the 9.3-percent expansion recorded in June. On a
+month-on-month seasonally-adjusted basis, M3 increased by 0.7 percent. Money supply
+continued to expand due largely to sustained demand for credit. The sustained expansion
+of M3 indicated that money supply remains sufficient to support economic growth.
+
+
+-----
+
+ - Outstanding loans of commercial banks, net of reverse repurchase (RRP) placements with
+
+the BSP, expanded by 13.5 percent in July from 14.5 percent in June. On a month-onmonth seasonally-adjusted basis, commercial bank lending increased by 1.0 percent for
+loans net of RRPs and by 1.1 percent for loans inclusive of RRPs. The bulk of bank loans
+continued to be channeled to key production sectors.
+
+**H.  Fiscal developments**
+
+ - Stepped up fiscal spending in July, which turned the first semester fiscal surplus into a
+
+deficit for the period January-July 2015 should help sustain growth momentum. The
+National Government (NG) recorded a fiscal deficit of P18.5 billion in January-July, albeit
+lower than the P55.7 billion deficit incurred during the same period in 2014. Meanwhile,
+netting out the interest payments in the expenditures, the primary surplus amounted to
+P190.7 billion, P38.5 billion or 25.3 percent higher than the level recorded in the same
+period a year ago.
+
+**I.  External developments**
+
+ - Global economy is expanding at a moderate pace but prospects remain uneven. Economic
+
+growth in the US, euro area, and Japan picked up pace, while activity declined across
+emerging markets, particularly in China and Russia. The growth slowdown in China and
+soft conditions in the rest of East Asia have clouded the outlook for the global economy.
+Global financial markets have been considerably more volatile of late, associated with
+developments in China and the uncertainty about the timing of the Fed lift-off.
+
+
+-----
+

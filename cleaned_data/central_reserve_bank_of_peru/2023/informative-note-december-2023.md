@@ -1,0 +1,72 @@
+**PRESS RELEASE**
+
+**MONETARY POLICY STATEMENT DECEMBER 2023**
+
+**BCRP REDUCED THE REFERENCE RATE TO 6.75%**
+
+1. The Board of Directors of the Central Reserve Bank of Peru (BCRP) decided to reduce the
+reference rate by 25 bps to 6.75 percent. This decision does not necessarily imply a sequence
+of interest rate reductions. Future reference rate adjustments will be conditional on new
+information about inflation and its determinants.
+
+2. The decision to reduce the reference rate considered the following information and projections:
+
+i. In November, month-on-month inflation was -0.16 percent, while core CPI showed no
+variation. Year-on-year inflation fell from 4.3 percent in October to 3.6 percent in
+November, while core inflation decreased from 3.3 percent in October to 3.1 percent in
+November. Both indicators have been decreasing since the beginning of 2023 but
+remain above the upper limit of the inflation target range.
+
+ii. Following a surge in global inflation since the latter half of 2021, inflation in most
+countries has shown a decreasing trend throughout the year. In Peru, there is a more
+marked downward trend in inflation since June, as some of the transitory effects caused
+by restrictions in the supply of certain food items recede.
+
+iii. One-year-ahead expected inflation fell from 3.33 percent to 3.15 percent between
+October and November but remained above the upper limit of the inflation target range.
+
+iv. Year-on-year inflation is projected to reach the target range in the coming months, and
+year-on-year core inflation will be within the target range by the end of 2023, due to a
+moderation in the impact of several international prices, a reversal of agricultural supply
+shocks, and lower projected inflation expectations. However, there are risks related to
+climatic factors, mainly from El Niño phenomenon effects.
+
+v. The leading and expectations indicators for economic activity in November show mixed
+results and most of them remain in pessimistic territory. Economic activity and domestic
+demand have been affected by shocks arising from social conflicts and the coastal El
+Niño, the impacts of which were greater than expected.
+
+vi. The outlook for global economic activity has moderated in a context of lower inflationary
+pressures. Additionally, global risks remain due to the effects of international conflicts,
+and lower growth rates in China.
+
+3. The Board is particularly attentive to new information on inflation and its determinants,
+including the evolution of inflation expectations and economic activity, to consider, if necessary,
+additional changes in the monetary stance. The Board reaffirms its commitment to adopt the
+necessary actions to ensure the return of inflation to the target range over the forecast horizon.
+
+4. The Board also decided the following interest rates on its window facility operations in domestic
+currency with financial entities:
+
+i. Overnight deposits: 4.00 percent per year.
+ii. Direct security/currency repo and rediscount operations: i) 7.25 percent per year for the first
+10 operations in the last 3 months and ii) the interest rate set by the Monetary and Exchange
+Operations Committee for operations in addition to these 10 operations in the last 3 months.
+In addition, the Monetary and Exchange Operations Committee may establish higher rates
+based on the amount of the operations.
+
+5. The schedule of monetary policy meetings for the next twelve months is the following:
+
+January 11 February 8 March 7
+
+April 11 May 9 June 13
+
+July 11 August 8 September 12
+
+October 10 November 7 December 12
+
+Li D b 14 2023
+
+
+-----
+

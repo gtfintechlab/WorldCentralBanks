@@ -1,0 +1,78 @@
+# Press Release
+
+ MONETARY PROGRAM FOR OCTOBER 2005
+
+ CENTRAL BANK KEPT REFERENCE INTEREST RATE AT 3.00%
+
+1. **The Board of the Central Bank approved to keep the reference interest**
+**rates for the interbank market at 3.00 percent. In this decision it has been**
+considered:
+
+a. The forecasts of the Inflation Report of August are maintained. The CPI
+inflation over last twelve months is 1.1 percent in September. It is
+expected that in the next months, the decreasing tendency of the inflation
+rate is reverted and located around the lower limit (1.5 percent) at the end
+of the year. According to the last Inflation Report, it is expected that the
+inflation over last 12 months is located in the lower range of the target
+(1.5 - 2.5 percent) throughout the next year.
+
+b. The dynamism of the economic activity in the forecasted horizon is
+consistent with this convergence of inflation towards its target level in
+2006. The GDP grew 4.9 percent in July, accumulating an increase in the
+first seven months of the year of 5.8 percent. The results of June and July
+(4.6 percent and 4.9 percent) represent only one slight and transitory
+deceleration that would be reverted in the following months. Growth
+projections of 5.5 and 5.0 percent for years 2005 and 2006 are
+maintained.
+
+c. In August 2005 exports reached a level of USS 1,473 million. With this
+result, during the last 12 months the exports reached an amount higher to
+the USS 15 billion, being expected a level superior to the USS 16 billion
+at the end of the year. The evolution of export prices would continue
+being favorable. So if this tendency continues, it would be a higher
+expansion of the trade balance in the year. As of August the accumulated
+trade surplus over the last twelve months is USS 4.1 billion.
+
+d. The Consumer Price Index of Metropolitan Lima (CPI) diminished 0.1
+percent in September, with which the inflation rate over the last twelve
+months diminished from 1.2 percent in August to 1.1 percent in
+September. The core inflation (that isolates the most volatile components
+of the Consumer Price Index basket) in the last twelve months,
+diminished from 0.8 percent in August to 0.7 percent in September.
+
+2. It was also approved to maintain the lending and deposit interest rates for the
+Central Bank operations:
+
+a. For direct repos and monetary regulation credits, the rate is kept at 3.75
+percent.
+
+
+-----
+
+b. For overnight deposits, the rate is maintained at 2.25% percent.
+
+3. In case that the interbank interest rate be higher than 3.75 percent, monetary
+regulation credits and direct repos will be charged with the market interbank
+interest rate.
+
+4. The interest rates for the following operations in dollars between the Central
+Bank and the Financial System are:
+
+a. Monetary regulation credits: 1-month LIBOR plus one percentage point.
+
+b. Overnight deposits: overnight LIBOR minus 3/8 of a percentage point.
+
+c. Swaps: the commission is maintained to a level that implies a minimum
+annual effective cost of 3.75 percent.
+
+d. Reserve requirement in foreign currency subject to a payment: 2.25
+percent.
+
+5. The session in which the Board will approve the following Monetary Program
+(November 2005) will be held on November 3[th], 2005.
+
+..................................................
+
+
+-----
+

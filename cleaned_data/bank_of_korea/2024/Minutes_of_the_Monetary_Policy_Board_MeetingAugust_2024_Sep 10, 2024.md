@@ -1,0 +1,589 @@
+### August 2024
+
+## Bank of Korea
+
+
+-----
+
+English version
+
+#### Minutes of the Monetary Policy Board Meeting
+
+##### August 2024
+
+Ⅰ. Outline
+
+1. Date of meeting: Thursday, August 22, 2024
+
+2. Place: Monetary Policy Board Meeting Room
+
+3. Monetary Policy Board members present:
+Rhee, Chang Yong, Chairman (Governor)
+Shin, Sung Hwan
+Chang, Yongsung
+Ryoo, Sangdai (Senior Deputy Governor)
+Hwang, Kunil
+Kim, Jong Hwa
+Lee, Soo Hyung
+
+4. Monetary Policy Board members absent: none
+
+5. Participants:
+Kang, Sungjun, Auditor
+Lee, Jongryeol, Deputy Governor
+Kim, Woong, Deputy Governor
+Chae, Byung Deuk, Deputy Governor
+Kwon, Min Soo, Deputy Governor
+Park, Jongwoo, Deputy Governor
+Lee, Jae Won, Chief Economist
+Lee, Jiho, Director General, Research Department
+Chang, Cheong Soo, Director General, Financial Stability Department
+Choi, Chang Ho, Director General, Monetary Policy Department
+Choi, Yong Hoon, Director General, Financial Markets Department
+Yoon, Kyoungsoo, Director General, International Department
+Oh, Kum Hwa, Director General, Reserves Management Group
+Baek, Mooyeol, Director General, Office of Legal Affairs
+Lim, Kun Tae, Monetary Policy Board Secretariat
+Kim, Yong Sik, Press Officer
+Hur, Hyun, Head, MPB Administrative Support Team
+
+1) This English version is an excerpt of the Monetary Policy Board members’ opinions on the Bank of
+
+Korea’s Base Rate decision, taken from the minutes of the Monetary Policy Board Meeting.
+
+1
+
+
+-----
+
+##### Ⅱ. Discussions Concerning the Monetary Policy Decision
+
+At the August 22, 2024, Monetary Policy Board meeting, each member
+
+expressed their opinion on the Bank of Korea’s Base Rate decision.
+
+All members shared the view that, in overall consideration of the
+
+domestic and international financial and economic environments, it would be
+desirable to leave the Base Rate unchanged at the current 3.50% level for the
+intermeeting period.
+
+One member expressed the view that it would be appropriate to hold the
+
+Base Rate at the 3.50% for the intermeeting period.
+
+The member judged that, considering the persistently strong U.S.
+
+economy and the easing of sluggish growth in the euro area, the global
+economy would maintain its modest growth, although the pace of its recovery
+might be slower than initially expected.
+
+The member stated that, recently, unexpected U.S. economic data had
+
+greatly shocked financial markets temporarily and raised concerns about an
+economic recession, but that the U.S. economy is generally unlikely to deviate
+from the expected soft landing path. Conflicting signals from U.S. employment
+indicators are being seen as the labor market gradually returns to its equilibrium
+level after exhibiting historic growth since the pandemic, rather than representing
+any downside risk to the U.S. economy.
+
+The member forecast that, although the domestic economy recorded
+
+negative growth in the second quarter, affected by substantial corrections in
+domestic demand -- in particular, private consumption and investment, owing
+chiefly to base effects -- the economy would exhibit favorable growth in annual
+terms, with strong export growth acting as a key driver of economic growth.
+However, growth momentum is expected to weaken somewhat, as global trade is
+likely to improve slowly and as domestic demand will likely recover at a
+slower-than-expected pace due to complex and unpredictable geopolitical risks.
+
+The member stated that consumer price inflation had rebounded
+
+temporarily in July driven by fluctuations in global oil prices and a reduction in
+
+2
+
+
+-----
+
+the fuel tax cut rate. The member, however, projected that consumer price
+inflation would continue its downward trend and gradually approach the target
+level, influenced by reductions in supply-side inflation pressure.
+
+Concerning financial markets, the member noted that restrictive financial
+
+conditions have continued to ease, while Treasury bond yields declined
+substantially, widening the inversion between the Base Rate and Treasury bond
+yields, driven by the spread of expectations of a rate cut by the U.S. Federal
+Reserve and by Treasury bond futures purchases by foreign investors. Herd
+behavior in the bond market seems to have resulted from excessive expectations
+concerning future U.S. and Korean monetary policies, and as such expectations
+can suddenly be reverted in the future, careful attention to market volatility is
+necessary.
+
+The member was of the view that, as the disparity in economic growth
+
+between the U.S. and other major countries has been narrowing and as a rate
+cut by the U.S. Federal Reserve is now in sight, there is growing likelihood that
+factors supporting the strong dollar will gradually weaken. In this regard,
+although concerns remain in the foreign exchange market, upward rigidity of the
+won-dollar exchange rate is expected to strengthen gradually.
+
+The member presented the view that, given these domestic and external
+
+economic conditions, and, specifically, housing price hikes in the Seoul
+metropolitan region and the consequent growth in household lending, it would be
+desirable to keep the Base Rate at its current level of 3.5%.
+
+The member saw that, while exchange rate depreciation pressure has
+
+been weakening, the current Base Rate level, which has been unchanged now for
+an extended period, is showing inflation to have gradually converged on the
+target level, while it is also working restrictively on the real economy, such as
+consumption and investment. Accordingly, expectations and conditions for
+monetary policy easing have been gradually ripening. However, it should be
+accompanied by effective macroprudential policies to curb financial imbalances,
+such as rising housing prices and any growth in household lending.
+
+Another member expressed the view that it would be appropriate to leave
+
+the Base Rate unchanged at this meeting and maintain it at 3.50%.
+
+3
+
+
+-----
+
+The member commented that, as the slowdown in consumer price
+
+inflation has become apparent across major economies, pivots in monetary policy
+stances are coming into full swing. In the U.S., uncertainties regarding the pace
+of economic slowdown remain, as the market responded sensitively to the
+unemployment rate, which was slightly higher than projected. However, the
+dominant view is that the U.S. Federal Reserve’s pivot is now in sight.
+
+As for the domestic economy, the member projected that even with
+
+strong exports led by semiconductors, due to the slow recovery in domestic
+demand the growth rate for the year will reach the level of its long-term
+average. With regard to employment, aggregate indicators are favorable, with the
+unemployment rate reaching a record low, while employment is weak in
+domestic demand sectors, including construction.
+
+The member forecast that consumer price inflation, if it remains on the
+
+downward path, would decline to the lower 2% level at the year-end. Given
+stable inflation, the slow recovery of domestic demand, and high delinquency
+rates among some vulnerable sectors, it seems to be the right time for gradual
+monetary easing. Such expectations can be also seen in the sharp decline in
+market rates.
+
+The member, however, expressed huge concerns about the rapid rise in
+
+real estate prices, particularly in the Seoul metropolitan region. While financial
+conditions are easing, rate cuts should not act as a catalyst to accelerate the rise
+in real estate prices. Real estate price hikes in some regions could not only
+intensify household debt growth and worsen wealth inequality but could also
+undermine the efficiency of resource allocation in the long-term.
+
+The member pointed out that interest rates have non-discriminatory
+
+effects on the economy as a whole. Negative side effects of rate cuts can be
+eased when accompanied by macroprudential policies curbing real estate demand.
+In this regard, it is necessary to monitor whether future policies have tangible
+results.
+
+With all these factors taken into consideration, the member believed that
+
+it would be appropriate to keep the Base Rate at the current level of 3.5% and
+determine future policy directions while keeping an eye on major countries’
+monetary policies, the process of resolving real estate proejct financing, and
+developments in the housing market and in household debt.
+
+4
+
+
+-----
+
+Another member presented the view that it would be appropriate to leave
+
+the Base Rate unchanged at the current level of 3.50% at this meeting.
+
+The member noted that the global economy is expected to continue its
+
+trend of modest growth. However, uncertainties over the pace of future growth
+increased with growing concerns about an economic recession in the U.S.
+
+The member observed that inflation in major economies continued to
+
+slow across the board. As a result, most central banks in advanced economies
+began cutting rates or have signaled the possibility of doing so. Although
+geopolitical risks somewhat heightened in the Middle East, international oil prices
+generally stabilized at low levels due to the prediction of a softening in global
+oil demand.
+
+With regard to international financial markets, the member noted that
+
+major price variables showed significant volatility as the risk-off sentiment
+strengthened considerably and then reversed in response to worries about an
+economic recession in the U.S. and policy rate hikes in Japan. Global stocks
+bounced back quickly after having plunged, and government bond yields in
+advanced economies fell considerably on heightened expectations of the U.S.
+Federal Reserve’s rate cuts.
+
+The member stated that domestic financial and foreign exchange markets
+
+witnessed high volatility affected by changes in the global risk-off sentiment.
+Stock prices rebounded after having fallen steeply and long-term government
+bond yields dropped below 3%. The won-dollar exchange rate decreased due to
+the weakening of the dollar.
+
+Regarding the domestic economy, the member observed that exports were
+
+booming, whereas the recovery in consumption had been slower than anticipated
+due to the monsoon season being longer than in an average year and due to a
+delayed improvement in income conditions. Looking ahead, the domestic
+economy is projected to show modest growth, as exports continue to grow and
+as consumption gradually recovers due to improved real incomes. However, there
+are high uncertainties concerning the sustainability of the strong export growth.
+
+As for inflation, the member judged that domestic inflation continued to
+
+5
+
+
+-----
+
+cool. In July, consumer price inflation increased slightly owing to rises in
+international oil prices, but the core inflation rate remained low, at the lower 2%
+level, and short-term inflation expectations moved down as well. Going forward,
+inflation is anticipated to continue its slowing trend.
+
+The member observed that household loans in the financial sector rose at
+
+a rapid pace, driven by the increase in apartment prices and transaction volume
+in Seoul and its surrounding areas. Given that the government recently
+announced real estate measures to cool the market, it would be necessary to
+examine the policy effects, while closely monitoring household debt and housing
+market conditions for the time being.
+
+Meanwhile, the member stated that, although credit risk aversion had
+
+somewhat eased thanks to the government's real estate project financing soft
+landing measures, delinquency rates on loans from non-banks still remained at
+high levels.
+
+In summary, the member expected inflation to converge toward the target
+
+level, with the domestic economy maintaining a moderate growth trend.
+However, concerns about the buildup of financial imbalances have increased due
+to rising housing prices and expanding household loan growth. Additionally, there
+is still caution in foreign exchange markets due to increased volatility in
+international financial markets.
+
+Taking these circumstances into comprehensive consideration, the member
+
+took the view that the Base Rate should be maintained at the current level of
+3.50% at this meeting. In addition, it is necessary to manage market expectations
+appropriately through communication to prevent risks to financial stability from
+escalating.
+
+Another member expressed the opinion that it would be appropriate to
+
+maintain the Base Rate at the current level of 3.50% at this meeting.
+
+The member observed that, amid the recent modest global economic
+
+recovery, concerns about a recession in the U.S. were highlighted due to the
+weaker-than-expected jobs report. However, such fears had somewhat eased in
+line with the subsequent release of positive economic data. Given that the
+services industry, which accounts for a large share of the U.S. economy,
+
+6
+
+
+-----
+
+remained robust, the likelihood of a sharp slowdown in U.S. economic growth
+was not high. Meanwhile, on the inflation front, as the disinflationary trend
+continued, the U.S. Federal Reserve’s burden of pivoting waned significantly. In
+Japan, the Bank of Japan’s rate hike triggered a significant repatriation of yen
+carry funds accummulated over an extended period, leading to a sharp
+strengthening of the yen and a significant increase in risky asset price volatility.
+Japan’s monetary policy emerged as a major source of uncertainty in global
+financial markets. In China, amid ongoing weak domestic demand and a sluggish
+real estate sector, the pace of its economic recovery would likely depend on the
+extent of practical policy support from the Chinese government after the third
+plenum.
+
+The member noted that the domestic economy continued to show
+
+divergence, with exports booming but with domestic demand remaining sluggish.
+However, domestic demand is expected to improve modestly following the third
+quarter of 2024, with private consumption projected to gradually pick up on the
+back of sustained real wage growth. In the labor market, while the
+
+unemployment rate declined slightly, the growth in the number of persons
+employed remained lower than expected. Meanwhile, since inflation continued to
+slow in line with the forecasted path, it was not seen to be a constraint on rate
+cuts at this moment.
+
+The member observed that in global financial markets, government bond
+
+yields in major economies fell significantly in response to the dovish July
+FOMC meeting outcome and in response to concerns about a U.S. economic
+recession. Affected by this, government bond yields in the domestic financial
+market declined sharply as well, easing financial conditions. Moreover, overall
+liquidity remained quite favorable, with a continuous increase in the money
+supply (M2). However, delinquency rates have continued to rise driven by
+corporate loans from non-bank financial institutions, and risks are still lurking
+with regard to some construction firms and non-bank financial institutions
+involved in real estate project financing. Therefore, the member noted that
+caution was needed to ensure that financial market unrest does not materialize
+during the restructuring process of real estate project financing. Meanwhile,
+housing prices continued to gain strong growth momentum with a steady rise in
+housing prices in the Seoul metropolitan area, and home mortgage loans also
+rose significantly. In addition, if the U.S. Federal Reserve cuts interest rates
+going forward, domestic financial market conditions could ease through interest
+rate synchronization, further fuelling the rise in housing prices. This could
+
+7
+
+
+-----
+
+increase the demand-side pressure on household debt, so it is time to pay close
+attention to the possibility of another large increase in household debt, the
+member noted.
+
+Concerning the domestic foreign exchange market, the member stated that
+
+the won-dollar exchange rate fell, affected mainly by a decline in the U.S.
+Dollar Index (DXY). The foreign currency money market remained generally
+stable. Arbitrage incentives still remained low, although there was an increase
+due to a stronger risk aversion in line with the emergence of concerns over a
+U.S. economic recession, while foreign currency borrowing spreads and CDS
+premiums maintained low levels as well.
+
+In consideration of the abovementioned economic and financial conditions
+
+at home and abroad, the member judged that it was appropriate to maintain the
+Base Rate at the current level of 3.50% at this meeting. Whereas the pivot risk
+associated with inflation had decreased greatly, and the need for a pivot
+increased due to lagging domestic demand, the likelihood of rate cuts translating
+into a rise in housing prices in the Seoul metropolitan area had risen
+significantly. It would be necessary to do the best to stabilize housing prices, as
+excessively high housing prices relative to income levels do not only undermine
+financial stability, but also decrease productivity in the economy by distorting
+resource allocation. In light of this, the member assessed that, at this point, it
+was proper to make sure that monetary policy would not further spur financial
+market instability, and noted that it would be desirable to determine rate cuts
+while examining the effects of real estate measures going forward, including
+macroprudential policies.
+
+Another member expressed the view that it would be appropriate to leave
+
+the Base Rate unchanged at the current 3.50% at this meeting.
+
+The member saw that the global economy has continued its moderate
+
+growth trend, but uncertainties regarding economic conditions in major countries,
+such as the U.S. and China, had somewhat increased. Regarding inflation in
+major countries, there had been progress in disinflation, with consumer price
+inflation rates generally continuing to slow. In international financial markets,
+risk aversion had intensified significantly due to concerns about an economic
+slowdown stemming from worsening U.S. employment indicators, as well as to a
+sudden strengthening of the Japanese yen due to the Bank of Japan’s interest
+
+8
+
+
+-----
+
+rate hike. However, such risk averse sentiments have been largely reversed, with
+key price variables showing high volatility throughout this process.
+
+The member stated that the domestic economy had resumed moderate
+
+growth in the second half of the year after contracting on a preliminary basis in
+the second quarter due to the base effect, but that the divergence between
+exports and domestic demand was continuing. While exports have continued to
+grow at a high rate due to the strong IT industry, the recovery in private
+consumption has been slower than expected due to the impact of abnormally
+high temperatures and heavy rainfall, with the consumption of goods remaining
+sluggish despite an improvement in real incomes. While construction investment
+remains sluggish due to the impact of sluggish construction starts and orders,
+facilities investment has turned positive as delayed investment in capital goods,
+such as semiconductor manufacturing equipment and aircraft, has resumed. On
+the employment front, the number of persons employed continues to grow and
+the unemployment rate remains low. Looking ahead, the domestic economy is
+expected to maintain growth above its potential level, driven by continued export
+growth and by a gradual recovery in consumption stemming from improvements
+in real incomes. However, the future growth path will likely be influenced by
+the recovery in consumption, the magnitude of the expansion of the IT sector,
+and economic conditions in major countries.
+
+As for domestic inflation, the member noted that, while core inflation
+
+had continued to slow, the overall consumer price inflation rate temporarily
+increased in July due to higher petroleum product prices. Given the base effect
+of the sharp increase in oil and agricultural product prices last year and the
+downward stabilization of core inflation, inflation is expected to continue its
+slowing trend. The future path of inflation is likely to be influenced by
+international oil prices and exchange rate movements, agricultural product price
+trends, and whether public utility fees are adjusted. In the real estate market, the
+volume of housing transactions is increasing, particuarly for apartments in the
+Seoul metropolitan area, and housing price growth is also expanding.
+
+The member took the view that, in the domestic financial market, the
+
+easing trend of financial conditions appears to have intensified, with market
+interest rates falling significantly and lending rates decreasing due to
+
+preemptively reflected expectations of a shift in monetary policies at home and
+abroad. Household loans have been increasing by about 5 trillion won per
+month, mainly driven by home mortgage loans, with a rise in housing
+
+9
+
+
+-----
+
+transactions in the Seoul metropolitan area. Given the recent increase in housing
+transactions, it is likely that the growth in individual home mortgage loans, and
+in jeonse leasehold deposit loans in particular, will continue to expand for some
+time. However, risks related to real estate project financing remain latent, with
+delinquency rates on loans from non-banks staying high. In the foreign exchange
+market, the Korean won to U.S. dollar exchange rate dropped significantly due
+to the weakening of the U.S. dollar stemming from heightened expectations of a
+rate cut by the U.S. Federal Reserve, but concerns remain regarding the U.S.
+economic slowdown, the unwinding of the yen carry trade, and geopolitical risks.
+
+Taking these points into overall consideration, the member saw it
+
+desirable to maintain the Base Rate at the current level of 3.5% at this meeting.
+Although inflation is expected to continue its slowing trend and gradually
+converge toward the target level, and as the recovery in domestic demand is
+slow, the possibility of financial imbalances growing due to rising housing
+prices, particularly in the Seoul metropolitan area and due to expanding growth
+in household loans is significant, and concerns in the foreign exchange market
+still persist. Against this backdrop, it is necessary to carefully assess the impact
+of any shift in monetary policy on financial stability. At this point, it is
+necessary to respond with an appropriate policy mix to prevent any prolonged
+expansion of risks in the housing market and in household debt.
+
+Going forward, the member stated that it is necessary to closely monitor
+
+the inflation and growth trajectories in the conduct of monetary policy. When
+determining the timing and extent of any Base Rate cut, the direction of
+monetary policies in major countries, movements in financial and foreign
+exchange markets, and the financial stability situation, including the housing
+market and household debt, should be taken into consideration. At the same
+time, more vigilance when communicating is necessary to avoid any significant
+divergence between policy intentions and market expectations.
+
+Another member presented the view that it would be appropriate to hold
+
+the Base Rate unchanged at the current 3.50% at this meeting.
+
+The member noted that, regarding global economic conditions, as
+
+inflation gradually approaches the target level, more central banks in major
+countries are lowering their policy rates, and the possibility of a rate cut by the
+U.S. Federal Reserve has also increased. As central banks and markets in major
+
+10
+
+
+-----
+
+countries gradually shift their focus from inflation to growth, market sensitivity
+to real economic indicators has heightened, as seen in the sharp fluctuations in
+stock prices in response to indicators like U.S. employment growth.
+
+The member saw that the domestic economy has continued to grow,
+
+driven by stronger-than-expected export performance, particularly of IT products,
+but that the recovery in domestic demand remained sluggish. Although facilities
+investment has rebounded, the recovery in private consumption has been delayed
+as the positive momentum from strong exports has not extended to wages or
+employment growth, with the self-employed sector remaining weak, mainly due
+to structural challenges.
+
+The member stated that the Korean won to U.S. dollar exchange rate has
+
+fallen from the upper 1,300 won range to the lower 1,300 won range lately.
+Although uncertainties remain high, including geopolitical risks and the outcome
+of the U.S. presidential election, the Korean won to U.S. dollar exchange rate is
+expected to continue its downward trend due to the U.S. Federal Reserve's rate
+cuts.
+
+The member noted that underlying inflation indicators, including core
+
+inflation, have been stabilizing, approaching the 2% target level. While consumer
+prices have slightly increased, inflation expectations among the general public
+continue to decline. If no unexpected supply shocks occur, consumer price
+inflation is expected to narrow the gap with core inflation and converge toward
+the target level.
+
+The member took the view that domestic financial conditions have eased
+
+further, with significant declines in both short- and long-term interest rates, in
+credit bond yields, and in lending rates. The growth in household loans,
+particularly home mortgage loans, expanded further in July and is at risk of
+increasing faster than GDP growth. Considering the relatively accommodative
+macroprudential policy stance, declining household lending rates, and the
+possibility of continued housing supply-demand imbalances in the Seoul
+
+metropolitan area, housing prices are likely to keep rising. Consequently, the
+rapid increase in household debt is expected to persist for some time.
+
+The member argued that this trend could weaken household spending
+
+capacity due to the increasing debt repayment burden and threaten financial
+stability. It could also undermine economic dynamism by expanding the flow of
+
+11
+
+
+-----
+
+funds into the real estate sector rather than into productive investments.
+Furthermore, it should be noted that high housing costs and asset prices relative
+to labor income can worsen wealth inequality, exacerbating structural problems in
+Korean society, such as the low birth rate and intergenerational or class
+conflicts.
+
+Overall, the member presented the view that, considering that inflation is
+
+approaching the 2% target in a more stable manner after having surged since the
+pandemic, and that the external sector, including the exchange rate, is generally
+settling down, but that the recovery in domestic demand, such as private
+consumption, is slow, conditions are being created in which it would be possible
+to shift to a less restrictive monetary policy stance.
+
+The member, however, emphasized that financial conditions had eased
+
+before a shift in monetary policy, and this, combined with vulnerabilities in the
+real estate market, was driving up housing prices and contributing to the growth
+in household debt. These developments have, in turn, increased the risk of
+negative impacts on financial stability, on medium- and long-term growth, and
+on the implementation of structural reforms. This suggests that it is necessary to
+operate the policy rate path on a higher trajectory than it would be if only
+inflation and growth forecasts were considered.
+
+In this regard, the member expressed the view that it would be
+
+appropriate to keep the Base Rate at its current level of 3.5% at this meeting.
+Going forward, it is necessary to make monetary policy decisions carefully, by
+taking into account future economic and financial developments, the benefits and
+costs that Base Rate adjustments could have on domestic demand, inflation
+forecasts, financial stability, and the effects of the recently announced
+
+government housing and macroprudential policies.
+
+12
+
+
+-----
+

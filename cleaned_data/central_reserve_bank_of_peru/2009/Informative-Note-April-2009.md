@@ -1,0 +1,34 @@
+**-**
+
+# MONETARY PROGRAM FOR APRIL 2009
+ BCRP REDUCED THE REFERENCE INTEREST RATE TO 5.0%
+
+1. The Board of the Central Reserve Bank of Peru approved to reduce the monetary policy
+reference interest rate from 6.0 to 5.0 percent, thus accumulating a reduction of 150
+basis points in this rate so far this year. The decision of accelerating the reduction of the
+reference interest rate is based on the reduction of inflationary pressures, as a result of
+which the rate of inflation has declined from 6.7 percent in December to 4.8 percent in
+March, as well as on the deceleration observed in private spending due to inventory
+adjustments and the deterioration of the global economy. Should this trend persist, the
+Bank will continue to loosen its monetary policy stance.
+
+2. Inflation recorded a rate of 0.36 percent in March, as a result of which last 12-month
+inflation declined for the fifth consecutive month. Inflation and economic agents’
+expectations about inflation are expected to continue declining in the next months, thus
+allowing inflation’s convergence to the target range in the fourth quarter of this year.
+
+3. The Board also approved to maintain the following annual interest rates on active and
+passive operations in domestic currency (not included in auctions) between the BCRP
+and the financial system:
+
+a. Direct repo and rediscount operations: 5.75 percent.
+b. Overnight deposits: 4.25 percent.
+c. Swap: a commission equivalent to a minimum annual effective cost of 5.75
+percent.
+
+4. The Board will approve the Monetary Program for the next month on its session of May
+7, 2009.
+
+
+-----
+

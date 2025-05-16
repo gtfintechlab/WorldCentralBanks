@@ -1,0 +1,344 @@
+# Minutes of the Monetary Policy Council decision-making meeting held
+
+ on 5 October 2022
+
+At the meeting it was pointed out that incoming data indicated a deterioration of global
+
+economic conditions in 2022 Q3. Activity in the global economy and its prospects were
+
+under the negative impact mainly of high prices of commodities and production
+
+components, as well as the repercussions of Russia’s military aggression against Ukraine
+
+and the tightening of monetary policy around the world. Alongside that, it was pointed
+
+out that in many countries the situation in the labour market remained favourable. The
+
+majority of the Council members underlined, however, that real purchasing power of
+
+wages continued to be curbed by high inflation, which was accompanied by pessimistic
+
+consumer and business sentiment.
+
+It was pointed out that in Europe high energy prices and concerns about gas shortages in
+
+the face of the coming winter were weakening economic activity, and in energy-intensive
+
+sectors had already led to falls in production. At the same time, sharply rising prices of
+
+necessity goods were limiting the possibility of many households to purchase other
+
+goods and services. This was accompanied by continued high uncertainty about the
+
+European economic activity outlook. At the same time, it was pointed out that in the
+
+United States the outlook for economic activity was better than in the euro area – due to,
+
+among others, the fact that the US economy was not dependent on energy commodities
+
+from Russia – although it was also negatively affected by high inflation and significant
+
+monetary tightening.
+
+It was pointed out, that the weakening of global economic conditions and weaker
+
+prospects for global economic growth were accompanied, during the discussed period,
+
+by deteriorating sentiment and increased volatility in global financial markets. This was
+
+reflected in a marked drop in equity and bond prices, as well as a depreciation of many
+
+currencies against the US dollar.
+
+With regard to global inflationary developments, certain Council members noted that in
+
+many economies inflation was running at the highest level in decades. It was
+
+emphasised that – according to Eurostat preliminary data – inflation in the euro area rose
+
+to around 10% in September, reaching almost 11% in Germany, over 17% in the
+
+Netherlands, and continued to clearly exceed 20% in the Baltic states. It was underlined
+
+that high commodity prices, driven partly by the consequences of Russia's military
+
+1/5
+
+
+-----
+
+aggression against Ukraine, continued to be a significant source of high price growth in
+
+many economies. Price growth was also boosted by global supply chain disruptions,
+
+which were still present despite their gradual easing. In this context, attention was
+
+drawn to the very strong growth in producer prices in many economies, including in
+
+Germany. The Council members also underlined that in some economies rising prices
+
+were also driven by demand factors and rising labour costs. Certain Council members
+
+judged that the impact of demand factors on price growth was currently significant. It
+
+was emphasised that increased demand, along with the pass-through of earlier increases
+
+in production costs to consumer goods prices, were also boosting core inflation. At the
+
+same time, it was pointed out that there were signals that the scale of the external shocks
+
+which had boosted inflation around the world was gradually decreasing, which –
+
+besides the gradual easing of global supply chain disruptions – was evidenced by a
+
+slight fall in oil prices. In this context, it was pointed out that CPI inflation in the United
+
+States had decreased slightly in the recent period, although it was accompanied by
+
+further growth in CPI core inflation.
+
+At the meeting it was observed that amid high inflation, the major central banks had
+
+recently continued to tighten their monetary policy. In September the Federal Reserve of
+
+the United States and the European Central Bank had significantly increased interest
+
+rates once again. At the same time, certain Council members emphasised that the
+
+monetary policy tightening by the major central banks was accompanied by
+
+communication indicating their determination to bring inflation down to the target. It
+
+was pointed out that monetary policy tightening by the major central banks should
+
+reduce inflationary pressure on a global scale and contribute to a weakening of the
+
+global economic conditions. It was judged that the measures taken by the major central
+
+banks would therefore be complementary to the monetary tightening implemented in
+
+many economies. Against this background – and also taking into account the lag in the
+
+monetary policy transmission mechanism – certain central banks, that had earlier raised
+
+interest rates significantly (e.g. the Czech National Bank), were currently refraining from
+
+further interest rate hikes. However, certain Council members pointed out that further
+
+interest rate increases by the major central banks would – _ceteris paribus – reduce their_
+
+interest rate disparity with other economies, which might contribute to an appreciation
+
+of the base currencies. These Council members judged that, in such a situation, the
+
+impact of the weakening of global inflationary pressure on price growth in many
+
+countries would be limited.
+
+2/5
+
+
+-----
+
+While analysing the situation in the Polish economy, the majority of the Council
+
+members judged that the available monthly data suggested a gradual deterioration in the
+
+economic conditions. Attention was drawn to the weakening household sentiment and
+
+lower sales of durable goods than a year earlier, and it was observed that the
+
+accompanying further growth in retail sales in annual terms was partly the result of
+
+demand generated by Ukrainian refugees. It was underlined that indicators of economic
+
+conditions in the manufacturing sector were also pessimistic. At the same time, it was
+
+pointed out that industrial production continued to grow significantly, supported by the
+
+easing of global supply chain disruptions. Certain Council members judged, however,
+
+that the deterioration in the economic conditions was not marked.
+
+The Council members drew attention to the fact that in the coming quarters, amid a
+
+global economic slowdown, a further decline in GDP growth in Poland was forecast,
+
+which – despite the government’s shielding measures – would be driven by high prices
+
+of energy and its carriers. At the same time, it was underlined that the economic outlook
+
+was subject to significant uncertainty.
+
+During the discussion it was pointed out that despite the deteriorating economic
+
+conditions, the situation in the labour market remained very good, which was reflected
+
+in the low unemployment rate. However, the majority of the Council members judged
+
+that data from the enterprise sector might suggest a slight cooling down of labour
+
+demand in some sectors. They expressed the opinion that – along with the increased
+
+supply of labour from Ukrainian refugees – it should help curb wage pressure and over
+
+time contribute to reducing inflation. At the same time, other Council members
+
+underlined that annual growth in average wages in the enterprise sector had remained
+
+lower than consumer price growth for several months and therefore the purchasing
+
+power of wages in this sector was falling. However, a judgement was expressed that the
+
+labour market situation would hamper the reduction of inflation, due to the marked
+
+increase in unit labour costs.
+
+At the meeting it was pointed out that according to the Statistics Poland flash estimate,
+
+inflation in Poland had risen to 17.2% y/y in September 2022. Certain Council members
+
+drew attention to the acceleration in price growth, including in monthly terms. The
+
+majority of the Council members underlined that high inflation was still mainly the
+
+result of the earlier strong rise in global energy and agricultural commodity prices –
+
+driven, to a large extent, by the repercussions of the Russian military aggression against
+
+Ukraine – and the earlier increases in regulated domestic tariffs on electricity, natural gas
+
+3/5
+
+
+-----
+
+and thermal energy. At the same time, it was pointed out that inflation was also boosted
+
+by enterprises passing rising costs onto the final goods prices and the consequences of
+
+the earlier global supply chain disruptions, which also drove up core inflation. Certain
+
+Council members underlined that price growth was also driven by demand factors. The
+
+Council members also pointed out that the reduction in some of the tax rates as part of
+
+the Anti-inflationary Shield was curbing annual inflation index.
+
+While discussing the outlook for inflation in Poland, it was emphasised that according to
+
+available forecasts inflation would remain close to the current level in the coming
+
+months, and should decline over the next year. It was underlined that the price path
+
+would be highly dependent on the decision regarding the Anti-inflationary Shield and
+
+the development of regulated prices, including an electricity price freeze up to a certain
+
+level of consumption. Meanwhile, it was pointed out that the currently formulated
+
+forecasts were still subject to very high uncertainty, including uncertainty about the
+
+further course and repercussions of the Russia’s military aggression against Ukraine, the
+
+situation in the European commodities markets, and also the scale of the expected global
+
+economic slowdown. Certain Council members judged that despite the decline in
+
+inflation next year – partly as a result of base effects – price growth, in case of no further
+
+monetary tightening, would remain above the inflation target in the medium term. These
+
+Council members judged that the disinflation process would be hampered by the
+
+heightened inflation expectations of households and enterprises. In this context, they
+
+pointed out that the level of real interest rates – taking into account the level of inflation
+
+expected next year by these economic agents as well as by professional forecasters –
+
+remained negative.
+
+Meanwhile, it was pointed out that hitherto significant NBP interest rate hikes had
+
+contributed to a marked rise in interest rates on loans and deposits, which should curb
+
+domestic demand pressure and, consequently, gradually limit the possibility of passing
+
+rising costs onto the final goods prices. In particular, it was underlined that NBP's
+
+monetary policy tightening had curbed lending in the housing loans segment and had
+
+contributed to negative annual growth in the total value of consumer loans. This was
+
+also accompanied by a change in the structure of household assets, including a shift in
+
+some funds from current deposits to term deposits and the purchase of government
+
+bonds. By contrast, certain Council members emphasised that the introduction of so
+called repayment holidays for all mortgage borrowers was weakening the effect of NBP’s
+
+monetary policy tightening.
+
+4/5
+
+
+-----
+
+The majority of the Council members judged that the hitherto significant monetary
+
+policy tightening by NBP and the expected slowdown in economic activity growth,
+
+which in part stemmed from external shocks, would contribute to curbing demand
+
+growth in the Polish economy, which would support a decline in inflation in Poland
+
+towards the NBP inflation target. The majority of the Council members pointed out that,
+
+given strength and persistence of the current shocks that remained beyond the impact of
+
+domestic monetary policy, a return of inflation towards the NBP inflation target would
+
+be gradual. Alongside that, it was underlined that in accordance with the Monetary Policy
+
+_Guidelines for 2022, the Council flexibly determined the desirable time necessary to bring_
+
+the inflation back to the target, as bringing inflation rapidly back to the target might
+
+entail significant costs to macroeconomic stability. The decrease in inflation would also
+
+be supported by the appreciation of the zloty exchange rate, which in the Council’s
+
+assessment, would be consistent with the fundamentals of the Polish economy.
+
+However, certain Council members expressed the opinion that in view of the still
+
+favourable economic conditions in Poland, the high price growth and the heightened
+
+inflation expectations, as well as due to the easing of fiscal policy, the hitherto scale of
+
+interest rate hikes was, in their view, insufficient to ensure the return of inflation to the
+
+target in the medium term.
+
+The Council decided to keep the NBP interest rates unchanged: the reference rate at
+
+6.75%, the lombard rate at 7.25%, the deposit rate at 6.25%, the rediscount rate at 6.80%,
+
+and the discount rate at 6.85%.
+
+The Council members pointed out that further decisions of the Council would depend
+
+on incoming information regarding the perspectives for inflation and economic activity,
+
+including the impact of the Russian military aggression against Ukraine on the Polish
+
+economy.
+
+Publication date: 10 November 2022
+
+5/5
+
+
+-----
+

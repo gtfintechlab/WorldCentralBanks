@@ -1,0 +1,314 @@
+#                                 Bangko Sentral ng Pilipinas
+
+
+**HIGHLIGHTS OF THE MEETING OF THE MONETARY BOARD ON**
+
+**MONETARY POLICY ISSUES  HELD ON 17 JANUARY 2002[∗]**
+
+
+**Background**
+
+The accountability of the BSP for the inflation target underscores the
+importance of improved transparency. This is to be achieved by reinforcing the
+disclosure and reporting mechanisms to help the public understand what the BSP is
+doing and the reasons for its monetary policy actions as well as enable the public to
+monitor the commitment of the monetary authorities to the inflation target. As part
+of its efforts to promote greater transparency in the conduct of monetary policy, the
+highlights of the Monetary Board discussion on monetary policy will be published
+with a lag of six (6) weeks.
+
+The Monetary Board held its first meeting for the year on monetary policy
+issues on 17 January 2002.  Earlier, on 15 January 2002, the Advisory Committee[1]
+met and formed recommendations on the appropriate monetary policy setting. The
+Advisory Committee submitted, for the consideration of the Monetary Board, a
+policy paper and various information relevant for the deliberation on monetary
+policy. In particular, the  Monetary Board discussed inflation developments and
+expectations, monetary  conditions, external developments  and  the global
+economic  outlook, demand and output indicators and the implications of these
+factors on monetary policy. It will be recalled that the BSP Governor announced on
+26 December 2001 the target inflation of 5.0-6.0 percent for 2002 and 4.5-5.5 percent
+for 2003. These targets were set in coordination with the Development Budget and
+Coordination Committee (DBCC).
+
+∗ The highlights of the discussions of the 17 January 2002 Monetary Board Meeting were approved by
+the Monetary Board during its meeting held on 21 February 2002.
+1 Composed of the Governor of the BSP as Chairman and four members namely the Deputy Governor
+for the Banking Services Sector, Research and Treasury, the Deputy Governor for Supervision and
+Examination Sector, the Director of the Department of Economic Research, and the Director of the
+Treasury Department
+
+**17-01-2001** **1**
+
+
+-----
+
+#                                 Bangko Sentral ng Pilipinas
+
+**I.** **Considerations in Setting the Monetary Policy Stance**
+
+**Current inflation and inflation outlook**
+
+**1.** December inflation slowed down further to 3.9 percent year-on-year from 4.4
+percent in November, bringing the average inflation rate for 2001 to  6.0
+percent,  which is the low end of the government’s 6-7 percent inflation target.[2]
+Based on the latest macroeconomic assumptions on growth, money supply,
+Treasury bill rates, the government’s fiscal position, exchange rate, domestic oil
+prices and prices of non-oil imports,  future inflation is expected to track broadly
+the inflation target for  2002 and 2003. In addition,  the sustained slowdown in
+all the measures of  core inflation since August 2001 further validates the
+continued favorable inflation environment.
+
+**The  prospects for inflation over the policy horizon  are  broadly  in**
+**line with the inflation targets.**
+
+**2.** Despite the seasonal uptick in world oil prices during the winter season,
+information in the futures market point to  broadly stable oil prices  in 2002.
+Softening  oil prices are expected to contribute  to  tamer inflation over the near
+term.
+
+**3.** The  peso-dollar rate was range-bound at P51.254-P51.721 for the period 2-14
+January 2002, an improvement from the P51.153-P52.058 per US dollar range
+recorded in December 2001. This can be attributed to the continued positive
+influence of seasonal inflows of overseas Filipino workers’ remittances. The
+volatility of the exchange rate—measured by the standard deviation—dropped to 16.6
+centavos in January thus far, compared to 31.1 centavos in December 2002.
+
+**Broad stability in the peso-US dollar rate is expected to have a**
+**favorable influence on inflationary expectations.**
+
+**Interest rates and interest rate differentials**
+
+**4.  Despite the slight decline observed in the first week of January, interest rate**
+differentials between the benchmark RP 91-day T-bill rate and foreign interest rates
+
+2 The December 2001 inflation was subsequently revised to 4.1 percent bringing the average inflation
+rate for 2001 to 6.1 percent. Source: National Statistics Office (NSO), Summary Inflation Report
+Consumer Price Index, January 2002 and December 2001 released on 5 February 2002
+
+**17-01-2001** **2**
+
+
+-----
+
+#                                 Bangko Sentral ng Pilipinas
+
+continued to be large due mainly to the sustained decline in foreign interest rates.
+As of 14 January 2001, the differential between the 91-day T-bill rate (net of tax) and
+the 90-day LIBOR reached 465.1 basis points while the differential with that of the
+US 90-day T-bill reached 493.5 basis points. These levels are  high relative to  the
+interest rate differentials registered for the most part of 2001.
+
+**5.  Similarly, the  rate differential between  the  BSP’s policy rate (overnight**
+borrowing or RRP rate) and the  US target federal funds rate remained large  at  600
+basis points following the latest 25-basis point cut in the BSP’s policy rate on 14
+December  2001.  This differential remains relatively high compared to those
+recorded in the previous months.
+
+**6. The  country’s real lending rate—measured as the difference between the prime**
+lending rate (defined as the low-end of the range of banks’ lending rates) and the
+inflation rate—was high at 8.4 percent relative to those of other Asian countries
+during the period 27 December 2001-2 January 2002.
+
+**The significant  decline in foreign interest rates relative to domestic**
+**interest rates   provides  additional leeway for  monetary easing.  Further**
+**interest rate easing could also help stimulate investments by enhancing the**
+**competitiveness of domestic firms relative to their regional counterparts.**
+
+**Money supply**
+
+**7. The growth in  domestic liquidity (M3)  remained subdued.  As of end-**
+November 2001,  M3 growth slowed down  further to  6.2 percent  (preliminary)
+from  a  high of 14.7 percent year-on-year growth as of end-May 2001. This can
+be traced, in part, to the conservative lending stance of banks and weak corporate
+demand for new borrowings due to the presence of spare capacity in manufacturing,
+which  limited firms’ need for new bank credits, and the relatively high leverage
+positions of many firms.  A comparison of the indicative monetary growth path—
+based on the  expected  output growth and inflation paths—and the actual growth in
+M3 reveals  that the excess liquidity that was present in May has been effectively
+mopped..
+
+**8.** Based on the results of estimation exercises for the money demand function for
+2002 (consistent with the Government’s forecasted GNP and inflation paths), a likely
+shortfall in M3 for the first three months was indicated. The results  suggested that
+a reduction in the liquidity reserve requirement would bring the indicative estimated
+
+**17-01-2001** **3**
+
+
+-----
+
+#                                 Bangko Sentral ng Pilipinas
+
+M3 closer to the estimated liquidity requirements during the first quarter, given the
+assumptions for growth and inflation.
+
+**The sustained slowdown in the growth of domestic liquidity in 2001 and**
+**the indicative shortfall in domestic liquidity for the first quarter of 2002 (based**
+**on the results of the estimation exercises) suggest that a further easing of**
+**monetary stance could help stimulate economic growth by promoting**
+**increased consumer spending and  bank lending for productive economic**
+**activities.**
+
+**External Developments and Outlook**
+
+**9.** Signs that the US recession  is nearing bottom and that an economic turnaround
+is on the way  are mixed. On the one hand, consumer confidence rose, home sales
+increased, and orders in manufacturing and service companies picked up. On the
+other hand, unemployment climbed to a 6½-year high of  5.8 percent in
+November. Meanwhile, Japan’s economy continued to slow down and there appears
+to be no signs yet that the economy is touching bottom as consumers and banks  are
+still keeping a tight rein on their spending. Prices have fallen by an annual rate of 4
+percent in 2001. In the Eurozone, real GDP growth is expected to remain weak in
+early 2002 due to the negative carryovers of a marked decline in industrial
+production at the end of 2001. In addition, consumer confidence in the Eurozone
+is likely to be hit by rising unemployment.
+
+**The weakness in the major industrial economies could exert pressures**
+**on the growth prospects of emerging market economies, including the**
+**Philippines. An accommodative response to the downside global prospects**
+**would seem appropriate as a means to provide stimulus to  the domestic**
+**economy.**
+
+**II. Discussion  on the Review of  the Monetary Policy Settings**
+
+**10.  The generally benign inflation outlook over the policy horizon suggested that**
+there is room for  some easing of the monetary policy  stance in the form of a
+reduction in the BSP’s policy rates and a lower liquidity reserve requirement. A
+reduction in policy rates would help lift domestic demand, which should take off
+some of the slack posed by the still fragile global economic conditions. The large
+margins between domestic and foreign interest rates  indicated that there is  still
+scope for a policy rate cut by the BSP  while guarding against possible shifts to
+foreign-currency denominated assets that could  lead to a resurgence of  sharp
+
+**17-01-2001** **4**
+
+
+-----
+
+#                                 Bangko Sentral ng Pilipinas
+
+volatility in the exchange rate, that in turn could lead to an increase in inflation and
+in inflationary expectations.
+
+**11.  A one percentage-point reduction in the liquidity reserve requirement would**
+free up liquidity into the system,  estimated at  about P13 billion.[3]  Reducing the
+liquidity reserves from the current 9 percent to 7 percent would  thus raise
+liquidity by about  P26 billion, although with some time lag.[4] The  actual impact
+on domestic liquidity or M3, however, depends on the ability of banks to
+transform the “free liquidity” into new loans for productive activities, which
+would increase  the money multiplier  and, consequently,  boost the growth in
+domestic liquidity.
+
+**12.  Despite the generally liquid position of banks,  the Monetary Board members**
+noted that  lending activity has been restrained.  A view was expressed to the effect
+that the main constraining factor could be the lack of demand for loans due to the
+perception of a still weak economy as well as the presence of excess capacity in the
+manufacturing sector given that the capacity utilization is only over 76 percent. It
+was observed, meanwhile, that the provision of  greater liquidity could help boost
+aggregate demand as long as such an accommodative monetary policy stance would
+not undermine the stability of the exchange rate, and more importantly, the price
+stability objective.  The boost to aggregate demand could arise as cautious monetary
+easing could reduce interest rates, helping to improve the repayment capability of
+firms, and building on market confidence.
+
+**13.  The members of the Monetary Board recalled that the level of liquidity reserves**
+reached a maximum of only 8 percent prior to 2001 and that was on 29 August 1997.
+This was reduced immediately by one percentage point within one week and by a
+further one percentage point two weeks later and every month thereafter until
+November 1997 when it reached 4 percent. Thus, the Monetary Board viewed that
+the 11 percent liquidity reserve requirement for the period 10 August-6 December
+2001 has been maintained over a relatively extended period. Reducing liquidity
+reserves further by at least 2 percentage points from the current 9 percent will only
+restore the level of liquidity reserves to its pre-July 2001 level.[5]
+
+3 Estimated as follows: 1 percent x P1.290 trillion (total outstanding level of deposits and deposit
+substitutes as of end-November 2001) = P12.9 billion
+4 As of 17 January 2002, total reserve requirement is 18 percent, of which 9 percent is in the form of
+regular reserves and 9 percent is in the form of liquidity reserves.
+5 Effective 27 July 2001, liquidity reserves were raised from 7 percent to 9 percent and further to 11
+percent effective 10 August 2001 to moderate domestic liquidity given the slower pace of economic
+activity and ease pressure on the peso.
+
+**17-01-2001** **5**
+
+
+-----
+
+#                                 Bangko Sentral ng Pilipinas
+
+**14.  Some members of the  Monetary Board, however, expressed concern that the**
+resulting increase in liquidity in the system may not  necessarily  lead to increased
+lending by banks given that lending activity has been restrained by the weakness in
+corporate demand. Instead, the liquidity that  would be freed up  by a  reduction
+in liquidity reserves  could find its way back to the BSP through higher placements
+under the reverse repurchase (RRP) and special deposit accounts (SDAs) or banks
+could take excessively long positions in US dollar which could increase speculative
+activity in the foreign exchange market instead of the “freed funds” being channeled
+into the productive sectors of the economy. Thus, the need for safeguards was also
+raised.
+
+**15. In this connection, Monetary Board members highlighted  the need  to**
+restructure the tiering scheme for the overnight RRP placements and to continue
+close monitoring of banks’ and their affiliates’ foreign exchange transactions to
+address these concerns and encourage the resumption of  more active lending  to the
+private sector.
+
+**16. A Monetary Board member also noted that, with the trend decline in interest**
+rates, banks would be compelled eventually to lend in order to improve their
+earnings.
+
+**17.  Another Monetary Board member pointed out that the impact of monetary**
+easing on foreign exchange is likely to be muted given the ample supply of foreign
+exchange in the market due to the strength of recent inflows, notably coming from
+the proceeds of government bond flotations and other loans as well as overseas
+Filipino workers’ remittances.
+
+**III.  Monetary Policy Decision**
+
+**18.  Based on  the  assessment of the inflationary outlook and the balance of**
+risks bearing on inflation and  output growth,  the Monetary Board  unanimously
+approved the following twin measures to ease monetary policy:
+
+a. Reduction by 25-basis point  each  to 7.5 percent in  the overnight
+RRP (borrowing) rate and 9.75 percent in the overnight RP
+(lending) rate effective  18 January 2002. (At 7.5 percent, the
+BSP’s overnight RRP rate is the lowest since 1 September 1995.)
+
+**17-01-2001** **6**
+
+
+-----
+
+#                                 Bangko Sentral ng Pilipinas
+
+In a move to  induce banks to shift their excess  liquidity
+into lending for productive activities, the Monetary Board also
+approved a revision of the  tiering scheme for the overnight RRP or
+borrowing rate of the BSP as follows:  7.5 percent for placements of
+up to P5 billion; 4.5 percent for the next P5 billion; and 1.5 percent
+for placements in excess of P10 billion.
+
+b. Reduction in liquidity reserves  by 2 percentage points  to 7 percent,
+also effective 18 January  2002.  The 2 percentage points reduction
+in liquidity reserve requirement shall apply  on the following:
+
+1) peso demand, savings and time deposits and deposit substitute
+liabilities of universal banks (UBs), commercial banks (KBs) and
+non-bank financial intermediaries with quasi-banking functions
+(NBQBs)  from 9 percent to 7 percent ; and
+
+2) peso-denominated common trust funds (CTFs) and trust and
+other fiduciary activities (TOFA)-Others of UBs, KBs, and nonbank financial intermediaries performing trust and other
+fiduciary business, common trust funds and investment
+management activities from 10 percent to 8 percent.
+
+The next meeting of the Monetary Board to discuss the monetary policy
+setting is scheduled on 14 February 2002.
+
+**—The Monetary Board of the Bangko Sentral ng Pilipinas**
+
+**17-01-2001** **7**
+
+
+-----
+

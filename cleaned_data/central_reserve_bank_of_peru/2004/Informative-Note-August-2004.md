@@ -1,0 +1,57 @@
+**Press Release**
+
+**BOARD OF THE CENTRAL BANK APPROVED MONETARY**
+**PROGRAM FOR AUGUST 2004**
+
+**CENTRAL BANK RAISES REFERENCE INTEREST RATE TO 2.75%**
+
+1.     In July, the Consumer Price Index of Metropolitan Lima (CPI) increased 0.19 percent
+(2.3 percent in annual basis), due mainly to the price increases in fuel and
+transportation. The cumulative inflation in the January-July period was 3.2 percent.
+Thus, 12-month inflation reached 4.6 percent, higher than in June (4.3 percent). Core
+inflation, indicator of the inflationary trend, was 2.7 percent over last 12 months.
+Import goods price index rose by 11.0 percent in similar period.
+
+As mentioned in May Inflation Report, the rate of inflation is transitorily above the
+upper bound of the range due to consecutive supply shocks over the first half of the
+year (foodstuffs and fuel). In this regard, the Central Bank is taking actions so inflation
+would converge to its target.
+
+The Central Bank forecasts that the 12-month cumulative inflation would decrease
+over the next months near to the upper bound of the target range (1.5-3.5 percent) for
+2004 and around the mid-point of the range (2.5 percent) for 2005.
+
+2. **The** **Board of the Central Bank raised in 25 basis points the reference interest**
+**rates of the monetary operations:**
+
+**a.** **The monetary operations regarding injection or withdrawal of liquidity by**
+**means of auctions will be made in order to place the interbank interest**
+**rate around the center of the corridor set by the reference interest rates**
+**(2.75 percent). Since November 2003 this reference rate was 2.5 percent.**
+**b.** **For direct repos and monetary regulation credits, the rate went up from**
+**3.25 to 3.5 percent.**
+**c.** **For overnight deposits, the rate went up from 1.75 to 2.0 percent.**
+
+3. In case of the interbank interest rate be higher than 3.5 percent, monetary regulation
+credits and direct repos will be charged with the market interbank interest rate.
+
+4. For August, the forecasted range for the daily average balance of banks’ deposits
+held at BCR is S/.165 - S/.185 million. This balance is neither a target nor a monetary
+policy stance indicator, since it is also affected by seasonal factors as well as liquidity
+demand changes.
+
+5. The interest rates for Central Bank‘s operations in dollars are:
+a. Monetary regulation credits: 1-month LIBOR plus one percentage point
+b. Overnight deposits: an interest rate equivalent to the rate for similar BCR’s
+deposits held abroad
+c. Swaps: the commission is raised to a level that implies a minimum annual
+effective cost of 3.5 percent.
+
+6. September Monetary program will be approved in the Board of Directors meeting of
+September 9, 2004.
+
+**Lima, August 5, 2004**
+
+
+-----
+

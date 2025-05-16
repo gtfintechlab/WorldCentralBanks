@@ -1,0 +1,568 @@
+### Publication date: 19 December 2012
+
+## MINUTES OF THE 
+# MONETARY POLICY COMMITTEE MEETING
+## 5 AND 6 DECEMBER 2012
+
+##### These are the minutes of the Monetary Policy Committee meeting held on 
+
+ 5 and 6 December 2012. 
+
+ They are also available on the Internet 
+
+http://www.bankofengland.co.uk/publications/minutes/Pages/mpc/pdf/2012/mpc1212.aspx
+
+##### The Bank of England Act 1998 gives the Bank of England operational responsibility for setting
+
+ interest rates to meet the Government’s inflation target. Operational decisions are taken by the
+
+ Bank’s Monetary Policy Committee. The Committee meets on a regular monthly basis and
+
+ minutes of its meetings are released on the Wednesday of the second week after the meeting
+
+ takes place. Accordingly, the minutes of the Committee meeting to be held on 
+
+ 9 and 10 January will be published on 23 January 2013.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 5 AND 6 DECEMBER 2012
+
+1 Before turning to its immediate policy decision, the Committee discussed financial market
+
+developments; the international economy; money, credit, demand and output; and supply, costs and
+
+prices.
+
+**Financial markets**
+
+2 Financial markets had been relatively stable over the month. The tone from market contacts had
+
+been of a further improvement in sentiment and cautious near-term optimism, albeit against a
+
+background of subdued trading volumes and concerns that significant risks remained, particularly
+
+related to some euro-area countries.
+
+3 Global equity indices had fallen early in the month, in part reflecting concerns about the
+
+implications of the results of the US election for negotiations over the programmed fiscal contraction
+
+due to take place in 2013. But they had subsequently risen, as optimism increased that negotiations to
+
+resolve the issue would be successful, and in the context of the announcement by the EU authorities
+
+and the International Monetary Fund of a further package of support for Greece. Peripheral euro-area
+
+sovereign bond yields, relative to those of comparable German government bonds, had fallen on the
+
+month.
+
+4 UK government bond yields had been broadly unchanged on the month. Respondents to the
+
+Reuters survey of economists had revised down their expectations that the Committee’s asset purchase
+
+programme would be expanded further at some stage. Expectations of a cut in Bank Rate had also
+
+diminished again. Sterling’s effective exchange rate had depreciated a little on the month, but
+
+remained near the top of the range it had occupied over the past couple of years.
+
+5 In bank funding markets, short-term Libor-OIS spreads had stabilised at close to pre-crisis levels
+
+in the United Kingdom and abroad. Measures of longer-term bank funding costs had been relatively
+
+stable on the month, but had fallen considerably since the policy announcements in the euro area and
+
+the United Kingdom in the summer. Banks, including those from Italy, Spain, Ireland and Portugal,
+
+
+-----
+
+2
+
+had continued to take advantage of the improvement in market conditions to issue more term debt.
+
+Issuance of bank debt capital instruments had been particularly strong since the summer, initially by
+
+continental European banks and more recently by a number of UK banks.
+
+6 There had been little change in investment grade non-financial corporate bond spreads over
+
+risk-free rates, and the yields on these bonds had remained at historically low levels. Spreads of
+
+European non-investment grade bonds over risk-free rates had fallen further, and the primary markets
+
+for issuance had remained open, including for companies in peripheral euro-area countries that had
+
+been effectively unable to issue earlier in the year before the ECB’s announcement of its prospective
+
+programme of Outright Monetary Transactions (OMTs). In the United Kingdom, non-financial
+
+corporate bond issuance had been very strong in 2012; but, in aggregate, corporate bond issuance had
+
+been offset by net repayments of bank debt and, to a lesser extent, equity buy-backs.
+
+**The international economy**
+
+7 The data on the world economy had been mixed, but on balance had been consistent with a
+
+stabilisation of global growth, although prospects in the euro area, the United Kingdom’s most
+
+important trading partner, were more subdued.
+
+8 In the United States, the second estimate of third-quarter GDP had seen it revised up by
+
+0.2 percentage points to 0.7%. The expenditure breakdown had been less reassuring, with
+
+stockbuilding having accounted for much of the upward revision. The US manufacturing PMI had
+
+fallen in November while the non-manufacturing PMI had risen slightly. Output was likely to be
+
+broadly unchanged in the fourth quarter, in part because of the impact of recent storms. Data on the
+
+housing market had suggested a continued improvement. Employment gains had been solid in recent
+
+months and the unemployment rate had continued to edge down. There had not yet been agreement by
+
+the US authorities on a moderation of the programmed fiscal contraction, which might have
+
+contributed to caution by businesses and households over major spending decisions.
+
+9 In China, following stabilisation of growth in the third quarter, there had been positive signs in
+
+some of the higher frequency data, pointing to stronger growth in the fourth quarter. Alongside this,
+
+there had also been a pickup in new export orders in the global manufacturing purchasing managers’
+
+index (PMI).
+
+
+-----
+
+3
+
+10 In the euro area, GDP had contracted by 0.1% in Q3. Both the manufacturing and services PMIs
+
+had picked up a little in November, but they remained at levels consistent with a further contraction in
+
+output in the fourth quarter. The improvement in credit conditions following the ECB’s announcement
+
+of OMTs and other policy actions was likely to take some time to feed through.
+
+11 More generally, recent policy actions announced by the euro-area authorities, including those
+
+related to Greece, served mainly to provide time and support for the necessary real adjustments to take
+
+place in the periphery countries. There appeared to have been some improvement in competitiveness
+
+in several periphery countries, suggesting that some progress had been made in external rebalancing.
+
+But some countries had made more progress than others, and the improvements in competitiveness and
+
+external balances had to a large extent been achieved at the cost of large rises in unemployment. The
+
+process of fiscal consolidation and rebalancing in these economies would need to continue for some
+
+time yet, with the consequence that euro-area activity was likely to remain subdued for quite a while.
+
+12 Oil prices had picked up a little on the month, although they remained little changed since the
+
+summer. Industrial metals prices had risen, consistent with the slightly more positive outlook for
+
+global demand. Prices of agricultural commodities had changed little on the month, but low stock
+
+levels meant prices were vulnerable to further shocks.
+
+**Money, credit, demand and output**
+
+13 The Committee noted the fiscal policy measures announced by the Chancellor in the Autumn
+
+Statement. Preliminary analysis had suggested that their impact on the outlook for growth over the
+
+Committee’s forecast horizon was likely to be small.
+
+14 It remained difficult to gauge the underlying state of the UK economy with precision, given the
+
+continuing influence of a number of temporary factors on the output data. In the ONS’s second
+
+estimate of GDP in the third quarter, growth had been unrevised at 1.0%. It seemed likely that
+
+headline GDP growth had embodied a substantial contribution from the combined effects of the
+
+bounce-back in activity following the reduction in output associated with the additional Jubilee bank
+
+holiday and of a boost to activity from the Olympic Games. The ONS’s initial estimates of the
+
+expenditure breakdown suggested that household consumption had increased by 0.6% in the third
+
+quarter, which had been less than the Committee had expected given the anticipated boost from the
+
+Olympic Games. While that might suggest that underlying consumption had been weaker than
+
+
+-----
+
+4
+
+previously thought, the initial expenditure breakdowns were often subject to revision. In accordance
+
+with the usual pre-release arrangements, the Governor had informed the Committee that industrial
+
+production had fallen by 0.8% in October.
+
+15 The major business surveys had been mixed on the month. The Markit/CIPS manufacturing
+
+output and orders indices had both risen. In services, the Markit/CIPS activity and business
+
+expectations indices had both declined, whereas in the latest CBI service sector survey, business
+
+volumes and expectations balances had both picked up. In any case, it was difficult to know how
+
+much weight to put on the business surveys at the current juncture, as they had recently been giving a
+
+weaker signal than the official output data. The Committee’s best judgement was that the outlook was
+
+for broadly unchanged underlying output over the turn of the year. Taken together with the unwind of
+
+the third-quarter boost to GDP from the Olympic Games, it was quite likely that headline GDP would
+
+register a contraction in the fourth quarter.
+
+16 The recovery in activity embedded in the Committee’s projections published in the November
+
+_Inflation Report continued to incorporate a rebalancing of demand in the UK economy towards net_
+
+exports. The nominal trade deficit had, however, widened further in October. And more generally, the
+
+extent of external rebalancing over the past two years had disappointed. It seemed that only a portion
+
+of the disappointing trade performance had been accounted for by weaker demand growth abroad
+
+relative to that in the United Kingdom. Much of the weakness relative to past trends had been
+
+concentrated in exports of services, especially of business and financial services in which the United
+
+Kingdom tended to specialise. In addition to the relatively weak trade performance, current account
+
+data for the first half of the year had shown a deterioration in net investment income from abroad,
+
+concentrated in the net income earned on foreign direct investment.
+
+17 Against that background, the gradual appreciation of sterling between mid-2011 and mid-2012,
+
+as prospects for the euro area had deteriorated, had been unwelcome. Although the nominal effective
+
+exchange rate remained well below its pre-crisis level, some measures of sterling’s real exchange rate
+
+provided a less comforting view of the improvement in UK competitiveness. In particular, a measure
+
+based on relative manufacturing unit labour costs was now only 10% below its level in 2007, and just
+
+5% below its average in the decade prior to the depreciation. It was therefore possible that the real
+
+exchange rate consistent with current account balance might be lower than its current value.
+
+
+-----
+
+5
+
+18 The Bank had published the first data on use of the Funding for Lending Scheme (FLS),
+
+covering the quarter to end-September. The flow of net lending by FLS participants had been
+
+£0.5 billion, and total FLS drawdowns from the Bank had been £4.4 billion. There were now
+
+35 groups participating in the FLS, covering just over 80% of the stock of lending to the real economy.
+
+It remained too early to assess the impact of the FLS on lending flows, given the lags involved in
+
+banks changing their lending strategies and in potential borrowers submitting loan applications. But
+
+there were other indicators that might give an early signal of its likely impact. Wholesale and retail
+
+bank funding costs had fallen since the summer, when both the FLS and the activation of the Extended
+
+Collateral Term Repo (ECTR) facility had been announced, and a number of euro-area policy
+
+statements had been made. The dispersion of UK banks’ retail funding costs had narrowed since the
+
+summer. UK banks had announced lower lending rates for a variety of business loans and household
+
+mortgages, although there had been signs of a levelling off in the extent of the reductions in mortgage
+
+rates over the past month. Lower bank funding costs and some reduction in lending rates were
+
+encouraging indicators for the supply of credit to the economy. A recent survey by the Bank’s Agents
+
+of firms’ investment and research and development intentions had suggested an improvement in
+
+spending over the next year.
+
+19 The Committee noted the recommendation made by the Financial Policy Committee (FPC) at its
+
+November meeting. The FPC had recommended that the Financial Services Authority (FSA) took
+
+action to ensure that the capital of UK banks and building societies reflected a proper valuation of their
+
+assets, a realistic assessment of future conduct costs and prudent calculation of risk weights. Where
+
+such action revealed that capital buffers needed to be strengthened to absorb losses and sustain credit
+
+availability in the event of stress, the FPC had recommended that the FSA should ensure that firms
+
+either raised capital or took steps to restructure their business and balance sheets in ways that did not
+
+hinder lending to the real economy. Historical experience in other countries had suggested that more
+
+rapid progress in tackling balance sheet problems would support both improved funding conditions
+
+and the ability of banks to extend new loans to households and businesses. The FPC’s
+
+recommendation had been aimed at achieving such an outcome.
+
+**Supply, costs and prices**
+
+20 At its November meeting, the Committee had been provided with an advance estimate for
+
+twelve-month CPI inflation of 2.7% for October, an increase of 0.5 percentage points from September
+
+and higher than had been anticipated by the Committee; this had been reflected in the November
+
+
+-----
+
+6
+
+_Inflation Report. The subsequent data release had confirmed that that had reflected a larger_
+
+contribution to inflation from university tuition fees than expected, and higher food price inflation.
+
+21 In addition to the continuing impact of higher university tuition fees, a number of domestic
+
+utility and other administered and regulated prices were set to raise inflation. These included increases
+
+in domestic energy prices that largely reflected rises in costs other than those of wholesale gas, such as
+
+distribution costs. A partial offset to these factors pushing up the short-term outlook for CPI inflation
+
+had been provided by the cancellation of the fuel duty increase in January, and the postponement until
+
+September of the increase that had been scheduled for April, announced by the Chancellor in his
+
+Autumn Statement. Taken together, these administered and regulated prices had a weight of only 13%
+
+in the CPI basket and yet were likely to contribute around one percentage point to CPI inflation over
+
+the next year, and possibly beyond that. To the extent that was the case, other prices in the economy
+
+more exposed to market forces, including wages, would need to rise correspondingly less in order to
+
+achieve the inflation target.
+
+22 According to the Average Weekly Earnings measure, annual private sector total pay growth had
+
+fallen to 1.8% in the three months to September. Viewed over a longer perspective, the annual growth
+
+rate of private sector total pay had been broadly stable at around 2% for the past two years. In the
+
+context of rising employment and weak output growth, private sector productivity had remained
+
+broadly unchanged in the third quarter, and around 3% lower than a year earlier. In consequence,
+
+private sector firms’ unit wage costs had risen by around 5% over the previous year, compared to a
+
+historical average of a little over 2%. The outlook for inflation in the medium term depended on the
+
+balance between demand and supply capacity, and on the relationship between demand and
+
+productivity. The Committee’s central view was that a gentle recovery in output growth would be
+
+accompanied by a commensurate increase in productivity, so reducing inflationary pressure from unit
+
+wage costs over the forecast horizon.
+
+23 Overall, the near-term outlook for inflation remained in line with the Committee’s projections in
+
+the November Inflation Forecast, with inflation likely to remain a little above target for the next year
+
+or so. Short and longer-term expectations of inflation had risen in the latest quarterly Bank of
+
+England/GfK NOP Inflation Attitudes Survey in November. The Committee had noted, however, that
+
+other survey measures of short-run inflation expectations had fallen and that longer-term inflation
+
+expectations had remained within recent ranges.
+
+
+-----
+
+7
+
+**The immediate policy decision**
+
+24 The Committee set monetary policy in order to meet the 2% inflation target in the medium term.
+
+The twelve-month rate of CPI inflation had risen to 2.7% in October, which had been higher than the
+
+Committee had anticipated, due in large part to a greater-than-expected contribution from university
+
+tuition fees, and also from higher food prices.
+
+25 Inflation was likely to remain above the 2% target for the next year or so, owing in part to the
+
+continuing impact of the rise in university tuition fees and higher domestic gas and electricity and
+
+other administered and regulated prices. There was little that monetary policy could do to influence
+
+these prices directly. Even though they made up only 13% of the CPI basket, they looked set to
+
+contribute around one percentage point to inflation in the near term; for CPI inflation to be close to the
+
+2% target in that period, the rate of inflation in those sectors influenced more by market pressures
+
+would have to be unusually low. In the medium term, the Committee’s central expectation remained
+
+that inflation would fall back to target as the influence of past rises in energy and import prices faded
+
+and as a pickup in productivity attenuated domestic cost pressures. Substantial risks nevertheless
+
+remained around that central projection. These included continuing adverse weather disrupting
+
+planting in some crop-producing regions, leading to the risk of another poor harvest and higher food
+
+prices.
+
+26 The news on UK activity on the month had again been mixed. The Committee’s view remained
+
+that the stronger-than-expected third-quarter GDP growth had incorporated large positive contributions
+
+from temporary factors, and that these would dissipate or, in the case of the boost from the Olympic
+
+Games, unwind, probably resulting in a contraction in headline GDP in the fourth quarter. The major
+
+business surveys had provided mixed messages, and it remained difficult to know how much weight to
+
+put on them as, taken together, they had recently been giving a weaker signal than the official output
+
+data. On balance, the surveys, taken in conjunction with the October industrial production data, were
+
+consistent with broadly flat underlying output in the near term.
+
+27 The immediate risks emanating from the euro area seemed less pressing than they had in the
+
+summer, and financial market sentiment had improved. A period of stability, without negative
+
+headlines and unusual market volatility, was likely to be necessary to give businesses and households
+
+the confidence to increase spending. Nevertheless, the drag to activity from fiscal consolidation and
+
+rebalancing in the periphery was likely to continue into the medium term. Data released during the
+
+
+-----
+
+8
+
+month pointed to continuing contraction in the euro area but a stabilisation in global growth. Risks
+
+remained, including from the United States where agreement had not been reached on a moderation of
+
+the programmed fiscal contraction in 2013. The deterioration in UK competitiveness over the past
+
+couple of years represented a potential headwind to the ability of UK exporters to benefit from a
+
+pickup in global growth.
+
+28 The Committee noted the decision by the Government to use the gilt coupons transferred from
+
+the Asset Purchase Facility (APF) to reduce Treasury bill rather than gilt issuance in the current
+
+financial year, although that might be unwound in the subsequent financial year. That decision
+
+implied slightly less of an easing in monetary conditions in the very short term than had gilt issuance
+
+been reduced this financial year. The Committee agreed that an early understanding of the
+
+Government’s gilt issuance plans for the 2013/14 financial year would be helpful for its monetary
+
+policy decisions.
+
+29 Most members agreed that developments on the month had done little to alter the balance of
+
+arguments between maintaining and increasing the size of the monetary stimulus. Growth remained
+
+subdued. The impact of the most recent round of asset purchases was still to be fully felt. While it
+
+was too soon to assess the effectiveness of the FLS in supporting lending and demand, the early signs
+
+of its impact had been encouraging; the next few quarters would bring more information. Although
+
+inflation was at 2.7%, and seemed likely to remain above the target for the next year or so, it was
+
+judged likely to fall back to the target over the medium term. In the light of all this, the current size of
+
+the asset purchase programme seemed appropriate for the present.
+
+30 For one member, the case for undertaking additional asset purchases at this meeting was
+
+nonetheless strong. On balance, the near-term outlook for growth seemed a little weaker. Although
+
+inflation had risen again, and seemed unlikely to fall very substantially below the 2% target in the
+
+medium term, the degree of slack in the economy, and the likely response of supply capacity to
+
+increased demand, meant that it would be possible to achieve higher output growth without causing
+
+any material inflationary pressure. That would help to avoid potentially lasting destruction of
+
+productive capacity and increases in unemployment.
+
+
+-----
+
+9
+
+31 The Governor invited the Committee to vote on the propositions that:
+
+Bank Rate should be maintained at 0.5%;
+
+The Bank of England should maintain the stock of asset purchases financed by the issuance of
+
+central bank reserves at £375 billion.
+
+Regarding Bank Rate, the Committee voted unanimously in favour of the proposition.
+
+Regarding the stock of asset purchases, eight members of the Committee (the Governor, Charles Bean,
+
+Paul Tucker, Ben Broadbent, Spencer Dale, Paul Fisher, Ian McCafferty and Martin Weale) voted in
+
+favour of the proposition. One member of the Committee (David Miles) voted against the proposition,
+
+preferring to increase the size of the asset purchase programme by a further £25 billion to a total of
+
+£400 billion.
+
+32 Since the Committee’s previous meeting, it had been consulted over the size and terms of the
+
+Bank’s ECTR facility, in advance of the monthly auction on 21 November.
+
+33 The following members of the Committee were present:
+
+Mervyn King, Governor
+Charles Bean, Deputy Governor responsible for monetary policy
+Paul Tucker, Deputy Governor responsible for financial stability
+Ben Broadbent
+Spencer Dale
+Paul Fisher
+Ian McCafferty
+David Miles
+Martin Weale
+
+Dave Ramsden was present as the Treasury representative.
+
+
+-----
+

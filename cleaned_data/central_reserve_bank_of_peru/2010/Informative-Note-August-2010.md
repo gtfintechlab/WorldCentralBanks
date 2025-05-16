@@ -1,0 +1,41 @@
+# MONETARY PROGRAM FOR AUGUST 2010
+ BCRP RAISED THE REFERENCE RATE TO 2.5%
+
+1. The Board of the Central Reserve Bank of Peru approved to raise the monetary policy
+reference rate from 2.0 percent to 2.5 percent
+
+This measure is mainly preventive in a context of strong dynamism of domestic demand,
+a situation that requires to continue withdrawing monetary stimulus in order to maintain
+inflation within the target range.
+
+2. Current and advanced indicators of activity show a rapid growth of economic activity. In
+July the production of electricity grew 12.8 percent, imports of capital goods grew 30
+percent, imports of inputs grew 35 percent, and imports of non-durable goods grew 31
+percent, which reflects the strength of private consumption and private investment. An
+acceleration of the growth of public spending is being observed at the same time: public
+spending increased 14 percent in May and 22 percent in June.
+
+3. Inflation in July recorded a rate of 0.36 percent, mainly due to the rise of food prices as a
+result of supply factors. With this, annual inflation increased to 1.82 percent. Core
+inflation, which showed a rate of 0.08 percent, accumulated an annual growth of 1.79
+percent and remains around the 2 percent target.
+
+4. The Board continues to oversee the projection of inflation and its determinants and
+stands ready to adopt future adjustments in monetary policy instruments in order to
+ensure that inflation falls within the target range.
+
+5. The Board also approved to raise the following annual interest rates on active and
+passive operations in domestic currency (not included in auctions) between the BCRP
+and the financial system as described below:
+
+a. Direct repo and rediscount operations: 3.30 percent.
+b. Overnight deposits: 1.70 percent.
+c. Swap: a commission equivalent to a minimum annual effective cost of 3.30
+percent.
+
+6. The Board will approve the Monetary Program for September on its session of
+September 9, 2010.
+
+
+-----
+

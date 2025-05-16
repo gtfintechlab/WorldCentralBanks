@@ -1,0 +1,297 @@
+# Monetary Policy Meeting[1]/
+
+#### JULY 2020
+
+CENTRAL BANK OF CHILE
+
+#### [INF*RES*AS]
+
+1/ This is a translation of a document originally written in Spanish. In case of discrepancy or difference
+in interpretation, the Spanish original prevails. Both versions are available at www.bcentral.cl
+
+
+-----
+
+## MINUTES OF THE MONETARY POLICY MEETING
+
+#### Monetary Policy Meeting No. 275, held on 14-15 July 2020.
+
+Present: Governor Mario Marcel: Vice-Governor Joaquín Vial; Pablo García,
+Board member; Alberto Naudon, Board member; Rosanna Costa, Board member.
+
+Also present: Alejandro Zurbuchen, General Manager; Juan Pablo Araya, General
+Counsel and Attestor; Elías Albagli, Monetary Policy Division Director; Beltrán
+de Ramón, Financial Markets Division Director; Solange Berstein, Financial
+Policy Division Director; Gloria Peña, Statistics Division Director; Michel
+Moure, Institutional Affairs Division Director; Markus Kirchner, Macroeconomic
+Analysis Manager; Enrique Orellana, Strategy and Communication of Monetary
+Policy Manager; Miguel Fuentes, International Analysis Manager; Andrés
+Fernández, Economic Research Manager; Diego Gianelli, Market Operations
+Manager; Juan Carlos Piantini, Financial Markets Analysis Manager; Rodrigo
+Alfaro, Financial Stability Manager; Francisco Ruiz, Macroeconomic Statistics
+Manager; Bernardita Piedrabuena, Corporate Risk Manager; Felipe Lozano,
+Communications Manager; Luis Óscar Herrera, Advisor to the Finance Minister;
+Tatiana Vargas, Senior Economist; Pilar Cruz, Senior Economist; Marlys Pabst,
+Secretary General.
+
+#### 1. Background
+
+**The domestic scenario**
+
+The macroeconomic scenario had continued to reflect the evolution of the
+Covid-19 pandemic. In Chile, the second-quarter data available confirmed a
+sharp economic contraction. Considering wider sanitary containment measures,
+May’s Imacec had dropped 15.3% annually, with decreases in almost every
+sector. Exports had shown greater resilience than expected, particularly in
+mining shipments and some industrial lines. Import levels, in turn, showed
+some stabilization, after the significant falls of previous months. Business and
+consumer expectations remained markedly pessimistic. In this context, the most
+stringent sanitary containment measures continued to affect an important part
+of the country, although health indicators had evolved favorably, which had
+allowed some regions to begin reducing the confinement measures.
+
+
+Various sources of quantitative information (i.e. surveys and administrative
+sources) reported a sharp deterioration of the labor market, in particular a
+significant fall in employment and a decrease in hours worked and wages.
+Inactivity had risen substantially, which, together with the Employment
+Protection Law, had contained an even greater increase in the unemployment
+rate, although indicators of underutilization had worsened further. The Bank’s
+Online Help Wanted index had stabilized in a low level and hiring expectations
+(IMCE), despite some improvement, remained in pessimistic territory.
+Preliminary qualitative information drawn from the Business Perceptions Report
+confirmed this evaluation of the labor market and revealed concerns on this front.
+Some respondents commented that they saw pending workforce adjustments
+and most said that they expected no further hirings in the near future. Hence,
+more respondents than not anticipated that employment would recover at a
+slower pace than activity. Several also pointed to a reduction in labor income
+resulting from shorter working hours, no overtime, reduced sales commissions,
+elimination of benefits and wage adjustments, among others. On the other hand,
+government measures to compensate for income loss had been strengthening
+since June. The evolution of consumption continued to be affected by these
+dynamics, in particular the sale of non-essential goods. In this context, the
+median of private expectations in July’s Economic Expectations Survey (EES)
+anticipated a GDP drop of 6.1% annually for this year, in line with the central
+scenario of the latest Monetary Policy Report, albeit with a high dispersion in
+these estimates.
+
+The domestic financial markets reflected both the somewhat better tone of
+the external scenario and the stronger boost from the domestic monetary
+policy. Long-term interest rates —BCP and BCU at 5 and 10 years— saw sharp
+decreases in the days following the June Meeting, of between 30 and 40 basis
+points. However, in the run-up to the July Meeting, amidst the Congress debate
+around the withdrawal of 10% of individual pension funds, this decrease had
+been importantly reversed. In the same context, the stock market returns had
+worsened and the peso, with ups and downs, had appreciated. In the money
+markets, financing costs remain contained in both pesos and dollars, despite
+a reduction in dollar liquidity. With respect to the previous meeting, bank
+spreads had widened in both the AA and AAA segments. Meanwhile, non-bank
+corporate spreads showed a heterogeneous evolution; while in the AA segment
+no changes were observed, in the AAA the spreads had increased noticeably.
+
+The annual variation in commercial loans had continued on the rise, while for
+consumer loans it had continued to fall (13.3% and -7.8%, in real annual terms
+respectively). The mortgage segment had decelerated its real annual growth
+from 8.8% to 7.8%. Commercial banks had applied to nearly 95% of the funds
+
+
+-----
+
+available under phase 1 of the Facility Conditional on Increased Lending (FCIC),
+and many had used up their full assigned amount. In addition, the resources
+of FCIC – phase 2 were already available. As for portfolio risk, between April
+and May the Financial Market Commission data showed no significant change
+in bank arrears of 90 days or more. Provisions had increased, albeit to a limited
+extent, between February and April, especially in the consumer segment.
+
+The second-quarter Bank Lending Survey reflected a tightening of credit supply
+conditions in every segment, owing partly to the risks present in the customer
+portfolio. Meanwhile, household demand for credit had fallen substantially, for
+both consumption and housing. In the corporate segment, demand continued
+to rise for funds to meet working capital needs, while it declined for funds
+to finance investment projects. Demand indicators from the real estate and
+construction sector pointed to further weakening.
+
+Since the previous Meeting, annual inflation had dropped to 2.6% while
+core inflation—CPI minus volatiles—had declined to 2.5%. This figure was
+in line with forecasts in the June Report, with persistently weak areas more
+closely related to services, in a context of low inflationary pressures due to the
+abrupt widening of the activity gap. Accordingly, June’s business expectations
+(IMCE) continued to show a weak outlook for future costs and prices. Inflation
+expectations showed no big change. One year ahead, in the EES they had
+remained at 2.5% while the Financial Brokers Survey (FBS) showed a decline
+to 1.7%. Two years ahead, the EES remained at 3.0% and the FBS at 2.6%.
+
+Expectations for the Monetary Policy Rate (MPR) contained in both the EES
+and the FBS continued to foresee it unchanged at is technical lower bound
+of 0.50% for a protracted period of time, while those implicit in the prices of
+financial assets anticipated a transitory cut to 0.25%. At longer terms, asset
+prices pointed at the MPR standing at 0.5% over the entire two-year monetary
+policy horizon, while the FBS and the EES estimated a rise towards mid-2022,
+up to levels of 0.75% and 1%, respectively.
+
+**The international scenario**
+
+In the external scenario, the figures for May and June showed improvements in
+the main economies, coinciding with their gradual reopening after historic falls
+in the previous two-month period. The upturn was visible in the manufacturing
+and retail sectors, along with labor market information which, at the margin, was
+also more positive in some of them. Business expectations (PMI) had recovered.
+Household expectations had also improved, although their performance and
+that of other indicators more closely related to private consumption augured a
+
+
+slow rebound in this expenditure component. In any case, all these variables
+remained well below pre-pandemic levels, while important risks remained
+concerning the performance of activity going forward, mainly considering the
+recent resurgence of Covid-19 in several countries, and restated confinements in
+some places. The sanitary situation had complicated particularly in the United
+States, where the new quarantines imposed threatened to halt the recovery of
+mobility and the performance of its economy.
+
+In this context, the overall markets’ estimates for world growth had not changed
+materially in the last month, although some further deterioration in Latin
+America stood out. This region was facing the most complex situation, with
+long-standing doubts regarding the handling of the sanitary emergency and
+deep damage especially on employment, which pointed to a sluggish recovery.
+
+Central banks and governments had maintained their efforts or made additional
+economic policy announcements, holding on to their highly expansionary tone.
+On the monetary side, this included further interest rate cuts in some countries
+or the extension of unconventional plans, with actions concerning the pandemic
+being led by the Fed and the European Central Bank. On the fiscal front, there
+was also increased spending packages in some economies, further swelling the
+debt of governments, in some cases to their bulkiest in decades.
+
+In the last month, the international financial markets had seen some fluctuations
+associated with the aforementioned upsurges, and with news from the
+commercial and geopolitical scenarios. In any case, they had kept a more positive
+tone, because of both the economic measures adopted and the improvement
+of effective activity data. Thus, although with limited movements overall, in
+the last month several economies had exhibited improvements in their stock
+markets, spreads and currencies, while a large part of long-term interest rates
+had declined. The emerging world continued to see reversals in capital outflows.
+Commodity prices had also picked up, driven particularly by a brighter outlook
+for activity in China and, in the case of copper, also by supply-side factors. Thus,
+copper had risen 14%, to near US$3 per pound, oil (the WTI-Brent average) had
+risen 9%, to US$42 per barrel, while foods posted their first monthly increase
+in the year so far.
+
+#### 2. Background analysis and discussion
+
+There was discussion about the evolution of the external scenario, noting that
+the recent developments were in line with expectations. On the one hand, global
+growth prospects had stabilized and financial markets maintained a favorable
+
+
+-----
+
+outlook, leaving the most stressful moments behind. On the other hand, there
+was progress in the successive openings in several economies, with numbers
+that confirmed this gradual recovery in line with projections or even with some
+positive surprises. In addition, the price of copper, which was affected by supply
+and demand conditions, had outperformed expectations. However, the risks
+of new epidemiological outbreaks and the need to impose new containment
+measures—or to impose a more paused withdrawal of the ones in place—had
+been increasing in recent weeks, especially in the United States, and new sources
+of conflict were re-emerging in the political arena, particularly in the relationship
+between the US and China.
+
+Internally, there was agreement that the activity and price data of recent months
+fell within the scope of the June Report’s baseline scenario. However, the risks were
+high, especially since the more stringent sanitary containment measures had been
+extended beyond predictions and the labor market had worsened significantly. In
+particular, it was mentioned that the extension of quarantines might significantly
+tighten financing and credit conditions for companies that, given their size, were
+neither small enough to access Covid-related credit lines nor large enough to access
+the capital market. Coupled with the poorer performance of the labor market,
+a scenario could be emerging in which the post-pandemic economy’s ability to
+recover would be affected. This was especially complex in a context where the
+political cycle was introducing more uncertainty about the future evolution of
+the economy, particularly because of its impact on investment. In any case, they
+stressed the improvements in sanitary indicators and the possibility that stricter
+containment measures might be relaxed over a shorter time horizon, something
+that was not thought possible just a few weeks back.
+
+As for the domestic financial market, it was pointed out that liquidity levels
+were still high, with interest rates aligned with the message of the MPR being
+kept at its technical minimum for an extended period and long-term rates that
+had fallen in response to the monetary policy announcements of the previous
+Meeting. However, the latter’s reversal of recent days was also mentioned, in the
+midst of the discussion about the withdrawal of funds from the pension funds.
+Regarding credit, there was agreement that the growth in commercial loans
+showed that the stimulus measures provided by the Bank, the CMF and the
+Government were helping to provide significant financing flows to companies,
+which were vital to overcome the economic emergency caused by the pandemic.
+It was noted that the existence of Fogape guarantees, which complemented the
+liquidity available with a credit-risk buffer, had been a very relevant factor in the
+good evolution of credit. However, it was also said that the data suggested that
+the credit-risk problem was still significant and might be escalating, and this
+was an important issue, because the increase in credit flows not only depended
+
+
+on the provision of liquidity, but also required limiting the risks associated with
+credit intermediation. In particular, care had to be taken to ensure that the
+longer-lasting quarantines and weaker activity would not imply firms going from
+facing a liquidity problem to facing a solvency one, which had very different
+consequences for the economy and for the kind of actions that had to be taken.
+
+#### 3. Analysis of monetary policy options
+
+All five Board members agreed that, given the macroeconomic context created
+by the pandemic and with the MPR at its 0.5% technical lower bound, there
+was no other option than to keep it untouched and strengthen the message that
+it would remain there for a prolonged period of time.
+
+On unconventional measures, all the Board members agreed that the decisions
+made at the last Meeting had been fully validated, which justified keeping
+them in place. The increased monetary stimulus continued to help ensure
+that commercial credit, backed by the established guarantees plus regulatory
+measures, continued to sustain the productive sector. In turn, the asset
+purchase program had been well received, whose magnitude and timing seemed
+appropriate under the circumstances.
+
+All the Board members agreed that beyond the fact that the data of recent
+months were in line with expectations, the most relevant question to ask was
+how robust and sustainable the economic recovery would be. The answer was
+not obvious, because the scale of the shock was causing many scars, particularly
+to individuals and businesses, whether due to lost jobs and income, solvency
+problems, or more permanent adjustments that should be made to the operation
+of some sectors.
+
+In the Board’s opinion, all the above heightened the importance of the role
+played by public policy. In the upcoming stage, these would be as important
+as they had been during the shock containment stage, especially regarding the
+rehiring of workers, the restructuring of companies and the administration of
+financial conditions and obligations, all of which while also preventing sources
+that could reactivate the epidemic. There was agreement that the challenges for
+monetary policy were also considerable in this context. The measures adopted
+by the Bank in recent months had been effective not only in helping mitigate
+further damage to the economy and the population, but also in ensuring the
+countercyclical behavior of credit and financial conditions. Maintaining this
+orientation would sustain the economy’s recovery capacity and, with it, the
+convergence of inflation to the policy target.
+
+
+-----
+
+All the Board members drew attention to the effects that Congress approval of
+the bill of pension fund withdrawal could have on the economy, because of
+its impact on both the financial markets and domestic demand. They agreed
+that there was no obvious policy response, beyond the fact that the necessary
+measures should be implemented to ensure that there would be no excess
+volatility that would compromise financial stability as the pension funds were
+being liquidated. They also agreed that a clearer assessment of these issues should
+be made as the bill advanced in its legislative process, which together with the
+fine-tuning of the diagnosis on the economy’s evolution would be priority tasks
+until the September Monetary Policy Report.
+
+#### 4. Monetary policy decision
+
+Governor Marcel, Vice-Governor Vial and Board members García, Naudon and
+Costa voted for holding the MPR at 0.5%. They also agreed to keep in place the
+unconventional measures lending support to liquidity and credit.
+
+
+-----
+

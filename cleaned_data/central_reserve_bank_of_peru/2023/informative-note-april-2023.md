@@ -1,0 +1,71 @@
+**PRESS RELEASE**
+
+**MONETARY POLICY STATEMENT APRIL 2023**
+
+**BCRP MAINTAINED THE REFERENCE RATE AT 7.75%**
+
+1. The Board of Directors of the Central Reserve Bank of Peru (BCRP) decided to maintain the
+
+reference rate at 7.75 percent. This decision does not necessarily imply an end to the BCRP’s
+monetary tightening cycle. Future reference rate adjustments will be conditional on new
+information about inflation and its determinants, including the macroeconomic effects of the
+political unrest of previous months.
+
+i. In March, month-on-month inflation was 1.25 percent and core inflation was 0.88
+
+percent. Year-on-year inflation fell from 8.65 percent in February to 8.40 percent in
+March, while core inflation increased from 5.87 percent in February to 5.92 percent in
+March, both above the upper limit of the inflation target range.
+
+ii. The significant increase in international food and fuel prices since the second half of
+
+2021, accentuated by international conflicts, has led to a sharp increase in global
+inflation in magnitudes not seen in many years and towards levels significantly higher
+than the inflation targets of central banks, both in advanced and other economies in the
+region. In the Peruvian case, there were transitory inflation effects due to restrictions in
+the supply of some food and the heavy rains of the last month.
+
+iii. A downward trend in year-on-year inflation is forecast to continue in the following
+
+months, with a return to the target range in the fourth quarter of this year, due to a
+moderation of the impact of international food and fuel prices, a reversal of agricultural
+supply shocks, and declining inflation expectations in the rest of the year.
+
+iv. One-year-ahead expected inflation stood at 4.3 percent in March, above the upper limit
+
+of the inflation target range.
+
+v. Various leading and expectation indicators for economic activity improved in March, but
+
+they remain in pessimistic territory.
+
+vi. The outlook for global economic activity has moderated; however, global risks remain
+
+due to monetary tightening in advanced economies, international conflicts, and
+uncertainty in energy commodity prices.
+
+2. The Board is particularly attentive to new information on inflation and its determinants,
+
+including the evolution of inflation expectations and economic activity, to consider, if
+necessary, changes in the monetary stance. The Board reaffirms its commitment to adopt the
+necessary actions to ensure the return of inflation to the target range over the forecast horizon.
+
+3. The Board also decided to maintain the following interest rates on its window facility operations
+
+in domestic currency with financial entities:
+
+i. Overnight deposits: 5.25 percent per year.
+ii. Direct security/currency repo and rediscount operations: i) 8.25 percent per year for the first
+
+10 operations in the last 3 months and ii) the interest rate set by the Monetary and Exchange
+Operations Committee for operations in addition to these 10 operations in the last 3 months.
+In addition, the Monetary and Exchange Operations Committee may establish higher rates
+based on the amount of the operations.
+
+4. The BCRP Board’s next monetary policy session will take place on May 11, 2023.
+
+Lima, April 13, 2023
+
+
+-----
+

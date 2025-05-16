@@ -1,0 +1,682 @@
+# Monetary Policy Summary and minutes of the Monetary
+
+ Policy Committee meeting ending on 2 August 2017
+
+## Publication date: 3 August 2017
+
+These are the minutes of the Monetary Policy Committee meeting ending on 2 August 2017.
+
+They are available at http://www.bankofengland.co.uk/publications/Pages/news/2017/005.aspx.
+
+The Bank of England Act 1998 gives the Bank of England operational responsibility for setting monetary policy
+
+to meet the Government’s inflation target. Operational decisions are taken by the Bank’s Monetary Policy
+
+Committee. The minutes of the Committee meeting ending on 13 September will be published on 14
+
+September 2017.
+
+
+-----
+
+### Monetary Policy Summary, August 2017
+
+The Bank of England’s Monetary Policy Committee (MPC) sets monetary policy to meet the 2% inflation target,
+
+and in a way that helps to sustain growth and employment. At its meeting ending on 2 August 2017, the MPC
+
+voted by a majority of 6-2 to maintain Bank Rate at 0.25%. The Committee voted unanimously to maintain the
+
+stock of sterling non-financial investment-grade corporate bond purchases, financed by the issuance of central
+
+bank reserves, at £10 billion. The Committee voted unanimously to maintain the stock of UK government bond
+
+purchases, financed by the issuance of central bank reserves, at £435 billion. The Committee voted
+
+unanimously to close the drawdown period for the Term Funding Scheme (TFS) on 28 February 2018, as
+
+envisaged when the scheme was introduced.
+
+The MPC’s overall assessment of the outlook for inflation and activity in the August Inflation Report is broadly
+
+similar to that in May. In the MPC’s central forecast, GDP growth remains sluggish in the near term as the
+
+squeeze on households’ real incomes continues to weigh on consumption. Growth then picks up to just above
+
+its reduced potential rate over the balance of the forecast period. Net trade and business investment firm up,
+
+and consumption growth recovers in line with modestly rising household incomes. Net trade is bolstered by
+
+strong global growth and the past depreciation of sterling. The combination of high rates of profitability,
+
+especially in the export sector, the low cost of capital and limited spare capacity supports investment by UK
+
+firms over the forecast period, offsetting the effect of continued uncertainties around Brexit.
+
+CPI inflation rose to 2.6% in June from 2.3% in March, as expected. The MPC expects inflation to rise further in
+
+coming months and to peak around 3% in October, as the past depreciation of sterling continues to pass
+
+through to consumer prices. Conditional on the current market yield curve, inflation is projected to remain
+
+above the MPC’s target throughout the forecast period. This overshoot reflects entirely the effects of the
+
+referendum-related falls in sterling. As the effect of rising import prices on inflation diminishes, domestic
+
+inflationary pressures gradually pick up over the forecast period. As slack is absorbed, wage growth is
+
+projected to recover. In addition, margins in the consumer sector, having been squeezed by the pickup in
+
+import prices, are projected to be rebuilt. Consequently, inflation remains at a level slightly above the 2% target.
+
+As in previous Reports, the MPC’s projections are conditioned on the average of a range of possible outcomes
+
+for the United Kingdom’s eventual trading relationship with the European Union. The projections also assume
+
+that, in the interim, households and companies base their decisions on the expectation of a smooth adjustment
+
+to that new trading relationship. Other important judgements include: that the lower level of sterling continues
+
+to boost consumer prices broadly as projected, and without adverse consequences for inflation expectations
+
+further ahead; that regular pay growth remains modest in the near term but picks up over the forecast period;
+
+and that subdued household spending growth is largely balanced by a pickup in other components of demand.
+
+Monetary policy cannot prevent either the necessary real adjustment as the United Kingdom moves towards its
+
+new international trading arrangements or the weaker real income growth that is likely to accompany that
+
+adjustment over the next few years. Attempting to offset fully the effect of weaker sterling on inflation would be
+
+
+-----
+
+achievable only at the cost of higher unemployment and, in all likelihood, even weaker income growth. For this
+
+reason, the MPC’s remit specifies that, in exceptional circumstances, the Committee must balance any trade-off
+
+between the speed at which it intends to return inflation sustainably to the target and the support that monetary
+
+policy provides to jobs and activity. Through most of the forecast period, the economy operates with a small
+
+degree of spare capacity and CPI inflation is well above the target. By the end of the forecast, that trade-off is
+
+eliminated. Spare capacity is fully absorbed, and inflation remains above the target.
+
+The Committee judges that, given the assumptions underlying its projections including the closure of the
+
+drawdown period of the TFS, and allowing for the effects of the recent prudential decisions of the Financial
+
+Policy Committee and the Prudential Regulation Authority, some tightening of monetary policy would be
+
+required to achieve a sustainable return of inflation to the target. Specifically, if the economy follows a path
+
+broadly consistent with the August central projection, then monetary policy could need to be tightened by a
+
+somewhat greater extent over the forecast period than the path implied by the yield curve underlying the August
+
+projections.
+
+In light of these considerations, six members thought that the current policy stance remained appropriate to
+
+balance the demands of the MPC’s remit. Two members considered it appropriate to increase Bank Rate by 25
+
+basis points. All members agreed that any increases in Bank Rate would be expected to be at a gradual pace
+
+and to a limited extent. The Committee will continue to monitor closely the incoming evidence, and stands
+
+ready to respond to changes in the economic outlook as they unfold to ensure a sustainable return of inflation to
+
+the 2% target.
+
+
+-----
+
+### Minutes of the Monetary Policy Committee meeting ending on 2 August 2017
+
+1 Before turning to its immediate policy decision, and against the backdrop of its latest projections for output
+
+and inflation, the Committee discussed financial market developments; the international economy; money,
+
+credit, demand and output; and supply, costs and prices.
+
+**Financial markets**
+
+2 UK short-term interest rates had increased materially since the MPC’s previous meeting, responding both
+
+to the release of the minutes of that meeting – at which the Committee had voted by a majority of 5-3 to
+
+maintain Bank Rate at 0.25% – and to subsequent public comments by MPC members. Although part of that
+
+upward move had unwound following the June CPI release, the medium-term path for Bank Rate on which the
+
+Committee’s latest projections had been conditioned was the highest since the May 2016 Inflation Report.
+
+Option-implied volatility around the future path of Bank Rate had increased significantly. Longer-maturity yields
+
+had also risen.
+
+3 In the euro area, German long-term interest rates had also increased notably since the Committee’s
+
+previous meeting. This had reflected a sequence of stronger-than-expected euro-area economic data, and
+
+commentary by ECB policymakers that market participants had interpreted as bringing forward the time at which
+
+monetary stimulus would start to be scaled back. At its 20 July meeting, the ECB Governing Council had left its
+
+main policy rates and asset purchase profile unchanged. Most respondents to the latest Reuters poll had
+
+expected the ECB Governing Council to announce either a tapering of asset purchases or an extension of
+
+purchases, but at a reduced pace, at its 7 September meeting.
+
+4 US Treasury yields had risen only slightly since the previous MPC meeting, in part reflecting weaker-than
+expected data on inflationary pressures and adjustments in market participants’ views about growth and the
+
+path of fiscal policy. At its 13-14 June meeting, the FOMC had increased the target range for the federal funds
+
+rate by 25 basis points, to between 1% and 1¼%. The FOMC had also set out its approach to reducing the
+
+Federal Reserve’s holdings of Treasury and agency securities once normalisation of the level of the federal
+
+funds rate was well under way. The FOMC had left monetary policy unchanged at its 25-26 July meeting.
+
+Many market participants were expecting a decrease in reinvestment of principal payments received from
+
+securities held by the Federal Reserve to begin following the FOMC’s 19-20 September meeting. The FOMC’s
+
+communications on the normalisation of its balance sheet had not, to date, put significant upward pressure on
+
+Treasury yields. That may have reflected the relatively gradual expected pace of balance sheet normalisation
+
+plans that had been announced. It could also have indicated that market participants expected balance sheet
+
+normalisation to act as a substitute for increases in the federal funds rate.
+
+5 There had been significant movements in global exchange rates since the May Inflation Report, both
+
+before and after the MPC’s June meeting. The euro ERI had appreciated by 4% in the run-up to the August
+
+_Report compared with the fifteen working day average used in May, taking it to the highest level since the_
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 2 August 2017** 1
+
+
+-----
+
+beginning of 2015, and reflecting in part the relative strength of euro-area economic data. In contrast, the dollar
+
+ERI had depreciated by 3½%, to its lowest level in almost a year. The sterling ERI had been broadly flat since
+
+the June MPC meeting – masking relatively large, but offsetting, movements against the euro and dollar – and
+
+had remained around 2% lower than in the run-up to the May Inflation Report.
+
+6 International equity prices had generally continued to strengthen over the past three months, and non
+financial corporate bond spreads had remained at or close to multi-year lows. Measures of implied volatilities in
+
+equity markets had also fallen back to historically low levels over recent weeks.
+
+**The international economy**
+
+7 Since the MPC’s previous meeting, there had been indications of continuing strength in the near-term
+
+outlook for the global economy. The preliminary estimate of euro-area GDP growth in 2017 Q2 had been 0.6%
+
+on the quarter and 2.1% on a year earlier. Although slightly weaker than expected at the time of the MPC’s
+
+previous meeting, the annual growth rate had been the highest since 2011. High-frequency indicators had
+
+suggested that growth would be maintained at a similar rate in Q3.
+
+8 In the United States, GDP growth in 2017 Q2 had risen to 0.6%, after 0.3% in Q1. This suggested that the
+
+economy had slowed a little on average over the first half of the year relative to the second half of 2016. Within
+
+the Q2 figure, consumption and business investment had accounted for the bulk of growth in demand, broadly
+
+as expected. Labour market conditions had remained strong, with non-farm payrolls having increased by
+
+222,000 in June, higher than expected, although labour force participation had also been stronger than
+
+expected so that the unemployment rate had risen slightly to 4.4%.
+
+9 Near-term momentum in China appeared to have been strong. According to the official estimate, GDP in
+
+2017 Q2 had grown by 6.9% on a year ago, the same as in the previous quarter, and slightly stronger than
+
+expected. Within this, industrial production growth had been robust, which reflected in part rapid export growth
+
+as well as infrastructure investment. This had been consistent with the broader resilience of global trade. The
+
+three month on three month growth rate of world goods trade had picked up in May, to 1.0%, below the very
+
+strong rates seen in Q1 but around the average growth rate seen during the period since the financial crisis.
+
+10 Price developments in advanced economies had been mixed. Core HICP inflation in the euro area had
+
+increased slightly to 1.2% in July, and headline inflation had remained at 1.3%. In the United States, core PCE
+
+inflation had remained at 1.5% in May and June, lower than the near-2% rates recorded around the turn of the
+
+year, while headline PCE inflation had fallen over the past couple of months, to 1.4%. Spot oil prices had
+
+increased by 8% since the previous MPC meeting, which market participants attributed largely to supply
+
+developments.
+
+11 The Committee discussed wage and price developments in other advanced economies, and considered
+
+possible implications for the United Kingdom. As in the United Kingdom, wage growth in the United States and
+
+euro area over the past three years had been at least one percentage point lower than their pre-crisis averages.
+
+This had partly reflected weak productivity, though unit wage costs had also been weaker than before the crisis.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 2 August 2017** 2
+
+
+-----
+
+Across advanced economies, estimates of equilibrium unemployment rates had been lowered. This suggested
+
+that slack in the labour market could explain some of the subdued wage pressure. But it was possible that other
+
+factors were also at play, including increased global competition, the threat of activity shifting abroad, the effects
+
+of new technologies and changing firm structures.
+
+**Money, credit, demand and output**
+
+12 Growth in economic activity had been sluggish during the first half of 2017. The ONS had reported a
+
+preliminary estimate of GDP growth of 0.3% in Q2, following an unrevised estimate of 0.2% growth in the Q1
+
+Quarterly National Accounts. The GDP backcast, which takes into account the revision properties of the official
+
+data and information from business surveys, suggested that growth in Q1 had been higher, at around 0.4%.
+
+That, nonetheless, implied that quarterly GDP growth had slowed compared with the average rate during the
+
+second half of 2016.
+
+13 The Committee discussed recent trends in sectoral output data and their correspondence with aggregate
+
+demand. Services growth had risen to 0.5% in 2017 Q2, following a sharp slowdown in Q1. Bank staff
+
+estimates had suggested that consumer and business-facing companies’ output growth had declined to a
+
+similar degree earlier in the year, and that the recent partial recovery had been driven by consumer-facing
+
+companies. Retail sales volumes had also rebounded in Q2, and the reported sales balance for retailing in the
+
+CBI Distributive Trades Survey had risen to just above its long-run average in July. Other indicators of
+
+household spending had been softer, however. Consumer confidence had been little changed in July after a
+
+sharp fall in the previous month. House prices had remained broadly flat according to the average of lenders’
+
+indices, and the RICS balance of estate agents’ expectations of house prices over the next 12 months had
+
+declined sharply in June. Lenders responding to the Bank’s Credit Conditions Survey had reported that the
+
+availability of unsecured credit to households had fallen in Q2, and they had expected a further decline in Q3,
+
+although competition between lenders had remained strong.
+
+14 Growth in manufacturing and construction had been volatile, with output declining in both sectors in 2017
+
+Q2 after having risen in the previous two quarters. For manufacturers, that recent weakness had appeared at
+
+odds with the strength reported in business surveys, particularly the latest CBI Industrial Trends Survey in which
+
+the output volume balance had reached its highest level in over 20 years. There was also evidence from those
+
+surveys that export orders had benefitted significantly from the stronger global backdrop and the past
+
+depreciation of the exchange rate. Perhaps as a result, investment intentions in the manufacturing sector had
+
+appeared somewhat stronger than in the service sector, as indicated in the BCC’s Quarterly Economic Survey
+
+over recent quarters for example. At the whole economy level, however, the outlook for UK investment had
+
+weakened in the latest BCC survey, and was reported to have been weaker than in other major advanced
+
+economies in the latest thrice-yearly IHS Markit Global Business Outlook.
+
+15 On balance, the Committee judged that GDP growth was likely to remain at its recent pace into the third
+
+quarter. Some surveys of companies’ expectations of aggregate business activity had continued to suggest
+
+somewhat stronger near-term growth. But the IHS Markit/CIPS composite expectations index in June had fallen
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 2 August 2017** 3
+
+
+-----
+
+back quite sharply and had recovered only slightly in July, consistent with a softening in growth. A weaker near
+term path for business investment or net trade appeared to be the most likely counterpart on the expenditure
+
+side to the slightly lower Q3 GDP projection compared with that assumed in the May Inflation Report.
+
+**Supply, costs and prices**
+
+16 Twelve-month CPI inflation had fallen to 2.6% in June, from 2.9% in May, in line with the Committee’s
+
+expectation at the time of the May Inflation Report. The current and prospective overshoot of inflation relative to
+
+the target could be wholly accounted for by imported inflation.  Pass-through to consumer prices typically took a
+
+few years to complete, so it therefore seemed likely that imported inflation would keep CPI inflation above the
+
+2% target for some time yet. The MPC’s latest projections were conditioned on the prevailing path for Bank
+
+Rate and assumed that households and companies based their decisions on the expectation of a smooth
+
+transition to new trading arrangements with the European Union. In those projections, CPI inflation was
+
+expected to fall back only slowly towards the target, reaching 2.2% at the three-year forecast horizon.
+
+17 Although imported inflation was the dominant factor driving both recent inflation outturns and the
+
+Committee’s inflation projection, inflation prospects would also be determined by the pace of domestically
+
+generated inflation (DGI). DGI itself was unobservable and, although there was an array of proxy measures, all
+
+of them suffered from measurement deficiencies and needed to be interpreted with caution. Looking across a
+
+range of measures, the Committee judged that DGI currently appeared to be slightly below the rates that were
+
+consistent with the inflation target.
+
+18 Pay growth, a key component of DGI, had remained subdued, with all of the main measures of aggregate
+
+average weekly earnings growth around 2% in the three months to May, compared with a year earlier. This had
+
+been in spite of the buoyancy of labour market quantities. Employment growth had been 0.6% in the three
+
+months to May, driven by rising full-time employment. The unemployment rate had fallen to 4.5%, down by 0.2
+
+percentage points from the previous non-overlapping three-month period, and had now reached the MPC’s
+
+estimate of the equilibrium rate. Productivity growth had remained low, such that unit labour cost growth in the
+
+near term appeared a little higher than had been expected in May.
+
+19 The Committee also discussed the recent evidence on inflation expectations. The MPC monitored a wide
+
+range of measures of inflation expectations, covering households, the corporate sector, financial markets and
+
+professional forecasters. The clear and common trend had been that these had fallen while headline inflation
+
+had been close to zero, but had subsequently recovered to more normal levels as headline inflation had risen
+
+and the risks of a prolonged period of deflation had receded. The prevailing levels seemed in line with the
+
+MPC’s forecasts and consistent with the achievement of the inflation target in the medium term.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 2 August 2017** 4
+
+
+-----
+
+**The immediate policy decision**
+
+20 The MPC sets monetary policy to meet the 2% inflation target, and in a way that supports activity and
+
+employment. In pursuing that objective, the main challenges for the Committee had remained to assess the
+
+economic implications of the United Kingdom withdrawing from the European Union and to identify the
+
+appropriate policy response to that changing outlook, including to the substantial depreciation of sterling that
+
+had been associated with the decision. During the negotiation period, those economic implications would be
+
+influenced significantly by the expectations of households, firms and financial markets about the United
+
+Kingdom’s eventual economic relationships with the European Union and other countries and the transition to
+
+them. These involved structural economic adjustments over which monetary policy had very little or no
+
+influence. Recognising their impact on activity and inflation in the nearer term, it was nevertheless essential to
+
+take account of these evolving views in setting monetary policy. The MPC’s remit specified that in such
+
+exceptional circumstances the Committee must balance any trade-off between the speed at which it intended to
+
+return inflation to the target and the support that monetary policy provided to jobs and activity.
+
+21 The Committee considered how the outlook, and the trade-off embodied within it, had changed since the
+
+June meeting, and set out its economic projections in the August Inflation Report. GDP growth had fallen in the
+
+first half of 2017 relative to the second half of 2016. The MPC’s central projection was for GDP growth to
+
+remain at 0.3% in Q3, before picking up slightly at the end of the year and remaining just above its reduced
+
+potential rate over the balance of the forecast period.
+
+22 The growth projection embodied a rotation away from consumption and towards net trade and business
+
+investment.  Households’ real income growth had weakened following the fall in the exchange rate. That
+
+weakening in income growth had weighed on consumption. Consumption growth was projected to recover
+
+somewhat in the second half of the forecast period, as the pass-through from the depreciation gradually
+
+declined, but to remain subdued throughout the next three years. It was possible that there could be a little
+
+more momentum in consumption in the near term than assumed in the central case. Retail sales had risen in
+
+Q2, reversing the decline in Q1. Although consumer confidence had fallen, it had remained close to its long-run
+
+average. Equally, it was possible that consumption could adjust more sharply and the saving ratio could rise, as
+
+the housing market had softened further, and new car registrations had been weak.
+
+23 Acting against that, in the forecast, net trade was bolstered by strong global growth and the past
+
+depreciation of sterling. The combination of high rates of profitability, especially in the export sector, the low
+
+cost of capital and limited spare capacity was expected to support investment by UK firms over the forecast
+
+period, offsetting the effect of continued uncertainties around Brexit.
+
+24 In contrast to the fall in GDP growth, employment growth had picked up during the first half of 2017. Such
+
+a divergence was relatively unusual. Although indicators of hiring intentions had not shown signs of weakening
+
+to date, recent weakness in economic activity was still expected to lead to softer employment growth. Activity
+
+and employment data had pointed to weak productivity growth in recent quarters. This might suggest some
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 2 August 2017** 5
+
+
+-----
+
+margin of spare capacity in the economy, although there was only limited evidence for this in surveys of
+
+companies’ capacity use.
+
+25 CPI inflation had been 2.6% in June, as projected in the May Inflation Report. Inflation remained above
+
+the target owing to higher import prices continuing to feed through the supply chain following the depreciation of
+
+sterling. This had been offset to some extent by continued modest growth in domestic costs, with wage growth
+
+having remained subdued.
+
+26 In the MPC’s August forecast, the significant upward pressure on CPI inflation from import prices eased
+
+only in the second half of the forecast period. Over the forecast, slack in the economy was absorbed gradually,
+
+and wage and domestic price pressures increased as a result. Consumer sector companies rebuilt their
+
+margins, which had been squeezed by higher import costs during 2016. Wage growth was expected to recover
+
+significantly from its current low level, though less rapidly than previously envisaged. These growing domestic
+
+price pressures meant that CPI inflation was projected to remain slightly above the target at the end of the
+
+forecast period, even as imported price pressures were falling away.
+
+27 Conditioned on the market yield curve underlying the August projections, which was consistent with two
+
+25 basis point increases in Bank Rate over the forecast period, CPI inflation was forecast to remain around
+
+2¾% until early next year, with some monthly volatility around that path, such that it was projected to peak at
+
+around 3% in October. It was then projected to fall back gradually towards the target. The overshoot at the end
+
+of the forecast could entirely be accounted for by the effect of higher import prices.
+
+28 Overall, the August projections showed that the economy was expected to operate with a small degree of
+
+spare capacity for most of the three-year forecast period, justifying the tolerance of some degree of above-target
+
+inflation. Nevertheless, as the Committee had previously noted, there were limits to the extent to which above
+target inflation could be tolerated. The Committee discussed the appropriate response of monetary policy.
+
+29 There were arguments in favour of a moderate tightening in monetary policy now. CPI inflation was
+
+substantially above the target, and was projected to remain above the target throughout the three-year forecast
+
+period. Although household consumption had slowed, recent indicators such as retail sales had not suggested
+
+that a sharp downturn was underway. Growth in business investment and net trade, supported by strong global
+
+growth, appeared on track to compensate for weaker consumption growth. While the projection for demand
+
+growth was modest, growth in potential supply was likely to be materially weaker than over the pre-crisis period
+
+throughout the forecast. Employment growth had strengthened, and if it continued to be strong, slack would be
+
+absorbed at a faster pace than in the central projection. The withdrawal of part of the stimulus that the
+
+Committee had injected in August last year would help to moderate the inflation overshoot while leaving
+
+monetary policy very supportive.
+
+30 There were also arguments in favour of leaving the policy rate unchanged. GDP growth had been
+
+sluggish and was expected to remain so in the near term. With some business survey expectations balances
+
+having weakened, there remained the possibility of a further softening in activity. Weak data on car registrations
+
+and the housing market, together with the fall in consumer confidence, could signal weaker consumption than in
+
+the central projection. At the same time, increased domestic uncertainty was likely to act as a drag on
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 2 August 2017** 6
+
+
+-----
+
+investment, and there was a risk that this effect would be larger than had been assumed in the forecast.
+
+Inflation expectations appeared well anchored, notwithstanding the overshoot of inflation relative to the target.
+
+And, although there had been a few more positive signs on wage growth, there was not yet evidence of the
+
+sustained pickup incorporated in the central projection. Also, the extent to which consumer sector firms would
+
+be able to increase profit margins in the face of subdued demand was unclear.
+
+31 Different members of the Committee placed different weights on these arguments. On balance, for six
+
+members, the current policy stance remained appropriate to balance the demands of the Committee’s remit.
+
+For two members, the outlook justified an immediate increase in Bank Rate.
+
+32 The Committee judged that, given the assumptions underlying its projections including the closure of the
+
+drawdown period of the TFS, and allowing for the effects of the recent prudential decisions of the Financial
+
+Policy Committee and the Prudential Regulation Authority, some tightening of monetary policy would be
+
+required to achieve a sustainable return of inflation to the target. Specifically, if the economy were to follow a
+
+path broadly consistent with the August central projection, then monetary policy could need to be tightened by a
+
+somewhat greater extent over the forecast period than the path implied by the yield curve underlying the August
+
+projections. All members agreed that any increases in Bank Rate would be expected to be at a gradual pace
+
+and to a limited extent. The Committee would continue to monitor closely the incoming evidence, and stood
+
+ready to respond to changes in the economic outlook as they unfolded to ensure a sustainable return of inflation
+
+to the 2% target.
+
+33 The Governor invited the Committee to vote on the propositions that:
+
+Bank Rate be maintained at 0.25%;
+
+The Bank of England maintain the stock of sterling non-financial investment-grade corporate bond
+
+purchases, financed by the issuance of central bank reserves, at £10 billion;
+
+The Bank of England maintain the stock of UK government bond purchases, financed by the issuance of
+
+central bank reserves, at £435 billion;
+
+The drawdown period for the Term Funding Scheme close on 28 February 2018, as originally envisaged.
+
+Regarding Bank Rate, six members of the Committee (the Governor, Ben Broadbent, Jon Cunliffe, Andrew
+
+Haldane, Silvana Tenreyro and Gertjan Vlieghe) voted in favour of the proposition. Two members (Ian
+
+McCafferty and Michael Saunders) voted against the proposition, preferring to increase Bank Rate by 25 basis
+
+points.
+
+The Committee voted unanimously in favour of the second, third and fourth propositions.
+
+34 Regarding the TFS, the Committee noted that drawings were expected to slightly exceed £100bn by the
+
+end of the drawdown period, and that the APF indemnity would be increased to accommodate this expected
+
+usage.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 2 August 2017** 7
+
+
+-----
+
+35 Consistent with the Committee’s forward guidance, and as described in the market notice accompanying
+
+these minutes, the Committee agreed to reinvest £10.1 billion of cash flows associated with the redemptions of
+
+the August and September 2017 gilts held by the Asset Purchase Facility.
+
+36 Since May 2017 the MPC had voted to maintain the stock of Corporate Bond Purchase Scheme (CBPS)
+
+assets at £10bn. Consistent with that decision, the MPC expected to reinvest cash flows associated with any
+
+reduction in the stock of CBPS assets back into eligible corporate bonds. That would take place once the
+
+required reinvestment had reached a sufficient size to allow an auction programme to be conducted. Based on
+
+the current profile of the portfolio, the first such auctions would be expected to take place in 2019 H2.
+
+37 The following members of the Committee were present:
+
+Mark Carney, Governor
+Ben Broadbent, Deputy Governor responsible for monetary policy
+Jon Cunliffe, Deputy Governor responsible for financial stability
+Andrew Haldane
+Ian McCafferty
+Michael Saunders
+Silvana Tenreyro
+Gertjan Vlieghe
+
+Dave Ramsden was present as the Treasury representative.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 2 August 2017** 8
+
+
+-----
+

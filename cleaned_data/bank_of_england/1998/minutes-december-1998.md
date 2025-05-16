@@ -1,0 +1,1166 @@
+### Publication date: 23 December 1998
+
+## MINUTES OF
+# MONETARY POLICY COMMITTEE MEETING
+
+## 9 and 10 December 1998
+
+##### These are the minutes of the Monetary Policy Committee meeting held on 9 and 10 December 1998. They are also available on the Internet (http://www.bankofengland.co.uk/mpc9812.pdf).
+
+ The Bank of England Act 1998 gives the Bank of England operational responsibility for setting interest rates to meet the Government’s inflation target. Operational decisions are taken by the Bank’s Monetary Policy Committee. The Committee meets on a regular monthly basis and minutes of its meetings are released on the Wednesday of the second week after the meeting takes place. Accordingly, the minutes of the Committee meeting held on 6 and 7 January will be published on 20 January 1999.
+
+
+-----
+
+21.12.98
+
+**MINUTES OF THE MONETARY POLICY COMMITTEE MEETING**
+**ON 9-10 DECEMBER 1998**
+
+1 The Committee discussed the prospects for global activity and prices; slower-than-expected
+
+consumption growth; other indicators of domestic activity; the mixed signals from the labour
+
+market; monetary conditions and financial market data; and other issues including tactics; before
+
+turning to the immediate policy decision. Prior to the meeting, the Committee were briefed orally by
+
+Bank staff on the progress of the investigation into the Average Earnings Index, publication of which
+
+had been suspended by the Office of National Statistics (ONS) on 2 November 1998.
+
+**The prospects for global activity and prices**
+
+2 Stronger-than-expected data on employment and GDP in the third quarter had suggested that the
+
+United States economy continued to be surprisingly robust. However, expectations were that US
+
+growth would be slower in the coming year. The Japanese economy had weakened further, with
+
+GDP falling in Q3 by 0.7%.
+
+3 In Europe, Japan and the United States, there seemed to be a continuing downward trend in
+
+business confidence – despite the strong GDP figures in Germany and the United States. This might
+
+mean that businesses were beginning to feel the trade effects arising from the crises in Asia and other
+
+emerging markets. The declines in business confidence might also reflect a squeeze on profits as
+
+weakening world demand had increased competition and contributed to downward pressure on world
+
+prices. Since the previous meeting, the OECD, the World Trade Organisation and the World Bank
+
+had revised down their forecasts for world trade in 1999. Although domestic demand in the
+
+industrialised countries remained relatively robust so far, declines in business confidence were
+
+consistent with a prospective slowdown in world trade. It was clear that the expected changes in
+
+world trade implied larger current account deficits in the industrialised countries, but it was not clear
+
+how these would be spread across countries.
+
+4 Oil and other commodity prices had continued to fall. The one-month price of Brent crude had
+
+fallen below $10 per barrel at the time of the meeting. Although caused partly by a fall in world
+
+demand, the fall in oil prices should act as a positive supply shock to industrialised countries and
+
+would therefore be supportive of future activity. However, the effects could be de-stabilising in the
+
+short run: the terms-of-trade effect would be a significant negative shock for those countries heavily
+
+dependent on oil revenues.
+
+5 Although the world financial situation had improved slightly, and backward-looking data for
+
+the real economies of the United States and Europe had remained firm, the Committee concluded that
+
+the forward indicators of world activity and prices were probably softer than at the time the
+
+November Inflation Report projections were finalised.
+
+
+-----
+
+**Consumption**
+
+6 Consumption growth in Q3 had been below that assumed in the November Inflation Report
+
+central projection and retail sales growth suggested that the weakening of consumption growth had
+
+thus far continued into Q4. Looking back at the out-turns for consumption in 1998, growth had been
+
+systematically lower than the Committee had expected earlier in the year. While the forecast errors
+
+were within the usual statistical error bands on models of consumption behaviour, it was important to
+
+try to understand the possible causes of the apparent slowdown in consumption.
+
+7 The out-turns for consumption growth did not appear to be entirely consistent with its
+
+fundamental determinants: labour income had continued growing strongly and total net wealth had
+
+remained high throughout 1998.
+
+8 Leaving aside the possibility of inaccurate data, the Committee discussed a number of potential
+
+reasons for the slower-than-expected consumption growth. One was that the effects on consumers
+
+expenditure of windfall payouts to consumers in 1997, following the conversion of a number of
+
+financial institutions from mutual to PLC status, might have been more bunched than expected. The
+
+Bank’s analysis of windfall spending had suggested that some consumers would bring forward their
+
+purchases of consumer durables. If this had distorted the natural replacement cycle, the 1998 data
+
+might be reflecting a negative effect as fewer replacement items were purchased.
+
+9 A second possible explanation was that consumers were worried about the outlook for
+
+employment and hence had been saving more than had been assumed in the Bank forecast.
+
+10 A third possible explanation was that consumers had not reacted to the measured increases in
+
+wealth in the same way as the average of their past responses. The reaction to an increase in asset
+
+prices, in particular equity prices, might also depend on what had caused the price rise. Consumers
+
+might react differently to changes in the discount rate (the real interest rate appeared to have fallen)
+
+than to changes in expected post-tax corporate earnings. And changes in discount rates might
+
+themselves be a reflection of changing household preferences (because of demographics for example)
+
+as between present and future consumption. Consumers might also have perceived the rise in equity
+
+prices to be temporary.
+
+11 It was also possible that the effects of the fiscal tightening might not have been captured fully in
+
+earlier forecasts of consumption. The changes in the last two Budgets had had much of their initial
+
+impact on the corporate sector, and hence on the personal sector via its ownership of the corporate
+
+sector. It was difficult to be sure that the tax changes had been properly captured in the relationship
+
+between consumption and measured wealth and income.
+
+
+-----
+
+12 A fifth possible explanation was that weak consumer confidence could lead to a self-fulfilling
+
+outcome of weaker demand, which would have the effect of justifying and adding to the initial
+
+pessimism.
+
+13 A sixth possible explanation was that consumers might now be more price sensitive and so were
+
+waiting for retailers to cut prices further before spending. For example, the Bank had received
+
+anecdotal evidence from the regional Agents that discount clothing stores had been expanding their
+
+market share at the expense of traditional established department and chain stores.
+
+14 The Committee considered these possible explanations but concluded that none of the six
+
+explanations proposed was sufficient on its own.
+
+15 One of the counterparts to weaker consumption growth had been a bigger-than-expected build-up
+
+in inventories. In the third quarter there had been a marked accumulation of manufacturing
+
+inventories of finished goods, while retail inventories had been growing steadily over the year. The
+
+November Inflation Report had already built in a significant negative effect on GDP growth from an
+
+inventory cycle during 1999 but the latest data perhaps increased the downside risk to that projection.
+
+**Other activity indicators**
+
+16 GDP growth in Q3 had been revised down from 0.5% to 0.4%. This was the first quarter of
+
+growth clearly below trend since 1996 Q2. The National Institute of Economic and Social
+
+Research’s monthly estimate of GDP was indicating zero growth in the three months to the end of
+
+November. It was, therefore, now possible that the fourth quarter could be even weaker than the
+
+_Inflation Report central projection of a small positive growth rate._
+
+17 The survey data had continued to deteriorate. The three surveys from the Chartered Institute of
+
+Purchasing and Supply (CIPS) for manufacturing, services and construction were now all indicating
+
+falls in output. The Committee noted that the trend in activity growth indicated by the surveys
+
+remained downward. Although it was not yet clear whether Q4 growth would be weaker than
+
+expected, the downside risks had increased since the Committee’s previous meeting.
+
+18 The Committee considered the possibility that the BRC’s “like-for-like” adjustment was
+
+distorting downwards its measure of underlying retail sales growth and that the unadjusted measure
+
+(which had been closer to ONS data in recent months) was a better guide.
+
+19 The trade data in Q3 had shown a significant widening of the trade deficit reflecting strong
+
+import growth, possibly reflecting the strong investment and inventories numbers. The Committee
+
+was reluctant to read too much into quarterly swings in the external accounts. The negative effects of
+
+
+-----
+
+weaker world demand and the appreciation of sterling had been clear in the trend for exports for
+
+some time.
+
+**Labour market**
+
+20 The labour market quantities data had continued to indicate growth in employment, but at a
+
+somewhat slower rate. Unemployment data were beginning to show small increases. Business
+
+surveys, such as the CIPS employment survey and the Federation of Recruitment and Employment
+
+Services survey, both for November, generally showed a weaker employment picture.
+
+21 Data on pay settlements were relatively stable at around 3 ¾%. Wage drift was perhaps more
+
+likely to be falling than rising, given the slowdown in output growth. So, although the labour market
+
+remained tight, it was possible that it was no longer tightening and some indicators suggested that it
+
+might even be beginning to ease. On the other hand the Reed Personnel Services skill shortages
+
+index showed a further rise for Q4 and official figures on the stock of unfilled vacancies were at a
+
+record high. National press advertising had also remained buoyant.
+
+22 The Agents had reported considerable concern amongst contacts about the effects of the Working
+
+Time Directive, mainly about the level of bureaucracy and the minimum holiday entitlement. It was
+
+not clear how big an effect the directive would have on costs or prices.
+
+**Prices and inflation expectations**
+
+23 Inflation forecasts, surveys of financial market professionals and derived inflation expectations
+
+from index-linked gilts all seemed to be broadly consistent with the 2 ½% RPIX inflation target. It
+
+was possible that surveys of the inflation expectations of the general public, which remained above
+
+2 ½%, would decline towards the target as RPI inflation fell relative to RPIX inflation. This
+
+reduction in inflation expectations might diminish some of the upside risks to inflation.
+
+**Monetary conditions**
+
+24 Aggregate M4 growth had continued at annual rates of over 9% and the Committee discussed
+
+whether it was possible to have low output growth when real broad money was growing so strongly.
+
+Historical evidence suggested that real M4 growth had not always weakened before a slowdown in
+
+activity growth, so the Committee could not infer much about the imminent risks to activity.
+
+Furthermore, stripping out the contribution of Other Financial Corporations (OFCs) to broad money
+
+growth gave somewhat lower annual growth rates of around 6%.
+
+25 Other monetary and financial indicators had remained firm: notes and coin were growing at over
+
+5% per annum, equity prices had remained at high levels, and house price inflation was easing, but
+
+
+-----
+
+remained at 4.9% and 6.9% per annum on the Halifax and Nationwide measures. If activity growth
+
+continued to slow, one might expect a simultaneous slowdown in broad money growth, possibly
+
+alongside a fall in asset prices.
+
+26 On the credit side, there had been few signs of distress borrowing in the corporate sector, and the
+
+growth of lending to the personal sector had remained strong – particularly for unsecured credit.
+
+**The level of interest rates**
+
+27 The Committee discussed whether it was helpful to think about the appropriate level of
+
+nominal interest rates by reference to the concept of a ‘neutral’ level, which provides neither stimulus
+
+nor restraint to the economy. A broad estimate of the neutral short nominal interest rate could in
+
+principle be estimated by combining short-run inflation expectations with an estimate of an average
+
+short real interest rate.
+
+28 Inflation expectations appeared to have fallen and it was no longer implausible to think of them
+
+as being broadly consistent with the 2 ½% target for RPIX inflation. Some members of the
+
+Committee concluded that the appropriate assumption might be a little higher than this given that
+
+domestically generated inflation was probably well above 2 ½% and was likely to be more persistent
+
+than imported inflation.
+
+29 There was more difficulty in estimating the neutral short real rate. Alternative approaches gave
+
+different estimates. For example, one could use as a guide historical averages of ex post real returns
+
+on nominal government bonds, cross-country comparisons, or long-term forward real rates derived
+
+from index-linked gilts. These gave a range perhaps as wide as 2%-4%. On this basis, estimates of
+
+the neutral nominal rate fell in a range of around 4 ½% to around 6 ½%.
+
+30 While some members of the Committee found the concept of the neutral rate useful in deciding
+
+on interest rate policy, other members found the uncertainty surrounding its level so large that the
+
+concept was of little use as a practical guide to policy.
+
+**Other considerations bearing on the decision this month**
+
+31 The Committee noted that much of its concern related to the prospects for consumption growth
+
+and confidence. Since a large share of consumer spending happened around the Christmas period it
+
+was possible that a move this month would have a larger effect in supporting activity in the short run
+
+than a delayed move, without damaging the prospects for inflation over the medium term.
+
+32 The Committee also discussed the new evidence since the Inflation Report was published. It was
+
+noted that, with the risks on the downside, the mean of the RPIX projection 2 years ahead published
+
+
+-----
+
+in November had already been below 2 ½%. Since then the global situation (including commodity
+
+prices) appeared to have weakened further and domestic indicators suggested that the balance of risks
+
+to UK activity was even further on the downside, so that the expected inflation rate two years ahead
+
+had fallen since the November Inflation Report.
+
+33 As usual, the Committee considered whether a change in rates would disturb financial markets.
+
+A number of economic commentators were predicting that the Committee would make a cut of
+
+0.25% and many thought a larger cut was warranted. An immediate cut of 0.50% was within the
+
+range of outcomes the market had factored in by the start of the meeting so it was unlikely that a
+
+similar size cut would have an unsettling effect. It was difficult to judge the market consequences of
+
+a different decision. The reaction of sterling might depend on whether markets interpreted the
+
+change in terms of stronger or weaker prospects for activity growth.
+
+**The immediate policy decision**
+
+34 The Committee concluded that the prospects for global activity and prices had weakened over the
+
+month. Business confidence had been declining across the major economies and commodity prices,
+
+particularly oil, had fallen further. The global financial situation was probably no worse, but UK
+
+trade data showed that the effects of slower world demand were beginning to come through on top of
+
+the impact of sterling’s appreciation. The United States and the euro area had both cut rates since the
+
+previous MPC meeting. The main domestic news seemed to be in respect of consumption growth,
+
+which had been slower than expected during 1998 as a whole and, on the basis of retail sales growth,
+
+was still slowing. There were a number of possible explanations for this, but none was sufficient on
+
+its own.
+
+35 Other indicators of domestic activity also showed a continuing softening. The CIPS surveys were
+
+now indicating negative growth in all the main sectors of the economy. In contrast, the available data
+
+suggested that the labour market remained tight although there were now some signals that the
+
+situation might be beginning to ease. Money growth remained strong and asset prices remained firm.
+
+36 Taking all the news together, the Committee concluded that there was a clear case for a further
+
+cut in rates this month. The question was how much.
+
+37 An argument for a 0.25% cut was identified. The data might be sufficient to justify a cut of
+
+0.50% but the uncertainty and the remaining upside risks arguably made it slightly preferable to cut
+
+by 0.25% this month with another 0.25% to come in January if the analysis was supported by the
+
+data.
+
+38 The widely held view was that an immediate cut in rates of 0.50% was justified in terms of
+
+incremental news on the month. In particular the downside risks to both activity and prices appeared
+
+
+-----
+
+to have increased with the unexpected weakness in consumption being a major concern.
+
+39 Some Committee members found it helpful this month to consider where we were in relation to
+
+an estimate of the neutral level of nominal rates. Although subject to a wide range of uncertainty, the
+
+neutral rate was likely to be somewhat below the current level of 6.75%. Therefore a cut of 0.50%
+
+this month would be consistent with the news and a step towards neutral.
+
+40 Among those who questioned the practical use of the concept of the neutral rate it was recalled
+
+that similar arguments about the level of rates had been used in the mid-eighties to justify lowering
+
+rates to levels which subsequently turned out to be too expansionary. On these grounds one should
+
+be cautious about the use of such calculations to justify changes in policy.
+
+41 On another view, a neutral rate would probably be significantly lower than the current rate of
+
+6.75% and the conjuncture indicated that we should be below neutral rather than above. However, a
+
+sequence of cuts would have a greater impact than a single cut of substantially more than 0.50%,
+
+which would be seen as an over reaction and might, on this view, be an unnecessary shock to
+
+financial markets. On these grounds an immediate cut of only 0.50% was appropriate.
+
+42 A further view was that there had been a case for cutting by more than 0.50% the previous month
+
+and, with the news this month, this suggested that a larger reduction than 0.50% was now
+
+appropriate. Short rates were too high, both in comparison with long rates and compared with short
+
+rates in other countries. On this view, there was no good reason for cutting rates in steps. The
+
+Committee was learning all the time about the response of the economy to shocks and it appeared
+
+that the real side of the economy had responded faster to events than the Committee had expected.
+
+On this view there should be an immediate cut of more than 0.50%.
+
+43 The Governor invited members of the Committee to vote on the proposition that the Bank’s repo
+
+rate be cut by 50 basis points to 6.25%. Eight members of the Committee (the Governor,
+
+Mervyn King, David Clementi, Alan Budd, Charles Goodhart, DeAnne Julius, Ian Plenderleith and
+
+John Vickers) voted for the proposition. Willem Buiter voted against, preferring a cut of 75 basis
+
+points.
+
+
+-----
+
+44 The following members of the Committee were present:
+
+Eddie George, Governor
+
+Mervyn King, Deputy Governor responsible for monetary policy
+
+David Clementi, Deputy Governor responsible for financial stability
+
+Alan Budd
+
+Willem Buiter
+
+Charles Goodhart
+
+DeAnne Julius
+
+Ian Plenderleith
+
+John Vickers
+
+Gus O’Donnell was also present as the Treasury representative.
+
+
+-----
+
+#### ANNEX: SUMMARY OF DATA PRESENTED BY BANK STAFF
+
+A1. This Annex summarises the analysis presented by Bank staff to the Monetary Policy
+
+Committee on 4 December 1998, in advance of its meeting. At the start of the Committee meeting
+
+itself, members were made aware of information that had subsequently become available, and that
+
+information is included in the Annex.
+
+**I** **Monetary conditions**
+
+A2. Notes and coin in circulation had increased by 0.6% in November, after adjusting for the
+
+introduction of the new 50 pence and £2 coins. The twelve-month growth rate had been 5.1%.
+
+A3. The twelve-month growth rate of M4 had remained at 9.1% in October and the monthly
+
+flow, at £4.9 billion, was close to the average for the first three quarters of 1998. The entire
+
+addition to the stock of M4 had come from the household and Other Financial Corporations (OFC)
+
+sectors. The deposits of Private Non-Financial Corporations (PNFCs) had fallen over the month,
+
+by 0.2%. Twelve-month growth rates for the household sector, PNFCs and OFCs had been 5.6%,
+
+5.2% and 22.6% respectively.
+
+A4. The one-month growth rate of aggregate M4 lending had remained at 0.7% in October,
+
+which pushed the twelve-month change up to 9.1%. Annual growth in M4 lending to the
+
+household sector had remained unchanged at 7.4% in October. Total secured lending to
+
+individuals had continued to grow at an annual rate close to 6%, despite a slowdown in housing
+
+market activity; anecdote suggested that mortgage equity withdrawal might have been a
+
+contributory factor. In contrast, the annual growth in unsecured lending to individuals had
+
+remained strong, at 17.2% in October; it had been close to this level since the beginning of 1997.
+
+M4 lending to OFCs had increased by 1.3%, raising the annual growth rate to 18.4%. However,
+
+M4 lending to PNFCs had risen by £0.4 billion, compared with an average flow of £1.1 billion
+
+during the first nine months of the year, reducing the annual growth rate to 5.8%. PNFCs’ total
+
+external finance, which includes foreign currency borrowing and capital issues, remained robust.
+
+A5. Net recourse to banks by PNFCs (defined as the difference between M4 lending to PNFCs and
+
+their M4 deposits) had also remained strong. In the year to 1998 Q3, a number of the larger
+
+sub-sectors, including manufacturing, had used a greater proportion of the sterling facilities
+
+granted to them by banks.
+
+A6. Turning to financial prices, it appeared that the 25 basis point cut in official rates in October
+
+had already been passed through fully to variable rate mortgages advertised by banks and building
+
+
+-----
+
+societies, and that the 50 basis point cut in official rates in November would, likewise, soon be
+
+passed on.
+
+A7. Short-term inflation expectations (as surveyed) had remained close to the inflation target,
+
+and short-maturity nominal interest rates had fallen. By implication, there had been a further
+
+reduction in short-maturity real interest rates.
+
+A8. An empirical analysis of the average real rate earned on a variety of different instruments, in
+
+some cases using data back to 1797, suggested a value for the neutral real rate of interest - defined
+
+as the rate that would prevail if the economy were at, and set to be at, capacity and inflation was in
+
+line with the target - of between 2% and 4%. Assuming that short-term inflation expectations
+
+were close to the inflation target implies a neutral nominal interest rate of between 4½% and 6½%.
+
+**II** **Demand and output**
+
+A9. GDP at market prices had grown by 0.4% in 1998 Q3, revised down by 0.1 percentage point
+
+from the preliminary estimate, and the annual rate had been revised down to 2.3% from 2.5%.
+
+This was consistent with earlier data on manufacturing output and industrial production, which
+
+had pointed to a downward revision. The expenditure breakdown had shown domestic demand
+
+growing by 0.9% in Q3, reflecting a sharp increase in investment. Net trade had made a negative
+
+contribution to GDP growth of 0.6 percentage points. Recent trade data, the scale of the alignment
+
+adjustment in the first three quarters of 1998, and the usual revisions reflecting new information
+
+had all suggested that the next GDP release could include revisions to the composition of
+
+expenditure throughout 1998. The implications for GDP growth were not clear.
+
+A10. Household consumption had remained weak, rising by 0.4%, the same as in Q2. The Q2
+
+figure had included falls in catering and financial services, which were thought to be erratically
+
+weak. The Q3 release suggested either that the bounceback in these sectors had not been as large
+
+as expected, or that other sectors had weakened - so there might have been an underlying
+
+slowdown in consumption. Government consumption had risen by 0.6%, compared with 0.9% in
+
+the previous quarter.
+
+A11. Investment had recovered very strongly following a weak Q2, rising by 2.5% on the quarter.
+
+A fall in manufacturing investment of 4.5% had been more than offset by a rise in service sector
+
+investment of 7.4%. No known erratic components had accounted for the strength of business
+
+investment in Q3. Bank staff had considered whether business surveys might provide an
+
+explanation of the current strength of investment, and whether this would be sustained.
+
+Investment intentions did suggest a slightly higher level of investment in Q3, consistent with the
+
+provisional estimate. But the surveys had also suggested the level of investment over the next year
+
+
+-----
+
+would be roughly flat.
+
+A12. Inventories had continued to increase in Q3, rising by £1.7 billion. There had been a large
+
+accumulation of stocks of manufactured finished goods (up £589 million), and retail inventories
+
+had risen by more than £250 million for the third successive quarter. A large increase in stocks of
+
+other industries had also pointed towards a significant positive contribution from the alignment
+
+adjustment. Taking the first three quarters of 1998 together, expenditure appeared to have fallen
+
+short of output. Bank calculations suggested that the alignment adjustment had reached around
+
+£1.4 billion; since it must sum to zero over the year, this pointed either to revisions to the first
+
+three quarters, or a large negative contribution in Q4. Looking ahead, the Confederation of British
+
+Industry (CBI) monthly trends survey had suggested that a stock overhang continued; the balance
+
+reporting excessive stocks was +28 in November. The Chartered Institute of Purchasing and
+
+Supply (CIPS) survey had pointed to falling stocks, though not in the consumer goods sectors.
+
+A13. Net trade had made a negative contribution to GDP growth of 0.6% in Q3; export volumes
+
+had fallen by 0.6%, while import volumes had expanded by 1.2%. But the UK trade data
+
+published after the GDP release had pointed to even faster import growth in Q3 (goods volumes
+
+had risen by 3.7%), and suggested that a much bigger negative contribution from net trade might
+
+be included in the next GDP release (to be published on 21 December). But this did not
+
+necessarily imply a downward revision to Q3 GDP. In the past year, just under half of the
+
+widening of the deficit could be accounted for by a bigger deficit on trade with Asia, including
+
+Japan. The non-EU trade deficit had narrowed in October, but the trend had remained downward.
+
+A14. Manufacturing output had fallen by 0.1% in Q3, while services output had grown by 0.6%,
+
+the same as the previous quarter. Construction output had fallen by 0.7%, owing to a contraction
+
+in repairs and maintenance; new building output had continued to grow. In October,
+
+manufacturing output had contracted by 0.4% - the third consecutive monthly fall. However, as in
+
+the previous few months, industrial production had held up, and was unchanged on the month. Oil
+
+and gas extraction had increased by 0.8%, and utilities supply had remained high, reportedly
+
+because of worse-than-usual weather conditions in October.
+
+A15. Retail sales volumes had fallen by 0.4% in October, the second consecutive decline. Survey
+
+evidence had continued to point to weaker retail sales. The CBI Distributive Trades survey had
+
+again been weak in November (the balance declined to -9 from -4). The CBI retailing business
+
+confidence indicator had been at its lowest level since the survey began in 1983. And, the Bank’s
+
+regional Agents’ reports suggested falling retail sales turnover in all regions outside Greater
+
+London, southern and south east England. At a national level, the Agents’ reports had pointed to
+
+an overall fall in turnover in the latest three months.
+
+
+-----
+
+A16. House price inflation had slowed. The Halifax house price index had risen by 4.9% in the
+
+twelve months to November (down from 6.7% in October); the Nationwide index had risen by
+
+6.9% (down from 7.5% in October); and the Bank’s index, based on Land Registry data, had
+
+declined by 7.5% in the four quarters to Q3, from 8.9% in Q2. Housing turnover had also slowed 
+particulars delivered had been 5% lower in October, and the trend had been clearly downwards.
+
+Secured lending had been marginally weaker in October, at £2.1 billion, and the trend in approvals
+
+had been downward. The House Builders’ Federation survey had continued to report negative
+
+balances for net reservations (-9) and site visits (-28).
+
+A17. The survey evidence had remained weak in November; sentiment towards the domestic
+
+outlook had deteriorated further, while export expectations had stabilised somewhat. The CBI
+
+Monthly Industrial Trends survey had reported total orders balances unchanged at -47, implying a
+
+decline in domestic orders, while the balance for export orders improved slightly to -51, from -55.
+
+Output expectations had improved marginally to -27 in November, from -29 the previous month.
+
+The CIPS manufacturing orders index had reached a record low of 36.4 in November, and its
+
+services survey had indicated a contraction in service sector business activity for the first time
+
+since the survey began in July 1996.
+
+**III** **The international economy**
+
+A18. Economic conditions in Japan had continued to deteriorate. GDP had fallen by 0.7% in Q3
+
+and by 3.6% on a year earlier; however, growth in 1997 had been revised up. In October, retail
+
+sales had fallen 4.8% on a year before, and the unemployment rate had remained at 4.3%.
+
+Reflecting this deteriorating situation, the Japanese government had announced in November a
+
+further fiscal package to stimulate domestic demand, reported to include ¥18 trillion (3.6% of
+
+GDP) of extra spending and ¥6 trillion (1.2% of GDP) in tax cuts.
+
+A19. In Europe, German GDP had increased by 0.9% in Q3 (2.7% on a year before), and French
+
+GDP was up by 0.5% (2.8% on a year before). In both countries import growth had slowed.
+
+Survey data for the prospective euro area indicated that, between September and October,
+
+industrial confidence had fallen from a balance of -2 to -5, while the balance for consumer
+
+confidence had picked up from -5 to -3. Average inflation had remained subdued in October, at
+
+1.0%.
+
+A20. In contrast, activity in the United States had generally turned out to be stronger than
+
+expected. The second estimate of Q3 GDP had shown a rise of 1.0% on a quarter ago (revised up
+
+from 0.8%). In October, annual M2 money growth had increased to 8.5%, up from 7.9% in
+
+September, and retail sales were 5.7% higher than a year ago. In November, non-farm payrolls
+
+had increased by 267,000, well above the average monthly rise of 189,000 in June-October, and
+
+
+-----
+
+the Conference Board Index of consumer confidence had increased to 126.0, from 119.3 in
+
+October. However, annual average hourly wage growth had fallen from 3.8% in October to 3.7%
+
+in November, and the twelve-month growth in industrial production had fallen to 2.1% in
+
+October - the lowest annual growth rate since the 1991 recession.
+
+A21. The OECD, World Bank, and World Trade Organisation (WTO) had all released new
+
+forecasts during the month. In each case projections for world GDP and trade growth in 1998 had
+
+been revised down. World trade growth was expected to slow from 9.5% in 1997 to 5.3% (World
+
+Bank), 4.6% (OECD), and 4.5% (WTO). Thereafter trade growth was expected to increase. Other
+
+forecasters had also revised down output growth projections. Bank staff had used UK export trade
+
+shares to weight together the 1999 GDP growth forecasts, compiled by Consensus Economics Inc.,
+
+for the major six (M6) economies (US, Japan, Germany, France, Italy and Canada). This forecast
+
+indicator of M6 GDP growth had fallen from 2.4 % in July to 1.9% in November. On the same
+
+basis, consensus forecasts for M6 CPI inflation in 1999 had been revised down from 1.6% to
+
+1.3%.
+
+**IV** **Labour market**
+
+A22. Labour Force Survey (LFS) employment had grown by 124,000 (0.5%) in the three months
+
+to September, compared with the previous three months. This rise was concentrated in full-time
+
+employee positions: full-time employment had increased by 158,000, and the number of
+
+employees by 199,000 (0.8%). In contrast, the number of self-employed workers had fallen by
+
+79,000 (2.4%), and part-time employment dropped by 34,000. Total hours worked were only
+
+0.1% higher over the quarter, implying that hours per head had fallen by 0.4%.
+
+A23. Business surveys had suggested a weaker employment picture than the LFS data. The
+
+composite CIPS measure of employment had shown a sharp deterioration in job growth through
+
+1998 Q3, with the survey indicating falls in overall private sector employment in October and
+
+November. At the sectoral level, the CIPS November survey reported that manufacturing
+
+employment had continued to decline sharply, and that construction employment was now starting
+
+to fall, whereas services employment had continued to expand, albeit at a markedly slower rate.
+
+This sectoral picture had been broadly corroborated by the reports of the Bank’s regional Agents.
+
+The Federation of Recruitment and Employment Services (FRES) report had shown a modest
+
+decline in permanent recruitment business in November, whereas temporary postings had still
+
+been rising, although at a slightly slower rate. It also reported that the availability of staff to take
+
+up positions had improved in November.
+
+A24. Vacancies at job centres had remained at historically high levels. Notifications of new
+
+vacancies had increased by 14,000 in October, and the stock of unfilled vacancies had risen by
+
+
+-----
+
+10,000 to a record level. However, the government’s initiative for job centres to improve the
+
+marketing of their services, including the introduction of Saturday opening, may have partly
+
+explained these high levels. National press advertising had also been buoyant, but had shown
+
+signs of flattening off in recent months.
+
+A25. LFS unemployment had increased by 3,000 in the three months to September, compared
+
+with the previous three months. Short-term unemployment (duration under twelve months) had
+
+increased by 44,000, but this had been almost entirely offset by a decline in the numbers
+
+unemployed for more than one year. The LFS unemployment rate had been unchanged at 6.2%.
+
+LFS figures showed that there had been a fall of 87,000 in the number of economically inactive
+
+people in the three months to September, which contrasted with the increases that had been
+
+recorded in the first half of the year.
+
+A26. Claimant-count unemployment had risen by 7,000 in October, following a revised fall of
+
+4,100 in September. October’s data had possibly been affected by seasonal adjustment problems
+
+following the introduction of the Jobseeker’s Allowance, offsetting the distortion to July’s figures.
+
+Taking this into account, the trend for falling unemployment had probably continued. Evidence
+
+had started to emerge of an impact from the New Deal, as participants had left the Gateway. There
+
+was no firm indication that increased redundancies had yet affected the claimant count. Inflow
+
+rates to the count remained low by historic standards, while LFS data suggested that redundancies
+
+during summer 1998 had been at similar levels to the previous two years.
+
+A27. Turning to skill shortages, the Bank’s regional Agents had reported some easing of
+
+recruitment difficulties, though the level had remained higher than normal, and regional and
+
+industrial variations persisted. Sectoral surveys generally supported this picture. As well as the
+
+CBI manufacturing survey and the British Chambers of Commerce (BCC) surveys reported a
+
+month ago, the CBI/Price Waterhouse survey had also found some easing in recruitment
+
+difficulties in Q3. However, skills shortages in construction had continued to rise, according to
+
+the Confederation of Master Builders survey, and Reed Personnel Services had also reported more
+
+severe skill shortages.
+
+A28. The rebased earnings data had been suspended by the Office for National Statistics (ONS) on
+
+2 November, and were the subject of an independent review. In October, the Bank’s measure of
+
+the whole-economy employment-weighted mean wage settlement (twelve-month moving average)
+
+had remained at 3.7% for the sixth consecutive month. Private sector settlements had been
+
+unchanged at 4.0% in October, and public settlements at 3.3%. Using a matched sample (ie only
+
+including firms where data are available for both years), the mean settlement had increased to an
+
+annual rate of 3.8% for the four months to October 1998, from 3.4% one year earlier, similar to the
+
+pattern in the whole-economy twelve-month measure. Other evidence suggested that broader
+
+
+-----
+
+earnings pressures may have moderated; the Reward Index of earnings growth had declined to
+
+5.0% in October, from 5.4% in June, and the Bank’s regional Agents had reported falls in
+
+overtime and hours worked, which would lower wage drift.
+
+**V** **Prices**
+
+A29. Commodity prices had fallen again: the Bank's sterling oil-inclusive index had fallen by
+
+15.9% since October 1997, the sharpest annual deflation rate recorded since the index started in
+
+January 1992. Excluding oil, the Bank's index had fallen by 8.7%. This was broadly in line with
+
+the Economist Index in October (in both sterling and dollar terms) which showed that prices had
+
+fallen by 16.1% and 17.5% respectively. The one-month future price of Brent crude had declined
+
+by nearly 20% during November, and had reached $9.98 per barrel at the close of business on
+
+9 December. However, RPI petrol prices were unlikely to fall by the same percentage amount,
+
+because of the effects of taxes, excise duties and the potential for retailers to widen their margins.
+
+A30. Producer prices had also remained weak: annual input price inflation had fallen to -9.8% in
+
+October, and annual output price inflation, excluding taxes, had reached -0.7% - its lowest rate on
+
+record. Surveys had suggested that producer price inflation may fall further: both the CIPS
+
+indicator of manufacturing input prices and the CBI series of output prices reached all-time lows
+
+in November. Annual trade price inflation had remained negative, with export prices to the world
+
+unchanged in September, and import prices 0.7% lower (the corresponding figures for non-EU
+
+trade prices in October were -1.1% and -0.7% respectively).
+
+A31. Other measures of inflation had also fallen since the November MPC meeting. Annual
+
+inflation, as measured by the retail sales deflator, had fallen to 0.7% in October, its lowest rate
+
+since May 1997. And the annual inflation rate of harmonised consumer prices had fallen by
+
+0.2 percentage points to 1.3%, equalling its lowest rate on record. The GDP deflator had only
+
+increased by 1.8% in the year to the third quarter.
+
+A32. RPIX inflation had remained at target for the third consecutive month in October. Both RPI
+
+and RPIY inflation had fallen slightly since September, to 3.1% and 1.8% respectively. RPIY
+
+goods inflation had continued to fall, and had become (marginally) negative for the first time in
+
+October.
+
+
+-----
+
+**VI** **Financial markets**
+
+_Foreign exchange_
+
+A33. Sterling and the dollar had strengthened during most of the month, though both had fallen
+
+more recently. Developments in Latin America had been an important influence for the dollar.
+
+Looking toward the end of the year, a number of contacts suggested that sterling might be volatile
+
+around that time, associated with the move from the ecu to the euro, although there was little sign
+
+of this yet.
+
+A34. Within Europe, the process of short-term interest rate convergence ahead of the introduction
+
+of the euro was almost complete. The co-ordinated interest rate cut in Europe on 3 December took
+
+all prospective euro countries’ short-term interest rates to 3%, except Italy, where the discount rate
+
+was reduced to 3.5%.
+
+A35. The sterling ERI had appreciated by 0.3% during the month, to 99.6 on 9 December. It was
+
+little changed against the dollar and Deutsche Mark at $1.66 and DM 2.77 respectively. While
+
+some of the news during the month had been negative for sterling (the larger-than-expected repo
+
+rate cut; the release of the MPC minutes; some weaker-than-expected macroeconomic data) the
+
+pound had, until recently, appreciated steadily against the Deutsche Mark, supported by merger
+
+and acquisition activity. The path implied by an uncovered interest parity condition under constant
+
+UK nominal interest rates was very close to the central projection in the November Inflation
+
+_Report._
+
+_Government bond and money markets_
+
+A36. Short-term interest rate expectations had fallen during the month, particularly in the final
+
+few days of November and early December. The gilt-edged market had been stronger than
+
+overseas bond markets, with a sharp fall in gilt yields. Ten-year gilt redemption yields had fallen
+
+by about 55 basis points during the month and, at 4.50%, were now just below those in the United
+
+States, though higher than those in Germany (3.77%). There had been a number of reasons for
+
+gilts’ outperformance during the month: weaker macroeconomic survey data; the
+
+larger-than-expected UK repo rate cut; the MPC minutes and TSC evidence, which together were
+
+interpreted as suggesting greater willingness by MPC to cut rates for a given economic outlook
+
+than the market had thought; and also strong institutional demand for gilts ahead of the payment
+
+of gilt coupons on 7 December. This last factor suggests that the decline in yields was not solely
+
+attributable to interest rate expectations.
+
+
+-----
+
+A37. Short-term interest rate expectations, as measured by short sterling futures, had fallen. Since
+
+the November MPC, rate expectations had declined by 22 basis points according to the December
+
+1998 short sterling futures contract. Further along the curve, expectations had fallen by around
+
+40 basis points. But rate expectations for the end of 1999 had risen, owing to concerns about
+
+liquidity at the end of that year and in early 2000. The behaviour of very short-term interest rates
+
+suggested that the market expected a cut in the repo rate on 10 December, but this might be
+
+exaggerated by year-end demand for gilts on repo.
+
+_Equity and corporate debt markets_
+
+A38. Equity prices had initially strengthened in the first half of November but had fallen back
+
+toward the end of the month. Since the previous MPC, the Standard and Poor’s composite share
+
+index had reached a new high, but the FT-SE All-Share index had been unchanged at 2586, with
+
+declines again in the General Industrials sector and the Resources sector. There had been more
+
+company profit warnings in November than in the same month a year earlier. Analysts’ forecasts
+
+of corporate earnings growth for this financial year had been revised down again, to under 1%, but
+
+the fall in the risk free real interest rate was an offsetting influence on share prices. The recent rise
+
+in the Japanese equity market probably largely reflected the global recovery in equity markets.
+
+A39. In the capital markets, corporate bond yields had fallen during the month over a range of
+
+credit ratings, and international bond and syndicated loan issuance by UK corporates had increased
+
+since August (usually a quiet month). UK corporate bond spreads (over the gilt yield curve) had
+
+fallen some ten to fifteen basis points across the board. However, while short maturity sterling
+
+swap spreads had also narrowed, ten-year spreads increased by around 13 basis points. Real yields
+
+on UK corporate debt had changed little during the month. In October, PNFCs total external
+
+financing, which measures their new borrowing from all sources and in all currencies, had turned
+
+out broadly in line with the average for the past six months.
+
+**VII** **Reports by the Bank’s regional Agents**
+
+A40. The Bank’s regional Agencies had contacted 162 companies from the manufacturing, retail,
+
+other services and construction sectors to investigate the reported sharp deterioration in survey
+
+measures of business optimism. They had sought to discover whether the factors that most
+
+influenced optimism had been firm-specific, industry/sector-specific, or related to general
+
+economic factors. This survey had been conducted after the 50 basis point interest rate cut in
+
+November. Nonetheless, the Agents confirmed that overall business optimism had been lower
+
+than three months ago; more than half the manufacturers and retailers, and over a third of the
+
+construction and other service sector companies, had been less optimistic. The survey had found
+
+that, independent of a firm’s own performance, companies attached considerable weight to general
+
+
+-----
+
+UK and global economic news when gauging their optimism. Respondents said the November
+
+interest rate cut had positively influenced their optimism, but had been outweighed by other news.
+
+The Agents had reported widespread concern about prospects for global economic growth.
+
+However, concern about future demand and output had now become focused more on domestic
+
+considerations.
+
+A41. The Agents had also reported the results of more general discussions with their contacts.
+
+Economic conditions were largely seen as unchanged from a month earlier. With the exception of
+
+the West Midlands and North East, most respondents felt that talk of a recession had been
+
+overdone. Nevertheless, uncertainty about future prospects had continued to dampen demand.
+
+Although the recent cuts in interest rates had been welcomed, most consumers and firms seemed
+
+to be waiting for further reductions before undertaking major purchase and investment decisions.
+
+A42. As had been evident in the ONS data, the economic slowdown had not been evenly
+
+distributed across industrial sectors. Contacts in the services sector had reported reasonable
+
+growth in demand, albeit with some signs of weakness; retailers generally had only modest
+
+expectations for the Christmas period. Conditions in the manufacturing sector had been widely
+
+reported as being difficult, with weak order books for the first half of 1999. Demand for
+
+manufacturing output had fallen, while trading conditions had become more competitive owing to
+
+sterling’s appreciation and increased import penetration.
+
+A43. The automobile sector had been especially hard hit. Global oversupply, falling demand for
+
+new cars, and the adverse competitiveness effect of sterling’s appreciation had created particularly
+
+difficult conditions for UK automobile producers. This, in turn, had reduced demand for the large
+
+number of firms who supply parts and services to car manufacturers. The Agents reported that
+
+firms had cut costs in response to these pressures, and that this had included some job losses.
+
+A44. Respondents generally had noted that while labour market conditions had remained tight,
+
+conditions had begun to ease. In particular, wage pressures had diminished somewhat, with most
+
+wage settlements at, or below, the RPI inflation rate.
+
+
+-----
+

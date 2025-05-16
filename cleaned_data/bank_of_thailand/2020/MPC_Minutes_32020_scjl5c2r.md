@@ -1,0 +1,247 @@
+**Edited Minutes of the Monetary Policy Committee Meeting (No. 3/2020)**
+
+**20 May 2020, Bank of Thailand**
+
+**Publication Date:** **4 June 2020**
+
+**Members Present**
+
+Veerathai Santiprabhob (Chairman), Mathee Supapongse (Vice Chairman),
+
+Paiboon Kittisrikangwan, Sethaput Suthiwart- Narueput, Kanit Sangsubhan, Subhak Siwaraksa,
+and Somchai Jitsuchon
+
+**The Global Economy**
+
+**Trading partner economies would contract more than previously assessed due to the**
+**COVID-19 outbreak and the containment measures worldwide, affecting economic activities**
+and employment. Advanced and Asian economies (excluding China) would enter recession, with
+manufacturing and exports contracting due to global demand. **China would exhibit slower**
+growth. Although some containment measures had been relaxed, social distancing measures
+remained in place. Economic activities in both manufacturing and services sectors exhibited some
+improvements, but were still below normal levels. Countries worldwide continued to announce
+**financial and fiscal measures to alleviate impacts from the COVID-19 outbreak. Nevertheless,**
+fiscal policy implementation in several advanced economies would be more constrained given
+the rising public debt-to-GDP ratios. Regarding monetary policy, advanced economy central
+banks maintained their policy rates at ultra-low levels, as well as expanded asset purchases
+programs and lending facilities. Meanwhile, several regional central banks further eased their
+monetary policy. For example, Bangko Sentral ng Pilipinas lowered the policy rate and the
+Monetary Authority of Singapore relaxed its exchange rate policy band. Most central banks would
+likely implement further accommodative monetary policy in the period ahead.
+
+**The Committee assessed that there was a likelihood of trading partner economies contracting**
+**more than the baseline assessment and recovering only slowly** due to the intensifying
+COVID-19 outbreak in some countries or the second wave of the outbreak in countries that
+started to relax the containment measures. Moreover, there were other risks, including
+(1) re-intensifying trade tensions between the US and China, (2) financial system vulnerabilities
+in the financial and other sectors, e.g., solvency risks in the household and corporate sectors or
+potential multiple sell-offs resulting in sharp declines in asset prices and distressed assets that
+could in turn affect the economy, (3) volatilities in oil and commodity prices, and (4) geopolitical
+risks. The Committee would closely monitor the COVID-19 outbreak worldwide and the
+above-mentioned risks as they could weigh on the recovery of trading partner economies and
+cause volatile movements in global financial markets, which would have spillovers on the Thai
+economy.
+
+
+-----
+
+**The Financial Markets**
+
+**Stability in the financial markets increased after the Bank of Thailand implemented**
+**stabilization measures.** The Bank of Thailand provided liquidity through government bond
+purchases as well as the establishment of the Mutual Fund Liquidity Facility (MFLF) and the
+Corporate Bond Stabilization Fund (BSF). These measures resulted in a decline of government
+bond yields after prior spikes due to tightened global financial conditions. Corporate bond yields
+in the secondary markets showed lower volatility. Bond market functioning increasingly returned
+to normal. Commercial bank loans expanded, especially large corporate loans which became an
+alternative to bond issuances. Demand for working capital also rose during the COVID-19
+outbreak. The Committee viewed that the level of overall liquidity in the financial system
+remained ample. However, it was deemed important that liquidity be substantially distributed to
+businesses and households affected by COVID-19. Commercial bank lending rates declined
+following the previous policy rate cut and the reduction in the Financial Institutions Development
+Fund (FIDF) contribution from 0.46 percent of the deposit base to 0.23 percent for two years.
+
+**On exchange rates, the baht appreciated against the US dollar and regional currencies, as**
+reflected by a rise in the nominal effective exchange rate (NEER). Risk-on sentiment among
+investors returned after the COVID-19 outbreak improved and many countries, including
+Thailand, started to relax the containment measures. Moreover, monetary policy stances of
+advanced economy central banks over the recent periods were more accommodative. Foreign
+investors thus returned to invest in long-term Thai government bonds. However, there were net
+foreign selling in the Thai stock markets. In addition, the baht experienced some pressures from
+a rise in gold exports following increases in gold prices. Looking ahead, global financial markets
+would remain volatile due to risks and uncertainties pertaining to the COVID-19 outbreak and
+the global economic outlook. **The Committee expressed concerns over the baht that could**
+**strengthen and affect the economic recovery. Therefore, the Committee would closely monitor**
+developments in the financial markets and the foreign exchange markets, as well as the results
+of the implemented measures to relax regulations on capital outflows. Furthermore, the
+Committee would examine measures to lessen pressures from gold exports on the baht.
+
+**Domestic Economy and Financial Stability**
+
+**The Thai economy would contract more than the previous assessment. Export of services would**
+contract more than expected due to a sharp decline in tourist figures caused by potentially
+extended travel restrictions. **Merchandise exports** would contract more than assessed in line
+with the trading partners’ economic outlook. The contraction in oil prices would also affect the
+export prices of petroleum-related products. The fall in external and domestic demand resulted
+in widespread declines in business and household incomes. Private consumption would contract
+from higher unemployment and the containment measures. Nevertheless, relief measures from
+the government and related agencies would partially shore up household purchasing power.
+
+
+-----
+
+Furthermore, the drought impact on agricultural households became more pronounced, while
+non-agricultural households were affected by reduced working hours and wages as well as
+layoffs. **Private investment** would contract due to shrinking demand and lower confidence.
+Moreover, businesses scaled down investment to preserve liquidity. However, there were still
+investment prospects in telecommunications and healthcare to cope with COVID-19, while some
+electronics manufacturers would relocate the production bases to Thailand. Public expenditure
+would expand more than assessed. The government increased the budget for Phases I and II of
+relief measures to alleviate the impacts of COVID-19. The government also announced Phase III
+measures and additional measures. Some of these would be financed by (1) the Emergency
+Decree Authorizing the Ministry of Finance to Raise Loans to Solve Problems, to Remedy and
+Restore the Economy and Society, with the budget limit of 1 trillion baht, and (2) the revision of
+the 2020 budget according to the Budget Expenditure Transfer Bill. The government and related
+agencies would focus on providing relief to the affected groups and supporting public health
+expenditure, as well as restoring the economy and society after the containment of COVID-19.
+
+**The Committee discussed extensively about economic recovery in the period ahead amid high**
+**uncertainties and examined different scenarios arising from key factors** including (1) trading
+partners’ economic outlook, the pandemic, and successful developments of vaccines or
+medicines, (2) the relaxation of containment measures and the likelihood of the second wave of
+outbreak in Thailand, and (3) the effectiveness of fiscal, financial, and credit measures, which
+needed to be implemented in a targeted and timely manner to support employment and SMEs.
+**The Committee expressed concerns regarding the job outlook, which would deteriorate sharply**
+**and could take a long time to return to normal,** for employees and the self-employed. Some
+workers may be temporarily unemployed during the containment period. Others, however, could
+be permanently unemployed due to business insolvencies resulting in shutdowns, layoffs from
+weak demand, or greater use of automation. Therefore, it would be more difficult for new
+graduates to find jobs. **These would delay the economic recovery and reduce the long-term**
+**potential growth, causing lasting economic scars after the crisis.** The Committee would
+therefore closely monitor developments in the labor market. Moreover, the Committee viewed
+that there was a risk of private investment remaining subdued due to balance sheet
+vulnerabilities in the private sector, rising unemployment, and the weak economic outlook.
+Therefore, fiscal measures and public investment must be key drivers to support the economy
+and reduce the risks that the economy would aggravate to the level detrimental to
+macroeconomic and financial stability.
+
+**Headline inflation would be below target. It would be more negative than previously assessed**
+mainly due to energy prices in line with a sharp fall in oil prices and government measures to
+lower electricity bills, as well as due to lower fresh food prices in line with demand during the
+outbreak containment. Nonetheless, prices of goods in the other categories still expanded. Core
+inflation would remain subdued at low levels because of weakened domestic demand as well as
+government measures to reduce costs of living. Headline and core inflation would remain subject
+
+
+-----
+
+to downside risks in line with risks to the economic outlook and crude oil prices. According to the
+**Committee’s assessment, headline inflation would only temporarily fall into the negative**
+**territory due mainly to energy prices, while medium-term inflation expectations remained**
+**anchored within the target, suggesting the absence of deflation risks.**
+
+**The prospects of an economic downturn this year led to increased financial system**
+**vulnerabilities. The number of households and businesses facing debt servicing capability risks**
+was expected to rise, especially after the phase-outs of liquidity support measures. Furthermore,
+hotels, restaurants, and airlines would be impinged significantly by COVID-19. The petroleum
+industry would be affected by lower oil prices. The real estate sector would experience a decline
+in both domestic and external demand. The condominium price index started to stabilize after
+its prior increase. Developers postponed new project launches and introduced greater
+promotions to reduce excess supply. The Committee saw that most developers raised funds
+through both commercial bank loans and corporate bonds. In addition, the real estate sector was
+highly interconnected with other economic sectors such as construction. Therefore, real estate
+conditions warranted continued monitoring. In addition, the Committee saw the need to closely
+**monitor liquidity and solvency risks of households and businesses.** In case of widespread
+defaults, there would be material impacts on lenders, including commercial banks, non-banks,
+mutual funds, and saving cooperatives, which could in turn deteriorate economic activities.
+
+**Nevertheless, the overall financial institution system remained sound. Commercial banks had**
+**robust capital fund and loan loss provision levels,** capable of withstanding economic volatilities
+from the impacts of COVID-19. Moreover, the Bank of Thailand implemented measures to
+encourage debt restructuring and relaxed liquid asset criteria, including the liquidity coverage
+ratio (LCR) and the net stable funding ratio (NSFR), to be temporarily below 100 percent. In the
+period ahead, there remained a need to monitor the risks that may pose vulnerabilities to the
+stability of the commercial banking system, particularly defaults by households and businesses.
+
+**The Committee assessed that financial institutions needed to accelerate debt restructuring for**
+**borrowers proactively and expedite credit extension under various measures previously**
+**announced. The Committee also deemed it necessary for the Bank of Thailand and other**
+**related regulatory agencies to prepare measures for coping with the increasing risks if debt**
+**servicing capability of borrowers were to deteriorate more than expected.** Some examples
+included the establishment of mechanisms to standardize and expedite multi-creditor debt
+restructuring, as well as the expanded roles of asset management companies (AMCs) in
+absorbing non-performing loans. The Committee saw the need to monitor saving cooperatives
+which could be affected by their corporate bond investment. In addition, the Committee deemed
+it important to ensure the liquidity and stability of the financial institution system, with liquidity
+being distributed to affected businesses and households.
+
+
+-----
+
+**Monetary Policy Decision**
+
+**The Committee voted 4 to 3 to cut the policy rate by 0.25 percentage point from 0.75 to 0.50**
+**percent. Three members voted to maintain the policy rate at 0.75 percent. The Committee**
+assessed that the Thai economy would contract this year more than the previous assessment due
+to the global economic outlook and impacts of the containment measures worldwide.
+The economic downturn would further deteriorate employment and pose vulnerabilities to
+financial stability, with adverse impacts more widespread than expected. Several entrepreneurs
+would neither be able to adjust their businesses to survive nor adapt to future changes in
+business models. These would delay the economic recovery and lower long-term potential
+growth. Meanwhile, headline inflation would be more negative than previously assessed. Most
+**members thus viewed that more accommodative monetary policy would help alleviate the**
+**negative impacts. Given that the economic recovery would be restrained in the period ahead,**
+monetary policy should be further eased at this meeting to benefit the economy in a timely
+manner as well as to reinforce the previously announced fiscal, financial, and credit measures.
+**Nevertheless, three members voted to maintain the policy rate at this meeting, focusing on**
+**expediting the effectiveness of the announced financial and credit measures. Some members**
+would wait to assess the effectiveness of the previously implemented policies, along with
+economic activities and the outbreak development after the relaxation of the containment
+measures, before deciding on additional monetary policy action in the period ahead.
+
+**The Committee as a whole agreed that financial institutions should work to ensure that debt**
+**restructuring, particularly for household and SME borrowers, be carried out on a wider scale**
+while debt moratoriums were still effective. **Furthermore, lending under the previously**
+**announced measures should also be accelerated to address liquidity problems in a targeted**
+**and timely manner. These credit measures included provision of soft loans by the Bank of**
+Thailand and the Government Savings Bank, credit guarantee facilities by the Thai Credit
+Guarantee Corporation (TCG), and lending facilities to retail borrowers by specialized financial
+institutions. These measures would help alleviate liquidity problems of households and
+businesses as well as support the economic recovery.
+
+**The Committee viewed that targeted and timely fiscal measures would be vital to support**
+**employment and SMEs and facilitate the economic recovery and preserve potential growth going**
+forward. Regarding public debt in Thailand, with the pre-COVID debt-to-GDP at a low level, the
+average time to maturity at approximately 10 years, and debt mostly denominated in baht, fiscal
+**policy would thus still have some room to restore and restructure the economy in the medium**
+**term. While this would result in a rise in the public debt-to-GDP ratio in the period ahead, the**
+**increase in public debt would be manageable, provided that investment outlays were made in**
+economic restructuring and future productivity enhancement. Moreover, financing costs of
+public debt were low in line with the government bond yields.
+
+
+-----
+
+**The Committee viewed that fiscal, financial, and credit measures needed to be closely**
+**coordinated for timely and continuous implementation. During the economic recovery phase,**
+the measures should be focused on promoting employment and income. Furthermore, the
+measures should support financial institutions in expediting debt restructuring and accelerating
+credit extension under various schemes, prior to the phase-outs of financial and fiscal relief
+measures. This could prevent widespread defaults that could affect financial stability and
+long-term potential growth. In addition, government measures would also need to support
+economic restructuring and entrepreneurial adjustments with new business models after the
+outbreak subsided.
+
+**Looking ahead, the Committee would monitor developments of economic growth, inflation,**
+**and financial stability, together with associated risks, including external risks, the impacts of**
+the COVID-19 outbreak, and the adequacy of fiscal, financial, and credit measures in deliberating
+monetary policy going forward. The Committee would stand ready to use additional appropriate
+policy tools if necessary.
+
+**Monetary Policy Group**
+
+**4 June 2020**
+
+
+-----
+

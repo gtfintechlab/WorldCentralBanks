@@ -1,0 +1,619 @@
+### Publication date: 17 April 2013
+
+## MINUTES OF THE 
+# MONETARY POLICY COMMITTEE MEETING
+## 3 AND 4 APRIL 2013
+
+##### These are the minutes of the Monetary Policy Committee meeting held on 
+
+ 3 and 4 April 2013. 
+
+ They are also available on the Internet
+
+ http://www.bankofengland.co.uk/publications/minutes/Pages/mpc/pdf/2013/mpc1304.aspx
+
+ The Bank of England Act 1998 gives the Bank of England operational responsibility for setting
+
+ interest rates to meet the Government’s inflation target. Operational decisions are taken by the
+
+ Bank’s Monetary Policy Committee. The Committee meets on a regular monthly basis and
+
+ minutes of its meetings are released on the Wednesday of the second week after the meeting
+
+ takes place. Accordingly, the minutes of the Committee meeting to be held on 
+
+ 8 and 9 May will be published on 22 May 2013.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 3 AND 4 APRIL 2013
+
+1 Before turning to its immediate policy decision, the Committee discussed financial market
+
+developments; the international economy; money, credit, demand and output; and supply, costs and
+
+prices. The Committee noted a letter from the Chancellor setting out the remit for the Committee over
+
+the following year, in accordance with Section 12 of the Bank of England Act.
+
+**Financial markets**
+
+2 For much of the month, financial market attention had been focused on the progress of
+
+negotiations to resolve the banking sector crisis in Cyprus, and their implications for the rest of the
+
+euro area. The agreed outcome had included a €10 billion loan by the European Stability Mechanism
+
+and IMF to the Cypriot authorities, the temporary imposition of capital controls, and the resolution of
+
+the two largest Cypriot banks, with losses borne by their bondholders and uninsured depositors. An
+
+initial proposal to impose losses on insured depositors by way of a levy on all bank deposits had been
+
+rejected by the Cypriot parliament.
+
+3 The market reaction to these developments had been relatively limited, with only small moves in
+
+most market prices, perhaps reflecting a perception that the situation in Cyprus was contained or
+
+unique. Nevertheless, some market moves could be interpreted as suggesting that the Cyprus bailout
+
+had demonstrated a greater commitment by the euro-area authorities to shift the burden of future
+
+banking sector restructurings from governments to private creditors. Consistent with that, government
+
+bond yields had fallen in Italy and Spain, as well as in Germany. And bank CDS premia had risen,
+
+especially for banks operating in the euro-area periphery countries; bank equity prices had generally
+
+fallen.
+
+4 The Financial Policy Committee (FPC) had announced that major UK banks and building
+
+societies should achieve a risk-weighted capital ratio, on a full Basel III basis with adjustments for
+
+expected losses, of 7% by the end of 2013, with the Prudential Regulation Authority to examine the
+
+
+-----
+
+2
+
+needs of individual banks. Against that benchmark, UK banks and building societies had a collective
+
+capital shortfall at the end of 2012 of around £25 billion. This shortfall was at the lower end of
+
+external commentators’ estimates and there had been little impact on market prices. Equity markets
+
+more generally had continued to be buoyant, with some major international equity indices trading
+
+around all-time highs in nominal terms.
+
+5 There had been little change in short-term monetary conditions in the United Kingdom, and
+
+policy was expected to remain highly stimulatory for some years. A majority of economists polled by
+
+Reuters had expected further asset purchases at some stage. And the first increase in Bank Rate was
+
+not fully priced into OIS rates before 2016, broadly in line with the implied timing of the first policy
+
+rate increase in the euro area and a little after that in the United States. The sterling effective exchange
+
+rate had risen by 1% on the month. It had earlier fallen to its lowest level since July 2011, but had then
+
+firmed following events in Cyprus, the publication of the minutes of the March MPC meeting, and
+
+comments by the Governor.
+
+6 Longer-term nominal yields had declined further in the United Kingdom, with the ten-year
+
+government bond yield falling by around 20 basis points to 1.9%. There had been little reaction to the
+
+news that Fitch had placed UK government debt on negative watch. The fall in nominal yields was
+
+associated with greater falls in real yields; breakeven inflation rates had drifted up in recent months.
+
+Three-year inflation rates implied by swaps had risen by more than in the euro area or the
+
+United States, consistent with expectations of UK inflation returning to target more slowly. And the
+
+market implied measure of inflation in five years’ time had risen by a further 30 basis points since the
+
+sharp correction in mid-January when the National Statistician had announced that the RPI formula
+
+would not be changed.
+
+7 Ahead of the MPC’s policy decision, the Bank of Japan had announced on 4 April a set of highly
+
+stimulatory measures aimed at meeting its 2% inflation target at the earliest possible time. These
+
+included the intention to double the monetary base by the end of 2014 and increase purchases of
+
+Japanese government securities across the maturity spectrum. The immediate market reaction to these
+
+announcements had been strong, with the yen depreciating by 3% and ten-year Japanese government
+
+bond yields falling sharply.
+
+
+-----
+
+3
+
+**The international economy**
+
+8 There had been further evidence of a gradual recovery in global growth, with early signs that
+
+both world trade and investment had picked up a little in the first quarter. But the pattern of that
+
+growth remained uneven, with a lack of momentum in the euro area contrasting with a stronger
+
+outlook for the United States and much of Asia.
+
+9 In the euro area, the earlier tentative signs of an improvement in business and household surveys
+
+had not been maintained. The area-wide services and manufacturing Purchasing Managers’ Indices
+
+(PMIs) had both fallen in March and remained at levels consistent with further contraction in activity.
+
+At the country level, the composite PMIs fell in both Germany and France, suggesting little positive
+
+momentum even in the core economies. It was possible that elevated event risk, associated with
+
+continued political uncertainty in Italy and the handling of the Cyprus bailout, would weigh further on
+
+confidence in the euro area.
+
+10 The latest data for the United States had been more positive and suggested a return to moderate
+
+economic expansion following a near standstill in the fourth quarter of 2012. Consumer spending had
+
+appeared robust, the housing market had strengthened further, and employment had risen strongly in
+
+February, with non-farm payrolls increasing by 236,000. Both the manufacturing and
+
+non-manufacturing PMIs had fallen in March, unwinding the improvement seen earlier in the year, but
+
+continued to point to positive growth. Fiscal policy had become more restrictive. Government
+
+funding levels had been agreed for the remainder of the fiscal year, thereby averting a federal
+
+government shutdown, but the $85 billion of sequestration cuts to the annual budget had been left in
+
+place.
+
+11 There had been further evidence of expansion in Asia. The PMIs had risen in China in March.
+
+And business confidence had improved in Japan amid expected and realised announcements of
+
+monetary and fiscal policy stimulus from the Japanese authorities.
+
+12 Commodity prices had fallen a little during the month. There had been a sharp fall in corn prices
+
+following a revision to estimates of US stock levels. In dollar terms, the price of oil had fallen by
+
+around 4%. UK wholesale gas prices had been very volatile, reflecting supply constraints and a lack
+
+of available storage, and had ended the month 7% higher.
+
+
+-----
+
+4
+
+**Money, credit, demand and output**
+
+13 There had been relatively little news in the latest ONS estimates of income and expenditure in
+
+the fourth quarter of 2012. GDP had fallen by 0.3%, unrevised from previous estimates, with the
+
+decline more than accounted for by the unwinding of the temporary boost from the Olympic Games in
+
+the third quarter. GDP was 0.2% higher than it had been a year earlier. Within that, net trade had
+
+subtracted 1.2 percentage points from GDP growth. But final domestic demand growth had been more
+
+robust at 1.7%. Household consumption had grown more strongly over the year than previously
+
+estimated and, with the re-emergence of a real income squeeze, the saving ratio fell back to 6.7% in
+
+the fourth quarter. Business investment growth had slowed in the second half of 2012, despite robust
+
+investment in the extraction and utility sectors.
+
+14 Official indicators of activity in the first quarter of 2013 had been mixed, with a fall in
+
+manufacturing output in January offset by a 0.3% rise in the output of the service sector. Oil and gas
+
+extraction had fallen by 4.3% in January as output continued to be adversely affected by repair and
+
+maintenance. Survey indicators, while somewhat diverse, had been mildly encouraging. The
+
+Markit/CIPS services activity PMI for March was higher than in the autumn and winter, although the
+
+manufacturing output PMI remained weak.
+
+15 There had been further evidence of an improvement in the supply of credit following the fall in
+
+lenders’ own wholesale and retail funding costs since the middle of 2012. Some, but not all, of this
+
+reduction in funding costs had been passed through to loan rates. Mortgage rates had fallen sharply
+
+over this period, although the pace of decline had eased in March. Effective new business rates on
+
+loans to companies had fallen by about 25 basis points since June. Some lenders had also used
+
+cashback deals or reductions in fees to pass through the benefits of reduced funding costs to their
+
+smaller corporate customers. The Bank’s inaugural Bank Liabilities Survey had suggested that lenders
+
+expected to reduce further their transfer prices – the cost charged to business units to fund the flow of
+
+new loans – in the following three months. And the Bank’s Credit Conditions Survey had indicated
+
+that lenders were expecting to reduce spreads further on secured loans to households and loans to
+
+businesses.
+
+16 Surveys of businesses taken in the first quarter had also suggested that there had been some
+
+easing in credit conditions, although significant differences continued to be reported in access to
+
+
+-----
+
+5
+
+finance between large companies, especially those with access to the capital markets, and small
+
+companies. There was evidence that investment by companies with access to capital markets,
+
+accounting for roughly half of UK business investment, had risen strongly. Given the aggregate
+
+behaviour of UK business investment, this would imply that investment by those without access to
+
+capital markets might have fallen on average.
+
+17 Despite significant improvements in the price and availability of credit, there had been little sign
+
+so far of any significant pickup in net lending to businesses. That may have reflected the usual
+
+transmission lags, but it could also point to a more fundamental change in the structure of credit
+
+markets. Some contacts of the Bank’s Agents had reported a continuing lack of trust between banks
+
+and small businesses, and fears that applications for new lending facilities might result in the terms of
+
+existing facilities being reappraised. Nevertheless, lenders surveyed in the Bank’s Credit Conditions
+
+_Survey had reported expectations of a pickup in the demand for bank credit in the next three months._
+
+And a special survey by the Bank’s Agents had found that businesses that reported that credit
+
+conditions had loosened over the past year were expecting to increase their demand for credit over the
+
+next twelve months. In contrast, businesses reporting tighter credit conditions were expecting to
+
+reduce their demand. More generally, business surveys had pointed to a slight pickup in investment
+
+intentions, consistent with a possible building in the demand for finance.
+
+18 There were some signs that the improvement in the supply of credit had been passing through to
+
+the housing market. Housing transactions had risen by over 5% in February, consistent with the
+
+growth of loan approvals seen at the end of 2012. The three-month annualised growth rate in net
+
+secured lending to individuals had picked up to 0.7% in February. But loan approvals for house
+
+purchase had fallen in January and February, possibly affected by the cold weather. Additional
+
+measures to support housing market activity had been announced in the Budget, although details of the
+
+mortgage guarantee component of the Help to Buy scheme had not yet been finalised. Compared with
+
+the previous three months, house prices had risen by about 1% in the three months to March on the
+
+average of the main lenders’ indices.
+
+19 The three-month annualised growth rate in unsecured lending had picked up to 5.5% in
+
+February, with positive net lending in both credit cards and other loans and advances. Retail sales had
+
+grown by 2% in February, consistent with further growth in consumption in the first quarter of 2013.
+
+
+-----
+
+6
+
+**Supply, costs and prices**
+
+20 Twelve-month CPI inflation had risen by 0.1 percentage points to 2.8% in February, in line with
+
+market expectations. Although changes to duties announced in the Budget and lower sterling oil prices
+
+would dampen the expected increase over the coming months, inflation still appeared likely to pick up
+
+to around 3% in the middle of the year. And the recent cold weather had increased the risk that further
+
+rises in seasonal food prices would push up CPI inflation in the months ahead.
+
+21 Pay growth had continued to be weak: annual growth in private sector regular pay in the three
+
+months to January was 1.2%, a fall of around 1 percentage point since the middle of 2012. Indeed, the
+
+level of average weekly earnings in January, at £470, was lower than it had been the previous April.
+
+The continued weakness of pay pressure was likely to reflect both resilient labour market participation
+
+rates and sluggish productivity growth.
+
+22 Employment had increased in the three months to January by 131,000, continuing the upward
+
+trend seen since the middle of 2011. Unemployment was broadly unchanged at 2.52 million, down
+
+136,000 from a year earlier. Labour market participation had appeared more resilient than previously
+
+expected. In contrast to previous recessions, where flows into inactivity had increased and outflows
+
+fallen, there had been little sign that those without jobs had reduced their attachment to the labour
+
+market. In addition, the participation rate of older workers had continued to increase. Further, the
+
+number of economically inactive people classified as long-term sick had fallen by around 145,000
+
+following changes to incapacity benefits introduced in October 2008. This increase in labour supply
+
+might have contributed to the weakness of pay growth.
+
+23 Productivity had continued to fall in the fourth quarter of 2012, with employment increasing as
+
+output fell, adding further to the longstanding productivity puzzle. Information on the output and
+
+employment of individual businesses from the 2011 Annual Business Survey and the 2012 English
+
+_Business Survey had suggested that there might have been unusually high labour retention by_
+
+businesses whose output had fallen: 20% of all employment in the sample had been in businesses
+
+whose output was falling but whose employment was nevertheless broadly flat, double the share
+
+immediately prior to the crisis. In previous recessions, which were often associated with tight
+
+monetary policy, such businesses might have failed completely. The relatively low rate of company
+
+
+-----
+
+7
+
+failure in this episode might therefore be one of a number of factors explaining why aggregate
+
+productivity had been lower relative to its pre-crisis trend than in previous recessions.
+
+24 There were likely to be two broad explanations of why business failures had been lower in recent
+
+years than would have been expected on the basis of their previous relationship with output growth.
+
+First, low nominal interest rates had alleviated the financial pressure on indebted businesses, thereby
+
+helping them to survive, in contrast to previous recessions which had been associated with tight
+
+monetary policy. Second, forbearance by lenders had provided some indebted businesses with the
+
+opportunity to continue trading when they might otherwise have failed. It was also possible that the
+
+changes resulting from the Enterprise Act 2002 made it easier for businesses in difficulty to carry on
+
+trading in current circumstances. Forbearance might have occurred because lenders had been
+
+unwilling to write off, or make provisions for, bad loans when their own capital position was weak.
+
+But, were forbearance to cease, it was not obvious that the resources currently used by struggling
+
+businesses would necessarily be re-employed in healthy businesses. It was possible that less
+
+forbearance would lead simply to more company failures, higher unemployment and lower output.
+
+Policies to strengthen the UK banking system, such as those recommended by the FPC, together with
+
+policies to encourage lending, such as the Funding for Lending Scheme, were intended to bring about a
+
+normalisation of credit conditions that would allow capital to flow to where it could be used most
+
+efficiently.
+
+**The immediate policy decision**
+
+25 The Committee’s new remit, as set out by the Chancellor of the Exchequer at the time of his
+
+latest Budget, reaffirmed that monetary policy should be set to meet the 2% inflation target but in a
+
+way that avoided undesirable volatility in output. The new remit also confirmed that the Committee
+
+should continue to look through temporary, even if protracted, periods of above-target inflation where
+
+it judged that cost and price pressures were consistent with inflation returning to the target in the
+
+medium term.
+
+26 The outlook for activity and inflation remained broadly in line with that set out in the February
+
+_Inflation Report. After only weak growth in 2012, business surveys suggested that the pace of_
+
+expansion in the UK economy was likely to remain muted during the first half of 2013. Employment
+
+had continued to rise in spite of the weakness of output growth. Retail sales growth had been strong in
+
+
+-----
+
+8
+
+February and suggested that the pickup in consumers’ expenditure over 2012 might have been
+
+sustained. But there had been only tentative signs of a generalised pickup in business investment other
+
+than by utilities and in the North Sea oil industry. The impact of the euro-area debt crisis, together
+
+with the fiscal consolidation and tight credit conditions at home, were likely to continue to weigh on
+
+demand. The reaction of financial markets to the events in Cyprus had been relatively muted, although
+
+the risk that bank depositors might also face losses or capital controls in a future crisis might have
+
+increased the fragility of the euro area and the associated downside risks. The stimulus from the
+
+Funding for Lending Scheme (FLS) and the asset purchase programme were likely to support a
+
+gradual recovery, although there had been some signs on the month that the pace of improvement in
+
+credit conditions had eased and net lending had so far remained subdued.
+
+27 Inflation had risen to 2.8% in February, in line with market expectations. It was still expected to
+
+pick up to around 3% in the middle of the year. But changes to duties announced in the Budget and
+
+lower sterling oil prices had offset upside news from the previous month and meant that the overall
+
+outlook for inflation was similar to that published in the February Inflation Report. While pay growth
+
+had been subdued, the impact of this on unit labour costs had been offset by weak productivity growth.
+
+And administered and regulated prices were likely to make unusually large and sustained contributions
+
+to inflation over the next two years or so.
+
+28 In line with its remit and to avoid undesirable volatility in output, the Committee had previously
+
+judged that it was appropriate to look through the impact of these prices on inflation provided that
+
+indicators of cost and price pressures were consistent with inflation returning to the target in the
+
+medium term. The Committee continued to expect CPI inflation to fall back to around the target in the
+
+medium term as a gradual revival in productivity growth dampened increases in domestic costs, and as
+
+external price pressures faded. The pace at which inflation was expected to return to the target was
+
+determined by monetary policy; this needed to balance supporting the recovery with bringing inflation
+
+back to the target promptly. The short-run trade-off between output growth and inflation meant that
+
+the Committee could return inflation to the target more quickly than currently expected only by taking
+
+policy actions that would provide less support to output. In responding to this trade-off, the
+
+Committee was setting policy in broadly the same way that it had done since its formation.
+
+29 The Committee took note of the recommendations of the Financial Policy Committee that sought
+
+to improve the capital adequacy of the major UK banks and building societies by the end of 2013. The
+
+
+-----
+
+9
+
+Committee agreed that a well-capitalised banking system was essential to improving the supply of
+
+credit and the supply capacity of the economy in the medium term. The Committee also saw merit in
+
+possible extensions to the FLS that would boost lending further.
+
+30 Against that backdrop, the Committee examined the cases for either increasing the degree of
+
+monetary stimulus through further asset purchases, or else maintaining it at the current level.
+
+31 There continued to be a case for a further extension of the Committee’s asset purchase
+
+programme to support other policies that were being deployed: wage growth had weakened further,
+
+consistent with there being a significant degree of slack in the economy; the prospects for growth
+
+remained subdued, especially given the continued weakness in the euro area; despite their recent rise,
+
+market-implied medium-term inflation expectations remained broadly consistent with meeting the
+
+target; and the Committee should look through temporary, even if protracted, periods of above-target
+
+inflation. Moreover, it was possible that higher demand would itself push up productivity and, if that
+
+were the case, higher output need not be associated with a material increase in inflationary pressure.
+
+Further asset purchases, by lowering longer-term interest rates and supporting a range of asset prices,
+
+could facilitate a smoother path towards the economy’s new equilibrium, help prevent a more
+
+persistent reduction in spending, and thereby avoid potentially lasting damage to productive capacity.
+
+32 There were also arguments in favour of maintaining the current size of the asset purchase
+
+programme. Monetary policy was already highly stimulatory and the benefit of past actions would
+
+continue to be felt: the first rise in Bank Rate was not fully priced into market rates until well into
+
+2016. Inflation was above the 2% target, was likely to rise further later this year, and was expected to
+
+remain elevated for an extended period. Medium-term inflation expectations had drifted upwards in
+
+recent months, and a further easing might exacerbate this movement and prompt renewed weakness in
+
+sterling, with implications for wages and prices. In addition, the extent to which supply capacity
+
+would respond to greater demand would depend on how quickly capital and labour could be
+
+redeployed from declining to growing businesses. This issue was better addressed by policies to
+
+improve the working of credit markets.
+
+33 All members saw some merit in each set of arguments, but weighted them differently in forming
+
+their view about the best monetary policy setting to bring inflation back to the target in the medium
+
+term while continuing to support output and employment.
+
+
+-----
+
+10
+
+34 The Governor invited the Committee to vote on the propositions that:
+
+Bank Rate should be maintained at 0.5%;
+
+The Bank of England should maintain the stock of asset purchases financed by the issuance
+
+of central bank reserves at £375 billion.
+
+Regarding Bank Rate, the Committee voted unanimously in favour of the proposition.
+
+Regarding the stock of asset purchases, six members of the Committee (Charles Bean, Paul Tucker,
+
+Ben Broadbent, Spencer Dale, Ian McCafferty and Martin Weale) voted in favour of the proposition.
+
+Three members of the Committee (the Governor, Paul Fisher and David Miles) voted against the
+
+proposition, preferring to increase the size of the asset purchase programme by a further £25 billion to
+
+a total of £400 billion.
+
+35 The following members of the Committee were present:
+
+Mervyn King, Governor
+Charles Bean, Deputy Governor responsible for monetary policy
+Paul Tucker, Deputy Governor responsible for financial stability
+Ben Broadbent
+Spencer Dale
+Paul Fisher
+Ian McCafferty
+David Miles
+Martin Weale
+
+Dave Ramsden was present as the Treasury representative.
+
+
+-----
+

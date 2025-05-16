@@ -1,0 +1,138 @@
+**BANK OF ISRAEL**
+
+Office of the Spokesperson and Economic Information
+
+September 11, 2019
+
+# Report on the Bank of Israel’s discussions prior to deciding on the
+ interest rate
+
+**The discussions took place on August 27 and 28, 2019.**
+
+**General**
+
+The Monetary Committee sets the interest rate in a process that includes two
+discussions––the first in a broad forum, and the second in a narrower one.
+
+In the broad-forum discussion, the relevant background economic conditions are
+presented, including the real and financial-monetary developments in Israel’s economy,
+and developments in the global economy. Participants in this discussion include the
+members of the Monetary Committee, senior representatives from the various
+departments of the Bank, and economists from the economic departments (Research
+and Market Operations), who prepare and present the material for discussion.
+
+In the narrow forum—which consists of the Monetary Committee and the Director of
+the Research Department—the Research and the Market Operations Departments
+present their views of the main considerations that should guide the setting of the
+monetary policy. An open discussion on monetary policy follows, which ends with a
+vote on the level of the interest rate. According to Section 18(c) of the Bank of Israel
+Law, 5770–2010, the decision on the interest rate is reached by majority vote of the
+members of the Monetary Committee who participate in the voting.
+
+A summary view of the economic situation available at the time of the Committee’s
+discussion is presented in the [notice regarding the interest rate decision, which was](https://www.boi.org.il/en/NewsAndPublications/PressReleases/Pages/28-8-19.aspx)
+[published on August 28[th], and in the data file that accompanied the notice.](https://www.boi.org.il/en/NewsAndPublications/PressReleases/Documents/Main%20economic%20background%20data%20interest%20rate%20decision%2028.8.19.pptx)
+
+
+-----
+
+**THE NARROW-FORUM DISCUSSION**
+
+The members of the Monetary Committee participating in the discussion decide on the
+appropriate rate of interest. After the discussion, it was decided to keep the interest rate
+unchanged at 0.25 percent. The decision was unanimous.
+
+The discussion focused primarily on the inflation environment and the contribution of
+the shekel's appreciation to the decline in the inflation rate; real economic activity and
+the development of exports in view of the risks to the global economy in particular; the
+fiscal uncertainty; and the expected path of monetary policy.
+
+**Main points of discussion**
+
+The Committee held a broad discussion of the change that has taken place in the
+inflation environment. The Committee members noted that annual inflation is below
+the lower bound of the target range, and that according to various assessments, it will
+remain within this environment in the coming months, before returning to around the
+lower bound of the target range. In this context they noted the negative contributions
+of the strengthening of the shekel and the decline in energy prices. The Committee
+noted the decline in one-year expectations and forecasts from various sources to around
+the lower bound of the target range, and the decline in medium-term forward
+expectations. In contrast, they noted the fact that long-term forward expectations
+remained anchored around the midpoint of the target. Most of the Committee members
+held the assessment that the appreciation of the shekel remains the main factor delaying
+the continued increase of inflation toward the midpoint of the target. In contrast, one
+of the Committee members emphasized that, net of the components characterized by
+high volatility, including the fresh fruits and vegetables item, inflation remains
+relatively stable around the lower bound of the target. The Committee members noted
+that three is great uncertainty regarding the future path of inflation.
+
+In their discussion of economic activity, the Committee members noted that second
+quarter data indicate that the economy is continuing to grow at around its potential rate,
+led by private consumption excluding durables and public consumption. They noted
+that initial third quarter data support the assessment that growth is continuing at around
+the potential rate. The Committee members agreed that the Israeli economy, and
+services exports in particular, seem to have not been affected, for the time being, by the
+trade war. They noted the continued trend of expansion in exports, led by services
+exports, and the fact that companies' reports for the Business Tendency Survey do not
+indicate a decline in orders from abroad or in profitability.
+
+The Committee believed that the labor market remains tight, and noted in particular the
+continued increase in nominal wages, led by the business sector, as an important factor
+in supporting the return of inflation to the target range. The Committee also discussed
+the marked uncertainty in the fiscal situation. The Committee believed that the fiscal
+uncertainty is expected to continue for some time, in view of the political uncertainty
+and the measures the government may take to deal with the expected deficit. The
+Committee discussed the potential effects of the deficit on economic activity and on the
+
+
+-----
+
+path of inflation. In their discussion of the housing market, the Committee members
+noted that home prices have continue to increase moderately in the past year, and the
+number of transactions increase, mainly led by first-home buyers. In addition, there
+was an easing of the terms of finance. Mortgage interest rates continued to decline
+moderately, due to the decline in government bond yields, while the upward trend in
+mortgage volume continued. It was noted that the decline in medium- and long-term
+bond yields, without a significant increase in corporate bond spreads, makes the terms
+of financing for the business sector easier as well.
+
+The Committee discussed the uncertainty in and risks to global economic activity. It
+noted that most of the signs point to a continuation of the slowdown in world trade,
+with forecasts of world trade and growth in most blocs revised downward. In addition,
+it was noted that the "trade war" between the US and China is continuing, and that the
+risks derived from the realization of Brexit have increased. In parallel, the assessments
+that monetary policy makers in the major economies are signaling further monetary
+accommodation were discussed. In particular, the Federal Reserve lowered the federal
+funds rate by 25 basis points, and market expectations are that the interest rate will
+continue to decline this year. The ECB left its interest rate unchanged, but signaled
+additional accommodative measures.
+
+Following the discussion, the Committee members were of the opinion that the interest
+rate should be left at its current level, and expressed the assessment that it will not rise
+for a prolonged period. Most of the Committee members believed that the recent
+decline in the inflation environment to below the target range, together with a combined
+trend of appreciation and negative global economic developments increase the risk to
+achieving the goals of monetary policy. However, all of the Committee members
+agreed that it is best to wait and examine the trend of inflation and developments in the
+economy before taking additional accommodative measures.
+
+**Participants in the narrow-forum discussion:**
+
+**Members of the Monetary Committee:**
+Prof. Amir Yaron, Governor of the Bank and Chairperson
+Mr. Andrew Abir, Director of the Market Operations Department
+Prof. Reuben Gronau
+Prof. Moshe Hazan
+Prof. Zvi Hercowitz
+
+**Other participants in the narrow-forum discussion:**
+Mr. Eddy Azoulay, Chief of Staff to the Governor
+Mr. Uri Barazani, Deputy Spokesperson of the Bank
+Mr. Itamar Caspi, Head of the Monetary Analysis Unit
+Ms. Esti Schwartz, Secretary of the Monetary Committee
+Mr. Yoav Soffer, Bank of Israel Spokesperson
+Prof. Michel Strawczynski, Director of the Research Department
+
+
+-----
+

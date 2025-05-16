@@ -1,0 +1,69 @@
+#           MONETARY PROGRAM FOR JANUARY 2018
+ BCRP LOWERED THE POLICY INTEREST RATE T0 3.0%
+
+1. The Board of the Central Reserve Bank of Peru approved to lower the monetary policy
+
+interest rate from 3.25 to 3.0 percent. This decision takes into account the following factors:
+
+i. Inflation in December continued decreasing and showed a rate in the lower band of the
+
+inflation target range for the second consecutive year due mainly to the reversal of the
+supply shocks as well as due to a level of economic activity lower than the potential
+growth rate. Inflation is projected to continue declining in the first months of 2018 and to
+converge thereafter to 2.0 percent. Moreover, trend inflation measurements continue
+decreasing and are expected to remain close to the middle of the target range during this
+year;
+
+ii. Expectations of inflation in 12 months continued declining and fell from 2.48 percent in
+
+November to 2.30 percent in December 2017;
+
+iii. In the fourth quarter of 2017, public expenditure, particularly investment expenditure,
+
+grew less than forecast, as a result of which the gap between economic activity and its
+potential level of growth increased, and
+
+iv. The world economy continues to show positive indicators, with positive signals in the
+
+prices of commodities and in capital flows to the emerging economies.
+
+2. The Board pays close attention to new data on inflation and inflation determinants to
+
+consider the convenience of making additional adjustments in the Central Bank’s monetary
+policy stance should it be necessary.
+
+3. Recent indicators of inflation and activity reflect the following:
+
+i. Inflation in December recorded a rate of 0.16 percent, as a result of which the year-to
+year inflation rate fell from 1.54 percent in November to 1.36 percent in December.
+Inflation without food and energy showed a rate of 0.29 percent, as a result of which the
+year-to-year rate fell from 2.23 percent in November to 2.15 percent in December, also
+within the target range.
+
+ii. The indicators of business expectations showed more moderate levels in December, but
+
+remain on the optimistic side.
+
+4. The Board of the Central Bank also approved to lower the annual interest rates on lending
+
+and deposit operations in domestic currency (not included in auctions) between BCRP and
+the financial system, as specified below:
+
+i. Overnight deposits: 1.75 percent.
+
+ii. Direct repos and rediscount operations: i) 3.55 percent for the first 15 operations
+carried out by a financial institution in the last 12 months, and ii) the interest rate set
+by the Committee of Monetary and Foreign Exchange Operations for additional
+operations to the 15 first operations carried out in the last 12 months.
+
+iii. Swaps: a commission equivalent to a minimum annual effective cost of 3.55 percent.
+
+5. The Monetary Program for the month of February will be approved on the Board Meeting of
+
+February 8, 2018.
+
+# Lima, January 11, 2018
+
+
+-----
+

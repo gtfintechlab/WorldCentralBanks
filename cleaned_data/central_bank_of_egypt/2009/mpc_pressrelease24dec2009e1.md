@@ -1,0 +1,44 @@
+# Central Bank of Egypt
+
+**Press Release**
+**December 24, 2009**
+
+**_In its meeting held on December 24, 2009, the Monetary Policy Committee (MPC) decided_**
+**_to keep the overnight deposit rate and overnight lending rate unchanged at 8.25 percent_**
+**_and 9.75 percent, respectively. The discount rate was also kept unchanged at 8.5 percent._**
+
+Annual headline CPI inflation remained largely unchanged at 13.3 percent in November
+2009, reflecting the accumulated sharp acceleration in the prices of fruits and vegetables that
+had occurred between February and October 2009, which has accounted for more than 50
+percent of the annual headline inflation. On a monthly basis, headline CPI declined by 0.1
+percent (m/m) in November 2009 compared to the strong monthly increase of 2.2 percent
+witnessed in October 2009, marking the first negative reading since December 2008. In the
+meantime, annual core inflation registered 6.6 percent in November 2009 compared to 6.5
+percent in October and remains within the CBE's comfort zone. It is important to underscore
+that the December inflation outturn is expected to reflect unfavorable base effects from last
+year, which has already been factored into the CBE's assessment of the monetary policy
+stance.
+
+Meanwhile, annual real GDP growth recorded 4.9 percent in 2009/10 Q1 compared to the
+four year low of 4.1 percent witnessed in 2008/09 Q2. While this outturn remains below the 7
+percent average registered over the past three years, it reflects a steady improvement in
+economic activity. There are encouraging signs that the global slowdown has stabilized
+somewhat over recent months and the outlook for the international economy appears to have
+improved as well. This coupled, with the domestic fiscal and monetary measures undertaken
+so far will continue to provide a conducive environment for the domestic economy.
+
+Against this background, the MPC assesses that the current level of policy interest rate is
+appropriate and supportive of the economic recovery while consistent with maintaining core
+inflation within the CBE's comfort zone in the medium-term.
+
+The MPC will continue to closely monitor all economic developments and will not hesitate to
+adjust the key CBE rates to ensure price stability over the medium-term.
+
+Dr. Rania Al-Mashat
+Division Chief, Monetary Policy Unit
+Telephone number: 27701315
+E-mail address: monetary.policy@cbe.org.eg
+
+
+-----
+

@@ -1,0 +1,54 @@
+# PRESS RELEASE
+
+ MONETARY POLICY STATEMENT OCTOBER 2020
+ BCRP MAINTAINED REFERENCE RATE AT 0.25%
+
+1. The Board of Directors of the Central Reserve Bank of Peru (BCRP) decided to continue its
+
+expansionary policy stance, maintaining the reference rate at 0.25 percent and implementing
+further liquidity injection operations, in light of the following developments:
+
+# i. Inflation in 2020 and 2021 is expected to be around the lower limit of the target range due to a
+
+significant weakening of domestic demand.
+
+# ii. One-year ahead expected inflation was 1.5 percent in September.
+ iii. Year-on-year inflation increased from 1.7 percent in August to 1.8 percent in September, while
+
+trend inflation remains in the lower part of the target range.
+
+# iv. Leading indicators point to a significant recovery in the third quarter, although they remain
+
+below last year’s levels, while firms’ growth expectations continued to recover in September.
+
+# v. Global economic activity has been improving faster than expected, but remains below last
+
+year’s levels.
+
+2. The BCRP will continue to take the necessary steps to sustain the payments system and credit
+
+flows. As of October 6, the BCRP’s liquidity injection operations totaled S/ 60.5 billion, of which
+S/ 47.8 billion were associated with government-backed repos. In this context, credit to the private
+sector grew 14.4 percent year-on-year in August, with interest rates declining steadily since April.
+Additionally, phase two of the “Reactiva Peru” program continued in September, with 29 auction
+sessions since June 30 totaling S/ 25.1 billion at an average interest rate of 1.72 percent.
+
+3. The Board considers it appropriate to maintain a strong expansionary monetary stance for as long
+
+as the negative effects of the pandemic on inflation and its determinants persist. The BCRP stands
+ready to expand monetary stimulus using a range of instruments.
+
+4. The Board also decided to maintain the following interest rates on its window facility operations in
+
+domestic currency with financial entities:
+
+# i. Overnight deposits: 0.15 percent per year.
+ ii. Direct security/currency repo and rediscount operations: 0.50 percent per year.
+
+5. The BCRP Board’s next monetary policy session will take place on November 12, 2020.
+
+Lima, October 7, 2020
+
+
+-----
+

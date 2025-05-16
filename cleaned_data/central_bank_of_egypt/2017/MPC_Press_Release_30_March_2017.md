@@ -1,0 +1,57 @@
+# Central Bank of Egypt
+
+**Press Release**
+
+March 30, 2017
+
+**In its meeting held on March 30, 2017, the Monetary Policy Committee (MPC) decided to keep the**
+**overnight deposit rate, overnight lending rate, and the rate of the Central Bank of Egypt's (CBE) main**
+**operation unchanged at 14.75 percent, 15.75 percent, and 15.25 percent, respectively. The discount**
+**rate was also kept unchanged at 15.25 percent.**
+
+Monthly headline inflation dropped to 2.63 percent in February 2017, after averaging 4.01 percent
+between November 2016 and January 2017, reflecting fading cost-push inflationary pressures. Inflation
+has been mainly driven by tradable items, led by core food items which registered in February the
+lowest contribution since October 2016, while the contribution of non-tradable items dropped since
+December 2016. Accordingly, monthly core inflation dropped to 2.61 percent in February 2017 after
+averaging 4.89 percent between November 2016 and January 2017. Nevertheless, given elevated
+monthly inflation rates, annual headline and core inflation registered 30.25 percent and 33.10 percent in
+February 2017, respectively.
+
+Meanwhile, annual real GDP growth recorded 3.8 percent in 2016/17 Q2 following the 3.4 percent
+recorded in Q1. This coincided with the narrowing of the unemployment rate to 12.4 percent in 2016/17
+Q2 from 12.6 percent in Q1, resuming its downward trend after peaking at 13.4 percent in 2013/14 Q2.
+However, annual real GDP growth weakened compared to the 4.5 percent registered during the first half
+of 2015/16.
+
+Developments in the external environment show that there has been some firming of international
+commodity prices, while low global inflation and subdued global growth continue to maintain weak
+pressures on domestic prices, albeit recovering and beginning to set the stage for monetary policy
+normalization.
+
+From the monetary perspective, annual broad money growth has been strongly affected by revaluation
+effects of its foreign currency components. Excluding revaluation effects, higher broad money growth
+between November 2016 and February 2017 came mainly due to the recovery of net foreign assets,
+evident by the CBE's international reserve accumulation. Furthermore, money growth will continue to
+be impacted by the phasing out of the CBE's monetary financing of the fiscal deficit. In the meantime,
+the longer-term absorption of excess liquidity continued to tighten liquidity conditions.
+
+Looking ahead, annual inflation is expected to drop after transitory cost-push effects diminish and
+monthly inflation rates moderate, supported by the previous preemptive policy rate hikes, longer-term
+absorption of excess liquidity, as well as by favorable base effects.
+
+
+-----
+
+Consistent with the inflation outlook and the targeted disinflation path, the MPC judges that the key CBE
+rates are currently appropriate. The MPC reiterates its price stability mandate and will continue to
+closely monitor all economic and monetary developments as well as the balance of risks, and will not
+hesitate to adjust the key CBE rates to ensure price stability over the medium-term.
+
+Monetary Policy Sector
+Tel: +20227701315
+[E-mail: monetary.policy@cbe.org.eg](mailto:monetary.policy@cbe.org.eg)
+
+
+-----
+

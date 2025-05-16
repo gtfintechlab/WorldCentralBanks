@@ -1,0 +1,175 @@
+# Minutes of the Monetary Policy Council decision-making
+
+ meeting held on 4 December 2019
+
+During the meeting, the Council pointed out that activity growth in the world economy
+
+remained soft and uncertainty about the global economic outlook persisted. Recessionary
+trends continue in industry in the major economies and annual growth in global trade is
+negative. Reflecting these developments, forecasts of international financial institutions
+indicate continued sluggish GDP growth worldwide in 2020.
+
+It was emphasised that in the euro area economic growth remained low in 2019 Q3. It
+
+was noted that industrial output in the euro area was declining and business confidence
+indicators for the industrial sector – despite some improvement seen in November – still did
+not signal a recovery. It was judged that economic activity in the euro area was supported
+by a steady rise in consumption, driven by positive household sentiment and favourable
+labour market conditions. However, certain Council members pointed to the gradually
+deteriorating sentiment in services and slower annual growth in employment, which both
+may pose a risk for economic conditions in the euro area.
+
+In Germany, GDP growth in 2019 Q3 was positive and higher than expected, albeit still
+
+very low. It was also emphasised that in the United States, the GDP data for 2019 Q3
+corroborated the persistently robust economic conditions as compared to other advanced
+economies, yet annual GDP growth was gradually decreasing. It was pointed out that amid
+weak global economic growth, inflation in many countries was moderate, and in the euro
+area it was low.
+
+In November, oil prices in the global commodity markets were relatively stable,
+
+although subject to temporary fluctuations driven by both supply and demand factors.
+
+The European Central Bank is keeping the deposit rate below zero, while conducting
+
+asset purchases and signalling the maintenance of loose monetary policy in the coming
+quarters. The US Federal Reserve, after the interest rate cuts of recent months, was keeping
+the rates unchanged.
+
+In Poland, economic conditions remain good, despite slower economic growth in 2019
+
+Q3. GDP growth is supported by stable consumption growth, fuelled by favourable labour
+market conditions, very strong consumer confidence and disbursement of social benefits.
+Investment continued to rise in 2019 Q3, although at a slower pace, which was most likely
+due to the fall in local government investment and the slower growth in investment cofinanced by EU funds. At the same time, it was underlined that exports growth increased in
+2019 Q3, albeit it was lower than in the previous years.
+
+Some Council members pointed out that the incoming monthly data were signalling the
+
+likelihood of a slight slowdown in GDP growth in 2019 Q4. In October 2019, growth in
+industrial output was lower than in the first half of 2019, while assembly and construction
+output declined in year-on-year terms. Certain Council members also stressed that
+household sentiment remained upbeat, although it had deteriorated slightly in the recent
+period, and the PMI in industry continued at below 50 points.
+
+1/3
+
+
+-----
+
+The Council members indicated that wage growth in the economy had picked up
+
+somewhat in 2019 Q3 on the back of the rising wages in the public sector. Attention was also
+drawn to the persistently low unemployment rate. However, certain Council members
+emphasised that demand for labour might stabilise. This was suggested by the weaker wage
+growth and a further slight decrease in employment in month-on-month terms in the
+corporate sector as well as the lower number of job offers in the recent period.
+
+The majority of the Council members were of the opinion that the outlook for domestic
+
+economic conditions remained favourable, and GDP growth – despite the expected
+slowdown – would continue at a relatively high level in the coming quarters. It was argued
+that the continuation of sluggish growth abroad and the possible decline in investment
+growth might contain GDP growth, while the continuing rise in consumer demand would
+have a stabilising impact on economic conditions.
+
+It was pointed out that annual inflation stood at 2.6% y/y in November 2019. It was driven
+
+up by elevated food price growth, while being curbed by lower energy prices than a year
+ago, including fuel prices. Some Council members noted that inflation in month-on-month
+terms was lower than in the first half of 2019.
+
+The majority of the Council members judged that although core inflation had risen
+
+somewhat in recent months, it remained moderate. These Council members underlined that
+growth of non-food goods prices stayed very low, while core inflation was propelled by
+faster growth in services prices, partly driven by increases in certain administered charges,
+and partly by rising wages that reflected convergence of the Polish economy. Consequently,
+the majority of the Council members assessed price pressures in the economy to be moderate.
+At the same time, it was observed that the retail sales deflator was low, and producer price
+growth had declined slightly below zero in the recent period. Certain Council members were
+of the opinion that one of the factors behind the faster growth in services prices than in
+previous years was the persisting demand pressure in the economy.
+
+The majority of the Council members anticipated that CPI inflation would rise
+
+temporarily in 2020 Q1, before declining and running close to the inflation target in the
+subsequent quarters. It was emphasised that over the projection horizon inflation would be
+contained by weaker economic growth in Poland and the likely persistence of low inflation
+abroad. The majority of the Council members emphasised that the forecast temporary rise in
+inflation in 2020 Q1 would stem from factors beyond the reach of domestic monetary policy,
+including statistical base effects. Moreover, it was judged that uncertainty about energy price
+growth in the coming quarters continued.
+
+Certain Council members were of the opinion that inflation in the subsequent quarters
+
+might remain higher than 2.5%. They underlined that price growth might be boosted by
+further growth in services prices, including prices of administered services. They also
+pointed out the potential upward pressure on inflation stemming from the growth in
+monetary aggregates, related to the rapid – in their opinion – expansion in consumer and
+housing loans to households. In this context, these Council members additionally observed
+that the NBP reference rate was negative in real terms, and that the rise in inflation in 2020
+Q1, should it materialise, would bring it down.
+
+2/3
+
+
+-----
+
+In turn, the majority of the Council members indicated that central bank interest rates
+
+were currently negative in real terms in many economies, including, in particular, in the euro
+area. They also pointed out that the real interest rates on lending to households and
+enterprises were well into positive territory. These Council members underlined that total
+credit growth in the economy was stable and remained lower than nominal GDP growth,
+while corporate lending growth was slowing down.
+
+The majority of the Council members decided that interest rates should remain
+
+unchanged. In their opinion, the outlook for the domestic economy remained favourable and
+GDP growth, despite the expected decline, would continue at a relatively high level in the
+coming quarters. At the same time, the Council assessed that uncertainty as to the scale and
+duration of the economic slowdown abroad and its impact on domestic economic activity
+persisted. In the opinion of the majority of the Council members, after a temporary rise in
+2020 Q1, inflation would stay close to the target over the monetary policy transmission
+horizon. Consequently, the majority of the Council members judged that the current level of
+interest rates was conducive to keeping the Polish economy on a sustainable growth path
+and maintaining macroeconomic stability.
+
+The majority of the Council members also expressed an opinion that, taking into account
+
+current information, interest rates were likely to remain stable in the coming quarters. These
+Council members pointed out that their assessment was supported by current forecasts
+indicating that inflation would remain in line with the NBP inflation target over the monetary
+policy horizon amid the forecast gradual slowing in GDP growth.
+
+Certain Council members emphasised that there were factors that might boost inflation
+
+higher than indicated by the current forecasts. They noted that should there be a significant
+rise in inflation and inflation expectations that would jeopardize meeting the inflation target
+in the medium term, it might be justified to consider an increase in interest rates in the
+coming quarters.
+
+In turn, certain Council members pointed out that signs of a deterioration in global
+
+economic conditions persisted. In the opinion of these Council members, the above factors
+could also have a negative impact on economic growth in Poland in the quarters to come. At
+the same time, the risk of a lasting deviation of inflation from the NBP target was limited. As
+a result, a view was expressed that it was justified to lower interest rates at the current
+meeting and that – in the longer run – it might be justified to consider a further decrease in
+interest rates or the introduction of unconventional monetary policy instruments.
+
+At the meeting a motion to cut the NBP interest rates by 0.25 percentage points was
+
+submitted. The motion was rejected. The Council decided to keep the NBP interest rates
+unchanged: the reference rate at 1.50%, the lombard rate at 2.50%, the deposit rate at 0.50%
+and the rediscount rate at 1.75%.
+
+Publication date: 19 December 2019
+
+3/3
+
+
+-----
+

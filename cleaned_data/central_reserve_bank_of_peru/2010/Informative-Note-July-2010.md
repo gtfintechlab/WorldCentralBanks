@@ -1,0 +1,47 @@
+# MONETARY PROGRAM FOR JULY 2010
+ BCRP RAISED THE REFERENCE RATE TO 2.0%
+
+1. The Board of the Central Reserve Bank of Peru approved to raise the monetary policy
+reference rate from 1.75 percent to 2.0 percent
+
+This measure is mainly preventive given the strong dynamism of domestic demand and
+implies maintaining monetary stimulus in a context in which no inflationary pressures are
+observed.
+
+Future adjustments in the reference interest rate will depend on new information on the
+evolution of macroeconomic indicators and their impact on inflation determinants.
+Uncertainty persists in international financial markets and so does uncertainty about the
+impact that this might have on global economic recovery.
+
+2. Private and public expenditure have been recording a significant growth so far this year,
+as reflected in current and advanced indicators of production which show a rapid
+recovery of the economy. Indicators worth pointing out include the growth of
+manufacturing, increased demand for electricity and for imports, and greater dynamism
+in the construction sector.
+
+3. Inflation in June registered a rate of 0.25 percent, mainly due to the rise of food prices
+associated with supply factors. With this, annual inflation increased to 1.64 percent. Core
+inflation, which showed a rate of 0.13 percent, accumulated an annual growth of 1.79
+percent and remains around the 2 percent target.
+
+4. The Board continues to oversee the projection of inflation and its determinants and
+stands ready to adopt adjustments in monetary policy instruments in order to ensure that
+inflation falls within the target range.
+
+5. The Board also approved to raise the following annual interest rates on active and
+passive operations in domestic currency (not included in auctions) between the BCRP
+and the financial system as described below:
+
+a. Direct repo and rediscount operations: 2.80 percent.
+b. Overnight deposits: 1.20 percent.
+c. Swap: a commission equivalent to a minimum annual effective cost of 2.80
+percent.
+
+6. The Board will approve the Monetary Program for August on its session of August 5,
+2010.
+
+Lima, 8 de julio de 2010
+
+
+-----
+

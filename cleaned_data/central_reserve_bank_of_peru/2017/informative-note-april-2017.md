@@ -1,0 +1,65 @@
+# MONETARY PROGRAM FOR APRIL 2017
+ BCRP MAINTAINED THE POLICY INTEREST RATE AT 4.25%
+
+1. The Board of the Central Reserve Bank of Peru approved to maintain the monetary policy
+
+interest rate at 4.25 percent. This decision is consistent with an inflation forecast in which
+inflation converges to the target range during 2017 and takes into account the following
+factors:
+
+i) The faster pace of inflation observed recently is transitory and is associated with the
+
+supply shocks caused by the effects of El Niño;
+
+ii) Expectations of inflation in 12 months are temporarily close to the upper band of the
+
+inflation target range;
+
+iii) The pace of growth of domestic economic activity has continued to slow down in the first
+
+quarter of 2017, showing a pace of growth below its potential growth level. Economic
+activity is expected to gradually show greater dynamism in the following quarters as a
+result of increased government spending and higher export prices, and
+
+iv) The global economy shows signals of recovery, although there is still uncertainty about
+
+developed countries’ policies.
+
+2. The Board oversees new data on inflation and inflation determinants, giving particularly close
+
+attention to data about the reversal observed in terms of supply shocks, to ease the
+monetary policy stance in the short term.
+
+3. Inflation in March showed an extraordinary high rate (1.3 percent) due to rises in the prices
+
+of some foodstuffs that were affected by the severe rains associated with El Niño. As a
+result, the year-to-year rate of inflation rose from 3.25 percent in February to 3.97 percent in
+March. Inflation without food and energy showed a rate of 0.84 percent, as a result of which
+the year-to-year rate increased from 2.56 percent in February to 2.72 percent in March,
+within the target range. It should be pointed out that, historically, inflation has been affected
+by supply shocks that have increased it transitorily and reversed thereafter, which is also
+what is happening today.
+
+4. The indicators of business expectations declined in March. In line with this, GDP is expected
+
+to grow between 3.0 and 3.5 percent in 2017.
+
+5. The Board of the Central Bank also approved to maintain the annual interest rates on lending
+
+and deposit operations in domestic currency (not included in auctions) between BCRP and
+the financial system, as specified below:
+
+a. Overnight deposits: 3.0 percent.
+b. Direct repos and rediscount operations: i) 4.80 percent for the first 15 operations
+
+carried out by a financial institution in the last 12 months, and ii) the interest rate set
+by the Committee of Monetary and Foreign Exchange Operations for additional
+operations to the 15 first operations carried out in the last 12 months.
+
+c. Swaps: a commission equivalent to a minimum annual effective cost of 4.80 percent.
+
+6. The Board will approve the Monetary Program for May on its meeting of May 11, 2017.
+
+
+-----
+

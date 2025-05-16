@@ -1,0 +1,240 @@
+# Minutes of the Monetary Policy Council decision-making meeting held
+
+ on 9 May 2024
+
+During the discussion at the meeting of the Monetary Policy Council it was noted that in
+
+2024 Q1 GDP had grown in the euro area in annual terms, following a fall in the second
+
+half of 2023. However, it was underlined that despite a slight recovery, activity in this
+
+economy was still weakened, with a better economic situation in those euro area countries
+
+with whom Poland has less economic ties. In Germany – Poland’s main trading partner –
+
+annual GDP growth remained negative in 2024 Q1, although signs of recovery had also
+
+appeared there. Meanwhile, in the United States annual GDP growth was still relatively
+
+high in 2024 Q1, despite being somewhat lower than market expectations.
+
+When discussing inflation developments abroad, the Council members noted that in April
+
+2024 HICP inflation in the euro area stood at 2.4% (like in March), amid a further fall in
+
+core inflation. At the same time, it was pointed out that in the United States price growth
+
+in the recent period had been higher than expected, and in March CPI inflation had stood
+
+at 3.5% (compared to 3.2% in February 2024), amid a stabilisation of core inflation. Due to
+
+diverging disinflation processes in the two largest developed economies, it was noted that
+
+expectations of financial market participants indicated the possibility of an interest rate
+
+cut by the European Central Bank at the next meeting and interest rates kept unchanged
+
+by the Federal Reserve of the United States in the coming months.
+
+When discussing economic activity in Poland, the Council members judged that the
+
+incoming data indicated a gradual economic recovery, although certain monthly data
+
+from March 2024 were below expectations. It was pointed out that the annual GDP growth
+
+in 2024 Q1 had most probably been higher than in the previous quarter. Attention was
+
+drawn to the fact that data on retail sales in 2024 Q1 suggested a gradual growth in
+
+household demand, while data on industrial and on construction and assembly output
+
+might signal a decline in investment growth.
+
+When referring to the labour market conditions, it was noted that annual nominal wage
+
+growth in the enterprise sector had remained high in March 2024. The Council members
+
+underlined that amid inflation running at the level consistent with the NBP inflation
+
+target, in recent months real wage growth in the enterprise sector had been running at its
+
+highest level in many years. It was stressed that business surveys indicated slower wage
+
+1/4
+
+
+-----
+
+growth in 2024 Q2. The Council members also pointed to a further slight fall in
+
+employment in the enterprise sector.
+
+During the discussion it was noted that annual growth in zloty-denominated loans to
+
+households continued to increase and that growth in corporate investment loans had
+
+picked up, although annual growth in current corporate loans had remained negative.
+
+At the meeting it was pointed out that – according to the Statistics Poland flash estimate –
+
+in April 2024 annual consumer price growth amounted to 2.4% (compared to 2.0% in
+
+March 2024), i.e. it had remained at a level consistent with the NBP inflation target. The
+
+Council members underlined that the increase in annual growth compared to the previous
+
+month was mainly the result of an increase in food prices caused by the restoration of the
+
+VAT rate from zero to 5% and by an increase in fuel prices. At the same time, the Council
+
+members indicated that in April 2024 inflation net of food and energy prices had probably
+
+declined again, although it was still higher than the headline CPI inflation. It was noted
+
+that especially growth in services prices remained elevated, particularly due to strong
+
+wage growth amidst the relatively high share of wages in the costs of this sector. Certain
+
+Council members drew attention to the fact that in March 2024 annual price growth of a
+
+significant proportion of goods and services included in the CPI basket still exceeded 3.5%.
+
+The Council members pointed out that recently the sharp fall in industrial producer prices
+
+in annual terms had continued, confirming the fading of most of external supply shocks
+
+and limited cost pressure. Together with the relatively low – despite some acceleration –
+
+economic activity growth this had been conducive to limiting inflation. It was judged that
+
+inflation was also curbed by the appreciation of the zloty exchange rate, which was
+
+consistent with the fundamentals of the Polish economy. Some Council members
+
+indicated that the current level of interest rates was a factor that should limit inflationary
+
+pressure also in the medium term. These Council members underlined that inflation
+
+expectations were running at low levels.
+
+When discussing the inflation outlook, Council members pointed out that according to the
+
+available forecasts, in 2024 Q2 CPI inflation would remain at a level consistent with the
+
+NBP inflation target of 2.5% ± 1 p.p., although it would most likely continue to rise in the
+
+coming months, due to higher food and energy price growth. At the same time, the
+
+Council members noted that developments in energy prices in the subsequent quarters
+
+were still subject to high uncertainty. Should subsidies to energy prices be fully or partially
+
+removed, inflation would rise significantly in the second half of 2024, exceeding the NBP
+
+2/4
+
+
+-----
+
+inflation target. In turn, should energy prices be kept unchanged, inflation in the second
+
+half of 2024 would rise much weaker, running close to the upper limit of deviations from
+
+the inflation target.
+
+When referring to the medium-term outlook, it was pointed out that the growth in food
+
+prices driven by the increase in the VAT rate, and the expected increase in energy prices
+
+in the second half of 2024, might also influence inflation expectations. However, it was
+
+indicated that although higher food and energy prices might raise wage demands and
+
+upward pressure on social benefits, at the same time they would reduce growth in
+
+household disposable income, contributing towards lower demand pressure. The Council
+
+members noted that the further development of wage growth was the main risk factor for
+
+the medium-term inflation outlook. It was pointed out that the transmission of higher
+
+wages to prices might depend on many factors, including the speed of the recovery in
+
+domestic economic activity, changes in corporate profitability, and households’
+
+propensity to save.
+
+The Council members noted that fiscal policy remained a risk factor for the inflation
+
+outlook. It was stressed that so far some of the declared fiscal measures had still not been
+
+implemented, such as the increase in the amount of social benefits or the introduction of
+
+new ones. The persistence of other significant sources of uncertainty was also underlined,
+
+including, among others, the tense geopolitical situation, commodity price developments
+
+and the economic conditions in the environment of the Polish economy.
+
+The majority of Council members assessed that despite the observed economic recovery,
+
+demand and cost pressures in the Polish economy remained low, which, amidst weakened
+
+economic conditions and falling inflation pressure abroad, supported lower domestic
+
+inflation. As a result, it is expected that in 2024 Q2 annual CPI growth will run at the level
+
+consistent with the NBP inflation target. This will be accompanied by lower than in the
+
+previous quarters inflation net of food and energy prices, although – due to elevated
+
+growth in services prices – it will stay above the CPI inflation. In subsequent quarters,
+
+inflation developments are, however, associated with substantial uncertainty related i.a.
+
+to the impact of fiscal and regulatory policies on price developments, including on
+
+inflationary expectations, as well as the pace of economic recovery in Poland and labour
+
+market conditions. It was emphasised that should energy prices be raised, inflation might
+
+rise significantly in the second half of 2024. Alongside that, over the medium term demand
+
+pressure in the economy will be stimulated by significant wage growth, stemming, among
+
+others, from wage increases in the public sector. Against this background, the Council
+
+3/4
+
+
+-----
+
+decided to keep the NBP interest rates unchanged. The Council judged that the current
+
+level of the NBP interest rates was conducive to meeting the NBP inflation target in the
+
+medium term.
+
+A view was expressed that given the elevated core inflation, as well as the expected further
+
+recovery in demand and high wage growth, the current level of NBP interest rates was too
+
+low to ensure the sustainable return of inflation to the target in the medium term.
+
+The Council decided to keep the NBP interest rates unchanged: the reference rate at 5.75%,
+
+the lombard rate at 6.25%, the deposit rate at 5.25%, the rediscount rate at 5.80%, and the
+
+discount rate at 5.85%.
+
+The Council members pointed out that further decisions of the Council would depend on
+
+incoming information regarding prospects for inflation and economic activity.
+
+Publication date: 7 June 2024
+
+4/4
+
+
+-----
+

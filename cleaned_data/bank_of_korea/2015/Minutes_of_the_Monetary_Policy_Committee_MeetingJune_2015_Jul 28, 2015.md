@@ -1,0 +1,508 @@
+### June 11, 2015
+
+## The Bank of Korea
+
+
+-----
+
+###### (English version)
+
+#### Minutes of the Monetary Policy Committee Meeting[1)]
+
+##### (June 2015)
+
+ Ⅰ. Outline
+
+###### 1. Date of meeting : Thursday, June 11, 2015
+
+ 2. Place     : Monetary Policy Committee Meeting Room
+
+ 3. Monetary Policy Committee members present:
+
+ Lee, Juyeol, Chairman (Bank of Korea Governor) Ha, Seong Keun Chung, Hae-Bang Chung, Soon Won Moon, Woosik Hahm, Joon-Ho Jang, Byung Wha (Senior Deputy Governor)
+
+ 4. Monetary Policy Committee members absent : none
+
+ 5. Participants : Song, JaeJung, Auditor Suh, Young Kyung, Deputy Governor Lee, Heung Mo, Deputy Governor Kim, Minho, Deputy Governor Yoon, Myun-Shik, Deputy Governor Chae, Sun Byoung, Director General of Reserve Management Group Choi, Woon Gyu, Director of BOK Economic Research Institute Chang, Min, Director of Research Department Cho, Jeonghwan, Director General of Financial Stability Department Huh, Jin Ho, Director General of Monetary Policy Department Shin, Ho Soon, Director General of Financial Markets Department Hong, Seung Je, Director General of International Department Lee, Hwanseok, Director General of Monetary Policy Committee Secretariat Park, Sung Joon, Press Officer Park, Cheol Won, Head of MPC Team
+
+1) This English version (summary) of the minutes of the Monetary Policy Committee Meeting was
+
+produced at a working level, and is not an official document.
+
+1
+
+
+-----
+
+###### Ⅱ. Summary of Discussions on the Current Economic Situation2)
+
+ After briefings by staff on ‘Current Economic Developments in Korea’,
+
+ ‘FX and International Finance’ and the ‘Financial Markets’, the discussions
+
+ of the Monetary Policy Committee (MPC) members covered the following
+
+ areas:
+
+ With regard to the global economy, members’ assessment was that the
+
+ US economy appeared to be emerging from its sluggishness in the first
+
+ quarter, and the mildly improving trends in the euro area and Japan had
+
+ continued, while economic growth in China had continued to slow.
+
+ Members judged that, amid the high price volatility of the international
+
+ financial markets, interest rates had risen and stock prices had fallen.
+
+ As to the domestic economy, most members noted that, with exports
+
+ exhibiting sluggishness, consumption and business confidence had both
+
+ contracted, influenced by the outbreak of Middle East Respiratory
+
+ Syndrome (MERS).
+
+ Concerning the domestic financial markets meanwhile, members
+
+ commented that long-term market interest rates had fallen back after
+
+ having risen, and that stock prices had fallen, influenced for instance by
+
+ declining global stock prices. A number of members also noted that
+
+ banks’ household lending had sustained its high rate of increase at a level
+
+ exceeding that of recent years.
+
+ With regard to prices, many members noted that consumer price
+
+ inflation had risen slightly from the previous month to stand at 0.5%, and
+
+ that core inflation excluding the prices of agricultural and petroleum
+
+ products had also risen slightly to 2.5%, but both indexes still remained at
+
+ a low level.
+
+2) English versions of 'Current Economic Developments in Korea' and the 'Financial Markets' are posted
+
+on the Bank of Korea website.
+
+2
+
+
+-----
+
+###### Ⅲ. Discussions Concerning Monetary Policy Decision (Summary)
+
+ The main details of the MPC Members’ discussions concerning a
+
+ change in the Bank of Korea Base Rate were as follows:
+
+ Most members shared the opinion that, in overall consideration of the
+
+ domestic and international economic environment and the future outlook
+
+ for them both, it would be desirable this month to cut the Base Rate by
+
+ 0.25 of a percentage point from its current level for the intermeeting
+
+ period.
+
+ One of these members rationalized his opinion as to the desirability of
+
+ cutting the Base Rate by 0.25 of a percentage point. He argued that,
+
+ although there was concern that an additional Base Rate cut by the Bank
+
+ of Korea would merely bring about an erosion of its policy-making
+
+ capacity, since the Korean economy was currently in a condition in which
+
+ it would be very difficult to regain its dynamism simply through
+
+ additional interest rate reductions or fiscal expansion. Furthermore, in the
+
+ current sufficiently accommodative financial conditions, the Bank’s further
+
+ lowering of interest rates could give rise to several negative side effects.
+
+ Having said this, he nevertheless stated his belief that it was absolutely
+
+ vital to cope preemptively with the malevolent side-effects of the worries
+
+ about the recent weakening of the pace of economic recovery coming as it
+
+ did on top of the negative impact on economic agents’ sentiment of the
+
+ MERS outbreak, which judging from past experience, was likely to be
+
+ substantial. He concluded his remarks by calling for a vigilance against an
+
+ increase in household debt that might be triggered by the protracted period
+
+ of low interest rates and against the heightening of financial market
+
+ volatility.
+
+ Another member expressed the view that it would be best to cut the
+
+ Base Rate by 0.25 of a percentage point in view of the following points:
+
+3
+
+
+-----
+
+###### firstly, that, although price movements were following the path forecast in
+
+ April, there was an increased possibility of economic growth not reaching
+
+ the forecasted path; secondly, that, although there were uncertainties
+
+ concerning the duration and knock-on effects of the MERS outbreak, it
+
+ was necessary to undertake a preemptive policy response to reduce its
+
+ negative impact on economic agents’ sentiment and economic activities. He
+
+ went on to state his view that it was necessary to consider ways to
+
+ relieve the difficulties of companies hit by the MERS outbreak by making
+
+ use of the Bank of Korea’s Bank Intermediated Lending Support Facility,
+
+ and that greater attention should be paid both to a rapid build-up of
+
+ household debt in line with the lower Base Rate, and to the widened
+
+ scale of price variables’ volatility such as that of interest and exchange
+
+ rates unleased by the possible normalization of the US Fed’s monetary
+
+ policy.
+
+ Another member stated his opinion that it would be desirable to cut
+
+ the Base Rate by 0.25 of a percentage point this month, as additional
+
+ factors conducive to a Base Rate cut were seen to have come into play
+
+ since last month’s monetary policy decision and a preemptive response
+
+ was called for to the excessive contraction of economic confidence
+
+ following the cluster of MERS outbreaks. He went on to further justify
+
+ this position by noting that the negative output gap would now be
+
+ resolved at an even later date considering the declining likelihood of the
+
+ originally-forecast second-quarter economic turnaround as exports were
+
+ likely to remain sluggish for the time being, affected chiefly by the
+
+ decrease in EME trade and REER appreciation in line with the Chinese
+
+ economic slowdown, added to which there was the possibility of a further
+
+ reduction of private consumption owing to MERS cases; moreover, the
+
+ downside risks to the growth path for the second half were rising
+
+ significantly. Moreover, core inflation was also highly unlikely to reach the
+
+ appropriate level of inflation in the first half of the following year owing
+
+ to the insufficiency of demand-side upward pressures, which more than
+
+4
+
+
+-----
+
+###### offset the expected gradual increase in inflation in the second half. In
+
+ addition, the extent of the slack in the production sector had expanded in
+
+ terms of facilities investment demand pressures, the inventory-shipments
+
+ ratio and average capacity utilization ratio, while that in the employment
+
+ sector also had not exhibited a significant decrease in terms of the
+
+ unemployment rate and the unemployment rate broadly defined.
+
+ Meanwhile, another member mentioned that downside risks to economic
+
+ growth had expanded, with the heightened possibility of domestic demand
+
+ being hard hit by the outbreak of MERS with the acceleration of the
+
+ decline in exports showing signs of spreading to production and other
+
+ areas; moreover the shrinking of demand following the cluster of MERS
+
+ cases might put further downside risks to prices, while there were growing
+
+ upward pressures on the Korean won in the domestic exchange market, in
+
+ line with a number of countries’ accommodative monetary policies. The
+
+ member then expressed his opinion that additional monetary easing should
+
+ be implemented promptly at this point of time so as to cut the Base Rate
+
+ by 0.25 of a percentage point, as expectations of a US Fed’s policy rate
+
+ hike would grow and interest and exchange rate volatility would both
+
+ increase towards the second half of this year, which was highly likely to
+
+ limit the monetary authorities’ maneuvering room for policy. The member
+
+ went on to state that household debt risk, a policy cost incident to
+
+ monetary easing, was a problem that should be addressed by securing debt
+
+ repayment capacity through improved nominal incomes, adding the caveat
+
+ that since sudden surges in household debt were never desirable, the
+
+ policy authorities should energetically seek to manage risk by way of
+
+ microprudential policy. 
+
+ Another member commented that overseas economies were moving in
+
+ different directions － a positive recovery trend in US and the euro area
+
+ but a slowdown in China and other emerging market economies. On the
+
+ home front while there were signs of improvement in domestic demand in
+
+5
+
+
+-----
+
+###### some sectors led by consumption, there were downside risks to exports
+
+ and manufacturing production and concerns had been aroused by the
+
+ withering of economic sentiment in line with the emergence of external
+
+ and domestic uncertainties. He went on to argue that, as it seemed
+
+ difficult to hold to this April’s forecast growth path due mainly to the
+
+ instability of employment and domestic consumption in a situation where
+
+ there was a substantial degree of slack production capacity in the
+
+ economy, the Base Rate should be cut by 0.25 of a percentage point this
+
+ month so as to respond preemptively to these downside risks to the
+
+ growth path. The member added that in the course of policy
+
+ implementation it was necessary to closely monitor and manage issues of
+
+ concern including the household debt problem and other risks to financial
+
+ stability, and the delayed structural adjustment. At the same time a
+
+ cautious watch must be kept on the future impact of changes in global
+
+ financial and economic conditions, the effects of the waning of economic
+
+ sentiment on domestic demand, and those of export sluggishness on
+
+ production and investment. He further advocated the creation of monetary
+
+ policy conditions favorable to restructuring in order to enhance
+
+ private-sector productivity and boost the potential growth rate, while at the
+
+ same time making appropriate and flexible use of the policy toolkit to
+
+ ward off external financial stress, maintain economic momentum and
+
+ promote financial stability.
+
+ On the other hand, one other member put forward his view that it
+
+ would be advisable to hold the Base Rate at its current level of 1.75%
+
+ for the intermeeting period. Noting that there was not much difference
+
+ between the economic trend at this point of time and the conditions and
+
+ outlooks this April and May, he argued that the sharp increase in the rate
+
+ of growth in real national income in the first quarter suggested that the
+
+ low inflation caused by the decline in international oil prices could be
+
+ seen as good disinflation bringing about income growth and that the
+
+ increased consumption capacity following this growth in real national
+
+6
+
+
+-----
+
+###### income could act as a positive factor contributing to future improvement
+
+ in domestic economic activity. The member added that the MERS clusters
+
+ were basically no more than an incidental and temporary shock that might
+
+ affect the growth rate but neither the trend of economic activity nor the
+
+ growth path; it would be a hasty move to respond by way of interest
+
+ rates. He went on to state that, in the current low interest rate
+
+ environment, a further Base Rate cut would have far less impact on
+
+ growth than hitherto and its drawbacks would be therefore greater than its
+
+ benefits given its side effects such as increasing household debt and a
+
+ consequent buildup of financial instability.
+
+ Ⅳ. Results of Deliberation on Monetary Policy Directions
+
+ Taking into consideration the results of the discussions earlier, members
+
+ compiled a statement that specifically reflected the majority opinion.
+
+ Mr. Woosik Moon, however, dissented, expressing his clear opposition
+
+ to lowering the Base Rate by 0.25 of a percentage point, and arguing for
+
+ keeping it at the existing level.
+
+7
+
+
+-----
+
+< Ref >
+
+###### Monetary Policy Decision
+
+ - The Monetary Policy Committee of the Bank of Korea decided
+
+###### today to lower the Base Rate by 25 basis points, from 1.75% to
+
+ 1.50%.
+
+ - Based on currently available information the Committee considers
+
+###### that the US appears to be emerging from its temporary economic
+
+ slowdown and the improvements in the euro area have continued as
+
+ well. In emerging market countries including China the trends of
+
+ slowing growth have continued. The Committee forecasts that the
+
+ global economy will sustain its modest recovery going forward,
+
+ centering around advanced economies such as the US, but judges
+
+ that the possibility exists of its being affected by changes in the
+
+ monetary policies of major countries, by the weakening of economic
+
+ growth in emerging market countries, and by uncertainties over the
+
+ restructuring of Greek debt.
+
+ - Looking at the Korean economy, the Committee notes that the trend
+
+###### of decline in exports has accelerated and that consumption, which
+
+ had been showing a recovery, appears to have contracted since the
+
+ outbreak of Middle East Respiratory Syndrome (MERS). On the
+
+ employment front, the unemployment rate has risen due mainly to an
+
+ expansion in job search activities, but the employment-to-population
+
+ ratio has also increased as the number of persons employed has
+
+ grown. The Committee judges that the downside risks to the
+
+ domestic growth path forecast in April have expanded, owing
+
+ mostly to the sluggishness of exports and to the impact of the
+
+ MERS outbreak.
+
+8
+
+
+-----
+
+- Consumer price inflation rose slightly from 0.4% the month before
+
+###### to 0.5% in May, due mainly to increases in prices of agricultural,
+
+ livestock and fisheries products, and core inflation excluding
+
+ agricultural and petroleum product prices also rose slightly to 2.1%,
+
+ from 2.0% in April. Looking ahead the Committee forecasts that
+
+ inflation will continue at a low level, due mainly to the effects of
+
+ the low oil prices. In the housing market, the upward trends of
+
+ sales and leasehold deposit prices have continued in both Seoul and
+
+ its surrounding areas and the rest of the country.
+
+- In the domestic financial markets, influenced mostly by strengthened
+
+###### expectations of a policy rate hike by the US Federal Reserve, stock
+
+ prices have fallen and the Korean won has depreciated against the
+
+ US dollar. The won has fluctuated within a certain range against
+
+ the Japanese yen. Long-term market interest rates have fallen back,
+
+ after having risen in response mainly to interest rate movements in
+
+ major countries and to domestic economic indicators. Bank
+
+ household lending has sustained a trend of increase at a level
+
+ substantially exceeding that of recent years, led by mortgage loans.
+
+- Looking ahead, while working to sustain the recovery of economic
+
+###### growth, the Committee will conduct monetary policy so as to
+
+ maintain price stability over a medium-term horizon and pay greater
+
+ attention to financial stability. In this process it will closely monitor
+
+ the trend of increase in household debt and external risk factors
+
+ such as shifts in major countries’ monetary policies, as well as the
+
+ trends of capital flows.
+
+9
+
+
+-----
+

@@ -1,0 +1,606 @@
+### Publication date: 25 January 2012
+
+## MINUTES OF THE 
+# MONETARY POLICY COMMITTEE MEETING
+## 11 AND 12 JANUARY 2012
+
+##### These are the minutes of the Monetary Policy Committee meeting held on 
+
+ 11 and 12 January 2012. 
+
+ They are also available on the Internet 
+
+http://www.bankofengland.co.uk/publications/minutes/mpc/pdf/2012/mpc1201.pdf
+
+##### The Bank of England Act 1998 gives the Bank of England operational responsibility for setting
+
+ interest rates to meet the Government’s inflation target. Operational decisions are taken by the
+
+ Bank’s Monetary Policy Committee. The Committee meets on a regular monthly basis and
+
+ minutes of its meetings are released on the Wednesday of the second week after the meeting
+
+ takes place. Accordingly, the minutes of the Committee meeting to be held on 8 and 
+
+ 9 February will be published on 22 February 2012.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 11 AND 12 JANUARY 2012
+
+1 Before turning to its immediate policy decision, the Committee discussed financial market
+
+developments; the international economy; money, credit, demand and output; and supply, costs and
+
+prices.
+
+**Financial markets**
+
+2 While the most recent data from the United States had been a supportive influence on financial
+
+markets over the month, the main events affecting asset prices had continued to be those in the euro
+
+area. The three-year long-term repo operation by the ECB on 21 December 2011 had improved
+
+market sentiment and a number of banks had been able to issue public unsecured term debt. Major
+
+European banks’ issuance in 2012 had already exceeded that in the whole of the second half of 2011.
+
+So far it had been the large, more highly rated, banks that had issued, albeit at spreads that had
+
+remained elevated. Issuance of secured term debt by banks had also been relatively robust.
+
+3 Banks were reported to have used the long-term repo operation to provide funding for existing
+
+bank balance sheets, potentially reducing pressures to de-lever, rather than to expand balance sheets.
+
+It was unclear to what extent banks might increase their purchases of sovereign debt of the vulnerable
+
+euro-area countries in future, although two-year Spanish and Italian yields had fallen on the month.
+
+A second ECB operation would take place at the end of February.
+
+4 Ten-year German bond yields, which had moved erratically during the latter part of 2011, had
+
+fallen back below 2%. But government bond yields in many other euro-area countries had remained
+
+high. Over the month, ten-year spreads to bunds had widened a little for Spain and substantially for
+
+Italy. In the United Kingdom, ten-year gilt yields had fallen to new lows of around 2% in late
+
+December. Real long-term yields on gilts had been below 0% over recent months and they had
+
+accounted for the larger part of the movements in nominal yields during 2011.
+
+5 Short-term interest rates were little changed in the United Kingdom, but had fallen in the euro
+
+area, in part reflecting the ECB’s policy rate reduction in December. The euro effective exchange rate
+
+index (ERI) had weakened by around 3½% in the past month. Over the same period, the sterling ERI
+
+
+-----
+
+2
+
+had appreciated by just over 1%. The skews in options prices continued to imply a balance of risks
+
+towards the euro depreciating relative to the US dollar and sterling.
+
+6 Equity markets internationally had fallen before the ECB operation but had rallied subsequently.
+
+Over the month as a whole, the FTSE All-Share index was up slightly. It was notable that equity
+
+prices had recovered significantly since their very sharp falls in the summer, despite the subsequent
+
+downgrades to economic forecasts.
+
+7 Non-financial and financial corporate bond spreads had changed little on the month. 2011 had
+
+ended with relatively high gross UK non-financial corporate bond issuance. But new issuance premia
+
+had risen during the autumn and liquidity in the secondary market appeared to have been poor.
+
+Although bid-offer spreads had widened in recent months, they were not nearly as wide as in early
+
+2009.
+
+**The international economy**
+
+8 Third-quarter euro-area GDP growth had been revised down slightly to 0.1%. The signs were
+
+that the euro area had contracted slightly in the fourth quarter. There remained a difference between
+
+the performance of the core and periphery countries, but there was growing evidence of a slowdown in
+
+some of the former. Initial estimates of German GDP in 2011 as a whole were, for instance, consistent
+
+with a small fall in output in the fourth quarter. The euro-area Purchasing Managers’ Indices (PMIs)
+
+had edged up in December, although they too continued to indicate contraction. The data suggested
+
+manufacturing had been noticeably weaker than services. Consumer and business confidence had
+
+continued to decline, although less rapidly than in Q3. The December European Council meeting had
+
+made some progress in agreeing a strengthened fiscal framework, but longer-term challenges related to
+
+economic rebalancing remained, and near-term financial risks related to the high volume of maturing
+
+sovereign debt and the negotiations over Greek debt restructuring continued to cloud the outlook.
+
+9 In the United States, GDP growth looked to have rebounded in the second half of 2011 and the
+
+PMIs pointed to expansion. Fourth-quarter growth was likely to be around 0.8%. Only a part of this
+
+rebound could be attributed to a recovery from the supply chain disruption caused by the earthquake
+
+and tsunami in Japan. Employment had also surprised to the upside and the unemployment rate had
+
+fallen to its lowest level in almost three years. The prospects for continued expansion at this pace were
+
+unclear. Consumption growth, which appeared to have been the key support to output growth during
+
+h d h lf f 2011 h d d d i h b i i l i h f ll i h
+
+
+-----
+
+3
+
+saving ratio. This might reflect growing household confidence about labour market prospects or that
+
+the headwinds from household debt and a stagnant housing market were turning out less than had been
+
+feared. But this was not corroborated by consumer confidence indicators, which remained depressed,
+
+so there was a risk that the recent rate of consumption growth might not be sustained. It was also
+
+possible that the income and consumption data might be revised.
+
+10 There had been healthy growth in some of the advanced economies outside the euro area and the
+
+United States, with third-quarter growth in the non euro-area countries of Western Europe, Canada,
+
+Australia and New Zealand generally around or above 0.8%. In the emerging world, the growth of the
+
+larger economies had continued to slow, but there remained few signs of a sharp fall. Activity
+
+indicators in China had been broadly consistent with the slowing in the PMIs seen through last year,
+
+although the manufacturing measures had risen in December. One risk in China was that the past high
+
+rates of investment and credit expansion, including through the shadow banking system, might result
+
+in a sharp increase in non-performing loans as economic growth slowed. But there were no signs yet
+
+of this risk crystallising.
+
+11 Commodity prices had risen slightly on the month. So far, the impact on oil prices of
+
+developments in Iran and the associated threat of sanctions had been relatively limited. But they
+
+would continue to pose a potentially serious risk of a sharp price increase.
+
+**Money, credit, demand and output**
+
+12 According to the most recent ONS estimate, GDP had grown by 0.6% in the third quarter,
+
+revised up from the previous estimate of 0.5%. The mix of expenditure in Q3 had also been revised.
+
+Investment now contributed positively to growth while government consumption had been revised
+
+down. Stockbuilding remained a key driver of growth in Q3. Household consumption data had been
+
+revised up implying that the pickup in the saving ratio during 2011 had been smaller than previously
+
+thought.
+
+13 The latest quarterly national accounts had also contained revisions to the historical data. GDP
+
+growth had been revised back to the start of 2010 with the result that the estimate of the level of real
+
+GDP in 2011 Q3 was 0.4% higher than previously reported. The most significant revisions had been
+
+in 2010 and suggested a marginally stronger recovery then than had been recorded before. But given
+
+that these revisions related to the more distant past, their implications for the inflation outlook were
+
+b bl l d
+
+
+-----
+
+4
+
+14 The official output data for the fourth quarter were only partial but had been weak. Notably, the
+
+index of services had fallen by 0.7% in October. Industrial production had also fallen by 0.6% in
+
+November and there had been downward revisions to the October data. Energy output had been a
+
+significant drag on industrial production in November, reflecting in part the unseasonably mild
+
+weather. Manufacturing output had also fallen slightly in November. Taken at face value this implied
+
+a risk that a significant contraction in activity had occurred in the fourth quarter. But the index of
+
+services, in particular, was volatile and prone to revision.
+
+15 The recent surveys were more positive than the limited official data. The CIPS/Markit output
+
+indices for both services and manufacturing had picked up slightly in December with the services
+
+index at its highest level since July 2011. If the output indices were to remain at their December levels
+
+over the coming months, this would point to a modest pickup in growth in the first quarter of 2012.
+
+But the expectations indices were less positive. The BCC survey for Q4 was also more downbeat: the
+
+expectations balances for services and manufacturing had both fallen on the quarter. Taking
+
+everything together, there was little to alter the view that output was likely to be broadly flat over
+
+2011 Q4 and 2012 Q1.
+
+16 Turning to the composition of expenditure, the latest indicators of consumer spending growth
+
+were mixed. Retail sales volumes and new car registrations implied a strong contribution to
+
+consumption growth in Q4. But other indicators such as consumer confidence were still depressed
+
+with the GfK balance having fallen in December to its lowest level since February 2009.
+
+17 Although often subject to erratic movements, goods exports had grown sharply in October and
+
+had not fallen back as much as expected in November. Exports of goods to the EU appeared to have
+
+held up well in the circumstances while, taking the most recent two months’ data together, exports to
+
+the rest of the world had grown strongly. Although the CIPS/Markit measure of manufacturing export
+
+orders had picked up in December, survey indicators of exports more generally had slowed, for
+
+example the BCC composite orders balance had fallen in Q4. In any case, there would be a partial
+
+offset in the contribution of net trade to GDP because the growth in goods import volumes had nearly
+
+matched those of exports in recent months.
+
+18 The way firms responded to the sustained period of weak final domestic demand would affect
+
+how quickly the economy recovered. The Bank’s Agents had reported a further weakening in
+
+investment intentions. The Agents noted that firms still expected to increase capital spending over the
+
+i b h i h d b h ld d h i h d i B i
+
+
+-----
+
+5
+
+surveys had suggested that the increase in stockbuilding in the third quarter was probably involuntary,
+
+so there was a risk it would unwind in the future.
+
+19 Broad money growth had been weak in November and M4 lending excluding OFCs had fallen.
+
+It was hard to draw clear conclusions from the latest Credit Conditions Survey. Banks had reported
+
+that credit availability to both companies and households had remained unchanged or improved, but
+
+that the lending spreads to companies of all sizes had increased. As yet, the majority of large UK
+
+banks appeared not to have passed through higher funding costs fully into their lending rates. As a
+
+result, there remained a risk of a tightening in credit conditions in the near term unless the incipient
+
+signs of improved conditions in bank funding markets led funding costs to fall significantly. Lenders
+
+also reported that credit demand had remained weak, although the Bank’s Agents had found that some
+
+smaller companies continued to be wary of approaching banks for loans for fear of triggering changes
+
+in prices or conditions on existing facilities.
+
+**Supply, costs and prices**
+
+20 Twelve-month CPI inflation had fallen to 4.8% in November. In line with the usual pre-release
+
+arrangements, an advance estimate for twelve-month CPI inflation of 4.2% for December had been
+
+provided to the Governor ahead of publication. Also in line with the pre-release arrangements, the
+
+Governor informed the Committee that producer input prices had decreased by 0.6% in December,
+
+reflecting lower prices of crude oil, imported chemicals and imported parts and equipment. Producer
+
+output prices had fallen by 0.2% on the month.
+
+21 The recent path of CPI inflation, peaking in September and falling subsequently, had largely
+
+matched the Committee’s central expectation. The Bank’s Agents had reported more aggressive
+
+discounting by retailers compared with the previous year. But this might just reflect differences in the
+
+timing of sales around Christmas. There had been a couple of recently announced reductions in utility
+
+prices. If these were followed by other suppliers it would pose a modest downside risk to the
+
+short-term inflation outlook. Current developments with regards to Iran, however, could prompt a
+
+large increase in energy prices.
+
+22 The broad outlook remained the same as that at the time of the November Inflation Report, in
+
+which the central case was for inflation to fall by around 2 percentage points between November 2011
+
+and March 2012 and then to fall back to around the target by the end of 2012. Of the initial expected
+
+f ll j 1 i d f b h i i VAT l J d i f h
+
+
+-----
+
+6
+
+calculation and a further ¾ percentage point or so reflected falling contributions from petrol and utility
+
+prices. Part of this fall was evident in the latest data for December.
+
+23 The speed and extent of the fall in inflation in the year from 2012 Q1 onwards was less certain.
+
+About half the anticipated reduction was associated with the impact of energy and import prices.
+
+The remainder was accounted for by an anticipated reduction in domestically generated inflation.
+
+The degree to which this materialised depended in part on whether firms would continue to rebuild
+
+their margins by raising prices and the degree to which the growth of unit labour costs might slow.
+
+It was difficult to judge what level of margins was sustainable in the long term, although depressed
+
+consumer confidence and tough trading conditions might make it difficult for retailers to raise prices.
+
+Annualised seasonally adjusted three-month inflation rates were still above the inflation target, but
+
+these could be expected to fall given the further disinflationary pressure from the degree of spare
+
+capacity underlying the projections in the Inflation Report.
+
+24 A key factor determining the degree of inflationary pressure in the medium term was the extent
+
+to which slack in the labour market would restrain wage increases. The latest data on employment
+
+suggested that the labour market was weakening. The LFS data implied a fall in employment of
+
+63,000 in the three months to October, while the unemployment rate stood at 8.3%, up 0.4 percentage
+
+points on the three months to July. With self-employment having increased by slightly more than the
+
+decline in public sector employment, the LFS implied that the number of private sector employees had
+
+fallen markedly in the third quarter. Other official data painted a different picture of overall labour
+
+market conditions. For example, while the LFS data implied total employment had fallen by almost
+
+200,000 in the third quarter, the Workforce Jobs measure showed an increase of over 150,000 jobs
+
+over the same period. The claimant count data provided a further cross-check on developments.
+
+Earlier in the year, the claimant count had been boosted by people being transferred on to Jobseeker’s
+
+Allowance from other benefits, but the rise in the claimant count had slowed sharply in recent months.
+
+That said, looking ahead, the employment surveys now indicated falls in total employment in the
+
+coming months. The surveys also suggested increases in staff availability. Despite weakening, these
+
+surveys were nonetheless more resilient than in 2009.
+
+25 There was little evidence to suggest that the period of elevated inflation had begun to generate
+
+rapid wage growth. According to the average weekly earnings measure, total pay had increased by 2%
+
+in the three months to October compared with a year earlier. Settlements had remained low, although
+
+the twelve-month mean private sector settlement, at 2.3% in November, had risen somewhat since the
+
+b i i f h A b i l i f l d b J d
+
+
+-----
+
+7
+
+April. The Committee’s central expectation was that the expected fall in inflation and slowdown in
+
+demand would continue to restrain pay growth over the coming year. With regard to the amount of
+
+slack within firms, the Bank’s Agents reported that there were signs of capacity utilisation falling back
+
+in recent months in both manufacturing and services. In general, exporters continued to have the
+
+highest levels of capacity utilisation.
+
+26 There had been little movement in inflation expectations over the month. The
+
+YouGov/Citigroup survey measures of households’ inflation expectations one year ahead and five to
+
+ten years ahead were broadly unchanged in December. Measures of inflation expectations derived
+
+from financial markets were also little changed on the month and remained close to longer-term
+
+averages.
+
+**The immediate policy decision**
+
+27 The Committee set monetary policy in order to meet the inflation target in the medium term.
+
+The advance estimate of inflation had suggested that twelve-month CPI inflation had fallen in
+
+December broadly as expected. The Committee’s central view remained that inflation would continue
+
+to fall sharply in the coming months as the impact of the increase in the standard rate of VAT in
+
+January 2011, and of higher energy and import prices, dissipated. There was greater uncertainty about
+
+the speed and extent of the fall in inflation thereafter.
+
+28 The Committee had initiated a programme of asset purchases in October, which would take until
+
+early February to complete. Although the Committee was monitoring the impact of the continuing
+
+purchases on financial markets and the wider economy, there was no compelling reason to think that
+
+the impact on nominal demand would be materially different from the first round of asset purchases.
+
+29 The Committee discussed how the risks to the medium-term outlook had evolved since its
+
+previous meeting. The fact that CPI inflation had been falling in line with the Committee’s
+
+expectations was encouraging, and reduced the risk that inflation expectations would rise above a level
+
+consistent with meeting the target in the medium term. This was reflected in broadly stable inflation
+
+expectations from surveys and financial market measures. There was a risk, however, that
+
+expectations of near-term inflation might take time to fall back.
+
+30 Elevated inflation could also be more persistent than the Committee had expected because of
+
+f h d l i h k d ib i f fi ’ i i
+
+
+-----
+
+8
+
+labour costs. There was mixed news on energy prices on the month. Two utility suppliers had
+
+announced price reductions and others were likely to follow. But heightened tensions in the
+
+Middle East raised the risk of a sharp rise in oil prices. With regards to domestically generated
+
+inflation, so far earnings growth had remained modest amid signs of a weakening labour market. But
+
+since the behaviour of productivity remained puzzling it was hard to know how productivity growth,
+
+and hence unit labour costs, would evolve in future. The accumulated weakness in productivity
+
+growth in the past had contributed to the relatively low level of company margins: if firms sought to
+
+restore margins by raising prices it would, at least temporarily, add to inflation. On the other hand,
+
+with near-term demand and production expected to be flat, firms might seek to restore margins by
+
+cutting costs instead, including through reductions in employment.
+
+31 There remained considerable risks to the downside from the global economy. If demand growth
+
+in the United Kingdom were insufficient to absorb the pool of spare capacity in the economy it could
+
+lead to inflation falling materially below the target in the medium term. On balance, the Committee
+
+agreed that there had been some positive developments over the month that had moderated some of the
+
+most serious near-term downside risks. The euro area, including the core economies, appeared to be
+
+facing a mild contraction in activity and continued to face substantial challenges that were likely to act
+
+as a drag on growth for the foreseeable future. But the immediate risk of a more severe dislocation in
+
+the euro area arising from banking sector difficulties appeared to have been mitigated by the ECB’s
+
+actions. These had been accompanied by tentative signs of conditions better than expected in bank
+
+funding markets since the start of the year. There had also been a sequence of slightly stronger data
+
+from the rest of the world, including the United States. These factors were helping to support financial
+
+markets and wider global confidence. In the United Kingdom, there was little to alter the view that
+
+output was likely to be broadly flat in 2011 Q4 and 2012 Q1.
+
+32 There remained substantial risks to UK activity and inflation in both directions. While the
+
+near-term risks of either a sharp contraction of output or of persistently high inflation appeared to have
+
+moderated this month, there was little change to the balance of risks in the medium term. To the
+
+extent that inflation continued to fall sharply over the next few months, the upside risk to inflation
+
+expectations would be lessened and the Committee could be slightly more confident in its judgements
+
+about the recent drivers of inflation. But it would be some time before the uncertainties around the
+
+other key risks were resolved. These included: whether euro-area governments would be able to
+
+continue to refinance their debts and tackle their economic imbalances successfully; how strongly UK
+
+output growth would recover in the second half of 2012; and how far and fast CPI inflation would
+
+i f ll f h fi
+
+
+-----
+
+9
+
+33 Against this background, the Committee agreed that a decision to change policy at this meeting
+
+was not warranted. The balance of risks to inflation in the medium term had changed little since
+
+November. For some members, the risks of undershooting the target meant that a further expansion of
+
+asset purchases was likely to be required. Some of those members also noted a downside risk to
+
+inflation arising from the possibility that the reduction in the economy’s supply potential following the
+
+recession had been less, and hence spare capacity greater, than assumed in the Inflation Report.
+
+But there was no compelling need to increase the scale of the programme of asset purchases before
+
+completing those already announced. For other members, the risks to inflation were more finely
+
+balanced and it was less clear that inflation would fall below the target in the medium term.
+
+Annualised three-month inflation rates were still above the target. Looking ahead, particular concerns
+
+included: the risk of price pressures from firms seeking to increase margins; and the fact that even if
+
+wage growth were to remain subdued, wages might add to inflationary pressures if productivity growth
+
+were also weak.
+
+34 The Governor invited the Committee to vote on the propositions that:
+
+Bank Rate should be maintained at 0.5%;
+
+The Bank of England should continue with the programme of asset purchases totalling
+
+£275 billion financed by the issuance of central bank reserves.
+
+Regarding Bank Rate, the Committee voted unanimously in favour of the proposition.
+
+Regarding the stock of asset purchases, the Committee voted unanimously in favour of the proposition.
+
+35 The following members of the Committee were present:
+
+Mervyn King, Governor
+Charles Bean, Deputy Governor responsible for monetary policy
+Paul Tucker, Deputy Governor responsible for financial stability
+Ben Broadbent
+Spencer Dale
+Paul Fisher
+David Miles
+Adam Posen
+Martin Weale
+
+D R d t th T t ti
+
+
+-----
+

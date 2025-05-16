@@ -1,0 +1,1104 @@
+### Publication date: 21 July 2004
+
+## MINUTES OF
+# MONETARY POLICY COMMITTEE MEETING
+
+## 7 and 8 July 2004
+
+##### These are the minutes of the Monetary Policy Committee meeting held on 7 and 8 July 2004.
+
+ They are also available on the Internet
+
+(http://www.bankofengland.co.uk/mpc/mpc0407.pdf).
+
+##### The Bank of England Act 1998 gives the Bank of England operational responsibility for setting interest rates to meet the Government’s inflation target. Operational decisions are taken by the Bank’s Monetary Policy Committee. The Committee meets on a regular monthly basis and minutes of its meetings are released on the Wednesday of the second week after the meeting takes place. Accordingly, the minutes of the Committee meeting held on 4 and 5 August will be published on 18 August 2004.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 7-8 JULY 2004
+
+1 Before turning to its immediate policy decision, the Committee discussed developments in
+
+financial markets; the international economy; money, credit, demand and output; the labour market;
+
+costs and prices; and some other considerations.
+
+**Financial markets**
+
+2 The most notable event in financial markets since the Committee’s June meeting had been the
+
+25 basis point increase in US official interest rates by the Federal Open Market Committee (FOMC).
+
+But this had been widely anticipated and thus had had little immediate impact on financial markets.
+
+Otherwise there had been little significant news on the month. Short-term interest rates had fallen in
+
+the major economies. In the United Kingdom, this appeared to have been mainly a response to
+
+weaker-than-expected US data, UK housing market data and the Committee’s June Minutes.
+
+3 Longer-term nominal forward rates had also fallen a little, and by somewhat more in the United
+
+States than in the United Kingdom and the euro area. Most of the rise in longer-term US and euro-area
+
+forward inflation expectations in the previous month had also unwound. Implied longer-term inflation
+
+expectations in the United Kingdom had been more stable throughout that period.
+
+4 Exchange rate movements between the major currencies had been small, with the US dollar
+
+depreciating a little against sterling and the euro. The sterling effective exchange rate index had fallen
+
+slightly since the Committee’s June meeting and had been broadly unchanged since February.
+
+5 Equity indices had fallen in the major economies in local currency terms, with the FTSE All
+Share 2.5% lower.
+
+**The international economy**
+
+6 News about the world economy over the past month had been limited and rather mixed. But it
+
+did not change the overall picture of a broadening upswing in activity, consistent with the May
+
+_Inflation Report projections._
+
+
+-----
+
+2
+
+7 In the euro area, the pickup in economic growth appeared to have gained momentum, with
+
+private sector final domestic demand in Italy stronger than expected. Euro-area retail sales had fallen
+
+in May, but this was a volatile series. Euro-area industrial production had increased in April, the third
+
+consecutive monthly rise. And though the purchasing managers’ indices for manufacturing and
+
+services had eased back slightly in June, the European Commission survey of business confidence had
+
+picked up a little, pointing to continued growth in the near future.
+
+8 Output growth in Germany continued to rest heavily on exports. A key issue was whether and
+
+when the pickup in euro-area domestic demand would spread there. German retail sales had fallen in
+
+May and consumer confidence remained low. That appeared to reflect concerns about employment
+
+prospects, in part associated with structural reforms.
+
+9 The flash estimate of euro-area HICP inflation had eased in June from 2.5% to 2.4%.
+
+Underlying inflationary pressures appeared subdued.
+
+10 The US economic recovery appeared to be continuing, although perhaps at a slightly less brisk
+
+pace. Estimated GDP growth in 2004 Q1 had been revised down slightly. Industrial production had
+
+risen strongly in May; but both the Institute for Supply Management’s headline indices had eased
+
+back in June, though they remained at high levels.
+
+11 US consumer confidence had risen markedly in June, probably reflecting the improved jobs
+
+market. The increase in non-farm payrolls in June had been lower than in previous months. But this
+
+was a volatile series and the overall picture was one of substantial employment gains this year.
+
+Industrial capacity utilisation was rising and though the core measure of consumer price inflation had
+
+fallen in May, inflationary pressures appeared to be increasing, with producer price inflation at its
+
+highest level since December 1990.
+
+12 The recovery in Japan had continued. Industrial production had risen in May and the June
+
+Tankan survey had suggested a further improvement in business confidence. Unemployment had
+
+fallen. Recovery had been helped by the strength of exports to China.
+
+13 The spot price of crude oil had been volatile during the month, with the price of Brent crude
+
+ending 2.7% higher in sterling terms. Prices had fallen earlier in June following an announcement of
+
+
+-----
+
+3
+
+increased OPEC production, but had risen later in the month following new uncertainties about Iraqi,
+
+Russian and Nigerian output. This underlined the potential sensitivity of prices to instability in oil
+producing regions, though futures prices had been steadier. Prices of other commodities had, on
+
+average, fallen in sterling terms since the Committee’s June meeting.
+
+**Money, credit, demand and output**
+
+14 In the United Kingdom, output and demand growth appeared to have continued at around, or a
+
+little above, trend so far in 2004. Revisions to the National Accounts, consistent with the 2004 Blue
+
+Book, had suggested a more balanced pattern of domestic demand growth, with weaker private sector
+
+consumption growth and stronger investment. There had been further tentative signs of a slowdown in
+
+the housing market.
+
+15 The underlying annual growth rate of notes and coins had probably eased in recent months,
+
+perhaps consistent with slower consumption growth, although three-month annualised growth rates
+
+had recently picked up again. Broad money growth had edged up, but remained consistent with steady
+
+growth in aggregate nominal demand. Growth of total lending to individuals had remained rapid.
+
+16 Following the Blue Book revisions to the National Accounts, the estimated level of GDP at basic
+
+prices had been revised up by 1.1%, with growth over the past year revised up from 2.5% to 3.0%.
+
+This change was more than accounted for by upward revisions to ONS estimates of real government
+
+output, including the new measures of real government health output. Estimates of nominal
+
+government spending had not changed significantly. What mattered for inflationary pressure in the
+
+economy, however, was not the estimated volume of public sector output but rather the quantity of
+
+resources that the public sector absorbed and how that affected the ability of the private sector to meet
+
+the demand for its goods and services. It was not obvious that these revisions represented any news
+
+about the real value of resources absorbed by government and therefore about prospective inflationary
+
+pressures.
+
+17 The ONS had estimated output growth at basic prices in 2004 Q1 to have been 0.6%, unchanged
+
+from the previous release. Manufacturing output was estimated to have contracted by 0.4%. Survey
+
+data had pointed to more buoyant manufacturing activity in the first quarter, and the ONS had reported
+
+a rise in manufacturing output of 0.5% in May, following the rise of 0.8% in April, suggesting that the
+
+
+-----
+
+4
+
+official and survey data were now moving back in line. Survey evidence suggested continued strength
+
+in the near future, but perhaps moderating slightly. The Chartered Institute of Purchasing and Supply
+
+(CIPS) surveys of business activity in manufacturing and services had both fallen in June but remained
+
+at healthy levels. And the Bank’s regional Agents had reported a gradual improvement in
+
+manufacturing activity and an increase in service sector output growth.
+
+18 Turning to the components of demand, the Blue Book had included material downward revisions
+
+to estimated real consumption growth since 2001. Consumption growth in 2004 Q1 had been revised
+
+downwards to 0.6% and investment growth upwards to 1.7%. Growth in the economy therefore
+
+appeared to have been more balanced. But the new profile of consumption growth was difficult to
+
+interpret. The revisions for earlier quarters reflected increases in the deflator rather than falls in the
+
+estimated nominal value of consumption, following the rebasing of the post-2001 data. And the
+
+weaker growth in consumption in 2003 Q4 and 2004 Q1 was mainly accounted for by falls in
+
+estimated nominal consumption of services, particularly the net balance of tourist expenditure, which
+
+was reported to have fallen sharply. This helped to explain the contrast with strong retail sales growth
+
+in 2004 Q1, but painted a rather different picture from the service sector output data and surveys of
+
+consumer services. Taking the evidence together, the Committee judged that consumption might have
+
+grown a little more quickly in 2004 Q1 than estimated by the ONS.
+
+19 Retail sales growth had remained strong in May. But there had also been signs that consumption
+
+growth in 2004 Q2 might have been slower than expected in the May Inflation Report projections.
+
+The reported volume of sales in the CBI distributive trades survey had fallen slightly in June, although
+
+the survey continued to point to strong sales growth. Private car registrations had been lower than a
+
+year earlier in 2004 Q2. Growth rates of unsecured lending had eased again in May, although the
+
+annual and three-month (annualised) growth rates remained above 11%. The GfK consumer
+
+confidence balance had fallen slightly in June, with a decline in the reported willingness to make a
+
+major purchase.
+
+20 In the housing market, the average of the Nationwide and Halifax house price indices had
+
+increased by 5.7% in the three months to June, down from 5.9% in the three months to May.
+
+Nevertheless, the level of house prices was a little above that envisaged in the May Inflation Report.
+
+The Royal Institution of Chartered Surveyors (RICS) survey of estate agents for June had suggested
+
+that the balance of respondents was no longer expecting prices to rise over the next three months.
+
+
+-----
+
+5
+
+There were also further signs that activity might be easing. The June RICS survey had shown a fall in
+
+the reported ratio of estate agents’ sales to unsold stocks for the third consecutive month. The Bank’s
+
+Agents had reported a slowdown in buy-to-let purchases in the south of England, although the housing
+
+market was said to remain strong in the north of England. Nonetheless, these indicators remained
+
+tentative. Activity had slowed on previous occasions in the recent past but picked up again strongly
+
+after a pause, most notably in 2003 H1.
+
+**The labour market, costs and prices**
+
+21 The labour market had continued to tighten gradually, consistent with the May Inflation Report
+
+projections.
+
+22 According to the Labour Force Survey (LFS), employment had risen by 30,000 in the three
+
+months to April, leaving the employment rate unchanged at 60%. The unemployment rate, at 4.8% on
+
+the LFS measure, remained at levels not seen since the mid-1970s. Though the REC survey and the
+
+Bank’s Agents had suggested a tightening labour market, some other surveys in the spring had not
+
+suggested increased recruitment difficulties; the Confederation of British Industry manufacturing
+
+surveys of skilled and unskilled labour shortages remained around their average levels since 1972,
+
+significantly below the peaks in the early 1970s and late 1980s. It was possible that immigration was
+
+acting as a safety valve to limit pressure. And the market might have become more efficient at
+
+matching unemployed workers to unfilled vacancies.
+
+23 Overall earnings growth had been 4.3% in the three months ending in April compared with the
+
+same period a year earlier. Private sector wage settlements had continued to increase on a year earlier,
+
+although this trend was less evident when settlements this year could be matched with the
+
+corresponding settlements last year. Furthermore, annual growth in regular pay per hour had remained
+
+stable. But to identify recent trends it was also informative to look at the three-month-on-previous
+three-month comparison. This showed wage settlements falling a little in both the private and public
+
+sectors. But, on this measure, the annualised rate of private sector regular pay growth had risen to
+
+4.7%. This recent difference between wage settlements and regular pay growth (pay drift) might have
+
+different explanations. Employers might be paying new people more in order to recruit in a tight
+
+labour market or promoting existing people into more highly paid jobs in order to retain them. If so,
+
+wage settlements might understate underlying inflationary pressures. But if pay were increasingly
+
+
+-----
+
+6
+
+linked to performance and productivity growth, the consequences for inflationary pressures might be
+
+more benign.
+
+24 CPI inflation had risen by 0.3 percentage points to 1.5% in May. In line with pre-release
+
+arrangements, an advance estimate of CPI inflation in June had been provided to the Governor 3½
+
+working days ahead of publication, and this suggested a further rise to 1.6%. This pickup in inflation
+
+reflected in part sharp falls in petrol prices a year ago. As this effect dropped out of the annual
+
+comparison, it was likely that CPI inflation would be a little lower over the next few months.
+
+25 The ONS measures of annual manufacturing output and input price inflation had risen in May.
+
+Surveys had been suggesting a pickup in inflationary pressures down the supply chain over the past
+
+few months. The output price balance from the CIPS services survey had risen again in June, to levels
+
+similar to those in 2000, and the expected output price balance from the CBI monthly trends enquiry
+
+had also been rising. In part, the surveys may have been reflecting the impact of higher oil prices.
+
+26 Over the past year, manufacturers’ costs, using a weighted measure of input prices and unit
+
+labour costs, had been increasing less rapidly than their output prices (excluding duties), reversing the
+
+pattern seen through 2000 and much of 2001. It seemed that manufacturers had been taking the
+
+opportunity of the upturn in economic activity to rebuild margins, suggesting that the previous falls
+
+might have been cyclical. A survey by the Bank’s Agents had found that the balance of manufacturers
+
+expected profit margins to increase slightly in the next six months with the main factor being improved
+
+demand for products. In the distribution sector, annual RPIY goods price inflation had been lower
+
+than the inflation in distributors’ weighted costs for most of the period since 1999, possibly reflecting a
+
+structural squeeze on wholesalers’ margins.
+
+**Other considerations**
+
+27 According to the most recent Reuters poll, of the 46 economists surveyed, 45 expected no
+
+change in the repo rate this month and one expected a 25 basis point increase. The mean probability
+
+attached to no change was 72%. Of the 45 economists who expected the repo rate to remain
+
+unchanged at this meeting, 44 expected it to be raised in August. The mean expectation of the repo
+
+rate at the end of 2004 was now 5.0%. This was consistent with anecdotal evidence from market
+
+participants and the pattern of very short-term interest rates.
+
+
+-----
+
+7
+
+**The immediate policy decision**
+
+28 There had been little significant news on the month. Financial markets had been quiet, with the
+
+25 basis point rise in US official rates by the FOMC fully anticipated. The world economic upswing
+
+remained on track. Growth in the euro area continued to gather momentum, although the German
+
+economy remained weak. US growth continued, although perhaps at a slightly less brisk pace. The
+
+recovery in Japan seemed well established and the rest of Asia was growing strongly.
+
+29 In the United Kingdom, output and demand growth appeared to have continued at around or a
+
+little above trend in the first half of the year. Strong manufacturing output growth in April and May
+
+suggested that the ONS estimates of GDP growth for 2004 Q2 might be stronger than for 2004 Q1,
+
+which had been weaker than expected given the survey evidence. Following the Blue Book revisions
+
+to the National Accounts, the estimated level of GDP had been revised upwards. But the increase was
+
+more than accounted for by higher estimates of real government output and did not materially alter the
+
+Committee’s view of inflationary pressures in the economy. The weaker ONS estimate of real
+
+consumption growth in 2004 Q1 was difficult to reconcile with other indicators and the Committee
+
+judged that consumption might have grown a little more quickly in the first quarter than currently
+
+estimated. However, there were also signs of more moderate consumption growth in 2004 Q2. There
+
+had been further tentative signs of a slowdown in the housing market, although house prices were
+
+nevertheless above the level envisaged in the May Inflation Report projections. Labour market
+
+conditions continued to tighten gradually. The near-term outlook for CPI inflation was that it would
+
+remain below the target.
+
+30 Overall, the broad economic outlook had not changed very much since the May Inflation Report.
+
+The immediate prospect for domestic demand was perhaps a little weaker, with some signs of more
+
+moderate consumption growth. But growth was still around or a little above trend and there appeared
+
+to be little, if any, spare capacity.
+
+31 Against this background, the Committee considered possible arguments for a rise of 25 basis
+
+points in the repo rate this month. First, the May Inflation Report central projection had been for
+
+inflation at the forecast horizon to be a little above target if official rates rose in line with the path of
+
+market interest rates obtaining at that time. It was likely that the repo rate would need to increase
+
+
+-----
+
+8
+
+further and, with little remaining spare capacity, there was no compelling reason for delay. Second,
+
+the case for moving cautiously was less relevant now that the interest rate cycle had clearly turned,
+
+despite some continuing uncertainty about the response of highly indebted households to higher rates.
+
+Third, the labour market continued to tighten gradually and there was some evidence of pressures
+
+building down the supply chain. Past episodes suggested that regular pay and settlements could pick
+
+up rapidly if inflationary pressures were allowed to build. But inflation expectations presently seemed
+
+well anchored.
+
+32 The Committee, however, thought that the arguments for keeping rates unchanged were more
+
+persuasive. First, the May Inflation Report central projection, based on the market yield curve, was for
+
+inflation to be below target for most of the forecast period, only rising slightly above target at the end.
+
+Since the recent increases in the repo rate reflected a movement at least as fast as that implied by the
+
+May market curve, there was no argument for a third successive rise. Indeed, there was a risk that an
+
+unexpected rate increase, in the absence of significant news on the month, might prompt an
+
+unwarranted re-evaluation of the Committee’s strategy by market participants. Second, the August
+
+_Inflation Report would provide an opportunity to evaluate the news since May more fully in the_
+
+context of producing a new forecast and to consider further some key economic issues, such as the
+
+recent and prospective pattern of consumption and the pressure of government demand on resources.
+
+33 The Governor invited members to vote on the proposition that the repo rate should be
+
+maintained at 4.50%. The Committee voted unanimously in favour of the proposition.
+
+34 The following members of the Committee were present:
+
+Mervyn King, Governor
+Rachel Lomax, Deputy Governor responsible for monetary policy
+Andrew Large, Deputy Governor responsible for financial stability
+Kate Barker
+Charles Bean
+Marian Bell
+Richard Lambert
+Stephen Nickell
+Paul Tucker
+
+Jon Cunliffe was present as the Treasury representative.
+
+
+-----
+
+#### ANNEX: SUMMARY OF DATA PRESENTED BY BANK STAFF
+
+A1 This Annex summarises the analysis presented by Bank staff to the Monetary Policy Committee
+
+on 2 July 2004, in advance of its meeting on 7-8 July. At the start of the Committee meeting itself,
+
+members were made aware of the information that had subsequently become available, and that
+
+information is included in this Annex.
+
+**I** **Financial markets**
+
+A2 Short-term interest rates in the United Kingdom, the United States and the euro area had fallen
+
+since the Committee’s previous meeting. In the United States, short-term interest rates had initially
+
+continued their recent upward trend, but rates had begun falling after lower-than-expected US CPI data
+
+on 15 June, with the sharpest fall occurring after the release of the US non-farm payrolls data on
+
+2 July. In the United Kingdom, the largest falls in short-term interest rates had followed the release of
+
+weaker-than-expected mortgage lending data on 18 June and the MPC minutes on 23 June. These
+
+declines had resulted in a flatter short sterling curve on the month, but the Reuters survey had
+
+suggested that economists were still expecting policy rates to reach 5% by the end of the year.
+
+A3 Medium to long-term maturity nominal forward rates had fallen internationally following US
+
+economic data releases. The biggest fall at the ten-year maturity had occurred in the United States.
+
+Ten-year break-even inflation spot rates, which had been rising before the previous MPC meeting, had
+
+fallen in the United Kingdom, the United States and the euro area. The real UK forward curve had
+
+fallen at all maturities, but by most at the two to five-year sector of the curve, accounting for a large
+
+part of the nominal decline. The UK CPI inflation forward curve, constructed by the Bank from the
+
+RPI inflation forward curve, had remained broadly unchanged at short maturities, but had fallen by up
+
+to 15 basis points at the ten-year horizon. UK survey-based CPI inflation expectations had remained
+
+unchanged since March. Consensus surveys had suggested that annual CPI inflation would average
+
+1.5% and 1.8% in 2004 and 2005 respectively. The HM Treasury survey had suggested an expected
+
+average annual rate of inflation of 1.6% in 2004 Q4.
+
+A4 The sterling effective exchange rate index (ERI) had fallen by 0.3% since the Committee’s
+
+previous meeting, to 105.8. Market contacts had commented that lack of willingness to take risk had
+
+dominated the market ahead of the Federal Open Market Committee meeting on 30 June. Trading
+
+volumes had been low over the period, with the major currencies trading within narrow ranges.
+
+
+-----
+
+Sterling had depreciated by 0.8% against the euro, but had appreciated by 1.4% against the dollar and
+
+by 0.7% against the yen. Consensus surveys had indicated continued expectations of sterling
+
+depreciation. Sterling ERI uncertainty, as measured by twelve-month implied volatility, had remained
+
+at a low level. Over the month, the dollar ERI had fallen by 1.7%. Market contacts had attributed the
+
+depreciation largely to revised expectations of the pace of US monetary policy tightening. The dollar
+
+had fallen by 2.2% against the euro, and by 0.8% against the yen. Uncertainty about the value of the
+
+dollar against both the euro and sterling had fallen. According to the forward volatility term structures
+
+implied by option prices, short-term exchange rate volatility had not been expected to pick up
+
+significantly.
+
+A5 In local currency terms, the FTSE All-Share index had fallen by 2.5%, the S&P 500 had fallen
+
+by 1.1%, the DJ Euro Stoxx had fallen by 0.8% and the Topix had fallen by 1.1%. The fall in the
+
+FTSE All-Share had included falls in the non-cyclical services, financials and consumer goods sector
+
+sub-indices. Investment-grade corporate bond spreads had been broadly unchanged.
+
+**II** **The international environment**
+
+A6 According to the final estimate, US GDP had risen by 1.0% in 2004 Q1, revised down from the
+
+preliminary estimate of 1.1%. Within this total, the estimates for the growth of consumption and
+
+government spending had been unchanged on the quarter, at 0.9% and 0.7% respectively. The growth
+
+of private investment had been revised down to 1.2%, from 1.3% in the preliminary release. The net
+
+trade contribution to GDP growth in 2004 Q1 had been revised down to –0.2 percentage points,
+
+compared with –0.1 percentage points in the preliminary estimate. The US current account deficit had
+
+risen to $145 billion in 2004 Q1, compared with $127 billion in the previous quarter. As a share of
+
+GDP, the US current account deficit had risen to 5.1% in 2004 Q1, compared with 4.5% in the
+
+previous quarter.
+
+A7 US non-farm payrolls had risen by 112,000 in June, following a downwardly revised increase of
+
+235,000 in May. Real private consumption in the United States had increased by 0.4% in May
+
+compared with the previous month, while estimated growth in April had been revised down to zero,
+
+from 0.2% in the previous release. Real personal disposable income had been unchanged in May,
+
+compared with the previous month. The saving rate had fallen to 2.2% in May, compared with 2.6%
+
+in April. The Conference Board measure of consumer confidence had risen to 101.9 in June, from
+
+93.1 in May, while the University of Michigan measure had risen to 95.6, from 90.2.
+
+
+-----
+
+A8 Among the other monthly indicators, US industrial production had risen by 1.1% in May
+
+compared with the previous month, following a rise of 0.8% in April. The Institute for Supply
+
+Management (ISM) manufacturing index had fallen to 61.1 in June, from 62.8 in May, and the ISM
+
+non-manufacturing index had fallen to 59.9, from 65.2.
+
+A9 US producer prices for finished goods had increased by 5.0% in the year to May, compared with
+
+a 3.7% rise in the year to April. The US headline consumer price index (CPI) had risen by 3.1% in the
+
+year to May, up from an annual rate of 2.3% in April. Twelve-month core CPI inflation, which
+
+excludes food and energy prices, had been 1.7% in May, from 1.8% in April.
+
+A10 According to the final estimate, French GDP had risen by 0.8% on the quarter in 2004 Q1,
+
+unchanged from the second release and following growth of 0.6% in 2003 Q4. Since the previous
+
+release, the estimated contribution of final domestic demand to Q1 GDP growth had been revised
+
+down slightly, but this had been offset by an upward revision to the contribution to growth from
+
+stockbuilding. Italian GDP had increased by 0.4% in 2004 Q1, following zero growth in 2003 Q4.
+
+The contribution from final domestic demand to Italian GDP growth in 2004 Q1 had been 1 percentage
+
+point. Net trade and stockbuilding had subtracted 0.2 percentage points and 0.4 percentage points
+
+from growth respectively.
+
+A11 Euro-area retail sales had fallen by 1.3% in May compared with the previous month, following a
+
+rise of 1% in April. The European Commission's consumer confidence indicator for the euro area had
+
+risen to –14 in June, from –16 in May. The euro-area unemployment rate had been 9.0% in May,
+
+unchanged from April.
+
+A12 Industrial production in the euro area had increased by 0.2% in April on the month, following a
+
+rise of 0.3% in March. The European Commission's industrial confidence indicator for the euro area
+
+had risen to –4 in June, from –5 in May. The euro-area purchasing managers’ index (PMI) for
+
+manufacturing had fallen to 54.4 in June, from 54.7 in May, and the index for services had fallen to
+
+55.3, from 55.8. The German IFO index had fallen to 94.6 in June, from 96.0 in May.
+
+A13 The Eurostat flash estimate for euro-area twelve-month inflation, as measured by the harmonised
+
+index of consumer prices (HICP), had fallen to 2.4% in June compared with 2.5% in May.
+
+Twelve-month core inflation (excluding energy, food, alcohol and tobacco prices) had been 1.8% in
+
+May, unchanged from April.
+
+
+-----
+
+A14 In Japan, industrial production had risen by 0.5% on the month in May. The all-activity index
+
+had risen by 2.3% in April, compared with the previous month. According to the Bank of Japan’s
+
+Tankan survey, the large manufacturers’ business conditions diffusion index had increased to +22
+
+percentage points in June, from +12 percentage points in March. The large non-manufacturers’
+
+business conditions diffusion index had increased by 4 percentage points, to +9 percentage points. In
+
+China, industrial production growth had been 17.5% in the year to May, the third consecutive decline
+
+in the annual rate. Chinese annual consumer price inflation had risen to 4.4% in May, from 3.8% in
+
+April.
+
+A15 Since the Committee’s previous meeting, the spot price of Brent crude oil had risen by $1.50 per
+
+barrel and The Economist dollar non-oil commodity price index had fallen by 0.4%. The indices for
+
+food and non-food agricultural commodities had fallen by 1.0% and 1.9% respectively, while the index
+
+for metals had risen by 2.0%.
+
+**III** **Money and credit**
+
+A16 The twelve-month growth rate of notes and coin, adjusted for special factors, had been 6.4% in
+
+June, down slightly from May. The annualised three-month growth rate had also fallen, to 7.4% in
+
+June from 8.1% in May. Annual growth of aggregate M4 deposits had risen to 7.8% in May, from
+
+7.0% in April. Annual growth of M4 lending (excluding the effects of securitisations) had also
+
+increased, by 0.1 percentage points in May, to 12.3%. Excluding other financial corporations, annual
+
+M4 deposit growth had risen steeply in May, to 9.1%, while annual M4 lending growth (excluding the
+
+effects of securitisations) had been broadly unchanged at 12.0%.
+
+A17 The annual growth rate of households’ holdings of M4 had increased to 8.7% in May, from 8.2%
+
+in April, while the annual growth rate of M4 lending to households (excluding the effects of
+
+securitisations) had fallen to 13.9%, from 14.1%. Within total net lending to individuals – a measure
+
+that includes lending by a broader set of institutions than the banks and building societies that are
+
+responsible for M4 lending – the annual growth of secured lending had been unchanged, at 15.3% in
+
+May. The annual growth rate of unsecured lending to individuals had fallen to 11.6% in May, from
+
+12.0% in April.
+
+A18 The average standard variable rate on mortgages quoted for existing customers had increased, to
+
+6.09% in June from 5.82% in May. The average two-year discounted rate quoted to new business had
+
+
+-----
+
+increased to 4.62%, from 4.49%. According to the latest survey data from the Council of Mortgage
+
+Lenders, the share of new mortgages that had fixed rates had been unchanged at 30% in May.
+
+A19 Interest rates on unsecured borrowing quoted by banks and building societies had increased
+
+slightly in June. Interest rate increases on deposit accounts had ranged between 19 and 24 basis points
+
+in June.
+
+A20 The value of mortgage equity withdrawal undertaken by UK households had fallen to
+
+£15.8 billion in Q1, or 8.0% of households’ personal disposable income (PDI), from £17.4 billion in
+
+2003 Q4 (8.9% of PDI).
+
+A21 Approvals of loans for house purchase had risen to 127,000 in May, from 124,000 in April.
+
+Unsold stocks of properties measured by the Royal Institution of Chartered Surveyors had fallen to 56
+
+per surveyor in May, from 58 in April. The number of sales per surveyor had also fallen, to 30 per
+
+surveyor in May, from 32 in April.
+
+A22 The annual growth rate of private non-financial corporations’ (PNFCs’) holdings of M4 deposits
+
+had risen to 11.1% in May, from 9.4% in April. The annual growth rate of M4 lending to PNFCs
+
+(excluding the effects of securitisations) had fallen slightly, to 6.3% in May from 6.4% in April. Total
+
+external finance, a broader measure of PNFCs’ funding, had averaged £2.5 billion over April and May,
+
+compared with an average monthly value of £3.7 billion in Q1.
+
+A23 Revised PNFCs’ income gearing had fallen to 17.9% in Q1, from 19.2% in 2003 Q4. PNFCs’
+
+capital gearing at replacement cost had fallen to 35.6% in Q1, from 37.0% in 2003 Q4, while capital
+
+gearing at market value had fallen slightly, to 29.4% in Q1, from 30.4% in 2003 Q4.
+
+**IV** **Demand and output**
+
+A24 The Quarterly National Accounts for 2004 Q1, consistent with the 2004 Blue Book, had been
+
+published on 30 June. Estimated GDP growth at market prices in Q1 had been revised up by 0.1
+
+percentage points to 0.7%. At basic prices, GDP growth had been unrevised at 0.6%. The majority of
+
+the revisions in the latest release had affected GDP and its components back to 2001 Q1, but a number
+
+of specific revisions affecting the government sector had stretched back as far as 1991 Q1. The
+
+cumulative effect of the revisions had been to increase the estimated level of GDP at basic prices by
+
+1.1% in 2004 Q1.
+
+
+-----
+
+A25 On the expenditure side of the accounts, domestic demand had been estimated to have grown by
+
+0.7% in 2004 Q1, down from 1.0% in the previous release. Within domestic demand, final domestic
+
+demand growth had been unrevised at 0.9%. The contribution of the change in stockbuilding
+
+(including the quarterly alignment adjustment) to overall GDP growth had been revised down from
+
+0.1 to –0.2 percentage points in Q1.
+
+A26 The estimated growth of households’ consumption (including that of non profit-making
+
+institutions serving households) had been revised down by 0.3 percentage points, to 0.6% in 2004 Q1.
+
+Household consumption growth had also been revised down in 2003 Q3 and 2003 Q4, by 0.1
+
+percentage points and 0.2 percentage points respectively. The cumulative effect of revisions to past
+
+data had been to lower the estimated level of household consumption by 0.9% in 2004 Q1 relative to
+
+the previous release. Business investment growth had been estimated at 1.9% in Q1, revised up from
+
+0.3% in the previous release. Whole-economy investment growth had also been revised up, to 1.7% in
+
+Q1, from 1.1% in the previous release.
+
+A27 There had been a number of methodological revisions affecting government expenditure in the
+
+latest release. In particular, the ONS had introduced a new indicator for the output of government
+
+health services, reclassified NHS trusts from public corporations to central government and reallocated
+
+some elements of government expenditure between different functional headings. Partly as a result of
+
+these methodological changes, the estimated level of government consumption expenditure had been
+
+revised up by 6.4% in 2004 Q1. In the latest quarter, government consumption expenditure growth
+
+had been revised up by 0.5 percentage points, to 1.2%.
+
+A28 Excluding the effects of identified missing trader intra-community (MTIC) fraud, estimated
+
+export and import growth had been –0.7% and –0.6% respectively in 2004 Q1. Net trade had been
+
+estimated to have made a zero contribution to growth in 2004 Q1, up from –0.4 percentage points in
+
+the previous release.
+
+A29 On the output side of the National Accounts, the service sector had been estimated to have grown
+
+by 0.9% in Q1, unrevised from the previous release. Manufacturing output had been estimated to have
+
+fallen by 0.4% in Q1, up slightly from –0.5% in the previous release.
+
+A30 On the income side of the accounts, households’ real post-tax income had risen by 0.4% in 2004
+
+Q1. Household consumption had grown slightly faster than income in Q1, such that the household
+
+
+-----
+
+saving ratio had fallen to 6.1% in Q1, from 6.4% in 2003 Q4. The household sector had remained in
+
+financial deficit for the sixth consecutive quarter in 2004 Q1, at 0.7% of GDP.
+
+A31 The gross operating surplus of corporations (excluding the quarterly alignment adjustment) had
+
+been broadly unchanged in 2004 Q1. A fall in the operating surplus of financial corporations had been
+
+largely offset by an increase in the operating surplus of private non-financial corporations. The gross
+
+trading profits of private non-oil, non-financial corporations had grown by 2.8% on the quarter in 2004
+
+Q1, and by 13.6% compared with the same period a year earlier. The corporate sector’s financial
+
+surplus (excluding the alignment adjustment) had increased slightly to 2.6% of GDP in 2004 Q1. The
+
+public sector net financial deficit had fallen to 3.2% of GDP in Q1, from 4.0% in Q4, and the current
+
+account deficit had been unchanged at 1.9% of GDP.
+
+A32 Turning to indicators of output in 2004 Q2, industrial production had grown by 0.5% in May,
+
+following an increase of 0.7% in April. In May, manufacturing output had grown by 0.5%, while
+
+energy output had risen by 0.6%. The Chartered Institute of Purchasing and Supply (CIPS)
+
+manufacturing survey output index had risen slightly, to 57.5 in June from 57.2 in May, although the
+
+new orders index had fallen slightly, to 55.1 in June from 56.3 in May. Both indices had continued to
+
+point to strong manufacturing output growth. The expected output balance and total orders balance in
+
+the Confederation of British Industry (CBI) Monthly Trends Enquiry had both fallen on the month.
+
+The former had fallen to +15 in June, from +22 in May; the latter had fallen to –6 in June, from +1 in
+
+May. The CIPS services survey business activity index had fallen to 56.8 in June, from 57.4 in May.
+
+The incoming new business index had also fallen, to 57.1 in June, from 58.2 in May. Despite these
+
+small falls in both indices, the survey had continued to point to strong service sector output growth in
+
+Q2.
+
+A33 Turning to indicators of expenditure in 2004 Q2, retail sales had grown by 0.8% in May,
+
+following growth of 0.3% in April. In the CBI Distributive Trades Survey, the balance of retailers
+
+reporting positive annual growth in sales volumes had fallen to +43 in June, from +51 in May, but the
+
+level had remained consistent with strong annual growth in retail sales. The GfK consumer confidence
+
+balance had also fallen slightly, to –4 in June from –2 in May. According to the Society of Motor
+
+Manufacturers and Traders (SMMT), new private car registrations had been 7.6% weaker in the three
+
+months to June than in the same period a year earlier.
+
+A34 Three-month on three-month house price inflation measured by the Nationwide house price
+
+index had fallen to 5.4% in June, from 5.5% in May. The same inflation rate measured by the Halifax
+
+
+-----
+
+house price index had fallen to 6.0% in June, from 6.3% in May. The average of the
+
+three-month-on-three-month inflation rates on these two measures had fallen for the first time since
+
+June 2003.
+
+A35 Excluding oil and erratics, goods export volumes had been estimated to have risen by 4.3% in
+
+April. This had reflected growth in exports both to the rest of the European Union and to non-EU
+
+countries. Goods imports (excluding oil and erratics) had been estimated to have increased by 3.5%.
+
+**V** **The labour market**
+
+A36 According to the Labour Force Survey (LFS), employment had increased by 30,000 in the three
+
+months to April compared with the previous non-overlapping quarter. The 16+ employment rate had
+
+been flat at 60.0% in the three months to April, but had increased by 0.2 percentage points on the year.
+
+Total hours worked had increased by 0.4% in the three months to April, and by 0.5% on a year earlier.
+
+Average hours worked had increased by 0.3% in the three months to April, but had fallen by 0.3% on a
+
+year earlier.
+
+A37 The CIPS employment survey for June had suggested continued overall employment growth.
+
+All three sector indices (construction, manufacturing and services) had remained above the ‘no
+
+change’ level of 50, but the indices for manufacturing and services had eased slightly. According to
+
+the June Recruitment and Employment Confederation (REC) survey, the demand for agency staff had
+
+continued to increase, while the availability of agency staff had continued to fall.
+
+A38 LFS unemployment had fallen by 9,000 in the three months to April, and had been 77,000 lower
+
+than a year earlier. The LFS unemployment rate had been unchanged at 4.8% in the three months to
+
+April, and had been 0.3 percentage points lower compared with the same three months a year ago. The
+
+claimant count unemployment rate, which had been revised back to 1996, had remained unchanged at
+
+2.8% in May. The level of 16+ inactivity had increased by 49,000 in the three months to April. The
+
+16+ inactivity rate had been flat at 37.0% in the three months to April compared with both the previous
+
+non-overlapping quarter and the same period a year earlier.
+
+A39 Overall annual whole-economy earnings growth had been 4.3% in the three months to April, 0.9
+
+percentage points lower than in the three months to March. Private sector pay growth had decreased
+
+by 1.1 percentage points to 4.4%, within which private sector services pay growth had decreased by
+
+1.8 percentage points, to 4.4%. Annual public sector pay growth had been 4.3% in the three months to
+
+
+-----
+
+April, unchanged on the figure for the three months to March. Whole-economy earnings growth in the
+
+year to April had increased by 0.4 percentage points, to 4.7%. Annual earnings growth excluding
+
+bonuses had been 4.1% in the three months to April, up 0.2 percentage points on the three months to
+
+March. The comparable public sector growth rate had been flat at 4.3%, while the comparable private
+
+sector growth rate had increased by 0.2 percentage points, to 4.1%. Shorter-run measures of earnings
+
+growth had been running above the twelve-month growth rates.
+
+A40 According to settlements information available to the Bank, the mean whole-economy twelve
+month average earnings index (AEI)-weighted settlement had been 3.3% in the year to May,
+
+unchanged on the equivalent figure for April. The twelve-month mean settlement in the private sector
+
+(AEI-weighted) had been 3.4%, up 0.1 percentage points on the year to April; that in the public sector
+
+(sample-weighted) had been 3.1%, unchanged on the year to April.
+
+**VI** **Prices**
+
+A41 Since the Committee’s previous meeting, sterling oil prices had risen by around 3%.
+
+A42 Manufacturing input prices had risen by 1.6% in May, while the annual inflation rate had risen to
+
+5.2%, from 3.2% in April. The CIPS manufacturing survey had pointed to rising input prices in June,
+
+although the input price index had fallen to 64.5, from 66.7 in May.
+
+A43 Manufacturing output prices excluding duties (PPIY) had risen by 0.3% in May, while the
+
+annual inflation rate had risen to 2.2%, from 1.6% in April. Survey data had pointed to a small rise in
+
+output prices ahead: the balance on expected output prices from the CBI Monthly Trends Enquiry had
+
+risen to 5 in June, from 3 in May.
+
+A44 June’s National Accounts release showed that the GDP deflator at market prices had risen by
+
+0.4% in 2004 Q1, while the annual inflation rate had fallen to 2.4%, from 2.9% in 2003 Q4. Within
+
+this, the annual inflation rate of the household consumption deflator had fallen to 1.8% in 2004 Q1,
+
+from 2.0% in 2003 Q4. The annual inflation rate of the government consumption deflator had fallen to
+
+2.5% in 2004 Q1, from 5.5% in 2003 Q4. The annual inflation rate of the exports deflator had fallen
+
+by 2.5 percentage points, to –1.5% in 2004 Q1, while the annual inflation rate of the imports deflator
+
+had fallen by 2.1 percentage points, to –1.0%.
+
+A45 Annual CPI inflation had risen by 0.3 percentage points to 1.5% in May. Within this, annual
+
+goods price inflation had risen to –0.1% in May, while annual services price inflation had risen to
+
+
+-----
+
+3.3%. Annual RPIX inflation had risen by 0.3 percentage points in May, to 2.3%. Annual RPI and
+
+RPIY inflation had also risen in May, to 2.8% and 2.2% respectively.
+
+A46 The Bank’s regional Agents had conducted a special survey of costs and profit margins covering
+
+162 firms. Firms in the retail sector reported that profit margins had been rising over the previous six
+
+months, and that profit margins were expected to rise a little further over the coming six months.
+
+Firms in the manufacturing sector reported that profit margins had been falling over the previous six
+
+months but were expected to rise slightly over the next six months. Looking at the sample as a whole,
+
+firms had cited improvements in product demand as the main factor that was likely to have a positive
+
+impact on profit margins over the next six months, while increased competition, and the cost of raw
+
+materials and fuels, were likely to have negative effects.
+
+**VII Reports by the Bank’s Agents**
+
+A47 The Bank’s regional Agents reported that the rate of increase of house prices had eased recently
+
+in most regions – to a greater extent in southern England, less so in the Midlands, Wales and Scotland
+
+and perhaps not at all in the North West, North East and Yorkshire and Humberside. There had been
+
+some signs of reduced activity in the buy-to-let market, in part the result of higher interest rates and
+
+flat or falling rental yields. Some contacts indicated that media reports of possible future house price
+
+falls had reduced confidence among house buyers. Those contacts had expected national house price
+
+inflation to ease in the second half of the year. Even so, national house price changes in 2004 H2 had
+
+been expected to remain positive.
+
+A48 Contacts indicated that retail sales growth had increased recently. That had been partly on
+
+account of the Euro 2004 football championship and the forthcoming Olympic Games, which may
+
+have increased expenditure on some items, including televisions. Price competition in the retail sector
+
+had remained strong, reflected for example in the summer sales of some contacts starting earlier than
+
+usual. A steady rise in investment levels had continued. Most manufacturers still had spare capacity,
+
+so that investment had been principally to substitute for labour and reduce labour costs. By contrast,
+
+the service sector had been expanding capacity. The volume of investment in information technology
+
+(IT) had risen strongly. That had been masked to some extent by falling prices of IT investment goods
+
+and services, so that the value of IT investment had risen by much less.
+
+
+-----
+

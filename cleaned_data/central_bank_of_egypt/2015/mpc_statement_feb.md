@@ -1,0 +1,48 @@
+# Central Bank of Egypt 
+
+**Press Release**
+
+**February 26, 2015**
+
+**_In its meeting held on February 26, 2015, the Monetary Policy Committee (MPC) decided to_**
+**_keep the overnight deposit rate, overnight lending rate, and the rate of the CBE's main_**
+**_operation unchanged at 8.75 percent, 9.75 percent, and 9.25 percent, respectively. The_**
+**_discount rate was also kept unchanged at 9.25 percent._**
+
+Headline CPI increased by 0.99 percent (m/m) in January compared to a decline of 0.07 percent
+(m/m) in December. The annual rate declined to 9.66 percent in January from 10.13 percent in
+December, supported by the favorable base effect from last year. The bulk of the monthly
+developments came on the back of the administered price adjustments and supply bottlenecks
+related to the distribution of butane cylinders. On the other hand, core CPI increased by 0.52
+percent in January compared to 0.3 percent in December. The annual rate continued to ease
+registering 7.06 percent in January following 7.69 percent in December. Upside risks on the
+inflation outlook from domestic supply shocks are largely mitigated by contained imported
+inflation, against the background of lower oil prices and the consequent downward revision in
+international food price forecasts.
+
+Meanwhile, real GDP jumped significantly in 2014/15 Q1, registering at 6.8 percent the highest
+annual growth rate since 2007/08 Q4. This comes after the 2013/14 fiscal year real GDP growth
+rate recorded 2.2 percent. Notwithstanding the support stemming from the base effect, the
+expansion in economic activity during 2014/2015 Q1 came on the back of the continuous
+growth in the manufacturing sector and the expansion of tourism activities after several
+quarters of contraction. This came despite the continuous weakness in the extraction sector. In
+the meantime, investment continued to improve for the third consecutive quarter. Looking
+ahead, while investments in domestic mega projects such as the Suez Canal are expected to
+contribute to economic growth, the downside risks that surround the global recovery on the
+back of challenges facing the Euro Area and the softening growth in emerging markets could
+pose downside risks to domestic GDP.
+
+At this juncture, the MPC judges that the key CBE rates are currently appropriate given the
+balance of risks surrounding the inflation and GDP outlooks.
+
+The MPC will continue to closely monitor all economic developments and will not hesitate to
+adjust the key CBE rates to ensure price stability over the medium-term.
+
+Dr. Rania Al-Mashat
+Sub Governor, Monetary Policy
+Telephone number: 0227701315
+Email: monetary.policy@cbe.org.eg
+
+
+-----
+

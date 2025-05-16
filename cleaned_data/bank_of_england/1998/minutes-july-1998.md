@@ -1,0 +1,1515 @@
+### Publication date: 12 August 1998
+
+## MINUTES OF
+# MONETARY POLICY COMMITTEE MEETING
+
+## 8 and 9 July 1998
+
+##### These are the minutes of the Monetary Policy Committee meeting held on 8 and 9 July 1998. They are also available on the Internet (http://www.bankofengland.co.uk/mpc9807.pdf).
+
+ The Bank of England Act 1998 gives the Bank of England operational responsibility for setting interest rates to meet the Government’s inflation target. Operational decisions are taken by the Bank’s Monetary Policy Committee. The Committee meets on a regular monthly basis and minutes of its meetings are released no later than 6 weeks after each meeting. Accordingly, the minutes of the Committee meeting held on 5 and 6 August will be published on 16 September 1998.
+
+
+-----
+
+**MINUTES OF THE MONETARY POLICY COMMITTEE MEETING ON 8-9 JULY**
+**1998**
+
+1 The Committee discussed recent developments with particular emphasis on the external
+
+environment; the Chancellor’s announcement on the Economic and Fiscal Strategy Report;
+
+domestic demand; output and unemployment; and nominal variables, particularly prices and
+
+earnings.
+
+**The world economy**
+
+2 The Committee began by examining recent developments in the world economy. On
+
+balance, the news in the UK’s major export markets had been adverse, and the picture for
+
+external demand was at least as weak as envisaged at the time of the May Inflation Report.
+
+3 On Japan there was great uncertainty about the likely path of real activity given the fall in
+
+output in 1998 Q1, and other forecasters were still revising down their projections for 1998.
+
+There was uncertainty about the likely policy response of the authorities, especially in the
+
+context of the elections to the upper house due on 12 July. The MPC also discussed the
+
+possibility that prospects for a recovery in output hinged on corporate as well as financial sector
+
+structural adjustment and how long the recovery in activity would take. The Committee agreed
+
+that prospects for the Japanese economy had deteriorated over the past month.
+
+4 The world economy projections used as an input to the May Inflation Report incorporated
+
+a deceleration of activity in the United States. In the light of the strong 1998 Q1 GDP data, the
+
+Committee discussed whether such a deceleration was still the most likely outcome. In
+
+particular, the lags between developments in Asia and their impact on US activity were highly
+
+uncertain. But a further rise in the US trade deficit seemed likely, which would restrain output
+
+growth. The recovery in continental Europe was continuing broadly as expected, but recent
+
+data in Germany had been weaker than in France.
+
+5 There was now clear evidence of falling output in a number of Asian economies.
+
+Developments in the real economy in, for example, Indonesia were at least as serious as in the
+
+financial sectors of the economy. There had been speculation about the possible impact on the
+
+
+-----
+
+world economy if China were to devalue and whether this would have implications for other
+
+countries beyond the direct trade effects, particularly through its impact on Hong Kong. The
+
+immediate prospects in several countries outside Asia, for example South Africa and Russia, had
+
+worsened over the past month. Recent developments in the world economy would be taken into
+
+account in the context of the August Inflation Report.
+
+**The fiscal position**
+
+6 The Committee discussed the briefing previously received from Treasury officials on the
+
+Economic and Fiscal Strategy Report (EFSR). On the expenditure side, the new fiscal plans
+
+were for somewhat higher expenditure by the third fiscal year than had been incorporated in the
+
+May Inflation Report projections, although a lower starting point in the first year and slightly
+
+higher revenue were offsetting factors.
+
+7 The Committee thought there was a degree of uncertainty about the revenue projections,
+
+which now assumed that more of the recent buoyancy in revenue associated with the move to
+
+self-assessment would be permanent. Overall, the Committee agreed that there seemed to be
+
+little news in terms of the impact on inflation over the next two years or so from the aggregate
+
+expenditure projections. The impact of the latest plans would be incorporated into the
+
+Committee’s August Inflation Report projections.
+
+8 The Committee discussed the possible implications of the expenditure plans for public
+
+sector pay. Public sector settlements had for some time been below those in the private sector,
+
+but the gap between public and private sector earnings growth was much larger – there was
+
+negative wage drift in the public sector. Restructuring in the public sector explained some of
+
+this recent trend in wage drift, as some higher paid staff were replaced by lower paid staff.
+
+There was a question of how long these structural changes could be maintained. Since the fiscal
+
+plans entailed binding nominal expenditure limits on departments, any reduction in negative
+
+wage drift (and hence relatively higher public sector earnings growth) would have to be offset
+
+by lower spending elsewhere. But it might imply a change in the price/output split, which would
+
+affect the Committee’s inflation projection.
+
+9 There was some discussion of whether financial markets had reacted to the prospect of
+
+higher future government spending. But there had been little change in either bond yields or
+
+market implied forward interest rates immediately following the announcement of the EFSR.
+
+
+-----
+
+**Domestic demand, output and unemployment**
+
+10 The Committee then discussed output and domestic demand. There had been a small
+
+upward revision to 1998 Q1 domestic demand growth in the National Accounts release, offset
+
+by a small downward revision to net trade. GDP growth remained at 0.5% in Q1. Investment
+
+growth in Q1 was now estimated to be slightly stronger than assumed in the May forecast,
+
+rather than weaker. Notwithstanding the revisions to the expenditure components of GDP, the
+
+overall pace of output growth was broadly as expected at the time of the May Inflation Report.
+
+11 Estimate of GDP growth in Q2, based on a range of monthly indicators and survey
+
+evidence, were a little stronger than in the central projection in the May Inflation Report. But
+
+this was a preliminary estimate, on which the Committee did not place much weight, though it
+
+provided a useful benchmark against which the official figures could be judged when published
+
+on 24 July. More recently, there were signs in the surveys that service sector output growth
+
+might be slowing, for example in the Chartered Institute of Purchasing and Supply survey, but
+
+this was from an above-trend growth rate. Construction growth still appeared to be increasing.
+
+12 The expenditure data for Q2 indicated a slightly weaker picture than that coming from the
+
+output indicators. Consumer confidence had fallen, but retail sales had been strong in May.
+
+Retail sales may have been affected by poor weather in April and June and, given the survey and
+
+anecdotal evidence for June, the Committee thought that it would be best to look at the May
+
+figures in the context of a run of data.
+
+13 As regards the labour market, the rate of decline of LFS unemployment was broadly in
+
+line with the May Inflation Report projection. The central projection in the May Inflation
+
+_Report had envisaged that the fall in unemployment would soon cease, and that there would be_
+
+little change over the next two years given the projection for GDP growth. A rise in
+
+unemployment would be needed, in order to check earnings growth and return inflation to
+
+target, but how much and how fast? One view was that the recent rise in earnings growth
+
+contained some news on the natural rate of unemployment, and that the labour market was now
+
+more clearly below it. Hence a more substantial rise in unemployment than in the May Report
+
+projections would be needed. On another view, the rise in earnings, though somewhat
+
+surprising, largely reflected past movements in profitability, and was therefore a backward
+
+
+-----
+
+looking indicator. In that case, it provided new information about lags in the economy, but not
+
+much about medium-term prospects for inflation.
+
+14 Recruitment difficulties and skill shortages were even more acute in the latest surveys, and
+
+seemed to be prevalent across all sectors and regions of the economy. Changes in employment
+
+and unemployment lag changes in output, and although the lag appeared to have shortened in
+
+the recovery in the early 1990s, it was still evident. So the slowing of output growth may not
+
+yet be feeding through to the recruitment surveys. This might be rationalised at the firm level if
+
+there were lags between the level of activity in sales and marketing departments and changes in
+
+personnel department’s recruitment plans. But how could the recruitment surveys be reconciled
+
+with the slower rate of decline in unemployment? One possible explanation was an increase in
+
+job turnover, which would lead survey respondents to report increased difficulty in recruiting
+
+and retaining staff, even when the same number were employed. Another possibility was that
+
+recruitment difficulties were related to the level of unemployment rather than to its rate of
+
+change.
+
+15 The Committee discussed how the surveys could shed light on the level of tightness in the
+
+labour market. This was particularly difficult as the various surveys pointed to different degrees
+
+of tightness. In particular, the Confederation of British Industry (CBI) Industrial Trends Survey
+
+pointed to less severe labour shortages than in the late 1980s, whereas the British Chambers of
+
+Commerce survey indicated that recruitment difficulties in both manufacturing and service
+
+industries were at least as great. Given that service and manufacturing firms were often
+
+competing for the same labour, how could these surveys be reconciled? The Committee
+
+thought that the difference possibly reflected the nature of the questions asked in the surveys.
+
+For example, the CBI survey asked whether shortages of labour were a constraint on output.
+
+Given the recent path of output and orders it was not surprising that this was not reported as a
+
+serious constraint in manufacturing. In understanding the path of earnings growth it was
+
+unclear how much explanatory power the relevant questions in these surveys added to the
+
+information already contained in unemployment figures, particularly given the short run of data
+
+for most of the series.
+
+**Prices and earnings**
+
+16 The Committee then turned to developments in nominal variables, and particularly prices
+
+and earnings. The focus of the labour market discussion was on the increase in earnings growth
+
+
+-----
+
+and the extent to which it was accounted for by bonus payments. The importance of bonuses in
+
+the twelve-month rate of increase of earnings was likely to diminish over the next few months,
+
+but the precise time path was unclear. Bonus payments should anyway not be ignored because
+
+they are a real cost to employers, though it was natural to smooth the effects over the course of
+
+a year. Unfortunately, the ONS monthly earnings survey did not precisely identify the bonus
+
+component of pay, so identifying the contribution to earnings growth from this source was still
+
+rather uncertain.
+
+17 Comparing earnings growth with pay settlements suggested a contribution from wage drift
+
+of 1½ percentage points or so, which did not seem abnormal given previous experience and the
+
+stage in the cycle. A question remained concerning the size of the gap between private and
+
+public sector earnings growth, which had been large over the past few years according to the
+
+ONS average earnings figures.
+
+18 Retail price inflation had turned out significantly higher than expected in May, but it was
+
+not obvious how to choose between various competing explanations. One possible explanation
+
+was that unexpectedly strong earnings growth was feeding through to inflation, but this did not
+
+seem to explain all of the rise. A second explanation was that there was less pass-through from
+
+the exchange rate appreciation than had been expected. A third explanation was that the rise
+
+was due to erratic factors, which had no obvious implications for the medium-term inflation
+
+projection. Evidence for this could be gauged by looking at the unexpected rise in seasonal
+
+food prices. A fourth explanation might be the raising of prices ahead of summer sales, which
+
+again might be only a temporary timing effect. The rise in clothing and footwear prices could
+
+reflect this factor. Or it could reflect the strong rise in retail sales volumes for these goods,
+
+which may have indicated stronger demand. Finally, taking the past few months as a whole, the
+
+rise in the housing depreciation component of RPIX had been unexpectedly strong. In sum, it
+
+was difficult to draw firm conclusions about the significance of the higher-than-expected May
+
+retail prices figures for future inflation.
+
+19 From a longer perspective it was worth noting that since the introduction of the MPC
+
+arrangements in May 1997, inflation had been at or above the target, and month-by-month
+
+inflation had tended to turn out slightly higher than the Committee had expected. Looking back
+
+just over a year, the central projection published in the May 1997 Inflation Report was for
+
+inflation in 1998 at or below 2½%. That projection was made at a lower nominal interest rate, a
+
+lower exchange rate, and before the various budget announcements.
+
+
+-----
+
+-----
+
+**The National Minimum Wage and other policy changes affecting the labour market**
+
+20 The Government had announced the details of the National Minimum Wage, and members
+
+and staff of the Low Pay Commission (LPC) had briefed the MPC on the details of their report.
+
+The LPC’s estimate of the direct effect of the NMW on the wage bill was 0.6%. The LPC had
+
+assumed full compliance with the minimum wage and that the restoration of wage differentials
+
+would not be a significant factor. The Committee discussed factors affecting the size of the
+
+impact on the price level, and on inflation over the next few years. A plausible starting point
+
+might be a proportionate rise in prices of two thirds of the percentage increase in the wage bill.
+
+But the timing of this was uncertain: the rise in prices might come through quite quickly or be
+
+spread over a number of years. The fact that the details of the NMW were known well before
+
+its implementation was a reason for assuming a more rapid effect. Although it was of primary
+
+importance to estimate the impact on wage costs and inflation, the Committee thought that the
+
+minimum wage would also raise the natural rate of unemployment.
+
+21 The Committee agreed it was important to assess the impact of the minimum wage
+
+alongside an analysis of the other Government measures affecting the labour market. It
+
+discussed the potential size of any effects of the Welfare-to-Work and tax/benefit measures
+
+(such as the Working Families Tax Credit and childcare subsidies) on the natural rate of
+
+unemployment. Estimates of both the timing and magnitude were necessarily highly uncertain.
+
+There could be quite rapid effects if, for example, the New Deal had a significant impact on the
+
+initial stock of young and long-term unemployed. It was possible that the effects from the
+
+tax/benefit changes could be significant in increasing activity rates, given the evidence on the
+
+labour supply elasticities of those most likely to be affected by these changes.
+
+22 Looking forward, it would be important to be able to distinguish between changes in
+
+unemployment that reflected changes in labour market tightness, and any changes which came
+
+about because of the introduction of the Government’s NMW, the tax/benefits reforms and the
+
+Welfare-to-Work initiatives. The New Deal programme started nationally in April, so there
+
+were no effects yet in the unemployment statistics. But monitoring processes had been set up
+
+which would identify the effect of the New Deal on unemployment. The Committee’s
+
+assessment of the impact of the Government’s labour market policies on inflation would be
+
+incorporated into the August Inflation Report projections.
+
+
+-----
+
+**Monetary conditions**
+
+23 Money growth had slowed in June, and the twelve-month rate of growth of M4 was now
+
+back below 10%. The Committee considered that the slow decline in the annual growth rate
+
+over recent months was probably consistent with a slowdown in demand and somewhat higher
+
+inflation, and that it would be worrying if monetary growth were not slowing by now.
+
+24 The Committee discussed the market reaction to the interest rate increase on 4 June. The
+
+announcement had come as a surprise to the markets and, coupled with data releases later in the
+
+month, had pushed short sterling implied forward interest rates up by more than 25 basis points
+
+some two years ahead. Since the path implied for interest rates had previously been downward
+
+sloping, the effect was to push further into the future the time when markets expected interest
+
+rate cuts. The sterling effective exchange rate had risen slightly since the June meeting, and a
+
+large part of this could be accounted for by changes in market expectations of UK relative to
+
+overseas interest rates.
+
+**The immediate policy decision**
+
+25 The Committee agreed that there had been a further deterioration in the prospects for the
+
+world economy. In the case of Japan the question was how bad things would get, given the
+
+current stance of policy. News on Japan continued to be offset to some extent by the strength
+
+of the United States. Growth in the EU was holding up, although there were differences across
+
+the major EU countries. The exchange rate had risen slightly over the past month, and the
+
+deterioration in UK net exports was coming through in the first quarter. The monthly trade
+
+figures pointed to further deterioration in net exports in 1998 Q2. So overall the net trade
+
+picture was, if anything, a little weaker than expected at the time of the Inflation Report, with
+
+further risks on the downside.
+
+26 Despite the upward revision to 1998 Q1, the Committee was more confident that
+
+domestic demand was slowing. And the slowdown appeared to be spreading to the service
+
+sector, although much of the evidence of slower growth in the service sectors came from
+
+surveys. Taking external and domestic demand together, the real side of the economy looked to
+
+be broadly on the track expected at the time of the Inflation Report. Evidence from the demand
+
+side in Q2 might be slightly weaker than on the output side, but this was still highly uncertain.
+
+
+-----
+
+27 The slowing in the rate of decline in unemployment looked consistent with developments
+
+in demand and output, and was also broadly consistent with the May Inflation Report
+
+projection. The level of pressure in the labour market was less clear, but was probably still high
+
+given the recent evidence on recruitment difficulties. Looking ahead, some rise in
+
+unemployment was likely later in the year, and was probably necessary to contain pressure on
+
+wages and earnings. Both inflation and earnings growth had risen on the month. The
+
+Committee felt that some of the rise in retail prices was erratic, and could therefore be
+
+discounted, but noted that inflation had turned out to be a little higher over most of the previous
+
+year than had been anticipated. Despite the real economy developing broadly as expected, there
+
+were signs that nominal variables were turning out worse than expected. This could be because
+
+the lags between output growth and its effect on inflation were longer than expected, or it could
+
+be because the short-run trade-off between the two was less favourable than predicted.
+
+28 The Committee had considered the announcements on fiscal policy and the National
+
+Minimum Wage. The fiscal announcements appeared not to contain much news for inflation up
+
+to two years ahead. But more work needed to be done to quantify the effect of the EFSR and
+
+the aggregate effect on the labour market from the NMW, Welfare-to-Work and the tax/benefit
+
+changes. Further analysis would take place in the context of the August Inflation Report
+
+projections.
+
+29 There was an argument for a further immediate rise in interest rates. Even if
+
+unemployment stabilised at its current level there would be further pressure on earnings growth
+
+if unemployment were below the natural rate. A similar argument could be made in respect of
+
+capacity output, if the level of output was above potential. Therefore, a rise in unemployment
+
+back towards its natural rate – and a period of below trend output growth – would be required
+
+to return earnings growth to a rate that was consistent with meeting the inflation target in the
+
+medium term. But this could be achieved either through a sharp correction, or a more
+
+protracted adjustment.
+
+30 Even if it was more likely than not that official interest rates would have to rise again,
+
+there were two reasons for waiting another month. First, there had been a lot of news over the
+
+period since the June MPC meeting. And the news was such that it was difficult to form a
+
+quantitative assessment of the overall impact on the medium-term inflation projection and of the
+
+size of any interest rate increase that might be required. In these circumstances it made sense to
+
+wait for an assessment in the quarterly Inflation Report forecast round, which was an important
+
+
+-----
+
+part of the monetary policy process. Second, although demand was slowing broadly as
+
+expected the economy had only just passed the turning point and there were risks that activity
+
+could slow more quickly than expected – so that there was more to be learned over the next
+
+month.
+
+31 It was also argued that there was no need for a further rise in interest rates, and indeed on
+
+one view there was a case for an immediate reduction in interest rates. The impact of the June
+
+rise in official interest rates had been amplified in financial markets by expectations of further
+
+rises, which could be seen as an extra degree of tightening. The exchange rate had strengthened
+
+slightly on the month and was close to the level at the time of the May Report. Past interest rate
+
+increases were still feeding through. The greatest challenge at this point, given the lags in the
+
+operation of policy, was to judge when to stop raising rates and allow the cumulative tightening
+
+already in place to have its effects. There were already clear signs of a slowdown in domestic
+
+demand as well as a sharp weakening in exports. It was possible that the prospective slowdown
+
+in aggregate demand was already sufficient to produce an easing in the labour market consistent
+
+with meeting the inflation target in the medium-term.
+
+32 The case for a reduction in interest rates had become less clear in the light of the
+
+Government’s recent announcements on fiscal strategy, which raised new concerns about the
+
+medium-term inflation outlook. On this view it would be prudent to delay a cut in interest rates
+
+until these policies could be examined fully in the August Inflation Report round.
+
+33 The Committee then voted unanimously in favour of leaving the Bank’s repo rate
+
+unchanged.
+
+34 The following members of the Committee were present:
+
+Eddie George, Governor
+Mervyn King, Deputy Governor responsible for monetary policy
+David Clementi, Deputy Governor responsible for financial stability
+Alan Budd
+Willem Buiter
+Charles Goodhart
+DeAnne Julius
+Ian Plenderleith
+John Vickers
+
+35 Gus O’Donnell was also present as the Treasury representative.
+
+
+-----
+
+#### ANNEX: SUMMARY OF DATA PRESENTED BY BANK STAFF
+
+A1 This Annex summaries the analysis presented by Bank staff to the Monetary Policy
+
+Committee on 3 July 1998, in advance of its meeting. At the start of the Committee meeting itself,
+
+members were made aware of information that had subsequently become available, and that
+
+information is included in the Annex.
+
+I Monetary conditions
+
+A2 Broad and narrow measures of money had shown signs of slowing on the most recent data.
+
+The annual growth rate of notes and coin had slowed to 5.5% in June, after adjusting for the
+
+effects of the introduction of the new 50p and £2 coins. The latter had little effect on monthly
+
+growth in June.
+
+A3 The growth of personal sector M4 had slowed in May. The twelve-month growth rate had
+
+fallen to 6.9% from 7.2% in April, while the three-month and six-month annualised rates were
+
+lower still at 5.9% and 6.2% respectively. Retail inflows to building societies had remained strong,
+
+possibly on a view that there might be more demutualisations. Inflows to unit trusts had also been
+
+buoyant in May.
+
+A4 ICCs’ M4 had grown by 0.6% in May, slightly faster than the average one-month growth
+
+rate for the previous six months. The shorter-run growth rates had also been higher than the
+
+twelve-month growth rate, which had fallen to 5.1% from 5.6% in April.
+
+A5 The twelve-month growth rate of OFIs’ M4 had fallen to 19% in May, the first time the
+
+growth rate had been below 20% since 1995 Q2. Staff estimates suggested that LAPFs’ money
+
+holdings were still above long-run equilibrium in Q1, but the Merrill Lynch survey of fund
+
+managers’ portfolios had suggested that LAPFs’ cash ratios had fallen back again in Q2.
+
+A6 Aggregate M4 growth had fallen in May. The twelve-month growth rate had come down to
+
+9.2%, from 10.2% in April. The one-, three- and six-month growth rates had all also fallen.
+
+However, given that these growth rates had all risen in April, it was too soon to conclude that the
+
+growth rate of M4 had begun a sustained fall.
+
+A7 M4 lending had risen 0.5% in May on the previous month and by 8.1% on a year earlier,
+
+compared with 0.9% and 8.8% respectively in April. Within the total, lending to persons remained
+
+steady at a twelve-month growth rate of 7.1%.
+
+
+-----
+
+A8 Growth in net secured lending to individuals had been weaker in May. The gap between
+
+gross and net lending remained strong, possibly caused by high levels of remortgaging activity
+
+given that housing market activity itself did not seem to be strengthening. The growth of total
+
+unsecured lending to individuals had risen in May, largely driven by non-credit card borrowing.
+
+A9 Although the twelve-month growth rate of M4 lending to ICCs had fallen in May, the one-,
+
+three- and six-month growth rates pointed to stronger corporate borrowing in recent months. An
+
+industrial breakdown of lending by the major British banking groups suggested that manufacturing
+
+companies had repaid debt in May. Lending to OFIs had been weak in May - the one-month
+
+growth rate of 0.3% was the weakest for some time. Some of the weakness related to reverse
+
+repo activity.
+
+A10 Turning to financial prices, the majority of banks had announced that they would be passing
+
+on the 25 basis point rise in the repo rate in July. By contrast, several remaining mutual
+
+institutions had announced a delay. Personal loan rates had risen sharply during May, partly due to
+
+the expiry of some special deals.
+
+A11 Short-term inflation expectations on a rolling horizon, as measured by surveys conducted by
+
+Consensus Forecasts, Barclays Basix and GFK, changed little in June. RPIX expectations with
+
+respect to a fixed end-point, as surveyed by Consensus Forecasts and HM Treasury, also showed
+
+little change on the month, though RPI expectations had generally edged up a little.
+
+A12 The distribution of inflation expectations of members of the general public collected by the
+
+Barclays Basix was typically asymmetric and positively skewed. The mode of the distributions of
+
+surveyed expectations of inflation at 12 and 24 months ahead were both 4%, and in both cases
+
+below the mean. The mode had generally been below the mean since 1992.
+
+A13 In wholesale markets, short sterling interest rates had moved up following the previous repo
+
+rate increase and now reflected an expectation of a further repo rate rise within three months.
+
+Two year spot short-term real rates, based on the Consensus Forecasts and Basix surveys of
+
+inflation expectations had risen slightly in June compared with March. These measures had
+
+indicated a similar fall in short-real rates between December 1997 and March, and now suggested
+
+that real rates had returned to end 1997 levels. Short real forward rates, as derived from
+
+index-linked gilt, had risen, while longer-term real rates had fallen since the previous MPC
+
+meeting.
+
+A14 Both the sterling ERI and the broader measure had risen since the June MPC meeting, and
+
+the forward path of the ERI implied by uncovered interest parity indicated a steeper depreciation
+
+path than that incorporated in the May Inflation Report, though starting from a higher level. The
+
+sterling ERI was 105.7 at close of business on 8 July (the first day of the MPC meeting).
+
+
+-----
+
+A15 UK forward interest rates derived from Government bond yield curves had moved by much
+
+more than overseas rates during June. This cumulative ‘monetary news’ seemed to explain a
+
+material part of the appreciation of the sterling ERI during the month.
+
+II Demand and output
+
+A16 The National Accounts had shown that GDP at factor cost grew by 0.5% in 1998 Q1,
+
+unchanged from the previous GDP release; annual growth had been revised up from 2.9% to
+
+3.0%. Within the quarterly figure, upward revisions to investment growth had been offset by
+
+downward revisions to growth in net trade, consumption and stockbuilding, and a revision to the
+
+factor cost adjustment, reflecting new information on hydrocarbon oil and VAT receipts. GDP
+
+growth of 0.5% was in line with the May Inflation Report forecast, but growth in domestic
+
+demand had been a little stronger than expected, and net trade a little weaker. Excluding the factor
+
+cost adjustment, GDP at market prices grew by 0.8% in Q1. This would become the new headline
+
+measure from September, when the ONS moved to the new European System of Accounts.
+
+A17 More recent data had suggested that underlying demand had continued to slow in Q2, but
+
+that GDP growth in the quarter might be temporarily boosted by unexpectedly high energy and
+
+utilities output, related to the colder weather in April.
+
+A18 Consumption had grown by 0.9% in Q1, revised down from 1.0%. Within this, services
+
+consumption had grown by 1.4%, partly reflecting strong overseas spending by UK residents.
+
+Goods consumption had been dominated by 3.5% growth in consumption of durable goods;
+
+consumption of non-durables had fallen by 0.4%. The retail sales data suggested rather stronger
+
+growth in goods consumption in Q1 than the National Accounts data.
+
+A19 Retail sales had risen sharply in May, by 1.7%. However, this appeared to be at least partly a
+
+bounce-back from weak sales in February to April. Sales in April appeared to have been affected
+
+by bad weather. Much of the growth in May had been accounted for by sales of clothing and
+
+footwear, which tended to be sensitive to weather patterns, and the growth in this component over
+
+three months was very weak. Although annual growth in retail sales had remained strong at 4.3%
+
+in the three months to April, several indicators had suggested that underlying consumption growth
+
+was gradually slowing. Household goods sales had continued to moderate, and private car
+
+registrations had fallen sharply. The GFK survey of consumer confidence and the CBI survey of
+
+retailers had both fallen in June. Activity in the housing market continued to weaken in May, with
+
+particulars delivered falling by a further 3,000. However, annual house price inflation had risen in
+
+June.
+
+A20 The share of durables in real total expenditure was a potentially useful indicator of domestic
+
+demand pressures. There had been a trend rise in the share since the late 1960s, as the
+
+
+-----
+
+wealth/income ratio had grown and the relative price of durables had fallen. But the nature of
+
+durables consumption meant that changes in the durables share tended to be positively correlated
+
+with changes in domestic demand over the cycle. On this basis, the rise in the durables share
+
+during 1997 was consistent with strong domestic demand growth. But the share could also have
+
+risen because of one-off factors, such as building society windfalls and appreciation effects.
+
+Econometric work suggested that windfall-related spending would explain only a small part of the
+
+rising share during 1997, and perhaps some of the unexpectedly large increase in 1998 Q1. More
+
+recently, however, slower growth in monthly sales of household goods and cars had been
+
+consistent with a flat or falling durables share, providing some support for a slowing of underlying
+
+demand growth.
+
+A21 Real personal disposable income had fallen by 0.2% in 1998 Q1, but this was depressed by
+
+higher income tax payments under the new self-assessment arrangements. Underlying growth in
+
+incomes and wealth remained strong: real labour income had grown by 1.8%, and personal sector
+
+net financial wealth had grown by 7.2%, mostly reflecting higher equity values.
+
+A22 Investment growth in 1998 Q1 had been revised up from 1.3% to 3.8%. Much of the
+
+revision had been accounted for by unusually large one-off items in the public corporations and
+
+energy/utilities sectors, including a reclassification of tube trains from stocks to investment.
+
+Excluding these factors, investment in both the services and manufacturing sectors had fallen
+
+during the quarter. And industrial and commercial companies’ cashflow position might have
+
+worsened. Although the £3.4 billion financial deficit in 1998 Q1 was similar to that in 1997 Q4,
+
+the previous quarter’s income had been depressed by windfall tax payments. Stockbuilding in Q1
+
+had been revised down from £1.4 billion to £0.9 billion. There was little sign yet of an unusually
+
+large build-up of stocks at an aggregate level: the economy-wide stock/output ratio fell in Q1.
+
+The manufacturing stock/output ratio had risen slightly, however.
+
+A23 The outlook for investment remained mixed. The CBI and BCC surveys had both shown
+
+falling manufacturing investment intentions for Q2. But forward-looking indicators for
+
+construction investment were reasonably robust: although construction orders had fallen by 5% in
+
+the three months to May, they remained higher than in much of the previous year.
+
+A24 The current account balance was -£3.2 billion in 1998 Q1, the first quarterly deficit since
+
+1996 Q3 and the largest since 1992 Q4. Part of the deficit was accounted for by erratically high
+
+transfers to the European Union, but the trade balance and investment income had also fallen. In
+
+particular, trade in services declined by a record £0.6 billion, accounting for much of the
+
+-0.7 percentage point net trade contribution to GDP growth over the quarter.
+
+A25 The underlying trade position had continued to become more negative. Although the
+
+headline deficit on goods fell in April, this was entirely because of trade in oil and erratic items
+
+
+-----
+
+with non-EU countries. Excluding these factors, the deficit increased. The total goods deficit was
+
+£5.1 billion in the three months to April, compared with £3.9 billion in the previous three months.
+
+Excluding oil and erratics, both export and import volumes had fallen in April. Export volumes to
+
+the non-EU countries had shown the biggest falls, perhaps reflecting the continuing impact of the
+
+downturn in East Asia. Falling imports had been particularly marked in intermediate goods and
+
+cars. Surveys indicated a continued weakening in export orders for both services and
+
+manufactured goods.
+
+A26 Government expenditure had been revised up in both 1997 Q4 and 1998 Q1 in the National
+
+Accounts, leaving growth between the quarters unchanged at -0.4%.
+
+A27 The Chancellor had set out the foundations for the forthcoming Comprehensive Spending
+
+Review in the Economic and Fiscal Strategy Report. Departmental spending limits would be set
+
+on a three year basis: the remainder (around half the total) would continue to be managed on an
+
+annual cycle. Limits would be based on the assumption of real growth in current spending
+
+averaging 2¼% per annum over the next three fiscal years, while net public investment growth
+
+would almost double as a share of GDP over this period.
+
+A28 The government’s new preferred indicator for monitoring the fiscal deficit was public sector
+
+net borrowing (previously termed the public sector financial deficit). This was not yet available on
+
+a monthly basis. The latest monthly fiscal release consequently continued to focus on the public
+
+sector net cash requirement (PSCNR), the new name for the PSBR. The PSCNR was £2.5 billion
+
+in May.
+
+A29 Industrial production had risen by 1% in April, but was almost entirely accounted for by
+
+higher levels of energy extraction and supply, largely as a result of cold weather. Manufacturing
+
+output had risen by only 0.1% on the month, and annual growth was flat. The CIPS and CBI
+
+manufacturing output surveys were both consistent with negative growth, suggesting a weaker
+
+position than the official data, having previously pointed to rather stronger growth. The CIPS
+
+services survey balance had fallen again, but was still positive, suggesting moderating, but still
+
+strong, services output growth. The scope of this survey was limited, however - it did not cover
+
+retailing or financial services. The CIPS construction survey balance had turned up, indicating
+
+continuing strong output growth in that sector.
+
+A30 UK trade-weighted GDP in the major six overseas economies had grown by 0.5% in 1998
+
+Q1. Within this, US growth had been a little stronger than expected at the time of the May
+
+_Inflation Report largely because of upward revisions to stocks, but Japanese growth had been_
+
+significantly weaker, with GDP falling by 1.3% in Q1. Japan was in recession: both domestic
+
+demand and net trade had made negative contributions to Q1 GDP growth, and a significant stock
+
+overhang was expected to act as a drag on future growth. More recent data on Japanese industrial
+
+
+-----
+
+production, household confidence and the Tankan survey had pointed to continued domestic
+
+weakness. Subdued domestic demand had depressed imports, and the current account surplus had
+
+risen to around 3% of GDP.
+
+A31 Q1 GDP growth in the United States, France and Germany had been characterised by strong
+
+domestic demand growth, offset by large negative net trade contributions. This appeared to have
+
+continued into Q2, but with some country-specific developments. In the United States, industrial
+
+production, retail sales and consumer confidence measures had all pointed to robust growth during
+
+the quarter, but there was some evidence from the National Association of Purchasing Manager’s
+
+(NAPM) survey of a slowdown in manufacturing output. Industrial production was growing rapidly
+
+in France and Germany, at around 5%. The underlying picture appeared rather stronger in France
+
+than Germany, however: France was now enjoying strong employment growth, but this was not
+
+the case in Germany. Apart from Italy, other countries in the euro area were typically experiencing
+
+relatively rapid rates of growth.
+
+A32 The effects of the Asian crisis were now apparent in international trade flows. Most G7
+
+countries had seen falling exports to the region, although there was less evidence of a significant
+
+rise in imports. The change in the trade balance with Asia (excluding Japan), in 1997 Q4 and
+
+1998 Q1 compared with the previous two quarters had amounted to -0.5% of nominal GDP in
+
+Germany, -0.4% in France and -0.2% in the United States. The US figure was lower partly
+
+because of recent volatility in the trade data, and because trade accounted for a relatively small
+
+proportion of US GDP. Simple accounting suggested that a rise in the Asian trade surplus
+
+(including Japan) equivalent to 1% of regional GDP might reduce EU and US GDP by around
+
+0.3%. The latest Consensus Forecast suggested that market commentators now expected little or
+
+no growth during 1998 in the Asia-Pacific region (which accounted for 11% of UK exports). And
+
+forecasts were still being revised downwards.
+
+A33 There was some evidence that global financial risks had increased. Investor nervousness had
+
+contributed to pressures in Russia, South Africa, Chile and Mexico during the previous month.
+
+And there had been some speculation about a possible Chinese devaluation, before the intervention
+
+to support the yen.
+
+III Labour market
+
+A34 LFS employment had risen by 61,000 (0.2%) in the three months to April 1998 over the
+
+previous three months. This was faster than the rise in the three months to January (48,000), and
+
+the rise in the three months to March reported a month ago, but slower than the average quarterly
+
+growth over the past year (0.3%). Almost all of the rise in the three months to April was in
+
+part-time workers. The Workforce Jobs measure showed stronger growth, rising by 116,000
+
+(0.4%) in 1998 Q1 and by 429,000 on the same quarter a year earlier. Since the latter survey has a
+
+
+-----
+
+slightly higher sampling variability, the former may be a more reliable guide. LFS total hours
+
+worked had risen by 0.6% in the three months to April, and were 0.8% higher than a year earlier.
+
+This suggested that hours worked per person rose in the three months to April, but were lower
+
+than a year earlier. But the hours worked series is volatile, and so single comparisons may be
+
+misleading. The trend in total hours worked still seemed to be upwards, though it may have
+
+flattened somewhat.
+
+A35 A new weighted aggregate CIPS survey (latest month June) suggested that employment
+
+growth in 1998 was slower than in 1997, though the pace of growth had increased moderately in
+
+recent months. But it was still consistent with employment growth of more than 1% a year,
+
+substantially higher than the growth of the working-age population. The individual CIPS surveys
+
+indicated continued strong growth in services and construction employment in June, though the
+
+rate of increase implied by the construction indicator fell. But there had been a marked
+
+deterioration in manufacturing employment in June. This sectoral picture was supported by
+
+reports from the Bank of England’s regional Agents.
+
+A36 The most recent Manpower survey, referring to employment intentions in Q3, showed a
+
+slowdown compared with the previous quarter, with the balances around the same level as a year
+
+earlier. A new monthly survey by the Federation of Recruitment and Employment Services (FRES)
+
+and NTC Research provided more information about the labour market. The FRES Job Market
+
+Index combined newspaper recruitment advertising with recorded vacancies to produce a leading
+
+indicator of employment growth. The index had peaked in around mid 1997, and now suggested
+
+continued employment growth, but at a slower pace. Other indicators derived from the FRES
+
+survey seemed to indicate continued labour market tightness, though they had a small back run,
+
+and it was as yet hard to interpret the level of balances in the indicators. Permanent and temporary
+
+placements through recruitment agencies continued to rise in June, and the demand for staff across
+
+all occupational categories was still increasing. This led to increasing unavailability of staff and
+
+further upward pressure on agencies’ pay rates.
+
+A37 The stock of recorded vacancies (adjusted for overcount) had risen by 10,000 in May, with
+
+the trend continuing upwards. But notifications of new vacancies fell, and the level of job
+
+advertising in the national press seemed to be levelling off. This might imply that demand was
+
+beginning to slow, but also that vacancies were becoming harder to fill.
+
+A38 LFS unemployment in the three months to April had fallen by 35,000 over the previous three
+
+months, the rate falling by 0.1 percentage point to 6.4%. This was similar to the fall in the three
+
+months to March, though lower than in the three months to January, suggesting again that the
+
+labour market was still tightening, but at a slower pace. But employment growth in the three
+
+months to April had been slightly stronger than in the three months to January, as the rise of
+
+
+-----
+
+inactivity slowed. Claimant count unemployment had risen slightly in May by 1,700, though the
+
+rate remained unchanged at 4.8%.
+
+A39 The twelve-month average of wage settlements in the whole economy in May was 3.5%.
+
+This was unchanged from the (downwardly revised) provisional April figure, though the general
+
+movement in the twelve-month averages appeared to be upwards, driven by higher private sector
+
+settlements, which increased to 4% in May.
+
+A40 Headline annual earnings growth rose to 5.2% in March from 4.9% in February, with
+
+services and manufacturing earnings growth both increasing by 0.3 percentage point. But
+
+provisional monthly changes were lower in April, the whole-economy twelve-month rate falling
+
+from a revised 5.6% in March to 5.1% in April. Headline private sector earnings growth rose to
+
+5.9% in March from 5.6% in February, with the public sector measure unchanged from a
+
+downwardly revised 2.5%.
+
+A41 Whole-economy productivity rose by 1.4% in the year to 1998 Q1, unchanged from the rate
+
+of growth in Q4. But annual growth in unit wage costs slowed to 3.2% from 3.6%, implying a
+
+slowdown of wage growth per head - contrary to the Average Earnings Index. This was probably
+
+because the wage data for Q1 used in the unit wage cost calculations were provisional and because
+
+the 1997 Q1 data used in the annual calculation would not be revised until later in the year. When
+
+revisions were made, unit wage cost growth would quite possibly turn out to be higher.
+
+A42 Some analysis was presented on the influence of bonuses and profit-related pay (PRP) on
+
+earnings growth. It was possible to analyse changes in average earnings growth by taking a
+
+moving average of yearly pay - ie the past twelve months on the previous twelve months - which
+
+should not be distorted by the timing of one-off payments. On this measure, average earnings
+
+growth was drifting steadily upwards, particularly in the private sector. But that was a
+
+backward-looking indicator, and would always be slow to show a changing trend.
+
+A43 The ONS had attempted to identify irregular bonuses and PRP payments from survey
+
+returns, in which firms ticked a box if there had been a significant change in bonuses paid. Though
+
+the data were less reliable and surrounded by more uncertainty than the average earnings index
+
+itself, their results suggested that such payments had a seasonal pattern and had been growing in
+
+recent years. This growth could be biased upwards if some firms paid irregular bonuses in two
+
+successive years but only ticked a box in the second one, not considering their first year bonuses
+
+significant. But as the proportion of firms ticking boxes in 1997 and 1998 had risen only a little,
+
+ONS estimates were consistent with limited bias from this source. The estimates showed a pick-up
+
+in the growth of the regular component of pay in April. And looking forward, though the
+
+estimates showed that the contribution of irregular bonuses typically became smaller over the
+
+summer, past evidence suggested that they would continue to have an effect on earnings growth.
+
+
+-----
+
+A44 Some analysis was presented on why firms might choose to pay larger bonuses and PRP
+
+rather than fixed salaries, and what such payments implied about labour market tightness. There
+
+were several motives for increasing the proportion of pay accounted for by bonuses or other
+
+irregular payments. Firms might use such payments to motivate existing workers by increasing
+
+work effort or incentives, to recruit good workers by helping selection, to retain good workers
+
+more cheaply by allowing flexibility under changing conditions, or for institutional reasons such as
+
+the tax relief available on PRP schemes. So the rise in bonuses might have several causes,
+
+including a structural trend towards more merit-based pay systems (perhaps linked to less trade
+
+union power and more pay decentralisation), a tightening labour market making recruitment and
+
+retention more difficult, or higher productivity or profitability increasing the bonus pot available.
+
+It was difficult to identify these elements separately, especially since corporate profitability was
+
+high, but recorded productivity growth was low.
+
+A45 There would be several influences on the direction of bonuses and merit-based pay. These
+
+would include a long-term structural trend towards higher merit pay, possibly offset by a slowing
+
+in profit growth, reducing profit-related payments. The outlook for unemployment and skill
+
+shortages would affect the use of bonuses to retain and recruit, while the phasing-out of PRP tax
+
+benefits might lead to a decrease in the use of PRP schemes. At the very least, the elimination of
+
+PRP tax benefits should lead to some pressure for firms to compensate workers to maintain their
+
+take-home pay, though this had probably not yet been a very large influence on aggregate pay
+
+settlements.
+
+A46 The Bank’s regional Agents had conducted a small survey of their contacts on the use of
+
+bonus payments. Use of bonuses was widespread: around two thirds of companies made irregular
+
+payments and around half made regular payments. Only around 14% of their sample paid no
+
+bonuses at all - though the sample had been selected with likely bonus payers in mind - and of the
+
+financial services companies interviewed, almost all paid bonuses.
+
+A47 Of those who made one-off (ie annual) bonus payments, more than 60% of service
+
+companies but only 40% of manufacturers had recently increased them at a faster rate than basic
+
+pay. Financial services companies were particularly likely to have increased bonus payments
+
+relatively fast. For those making regular (eg monthly) payments, rather fewer had increased them
+
+relative to basic pay.
+
+
+-----
+
+A48 The survey asked firms what factors motivated bonus payments, and of these, which was the
+
+most important, though it did not distinguish between how such payments were calculated and the
+
+original aim of paying them. Of those who paid bonuses, the largest group cited profits and
+
+profitability as the most important factor. Companies tended to look to past rather than current
+
+profits, in a ratio around 2:1. Stronger 1997 profits would in many cases be reflected in
+
+January-April bonuses in 1998. The second largest group cited targets such as productivity and
+
+sales as the most important factor, and the third (mainly service sector companies) retention and
+
+recruitment.
+
+A49 Respondents’ attitudes to bonuses were that the emphasis on such payments was increasing
+
+as managers look to motivate workforces and to make remuneration more flexible. Some
+
+managers, particularly in service sector companies, considered that their employees had come to
+
+expect minimum bonuses. But still slightly less than half of firms overall regarded such payments
+
+as part of normal labour costs, rather than an extra award.
+
+IV Prices
+
+A50 The Bank’s sterling commodity price index had risen by 1.3% in May, bringing its annual
+
+inflation rate to -10.6%. Excluding oil prices, the index rose by 0.6% on the month to a level 7.0%
+
+lower than in May 1997. A fall in metals prices had been more than offset by rises in food and oil
+
+prices in May. But oil prices had fallen again in June - despite OPEC’s agreement on 24 June to
+
+make further supply cuts - by 7.3% compared with May, as supply remained above demand. The
+
+oil price remained erratic, but the trend was probably flat.
+
+A51 Annual input price deflation had persisted - input prices were last as low in 1988 (excluding
+
+April), and they fell by 17.4% in the two years to May - and the June CIPS survey had suggested
+
+further falls, although the ONS data showed a 0.3% rise in input prices in May, bringing the annual
+
+inflation rate to -8.9%. Output prices were also falling. Excluding taxes and excise duties they
+
+had fallen in the first four months of 1998 and were flat in May; the annual rate of inflation of
+
+PPIY had fallen to -0.4% in May, the lowest since 1974 (when the series begins). The June CBI
+
+survey had suggested further output price falls - the balance of expected prices (seasonally
+
+adjusted) had reached another all-time low in June of -19. The breakdown of the Bank’s
+
+manufacturing margins data had suggested that unit labour costs were still rising quickly - by 5% in
+
+the year to May - but evidence from the Bank’s Agents suggested that manufacturers found it
+
+difficult to pass higher labour costs on to their customers. RPIX goods inflation and producer
+
+output-price inflation had been closely correlated in the past.
+
+
+-----
+
+A52 Trade prices had fallen again in April: import prices excluding oil by 0.4%, and export prices
+
+by 0.2%. But non-EU foreign trade prices had both risen in May: by 1.3% and 0.7% respectively.
+
+The picture had not changed appreciably in 1998, with annual inflation of both import and export
+
+prices close to -4%. Retailers’ margins were estimated to have narrowed further in Q1. Estimated
+
+retail margins were close to their long-run average.
+
+A53 The annual rate of both GDP (at factor cost) and retail sales deflator inflation, at 1.6% and
+
+1.1% respectively, remained below all headline measures of RPI inflation in the first quarter. This
+
+was principally accounted for by the investment and government consumption deflators. But the
+
+annual inflation rate of the consumers’ expenditure deflator at market prices was also lower than
+
+RPIX inflation in the first quarter: the two measures differ in both construction and coverage.
+
+A54 The annual rate of HICP inflation had increased by 0.1 percentage point in May, to 2.0%.
+
+The difference between the two measures had increased to 1.2 percentage points, the biggest yet
+
+recorded. This seemed to be largely because of two factors: the difference made by the use of the
+
+geometric mean in the calculation of the HICP, compared with the arithmetic mean in the
+
+calculation of RPIX, increased by 0.05 percentage points; and housing depreciation, which was
+
+included in RPIX but not in the HICP, had contributed a further 0.1 percentage point to the increase
+
+in the difference. The recent profile of the UK’s HICP inflation rate had been very similar to that of
+
+the European Union as a whole, but remained about 1 percentage point above the HICP inflation
+
+rates in Germany and France. Part of the recent rise in inflation in the United Kingdom - fresh
+
+food prices - had also occurred in these countries.
+
+A55 Against expectations, all the main RPI inflation measures had risen in May: RPIX to 3.2%;
+
+RPI to 4.2%; and RPIY to 2.5%. The surprise had come almost exclusively from goods prices,
+
+although housing depreciation had also been higher than expected. The main contributors to the
+
+surprise in goods prices inflation were seasonal food, clothing and footwear, and household goods.
+
+A56 Seasonal food prices had risen by 8.3% in May, as bad weather in April destroyed crops.
+
+This shock may not have been fully unwound in June, but is unlikely to have any medium-term
+
+implications. Both clothing and footwear and household goods prices are highly seasonal. In both
+
+sectors, discounting at sales appeared to be increasing, and discounting at mid-season furniture
+
+sales in April was greater than in previous years. It might be that the price rises, particularly in
+
+household goods, were partly to enable greater discounting in the July sales. And evidence from
+
+the Agents and the ONS suggests that the fine weather in early May, following the wet weather in
+
+April, might have stimulated demand for clothing. Prices could therefore fall in June, and fall by
+
+more than is usual in July, and have little medium-term implication. But the price rises may signal
+
+a smaller appreciation effect, or stronger domestic demand, than had been previously been
+
+expected, so there were clear upside risks.
+
+
+-----
+
+A57 Housing depreciation was a relatively new component of the RPI, having been introduced in
+
+1995. It was based on the DETR and Halifax house price measures. The DETR measure of
+
+house-price inflation had shown a sharp increase in March and April, at a time when both the
+
+Halifax and Nationwide measures were roughly stable, so the sharp increase in housing
+
+depreciation inflation might prove temporary.
+
+V Financial markets
+
+_Foreign exchange_
+
+A58 Yen volatility was a key feature of the month. On a longer time-horizon, there had been a
+
+general weakening of the yen against other major currencies, but a strengthening against East
+
+Asian currencies (which together are as important to Japanese exporters as the European Union).
+
+The yen had moved less against an intermediate group of currencies, including the Canadian dollar,
+
+the Australian dollar and the rand, which had tended to weaken in the face of lower commodity
+
+prices. For much of June the yen had been weak, reflecting the weakness of the economy,
+
+problems in the banking sector and uncertainties over fiscal policy. On 17 June, there was a well
+timed intervention by the Bank of Japan and the US Federal Reserve, and the yen initially rose
+
+sharply against the dollar, from ¥142 to ¥137. But when no new policy announcements were made
+
+following the G7 meeting in Tokyo, the yen drifted back towards pre intervention levels.
+
+A59 Information from options markets had shown that the one-month implied volatility for $/yen
+
+was typically higher than for $/Mark. However, the differential was greater than at any time in the
+
+previous ten years. Uncertainty about the $/yen exchange rate, as measured by the width of the
+
+70% confidence band from the implied probability distribution for the exchange rate level three
+
+months ahead, had risen sharply over the month. At the same time, the distribution had become
+
+more skewed in favour of yen weakness. The BoJ/Fed intervention had had no lasting impact on
+
+either of these measures. The implied twelve-month implied correlation between the dollar and
+
+yen (using the Swiss franc as numeraire) had fallen sharply over the month, from 0.39 to 0.27, and
+
+the effect of the intervention was again temporary.
+
+A60 The DM had weakened to DM1.82 against the dollar - the lowest level since Easter. Events
+
+in Russia, and perhaps reduced expectations of interest rate increases in Europe, had been
+
+dominant factors. Meanwhile sterling had appreciated steadily during the month by 3% in effective
+
+terms. The rise in interest rates on 4 June had taken the market completely by surprise with
+
+sterling rising by more than a cent to $1.65 and by more than three pfennigs to DM 2.93. But by
+
+the end of the day, sterling was back at its starting levels. Since domestic interest rates were up
+
+across the board, the fall had not been because the market thought interest rates had peaked, and
+
+changes in volatility measures suggest that it was not entirely consistent with a view that MPC
+
+
+-----
+
+would be more likely to move rates either up or down. Alternatively, the answer might have been
+
+sterling’s failure to break a technical resistance point at DM 2.93. Following 4 June, there had
+
+been a two-week period in which sterling was relatively flat against the dollar, as the dollar
+
+appreciated against the yen, and rose against the Mark. So Asia and Russia-related ‘safe-haven’
+
+flows may have been a factor. The following week, stronger-than-expected data had led to a rise
+
+in sterling. Since then, there had been a slow and steady appreciation of sterling against the Mark,
+
+but a stable period against the dollar.
+
+_Bond and money markets_
+
+A61 The MPC’s decision to raise interest rates on 4 June had surprised the markets. Implied
+
+future three-month interest rates had risen by just over 0.25% at the short end (September and
+
+December 1998 short sterling contracts), and by 15 basis points at the two year maturity - the
+
+biggest one-day movement for several years. As well as being surprised by the rise, some contacts
+
+had said that they were now more uncertain about the path of official rates and about the MPC
+
+process itself. The other main influence on the money market was UK data, particularly RPIX,
+
+retail sales and the labour market data. The market had interpreted the data as something that the
+
+MPC may react to in the future, and in total the short sterling curve had moved up by 70 basis
+
+points in the period since the previous MPC meeting. The probability distribution for short-term
+
+interest rates in March 1999 derived from options prices had shifted to the right during the month,
+
+reflecting the increase in the mean rate. And there had also been an increase in uncertainty (as
+
+measured by the standard deviation). However, the rise in uncertainty did not occur on the day of
+
+the interest rate change, but appears to have happened later in the month as data were published.
+
+One interpretation is that the increase in market uncertainty mainly reflected the new data, rather
+
+than questions about how MPC was likely to react to any given set of data.
+
+A62 In the bond market there had been a further inversion of the yield curve. At two years ahead,
+
+the forward rate had risen about 35 basis points, whereas at 20 years they had fallen around 40
+
+basis points. In the part of the month when UK yields were falling most clearly, so too were yields
+
+in major overseas markets. Deflationary potential from Asia seemed likely to have been a factor in
+
+lower world yields, although the direct impact of Japanese and other Asian news on UK gilt yields
+
+had not been great. This period also included the Chancellor’s fiscal statement.
+
+
+-----
+
+_Equity markets_
+
+A63 The FT-SE All-Share index was unchanged over the month whereas equity markets in other
+
+major economies had risen in local currency terms. This relative underperformance in the FT-SE
+
+All-Share index had reflected in particular a fall in the value of smaller stocks and in the General
+
+Industrials sector of the index.
+
+A64 A survey conducted roughly every six months provided evidence on the expectations of
+
+academic and city forecasters for nominal corporate profit growth up to six years ahead. The six
+
+year ahead forecast had fallen from around 11% per annum in 1993 to about 6% per annum in late
+
+1995, since when it had been roughly constant. But inflation expectations derived from the gilts
+
+market had been falling during this period. This implies that expected real profits growth for six
+
+years ahead had risen from around 3.5% per annum in later 1995 to about 3.9% per annum in May
+
+1998. Making a number of very strict assumptions, it was also possible to derive an indicative
+
+estimate of the equity risk premium that these forecasts for profits growth might imply. The
+
+implied equity risk premium derived in this way had fallen from around 7% in June 1993 to about
+
+4% in May 1998. Taken together, these estimates provided a sense of the market views that might
+
+underlie the level of the UK equity market.
+
+
+-----
+

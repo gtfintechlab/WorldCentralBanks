@@ -1,0 +1,99 @@
+# Press Release MONETARY PROGRAM FOR MAY 2006
+ CENTRAL BANK RAISES REFERENCE RATE FROM 4.25% TO 4.50%
+
+1. The Board of the BCRP acknowledge the following information:
+
+a. The recent evolution of the inflation rate is associated to a rise in the
+prices of some products in particular, and this rise is connected to
+transitory factors affecting the supply.
+
+The Consumer Price Index of Metropolitan Lima (CPI) increased
+0.51 percent in April, 0.45 percentage points of which are explained
+by a rise in the price of sugar. In the case of the accumulated
+inflation for January-April 2006 (2.0 percent), the prices of sugar,
+poultry meat, and potato account for 1.3 percent of this figure. In the
+case of the inflation rate over the last twelve months (2.9 percent),
+again the rise in the prices of potato and sugar, as well as in the
+price of fuels, account for 1.5 percentage points.
+
+The core inflation rate –an indicator that expresses the trend in price
+increases, but isolates the most volatile components of the CPI- over
+the last 12 months was 1.4 percent.
+
+b. Economic activity recorded a growth of 4.9 percent in February 2006,
+with a 7.5 percent increase in the domestic demand (private
+investment grew by 23.3 that month). As in previous months,
+demand indicators show the constant dynamism of economic activity.
+
+c. The average exchange rate decreased 0.27 percent in April, falling
+from S/. 3.34 in March to S/. 3.33 per dollar, as a result of which the
+real exchange rate increased 0.2 percent (a 2.1 percent real
+depreciation in the last twelve months) due to the depreciation of the
+dollar against other currencies. The BCRP did not intervene in the
+exchange market in April.
+
+d. The Central Bank continued carrying out significant repo auctions in
+April in order to both revert exceptional upward pressures on the
+interbank interest rate and to stabilize it around the reference interest
+rate (4.25 percent in April).
+
+The average interest rate in the interbank market was 4.26 percent at
+the end of April (4.76 percent lower than last month’s), while the
+corporate prime rate for loans in soles went from 7.3 at the end of
+March to 6.4 percent at the end of April.
+
+e. The country risk indicator decreased from 187 basis points at the end
+of March to 181 basis points at the end of April. In turn, the 15-year
+maturity sovereign bond yield decreased from 8.25 to 8.06 percent.
+
+
+-----
+
+2. The Board of the Central Bank approved to raise the reference interest
+rate for the interbank market from 4.25 percent to 4.50 percent. This
+decision has been made taking into account the following considerations:
+
+a. The dynamism of economic activity for 2006 (5.0 percent) is
+consistent with the continuous accomplishment of the inflation target
+(between 1.5 and 3.5 percent).
+
+b. The rise in the interest rate will contribute to reduce volatility in the
+exchange market. If necessary, the Bank will intervene and reduce
+volatility by selling exchange currency at spot market and carrying
+out auctions of Adjustable Certificate Deposits (CDRBCRP) in order
+to avoid undesirable effects over prices and economic activity in
+general.
+
+3. This decision does not imply a sequence of rises in the reference interest
+rate.
+
+4. The Board approved the following interest rates for the Central Bank
+operations:
+
+a. For direct repo operations and for rediscount facilities, the rate rises
+to 5.25 percent.
+
+b. For overnight deposits, the rate rises to 3.75 percent.
+
+5. The interest rates for the following operations in dollars between the
+Central Bank and the Financial system are established as follows:
+
+a. Rediscount facilities: 1-month LIBOR plus one percent.
+
+b. Overnight deposits: overnight LIBOR minus 3/8 of a percentage
+point.
+
+c. Swap: the commission is raised to a level that implies a minimum
+annual effective cost of 5.25 percent.
+
+d. Reserve requirements in foreign deposits subject to payment remain
+at 2.25 percent.
+
+6. The Board will approve the following Monetary Program (June 2006) on
+the session to be held on June 1, 2006.
+
+.....................................
+
+
+-----
+

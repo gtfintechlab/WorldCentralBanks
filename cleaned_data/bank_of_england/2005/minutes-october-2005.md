@@ -1,0 +1,511 @@
+### Publication date: 19 October 2005
+
+## MINUTES OF
+# MONETARY POLICY COMMITTEE MEETING
+## 5 and 6 October 2005
+
+##### These are the minutes of the Monetary Policy Committee meeting held on  5 and 6 October 2005.
+
+ They are also available on the Internet http://www.bankofengland.co.uk/publications/minutes/mpc/pdf/2005/mpc0510.pdf
+
+ The Bank of England Act 1998 gives the Bank of England operational responsibility  for setting interest rates to meet the Government’s inflation target. Operational  decisions are taken by the Bank’s Monetary Policy Committee. The Committee meets  on a regular monthly basis and minutes of its meetings are released on the  Wednesday of the second week after the meeting takes place. Accordingly, the  minutes of the Committee meeting held on 9 and 10 November will be published on  23 November 2005.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 5-6 OCTOBER 2005
+
+1 Before turning to its immediate policy decision, the Committee discussed developments in
+
+financial markets; the international economy; money, credit, demand and output; and supply, costs
+
+and prices.
+
+**Financial markets**
+
+2 UK short-term interest rates had edged slightly higher during the month. Financial markets were
+
+attaching only a relatively small probability to a further reduction in the Bank’s official repo rate
+
+during 2005, although markets continued to expect another quarter-point rate cut in the first half of
+
+2006. The Reuters poll of economists painted a similar picture of rate expectations, and respondents
+
+were unanimous in expecting no change in the Bank’s official repo rate at the October meeting. The
+
+upwards drift in UK short rates had come despite some downside news on GDP growth. It was
+
+therefore possible that the increase in UK short rates reflected international factors such as oil, rather
+
+than domestic factors. There had been little change in longer-term rates, either in the United Kingdom
+
+or abroad.
+
+3 Sterling’s effective exchange rate index (ERI) had fallen by around 1½% since the September
+
+meeting, but remained above its starting level in the August Inflation Report projections. The main
+
+bilateral exchange rate movement had been against the dollar, with sterling weakening by more than
+
+4% over the past month. Exchange rate movements appeared broadly consistent with movements in
+
+relative interest rates.
+
+4 Equity markets had continued to move higher. In the United Kingdom, the FTSE All-Share
+
+index had risen by 1% on the month to around 3½% above its level at the time of the August Inflation
+
+_Report. The rise was broadly based, and was not confined to the oil sector. Share prices in the euro_
+
+area and in Japan had also risen since the Committee’s September meeting, but US share prices had
+
+declined.
+
+
+-----
+
+2
+
+5 The Committee considered a variety of reasons for the strong performance of equity prices since
+
+their trough in March 2003. In part, it was likely to be related to the decline in real long-term interest
+
+rates over that period. It was also possible that a prolonged period of economic stability had led to a
+
+lowering in the equity risk premium, which would support equity prices. Another possible explanation
+
+was that, due to globalisation and trade liberalisation, companies in the developed world were
+
+increasingly able to tap into a large supply of relatively low-cost labour, potentially raising their return
+
+on capital and leading to increased optimism about corporate earnings growth.
+
+**The international economy**
+
+6 Relative to the August Inflation Report projections, there had been relatively little news on
+
+growth prospects in the international economy. Oil prices had fallen since the September meeting, but
+
+remained significantly above their level at the beginning of 2005. Inflation pressures appeared to be
+
+mounting in some countries, notably the United States, in part reflecting the impact of the cumulative
+
+increase in the oil price over the past year.
+
+7 In the United States, the latest estimate of GDP growth for Q2 was 0.8%, unrevised from the
+
+previous estimate. Indicators for July and August had suggested that the Q3 growth rate would be
+
+similar to that in Q2. Data for September had been more volatile, perhaps reflecting the effects of
+
+Hurricane Katrina, which had clouded the underlying picture.
+
+8 In the euro area, Q3 indicators on household expenditure had been mixed, but corporate
+
+conditions had appeared a little brighter. For example, there had been increases during September in
+
+the Purchasing Managers Indices (PMIs) for both the manufacturing and services sectors.
+
+9 The news from Japan had been better than expected in the August Inflation Report. GDP growth
+
+in Q2 had been revised up by 0.5 percentage points to 0.8%. Indicators for Q3 were encouraging, with
+
+the manufacturing PMI pointing to expansion and the Tankan survey relatively upbeat. China
+
+continued to expand robustly.
+
+10 Since the September meeting, the spot price of a barrel of Brent crude oil had fallen by almost
+
+7% in dollar terms and by around 2.5% in sterling terms. In dollar terms, the crude oil price was
+
+roughly double its level at the beginning of 2004. The increase in the price of crude oil since early
+
+
+-----
+
+3
+
+2004 was likely to have reflected both demand and supply considerations. Although the growth in
+
+world oil consumption in 2005 appeared to have slowed relative to 2004, it remained firm. There were
+
+considerable uncertainties about oil supply, and the future path of oil prices remained extremely
+
+unclear. Spreads between the prices of refined petroleum products and the price of crude oil had
+
+remained high in the United States, primarily reflecting the relative shortage of spare refining capacity.
+
+11 Inflation had risen in a number of countries, in part reflecting the cumulative rise in the oil price.
+
+In the euro area, the September flash estimate of the annual rise in the Harmonised Index of Consumer
+
+Prices (HICP) had been 2.5%, up 0.3 percentage points from August. In the United States, headline
+
+consumer price inflation had risen 0.4 points to 3.6% in August; excluding food and energy prices,
+
+inflation was stable at 2.1%. There had been a rise in the University of Michigan measure of one year
+
+ahead inflation expectations, but longer-term indicators of inflation expectations had been more stable.
+
+**Money, credit, demand and output**
+
+12 Despite some easing in August, both broad money and M4 lending had continued to expand at
+
+robust annual rates. The annual growth rate of unsecured lending to individuals had continued to slow
+
+from earlier high rates. Nominal GDP growth had eased to an annual rate of 4.2% in Q2, the lowest
+
+since 2001 Q3.
+
+13 GDP growth in the United Kingdom had been left unrevised at 0.5% in Q2, but revisions had
+
+meant that the four-quarter growth rate was now estimated at 1.5%, the lowest for twelve years. The
+
+revisions had meant that the level of GDP in 2005 Q2 was around 0.3% lower than previously
+
+estimated.
+
+14 On the output side, the downward revisions to the four-quarter growth rate were mainly
+
+concentrated in the service sector. Those revisions had increased the divergence between the service
+
+sector growth rate implied by official data and that implied by business surveys. For some time,
+
+survey-based indicators of service sector growth had been suggesting that official data would be
+
+revised higher. But given that these upward revisions had so far failed to materialise, it was possible
+
+that survey-based indicators were overstating the degree of service sector momentum. As the
+
+Committee had discussed in previous meetings, there were sizable standard errors surrounding both
+
+official estimates and survey-based estimates of service sector growth.
+
+
+-----
+
+4
+
+15 There also appeared to be inconsistencies between official figures on output growth and other
+
+gauges of economic activity. For example, the slowing of the service sector portrayed by official GDP
+
+data sat uncomfortably with signs of strong service sector profitability. In addition, the marked
+
+slowing of whole-economy output growth appeared at odds with the relatively moderate weakening in
+
+employment growth. One possible explanation was that output growth had been under-recorded.
+
+Alternatively, employment could have been over-recorded, or companies could have been hoarding
+
+labour in the belief that the slowing in output growth would prove temporary.
+
+16 Looking ahead to Q3 output prospects, the picture for manufacturing was mixed. Official
+
+figures for July had pointed to a slight rise in manufacturing output, but figures for August had
+
+indicated a 0.2% month-on-month decline. August figures had also shown a steep 0.9% decline in
+
+industrial production, reflecting unexpectedly large falls in energy extraction, in part related to
+
+maintenance. The September manufacturing survey published by the Chartered Institute of Purchasing
+
+and Supply (CIPS) suggested moderate growth in the sector, consistent with the firmer tone of global
+
+surveys of manufacturing. The September CIPS survey for the services sector pointed to continued
+
+steady growth.
+
+17 On the expenditure side, Q2 consumption growth had been revised up by 0.2 percentage points
+
+to 0.4%. Despite this upward revision, the overall pace of consumption growth remained sluggish.
+
+The Committee considered a number of reasons for this. One possible explanation was that growth in
+
+real post-tax labour income had been decreasing in the first half of 2005. There also appeared to have
+
+been a greater degree of caution on the part of consumers, consistent with a weakening in consumer
+
+confidence and with a recent rise in the savings ratio.
+
+18 The Committee discussed the outlook for Q3 consumption growth. Retail sales had been soft in
+
+recent months, with recorded volumes unchanged in August. The headline retailing balance in the
+
+September CBI Distributive Trades Survey had fallen to its lowest since the survey began in 1983.
+
+Reports from the Bank’s regional Agents had suggested that the value of retail sales had been flat.
+
+Moreover, there was some evidence of a tightening of credit conditions for unsecured lending, and this
+
+could impinge on spending growth.
+
+
+-----
+
+5
+
+19 The sluggishness in retail sales may have exaggerated the weakness in overall consumer
+
+spending. Household demand for petrol and utilities was probably relatively insensitive to their price
+
+in the short term, so the increase in oil prices was likely to have increased the share of expenditure on
+
+these items. That would then have reduced the amount that consumers were willing or able to spend
+
+on other items. There had been tentative signs of a strengthening in the housing market, with a pickup
+
+in a range of activity and price indicators, which might help to support consumption. Overall, there
+
+were no signs of a material acceleration in consumer spending, but nor did there appear to be clear
+
+evidence of further weakening.
+
+20 Whole-economy investment growth had been revised down 0.5 points to 1.5%, but business
+
+investment growth had been revised up a percentage point to 1.5%. The upward revisions to Q2
+
+business investment growth were broadly consistent with the profile for investment embodied in the
+
+August Inflation Report. However, early estimates of business investment were often heavily revised:
+
+it was therefore difficult to be confident about the latest figures. The outlook for business investment
+
+in Q3 was far from certain. Financial conditions were generally supportive of investment spending,
+
+yet companies had reported weaker investment intentions in recent months, according to contacts of
+
+the Bank’s regional Agents.
+
+21 According to official data, net trade had made a 0.6 percentage point contribution to overall GDP
+
+growth in Q2. The turnaround in the net trade contribution in the first half of the year had been largely
+
+driven by a weakening of import growth, consistent with the subdued growth of consumer spending,
+
+particularly on durables. Although export growth was often erratic from quarter to quarter, the
+
+underlying picture was reasonably encouraging. For example, there had been a significant pickup in
+
+new manufacturing export orders in the September CIPS survey, and reports from the Bank’s regional
+
+Agents had suggested an increase in demand for manufacturing exports.
+
+**Supply, costs and prices**
+
+22 Before reviewing recent movements in costs and prices, the Committee discussed the
+
+implications for potential supply in the economy of both the oil price rise and recent migration data.
+
+23 It was possible that the recent large increases in the oil price could adversely affect potential
+
+supply. For example, the demand for capital could be affected directly by the changes in energy use
+
+
+-----
+
+6
+
+induced by the higher oil price, although the importance of this effect was unclear. In this regard, the
+
+Committee noted that a recent survey by the Bank’s regional Agents had suggested that higher energy
+
+prices were likely to be either passed through into prices or else absorbed into margins, with less
+
+impact on investment, at least in the short term.
+
+24 Perhaps the most quantitatively important impact of higher oil prices on potential supply could
+
+come indirectly if workers resisted any deterioration in real wage growth. As the Committee had
+
+discussed at its September meeting, the rise in the oil price would require the growth of the real
+
+consumption wage to be slower than it otherwise would have been if employment were to be
+
+sustained. If workers tried to bid up their wages in response to the higher oil price, then it was likely
+
+that there would be lower employment. Any effect of the rise in the oil price on potential supply
+
+growth would prove temporary, but nonetheless could still be relevant to the assessment of the
+
+pressures of demand on supply capacity over the policy horizon.
+
+25 The Committee considered recent revisions to population estimates. These revisions reflected
+
+rising net migration, and implied that, in 2005 Q2, the population aged 16 and over was almost
+
+140,000 higher than official data had originally suggested. The Committee had for some time believed
+
+that migration had been higher than suggested by official estimates, and had in the past largely
+
+factored this judgement into its Inflation Report projections.
+
+26 Looking ahead, the Committee had previously formed a view that migration was likely to
+
+continue to be a material influence on the evolution of potential supply. So it was not clear whether
+
+the latest migration estimates would have substantial implications for the Committee’s assessment of
+
+future increases in potential supply, or likely future pressures of demand on capacity. Even if the new
+
+data were to add to the Committee’s assessment of potential supply growth in the coming years, they
+
+would also add to growth in total demand.
+
+27 The Labour Force Survey (LFS) employment and unemployment rates were unchanged in the
+
+three months to July compared with the previous three months. Contacts of the Bank’s regional
+
+Agents reported that the jobs market was continuing to soften gently. Although employment growth
+
+had been a little weaker in 2005 than the Committee had expected, the loosening in the labour market
+
+had been much less pronounced than the slowing in output growth implied by the official data. As a
+
+result, measured labour productivity growth had slowed sharply. If both output and employment
+
+
+-----
+
+7
+
+growth had been accurately measured in 2005, this marked cyclical slowing in labour productivity
+
+growth could make employers more reluctant to take on new workers in the coming months.
+
+28 Wage pressures had remained relatively muted. There had been a moderate upwards drift in
+
+private sector wage settlements over the summer compared with the same time last year. Whole
+economy regular pay growth was broadly stable.
+
+29 News on other cost pressures had been mixed. Manufacturing input price inflation had fallen to
+
+12.7% in August, although there had been a rise in the corresponding CIPS survey balance in
+
+September. Manufacturing output price inflation excluding duties (PPIY) had edged up to 3.3% in
+
+August. Once duties and petroleum products were excluded, output price inflation was broadly stable
+
+at around 1½%. In the services sector, the September CIPS survey had suggested a substantial
+
+acceleration in input prices, and a gentle increase in output prices. But those CIPS survey balances
+
+had typically been a poor indicator of CPI services inflation.
+
+30 CPI inflation had risen further above target in August, to 2.4%. There was likely to be a further
+
+increase in CPI inflation in the short term, reflecting the continued impact of higher oil prices.
+
+However, there remained considerable uncertainty about the degree of pass-through from the oil price
+
+to CPI inflation. As the Committee had discussed in previous meetings, the key issue was how much
+
+of the recent rise in inflation was related to the higher oil price, and how much stemmed from the
+
+pressures of demand on supply.
+
+31 Survey measures of inflation expectations for 2005 had edged higher and there had been a
+
+pickup in implied short-run inflation forwards (as derived from inflation swaps), consistent with the
+
+higher oil price. Estimates of medium-run inflation expectations remained stable.
+
+**The immediate policy decision**
+
+32 There had been little news from financial markets. Growth in the international economy seemed
+
+broadly in line with the August Inflation Report projections. Although oil prices had edged lower
+
+since the September meeting, the cumulative increase in the oil price over the past twelve months
+
+continued to exert a significant influence on the outlook for growth and inflation. Inflation had risen in
+
+a number of countries, in part reflecting oil price developments.
+
+
+-----
+
+8
+
+33 In the United Kingdom, output growth continued to be subdued. The four-quarter growth rate of
+
+GDP had been revised lower, primarily reflecting downward revisions to service sector activity. It was
+
+possible that the deceleration in output was less pronounced than indicated by the official data. The
+
+rate of service sector growth implied by official data appeared weaker than that suggested by business
+
+surveys, and the extent of the weakening in official measures of output growth was at odds with the
+
+relative resilience of employment growth. On the demand side, consumption growth had been revised
+
+up in Q2, but remained a little weaker than the profile embodied in the August Inflation Report.
+
+Business investment growth had been revised higher, and was now in line with the August Inflation
+
+_Report projections. And net trade had made a positive contribution to growth for the second_
+
+consecutive quarter. But there remained doubts about the reliability of the expenditure components at
+
+this stage of the data cycle.
+
+34 There had been a variety of news about potential supply. In particular, the supply effects of oil
+
+on the one hand, and migration on the other, could work in opposite directions. These were complex
+
+issues, and the November Inflation Report round would provide the Committee with an opportunity to
+
+consider them in greater depth. CPI inflation had risen to 2.4%, above the Committee’s target. If the
+
+oil price did not rise further, the direct impact of oil on CPI inflation was likely to fade towards the end
+
+of the year, although considerable uncertainty surrounded that judgement. Medium-term inflation
+
+expectations appeared well-anchored, although it was important not to be complacent on this front.
+
+35 On balance, the short-term prospects for growth and inflation were little changed since the
+
+August Inflation Report, although some members felt that the downside risks to demand had increased.
+
+But there had been some significant data revisions and news about the supply side. The November
+
+forecast round would provide the Committee with an opportunity to assess the effect of both the
+
+demand-side news and the supply-side news for the overall pressures of demand on supply capacity. It
+
+was also important to be alert to the possibility of second-round effects from the higher oil price. At
+
+present, there was little sign that the higher oil price was feeding through into either wage settlements
+
+or medium-term inflation expectations. But if such effects were to take hold, the Committee would
+
+need to run a tighter monetary policy than would otherwise have been the case.  In the light of these
+
+considerations, the Committee agreed to maintain the repo rate at 4.5%.
+
+36 The Governor invited the Committee to vote on the proposition that the repo rate should be
+maintained at 4.5%. The Committee voted unanimously in favour of the proposition.
+
+
+-----
+
+9
+
+
+37 The following members of the Committee were present:
+
+Mervyn King, Governor
+Rachel Lomax, Deputy Governor responsible for monetary policy
+Andrew Large, Deputy Governor responsible for financial stability
+Kate Barker
+Charles Bean
+Richard Lambert
+Stephen Nickell
+Paul Tucker
+David Walton
+
+Jon Cunliffe was present as the Treasury representative.
+
+
+-----
+

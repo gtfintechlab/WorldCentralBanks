@@ -1,0 +1,686 @@
+### Publication date: 18 May 2011
+
+## MINUTES OF THE 
+# MONETARY POLICY COMMITTEE MEETING
+## 4 AND 5 MAY 2011
+
+##### These are the minutes of the Monetary Policy Committee meeting held on 4 and 5 May 2011. 
+
+ They are also available on the Internet
+
+ http://www.bankofengland.co.uk/publications/minutes/mpc/pdf/2011/mpc1105.pdf
+
+ The Bank of England Act 1998 gives the Bank of England operational responsibility for setting
+
+ interest rates to meet the Government’s inflation target. Operational decisions are taken by the
+
+ Bank’s Monetary Policy Committee. The Committee meets on a regular monthly basis and
+
+ minutes of its meetings are released on the Wednesday of the second week after the meeting
+
+ takes place. Accordingly, the minutes of the Committee meeting to be held on 8 and 9 June will
+
+ be published on 22 June 2011.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 4 AND 5 MAY 2011
+
+1 Before turning to its immediate policy decision, and against the background of its latest
+
+projections for output and inflation, the Committee discussed financial market developments; the
+
+international economy; money, credit, demand and output; and supply, costs and prices.
+
+**Financial markets**
+
+2 Markets had generally been stable on the month, against a backdrop of relatively thin trading
+
+conditions during the holiday periods.
+
+3 Implied market expectations of the point at which Bank Rate would begin to rise had been
+
+pushed back, partly in response to data releases, notably the March CPI outturn. Information derived
+
+from overnight index swaps indicated that the market yield curve had fully priced in a 25 basis point
+
+increase in Bank Rate by early 2012. The ECB had raised its official short-term interest rate by
+
+25 basis points in April and market participants expected further tightening in coming months.
+
+Consistent with that, and with the lower expected path for Bank Rate, the sterling effective exchange
+
+rate had fallen by 1.4%.
+
+4 Longer-term forward interest rates had fallen internationally by around 15-25 basis points. In the
+
+United Kingdom the fall had primarily reflected lower breakeven inflation rates.
+
+5 For some countries in the euro area, sovereign debt markets had become more strained,
+
+reflecting concerns over their fiscal positions. The differences between the yields of some peripheral
+
+euro-area countries’ sovereign bonds and those of German bonds of equivalent maturity had widened
+
+over the month as a whole. There had been little immediate reaction to the news of the support
+
+package agreed by the Portuguese government with the European authorities and IMF.
+
+
+-----
+
+2
+
+6 Oil prices had been broadly stable over the month prior to the meeting. But the prices of many
+
+other commodities had decreased, with sharp falls at the beginning of May in the prices of some
+
+precious metals. There had been little movement in other asset prices. The FTSE All-Share index had
+
+been broadly unchanged over the month, while there had been small rises in equity prices in the
+
+United States and euro area. Bank and corporate funding markets had continued to function smoothly.
+
+**The international economy**
+
+7 The IMF’s April World Economic Outlook projected global growth to continue at slightly above
+
+pre-crisis average rates during 2011 and 2012. Nonetheless, the data released during the month had
+
+pointed to a moderate slackening in the pace of expansion. JP Morgan’s global manufacturing
+
+Purchasing Managers’ Index had fallen for the second month in a row in April, even omitting the
+
+contribution of the Japanese index, where activity had been affected by the impact of the earthquake
+
+and tsunami. And surveys of activity in the service sectors of the United Kingdom’s main trading
+
+partners had also generally weakened, with the business activity balance of the US non-manufacturing
+
+ISM index falling sharply to 53.7 in April from 59.7 in March.
+
+8 In the United States, GDP was estimated to have grown by 0.4% in the first quarter, down from
+
+0.8% in the fourth quarter. The slowdown in growth had been spread across expenditure components,
+
+with modest consumption growth and sluggish growth in investment. It was plausible that some of
+
+this weakness would be temporary, but that would depend on the extent to which private final
+
+domestic demand growth gathered pace. The housing market had remained weak. And the strength of
+
+US household spending would hinge on whether the outlook for employment continued to improve.
+
+Members of the Federal Open Markets Committee had revised down their forecasts for growth in the
+
+four quarters to the end of 2011. Twelve-month CPI inflation had risen to 2.7% in March from 2.1%
+
+in February.
+
+9 Indicators of activity in the euro area had continued to be consistent with growth at or above
+
+historical average rates, with GDP in Belgium, often a good early signal of output growth in its
+
+neighbours, growing by 1% in the first quarter. Euro-area business and consumer confidence
+
+indicators had fallen back slightly, however. Twelve-month HICP inflation in the euro area had risen
+
+to 2.8% in April from 2.7% in March.
+
+
+-----
+
+3
+
+10 Industrial production in Japan had fallen sharply in March following the earthquake and tsunami.
+
+It was still too early to know how persistent the interruption to output would be and little was known
+
+yet about the likely pace of reconstruction work. Some dislocation in global supply chains had been
+
+reported, particularly in motor vehicles and electronics manufacturing. It was possible that this could
+
+become more pronounced. But firms outside Japan could be expected to seek alternative sources of
+
+supply should the disruption persist.
+
+11 Monetary policy had been tightened further in several emerging economies during the month, in
+
+response to rising consumer and asset price inflation. There were some signs that the pace of output
+
+growth was slowing and, were this moderation to continue, it might lead to some easing in the growth
+
+of global demand for oil and other commodities. IMF projections for GDP growth in emerging
+
+economies as a whole nonetheless remained robust and these countries were likely to continue to be
+
+the main engine of global activity. Indeed, it was possible that policymakers in those economies might
+
+decide that a more rapid pace of tightening was necessary to address incipient signs of overheating.
+
+**Money, credit, demand and output**
+
+12 According to the ONS’s preliminary estimate, GDP had risen by 0.5% during the first quarter of
+
+2011. Excluding the impact of the snow in December, underlying output was estimated by the ONS to
+
+have been broadly unchanged during the fourth and first quarters. Construction output had fallen by
+
+4.7% in the first quarter, but official construction output data had continued to be very volatile
+
+compared to other indicators of construction activity and a continuing fall of this magnitude was
+
+unlikely. Output in the rest of the economy had grown moderately: abstracting from the effects of the
+
+snow, the combined output of the manufacturing and service sectors had risen in the first quarter by
+
+about 0.5%.
+
+13 A key question was how long the current weakness in demand and output was likely to persist.
+
+Some indicators were consistent with the economy having entered a period of sustained weakness.
+
+The GDP data for the first quarter had been weaker than the Committee had expected at the time of the
+
+February Inflation Report. And a greater proportion of demand growth during 2010 had come from
+
+stockbuilding than previous vintages of the data had suggested. Lending to companies and individuals
+
+had remained weak, notwithstanding some signs of a slight easing in credit conditions. And, against
+
+the backdrop of a broadly flat level of household spending over the previous year, the GfK measure of
+
+
+-----
+
+4
+
+consumer confidence had fallen further, to its lowest level since March 2009. Any additional increases
+
+in energy prices would further reduce real personal disposable incomes. Moreover, the Bank’s Agents
+
+had reported anecdotal evidence of pressures on consumers: an increasing concentration of retail sales
+
+around pay days; shoppers making smaller, more frequent purchases; and a shift away from spending
+
+on discretionary items.
+
+14 Other indicators had pointed to stronger growth. The Labour Force Survey showed that
+
+employment had picked up and this was supported by business surveys of employment and recruitment
+
+intentions. And, although the CIPS/Markit business activity surveys of manufacturing and services
+
+had fallen in April, they remained in line with the pace of growth seen during the middle of 2010. It
+
+was possible that real household spending growth had been temporarily held back at the turn of the
+
+year given the rise in the standard rate of VAT, and retail sales volumes had risen slightly in March.
+
+Surveys of investment intentions suggested that a period of above-average spending growth on capital
+
+goods might be in prospect. And surveys of export orders in manufacturing remained solid and in
+
+services continued to pick up, consistent with the improvement in the trade balance seen in the official
+
+data for January and February.
+
+15 Business confidence surveys pointed to a pickup in underlying growth in the near term. But
+
+growth was likely to continue to be temporarily affected by special factors. In particular, the royal
+
+wedding and supply chain disruptions following the earthquake in Japan were likely to dampen GDP
+
+growth in the second quarter and boost it in the third.
+
+**Supply, costs and prices**
+
+16 In line with the usual pre-release arrangements, the Governor informed the Committee that
+
+producer input prices had increased by 2.6% in April. Increases in crude oil prices had accounted for
+
+most of the rise on the month. Producer output prices had risen by 0.8% in April. That increase had
+
+mainly reflected higher prices for tobacco and alcohol, clothing and footwear, and petroleum products.
+
+17 Twelve-month CPI inflation had fallen to 4.0% in March from 4.4% in February. The most
+
+significant contribution to the fall had come from the prices of food and non-alcoholic beverages.
+
+There were signs in clothing, footwear and food prices that retailers might have been reacting to
+
+
+-----
+
+5
+
+weakness in demand by limiting price increases. It was possible that this response to demand
+
+conditions would continue, at least in the near term.
+
+18 Despite the fall in CPI inflation in March, the most likely near-term path of inflation was
+
+markedly higher than at the time of the February Inflation Report. That largely reflected the impact of
+
+recent further rises in energy prices, including the likelihood they would result in substantial increases
+
+in electricity and gas prices over the next year.
+
+19 The outlook for inflation remained sensitive to movements in commodity and energy prices. It
+
+also depended in the medium term on the extent of domestic price pressures. Prices could be pushed
+
+up if employers and employees agreed wage increases that were higher than were consistent with
+
+increases in labour productivity. It could also be affected by any upward drift in inflation expectations
+
+that fed into price-setting. Set against that, the slack that remained in the economy – both within the
+
+labour market and within companies – should act as a countervailing influence on inflation.
+
+20 An assessment of the path of labour productivity over the past and how it would evolve in the
+
+future was a key component of any judgement on the margin of spare capacity within firms or the
+
+sustainable rate of wage inflation. The latest employment and output data suggested that private sector
+
+output per head had been broadly unchanged since the middle of 2010, while output per hour had
+
+actually fallen. This was substantially weaker than the Committee had expected at the time of the
+
+February Inflation Report. Measured labour productivity growth had been surprisingly weak for some
+
+time. Wage growth had remained moderate, with whole-economy regular pay increasing by 2.2% in
+
+the three months to February compared with a year earlier. But the weakness in labour productivity
+
+meant that it was possible that the modest rate of wage growth was consistent with a rate of underlying
+
+inflation higher than previously thought.
+
+21 There were several explanations for this weakness. The output or employment data might be
+
+mismeasured. Alternatively, the path of underlying structural productivity before or during the
+
+recession might have been lower than previously thought. For instance, financial crises in other
+
+countries in the past had often been accompanied by sustained shortfalls in output relative to its
+
+pre-crisis trend. Both of these explanations were consistent with there being limited spare capacity
+
+within firms currently. That also chimed with the message from survey indicators of businesses’
+
+employment intentions and their assessment of spare capacity, both of which were broadly in line with
+
+
+-----
+
+6
+
+their long-run averages. A third explanation for the weakness in labour productivity was that some
+
+businesses had been retaining or taking on staff in anticipation of a recovery in demand. In that case a
+
+margin of spare capacity within firms probably remained and might have increased further over the
+
+past year. Were that recovery in demand not to materialise, firms might reduce capacity and lay staff
+
+off. It was possible that each of these explanations had contributed to the observed weakness, but none
+
+was fully convincing by itself and, given it was not yet clear how much weight should be put on each,
+
+any assessment of spare capacity within firms remained uncertain.
+
+**The May GDP growth and inflation projections**
+
+22 The Committee reached its policy decision in the light of its projections to be published in the
+
+_Inflation Report on Wednesday 11 May._
+
+23 Abstracting from the volatility associated with heavy snow in December, output appeared to
+
+have been broadly flat over the previous two quarters. The Committee’s central judgement was that
+
+some pickup in underlying growth was likely during 2011 – albeit less than judged probable in
+
+February – driven by a continuing recovery in business investment and a positive contribution from net
+
+exports. But temporary factors, such as the effects of the additional bank holiday associated with the
+
+royal wedding and supply chain disruption from the Japanese earthquake and tsunami, were likely to
+
+add some volatility to quarterly GDP over the coming quarters.
+
+24 There remained substantial uncertainties, and a wider than usual range of views among
+
+Committee members, regarding the outlook for growth. Households might have much further to adjust
+
+to the significant squeeze on real incomes. In that case growth could remain sluggish. There was also
+
+uncertainty over the extent to which net exports would support growth and the pace at which that
+
+support would materialise. But the corporate sector continued to run a substantial financial surplus:
+
+that suggested there was scope for higher investment spending, or possibly greater support to
+
+consumption if more of the surplus were to be distributed to households. Overall, the Committee’s
+
+best collective judgement was that by the second half of the forecast period, the chances of
+
+four-quarter growth being either above or below its historical average rate were broadly equal.
+
+25 The projection for growth implied a lower level of GDP than was judged probable in February.
+
+Given the observed weakness in productivity over recent quarters, the Committee judged that the
+
+
+-----
+
+7
+
+outlook for productivity, and so for the supply capacity of the economy, was also weaker than in
+
+February. The Committee continued to judge it likely that some margin of spare capacity, although
+
+diminishing, would persist throughout much of the forecast period.
+
+26 There was a good chance that inflation would reach 5% later in 2011 and it was more likely than
+
+not to remain above the target throughout 2012, boosted by the increase in the standard rate of VAT,
+
+higher energy and import prices, and some restoration of companies’ profit margins. As the impetus
+
+from external price pressures dissipated and the increase in VAT dropped out of the annual
+
+comparison, inflation should fall back. But the precise timing and extent of that decline in inflation
+
+were uncertain, and would be sensitive to the extent of any further pass-through from the past
+
+depreciation of sterling, and the evolution of energy and commodity prices: for example, plausible
+
+alternative paths for domestic utility prices would have significant implications for the outlook.
+
+27 Inflation would also depend on the balance between two other substantial, but countervailing
+
+forces. To the downside, persistent spare capacity was likely to weigh on wages and prices for much
+
+of the forecast period. The extent of that downward pressure would depend on the strength of demand,
+
+but also on the evolution of productivity and the performance of the labour market, and therefore the
+
+path of potential supply. But to the upside, the protracted period of above-target inflation might lead
+
+to further upward pressure on prices, if households and businesses came to expect elevated inflation to
+
+persist, or if the recent and prospective squeeze on households’ real incomes led to higher pay growth.
+
+28 The range of views among Committee members over the outlook for inflation was, as in recent
+
+months, wider than usual. In the current uncertain environment, modest differences in judgements
+
+regarding the factors described above could have a material impact on the outlook. The Committee’s
+
+best collective judgement was that, assuming Bank Rate moved in line with market interest rates, the
+
+chances of inflation being above or below the target were, as in February, broadly equal in the medium
+
+term.
+
+**The immediate policy decision**
+
+29 The Committee set monetary policy in order to meet the inflation target in the medium term. As
+
+had been the case for the previous few months, the Committee was confronted with two key questions
+
+in reaching a view on the outlook for inflation: how prolonged the current weakness in demand would
+
+
+-----
+
+8
+
+be; and how persistent the impact on inflation of increases in VAT, energy and import prices would
+
+be, either directly or via second-round effects.
+
+30 On the first of these questions, there was a risk that demand would not grow sufficiently strongly
+
+to eliminate the current margin of spare capacity, leading to inflation falling below the target in the
+
+medium term. The probability of that risk crystallising was hard to evaluate, in part because there
+
+were mixed signals from indicators of business and consumer confidence, the interpretation of which
+
+was further complicated by the impact of the snow in December and erratic movements in construction
+
+output. The level of household spending had been stagnant over the previous year. And, against the
+
+backdrop of the continuing fiscal consolidation and the likely intensification of the squeeze on real
+
+disposable incomes from the current high level of energy prices, consumption growth was likely to
+
+remain weak for some time. But, set against that, activity balances from business surveys were
+
+consistent with continuing modest underlying growth in the bulk of the economy in the near term and
+
+firms were indicating that they intended to recruit and invest at around long-run average rates.
+
+31 One way to reconcile these factors was if businesses’ expectations of stronger activity growth
+
+were based on buoyant overseas demand for their goods and services, greater competitiveness
+
+compared with foreign suppliers of the UK market, and the need to undertake some investment
+
+projects postponed during the recession. If that were to prove correct, overall demand would be
+
+sufficient to justify their output, investment and employment decisions, providing some support to
+
+household incomes and facilitating the necessary rebalancing of the UK economy. There were signs
+
+that global growth had eased in the first quarter, but variability was not unusual at this stage of the
+
+cycle.
+
+32 Alternatively, it was possible that domestic consumer spending would fall further or that external
+
+demand would disappoint. Surveys indicated that households’ confidence in their own financial
+
+positions was low and the latest data had shown a further fall. Some euro-area periphery countries
+
+continued to face substantial fiscal and competitiveness challenges and additional weakness in these
+
+economies could weigh on UK demand. And, notwithstanding the improvement in the trade balance
+
+since the turn of the year, the contribution to the recovery in demand from net trade remained
+
+disappointing. If businesses came to revise down their view of the likely demand for their output, this
+
+could lead them to shed staff, curtail investment plans and reduce capacity.
+
+
+-----
+
+9
+
+33 On the second question, there was a risk that the period of elevated inflation could persist for
+
+longer than the Committee expected. Although they had been broadly flat over the month, oil prices
+
+had risen substantially since the February Inflation Report and the near-term outlook for inflation was
+
+higher. Continued robust growth in emerging economies, or an intensification of political instability in
+
+key oil-producing regions, might put further upward pressure on the prices of energy and other
+
+commodities. The sustained period of above-target inflation might cause expectations of inflation to
+
+drift upwards. To the extent that people placed weight on past outturns in forming their expectations,
+
+it might then take time for inflation expectations to decline again, even as inflation itself fell back.
+
+Moreover, the further squeeze in households’ purchasing power might result in some upward pressure
+
+on nominal wages to the extent that workers sought to maintain real living standards. Thus far,
+
+however, there had been few material signs of the period of high inflation having fed into elevated
+
+medium-term inflation expectations or higher wage demands.
+
+34 Overall, the balance between the upside and downside risks to the outlook for inflation in the
+
+medium term had not changed sufficiently over the month for Committee members to change their
+
+views on the appropriate stance of monetary policy. The pace of recovery was more likely than not to
+
+pick up from its recent soft patch. It was likely that there would be some continued recovery in
+
+business investment and that exporters would continue to benefit from the global recovery and the past
+
+depreciation of sterling. The near-term outlook for inflation had worsened further since February,
+
+primarily reflecting renewed increases in energy prices. But, under the assumption that Bank Rate
+
+rose in line with market yields, inflation was still likely to fall back in the medium term, as the
+
+temporary impacts of the factors currently raising inflation diminished and some downward pressure
+
+from a margin of spare capacity persisted.
+
+35 Against that backdrop, for three members, the argument for removing some of the monetary
+
+stimulus at this meeting remained strong, and the projections in the May Inflation Report had
+
+reinforced that judgement. For them, the upside risks to the outlook for inflation in the medium term
+
+from global price pressures, and the possibility that inflation expectations would increase, continued to
+
+outweigh the downside risk that the strength of the recovery would be insufficient to erode the
+
+economy’s margin of spare capacity. So some tightening in the stance of monetary policy was
+
+required to balance the risks to medium-term inflation around the target. Given the volatility in output
+
+expected in the second and third quarters, it was unlikely that the uncertainty over the strength of the
+
+recovery in demand would be resolved soon, so there was little benefit from waiting before tightening
+
+
+-----
+
+10
+
+policy. Were output to surprise on the downside, that could be a sign of a weakening in the supply
+
+capacity of the economy as well as weakening in demand. Moreover, beginning to withdraw some
+
+stimulus at this juncture could facilitate a more gradual return to a more neutral stance of policy in the
+
+medium term. Two of these members regarded the matter as finely balanced and favoured only a
+
+small tightening in policy, given the weakness of the real economy and the uncertainty facing the
+
+outlook. The third member concluded that a larger reduction in the degree of monetary stimulus
+
+remained appropriate. For that member, the likely strength of imported inflationary pressures, together
+
+with upside risks to inflation expectations, implied that the balance of risks around the inflation target
+
+in the medium term remained significantly to the upside.
+
+36 Other members concluded that an increase in Bank Rate was not yet warranted. There was little
+
+evidence that elevated inflation expectations were becoming entrenched in wage and price-setting.
+
+Nonetheless, that risk remained material given the elevated near-term outlook for inflation. It was still
+
+too early to know whether the softening in activity was temporary and, notwithstanding the expected
+
+unevenness in output growth, the coming months could be revealing about the underlying strength of
+
+demand. Even though the overall extent of spare capacity in the economy was uncertain, high
+
+unemployment was likely to persist for some time. In time, some withdrawal of stimulus would
+
+become necessary. But the May Inflation Report projections implied that this did not need to occur
+
+immediately. An increase in Bank Rate in current circumstances could adversely affect consumer
+
+confidence, leading to an exaggerated impact on both spending and firms’ perceptions of their desired
+
+productive capacity. And, were the downside risk to household spending to materialise, a path for
+
+policy weaker than that implied by market prices might become appropriate.
+
+37 For one member, the balance of risks to inflation continued to warrant an expansion of the
+
+Committee’s programme of asset purchases, financed by the issuance of central bank reserves, because
+
+it was likely that inflation would fall below the target in the medium term. For that member, the path
+
+of consumption spending would be lower and the margin of spare capacity in the labour market would
+
+be larger than assumed in the May Inflation Report, even allowing for the possibility of an upward
+
+revision to the level of output. Moreover, the impact of inflation expectations on wages and prices
+
+would be less than assumed in the central projection. Given the elevated path inflation would be likely
+
+to follow in the near term, this member recognised the risk that a persistent increase in inflation
+
+expectations or global price pressures could outweigh the forces pushing down on inflation, but did not
+
+
+-----
+
+11
+
+see this risk as material. That member saw the flatness of consumption over the past year and the
+
+weakness of pay growth as indicators consistent with this judgement.
+
+38 The Governor invited the Committee to vote on the propositions that:
+
+Bank Rate should be maintained at 0.5%;
+
+The Bank of England should maintain the stock of asset purchases financed by the issuance
+
+of central bank reserves at £200 billion.
+
+Regarding Bank Rate, six members of the Committee (the Governor, Charles Bean, Paul Tucker,
+
+Paul Fisher, David Miles and Adam Posen) voted in favour of the proposition. Three members of the
+
+Committee voted against the proposition. Andrew Sentance preferred to increase Bank Rate by
+
+50 basis points. Spencer Dale and Martin Weale preferred to increase Bank Rate by 25 basis points.
+
+Regarding the stock of asset purchases, eight members of the Committee (the Governor, Charles Bean,
+
+Paul Tucker, Spencer Dale, Paul Fisher, David Miles, Andrew Sentance and Martin Weale) voted in
+
+favour of the proposition. Adam Posen voted against the proposition, preferring to increase the size of
+
+the asset purchase programme by £50 billion to a total of £250 billion.
+
+39 Finally, the Governor expressed his appreciation to Andrew Sentance for his contribution as a
+
+member of the Committee.
+
+40 The following members of the Committee were present:
+
+Mervyn King, Governor
+Charles Bean, Deputy Governor responsible for monetary policy
+Paul Tucker, Deputy Governor responsible for financial stability
+Spencer Dale
+Paul Fisher
+David Miles
+Adam Posen
+Andrew Sentance
+Martin Weale
+
+Dave Ramsden was present as the Treasury representative.
+
+
+-----
+

@@ -1,0 +1,265 @@
+# Minutes of the Monetary Policy Council decision-making meeting held
+
+ on 8 February 2022
+
+At the Council meeting, it was observed that after a strong growth in global economic
+
+activity in 2021, economic conditions in some countries deteriorated somewhat, mainly
+
+due to re-escalation of the pandemic at the turn of the year. At the same time, it was
+
+pointed out that the pandemic situation should stabilise over the coming months as
+
+evidenced by the experience of the countries first hit by the Omicron variant of the
+
+coronavirus. It was assessed that this would translate into a renewed acceleration in global
+
+GDP growth, supported by further recovery in consumption. However, the Council
+
+members noted that – apart from the re-escalation of the pandemic – economic activity
+
+was still negatively affected by supply-side constraints in some markets and high
+
+commodity prices, while future course of the pandemic, geopolitical tensions related to
+
+the Russia’s aggression against Ukraine and developments in economic policy of the major
+
+countries remained important uncertainty factors. It was emphasised that, according to
+
+the latest forecasts, global GDP growth in 2022 would be lower than in 2021, yet it would
+
+remain relatively robust.
+
+It was highlighted that energy commodity prices as well as prices of some agricultural
+
+commodities remained markedly higher than a year ago, which contributed to a rise in
+
+inflation worldwide. Persisting disruptions in global supply chains and still elevated
+
+international shipping costs act in the same direction. In the European Union, climate
+
+policy is an important factor additionally increasing prices. The Council members noted
+
+that inflation in many countries stood at its highest level in decades: in the euro area HICP
+
+inflation rose to 5.1% in January 2022 and in the United States CPI inflation reached 7.0%
+
+in December 2021. Moreover, also core inflation measures have been rising globally,
+
+supported by favourable economic situation and improvement in labour market
+
+conditions. In effect, inflation forecasts have been revised upwards and indicate that in
+
+many economies inflation in 2022 will remain above central banks’ targets.
+
+The Council members observed that against the above background, i.e. favourable
+
+economic conditions and elevated inflation, many central banks were withdrawing
+
+monetary accommodation. In particular, it was indicated that central banks in the Central
+Eastern Europe had been raising interest rates. The ECB keeps negative interest rates,
+
+although it has been reducing the scale of asset purchases. The US Federal Reserve signals
+
+a termination of asset purchases in March and a readiness to start increasing interest rates.
+
+1/4
+
+
+-----
+
+It was noted that at least four interest rate increases in the United States in 2022 was a
+
+likely scenario. The Council members pointed out that this was a factor which, together
+
+with continued geopolitical tensions, had been weakening the exchange rates of emerging
+
+market countries, including the zloty. Certain Council members indicated, however, that
+
+some central banks – both in advanced and emerging market countries – approached
+
+monetary policy tightening with caution.
+
+When analysing the situation in the Polish economy, the Council members emphasised
+
+that according to Statistics Poland preliminary estimate, GDP growth in 2021 amounted
+
+to 5.7%, which was an evidence of a significant acceleration in annual GDP growth in 2021
+
+Q4, despite the autumn wave of increase in Covid cases. The monthly data on industrial
+
+output, retail sales and construction and assembly output for December 2021 also indicate
+
+that economic conditions remain very good. It was observed that situation in the labour
+
+market continued to improve as well, which was reflected in a fall in unemployment rate
+
+(seasonally adjusted), a rise in employment and a marked increase in average wages in
+
+corporate sector in December. Some Council members noted that although the
+
+acceleration in the growth of wages could result from a shift in their variable components,
+
+wage growth had been high for a long time and firms were planning significant wage
+
+increases also in 2022. At the same time, the majority of the Council members highlighted
+
+the risk of a likely rise in wage pressure due to elevated inflation. In this context, certain
+
+Council members pointed to the surveys’ results indicating a considerable surge in the
+
+percentage of firms declaring an increase in wage pressure. Other Council members
+
+emphasised that the percentage of enterprises with wage growth exceeding labour
+
+productivity growth was still lower than before the pandemic.
+
+Referring to the economic outlook, it was assessed that the economic situation would
+
+remain favourable in the coming quarters. However, the impact of the pandemic on global
+
+and domestic economy was indicated as an uncertainty factor, together with supply-side
+
+constraints and high energy commodity prices, which constituted negative supply shocks
+
+to the economy. Moreover, certain Council members observed some deterioration in
+
+consumer sentiment and business confidence indicators over the recent past. According
+
+to these Council members, GDP growth will slow down, yet rather gradually.
+
+Certain Council members emphasised a relatively high growth of loans in the economy.
+
+In the opinion of these Council members, the tightening of monetary policy would reduce
+
+growth in indebtedness, which seems warranted, especially with regard to households’
+
+loans.
+
+2/4
+
+
+-----
+
+At the meeting, it was noted that inflation in Poland had risen to 8.6% in December 2021.
+
+It was stressed that the increase in inflation in 2021 had been mainly driven by external
+
+factors that were beyond the impact of domestic monetary policy. These factors included
+
+the rise in global commodity prices, the record-high increase in the prices of CO2 emission
+
+allowances, rising prices of goods, whose supply was constrained by the global pandemic
+related disruptions, as well as the increases in electricity and natural gas prices introduced
+
+in 2021, which largely reflected the situation in global commodity markets and the climate
+
+policy of the European Union. The Council members indicated that ongoing economic
+
+recovery had also added to the increase in inflation, as seen in rising core inflation
+
+measures. Some Council members noted that favourable economic conditions facilitated
+
+the passing through of higher costs, evidenced by rising producer prices and wages, to
+
+consumer prices. In this context, a very high PPI growth abroad was pointed to, which –
+
+due to trade links – contributed to the strong PPI growth also in Poland.
+
+It was assessed that these factors, together with a rise in regulated tariffs on electricity,
+
+natural gas and thermal energy, would act towards inflation remaining at an elevated level
+
+also in 2022, and – taking into account available forecasts – in 2023. In the opinion of the
+
+majority of the Council members, the main factors contributing to higher inflation
+
+constituted negative supply shocks. Yet certain Council members emphasised the role of
+
+domestic factors, as evidenced – in their judgement – i.a. by high growth in services prices.
+
+At the same time, it was pointed out that a reduction in some tax rates as part of the so
+called Anti-inflationary Shield would have a curbing effect on inflation, although it would
+
+be difficult to define its horizon at present. Certain Council members, however, indicated
+
+that the launching of the Shield, accompanied by other fiscal measures, entailed a relative
+
+easing of fiscal policy, and thus meant that monetary policy needs to bear bigger burden
+
+of tightening macroeconomic policy. The significance of the exchange rate channel in the
+
+monetary transmission mechanism was also highlighted.
+
+It was noted that the expected fading of some global shocks currently boosting price
+
+growth and the increase in the NBP interest rates would support the decrease in inflation
+
+in a longer-term perspective. However, the majority of the Council members were of the
+
+opinion that amidst further domestic economic recovery and expected continuation of
+
+favourable labour market conditions, as well as probably more lasting impact of external
+
+shocks on price dynamics, a risk of inflation running above the NBP inflation target in the
+
+monetary policy transmission horizon persisted.
+
+3/4
+
+
+-----
+
+The majority of the Council members assessed that in order to bring inflation down to the
+
+NBP target in the medium term the NBP interest rates should be raised again. In the
+
+opinion of the Council members, the NBP interest rate rise would also curb inflation
+
+expectations. At the same time, it was emphasised that zloty appreciation would be
+
+consistent with the direction of monetary policy conducted by NBP. Yet certain Council
+
+members expressed the opinion that another interest rate hike generated the risk of a
+
+negative impact of this factor on economic conditions, as it would translate into a further
+
+increase in the debt-servicing costs of bank loans for households and enterprises.
+
+The Council decided to raise the NBP reference rate by 0.50 percentage points, i.e. to 2.75%
+
+and to set the remaining NBP interest rates at the following levels: the lombard rate at
+
+3.25%, the deposit rate at 2.25%, the rediscount rate at 2.80% and the discount rate at 2.85%.
+
+At the same time, the Council decided to increase the required reserve ratio from 2.0% to
+
+3.5%.
+
+The Council members pointed out that the Council’s decisions in the coming months
+
+would continue to be aimed at reducing inflation to a level consistent with the NBP
+
+inflation target in the medium term, while taking into account economic conditions, so as
+
+to ensure medium-term price stability and, at the same time, support sustainable economic
+
+growth after the global pandemic shock. The Council’s assessment regarding the total
+
+scale of monetary tightening necessary for achieving these goals would consider incoming
+
+information on perspectives for inflation and economic growth, including situation in the
+
+labour market. Certain Council members expressed an opinion that ongoing significant
+
+uncertainty remained an important factor to be accounted for in monetary policy
+
+decisions.
+
+Publication date: 10 March 2022
+
+4/4
+
+
+-----
+

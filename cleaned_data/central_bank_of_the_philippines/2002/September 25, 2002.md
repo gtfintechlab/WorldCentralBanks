@@ -1,0 +1,657 @@
+#                                 Bangko Sentral ng Pilipinas                                 Bangko Sentr                                 Bangko Sentr                                 Bangko Sentral ng Pilipinasal ng Pilipinas  al ng Pilipinas
+
+
+**HIGHLIGHTS OF THE MEETING OF THE MONETARY BOARD ON**
+
+**MONETARY POLICY ISSUES  HELD ON 26 SEPTEMBER 2002[∗]**
+
+
+**Background**
+
+The Monetary Board held its tenth meeting on monetary policy issues on
+26 September 2002. The Advisory Committee submitted, for the consideration of
+the Monetary Board, a policy paper and a comprehensive set of economic and
+financial indicators relevant for the deliberation on monetary policy.[1] In
+particular, the policy paper prepared by the Advisory Committee contained the
+committee’s assessment of the inflation outlook and macroeconomic conditions
+as well as their recommendations for the appropriate monetary policy stance.
+During the meeting, the Monetary Board discussed the factors affecting inflation
+and inflationary expectations, including agricultural production, movements of
+the exchange rate, direction of world oil prices, possible adjustments in power
+and water rates, monetary conditions, trends in demand and output indicators,
+fiscal developments, global economic conditions and outlook, and the
+implications of these factors on the BSP’s monetary policy stance.
+
+**I. Considerations in  the Formulation of the Monetary Policy Stance**
+
+**Current inflation and the inflation outlook**
+
+**1. Headline inflation picked up slightly in August 2002, rising to 2.9 percent**
+year-on-year from 2.6 percent in the previous month. The uptick was traced
+mainly to supply or cost-push factors, notably the seasonal movements in food
+prices and the adjustments in fuel prices. Higher inflation rates were reported for
+food items such as rice, corn and fruits and vegetables, while local fuel pump
+prices rose by an average of about 30 centavos in August. Month-on-month
+headline inflation rose to 0.5 percent in August after holding steady at 0.2 percent
+
+∗ The highlights of the discussions of the 26 September 2002 Monetary Board meeting were approved by the
+Monetary Board during its meeting held on 30 October 2002.
+1 The Advisory Committee is composed of the Governor of the BSP as Chairman and four members, namely
+the Deputy Governor for the Banking Services Sector, Research and Treasury, the Deputy Governor for
+Supervision and Examination Sector, the Managing Director, In-Charge of Research or the Director of the
+Department of Economic Research, and the Director of the Treasury Department.
+
+**26-09-2002** **1**
+
+
+-----
+
+#                                 Bangko Sentral ng Pilipinas                                 Bangko Sentr                                 Bangko Sentr                                 Bangko Sentral ng Pilipinasal ng Pilipinas  al ng Pilipinas
+
+since March 2002. Nevertheless, the year-to-date average inflation of 3.3 percent
+was more than a full percentage point lower than the 2002 target.[2]
+
+**2. Despite signs of improvement in the economy, as reflected  in  the favorable**
+outturn in output growth numbers for the second quarter, demand-based
+pressures on consumer prices remained generally weak. The Philippine economy
+delivered a higher-than expected performance in the second quarter, rising by 4.5
+percent and 5.2 percent in terms of real GDP and GNP, respectively.
+Merchandise exports during the first seven months grew  by 6.9 percent, with the
+July level showing a hefty annual increase of 23 percent. Imports in July
+expanded by 13.6 percent for a seven-month average growth of 5.7 percent.
+However, unused capacity in the economy  remained fairly sizable, as indicated
+in the 75.9 percent manufacturing capacity utilization in June. Labor market
+conditions remained soft, with an 11.2 percent unemployment rate in July 2002,
+against 10.1 percent in the same period a year ago. Based on other indicators,
+overall demand also remained relatively subdued despite some strengthening in
+recent months. For example, bank lending was lower than a year ago, falling by
+2.9 percent in July 2002, albeit a slight improvement over the 3.7 percent decline
+in the preceding month. Meanwhile, energy sales by Meralco rose  by 3.7 percent
+in July, after posting a slight 0.1 percent year-on-year contraction in June. Sales
+of cement—an indicator of construction activity—rose by 18 percent year-on-year
+in May, following a 23.5 percent rise in April.
+
+**Despite the slight uptick in the August inflation rate, the inflation**
+**outturn for the first eight months of 2002 remains consistent with the BSP’s**
+**assessment of a generally benign inflation environment relative to the 4.5-5.5**
+**percent target for the whole year of 2002.**
+
+**Agricultural output forecasts**
+
+**3. Food supply conditions were expected to remain adequate over the near term.**
+Overall crop production volume grew by 1.9 percent in the first half, with rice
+production rising by 1.9 percent, helped by favorable planting conditions such as
+adequate rains and reduced incidence of pests and diseases.
+
+2 The government’s revised inflation target for 2002 is 4.5-5.5 percent.
+
+**26-09-2002** **2**
+
+
+-----
+
+#                                 Bangko Sentral ng Pilipinas                                 Bangko Sentr                                 Bangko Sentr                                 Bangko Sentral ng Pilipinasal ng Pilipinas  al ng Pilipinas
+
+**4. Agricultural output performance for the remainder of the year would depend**
+mostly on the extent of the warm climate conditions. Although various parts of
+the Philippines are expected to have below normal rainfall in the last quarter of
+2002 (especially in Southern Tagalog, Central Visayas and Northern Mindanao
+regions), much of the available evidence confirmed that the El Niño weather
+phenomenon would be much weaker than the 1997-1998 El Niño episode. This
+implied that any downturn in output could be comparatively mild.
+
+**5.** The national rice inventory as of 11 September 2002 was estimated  at 1.3
+million metric tons (MT), sufficient to last for 52 days.[3] The rice import program
+of the government, through the NFA, could provide a safeguard against the
+possible adverse impact of the upcoming El Niño weather phenomenon on palay
+supply and prices.
+
+**Food supply conditions are expected to remain generally favorable**
+**over the near term. The expected occurrence of a weak El Niño weather**
+**disturbance in the last quarter of 2002 until the first half of 2003 could have**
+**a minimal impact on crop production. Moreover, the rice importation**
+**program of the government can serve as cushion against any possible adverse**
+**supply shock in 2003.**
+
+**Exchange rate developments**
+
+**6. The peso weakened anew for the period 2-23 September 2002, falling by P0.25**
+to average P52.07/US$1 from  P51.82/US$1 in August.[4] The decline in the
+peso was driven by market apprehension over the fiscal underperformance and the
+possible escalation of the conflict in the Middle East.  Pressures on other regional
+currencies along with the end-of-the-quarter demand for dollars by corporates also
+contributed to the weaker peso in September.
+
+**7. On a trade-weighted basis and in real terms, the peso depreciated against the**
+basket of currencies of major trading partners by about 1.4 percent in August
+2002 relative to the level in December 2001.  Similarly, the peso tracked a
+depreciation trend vis-à-vis the currency baskets of competitor countries as
+reflected in the decline in the real effective exchange rate (REER) of the peso
+
+3 Estimated based on the daily consumption of 25.7 MT of rice; the security level benchmark for rice
+sufficiency of the NFA is 15 days (Source: NFA)
+4 Based on real time foreign exchange transactions in the Philippine Dealing System (PDS)
+
+**26-09-2002** **3**
+
+
+-----
+
+#                                 Bangko Sentral ng Pilipinas                                 Bangko Sentr                                 Bangko Sentr                                 Bangko Sentral ng Pilipinasal ng Pilipinas  al ng Pilipinas
+
+relative to the broad and narrow baskets of competitor currencies by about 2.8
+percent and 9.0 percent, respectively. These developments indicated that the
+country’s external price competitiveness has improved.[5]
+
+**The peso weakens further in September as it continues to move in line**
+**with the other Asian currencies. Market concerns over the rising fiscal deficit**
+**and the rising tension in the Middle East also exerted pressure on the peso.**
+**However, the peso remains broadly stable relative to the year-ago level and**
+**thus, it is not expected to undermine the inflation target for the year.**
+
+**Oil price developments**
+
+**8.  Dubai crude oil prices in the international market  climbed  by US$1.34 per**
+barrel or 5.3 percent to average US$26.58 per barrel for the period 2-16
+September 2002  from US$25.24 per barrel  in August 2002.   The upsurge in
+oil prices  since July was  driven by heightened tension over the US-Iraq conflict
+as the  US remained unconvinced  that Iraq does not maintain biological and
+chemical  weapons of mass destruction and  thus, the US continued to prepare
+for a military offensive  aimed at disarming Iraq. These developments
+continued to exert upward pressure on world oil prices.
+
+**9.  With the increase in oil prices in the world market, the local pump prices of**
+petroleum products  rose by  an average of  P0.44 per liter on 6 September
+2002 from their levels on 11 August 2002, the last time domestic oil prices
+were raised. The net increase thus far in domestic oil prices for 2002 stood at
+P1.60 per liter for gasoline, diesel and kerosene.[6]  Similarly,  local oil companies
+raised the prices of their  LPG products twice since the beginning of the year—
+in August and September—by a total of P1.00 per liter. Apart from the increase
+in world oil prices, the recent weakening of the peso  also contributed to the
+increase in domestic oil prices.
+
+5 The basket of the major trading partners  is composed of the  currencies of the US, Japan, Germany
+and the United Kingdom. The broad basket is composed of the currencies of Singapore, South Korea,
+Taiwan, Malaysia, Thailand, Indonesia and Hong Kong while the narrow basket is composed of the
+currencies of Indonesia, Malaysia and Thailand.
+6 In 2001, the pump prices of petroleum products  declined by  P1.81 per liter for gasoline and P 1.30 per
+liter for kerosene and diesel oil (Source: Department of Energy).
+
+**26-09-2002** **4**
+
+
+-----
+
+#                                 Bangko Sentral ng Pilipinas                                 Bangko Sentr                                 Bangko Sentr                                 Bangko Sentral ng Pilipinasal ng Pilipinas  al ng Pilipinas
+
+**10. In the futures market, the price of the benchmark Brent crude oil moved**
+slightly higher as October 2002 deliveries reached US$28.31 per barrel from the
+US$27.00 per barrel quoted in August 2002.[7]  The extent of the impact on oil
+prices of a possible war in the Middle East and its repercussions on the world
+economy would depend  on the length of the US-led offensive.  A prolonged
+rise in oil prices  arising from such eventuality could put a drag on the growth of
+developing economies, including the Philippines, through the following channels:
+
+a) higher cost of production of goods and services given the increase in the
+prices of energy inputs, thus, reducing profit margins;
+b) higher inflation for goods and services due to the need for easier monetary
+policy; and
+c) negative direct and indirect effects on the financial markets due to higher
+risk aversion.[8]
+
+**11.  An increase in domestic oil prices due to an uptick in world oil prices could**
+raise average annual CPI inflation directly by about  0.15 percentage point. This
+could trigger a second round effect on the prices of other commodities estimated
+to be about  twice that of the direct impact, which would raise the average
+annual inflation for  2002 by about 0.48 percentage point.[9]
+
+**The uptrend in the world price of crude oil poses a risk on inflation**
+**and inflationary expectations through its impact on domestic pump prices of**
+**petroleum products and the cost of other energy-related inputs of**
+**production. In turn, a further increase in local oil prices could lead to**
+**upward adjustments in the prices of basic goods and services, including**
+**wages and transport fares.**
+
+7 Source: Asian Wall Street Journal, 16 September 2002, The futures price for Brent crude—a close
+substitute for Dubai crude—was used as indicator of future world oil prices since futures data on Dubai
+crude are not available.
+8 Ideaglobal, “Oil and Asia: Losers All Around”, Asian Regional Markets, 9 September 2002
+9 These findings were based on the simulation results using Input-Output (I-O) analysis and the structural
+inflation forecasting model for estimating the total impact and direct impact of an oil price increase on
+inflation, respectively.
+
+**26-09-2002** **5**
+
+
+-----
+
+#                                 Bangko Sentral ng Pilipinas                                 Bangko Sentr                                 Bangko Sentr                                 Bangko Sentral ng Pilipinasal ng Pilipinas  al ng Pilipinas
+
+**Petitions for upward adjustment in user charges on utilities**
+
+**12.** Apart from the recent reduction in electricity rates—due mainly to the
+reduction in the purchased power adjustment (PPA) charges—power rates could
+ease further in 2003 with the implementation of proposed measures to encourage
+competition and improve capacity utilization of energy such as the Wholesale
+Electricity Spot Market (WESM) and the Special Program to Enhance Electricity
+Demand (SPEED).
+
+**13. Under the WESM scheme, electricity will be traded at the spot market, where**
+generators would compete against each other for the right to supply power to
+distributors.[10] Based on DOE’s estimates, the operations of the proposed WESM
+could reduce further  the cost of electricity  by  about P0.40 per kwh.
+Meanwhile, the coverage of the SPEED program continued to expand as more
+distribution utilities and electric cooperatives have decided to participate in the
+program. The SPEED is aimed at raising the demand for electricity by providing
+price incentives to large users.[11]
+
+**14. Meanwhile, the ERC has yet to decide on Meralco’s proposed graduated**
+power rate adjustments as contained in its  petition for  the “unbundling” of
+power rates,  submitted on 2 April 2002. The  proposed rates would likely raise
+the cost of electric power consumption by an average of P0.65 per kwh or about
+10.3 percent across all residential users.[12] The  proposed power rate increases
+for commercial and industrial establishments would be moderate, estimated at
+about 2.7 percent and 3.2 percent, respectively. It may be noted that light
+accounts for 2.7 percent of the total CPI basket.
+
+10 The implementation of WESM would require the horizontal unbundling of the Napocor’s generation assets
+into individual generation companies (Genco) to allow the decentralization of dispatch and pricing discretion.
+An IPP administrator will be assigned to each Genco. Under the WESM scheme, the Gencos are expected to
+engage in the competitive trade of electricity. The Genco offering the lowest price would likely receive
+priority dispatch of electricity into the system (Source: DOE Website, “PGMA’s ways to reduce electricity
+rates” and “ DOE promulgates WESM rules”, www.doe.gov.ph)
+11 The following have signed a Memorandum of Agreement with Napocor to extend SPEED program in their
+areas: Angeles Electric Corp., Cabanatuan Electric Corp., Cagayan Electric Power & Light Co., Dagupan
+Electric Corp., Iligan Light & Power Inc., La Union Electric, Tarlac Electric Inc., San Fernando Electric
+Light & Power Co., Visayan Electric Co. and the Cebu Electric Cooperative Inc. (Source: DOE Press
+Release entitled, “ Napocor Pricing Discount Program expanded to include other utilities and electric
+cooperatives”, 12 September 2002, www.doe.gov.ph)
+12 According to Meralco, the unbundling of power rates  is not expected to result in any power rate
+increase for residential users at the lowest  consumption bracket. (Source: Meralco, Press Release
+entitled, “Meralco Submits New Alternative on Rate Unbundling,” 2 April 2002)
+
+**26-09-2002** **6**
+
+
+-----
+
+#                                 Bangko Sentral ng Pilipinas                                 Bangko Sentr                                 Bangko Sentr                                 Bangko Sentral ng Pilipinasal ng Pilipinas  al ng Pilipinas
+
+**15.  Water rates are likely to remain at current levels for the rest of the year as the**
+Manila Waterworks and Sewerage System (MWSS) Board has decided to
+temporarily defer its decision on the proposed water rate hike pending a review of
+the revised estimates submitted by the water concessionaires, Manila Water
+Company (MWC) and Maynilad Water Services Inc. (MWSI). The proposed
+increase in water rates could instead be implemented in 2003.[13]  In an earlier
+petition, MWC and MWSI have applied for increases in their water rates by P1.00
+and P6.00 per cubic meter, respectively, representing an average increase of
+26.8 percent from current levels.[14] Given the relatively small share of water to the
+CPI basket of 0.7 percent, the proposed increase in water rates was estimated to
+result in an increase in  inflation by 0.1 percentage point in 2003.[15]
+
+**The moves to defer upward adjustments in power and water charges**
+**could help cushion the impact of higher world oil prices and the depreciation**
+**of the exchange rate on user charges. These measures could, therefore,**
+**mitigate cost-side pressures on inflation for the rest of the year.**
+
+**Interest rates and interest rate differentials**
+
+**16. The differentials between RP and foreign interest rates widened significantly**
+in September 2002 as RP market interest rates edged higher while foreign interest
+rates were relatively steady. As of  16 September 2002, the differentials between
+the RP 91-day T-bill rate (net of RP withholding tax) and the 90-day LIBOR and
+US 90-day T-bill rate widened further to 235.8 basis points and 247.2 basis
+points, respectively from the 221.2 basis points and 233.6 basis points
+registered in 19 August 2002.
+
+**17.  The differential between the BSP’s policy interest rate (overnight borrowing**
+or RRP rate) and the US federal funds target rate was unchanged at 525 basis
+
+13 MWC services Metro Manila’s east zone which covers Mandaluyong City, Pasig City, Pateros, San Juan,
+Taguig, and portions of Makati City, Manila City, Marikina City and Quezon City as well as Angono,
+Antipolo, Baras, Binangonan, Cainta, Jala-Jala, Morong, Pililia, Tanay, Teresa, Rodriguez and San Mateo, all
+in Rizal.  MWSI services Metro Manila’s west zone which covers Valenzuela, Bulacan, Malabon, Navotas,
+parts of Quezon City and Makati City, Manila City, Pasay City, Las Piñas, Parañaque City, Muntinlupa City
+and areas in Cavite.
+14 The MWC and MWSI have proposed increases in water rates by P1.00 and P6.00 per cubic meter or by
+38.8 percent and 14.8 percent, respectively, from P6.75 and P15.46 per cubic meter, respectively, for an
+average increase of 26.8 percent.
+15 Based on analysis using input-output (I-O) tables published by the National Statistical Coordination Board
+(NSCB)
+
+**26-09-2002** **7**
+
+
+-----
+
+#                                 Bangko Sentral ng Pilipinas                                 Bangko Sentr                                 Bangko Sentr                                 Bangko Sentral ng Pilipinasal ng Pilipinas  al ng Pilipinas
+
+points as the BSP policy rates and the US federal funds target rate remained
+steady at their 15 March 2002 and December 2001 levels, respectively.
+
+**18.  However, adjusted for the risk premium—that is, the differential between the**
+BSP policy interest rate and the US federal funds target rate less the risk
+premium—the differential in the RP-US policy rates narrowed further in
+September by an average of 49 basis points. This was due to the increase in the
+risk premium, which rose to an average of 476 basis points in the same period.[16]
+
+**19.** In the domestic market, the RP 91-day T-bill rate for the month of
+September trended upward as the yield rose from a weighted average of 4.9
+percent in August to a rate of 5.223 percent at the 16 September 2002 auction.
+
+**The differentials between the RP interest rate and foreign interest**
+**rates sustain its uptrend in September. However, adjusted for the spread, the**
+**interest rate differential has narrowed down due to the rise in the risk**
+**premium for the Philippine sovereign bonds owing to fiscal as well as peace**
+**and order concerns. This development underpins the need to guard closely**
+**factors that could influence market sentiment, which has implications on**
+**inflation and inflationary expectations.**
+
+**20.  The spread of the RP lending rate over the benchmark 91-day T-bill rate for**
+the period 4-11 September 2002, narrowed further to 296 basis points from 304
+basis points during the period 8-14 August 2002[17] as the increase in the low-end
+of banks’ lending rate (by about 14 basis points) was accompanied by a larger
+increase in the RP 91-day T-bill rate (by about 22 basis points). This differential
+was below the average of 368 basis points for a sample of countries, which have
+shown a general decline in lending rates as well as in benchmark rates during the
+review period.
+
+**The RP real lending rate declines in September and remains one of**
+**the lowest in the Asian region.**
+
+16 The risk premium is measured as the difference between the 10-year ROP note and the 10-year US
+Treasury note.
+17 Review period covered in the policy paper entitled, “Review of the BSP’s Monetary Policy Stance”, which
+was considered by the Monetary Board on 29 August 2002
+
+**26-09-2002** **8**
+
+
+-----
+
+#                                 Bangko Sentral ng Pilipinas                                 Bangko Sentr                                 Bangko Sentr                                 Bangko Sentral ng Pilipinasal ng Pilipinas  al ng Pilipinas
+
+**21.  The yield curve for government securities in the secondary market as of 16**
+September 2002 generally shifted downward relative to that which prevailed on
+26 August 2002.[18] Compared to 4 January 2002, the yield curve has likewise
+shifted downward, with the general drop in the yields on government securities
+ranging from 138-377 basis points across all maturities.
+
+**The decline in the yields of government securities in the secondary**
+**market reaffirms the general view that there is ample liquidity in the system.**
+
+**Domestic stock market movements**
+
+**22. The domestic stock market posted some modest gains in early September as**
+the average PHISIX registered its first increase after five consecutive months of
+decline. Preliminary figures for September 2002 showed that the average PHISIX
+climbed up to 1,130.2 index points, higher by 19.4 index points from its monthago level.[19] The improvement in investor sentiment can be traced to the release of
+favorable reports on economic performance, particularly, the better-than-expected
+second quarter GDP data and the robust performance of the exports sector.
+Moreover, the passage of the National Transmission Corporation franchise bill in
+the House of Representatives, which underpinned the government’s commitment
+to fostering an investment-friendly environment, also helped lift investors’
+confidence.
+
+**23.  The volume and value of transactions in the domestic stock market displayed**
+mixed trends in September. For the period 1-16 September 2002, the volume of
+transactions reached 2.4 billion shares, 0.7 billion shares lower than the 3.1 billion
+shares posted for the comparable period a month ago. By contrast, total value
+turnover increased by P10.5 billion from P3.9 billion to reach P14.4 billion for the
+same period. The significant increase in value turnover could be attributed to the
+large block transactions involving the shares of blue chip companies. Foreign
+investors were, however, net buyers for the period with foreign buying exceeding
+foreign selling by P48.2 million.[20]
+
+18 Yield curve presented in the in the policy paper entitled, “Review of the BSP’s Monetary Policy Stance”,
+which was considered by the Monetary Board on 29 August 2002
+19 Source: Philippine Stock Exchange (Figures as of 16 September 2002)
+20 Ibid.
+
+**26-09-2002** **9**
+
+
+-----
+
+#                                 Bangko Sentral ng Pilipinas                                 Bangko Sentr                                 Bangko Sentr                                 Bangko Sentral ng Pilipinasal ng Pilipinas  al ng Pilipinas
+
+**The favorable second quarter developments in the domestic economy**
+**helped lift the PHISIX in September. However, market analysts have**
+**expressed caution noting that the recovery of the local stock market could be**
+**constrained by concerns over the strength of the global economy and the**
+**possibility of a US-led military strike against Iraq.**
+
+**Monetary aggregates and bank lending**
+
+**24. Domestic liquidity (M3) growth accelerated to 7.1 percent to reach P1.55**
+trillion as of end-July 2002. This compared favorably to the 5.1 percent year-onyear growth registered in June 2002. The acceleration in the growth of money
+supply could be traced partly to the improving level of net foreign assets (NFA) of
+the monetary system as well as the increase in the credits to the public sector.
+
+**25.  Loans outstanding of commercial banks (KBs) reached P1.384 trillion as of**
+end-July 2002, up by 0.7 percent from P1.374 trillion after posting negative
+month-on-month growth rates for the past two months. Relative to the level a
+year ago, however, bank lending declined by 2.9 percent, slower than the 3.7
+percent year-on-year contraction recorded in June 2002.
+
+**26. The volume of banks’ placements under the RRP window increased by about**
+P4.0 billion to reach P98.6 billion as of 16 September 2002 from the P93.8 billion
+as of end-August 2002. This developed as the rejections during the fortnightly Tbill auctions prompted banks to shift their investments into RRP placements with
+the BSP.
+
+**The decline in bank lending eased in July but banks remained**
+**restrained in their lending activities in their efforts to preserve the quality**
+**their assets. Meanwhile, banks’ placements with the BSP under the RRP**
+**window have increased following rejections at the Treasury bill auctions as**
+**banks shifted their excess liquidity into RRPs.**
+
+**27.  The National Government (NG) budget deficit for the period January-**
+August 2002 was P144.0 billion, exceeding the full-year target of P130 billion
+by P14.0 billion. The Department of Finance (DOF) noted, however, that the
+August budget deficit—at P10.9 billion—was below the average monthly deficit
+of P19 billion for the first seven months. The DOF attributed the fall in the
+August budget deficit to the improvement in revenue collections and the
+slowdown in government expenditures. In the short-term, a  breach of the target
+
+**26-09-2002** **10**
+
+
+-----
+
+#                                 Bangko Sentral ng Pilipinas                                 Bangko Sentr                                 Bangko Sentr                                 Bangko Sentral ng Pilipinasal ng Pilipinas  al ng Pilipinas
+
+deficit should be  manageable, given adequate fiscal resources, as the NG had
+earlier on prefunded  its  financing requirements.  In the long run, the
+sustainability of the fiscal deficits and the costs they impose in terms of debt
+servicing could pose a constraint to macroeconomic management. However,
+given the prevailing low interest rate environment and the benign inflation
+outlook, the BSP could accommodate a moderate overrun in the fiscal deficit.
+
+**Developments and outlook in the rest of the world**
+
+**28.  The World Economic Outlook (WEO) noted that the global recovery was**
+still expected to continue, albeit at a pace slower than what was earlier projected.
+The main risks identified in the WEO included the following: a further fall in
+equity markets; a delayed pick-up in investment; and the possibility of a sharp
+and disorderly adjustment in the US dollar given the current external imbalances
+among the major currency areas.[21] In particular, a sharp depreciation of the US
+dollar has implications on the Philippine economy in terms of capital flows,
+bilateral trade and intra-regional trade, external debt, foreign exchange reserves
+as well as the peso-dollar exchange rate.
+
+**29.  The WEO also noted that the overall speed of the US economic recovery**
+would be much slower than earlier expected. There were signs that consumer
+confidence was weakening in the US economy as reflected in the weakness in the
+stock market and the relatively slow pick-up in consumer spending. This could be
+attributed to the steep declines in equity prices following exposure of corporate
+accounting irregularities and corporate governance inadequacies. Consumer
+sentiment continued to be weak  as  the University of Michigan’s consumer
+confidence index fell for the third consecutive month  at 87.6 in August  from
+88.1 in July and 92.4 in June. However, other indicators pointed to brighter
+prospects ahead. Retail sales rose by 5.2 percent in August from 4.8 percent in the
+previous month, boosted by increased car sales. The jobless numbers improved as
+the unemployment rate declined to 5.7 percent from 5.9 percent during the same
+period.  Given the considerable uncertainty about the extent and  timing of the
+expected pickup in production and employment  due in part to  heightened
+geopolitical risks, the Fed kept  the federal funds target  rate  unchanged   at
+1.75 percent during its meeting on 24 September 2002. The  Fed noted that the
+current accommodative stance of monetary policy coupled with still robust
+
+21 IMF, World Economic Outlook, Prospects and Policy Issues (September 2002)
+
+**26-09-2002** **11**
+
+
+-----
+
+#                                 Bangko Sentral ng Pilipinas                                 Bangko Sentr                                 Bangko Sentr                                 Bangko Sentral ng Pilipinasal ng Pilipinas  al ng Pilipinas
+
+underlying productivity growth should be sufficient to foster improving business
+climate overtime.[22]
+
+**30.  In the eurozone, real GDP grew by 0.6 percent in the second quarter,**
+indicating a slight improvement from the 0.3 percent growth registered in the first
+quarter.  However, other indicators continued to point toward a slowing down of
+economic activity.  The growth in the euro zone’s services sector slowed down
+in August as measured by the Reuters Eurozone Business Activity index for
+services, which fell to 50.8 in August, only slightly higher than the 50.0 level
+that divides growth from contraction.[23]  Moreover, inflation in the eurozone in
+recent months has been hovering around the 2 percent ceiling of the European
+Central Bank (ECB). Inflation reached 2.1 percent in August  from 1.9 percent in
+the previous month. Meanwhile, in Japan, output performance in the second
+quarter of this year was better than the market expected, helped by the better-thananticipated performance of domestic consumption and exports, the latter
+attributed largely to the depreciation of the yen in the early part of the year.
+However, deflationary pressures continued to weigh down on recovery prospects
+for the Japanese economy.
+
+**The global economy is expected to recover but at a slower pace than**
+**earlier projected. Given the uncertainty over the prospects for sustained**
+**economic recovery, the Fed and other major central banks have continued to**
+**pursue an accommodative monetary policy stance in order to support**
+**economic growth.**
+
+**II. Discussion  on the Review of the Monetary Policy Stance**
+
+**31.** The members of the Monetary Board noted that while the Philippine
+economy posted a better-than-expected performance  in the second quarter, other
+indicators continued to point to the softness in domestic demand.  Spare
+capacity in manufacturing  remained  relatively high at about a quarter of
+firms’ total output  capacity.  Credit conditions also remained weak  despite a
+shallower decline in bank lending in July. At the same time, the Philippine
+economy faced external downside risks arising  from the uncertainty over the
+robustness of the global economic recovery as well as the  continuing threat of a
+
+22 Federal Reserve, Press Release, 24 September 2002  in www.federalreserve.gov/board/boarddocs/press
+23 Reuters.com, “Lagging Japan economy on G7 agenda-US Tsy’s Taylor”, 13 September 2002
+
+**26-09-2002** **12**
+
+
+-----
+
+#                                 Bangko Sentral ng Pilipinas                                 Bangko Sentr                                 Bangko Sentr                                 Bangko Sentral ng Pilipinasal ng Pilipinas  al ng Pilipinas
+
+US-led offensive against Iraq and its implications on world oil supply and prices.
+Under these conditions, the Monetary Board believed that monetary policy should
+continue to provide a supportive environment  that would foster  a sustainable
+recovery in domestic demand while  guarding  firmly against  price pressures.
+
+**32.  The members of the Monetary Board shared the view that inflation is likely**
+to remain tame for the rest of the year with average inflation falling well below
+the 4.5-5.5 percent target range for the year. However, the members of the
+Monetary Board believed that there are potential upside pressures to the inflation
+outlook over the policy horizon. In particular, the Monetary Board cited the
+uncertainty over the impact of El Niño weather on agricultural crop production in
+2003,  sustained uptrend in  world oil prices, delayed but eventual adjustment
+in user charges and the impact of continued fiscal underperformance as
+potential risk factors to inflation and inflationary expectations. Hence, the
+Monetary Board agreed that these indications  of potential upside pressures to
+future inflation and inflationary expectations combined with the uncertainty
+about the strengthening of domestic demand  called for a cautious monetary
+policy stance, one that  remains supportive of the economy’s growth objective
+while  keeping a low and stable inflation environment.
+
+**33.  Given the still soft demand conditions,   the  option of  further easing of**
+monetary policy settings  through  a reduction in the BSP’s policy rates was also
+discussed by the members of the Monetary Board. However, the Monetary Board
+noted that a further easing of the BSP’s monetary policy stance at this time,
+would infuse additional liquidity in the system, which already  has  ample
+liquidity.  Given that  monetary policy affects inflation with a lag, a more
+accommodative stance now  could undermine the attainability of the inflation
+target  in  2003. The Monetary Board identified the following main risk factors
+to inflation and inflationary expectations arising from  a reduction in policy
+rates:
+
+a. The present scope for monetary easing is already limited by the fact that
+policy rates  have already been reduced to a significant extent over the past
+year;
+
+b. Further monetary easing, through a reduction in the BSP’s policy rates
+would  infuse  more liquidity in the system, which could generate
+inflationary pressures. This could also increase the risk of a sharp correction
+in interest rates later should inflationary pressures become evident;
+
+**26-09-2002** **13**
+
+
+-----
+
+#                                 Bangko Sentral ng Pilipinas                                 Bangko Sentr                                 Bangko Sentr                                 Bangko Sentral ng Pilipinasal ng Pilipinas  al ng Pilipinas
+
+c. A reduction in the BSP’s policy rates  would narrow down further  the
+country’s interest rate differentials with foreign interest rates, which could
+trigger increased volatility in the foreign exchange market and  undermine
+the broad stability of the peso. This could impact adversely on inflation and
+inflationary expectations; and
+
+d. Market’s concerns that the budget deficit would  continue to widen for the rest
+of the year  could  limit the  scope for the BSP’s monetary policy actions.
+
+**34.** Given the downside risks to the inflation outlook over the policy horizon,
+the Monetary Board also discussed whether raising the BSP’s policy interest rates
+could be an option. The members of the Monetary Board, however, noted that the
+growth of the domestic economy remained uneven and tentative as reflected in the
+mixed trends displayed by leading economic indicators. An increase in interest
+rates could impede measures aimed at achieving sustainable economic growth.
+Moreover, the potential sources of inflationary pressures would emanate largely
+from the supply side and, therefore, may not warrant a policy response in the form
+of higher policy interest rates.
+
+**III.  Monetary Policy Decision**
+
+**26-09-2002** **14**
+
+
+-----
+
+#                                 Bangko Sentral ng Pilipinas                                 Bangko Sentr                                 Bangko Sentr                                 Bangko Sentral ng Pilipinasal ng Pilipinas  al ng Pilipinas
+
+**35.  Based on the  analysis of data that have become available since the last**
+meeting of the Monetary Board on 29 August 2002  and a careful assessment of
+the balance of risks on inflation and inflationary expectations, the members of
+the Monetary Board—by a unanimous vote—decided to support the Advisory
+Committee’s recommendations as follows:
+
+a. maintain the BSP’s policy rates at the current levels of 7.0 percent for
+the overnight RRP (borrowing) rate and 9.25 percent for the overnight
+RP (lending) rate;
+
+b. maintain the tiering scheme on banks’ placements with the BSP under
+the RRP and SDA windows;
+
+c. maintain the  current interest rates on the term RRPs, RPs, and SDAs;
+and
+
+d. maintain the reserve requirements at their current levels given the
+adequate level of liquidity in the system.
+
+The next meeting of the Monetary Board to discuss the monetary policy
+setting was scheduled on 23 October 2002.
+
+**- The Monetary Board of the Bangko Sentral ng Pilipinas**
+
+**26-09-2002** **15**
+
+
+-----
+

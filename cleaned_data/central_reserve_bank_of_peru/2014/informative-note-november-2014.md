@@ -1,0 +1,41 @@
+# MONETARY PROGRAM FOR NOVEMBER 2014
+ BCRP MAINTAINED THE POLICY INTEREST RATE AT 3.50%
+
+1. The Board of the Central Reserve Bank of Peru approved to maintain the monetary policy
+interest rate at 3.50 percent.
+
+This level of the benchmark rate is compatible with the forecast that inflation will be
+converging to 2.0 percent target in 2015. This forecast takes into account that: i) current and
+advanced indicators of economic activity continue showing a pace of growth below the
+potential level of growth; ii) inflation expectations remain anchored within the target range,
+and iii) recent international indicators show mixed signals of global economic recovery, as
+well as increased volatility in financial and exchange markets.
+
+2. Inflation in October showed a rate of 0.38 percent, as a result of which inflation in the last 12
+months rose from 2.74 percent in September to 3.09 percent in October due to transitory
+supply factors. Inflation without food and energy recorded a rate of 0.12 percent, as a result
+of which the interannual rate of inflation fell from 2.57 percent in September to 2.56 percent
+in October.
+
+3. Current and advanced indicators of activity continue to show a weak economic cycle, with
+lower GDP growth rates than the ones of the potential output.
+
+4. In November, the BCRP has continued lowering the reserve requirement rate in domestic
+currency –from 10.5 to 10.0 percent– with the aim of supporting the growth of credit in soles.
+
+5. The Board oversees the inflation forecasts and inflation determinants, and will implement
+additional monetary easing measures if it is necessary.
+
+6. The Board of the Central Bank also approved to maintain the annual interest rates on lending
+and deposit operations in domestic currency (not included in auctions) between the BCRP
+and the financial system, as described below:
+
+a. Overnight deposits: 2.30 percent.
+b. Direct repos and rediscount operations: 4.30 percent.
+c. Swaps: a commission equivalent to a minimum annual effective cost of 4.30 percent.
+
+7. The Board will approve the Monetary Program for December on December 11, 2014.
+
+
+-----
+

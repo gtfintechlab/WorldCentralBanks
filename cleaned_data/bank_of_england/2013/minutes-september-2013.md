@@ -1,0 +1,542 @@
+### Publication date: 18 September 2013
+
+## MINUTES OF THE 
+
+# MONETARY POLICY
+ COMMITTEE MEETING
+
+## 3 AND 4 SEPTEMBER 2013
+
+##### These are the minutes of the Monetary Policy Committee meeting held on 
+
+ 3 and 4 September 2013. 
+
+ They are also available on the Internet
+
+[http://www.bankofengland.co.uk/publications/minutes/Pages/mpc/pdf/2013/mpc1309.aspx](http://www.bankofengland.co.uk/publications/minutes/Pages/mpc/pdf/2013/mpc1309.aspx)
+
+##### The Bank of England Act 1998 gives the Bank of England operational responsibility for setting
+
+ monetary policy to meet the Government’s inflation target. Operational decisions are taken by
+
+ the Bank’s Monetary Policy Committee. The Committee meets on a regular monthly basis and
+
+ minutes of its meetings are released on the Wednesday of the second week after the meeting
+
+ takes place. Accordingly, the minutes of the Committee meeting to be held on 
+
+ 8 and 9 October will be published on 24 October 2013.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 3 AND 4 SEPTEMBER 2013
+
+1 Before turning to its immediate policy decision, the Committee discussed financial market
+
+developments; the international economy; money, credit, demand and output; and supply, costs and
+
+prices.
+
+**Financial markets**
+
+2 There had been some substantial movements in financial asset prices, especially during the early
+
+part of the month. These came against the backdrop of monetary policy announcements in the
+
+United Kingdom, a string of positive UK economic data releases, and continued speculation over the
+
+prospects for the US Federal Reserve’s large-scale asset purchase programme.
+
+3 UK ten-year spot nominal gilt yields had increased by around 40 basis points, while market
+
+interest rates had risen by more at shorter maturities: one-year overnight index swap rates two years
+
+ahead had risen by nearly 60 basis points. Market prices implied that Bank Rate was expected to
+
+increase by a full 25 basis points by the middle of 2015, around six months earlier than at the time of
+
+the MPC’s previous meeting. But, by contrast, the Thomson Reuters survey of economists indicated
+
+that the expected timing of the first increase in Bank Rate had been pushed out. The timing of
+
+movements in the UK and US yield curves had been correlated, suggesting a common cause, although
+
+sterling rates had generally increased by a little more than dollar ones. The sterling effective exchange
+
+rate had appreciated by 3½% and was at its highest since mid-January. Equity prices had fallen by 2%
+
+in the United Kingdom, less than the 3% decline seen in US markets, while share prices in the
+
+euro area had increased modestly.
+
+4 Since its previous policy meeting, the MPC had provided guidance regarding the future path of
+
+monetary policy. The MPC expressed its intention not to raise Bank Rate above 0.5% or to reduce its
+
+stock of asset purchases at least until the headline LFS unemployment rate had fallen to 7%, subject to
+
+three ‘knockout’ conditions that would invalidate the guidance not being breached. These concerned
+
+the outlook for inflation 18-24 months ahead, the stability of measures of inflation expectations, and
+
+the impact of the monetary policy stance on financial stability. The Committee had been concerned
+
+
+-----
+
+2
+
+that the issuance of such guidance might be misinterpreted as constituting a diminution of its
+
+commitment to meeting the 2% inflation target in the medium term. In that context, it was reassuring
+
+that the increases in nominal yields over the month had largely reflected higher real yields.
+
+5 There were several potential explanations for the movements in asset prices during the month. It
+
+seemed probable that much of the price movement seen in the United States had been associated with
+
+heightened speculation that the FOMC would announce a reduction in the pace of its asset purchase
+
+programme at its September meeting. It appeared that part of the increase in UK yields at shorter
+
+maturities reflected developments in US yields. In addition, UK rates had been supported by the
+
+positive flow of economic data during the month, which had been consistently stronger than market
+
+expectations. A final possibility was that the unemployment rate threshold announced by the MPC had
+
+been higher than some financial market participants had expected, or that the conditionality attached to
+
+the forward guidance – in the form of the three knockouts – had been more stringent. If that were the
+
+case, then it might also help to explain the increase in sterling yields, as market participants reassessed
+
+the outlook for Bank Rate. The reaction of market interest rates on the day of the MPC’s
+
+announcement had been muted, however.
+
+**The international economy**
+
+6 The data regarding the global economy had been mixed during the month, with encouraging
+
+signs in the United Kingdom’s major advanced-economy trading partners, but with downside risks
+
+appearing to intensify in some emerging economies.
+
+7 Euro-area GDP had increased by 0.3% in 2013 Q2, compared with a reduction of 0.2% in the
+
+first quarter. That pickup in growth had been slightly more brisk than the Committee had judged likely
+
+at the time of the August Inflation Report. It was somewhat reassuring that the increase in output had
+
+been broadly based across countries within the area, albeit that German growth had probably been
+
+boosted by a weather-related recovery in output. Both the manufacturing and services area-wide
+
+purchasing managers’ indices (PMIs) had increased in August.
+
+8 These developments seemed consistent with, or a little better than, the modest recovery in the
+
+euro area underpinning the Committee’s previous Inflation Report projections. Nevertheless, the scale
+
+of the adjustment challenge facing the euro area remained considerable. Although some time ahead,
+
+
+-----
+
+3
+
+the ECB’s Asset Quality Review of banks’ balance sheets, planned for the first half of 2014, would be
+
+an important determinant of the durability of the recovery.
+
+9 In the United States, second-quarter GDP growth had been revised up to 0.6% as a result of
+
+stronger trade data. Data concerning the third quarter had been mixed, with increases in the
+
+manufacturing activity ISM index in July and August, and in the non-manufacturing ISM index in
+
+July, set against weaker-than-expected employment and durable goods orders figures. Overall, there
+
+seemed little reason to aim off the baseline assumption made at the time of the August Inflation Report
+
+for growth of around 0.5% a quarter in the second half of the year. Much of the commentary
+
+surrounding the US economic situation had centred on the likelihood or otherwise of the Federal
+
+Reserve reducing the pace of its large-scale asset purchases following the meeting of the FOMC in the
+
+middle of September.
+
+10 News from emerging economies had been less positive. In particular, the reversal of earlier
+
+capital flows into several emerging markets had continued – typically from those countries with weak
+
+external positions – amid increased concern about the strength of growth in those countries and the
+
+prospects for global liquidity if the FOMC began to wind down its asset purchases. While many
+
+emerging economies would be able to draw on considerable foreign exchange reserves to finance those
+
+capital outflows, others could be more vulnerable. Since June policymakers in several countries,
+
+including Brazil, Indonesia and Turkey, had responded to continued capital outflows by raising official
+
+interest rates, despite relatively weak growth. Some countries, such as India, had also adjusted capital
+
+controls to reduce net financial outflows.
+
+11 The risk of a sustained period of weaker growth in some emerging economies might be expected
+
+to put downward pressure on global commodity prices in due course. But, over the month as a whole,
+
+the dollar price of Brent crude had increased by 6%, having spiked up and subsequently fallen back a
+
+little near the end of the month. That volatility seemed most likely to be related to escalating concerns
+
+over the consequences of possible military action in Syria, as well as continuing disruption to Libyan
+
+and Nigerian oil supply. The increase in oil prices, if sustained, would add a little to near-term
+
+inflationary pressures in the United Kingdom, although one third of its impact had been offset in
+
+sterling terms by the recent appreciation of the pound against the dollar.
+
+
+-----
+
+4
+
+**Money, credit, demand and output**
+
+12 The estimate of GDP growth in the second quarter had been revised up a little to 0.7% in the
+
+second release. The initial estimates of the expenditure breakdown had suggested that growth had
+
+been fairly broadly based, with investment and export growth both a little stronger than the Committee
+
+had anticipated. Such initial estimates for the expenditure components were, however, highly
+
+uncertain. There were other reasons for caution. For instance, the strength of exports was
+
+concentrated in a couple of subsectors and appeared erratically strong by comparison with the growth
+
+of world trade volumes during Q2; and the large positive contribution to growth from stockbuilding
+
+would probably prove transient, especially if it were simply a bounceback from the temporary
+
+de-stocking observed in the first quarter.
+
+13 Nevertheless, that modestly promising data release had been augmented by the continuing
+
+strengthening of the indicators of consumer spending in 2013 Q3 and further strong business surveys
+
+in August. The Markit/CIPS services activity index was broadly unchanged in August, after having
+
+increased sharply in July, and the manufacturing and construction indices had strengthened further.
+
+Consequently, the composite PMI was at its highest level since 1997. The CBI service sector survey
+
+had also strengthened in August. Overall, Bank staff estimated that the initial estimate of output
+
+growth in the third quarter would be around 0.7%, compared with the 0.5% expected at the time of the
+
+August Inflation Report. Moreover, the early indicators for activity in Q4 tentatively suggested further
+
+strengthening towards the end of the year. Overall, these data provided further evidence in support of
+
+the pickup in growth assumed at the time of the August Inflation Report and, if anything, posed an
+
+upside risk to that path.
+
+14 Since the spring, and after several years of stasis, activity in the housing market had been picking
+
+up and, on the basis of recent indicators, gaining momentum. Although still well below pre-crisis
+
+norms, monthly mortgage approvals had increased by almost a third over the past year. And,
+
+according to the average of the main lenders’ indices, nominal house prices in July stood around 4%
+
+higher than a year earlier and so had begun rising in real terms for the first time since mid-2010. In a
+
+confidential preview of the survey, the RICS current house price balance had risen to a level last seen
+
+at the end of 2009. There had also been signs of an easing in conditions in the commercial property
+
+market.
+
+
+-----
+
+5
+
+15 Increased housing market activity had the potential to support dwellings investment and
+
+spending on associated services, thereby boosting growth overall. And some rise in prices might
+
+provide a modest fillip to consumer spending and investment if, for example, the increase in collateral
+
+values helped to relax households’ and small businesses’ credit constraints. Nevertheless, the
+
+Committee noted that property market developments would become more of a concern if a period of
+
+rapid real house price increases appeared in prospect. The Committee noted the fact that the Financial
+
+Policy Committee and the Prudential Regulation Authority now had a range of instruments they could
+
+deploy to mitigate this.
+
+**Supply, costs and prices**
+
+16 Twelve-month CPI inflation had been 2.8% in July, in line with the Committee’s and market
+
+participants’ expectations. The outlook for inflation remained broadly as set out in the August
+
+_Inflation Report. The 4% increase in the sterling price of oil would be likely to raise the near-term_
+
+profile for inflation; while the appreciation of sterling, if sustained, would bear down on inflation
+
+further out, including in the 18-24 months ahead range pertinent for the forward guidance knockout.
+
+17 The expectations of future inflation implied by financial market prices had risen only marginally
+
+on the month. And the most recent surveys of households’ inflation expectations had shown no clear
+
+pattern. The Barclays Basix measures of expectations two and five years ahead and the
+
+YouGov/Citigroup measure five to ten years ahead had both increased in the latest data. But the Bank
+
+of England/NOP survey measures of expectations both two and five years ahead had declined.
+
+Revisions to the inflation projections of professional forecasters had typically been small. Overall,
+
+there seemed little to change the Committee’s assessment at the time of the August Inflation Report
+
+that expectations remained consistent with hitting the 2% inflation target in the medium term.
+
+18 Both whole economy and private sector annual regular pay growth had remained at around 1% in
+
+the three months to June. The earnings data, especially for total earnings, had recently been distorted
+
+by the impact of payments being delayed until after changes to the income tax schedule in April. But
+
+these distortive effects had mostly worked through the data, such that 1% was probably a reasonable
+
+guide to the underlying pace of annual pay growth. If anything, labour market surveys pointed to a
+
+modest pickup in wage growth. But the signal from these surveys was typically quite weak and there
+
+was, as yet, little evidence to contradict the Committee’s judgement that annual earnings growth would
+
+remain around 1% throughout 2013.
+
+
+-----
+
+6
+
+19 The LFS unemployment rate, upon which the Committee’s forward guidance threshold was
+
+based, had been 7.8% in the three months to June, the same as in the previous three months. The
+
+number of people employed had increased by almost 70,000, which, given the estimated growth in the
+
+size of the population, meant that the employment and inactivity rates had remained unchanged. The
+
+unemployment rate for the single month of June was estimated to have been 7.4%, which – in the
+
+context of the Committee’s forward guidance threshold – had caused some market commentary.
+
+While the single-month unemployment data were a helpful input to the Committee’s analysis,
+
+members did not place a great deal of weight on them: the single-month data did not, as yet, meet the
+
+statistical standards that the ONS required to qualify as a ‘National Statistic’; they were volatile, being
+
+both based on a smaller sample than the three-month headline unemployment figures and scaled up
+
+from the survey sample in a more rudimentary way; and they were subject to cohort effects.
+
+**The immediate policy decision**
+
+20 The Committee set monetary policy to meet the 2% inflation target in the medium term, and in a
+
+way that avoided undesirable volatility in output in the short term. In pursuit of that objective, the
+
+Committee had, at the time of the August Inflation Report, provided guidance regarding the future path
+
+of monetary policy. At its previous policy meeting, the Committee had agreed its intention not to raise
+
+Bank Rate from its current level of 0.5% or to reduce its stock of asset purchases at least until the LFS
+
+headline unemployment rate had fallen to a threshold of 7%, subject to three ‘knockout’ conditions,
+
+relating to: the judged likelihood that inflation would not exceed 2.5% 18-24 months ahead; the
+
+stability of measures of medium-term inflation expectations; and the impact of the stance of monetary
+
+policy on financial stability, as judged by the Bank’s Financial Policy Committee (FPC). Members
+
+had all agreed that this forward guidance, and the articulation of the Committee’s reaction function
+
+contained within it, should provide the framework and context for future monetary policy discussions.
+
+21 There had been some notable developments over the month. Domestically, there were increased
+
+signs that the recovery was taking hold, which had been accompanied by an upward movement in
+
+sterling market interest rates. The GDP data for the second quarter had been revised up, and survey
+
+indicators of activity had been upbeat. Those data presented an upside risk to the growth profile
+
+described in the August Inflation Report. Internationally, there were signs that growth in the euro area
+
+– the United Kingdom’s largest trading partner – had been stronger than the Committee had
+
+anticipated. But the downside risks presented by developments in several emerging economies had
+
+
+-----
+
+7
+
+increased. Oil prices had risen, which would probably push up the path for CPI inflation a little in the
+
+near term. But this had been partly offset by the appreciation of sterling, which itself was likely to
+
+dampen inflationary pressures somewhat in the medium term.
+
+22 The LFS unemployment rate had remained at 7.8%, some way above the 7% forward guidance
+
+threshold. The announcement of the MPC’s forward guidance had prompted increased attention
+
+among economists and market participants to the date on which the unemployment threshold would be
+
+reached. While this demonstrated an increased understanding of the Committee’s intention to link
+
+monetary policy more explicitly to easily observable data outcomes, relatively small changes in
+
+assumptions regarding the future evolution of, for instance, productivity growth or labour market
+
+participation would have significant effects on when unemployment would be expected to reach the
+
+7% threshold. The Committee agreed the need to emphasise in its public communication that the 7%
+
+threshold for the unemployment rate was not a ‘trigger’ that was mechanically linked to subsequent
+
+movements in Bank Rate. Rather, MPC members judged it to be a sensible point, in the absence of
+
+any of the knockouts being breached, to reassess the outlook for inflation and growth drawing on all of
+
+the relevant factors and data, much as the Committee had always done.
+
+23 The Committee considered developments on the month in the context of the three knockouts that
+
+would invalidate the forward guidance announced in August.
+
+24 Against the backdrop of indicators of stronger near-term growth than seemed likely a month
+
+earlier, there were tentative signs that the degree of spare capacity within firms might be beginning to
+
+diminish. But it remained too early to assess how likely it was that effective supply capacity would
+
+increase as demand recovered, thus moderating any additional inflationary impetus resulting from that
+
+extra demand. If sustained, the appreciation of sterling meant that CPI inflation was marginally less
+
+likely than a month ago to be above 2.5% in 18-24 months’ time.
+
+25 There had been little news regarding medium-term inflation expectations. Measures derived
+
+from financial market prices had risen only marginally, and the evidence from household surveys was
+
+ambiguous. Revisions to professional forecasters’ expectations for medium-term inflation were minor,
+
+and gave no particular signal. There was, therefore, little reason overall to shift the Committee’s
+
+judgement that medium-term inflation expectations remained sufficiently well anchored.
+
+
+-----
+
+8
+
+26 The FPC had not met since the MPC’s forward guidance had been announced. The MPC would
+
+await the FPC’s assessment of the financial stability consequences of the current monetary stance in
+
+due course.
+
+27 All Committee members agreed that none of the three knockout conditions that would invalidate
+
+the forward guidance announced in August had been breached. And unemployment remained above
+
+the 7% threshold. In that light, the guidance remained in place and no MPC member thought it
+
+appropriate to tighten the stance of policy at the current juncture. Members had different views about
+
+the extent to which a further loosening of the monetary stance might be warranted, based in part on
+
+their judgements about the speed with which the degree of slack in the economy might be reduced if
+
+the momentum in demand continued to grow. This remained difficult to judge, and there had been few
+
+developments to shed light on it since the Committee’s previous meeting. Over the month the
+
+evidence was consistent with a recovery at least as strong as that expected at the time of the August
+
+_Inflation Report. Were the recovery to falter, the case for further asset purchases would be stronger._
+
+But no member judged that further stimulus was appropriate at present.
+
+28 The Governor invited the Committee to vote on the propositions that:
+
+Bank Rate should be maintained at 0.5%;
+
+The Bank of England should maintain the stock of asset purchases financed by the issuance
+
+of central bank reserves at £375 billion.
+
+Regarding Bank Rate, the Committee voted unanimously in favour of the proposition.
+
+Regarding the stock of asset purchases, the Committee voted unanimously in favour of the proposition.
+
+29 In the light of the Committee’s forward guidance, and as described in a market notice of
+
+5 September 2013, the Committee agreed to reinvest the £1.9 billion of cash flows associated with the
+
+redemption of the September 2013 gilt held in the Asset Purchase Facility.
+
+30 In order to accommodate some members’ attendance at international meetings in Washington
+
+DC on 10 October, the MPC’s policy meeting scheduled for 9-10 October will take place on
+
+
+-----
+
+9
+
+
+8-9 October. The decision will still be announced at the originally scheduled time of 12.00 on 10
+
+October.
+
+31 The following members of the Committee were present:
+
+Mark Carney, Governor
+Charles Bean, Deputy Governor responsible for monetary policy
+Paul Tucker, Deputy Governor responsible for financial stability
+Ben Broadbent
+Spencer Dale
+Paul Fisher
+Ian McCafferty
+David Miles
+Martin Weale
+
+Dave Ramsden was present as the Treasury representative.
+
+
+-----
+

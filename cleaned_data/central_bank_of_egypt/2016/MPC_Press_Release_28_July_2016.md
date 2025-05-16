@@ -1,0 +1,51 @@
+# Central Bank of Egypt
+
+**Press Release**
+
+**July 28, 2016**
+
+**_In its meeting held on July 28, 2016, the Monetary Policy Committee (MPC) decided to keep_**
+**_the overnight deposit rate, overnight lending rate, and the rate of the CBE's main operation_**
+**_unchanged at 11.75 percent, 12.75 percent, and 12.25 percent, respectively. The discount rate_**
+**_was also kept unchanged at 12.25 percent._**
+
+Headline year-on-year inflation rose to 13.97 percent in June 2016 from 12.30 percent in May
+2016, while the month-on-month rate dropped to 0.78 percent in June from 3.05 percent in
+May. Core inflation rose to 12.37 percent in June 2016 from 12.23 percent in May 2016, while
+the month-on-month rate dropped to 0.74 percent in June from 3.15 percent in May.
+
+Annual headline inflation in June 2016 was partly affected by unfavorable base effects from the
+previous year and remained elevated due to the relatively high month-on-month inflation in
+May 2016. Monthly headline inflation in June 2016 came mainly on the back of higher prices of
+volatile food items, in addition to core food items, particularly red meat and poultry.
+Furthermore, monthly headline inflation was affected by retail items, particularly seasonal
+increases in the prices of clothing and footwear associated with the Eid-Al-Fitr festivities. The
+pass-through of previous exchange rate movements to domestic prices as measured by the
+consumer price index remained limited.
+
+Output remained unfavorably impacted by domestic as well as external factors. Domestic
+demand contributed 4.8 percentage points to the 4.5 percent real GDP growth in the first half
+of 2015/16, while net external demand contributed negative 0.3 percentage points. By sector,
+the services sector was the highest contributor to economic growth, particularly construction
+and real estate, while tourism contributed negatively. Furthermore, growth continued to be
+supported by internal trade, agriculture and the general government sectors, whereas the
+industrial sector contributed negatively mainly due to continued weakness in the mining
+activity, but also due to negative contribution of non-petroleum manufacturing.
+
+At this juncture, the MPC judges that the key CBE rates are currently appropriate given the
+balance of risks surrounding the inflation and GDP outlooks.
+
+
+-----
+
+The MPC reiterates its price stability mandate and will continue to closely monitor all economic
+developments, particularly fiscal policy and its effect on the inflation outlook, and will not
+hesitate to adjust the key CBE rates to ensure price stability over the medium-term.
+
+Monetary Policy Sector
+Tel : 27701315
+E-mail: monetary.policy@cbe.org.eg
+
+
+-----
+

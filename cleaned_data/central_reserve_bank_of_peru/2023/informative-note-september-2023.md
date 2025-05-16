@@ -1,0 +1,66 @@
+**PRESS RELEASE**
+
+**MONETARY POLICY STATEMENT SEPTEMBER 2023**
+
+**BCRP REDUCED THE REFERENCE RATE TO 7.50%**
+
+1. The Board of Directors of the Central Reserve Bank of Peru (BCRP) decided to reduce the
+reference rate by 25 bps to 7.50 percent. This decision does not necessarily imply a sequence
+of interest rate reductions. Future reference rate adjustments will be conditional on new
+information about inflation and its determinants.
+
+2. The decision to reduce the reference rate considered the following information and projections:
+
+i. In August, month-on-month inflation was 0.38 percent and core inflation 0.24 percent.
+Year-on-year inflation fell from 5.88 percent in July to 5.58 percent in August, while core
+inflation decreased from 3.89 percent in July to 3.81 percent in August. Both indicators
+have been decreasing since the beginning of 2023 but remain above the upper limit of
+the inflation target range.
+
+ii. The sharp increase in international food and fuel prices since the second half of 2021,
+accentuated by international conflicts, has led to a sharp increase in global inflation in
+magnitudes not seen in many years and towards levels significantly higher than the
+inflation targets of central banks, although in most countries, a decreasing trend is
+observed throughout the year. In the Peruvian case, there were transitory effects on
+inflation greater than expected due to restrictions in the supply of some food items,
+some of which would have begun to recede since June.
+
+iii. The downward trend in year-on-year inflation is forecast to continue, reaching the target
+range at the beginning of next year, due to a moderation of the impact of international
+food and fuel prices, a reversal of agricultural supply shocks, and declining inflation
+expectations. However, there are risks related to climatic factors.
+
+iv. One-year-ahead expected inflation decreased from 3.57 percent in July to 3.36 percent
+in August, approaching the upper limit of the inflation target range.
+
+v. The leading and expectations indicators for economic activity in July show a moderate
+recovery compared to the previous month but remain in pessimistic territory. The shocks
+derived from social conflicts and the coastal El Niño have had a greater than expected
+impact on economic activity and domestic demand.
+
+vi. The outlook for global economic activity has moderated; however, global risks remain
+due to monetary tightening in advanced economies, lower growth rates in China and
+international conflicts.
+
+3. The Board is particularly attentive to new information on inflation and its determinants,
+including the evolution of inflation expectations and economic activity, to consider, if necessary,
+additional changes in the monetary stance. The Board reaffirms its commitment to adopt the
+necessary actions to ensure the return of inflation to the target range over the forecast horizon.
+
+4. The Board also decided the following interest rates on its window facility operations in domestic
+currency with financial entities:
+
+i. Overnight deposits: 4.75 percent per year.
+ii. Direct security/currency repo and rediscount operations: i) 8.00 percent per year for the first
+10 operations in the last 3 months and ii) the interest rate set by the Monetary and Exchange
+Operations Committee for operations in addition to these 10 operations in the last 3 months.
+In addition, the Monetary and Exchange Operations Committee may establish higher rates
+based on the amount of the operations.
+
+5. The BCRP Board’s next monetary policy session will take place on October 5, 2023.
+
+Lima, September 14, 2023
+
+
+-----
+

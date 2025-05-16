@@ -1,0 +1,501 @@
+### May 13, 2016
+
+## The Bank of Korea
+
+
+-----
+
+###### (English version)
+
+#### Minutes of the Monetary Policy Board Meeting[1)]
+
+##### (May 2016)
+```
+Ⅰ. Outline
+
+###### 1. Date of meeting: Friday, May 13, 2016
+
+ 2. Place     : Monetary Policy Board Meeting Room
+
+ 3. Monetary Policy Board members present:
+
+ Lee, Juyeol, Chairman (Bank of Korea Governor) Hahm, Joon-Ho Jang, Byung Wha (Senior Deputy Governor) Lee, Il Houng Cho, Dongchul Koh, Seung Beom Shin, Inseok
+
+ 4. Monetary Policy Board members absent: none
+
+ 5. Participants: Ha, Sung, Auditor Hur, Jae Sung, Deputy Governor Suh, Young Kyung, Deputy Governor Kim, Minho, Deputy Governor Yoon, Myun-Shik, Deputy Governor Lim, Hyung Joon, Deputy Governor Chae, Sun Byoung, Director General of Reserve Management Group Chang, Min, Director General of Research Department Cho, Jeonghwan, Director General of Financial Stability Department Huh, Jin Ho, Director General of Monetary Policy Department Shin, Ho Soon, Director General of Financial Markets Department Hong, Seung Je, Director General of International Department Sohn, Wook, Director of BOK Economic Research Institute Suh, Bong Gook, Press Officer Lee, Hwanseok, Director General of Monetary Policy Board Secretariat Park, Cheol Won, Head of MPB Team
+
+```
+1) This English version (summary) of the minutes of the Monetary Policy Board Meeting was
+produced at a working level, and is not an official document.
+
+1
+
+
+-----
+
+```
+Ⅱ. Summary of Discussions on the Current Economic Situation2)
+
+###### After briefings by staff on ‘Current Economic Developments in Korea’,
+
+ ‘FX and International Finance’ and ‘Financial Markets’, the discussions of
+
+ the Monetary Policy Board (MPB) members covered the following areas:
+
+ With regard to the global economy, members’ assessment was that the modest recovery in the euro area economy had been sustained, the Chinese economic downturn had eased, boosted by the government’s aggressive policy measures, and the recovery in the US economy had weakened somewhat. As to international financial markets, most members evaluated global stock prices and Treasury bond yields in major countries as having risen and then fallen back overall and the US dollar as having remained slightly weak against major currencies, due chiefly to the run-up in international oil prices and global economic movements.
+
+ Concerning the domestic economy, some members assessed that exports  remained sluggish, but that consumption and investment appeared to be improving.
+
+ With regard to the domestic financial markets, meanwhile, some members evaluated that, with international financial market volatility having been increased by sluggish global economic indicators, stock prices and long-term market interest rates had fallen back after having risen and the won-dollar rate had rebounded after having fallen gradually.
+
+ As to prices, some members noted that consumer price inflation had stood at 1.0 percent as in the previous month, and that core inflation had increased slightly month-on-month to 1.8 percent.
+
+```
+2) English versions of 'Current Economic Developments in Korea' and 'Financial Markets'
+are posted on the Bank of Korea website.
+
+2
+
+
+-----
+
+```
+Ⅲ. Discussions Concerning Monetary Policy Decision (Summary)
+
+###### The main details of the MPB Members’ discussions concerning a
+
+ change in the Bank of Korea Base Rate were as follows:
+
+ Members shared the opinion that, in overall consideration of the changes in the domestic and international economic environments, it would be desirable this month to hold the Base Rate at its current level for the intermeeting period.
+
+ One member presented the view that, taking into overall consideration
+
+ domestic and overseas economic conditions, the global economy, having
+
+ shown a slow recovery, appeared to have stabilized for the moment, and
+
+ the domestic economy was expected to sustain its current growth, led by
+
+ domestic demand. The member went on to argue that it would be
+
+ therefore desirable to hold the Base Rate at its current level for the
+
+ intermeeting period. The member expected the trend of decline in exports
+
+ to ease and commented that, although fiscal tightening was expected in the
+
+ second half of this year as a result of the frontloading of the budget,
+
+ Korea’s macroeconomic policy would likely be neutral overall, with
+
+ previous Base Rate cuts having led to declines in market interest rates.
+
+ Meanwhile, the member emphasized that the Korean economy was in
+
+ urgent need of structural reform as its growth strategy had reached its
+
+ limit amid low global economic growth. The member also stressed that it
+
+ would be necessary to enhance the effectiveness of interest rate policy and
+
+ make careful use of the remainder of the interest rate policy space, as
+
+ propensities for consumption had been changing in accordance with
+
+ population ageing. The member then expressed the view that vigilance was
+
+ needed in order to avoid falling into a liquidity trap in the medium and
+
+ long term.
+
+ Another member set forth a number of points for the Bank of Korea
+
+ to consider in its operation of appropriate monetary policy. First, with the
+
+```
+3
+
+
+-----
+
+###### slumps in exports and manufacturing production continuing, there were
+
+ significant uncertainties as to the future growth path and as to whether the
+
+ present economic recovery dependent on fiscal policy could persist, and
+
+ there were also domestic and overseas risk factors, including corporate
+
+ restructuring and Brexit, and so a careful watch was needed on whether
+
+ economic growth after the second quarter of this year would reach the
+
+ potential growth rate, as had been forecast. Second, although consumer
+
+ price inflation and core inflation had maintained their gradual uptrends—
+
+ consistent with their forecasts—and although disinflationary pressures were
+
+ projected to weaken gradually, demand-side inflationary pressures seemed
+
+ insufficient to produce an appropriate level of inflation. Third, enormous
+
+ slack remained in the production sector, and although labor market slack
+
+ had improved slightly, there were growing imbalances and potential
+
+ instability caused by structural factors and corporate restructuring. Taking
+
+ all of this into overall consideration, the member expressed the view that,
+
+ although conditions had been created that could support further Base Rate
+
+ adjustments, it would be desirable to hold the Base Rate at its current
+
+ level for the intermeeting period. At the same time, the member went on
+
+ to state that it would be necessary to monitor whether growth and
+
+ consumer prices show trends consistent with their forecasts, to closely
+
+ examine domestic and overseas risks, such as household debt, the effects
+
+ of corporate restructuring on the credit and labor markets, and China’s
+
+ corporate debt risks, and to secure policy space for flexible Base Rate
+
+ adjustments.
+
+ One other member proposed that the Base Rate should remain at its
+
+ current level, judging that a narrowing of the GDP and inflation gaps was
+
+ still expected, despite expanded downside risks to the economy. The
+
+ member assessed downside risks to growth as having expanded somewhat,
+
+ with the trend of economic recovery slowing between January and April
+
+ this year compared to the latter half of 2015. The member then presented
+
+ the view that, in order for the economy to achieve growth at the upper-2%
+
+4
+
+
+-----
+
+###### level, it was important for growth in private consumption, which is the
+
+ biggest component of aggregate demand, to be at the 2% level, but the
+
+ recent signs of weakened recovery in private consumption might act to
+
+ expand downside risks to real economic growth over both the short-term
+
+ and the medium- to long-term horizons. Meanwhile, the member noted that
+
+ consumer price inflation remained low, running significantly below the
+
+ medium-term inflation target of 2% due to continued declines in producer
+
+ and import prices. The member then commented that a recovery in
+
+ domestic demand, led by consumption, and the easing of the demand slump
+
+ in major economies were important for future price conditions, and
+
+ expected the CPI for 2016 to be only at the low-1% level. Lastly, from a
+
+ financial stability perspective, the member noted that, while collective loans
+
+ were excluded from the scope of the ‘Guideline on Banks’ Mortgage Loan
+
+ Screening’, mortgage loans, and collective loans in particular, had shown
+
+ somewhat heightened growth of late, in line with sustained rises in housing
+
+ construction and in the stock of new apartments available for sale, both
+
+ resulting from the introduction of a government measure in 2014 to
+
+ encourage the provision of housing. The member went on to express the
+
+ view that it was thus necessary to closely monitor changes in risks from a
+
+ financial stability perspective, facing up to the fact that credit risk
+
+ management for collective loans had been relatively neglected.
+
+  Meanwhile, one member noted that, with the declining trend in inflation
+
+ easing somewhat due to policy rate cuts, and deflationary pressures from
+
+ abroad also diminishing due to the run-up in oil prices, the steep decline
+
+ in exports had slowed and some sentiment indicators had partially
+
+ rebounded, but inflation had been running below target for a long time, the
+
+ economic recovery was still weak, and the upcoming corporate restructuring
+
+ might increase downside risks to the macroeconomy in the short term. The
+
+ member went on to express the opinion that, given these factors, while the
+
+ Base Rate should be maintained at the current level, it was necessary to
+
+ closely monitor downside risks to the macroeconomy going forward. In
+
+5
+
+
+-----
+
+###### addition, the member commented that the restructuring of troubled
+
+ companies, which had become an issue of late, and difficulties in monetary
+
+ policy in the course of such restructuring exemplified the importance of
+
+ curbing moral hazard by taking preemptive policy measures to strengthen
+
+ financial soundness. The member stressed that, since the continuing rapid
+
+ growth in household debt might increase potential economic risks and limit
+
+ the flexibility of monetary policy, there was a need to strengthen policy
+
+ related to household debt soundness through active policy cooperation with
+
+ the relevant authorities.
+
+ Another member expressed the opinion that, in determining this
+
+ month’s Base Rate, a number of factors should be considered in addition
+
+ to the overall domestic and overseas financial and economic conditions.
+
+ First, looking at the recent macroeconomic trends, there seemed no
+
+ significant changes in the upside and downside risks to growth and
+
+ inflation since the April MPB meeting. From a financial stability
+
+ perspective, although financial markets at home and abroad remained stable
+
+ overall, there remained domestic and international risk factors that could
+
+ reignite market volatility. On the domestic front, in particular, household
+
+ debt was maintaining a persistently high rate of increase, and there was
+
+ great uncertainty as to how corporate restructuring, which had emerged as
+
+ one of the most difficult issues facing the economy, would affect financial
+
+ institutions and financial markets. The member stated that it would
+
+ therefore be better to keep a close watch on changes in economic
+
+ conditions at home and abroad, and on the progress in corporate
+
+ restructuring together with its financial and economic effects, while holding
+
+ the Base Rate at its current level of 1.50% for the intermeeting period.
+
+ One other member presented the view that, in overall consideration of
+
+ recent economic conditions at home and abroad, it would be necessary to
+
+ cut the Base Rate at the earliest possible time, even if not this month. The
+
+ member noted that, although the effects of monetary policy seemed to have
+
+6
+
+
+-----
+
+###### weakened compared to those in the past, effects from both fiscal and
+
+ monetary macroeconomic policy still clearly existed. Concerning the
+
+ downwardly adjusted inflation outlook in April, the member stressed that
+
+ with downside risks increasing, the Bank of Korea should conduct more
+
+ accommodative monetary policy in preparation for the possibility that
+
+ consumer price inflation could remain lower than the inflation target. The
+
+ member also noted that, looking at overseas cases, although the adoption of
+
+ negative interest rates by the ECB, Danmarks Nationalbank, the Riksbank,
+
+ Swiss National Bank, and the Bank of Japan had only limited spillover
+
+ effects on real economies thus far, these policies had been effective in
+
+ preventing excessive currency appreciation and thus maintaining stability in
+
+ the foreign exchange markets of small and open economies. The member
+
+ went on to present the view that, although the household debt problem was
+
+ an important issue for monetary policy, if household debt was effectively
+
+ managed through supervisory policy measures, there would be room for
+
+ some degree of future monetary policy adjustment. The member then
+
+ expressed the opinion that, against the backdrop of various risk factors
+
+ surrounding the domestic economy, such as the possibility of further policy
+
+ rate hikes by the US Federal Reserve, the Chinese economic slowdown,
+
+ commodity price declines, credit risk in Europe, and the possibility of
+
+ Brexit, a preemptive policy rate cut would be an effective measure in
+
+ preparation against external risk factors as well as from a counter-cyclical
+
+ perspective. 
+
+7
+
+
+-----
+
+```
+Ⅳ. Results of Deliberation on Monetary Policy Directions
+
+###### Incorporating the outcome of their earlier discussions, a statement was
+
+ compiled with the unanimous consent of all the members.
+
+```
+< Ref >
+
+###### Monetary Policy Decision
+
+ □ The Monetary Policy Board of the Bank of Korea decided today to
+
+ leave the Base Rate unchanged at 1.50% for the intermeeting
+
+ period.
+
+ □ Based on currently available information the Bank of Korea
+
+ considers that the trend of economic recovery in the US has shown
+
+ indications of slowing, but that the modest improvements in the
+
+ euro area have continued. The economic slowdown in China has
+
+ shown signs of easing a bit, but economic growth in other
+
+ emerging market economies has continued to slow, centering around
+
+ natural resource-exporting countries. The Bank of Korea forecasts
+
+ that the global economy will maintain its recovery going forward,
+
+ albeit at a moderate pace, centering around advanced economies
+
+ such as the US, but judges that it will be affected by factors
+
+ including financial and economic conditions in emerging market
+
+ countries, international oil price movements, and global financial
+
+ market volatility.
+
+ □ Looking at the Korean economy, exports have remained on their
+
+ trend of decline, and domestic demand activities such as
+
+ consumption, and the sentiments of economic agents have continued
+
+ their modest improvements. On the employment front, while the
+
+ pace of increase in the number of persons employed slowed
+
+ somewhat in April, the employment-to-population ratio and the
+
+ unemployment rate maintained the same levels as in April of last
+
+ year. The Bank of Korea forecasts that the domestic economy will
+
+8
+
+
+-----
+
+###### continue its trend of modest improvement going forward, centering
+
+ around domestic demand activities, but in view of external
+
+ economic conditions judges the uncertainties surrounding the growth
+
+ path to still be high.
+
+ □ Despite expansions in the extents of increase in prices of industrial
+
+ products other than petroleum, consumer price inflation registered
+
+ 1.0% in April, the same as in March, in line mainly with a
+
+ slowdown in the rate of service fee increase. Core inflation
+
+ excluding agricultural and petroleum product prices rose slightly to
+
+ 1.8%, from 1.7% in March. Looking ahead the Bank of Korea
+
+ forecasts that consumer price inflation will continue at a low level,
+
+ under the influence of the low oil prices for example. In the
+
+ housing market, sales prices maintained their level of the previous
+
+ month while leasehold deposit prices showed low rates of increase.
+
+ □ In the domestic financial markets, stock prices and long-term
+
+ market interest rates have fallen since April after having previously
+
+ risen, affected mainly by changes in investor preferences for safe
+
+ assets. After having appreciated against the US dollar, the Korean
+
+ won has depreciated against it again. The won has meanwhile
+
+ depreciated considerably against the Japanese yen, in line with the
+
+ yen’s strengthening. Bank household lending has sustained a trend
+
+ of increase at a level exceeding that of recent years, led by
+
+ mortgage loans.
+
+ □ Looking ahead, while working to support the recovery of economic
+
+ growth the Bank of Korea will conduct monetary policy so as to
+
+ maintain price stability over a medium-term horizon, and also pay
+
+ attention to financial stability. In this process it will closely monitor any
+
+ changes in monetary policies or in financial and economic conditions in
+
+ major countries, the progress of corporate restructuring, the trend of
+
+ increase in household debt, and the movements of capital flows.
+
+9
+
+
+-----
+

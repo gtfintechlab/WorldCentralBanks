@@ -1,0 +1,236 @@
+**Edited Minutes of the Monetary Policy Committee Meeting (No. 4/2022)**
+
+**5 and 10 August 2022, Bank of Thailand**
+
+**Publication Date: 24 August 2022**
+
+**Members Present**
+
+Sethaput Suthiwartnarueput (Chairman), Mathee Supapongse (Vice Chairman), Vachira Arromdee,
+Kanit Sangsubhan, Rapee Sucharitakul, Somchai Jitsuchon, and Subhak Siwaraksa
+
+**The Global Economy and Financial Markets**
+
+**Thailand’s trading partner economies were projected to expand at a slower pace than**
+**previously assessed with growing concerns over looming recession in some countries.**
+**However, it was unlikely that the global economy would face a sharp slowdown. The US and**
+EU economies were expected to slow down due to rising inflation and tighter financial
+conditions as central banks accelerated the pace of policy normalization. Global inflation
+would remain elevated in line with high energy and commodity prices, given that Russia
+continued to cut down natural gas supply to Europe and oil production by OPEC+ countries
+would likely fall below the target. The Chinese economy was projected to slow down due to
+its strict zero-COVID policy and fragile real estate sector. The Asian economy excluding China
+would continue to hold up with growth at around the same rate as previously assessed, since
+the impact of global slowdown would be offset by stronger domestic demand as the economy
+was in its early recovery phase.
+
+**Global financial markets were volatile mainly due to the aggressive rate hikes in response**
+**to soaring inflation in many countries as well as concerns over recession. As a result, the US**
+dollar had strengthened, and bond prices had increased, while prices of risky assets had fallen.
+Given the recession concerns, investors expected the Federal Reserve and European Central
+Bank to slow down the pace of their interest rate hikes and might even have to cut the interest
+rates in 2023. The **Thai** **bond market had become more stabilized as investors had clearer**
+**views on normalization path of Thai monetary policy. Short-term government bond yields**
+had increased in line with rate hike expectation. Long-term government bond yields had
+declined in tandem with US Treasury yields. The baht depreciated against the US dollar in line
+with most currencies. This was mainly attributable to aggressive rate hikes from the Federal
+Reserve and concerns over US economic recession. As such, investors were more cautious
+toward risky assets including emerging market assets and currencies. Nonetheless, Thailand’s
+portfolio flow movements were in tandem with other regional countries. Looking ahead, the
+financial markets would still be subject to high uncertainty. Key risk factors included monetary
+policy tightening by major central banks as well as inflationary pressures and growth outlook
+especially in advanced economies, as these would have implications on monetary policy
+conduct of central banks in the period ahead.
+
+**Domestic Economy**
+
+**The Thai economy would continue to recover and return to the pre-COVID level by the end**
+**of 2022. The main drivers included, first, the number of foreign tourist arrivals that had**
+continued to increase and would be larger than expected. This was in tandem with growing
+travel demand and the relaxation of international travel restrictions in Thailand and abroad.
+Second, the recovery in private consumption would be stronger than expected especially for
+service consumption. This was consistent with the recovery in the tourism sector and
+
+
+-----
+
+continuous improvement in labor market conditions, as reflected in declining numbers of
+unemployment and underemployment as well as increasing non-farm incomes across all
+income groups. Third, merchandise exports in 2022 would be higher than expected both in
+terms of value and volume. This was owing to a smaller-than-expected impact of China’s
+containment measures on the Thai exporting sector, as well as gradual easing of supply chain
+disruptions. Merchandise exports in 2023 were expected to slow down in line with the growth
+outlook of Thailand’s trading partners. Going forward, some sectors would experience a rapid
+recovery, especially tourism-related businesses such as hotels, restaurants, and commerce. As
+such, these businesses in some areas might face temporary labor shortages. There was also a
+need to monitor the growth outlook of Thailand’s trading partners as this could affect Thai
+exports, especially in 2023.
+
+**Headline inflation would remain at a high level throughout 2022, largely unchanged from**
+**the previous forecast. Headline** inflation was expected to exceed the target range through
+the end of 2022. Price increases had been observed across a larger number of products but
+were still contained within food and energy categories. This was mainly due to direct cost
+pass-through of higher raw material and energy prices including meat, electricity charges, and
+liquefied petroleum gas. Cost pass-through to core inflation, especially to prepared-food
+prices, turned out to be greater than expected. As a result, short-term inflation expectations
+had edged up in line with rising living and production costs that households and businesses
+were facing. However, medium-term inflation expectations had not increased significantly and
+remained anchored within the target range of 1-3 percent. Headline inflation would gradually
+**decline into the target range in 2023.** This was attributable to subsiding supply-side
+inflationary pressures, given that energy and domestic retail oil prices would not increase
+further and that pork and palm oil prices would also fall.
+
+**The inflation outlook would still subject to upside risks. Businesses could pass on more costs**
+to consumers at a faster pace as they face simultaneous price increases in various inputs. In
+addition, demand-pull inflation could pick up as the economic recovery started to gain pace.
+At the same time, these upside risks would be partially offset by a potential decline in energy
+prices resulting from global economic slowdown. **The Committee viewed that the risk of**
+**wage-price spiral would not be a major concern for Thailand compared to other countries**
+because the labor market structure in Thailand differed from other countries in many aspects.
+First, the ratio of non-farm workers, or those who earn wages, in Thailand stood at 44 percent
+and was lower than the counterparts in advanced economies at 85-90 percent. Second,
+workers in Thailand could move across sectors quite easily. Migrant workers, the selfemployed, and workers who had left workforce during the COVID-19 pandemic could switch
+to work in the non-farm sector, although there might be some reluctance at first as workers
+might perceive the revenue stream to be unstable and not sufficient to cover urban living
+costs. Third, Thai workers have low bargaining power, and there is no wage indexation in
+Thailand. Going forward, upward pressures on wages and prices should be limited as the labor
+market would take some time to fully recover. The seasonally adjusted unemployment rate
+was 1.4 percent in the second quarter of 2022, higher than the pre-COVID level at 1.0 percent.
+In addition, according to information obtained from business contacts, some firms would be
+restrained from raising prices further. This was because they had already adjusted their prices
+and wages, while others might choose to bear increased labor costs given that demand had
+not fully recovered.
+
+
+-----
+
+**Discussions by the Committee**
+
+  - **The Committee had confidence that the economic recovery would continue to gain**
+
+**traction on the back of improving foreign tourist figures while the global economic**
+**slowdown would have a limited impact on the Thai economy. The number of foreign**
+tourist arrivals would primarily depend on the relaxation of international travel
+restrictions and the implementation of tourism promotion policy. These two factors
+would matter more than the economic growth of travelers’ country. Private
+consumption would continue to recover as well. Recovery in tourism would lead to
+improvement in incomes of businesses and workers in the tourism-related service
+sector which would in turn drive private consumption in the period ahead. However,
+there remained a need to monitor risks arising from higher production and living costs
+which could affect the Thai economic recovery. In addition, geopolitical risks could
+cause significant impacts, although the possibility of such risks to materialize was low.
+
+  - **The Committee viewed that inflation risks were still substantial, mainly from the cost**
+
+**pass-through.** Even though headline inflation would gradually fall due to declining
+energy and domestic retail oil prices following the global economic slowdown, cost
+pass-through to core inflation would persist for some time. This was owing to, first,
+concurrent price increases across various inputs. Second, changing production and
+global trade structures resulted from the COVID-19 pandemic and geopolitical tensions
+could affect future inflation dynamics. This had been factored in into the core inflation
+forecast for 2023 which was higher than historical average. The Committee assessed
+that such cost pass-through would not lead to entrenched inflation. Going forward,
+upside risks to the inflation outlook could increase if rising short-term inflation
+expectations affect cost pass-through and price setting of businesses. The Committee
+**would thus closely monitor potentially higher and faster cost pass-through as well as**
+**inflation dynamics and inflation expectations.**
+
+  - **The Committee noted that potential labor shortage could affect the economic**
+
+**recovery and create upward pressures on wages in some business sectors. Workers**
+who had left workforce during the COVID-19 pandemic might have difficulty returning
+to the labor force owing to a lack of clarity on the upcoming relaxation of containment
+measures, high uncertainty surrounding their income prospects, as well as a lack of
+resources to start a new job. Furthermore, as e-commerce is growing rapidly, many
+workers have decided to become freelancers or work in delivery service companies
+since earnings from such jobs are higher than the minimum wages. This could create
+additional pressures on wages. The minimum wage increase and changing structure of
+the Thai labor market should thus be monitored going forward.
+
+  - **The Committee viewed that gradual rate hikes were consistent with the growth and**
+
+**inflation outlook. The Committee viewed that the economic recovery would continue**
+to strengthen. Holding the policy rate at an extraordinarily low level to alleviate the
+COVID-19 impact had thus become less needed. Meanwhile, headline inflation would
+remain at a high level for some time. Cost pass-through, especially to items in the core
+inflation basket, must be monitored. Nonetheless, the recent rise in inflation was
+assessed to be mainly due to cost-push factors. The Committee viewed that the policy
+rate should be normalized to the level that is consistent with sustainable growth in the
+long term, and that monetary policy normalization should be done in a gradual and
+
+
+-----
+
+measured manner consistent with the growth and inflation outlook in the period
+ahead.
+
+  - **The Committee viewed that gradual reduction of monetary policy accommodation**
+
+**coupled with having targeted measures in place to support vulnerable groups would**
+**be appropriate for Thailand’s uneven recovery across sectors. The economic recovery**
+in the period ahead would help improve debt serviceability of businesses and
+households. However, some groups would remain vulnerable, including some SMEs in
+sectors that have yet to fully recover, low-income households that are sensitive to the
+rising living costs, and unsecured loan borrowers. Financial institutions should
+continue to press ahead with debt restructuring to address debt problems in a
+sustainable manner for vulnerable groups. Considered as a blunt tool, monetary policy
+may not be an effective policy tool for those vulnerable groups. Maintaining the policy
+rate at a low level for an extended period could also create financial stability risks in
+the long run.
+
+**Monetary policy decision**
+
+**The Committee voted 6 to 1 to raise the policy rate by 0.25 percentage point from 0.50 to**
+**0.75 percent. One member voted to raise the policy rate by 0.50 percentage point.**
+
+The Committee viewed that the Thai economic recovery had continued to strengthen. Main
+drivers were from the higher-than-expected number of foreign tourist arrivals and improving
+private consumption in line with an improvement in the labor market conditions and
+household incomes. The economy was expected to return to the pre-COVID level by the end
+of this year and would continue to gain traction. Headline inflation would remain at a high
+level for some time before gradually falling into the target range in 2023 as the supply-side
+inflationary pressures subside. However, risks to the inflation outlook remained elevated. The
+Committee assessed that the extraordinarily accommodative monetary policy undertaken in
+response to the COVID-19 pandemic had become less needed. Most members voted to raise
+**the policy rate by 0.25 percentage point at this meeting.** This gradual policy rate hike would
+help facilitate a sustained economic recovery without creating upward pressures on inflation.
+**One member voted to raise the policy rate by 0.50 percentage point. Such a rate increase**
+was deemed not to significantly affect the economic recovery and would reduce the risk of
+having to increase the policy rate aggressively later. Another reason was to build up policy
+space to prepare for any future uncertainty.
+
+**The Committee deemed it important to have targeted measures and sustainable debt**
+**solutions in place for vulnerable groups.** The Committee assessed that overall financial
+system remained resilient. Commercial banks had high levels of capital fund and loan loss
+provision. Liquidity in the financial system remained ample, although liquidity distribution still
+varied across economic sectors. Debt serviceability of households and businesses had
+improved in line with the economic recovery. However, there were certain vulnerable groups,
+particularly some SMEs that had yet to fully recover as well as low-income households that
+were sensitive to the rising living costs. Financial institutions should thus continue to press
+ahead with debt restructuring.
+
+**The Committee viewed that overall financial conditions remained accommodative but with**
+**high volatility. The baht had depreciated against the US dollar mainly due to the**
+**strengthening of the US dollar following concerns about the global economic slowdown and**
+
+
+-----
+
+the Fed tightening. The Committee will closely monitor developments and volatilities in
+financial and exchange rate markets.
+
+Under the monetary policy framework with objectives of maintaining price stability,
+supporting sustainable and full-potential economic growth, and preserving financial stability,
+**the Committee judged that the Thai economic recovery would continue to gain traction, and**
+**thus the extraordinarily accommodative monetary policy would become less needed. The**
+**Committee viewed that the policy rate should be normalized to the level that is consistent**
+**with sustainable growth in the long term. Monetary policy normalization should be done in**
+**a gradual and measured manner consistent with the growth and inflation outlook in the**
+**period ahead.**
+
+Monetary Policy Group
+24 August 2022
+
+
+-----
+

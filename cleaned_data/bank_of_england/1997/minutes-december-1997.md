@@ -1,0 +1,1187 @@
+### Publication date: 14 January 1998
+
+## MINUTES OF
+# MONETARY POLICY COMMITTEE MEETING
+
+## 3 and 4 December 1997
+
+#### These are the minutes of the Monetary Policy Committee meeting held on 3 and 4 December 1997. They are also available on the Internet (http://www.bankofengland.co.uk.).
+
+ The Chancellor of the Exchequer announced on 6 May 1997 that the Government was giving the Bank of England operational responsibility for setting interest rates to meet the Government’s inflation target. Operational decisions are taken by the Bank’s Monetary Policy Committee. The Committee meets on a regular monthly basis and minutes of its meetings are released no later than 6 weeks after each meeting. Accordingly, the minutes of the Committee meeting held on 7 and 8 January will be published on 11 February 1998.
+
+
+-----
+
+14. 1.98
+
+**MINUTES OF THE MONETARY POLICY COMMITTEE**
+**MEETING ON 3-4 DECEMBER 1997**
+
+1 The meeting was preceded by a presentation by Bank staff of the most recent data on monetary
+
+and economic conditions. The staff presentation is summarised in the Annex to these minutes; it has
+
+been updated to incorporate data that subsequently became available to the Monetary Policy
+
+Committee before its meeting.
+
+2 The Committee began by discussing the importance to its assessment of the inflation outlook of
+
+levels of economic variables as well as their growth rates. It then discussed monetary growth,
+
+consumption, external developments and the prospects for net trade, and the labour market. After
+
+reviewing key differences between the Bank’s November inflation forecast and other forecasts, it
+
+turned to the immediate policy decision.
+
+**Levels versus growth rates**
+
+3 The Committee discussed the importance of focusing not only on growth rates of economic
+
+variables but also on their levels. Above-trend growth rates of output and employment need not entail
+
+short-run inflationary pressures when there was plenty of spare capacity, as was typically the case
+
+when the economy was coming out of a prolonged recession. But as spare capacity was used up,
+
+underlying inflationary pressures would increase. Once the level of economic activity was above trend
+
+and/or the level of unemployment below the natural rate, increasing inflation would generally result.
+
+If the levels of output and employment then remained above trend, inflationary pressures would be
+
+exacerbated, requiring a more severe or prolonged slowdown to bring them back to trend levels.
+
+4 The Committee agreed with the importance of this general analysis. It was particularly relevant
+
+at the current stage of the cycle given the need to judge whether the economy was already above full
+
+capacity after the prolonged period of above trend growth rates. The costs of an over-expansionary
+
+monetary policy were likely to be greater than when the economy had been coming out of recession in
+
+the early-to-mid 1990s.
+
+5 It was, however, very difficult to assess whether levels of activity were currently at, above or
+
+below the sustainable trend. Some collateral evidence was provided by surveys of capacity constraints,
+
+
+-----
+
+2
+
+skill shortages etc, but it was inevitably inconclusive. There was, for example, considerable
+
+uncertainty about the effect of continuing labour market reform on the natural rate of unemployment.
+
+Thus while it seemed clear that the economy was close to capacity, it was difficult to be confident
+
+about the crucial question for policy of whether activity levels were already above trend.
+
+6 The same general principles could be applied to the monetary data, but the conclusions were not
+
+clear. Cumulatively strong money growth would in general be a cause for concern unless reasons for
+
+a change in the velocity of circulation could be identified, as for example had been the case with
+
+financial sector liberalisation in the 1980s.
+
+7 On one view, it was also important to look at levels of money demand relative to long-run
+
+equilibrium. On another interpretation, assessing the monetary data along these lines was difficult.
+
+The monetary authorities operated by setting interest rates, so that monetary growth was endogenous.
+
+And, in contrast to goods and labour markets, financial markets probably cleared more or less
+
+continuously. On this view, there was no reason why the economy in aggregate or any sector should
+
+hold more money than desired; if so, then as a matter of principle there could not be a monetary
+
+overhang. Against this it could be argued that the costs of monitoring and adjusting money holdings
+
+might lead individuals or companies temporarily to hold more (or less) than their desired level of
+
+money balances, to which in principle they would eventually seek to return. But even if this view of
+
+the process were correct, it left open the important issue of how quickly economic agents adjusted
+
+their money holdings and how they did so, whether by spending on goods or services, investment in
+
+financial assets, or repayment of bank loans.
+
+8 The Committee agreed that money growth needed to slow considerably if inflationary pressures
+
+were to abate.
+
+
+-----
+
+3
+
+**Recent developments in monetary conditions**
+
+9 Turning to the most recent monetary data, the Committee observed that the growth of notes and
+
+coin had picked up again after the dip earlier in the year. Taken together with continuing rapid, albeit
+
+slightly lower, growth in consumer credit, there was not much comfort from this source for the
+
+short-run outlook for consumption.
+
+10 However, aggregate M4 bank lending had continued to slow, and there were tentative signs of a
+
+slowdown in broad money growth, although the twelve-month rate of 10.7% remained high.
+
+11 The slowdown in bank lending in October was attributable largely to a fall in reverse repo
+
+activity with OFIs, which was volatile from month to month. There had also been a progressive
+
+slowdown over the year in bank lending to non-financial companies. Even here, however, the picture
+
+was not completely clear, as up to Q3 ICC’s foreign currency borrowing from UK banks and via
+
+capital markets had been increasing and the proceeds might have been swapped into sterling for
+
+domestic spending.
+
+**Consumption**
+
+12 The Committee discussed the ONS’s first estimate for consumption growth in Q3 which, at
+
+1.2%, was below the Bank’s central projection in the November Inflation Report. This figure,
+
+however, might be revised. The ONS had only incomplete data and, as normal, had had to estimate a
+
+part of the services sector. They had assumed that service sector sales had been affected by the death
+
+of Diana, Princess of Wales to a similar extent as spending on goods.
+
+13 The Committee noted two developments that might suggest consumption growth was peaking.
+
+First, consumer confidence had fallen back, albeit from a relatively high level. Secondly, the
+
+Nationwide and Land Registry measures of house price increases had fallen slightly, and the Bank’s
+
+regional Agents had also reported cooling in the housing market.
+
+
+-----
+
+4
+
+14 The Committee agreed that consumption growth needed to moderate further for policy to be on
+
+course to achieve the inflation target.
+
+**External developments and the outlook for net trade**
+
+15 The ONS’s first estimate of the breakdown of the Q3 GDP statistics had contained some signs
+
+that net trade was beginning to slow, once erratic items were excluded. The Committee noted that
+
+since its previous meeting sterling had appreciated further. Analysis by Bank staff suggested that
+
+changed expectations for monetary policy in the UK or overseas were not the prime cause of the
+
+appreciation. A possible explanation of the recent appreciation against continental European
+
+currencies was a further ‘safe haven’ effect brought about by continuing uncertainty about EMU,
+
+including about the level of interest rates on which the EMU ‘Ins’ would converge in late 1998/early
+
+1999. Sterling may also have been affected, alongside the dollar, by a ‘safe haven’ effect in relation to
+
+East Asian currencies.
+
+16 The Committee discussed the implications of the East Asian developments. The world
+
+economic outlook was plainly different from six months ago. Improved prospects in the US and
+
+continental Europe might to some extent offset reduced demand from Asia, but it was too early to
+
+judge. There was anecdotal evidence that returns from the growth of markets in Asia and other
+
+developing regions had helped UK exporters to maintain trade with continental Europe by cutting
+
+margins following sterling’s appreciation in 1996. Demand from Asia had also been an important
+
+source of growth in exports for the G7 as a whole in recent years. It was possible that a slowdown in
+
+Asian markets would combine with sterling’s continuing appreciation to bring about a fall in net
+
+exports in 1998, as expected – or possibly more than expected – in the November Inflation Report.
+
+17 A second question was whether Asian problems threatened a more global financial crisis.
+
+Recent news had, on balance, offered encouragement on this score. Some countries outside Asia had
+
+implemented austerity packages as a protective measure; and the IMF appeared to have reached
+
+agreement with Korea on the conditions for support. Nevertheless the situation needed to be
+
+monitored carefully. The Committee’s judgment remained that on the evidence so far the changing
+
+external environment did not of itself either require or prevent a change in UK monetary policy.
+
+
+-----
+
+5
+
+**Labour market developments**
+
+18 The Committee agreed that there was not much news on the labour market. Underlying
+
+earnings growth had ticked down slightly, but unemployment continued to fall, concerns about skill
+
+shortages persisted, and the Agents reported concerns around the country of emerging wage
+
+pressures. The reported settlement at Ford seemed high and would be a source of concern if, as in the
+
+1970s and early 1980s, it set an economy-wide norm, but it had not done so in recent years.
+
+**Comparison of the Bank’s forecast with outside forecasts**
+
+19 The Committee discussed the main reasons why the November Inflation Report central
+
+projection for inflation in the year to Q4 1998 was below virtually all outside forecasts even though its
+
+forecast for output growth was around their mean. These related to the effects of sterling’s
+
+appreciation. The Bank’s central projection assumed that some of the fall in import prices would be
+
+passed through to retail prices, unwinding some of the recent increase in retail margins; and that
+
+although delayed, there would still be a significant, and in 1998 quite sharp, slowdown in net trade.
+
+The Committee agreed that qualitatively this was the most likely outcome but, as reflected in the
+
+November forecast, there was considerable uncertainty about its timing and magnitude. The slower
+
+the net trade effect was to come through, the greater the risks to the inflation target. It was also the
+
+case that recent inflation outturns had been above the Bank’s recent forecasts.
+
+**Policy conclusions**
+
+20 The Committee identified a range of possible views on the outlook for inflation. One was that
+
+the level of activity was already above trend, perhaps materially so. In that case output growth would
+
+need to slow sharply in order to avoid a marked increase in inflation. If instead growth slowed
+
+gradually so that activity levels remained above trend, it would prove necessary to tighten policy while
+
+output growth was falling. On such a view, policy might need to be tightened again quite soon if
+
+there were not clear evidence in the early part of the New Year that the economy was slowing sharply.
+
+21 Another possibility was that the economy was close to but not clearly above capacity,
+
+although still growing above trend. The economy was therefore delicately poised. Retail price
+
+
+-----
+
+6
+
+inflation was higher than had been expected in the summer, remained stubbornly high, and increased
+
+wage pressures were widely expected. On the other hand, domestic demand growth should slow
+
+given the tightening of monetary and fiscal policy. And the effects of sterling’s appreciation on
+
+inflation was still expected to come through, via a slowdown in net trade and greater pass-through
+
+into retail prices.
+
+22 A further possible view was to take encouragement for the inflation outlook from the most
+
+recent data. There were signs that output would peak in Q4, as the Bank had forecast, and that the
+
+economy would slow in the first half of 1998. Developments in Asia could mean that the slowdown
+
+in net trade would be more pronounced than forecast in the November Inflation Report. If
+
+uncertainty over EMU and other external developments continued, sterling might not depreciate in
+
+line with uncovered interest parity as had been assumed in the November forecast, which could
+
+improve the inflation outlook. And while the pace of slowdown needed to avert a pick up in inflation
+
+depended on whether there was any slack in the economy, some encouragement on this score might
+
+be taken from the persistence of muted producer input and output prices.
+
+23 The Committee agreed that there was uncertainty about where the economy was in relation to
+
+capacity and that this made the policy judgment very difficult. There had been relatively little news in
+
+the last month’s data that helped to resolve this question, given that the Committee had already been
+
+expecting a strong Q4. That being so, there was a case for waiting to see further developments. It
+
+was also possible that the exchange rate would prove especially sensitive to an interest rate move at a
+
+time of unusual uncertainty in global financial markets.
+
+24 The Committee then voted unanimously in favour of leaving the Bank’s repo rate unchanged.
+
+25 The following members of the Committee were present:
+
+Eddie George (Governor)
+
+David Clementi (Deputy Governor)
+
+Sir Alan Budd
+
+Willem Buiter
+
+Charles Goodhart
+
+
+-----
+
+7
+
+
+DeAnne Julius
+
+Mervyn King
+
+Ian Plenderleith
+
+26 Sir Terence Burns was also present as the Treasury’s representative.
+
+
+-----
+
+#### ANNEX: SUMMARY OF DATA PRESENTED TO THE MONETARY POLICY COMMITTEE BY BANK STAFF
+
+A1 This Annex summarises the analysis presented by Bank staff to the Monetary
+
+Policy Committee on 28 November 1997, in advance of its meeting. At the start of the
+
+Committee meeting itself, members were made aware of information that had
+
+subsequently become available, and that information is included in the Annex.
+
+I Monetary conditions
+
+A2 The introduction of the new 50p coin had again affected the monthly notes and
+
+coins numbers in November. But whereas in previous months it had inflated the
+
+growth rate, in the latest month there had been a net return of old 50p coins,
+
+depressing the monthly growth rate by an estimated 0.1pp. After adjustment for the
+
+50p coin effect, the growth rate had been 0.8%.
+
+A3 Monthly M4 growth fell in October to 0.5%, considerably below the rate of
+
+growth seen in the previous five months. October’s data included for the first time an
+
+estimate of the monthly sectoral breakdown of M4; the weakness in the aggregate had
+
+been due to ICCs and OFIs, possibly reflecting strong tax payments and also probably
+
+OFIs drawing down deposits in order to buy shares from members of Northern Rock,
+
+which had been demutualised earlier in the month.
+
+A4 Personal sector M4 rose more rapidly in October, possibly due to the Northern
+
+Rock and Scottish Amicable windfalls. The underlying strength of persons’ M4 in the
+
+month did not appear to be a function of a reallocation within savings portfolios, as
+
+PEP holdings had also grown relatively strongly in October. The estimated rise in
+
+personal sector M4 in Q3 had been revised up slightly, because of a reallocation of
+
+deposits from ICCs to unincorporated businesses, which are part of the personal
+
+sector. Strong flows into unincorporated businesses had in fact been behind the growth
+
+in personal sector deposits in Q3; the quarterly growth rate of individuals’ deposits
+
+
+-----
+
+slowed from 1.5% to 0.7%.
+
+A5 Looking at a split of retail M4 deposits in October, bank deposit inflows had been
+
+stronger than for some time, possibly reflecting deposits made by individuals who had
+
+sold shares from the Northern Rock demutualisation and payments made when
+
+Scottish Amicable demutualised. But the flow into building society deposits had
+
+remained strong, perhaps reflecting speculation on future windfalls. (The
+
+Nationwide’s decision to prevent new members benefiting from a possible future
+
+demutualisation had not come into effect until 3 November.)
+
+A6 Although OFIs’ deposits had fallen in October, they had risen considerably
+
+between 1995 Q1 and 1997 Q3. Was this purely a function of structural changes in
+
+OFIs’ desired asset portfolios or did it represent a possible accumulation of excess
+
+money balances? Several institutional or regulatory changes over recent years might
+
+have affected pension funds’ portfolio behaviour. These included: the increasing
+
+number of closed or maturing occupational pension schemes, which needed to match
+
+their liabilities with less risky assets of similar maturities; the Minimum Funding
+
+Requirement (introduced by the Pensions Act of 1995) which encouraged pension
+
+funds, close to their solvency margins, to switch out of equities; and the abolition of
+
+ACT rebates in the July Budget, which lowered the after-tax return on pension funds’
+
+UK equity holdings. These factors might have encouraged pension funds to hold more
+
+assets which were capital-certain in nominal terms, with the choice between bonds and
+
+M4 deposits depending on expected returns. Pension funds had, in fact, made an
+
+unprecedented switch out of UK equities over the past three years, but had moved into
+
+gilts as well as M4 balances.  And the rise in OFIs’ M4 holdings was due not only to
+
+pension funds but also to life assurance funds, which had not been affected by the
+
+institutional changes described above.
+
+A7 A number of other developments could have influenced both life assurance and
+
+pension fund portfolios. During 1995 and 1996, cash-financed mergers and acquisition
+
+activity, together with share buy-backs, might have contributed directly to higher
+
+holdings of M4.  The downward slope of the yield curve may also have induced a
+
+substitution from bonds to bank deposits. And fears of a stockmarket downturn might
+
+
+-----
+
+have led some LAPFs to switch into M4 deposits.
+
+A8 A further factor affecting OFIs’ M4 was the introduction of the gilt repo market
+
+in January 1996, and the more recent pick-up of activity in other types of repo
+
+business. Gilt repos had enabled OFIs and banks to mobilise gilts more easily as
+
+collateral for secured borrowing and lending, causing an increase in M4 and M4
+
+lending. But repo business could simply be substituting for other forms of wholesale
+
+money market transactions. Even excluding repo activity, OFIs’ M4 growth had still
+
+been high.
+
+A9 M4 lending increased by only 0.1% in October. The weakness was more than
+
+accounted for by a fall in reverse repos. Nevertheless, there did appear to be a
+
+weakening trend in M4 lending, with the six-month and three-month annualised rates
+
+of increase below the twelve-month rate since July.
+
+A10 The sectoral breakdown showed that the twelve-month growth rate of M4
+
+lending to persons in October was steady. Unsecured lending remained robust,
+
+although the twelve-month rate fell back slightly in October; secured lending had
+
+continued to grow at around 6%.
+
+A11  M4 lending to ICCs grew by 0.3% in October, after a small fall in Q3, but this
+
+was not enough to boost the twelve-month growth rate, which fell further in October
+
+to 2.4%. The general weakness of M4 lending to ICCs did not simply reflect their
+
+greater use of the sterling capital markets: the total flow of sterling borrowing by ICCs
+
+was falling. The flow of ICCs’ internally generated finance had been broadly stable.
+
+However, there had been a build-up in foreign currency capital issues during 1997,
+
+although these had fallen back in October. ICCs’ foreign currency borrowing from UK
+
+banks had also increased in Q3 after slowing in Q2. M4 lending to OFIs fell in
+
+October, on account of a fall in reverse repo activity: there were anecdotal suggestions
+
+that some OFIs had unwound positions financed by reverse repos, possibly because of
+
+developments in financial markets.
+
+
+-----
+
+A12 Net sterling and foreign currency lending overseas by UK banks had continued
+
+to drive a wedge between M4 and M4 lending in October. A slowdown in M4 lending
+
+would not inevitably bring M4 growth down if lending overseas remained strong and
+
+flowed back into the UK as sterling deposits in the future.
+
+A13 Since the previous MPC meeting, the short end of the yield curve had moved up
+
+as a result of the rise in the official repo rate. Estimated real rates had also risen at the
+
+short end. Short real rates had remained above the ten-year real forward rate, which
+
+was a possible proxy for an equilibrium short real rate.
+
+A14 There had been little pass-through of the latest official rate change to the retail
+
+market, except on unsecured loans. The opposite was true of the cumulative increases
+
+since May. Excluding the last rise, there had been almost complete pass-through of
+
+official rates into deposit accounts and standard variable rate mortgages, but little into
+
+unsecured lending. Around a quarter of mortgages had their rates reviewed annually,
+
+most of these were due at the year end. Five-year fixed mortgage rates had fallen as
+
+the yield curve had inverted, and reports suggested that new fixed-rate mortgage
+
+business was strong.
+
+A15 An examination of earlier interest rate cycles showed that pass-through had been
+
+quicker this time, but that the spread of retail rates over the official rate was lower now
+
+than it had been at the peaks of previous official interest rate cycles. (The comparisons
+
+were made between June 1988 - October 1989, September 1994 - February 1995 and
+
+May 1997 - November 1997).  Further comparisons showed that the two-year real
+
+spot rate was roughly the same now as it had been at the peak of previous interest rate
+
+cycles; but ten-year real forward rates were lower: it was difficult to judge whether the
+
+ten-year forward rate had been affected by some of the institutional factors affecting
+
+pension funds referred to above.
+
+A16 As at 3 December, the nominal effective exchange rate index had appreciated by
+
+2.8% since the previous MPC meeting and by 3.2% from the level used in the
+
+projections in the November Inflation Report forecast. The change could not be
+
+explained by reference to the uncovered interest parity condition using forward interest
+
+
+-----
+
+rate differentials. Nor could it be explained by unexpected shifts in UK monetary
+
+policy relative to the rest of the world. This left other unforeseen shocks: important
+
+among which were events in Japan; the appreciation of sterling against the yen had
+
+accounted for around 0.6 percentage points of the appreciation in the sterling exchange
+
+rate index since the November Inflation Report, and might be explained by a change in
+
+the foreign currency risk premium in sterling’s favour given the financial fragility
+
+concerns there.
+
+II Demand and output
+
+A17 The second estimate of GDP for 1997Q3 had been published in November. This
+
+provided the first estimates of GDP expenditure components. It was not clear how
+
+much weight to put on these components, as they were often revised significantly
+
+before the third GDP estimate - the main revisions to GDP growth tended to occur
+
+after the third estimate had been published. The new data showed domestic demand
+
+weakening considerably in Q3 as private consumption growth slowed and investment
+
+fell. Offsetting this, net trade made a positive contribution to GDP growth. The CIPS
+
+survey suggested that services output was continuing to grow rapidly, though less
+
+rapidly than in the Spring, and that manufacturing output was continuing to grow.
+
+A18 Consumption, particularly of services, now seemed likely to have been weaker
+
+than Bank staff had expected. The death of Diana, Princess of Wales, might have
+
+affected spending by more than Bank staff had assumed, and there might not have been
+
+as much windfall-related spending as Bank staff had expected on services such as
+
+foreign holidays. At this stage, the data on both effects were probably incomplete.
+
+A19 Retail sales increased by 2.8% in October - the largest monthly rise since April
+
+1987. The increase was largely driven by sectors where sales had fallen most during
+
+September (household goods’ sales had been affected by the death of Diana, Princess
+
+of Wales and sales of clothing and footwear had also been depressed by the unusually
+
+warm September). Nevertheless, the large increase was probably an indication that
+
+goods consumption would grow strongly in Q4. Consumer confidence, though falling,
+
+remained high. The CBI distributive trades survey suggested some softening of retail
+
+
+-----
+
+sales in November, though it was not expected to last.
+
+A20 Investment fell by 1.2% in 1997Q3, but rose by 0.5% excluding the volatile
+
+vehicle, ships and aircraft component. Excluding vehicle, ships and aircraft, private
+
+service sector investment was essentially flat; manufacturing investment fell; and
+
+construction investment, though a small part of the total, remained strong. But
+
+upward revisions to total investment were likely.
+
+A21 Stocks rose by £1.1 billion at 1990 prices in Q3, including the ONS’ alignment
+
+adjustment - the largest rise since 1996 Q1. Nevertheless, the Bank’s estimate of the
+
+stock-output ratio continued to fall.
+
+A22 There was no clear trend in the aggregate trade numbers; but once erratic items
+
+were stripped away, there were signs of an underlying deterioration in Q3. In Q2, oil
+
+and erratics had more than offset the positive contribution to GDP from net trade in
+
+other goods; this picture had been entirely reversed in Q3. The weakness of trade in
+
+Q3 was mostly an export story, as import growth was still surprisingly subdued given
+
+the strength of domestic demand. The recent revisions to the trade numbers had not
+
+yet been incorporated into GDP. But as exports and imports had both been revised,
+
+the net trade contribution to GDP had probably not changed much. The CIPS
+
+manufacturing survey suggested that export orders had been little changed in
+
+November, after having risen in October.
+
+A23 Was there a threat to net trade from the Asian crisis? A comparison was drawn
+
+with the United States, where there had not been a substantial deterioration in the trade
+
+deficit since the dollar had started to rise in 1995 Q2. As in the UK until recently, US
+
+export volume growth had remained strong, because exporters had lowered their
+
+prices to offset the appreciation of the currency. Additionally, as in the UK, US
+
+exporters had benefited from strong demand in the non-OECD area. Around one fifth
+
+of US export growth since 1995 Q2 had been accounted for by East Asia, while
+
+Mexico and Brazil had accounted for another third - much larger than their respective
+
+shares of US exports.  This meant that the Asian crisis and its contagion effects on
+
+Latin America could have a more damaging impact on the US trade balance than the
+
+
+-----
+
+simple shares of these countries in US exports would suggest. This also applied to the
+
+UK and, to a lesser extent, Germany and France.
+
+A24 The Bank’s Agents reported on a survey of their contacts, which had asked
+
+about the impact of sterling’s appreciation on orders and output. There had been a
+
+significant downward impact on sterling export prices. But this effect was likely to be
+
+smaller in the future, and if sterling remained unchanged, the future effect should come
+
+through quickly. A small number of contacts had commented that they would be
+
+prepared to raise prices in the future to restore their margins at the expense of reduced
+
+volumes.
+
+A25 But the effect on overseas sales so far had mostly been moderate or non-existent,
+
+and contacts expected this to continue into the future.  Some smaller companies had
+
+been surprisingly resilient, probably because they were more flexible in adapting to the
+
+higher exchange rate. In a range of industries, particularly in the service sector, non
+price factors had supported orders.
+
+A26 The appreciation had not passed through fully into domestic prices. There had
+
+been some effect from cheaper import competition and imported inputs. But many
+
+overseas suppliers were taking advantage of the appreciation to build up margins and
+
+were not significantly reducing their sterling prices.
+
+A27 The impact on domestic sales had been mostly invisible or moderate so far and
+
+this was expected to continue. The tourist industry had reported little effect to date,
+
+but it was concerned about prospects for 1998.
+
+A28 The overwhelming response to the appreciation had been to cut export margins
+
+or costs, as maintaining market share had been perceived to be important. Cutting
+
+margins would continue, but would become increasingly difficult, and more companies
+
+would turn to cutting costs; reduced overtime and shedding labour would become
+
+more likely.  Exploring new markets had been and would continue to be a response.
+
+Increased sourcing of raw materials and components abroad was likely as was the
+
+
+-----
+
+location of new investment abroad, particularly by multinationals.
+
+A29 For those respondents who believed that their output growth had slowed as a
+
+result of the appreciation, the main channel had been exports rather than import
+
+competition.
+
+A30 House price inflation slowed in October according to both the Halifax and
+
+Nationwide indices to 5.4% and 12.2% respectively. But the divergence between the
+
+two indices had widened to its largest ever. The gap narrowed in November: the
+
+Nationwide showed 12 month house price inflation falling to 11.6%, but the Halifax
+
+estimate increased to 6.1%.
+
+A31 It was difficult to explain the difference between the two series. The Department
+
+of the Environment (DoE) index, based on a 5% sample of mortgage transactions
+
+across all lenders had shown a rise of 10.6% in the year to 1997Q3. Land Registry
+
+data, which covered all transactions in England and Wales, indicated a rise of 7.7% in
+
+Q3. But the Land Registry did not adjust its series to allow for the composition of the
+
+houses sold, in the way that the Halifax, Nationwide and DoE did.   Bank economists
+
+had made such an adjustment to the Land Registry data. This showed that house
+
+prices had risen by 7.9% in the year to 1997 Q3. Late returns to the Land Registry
+
+meant that this number could be revised; and in a rising market the revision was likely
+
+to be upwards.
+
+A32 The Chancellor had introduced his Pre-Budget Report in November. There had
+
+been little change from the July Budget in the fiscal stance, though no account had
+
+been taken in the Pre-Budget Report of any possible tax changes. The Control Total
+
+for public expenditure had remained unchanged, once reclassifications of some items
+
+had been taken into account. Central government tax revenues were expected to be
+
+marginally weaker than at Budget time, but the tax burden continued to rise - a
+
+combination of previous tax measures and real fiscal drag.
+
+A33 Over the medium term, the ‘golden rule’ was expected to be achieved by
+
+1998/99; the headline and structural PSBR were expected to balance by 1999/00 and,
+
+
+-----
+
+on a more cautious assumption about the output gap, structural balance was expected
+
+in 2000/01. Net debt was expected to fall and net public sector wealth to increase,
+
+reflecting the outlook for the PSBR. But the improvement in the public sector balance
+
+sheet was small compared with the preceding deterioration.
+
+A34 In the report, the Chancellor had announced proposals for a fiscal policy
+
+framework, which aimed to improve the transparency and credibility of fiscal policy, in
+
+parallel with the improvements in monetary policy. The government intended to
+
+introduce a ‘Code for Fiscal Stability’. This would require the government to state and
+
+adhere to fiscal principles; to adopt best-practice public sector accounting; and to
+
+supply detailed reports and information on the fiscal outlook. Proposals to promote
+
+investment and improve the operation of the labour market had also been included in
+
+the Chancellor’s statement.
+
+III Labour market
+
+A35 There had been a small seasonally adjusted fall in the unemployment claimant
+
+count in October of 9,500 - the smallest decline since April 1996. But the seasonal
+
+adjustment had not allowed for fewer students than normal leaving the claimant count.
+
+The ONS estimated that around 20,000 fewer students entered the claimant count in
+
+July than in previous years, probably because of tighter eligibility rules following the
+
+introduction of the Jobseeker’s Allowance. So 20,000 fewer may have left the count
+
+in October. This meant that the underlying fall in unemployment was still probably
+
+around 25-30,000 per month.
+
+A36 Unfilled vacancies rose by 12,000 in October, to 312,000. One reason why the
+
+stock had risen in recent months was that placings had fallen, perhaps suggesting that
+
+vacancies were becoming harder to fill. The ONS had reduced the overstatement of
+
+the stock from 40,000 to 25,000.
+
+A37 According to the Bank’s Agents, there had been a few more signs of
+
+manufacturing job cuts in November, though they were still reporting a marginal net
+
+
+-----
+
+rise overall.  Set against this, the ONS had reported a fall in manufacturing employees
+
+of 5,000 in September, taking the decline in 1997Q3 to 30,000.  But this was a
+
+preliminary figure which might be revised.
+
+A38 Agents’ reports suggested that service sector firms were still actively recruiting,
+
+though they were finding it increasingly difficult to find staff with suitable qualifications
+
+and skills. In some of the tighter labour market areas, such as the South, firms were
+
+looking to recruit from outside the region. Skill shortages were becoming increasingly
+
+widespread, which led to more concerns from businesses about the forthcoming pay
+
+round.
+
+A39 Underlying earnings growth on a year earlier fell in September to 43% from
+
+42%. This was caused by the manufacturing sector, where underlying growth fell
+
+from 43% to 4%. Slower earnings growth was fairly widespread across the sector:
+
+earnings growth fell in eight out of thirteen industries. Lower overtime payments seem
+
+to have been a factor. Whole-economy earnings growth, smoothed for the effects of
+
+bonuses, probably remained in the range of 43% to 42%.
+
+A40 There had been little news on settlements in October, which was in any case a
+
+quiet month. The twelve-month whole-economy mean had remained at 3.3%.
+
+A41 The relationship between unemployment and earnings was then considered: in
+
+particular, did short-term unemployment exert more downward pressure on earnings
+
+than long-term unemployment?
+
+A42 According to the British Household Panel Survey, the short-term unemployed
+
+were more than twice as likely as the long-term unemployed to be employed a year
+
+later. There were two possible reasons why the probability of employment declined
+
+with unemployment duration. First, from any pool of unemployed workers, employers
+
+would tend to select those with the strongest skills and most relevant experience first.
+
+The long-term unemployed were thus less likely to have the most appropriate
+
+qualifications and skills and were less likely to find a job. Second, the length of the
+
+unemployment spell reduced the chances of becoming employed, because search effort
+
+
+-----
+
+fell; or because skills, morale and motivation deteriorated; or because employers used
+
+duration as a screening device to discriminate unfairly against the long-term
+
+unemployed.
+
+A43 Whatever the reason, the implications for the effect of long-term unemployment
+
+on wage pressure were the same: when the proportion of long-term jobless was high,
+
+for a given level of total unemployment, workers would probably realise that they
+
+could not be replaced so easily, and hence that their bargaining strength was higher.
+
+A44 The empirical evidence in general supported a more powerful role for short-term
+
+unemployment in putting downward pressure on wages. Some studies suggested that
+
+only short-term unemployment mattered. But recent Bank research had suggested
+
+that, although short-term unemployment was more important, the potential downward
+
+effect of long-term unemployment on wages should not be disregarded.
+
+IV Prices
+
+A45  There were no signs of any upward pressure from commodity prices;
+
+provisional estimates suggested that commodity prices rose by 1.1% in October, but
+
+this had been entirely because of oil. Oil prices had been stable in November, although
+
+there had been some recent signs of softening as the Iraqi crisis had eased.
+
+A46 Input price deflation continued in October. Output price inflation was barely
+
+positive, and there were few signs of it turning up. The CBI price expectations balance
+
+had turned negative and the Agents were reporting increased pressure from import
+
+competition.
+
+A47 Domestic manufacturers’ margins still appeared to be rising, because of subdued
+
+costs, although export margins were still under pressure, despite rising export prices in
+
+September. Retailers’ margins were continuing to rise.
+
+A48 RPIX had risen unexpectedly in October to 2.8%, from 2.7% in September. A
+
+0.9pp wedge had opened up between RPI and RPIX, reflecting the recent mortgage
+
+
+-----
+
+rate rises.
+
+A49 Looking back over a longer period, RPIX had fluctuated in a very narrow
+
+channel since 1993Q2, and its volatility was at a record low. There was a clear
+
+positive correlation between the standard deviation of inflation and its level. There
+
+was a possible behavioural link: at lower inflation levels, retailers may have had more
+
+incentive to keep prices stable, because any change would lead to a more obvious
+
+movement in relative prices. But if this simple behavioural link were the answer, other
+
+countries with low inflation would have had similarly low volatility; yet they did not,
+
+apart from the US. Also previous episodes of low UK inflation had not been
+
+accompanied by similarly low volatility.
+
+A50 Another possibility was that the determinants of prices, such as demand and
+
+costs, were less variable now than in the past.  Comparing now with previous periods
+
+of low inflation, suggested that this might be part of the story. But volatility had not
+
+been consistently lower across the determinants, and the reduction in volatility of
+
+factors such as output growth, had been much less than for RPIX inflation.
+
+A51 Another explanation was increased credibility or better anti-inflation policy.
+
+Simulations, using a stylised model of the Phillips curve suggested that greater policy
+
+credibility would lead to lower volatility.
+
+V Financial markets
+
+A52 Leaving aside the direct effect from the depreciation of the yen, the impact of the
+
+Asian crisis on many of the major currencies (particularly those in Europe) had been
+
+muted. But sterling was firmer overall.
+
+A53 The downward trend in the dollar exchange rate against the Deutsche Mark had
+
+been reversed in the latter half of November, probably as a result of a turnaround in
+
+expected US-German interest rate differentials. Lower-than-expected M3 and inflation
+
+numbers in Germany had caused markets to revise down their expectation about
+
+interest rates. In contrast, the continued strength in the US economy, and a belief that
+
+
+-----
+
+the FOMC had a bias towards tightening, had firmed interest rate expectations in the
+
+US.
+
+A54 Concerns in the market about the Japanese banking system had increased during
+
+November, as the fourth-biggest dealing house, Yamaichi Securities, and a number of
+
+(mostly regional) banks had failed. The extent of this concern was shown by the
+
+premium being demanded from high-quality Japanese banks, which were seeking to
+
+borrow funds in the market. This premium had risen from 3% at the beginning of the
+
+month to around 1% at the end.
+
+A55 The problems in Asia had increased the market’s perception of risk in other
+
+emerging economies. The yield spread over US Treasuries of these countries’ bonds
+
+had increased markedly in late October. It rose again in the middle of November, but
+
+had since come down to its level at the beginning of that month.
+
+A56 The rise in the UK’s base rate in early November had been mostly unexpected.
+
+Moreover, the market had not just been surprised by the timing, because three-month
+
+rates implied by future contracts went up by 25 basis points along much of the curve
+
+into the next millennium. In other words, the market had changed its view of the
+
+MPC’s future stance. Interest rate expectations had continued to be revised up,
+
+although they had settled back more recently.
+
+A57 What lay behind these market reactions? Whenever rates were put up
+
+unexpectedly, outsiders were unsure as to whether the MPC members were doughtier
+
+inflation-fighters than previously thought, or whether the MPC had information about
+
+the future that was not available to the market. Initially, inflation expectations did not
+
+react to the rise, but they came down subsequently, around the time that the Inflation
+
+Report was published, indicating that the market was reassured that the MPC was
+
+being tougher on inflation.
+
+A58 There was some evidence that the widening of credit spreads in Japan and
+
+developing countries had affected spreads in the UK, albeit in a minor way. There had
+
+been a 10 basis point increase in the spread of corporate bonds over government debt
+
+
+-----
+
+and a 15 basis point rise in LIBOR over the market gilt repo rate. Although these
+
+changes were small, they were not insignificant when compared with the 25 basis point
+
+changes in official rates.
+
+A59 The market expected no change in official rates over the next two weeks,
+
+according to forward interest rates derived from the gilt repo market. Indeed there
+
+seemed to be little expected change even by February. Looking slightly further out
+
+over the next two years, it was more difficult to say what the market expected about
+
+official rates. Information came from 3-month LIBOR rates implied in the futures
+
+markets, which incorporated a spread over official rates. But with greater concerns
+
+over credit risk arising out of the East Asia crisis, it was difficult to know how large
+
+this spread was. On reasonable assumptions it would be possible to conclude either
+
+that the market expected one more rise in the late spring or summer of next year, or
+
+that there would be no more rises before rates started to come down in the second half
+
+of next year.
+
+A60 There had been only modest changes in most G7 stockmarket indices since the
+
+previous MPC meeting. Equity market uncertainty in the US and UK (as measured
+
+from options prices) had trended down since the turbulence of late October, but
+
+remained above the levels seen in September and August. Implied volatility in Japan’s
+
+equity markets had continued to rise sharply in the period since the previous MPC
+
+meeting. The negative skew in the implied probability distributions for the FTSE 100
+
+had reduced somewhat since the previous meeting, but remained more pronounced
+
+than before the global equity market turbulence of October.
+
+A61 Stock market uncertainty had possible implications for real activity. It could
+
+reduce investment through higher risk premia and a higher notional option value in
+
+postponing potentially profitable investment. It could also reduce consumption by
+
+making the level of financial wealth uncertain and, given that stock market uncertainty
+
+was prevalent around the world, it could also reduce demand from overseas. But
+
+analysis suggested that uncertainty about UK equity prices might now be increasingly
+
+concentrated in financial and mineral extraction companies, which could limit its
+
+
+-----
+
+impact on the real economy compared with the situation where it was more broad
+
+based.
+
+
+-----
+

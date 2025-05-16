@@ -1,0 +1,199 @@
+**HIGHLIGHTS OF THE MEETING OF THE MONETARY BOARD ON THE MONETARY POLICY**
+
+**STANCE HELD ON 14 DECEMBER 2017[1]**
+
+
+**I.** **Monetary Policy Decision**
+
+The Monetary Board decided to:
+
+a) Maintain the overnight RRP (borrowing) rate at 3.0 percent;
+
+b) Maintain the current overnight deposit and overnight lending rates; and
+
+c) Maintain the current reserve requirement ratios.
+
+**II.** **Key Considerations in the Formulation of the Monetary Policy Stance**
+
+  - The Monetary Board’s (MB) decision is based on its assessment that the outlook for the
+inflation environment has been broadly unchanged. This is indicated by the latest baseline
+forecasts remaining within the target range of 3.0 percent ± 1 percentage point for 20182019. Inflation expectations also continue to be firmly anchored to the target over the
+policy horizon.
+
+  - The MB also recognized that the overall balance of risks to the inflation outlook remains
+tilted toward the upside due in part to possible higher crude oil prices. While there may be
+potential transitory effects on consumer prices from the proposed tax reform program,
+various mitigation measures and the resulting improvement in output and productivity are
+also expected to temper the impact on inflation over the medium term. Meanwhile, the
+proposed reforms in the rice industry involving the replacement of quantitative
+restrictions with tariffs and the deregulation of rice imports could serve to reduce
+inflation.
+
+  - At the same time, geopolitical tensions and lingering uncertainty over macroeconomic
+policies in advanced economies continued to pose downside risks to the near-term
+prospects for global economic growth. Nonetheless, the Monetary Board emphasized that
+the outlook for domestic economic activity are likely to remain firm owing to buoyant
+consumer and business sentiment and ample liquidity. Moreover, as credit continues to
+expand in line with output growth, the Monetary Board remains watchful over evolving
+liquidity and credit conditions and their implications for price and financial stability.
+
+1 The discussions herein reflect the assessment made by the Monetary Board based on a comprehensive set of economic information available at
+the time of the policy meeting. The highlights of the discussions during the 14 December 2017 monetary policy meeting were approved by the
+Monetary Board during its regular meeting held on 5 January 2018. The next meeting of the Monetary Board on the monetary policy stance is
+h d l d 8 F b 2018
+
+
+-----
+
+**III.   Recent Developments and Inflation Outlook**
+
+The MB considered the following developments in deciding on the monetary policy stance:
+
+**A. Domestic price conditions**
+
+  - The year-to-date actual inflation of 3.2 percent (as of November 2017) is well-within the
+Government’s inflation target range of 3.0 percent ± 1.0 percentage point for the year.
+Year-on-year headline inflation eased to 3.3 percent in November from 3.5 percent in the
+previous month due to slower price increases in selected food items. The deceleration was
+slightly offset by the rise in non-food inflation as a result of higher energy and fuel costs.
+
+  - Core inflation—which excludes certain volatile food and energy items to better capture
+underlying price pressures— increased to 3.3 percent in November from 3.2 percent in the
+previous month. Meanwhile, alternative measures of core inflation showed mixed
+movements during the month but the general uptrend continued.
+
+**B.  Inflation expectations**
+
+  - Inflation expectations—based on private sector economist forecasts surveyed by the
+BSP—continued to be in line with the BSP’s within-target inflation outlook. Results of the
+BSP’s survey of private sector economists for November 2017 showed that mean inflation
+forecasts for 2017 and 2019 were steady at 3.3 and 3.4 percent, respectively. However,
+the mean inflation forecast for 2018 was higher at 3.5 percent from 3.4 percent in the
+previous survey round.
+
+**C.  Inflation outlook**
+
+  - Average inflation was projected to draw close to the midpoint of the target range of
+
+3.0 percent ± 1.0 percentage point in 2017 and would settle slightly above the midpoint of
+the target range for 2018-2019. The baseline inflation forecasts were generally unchanged
+compared to the previous forecast round.
+
+  - The risks to future inflation remained weighted toward the upside. The transitory impact
+of the government’s tax reform program, higher global crude oil prices, pending petitions
+for adjustments in transport fares and electricity rates are the main upside risks to
+inflation. Meanwhile, the slower global economic growth due to policy uncertainty in
+advanced economies and geopolitical tensions as well as the proposed reform in the rice
+industry involving the replacement of quantitative restrictions with tariffs and the
+deregulation of rice imports over the medium term continued to be the main downside
+risks to inflation.
+
+**D. Demand conditions**
+
+  - Latest demand indicators affirm the earlier assessment that domestic demand conditions
+would remain relatively firm. The economy grew by 6.9 percent in the third quarter, faster
+compared to the 6.7 percent growth in the previous quarter but slower compared to
+7.1 percent in the third quarter in 2016. This brought year-to-date growth to 6.7 percent,
+which is within the government’s growth target of 6.5-7.5 percent in 2017. On the
+
+
+-----
+
+expenditure side, both domestic and external demand fueled output growth. On the
+supply side, growth was driven by the services sector while growth in the industry sector
+was supported by robust growth in manufacturing.
+
+ - Higher frequency indicators supported the positive outlook for domestic demand. Capacity
+utilization of the manufacturing sector has remained above 80 percent while PMI readings
+have been consistently above the 50-percent expansion threshold. Latest data on NG
+spending showed that expenditure excluding interest payments has increased. Plans for
+increased fiscal spending are likewise expected to boost activity and support the growth
+momentum.
+
+**E.  Supply-side indicators**
+
+Developments in Agriculture
+
+ - The Agriculture, Hunting, Forestry and Fishing (AHFF) sector expanded by 2.5 percent in
+Q3 2017, brought about by output increases in palay, coconut, sugarcane, banana,
+pineapple, tobacco, peanut, mongo, cassava, sweet potato, tomato, and rubber.
+
+ - According to the National Food Authority (NFA), the country’s total rice inventory as of
+end-October 2017 stood at 1,969.3 thousand metric tons (TMT), estimated to last for
+about 62 days.
+
+ - The MB noted the staff’s estimates that inflation could decline over the medium term with
+rice import tariffication. The estimates are based on the current version of the House Bill
+(as of 20 November 2017, pending before the House Committee on Agriculture and Food)
+amending R.A. 8178.
+
+ - Weather forecast models (as of November 2017) of the International Research Institute for
+Climate and Society – Climate Prediction Center predicted an increasing chance of La Niña
+weather conditions in Q4 2017 – Q1 2018. According to PAGASA, most climate models
+suggest weak La Niña for remainder of 2017 to Q1 2018, coinciding with end of harvest
+and 2nd cropping season.
+
+Oil Price Developments
+
+ - Global crude oil prices have settled at above-US$60 per barrel in November 2017 reflecting
+the recent upward pressures on global oil prices as a result of the production cut
+agreement extension by major oil producers (OPEC and non-OPEC). Crude oil prices are
+expected to remain flat or slightly higher over the near term as a result of expectations of
+lower supply with the extended production cuts.
+
+Developments in the Utilities Sector
+
+ - The overall electricity rate decreased in December 2017 due mainly to lower generation
+charge brought about by the improved power supply situation. At the same time,
+generation charges from Power Supply Agreements (PSAs) and Independent Power
+Producers (IPPs) registered decreases due to the strengthening of peso against the US
+dollar.
+
+
+-----
+
+**F. Financial market developments**
+
+ - The Philippine Stock Exchange index (PSEi) declined to 8,129.62 index points as of
+6 December from end-October level of 8,365.26 index points amid dampened investor
+sentiment following the index rebalancing of Morgan Stanley, reports on the latest missile
+testing by North Korea and the decline in US stocks due to the passage in the US Senate of
+the Republican tax reform bill.
+
+ - In the last quarter of the year, optimism on US tax reform plans and expectations that the
+next Fed Chair would be more hawkish weighed on the peso. Nonetheless, the peso
+appreciated in early December as domestic inflation eased in November. The peso likewise
+strengthened by optimism on the passage of the local tax reform bill, FDI flows, upbeat
+local economic growth and Fitch's debt rating upgrade on the Philippines.
+
+**G. Domestic liquidity and credit conditions**
+
+ - Prevailing credit and liquidity conditions continued to support the appropriateness of
+
+present monetary policy settings. Domestic liquidity increased by 14.8 percent (from
+14.5 percent) while bank lending growth decelerated to 19.9 percent (from 21.1 percent)
+in October 2017.
+
+**H.  Fiscal developments**
+
+ - Fiscal spending remains on track as NG expenditures (excluding interest payments)
+increased by 10.0 percent year-on-year in January-October 2017. The NG also recorded a
+fiscal deficit of P234.9 billion for the period January – October 2017, higher by 9.0 percent
+compared to the P216.0-billion deficit posted in the previous year.
+
+**I.  External developments**
+
+ - Global economic activity maintained its momentum in November. The JP Morgan Global
+All-Industry Output Index posted a steady rate of expansion in November at 54.0, the same
+reading in October as inflows of new business continued to rise. The rates of expansion
+picked up in China, Russia, and Australia, but slowed in the US, Japan, the UK, and India.
+Meanwhile, economic activity in Brazil remained in the contraction territory.
+
+ - The US Fed raised its fed funds rate by 25 bps to 1.25-1.50 percent on 13 December 2017
+
+to support further strengthening in the labor market and sustained return to 2-percent
+inflation.
+
+
+-----
+

@@ -1,0 +1,133 @@
+# Minutes of the Monetary Policy Meeting of the Monetary Policy Committee 
+
+ Bank of Thailand
+
+ 9 March 2011
+
+ Publication date: 23 March 2011
+
+**Members Present**
+
+Prasarn Trairatvorakul (Chairman and Governor), Atchana Waiquamdee (Vice Chairman and Deputy
+Governor, Monetary Stability), Suchada Kirakul (Deputy Governor, Corporate Support Services),
+Ampon Kittiampon, Praipol Koomsup, Siri Ganjarerndee, Krirk-krai Jirapaet
+
+**Financial Markets**
+
+**The Thai baht, relative to the US dollar, saw greater two-way movement. Recently, the baht**
+appreciated gradually after depreciating in the second half of January as the Thai Stock Exchange
+Index fell over concerns regarding sovereign debt problems in Europe and political unrest in the
+Middle East. The Euro and most regional currencies strengthened after central banks signaled
+their intention to tighten monetary policy to fight inflation. The US dollar continued to depreciate due
+to confirmations that the second round of quantitative easing would continue as scheduled despite
+improvements in employment. The short end and middle of the yield curve shifted upward as the
+market priced in future rate hikes by the MPC. The shift was consistent with a survey of market
+participants which indicated expectations of a 0.25 percentage point hike this meeting.
+
+**International Economic Conditions**
+
+**Risks to inflation have increased due to record-high food prices and the surge in oil prices amid**
+**unrest in the Middle East. Nevertheless, the supply shock, particularly high oil prices, was expected**
+to have a limited impact on economic expansion due to (1) increased global resiliency to oil price
+shocks as oil dependency had fallen as reflected in lower oil expenditure to GDP ratio, (2) real oil
+prices were currently lower than its peak in 2008 and (3) many Asian economies maintain price
+controls or provide subsidies as fiscal room remained.
+
+Some MPC members raised concerns about the impact of the surge in oil and commodity prices on
+the global recovery. However, MPC members noted that the oil price spike would likely be temporary
+and would not remain excessively high for an extended period since political unrest in the Middle
+East was not expected to become widespread to the extent that might threaten oil supply networks and
+global inventory. Also, OPEC excess capacity remained high and could offset any reduction in
+production by countries experiencing unrest. In addition, the recent upward trend in oil prices
+reflected underlying global demand due to economic expansion, particularly in the emerging markets.
+The MPC members therefore assessed that the surge in oil and commodity prices would probably not
+impede continued global economic recovery.
+
+Although risks to inflation have increased, the global economy maintained its recovery momentum
+as reflected by improvements in the global Purchasing Managers’ Index, particularly in the G3
+economies where recovery had become more evident. The US economy showed continued expansion
+
+
+-----
+
+on the back of improved production, consumption, and employment. Credit market conditions have
+improved but recovery of the real estate market may take time. The Euro area continued to expand,
+driven by the performance of core member countries. However, signs of inflation risk have emerged.
+The Japanese economy remained fragile due to high unemployment and deflation. Asian economies
+grew continuously from domestic and external demand amid increased inflationary pressure,
+prompting monetary policy normalization and reduced fiscal stimulus in 2011. The Chinese economy
+expanded well despite continued monetary tightening.
+
+**Domestic Economic Conditions**
+
+**The Thai economy continued to expand in Q4 of 2010 and January 2011 on the back of domestic**
+demand, in particular, consumption and investment, as well as exports, which was expected to
+remain an engine of growth going forward. In addition, the real impact of fiscal stimulus on
+consumption and investment in FY2011 increased from the supplementary budget and aid
+disbursement following natural disaster in the beginning of the year. Meanwhile, imports expanded
+well. Going forward, the Thai economy would likely retain its growth momentum from rising farm
+income on the back of world commodity prices as well as higher non-farm income. The impact of
+high oil prices would therefore not have a significant impact on continued economic expansion.
+Additional supporting factors included (1) the fact that the current oil shock was not as severe
+compared to previous shocks, (2) the Thai economy’s lower oil dependency (3) and diesel price
+administration. Nevertheless, some MPC members commented that the Thai economy’s substitution
+away from oil toward alternative energy sources may eventually lead to the gradual lifting of
+government price administration of alternative energy, which could result in higher inflationary
+pressure.
+
+In the monetary sector, private credit growth continued to accelerate. Corporate loans exceeded its
+pre-crisis level while household loans grew in line with improved consumer confidence. Automobile
+leasing loans also grew. Loan quality remained satisfactory. In addition, increased demand for loans
+and rising costs led to increased competition to attract funding. Lastly, commercial banks were more
+responsive in adjusting their benchmark interest rates in line with the policy rate compared to the
+previous MPC meeting.
+
+In regard to price stability, inflationary pressure increased and became more evident compared to the
+previous meeting as a result of economic expansion and the upward adjustment in inflation
+expectations following the spike in global oil and commodity prices. Nevertheless, the extension of
+government cost-of-living relief measures by four months would delay, if only partly, pressure on
+core inflation. Some MPC members noted that due to price administration, measured inflation figures
+may not sufficiently reflect actual inflationary pressure. In addition, increased input costs could
+adversely affect farm income which had served as a driver of growth.
+
+**Monetary Policy Considerations**
+
+The MPC assessed that the surge in oil and commodity prices resulted in increased inflationary
+pressure but would not impede continued growth of the global and Thai economies going forward.
+
+**Inflationary pressure clearly increased. The surge in oil and commodity prices amid robust**
+domestic demand resulted in increased inflation expectations and an acceleration in core inflation. If
+oil prices remain persistently high beyond projections and the output gap closed in the second half of
+2011 as expected, inflation expectations could rise even further.
+
+
+-----
+
+Some MPC members noted that increased fiscal stimulus following elections could result in an
+overheating economy beyond projections. In such an environment, accelerated inflationary pressure
+may lead to faster pass-through from increased production costs to overall inflation and possibly
+weaken the anchoring of inflation expectations. With higher inflationary pressure amid robust
+demand, the economy should have no problems adjusting to an interest rate hike of 0.5 percentage
+point. Nevertheless, the majority of MPC members judged that gradual adjustment in the policy rate
+would build monetary policy credibility while not disrupting financial markets. In the event that
+greater-than-expected inflationary pressure arises, monetary policy stance could be adjusted as
+necessary, including possibly the use of alternative policy measures as commented by some members.
+However, other members stressed that alternative policy measures cannot substitute for the interest
+rate as the main instrument of monetary policy in targeting price stability.
+
+**Following discussion, MPC members were unanimous in maintaining gradual rate hikes to**
+**signal continuity in monetary policy normalization. The hike was deemed to be sufficient in**
+keeping domestic demand from fueling price pressure as well as in keeping financial imbalances at
+bay. Nevertheless, MPC members emphasized the need to closely monitor developments in
+**inflationary pressure going forward.**
+
+The MPC therefore decided unanimously (7 to 0) to raise the policy interest rate by 0.25 percentage
+point, from 2.25 to 2.50 per cent per annum, effective immediately.
+
+Monetary Policy Group
+
+23 March 2011
+
+
+-----
+

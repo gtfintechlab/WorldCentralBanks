@@ -1,0 +1,574 @@
+### Publication date: 18 February 2009
+
+## MINUTES OF THE 
+# MONETARY POLICY COMMITTEE MEETING
+## 4 AND 5 FEBRUARY 2009
+
+##### These are the minutes of the Monetary Policy Committee meeting held on  4 and 5 February 2009.
+
+ They are also available on the Internet http://www.bankofengland.co.uk/publications/minutes/mpc/pdf/2009/mpc0902.pdf
+
+ The Bank of England Act 1998 gives the Bank of England operational responsibility  for setting interest rates to meet the Government’s inflation target. Operational  decisions are taken by the Bank’s Monetary Policy Committee. The Committee meets  on a regular monthly basis and minutes of its meetings are released on the  Wednesday of the second week after the meeting takes place. Accordingly, the  minutes of the Committee meeting to be held on 4 and 5 March will be published on  18 March 2009.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 4-5 FEBRUARY 2009
+
+1 Before turning to its immediate policy decision, and against the background of its latest
+
+projections for output and inflation, the Committee discussed financial market developments; the
+
+international economy; money, credit, demand and output; and costs and prices.
+
+**Financial markets**
+
+2 Conditions in financial markets remained difficult. There had been a spate of poor bank earnings
+
+results internationally, which appeared to have increased the perception among market participants that
+
+the global banking system was in worse shape than previously thought. And the macroeconomic
+
+outlook had deteriorated further. Against that backdrop, the Government’s announcement in mid
+January of a five-point plan to tackle the problems in the UK banking system had initially had little
+
+impact on market sentiment. That also possibly reflected the fact that financial market participants
+
+were waiting for more detail on the plan.
+
+3 UK money markets conditions had eased early in the month. But term lending had become more
+
+difficult later in the month, and the spread of three-month LIBOR over the average of expected policy
+
+rates had climbed back up towards 150 basis points more recently.
+
+4 Corporate financing conditions remained strained in the United Kingdom. As bank lending
+
+growth had slowed, corporate bond issuance for highly rated companies had picked up in January. But
+
+the market for sub-investment grade debt had remained closed. Sterling investment-grade corporate
+
+bond spreads had risen further, and equity prices had fallen over the month.
+
+5 The sterling effective exchange rate index had fallen by around 6% at one point during the
+
+month. But it recovered towards the end, leaving the index little changed compared with a month
+
+earlier. Sterling had lost over a quarter of its value since mid 2007. To some degree, that depreciation
+
+had probably reflected the need to rebalance the UK economy away from domestic towards external
+
+
+-----
+
+2
+
+demand. In addition over the past year, the global outlook had deteriorated with resultant downward
+
+revisions to interest rate expectations world wide. But the downward revision to forecasts of the UK
+
+economy appeared to have been greater than for some other countries. And those perceptions may
+
+have contributed to sterling’s decline. Another factor in sterling’s decline over the past eighteen
+
+months could have been increased risk premia.
+
+**The international economy**
+
+6 The synchronised downturn in the world economy had continued. In the United States, the 1.0%
+
+fall in real GDP in 2008 Q4 had been the largest quarterly decline since 1982. Even though a larger
+
+decline had been expected, the composition of spending did not bode well for the near-term outlook,
+
+with a positive contribution to growth of 0.3 percentage points estimated to have come from an
+
+increase in stocks. That was consistent with an unanticipated inventory accumulation and pointed to
+
+further weakness in output in 2009 as those stocks were run down. Non-farm payrolls had fallen by
+
+another half a million in December.
+
+7 In the euro area, both industrial and consumer confidence had fallen again. Retail sales volumes
+
+had been flat in December. But steep declines in October, and a downward revision to the November
+
+data, meant that sales volumes had fallen by 0.9% in 2008 Q4. Unemployment had risen to 8% in
+
+December.
+
+8 The decline in Japanese industrial production had been sharp, with output falling by 9.6% in
+
+December alone, and 20.6% on a year earlier. Real household spending had continued to fall, and
+
+unemployment had risen by 0.5 percentage points to 4.4%. Elsewhere in Asia, there had also been
+
+some strikingly weak December figures, with industrial production down 32.3% in Taiwan compared
+
+with a year earlier, 18.6% in Korea and 13.5% lower in Singapore.
+
+9 The quickening pace of decline since the autumn of 2008 had appeared to touch every part of the
+
+world. In contrast to the early stages of the crisis, the size of a country’s financial sector no longer
+
+appeared to determine an economy’s relative performance. Falling confidence around the world was
+
+an important contributory factor behind this stage of the global downturn. But weaker demand and
+
+falling asset prices had exacerbated bank losses and further intensified the credit tightening. A
+
+shortage of trade credit appeared to be one factor behind the sharp downturn in global trade.
+
+
+-----
+
+3
+
+10 The worsening outlook for the world economy was also evident in the update to the IMF’s world
+
+forecast, published in late January. Compared with its previous forecast published two months earlier,
+
+the IMF had scaled back its 2009 GDP growth projections by 0.9 percentage points to -1.6% for the
+
+United States, by 1.5 percentage points to -2.0% for the euro area, and by 2.4 percentage points to
+
+-2.6% for Japan. It was noted, however, that Purchasing Managers’ Indices (PMI), though still very
+
+weak, had picked up slightly in many parts of the world.
+
+11 Further policy stimulus was being enacted in a number of countries. The substantial US fiscal
+
+measures should be agreed by Congress over the next month.
+
+12 One feature of the financial turmoil had been the repatriation of funds by banks and other
+
+investors. That trend had probably been accentuated by policy measures in a number of countries,
+
+which had typically focused on keeping credit flowing to their own domestic residents. This return to
+
+home markets appeared to have been quite pronounced. It had severely aggravated the contraction in
+
+lending and demand in countries where foreign banks had had a very substantial presence and there
+
+was limited domestic capacity to fill the gap. That had happened in some emerging market economies.
+
+But even where the outflows were broadly matched by repatriated funds, there could be costs,
+
+associated, for example, with the breaking of existing bank-customer relationships, as well as longer
+term costs from the reduction of competition in the international allocation of capital.
+
+**Money, credit, demand and output**
+
+13 It was likely that nominal spending had been flat or falling during 2008 as a whole. That was
+
+significantly below the average growth rate of around 5% for the period since the MPC’s first meeting
+
+in 1997 – a period when inflation had been close to the target on average. Consistent with the weak
+
+growth in nominal spending, the twelve-month growth rate of M4 and M4 lending to the private non
+financial sector had slowed markedly during 2008. The growth of money, credit and nominal
+
+spending would be key early indicators for judging the effectiveness of monetary policy.
+
+14 The seasonally unadjusted ONS data on the value of retail sales suggested that they had been
+
+lower in December than a year earlier. These data were broadly consistent with other indicators of
+
+retail spending, including, for example, the retailers balance from the December CBI Distributive
+
+
+-----
+
+4
+
+_Trades Survey which had reached its lowest level since the series began in 1983, before recovering_
+
+slightly in January. The ONS data suggested that seasonally adjusted retail sales volumes had
+
+increased quite sharply on the month in December. But the ONS had cautioned that these data were
+
+particularly uncertain at the moment. The forward-looking European Commission measure of
+
+consumer confidence did not augur well for near-term consumer spending as it had fallen to its lowest
+
+level ever in January 2009.
+
+15 According to the Halifax, house prices rose in January by 1.9%. But it was possible that the
+
+Halifax figure reflected volatility in the data. The Nationwide index, by contrast, had fallen by 1.3%
+
+in January. And according to a preview of the January survey from the Royal Institution of Chartered
+
+Surveyors, house prices had continued to fall. Moreover, the balance of surveyors expecting further
+
+falls over the next month had increased again.
+
+16 Companies had scaled back their investment plans, as confidence had dropped, uncertainty
+
+increased and financing conditions deteriorated. Survey measures of investment intentions had fallen
+
+sharply. In the latest CBI Quarterly Industrial Trends Survey, investment intentions had fallen to their
+
+lowest levels since the survey began in the early 1970s. That confirmed the bleak picture on
+
+investment intentions in the BCC survey that the Committee had seen at its January meeting.
+
+17 The impact on output of the slowdown in spending was probably being amplified by a stock
+
+cycle. The CBI Quarterly Industrial Trends Survey suggested that manufacturers had run down their
+
+stocks in 2008 Q4, and expected to reduce them very sharply in the first quarter of 2009. Once the
+
+excess stocks had been pared back, it was likely that output would stop contracting so sharply.
+
+18 The depreciation of sterling during 2008 was likely to provide a stimulus to the UK economy by
+
+boosting exports and encouraging spending to switch away from imports towards domestically
+
+produced goods and services. So far it appeared that UK exporters had, on average, responded to the
+
+lower level of sterling by boosting margins, rather than by cutting foreign currency prices and gaining
+
+market share. Sterling export prices had risen by 14% in the year to 2008 Q3, while export volumes
+
+had been fairly flat, despite positive, albeit weak, growth in world trade.
+
+19 In line with pre-release arrangements, the Governor had been supplied with the industrial
+
+production data for December, a day ahead of publication. Manufacturing output had fallen by 2.2%
+
+
+-----
+
+5
+
+in December. The back data had also been revised downwards, such that manufacturing output had
+
+declined by 5.1% in the final quarter of 2008. It was possible that these new data could lead the ONS
+
+to revise down its preliminary estimate for GDP growth of -1.5% that it had published in January.
+
+20 As in other parts of the world, the most recent Purchasing Managers Indices had increased. In
+
+services, for example, the CIPS/Markit business activity index for January was 2½ points above its
+
+November trough. The year-ahead business expectations measure had increased by six points in
+
+January alone. Nevertheless, the indices remained close to record lows, and were consistent with a
+
+contraction in output in 2009 Q1 similar to that in the previous quarter.
+
+**Costs and prices**
+
+21 According to the Labour Force Survey (LFS), employment had fallen by 0.1% in the three
+
+months to November. The reduction in employment had been associated with a marked pickup in
+
+unemployment. On the LFS measure, unemployment had continued to rise sharply taking the
+
+unemployment rate to over 6%, its highest level in nearly a decade. And the claimant count had
+
+picked up further in December. Younger people had been especially affected. Unemployment rates
+
+among individuals under the age of 25 had picked up more sharply since the start of 2008 than for
+
+other age groups. Surveys of businesses’ employment intentions remained extremely weak. The
+
+Bank’s regional Agents had reported that, for many of their contacts, the next stage of adjustment to
+
+weaker demand could involve more substantial job cuts.
+
+22 Pay growth had diminished further this month. Annual private sector earnings growth had fallen
+
+in November, according to both the average earnings index and average weekly earnings measures,
+
+and were at their lowest rates since 2003. In a survey conducted by the Bank’s regional Agents, more
+
+than a third of the respondents, weighted by the number of employees, suggested that they were
+
+considering pay freezes.
+
+23 CPI inflation had fallen to 3.1% in December, after reaching 5.2% in September. That
+
+represented the biggest decline in CPI inflation over a three month period since 1992. Reductions in
+
+petrol prices and the cut in VAT probably accounted for much of that fall.
+
+
+-----
+
+6
+
+**The February GDP growth and inflation projections**
+
+24 The Committee reached its policy decision in the light of the projections to be published in the
+
+_Inflation Report on Wednesday 11 February. The projections were conditioned on the assumption that_
+
+Bank Rate followed a path implied by market yields prevailing prior to the MPC’s February decision.
+
+25 In the Committee’s central projection, despite the yield curve being materially lower than had
+
+been assumed in the November Report, the near-term contraction in output was substantially deeper, as
+
+the weakening labour market and increased uncertainty weighed on consumption, businesses ran down
+
+inventories and reduced investment, and the weakness in world demand hit exports. Further out, GDP
+
+growth recovered, as the impact of the substantial policy stimulus at home and abroad increased, the
+
+lower level of sterling shifted both domestic and overseas expenditure towards UK suppliers, and the
+
+contribution of stockbuilding rose. But the level of GDP remained lower than in the November Report
+
+throughout the forecast period.
+
+26 The central projection for CPI inflation was for it to fall well below the 2% target in the medium
+
+term, as the downward pressures from the substantial margin of spare capacity outweighed the waning
+
+impact on import and retail prices from the lower level of sterling. The near-term path for inflation
+
+was uneven. That reflected: the marked fall in energy prices, which pulled down sharply on the
+
+inflation projection in 2009; and the direct impact of the temporary cut in VAT. Looking through that
+
+volatility, the medium-term outlook for inflation was a little weaker than in the November Report.
+
+27 The prospects for economic growth and inflation remained unusually uncertain, reflecting the
+
+exceptional economic and financial factors affecting the outlook. The risks around the central
+
+projection for growth were judged to be heavily weighted to the downside. That in large part reflected
+
+the possibility that, over the forecast period, the authorities at home and abroad were only partially
+
+successful in improving the availability of credit and restoring business and consumer confidence.
+
+There were significant risks on both sides for inflation. On the downside, the main risk was that the
+
+recession might be more pronounced than in the central case, putting further downward pressure on
+
+inflation. On the upside, the main risk concerned the extent of the pass-through from sterling’s
+
+depreciation to consumer price inflation. Overall, the balance of risks around the central projection for
+
+inflation was judged to be slightly to the downside.
+
+
+-----
+
+7
+
+**The immediate policy decision**
+
+28 The world economy was in the throes of a severe and synchronised downturn driven by a
+
+collapse in confidence and tightening credit conditions. Official data and surveys suggested that
+
+output in the advanced economies had fallen sharply in the fourth quarter of 2008, and growth in
+
+emerging market economies appeared to have slowed markedly. World trade was contracting rapidly.
+
+This world downturn was affecting the United Kingdom, where output had contracted sharply in the
+
+fourth quarter of 2008. Business surveys were pointing to a similar reduction in output in early 2009.
+
+29 The UK economy was undergoing a significant and sustained adjustment as banks restructured
+
+their balance sheets, and the private sector cut back on spending and increased saving. In the medium
+term, the contribution of net exports to GDP was likely to be higher than over the recent past.
+
+Monetary policy could not and should not seek to prevent that necessary long-term adjustment.
+
+However, in the short run, the challenge was to restore nominal spending growth to levels that were
+
+more consistent with returning inflation to the 2% target, thus helping to reduce the length and depth of
+
+the recession.
+
+30 CPI inflation had fallen to 3.1% in December. Rising unemployment had been accompanied by
+
+waning pay pressures. But the depreciation of sterling was boosting the cost of imports. Inflation was
+
+likely to be uneven in the near term. The Committee’s central projection was for inflation to fall well
+
+below the 2% target in the medium term. And the risks to that projection were judged to be slightly to
+
+the downside.
+
+31 The UK economy was already receiving a substantial stimulus from monetary and fiscal policy,
+
+measures to improve the functioning of the banking sector, past falls in commodity prices, and the
+
+depreciation of sterling. Those factors would help to support a recovery in spending. Nevertheless,
+
+the Committee’s projections implied that further monetary easing was likely to be needed in order to
+
+meet the inflation target in the medium term.
+
+32 It seemed unlikely that the inflation target could be met solely by cutting Bank Rate. The short
+term market interest rates that Bank Rate sought to influence could not go far, if at all, below zero.
+
+Furthermore, at very low rates of interest, the stimulus that a reduction in Bank Rate could provide was
+
+likely to be much reduced. Indeed, there might even be a point at which further cuts in Bank Rate
+
+
+-----
+
+8
+
+could have an adverse impact on the economy since banks and building societies maintained a spread
+
+between their deposit and lending rates to cover the costs of providing banking services and to make a
+
+return on capital. Those deposit rates tended to lie below Bank Rate. Once those deposit rates were at
+
+zero, any further falls in lending rates would squeeze the spread. At that point, banks might decide not
+
+to pass on cuts in Bank Rate, in order to mitigate the impact on their profitability; that would reduce
+
+the effectiveness of monetary policy. However, where banks passed on cuts in Bank Rate to their
+
+borrowers (because, for example, they were contractually obliged to do so), that would lead to a fall in
+
+banks’ profits, which might cause them to restrict their lending further with potentially adverse
+
+consequences for the rest of the economy. The scale of these effects remained uncertain.
+
+33 Members discussed how large a reduction in Bank Rate was appropriate this month. There was a
+
+great deal of uncertainty about what would happen to banks’ and building societies’ ability and
+
+willingness to lend at low levels of interest rates. It was possible that the negative impact on
+
+profitability could be significant for some banks as Bank Rate fell further. Taking that into account, a
+
+majority of members concluded that a cut of 50 basis points was appropriate this month.
+
+34 There were also arguments for cutting Bank Rate by 100 basis points this month. There were
+
+parts of the monetary transmission mechanism that still worked and did not rely on the banking sector.
+
+The larger the cut, the larger the stimulus that would be achieved through these channels. It was
+
+possible that banks could find other means for raising revenue to replace the money lost from any
+
+reduction in the spread. In any event, other policies were more appropriate for addressing the problem
+
+of the adequacy of banks’ capital, not the level of Bank Rate. For one member, it was especially
+
+appropriate at this time to reach the lower bound for Bank Rate without delay. Historically, policy
+
+errors had been made by cutting too late rather than too soon.
+
+35 To the extent that further cuts in Bank Rate could not inject sufficient stimulus, the Committee
+
+would need to use alternative policy instruments. The MPC’s ability to influence the value of nominal
+
+spending and inflation in the economy ultimately came from the Bank of England’s role as the
+
+monopoly supplier of sterling central bank money: banknotes and reserves held by the banking system
+
+at the Bank. The MPC had up until now influenced the economy by changing the interest rate –
+
+currently Bank Rate – at which those reserves were remunerated. The Bank had supplied the amount
+
+of central bank money demanded at that level of Bank Rate, mostly by purchasing and selling
+
+government securities.
+
+
+-----
+
+9
+
+36 But the MPC could also influence the economy by controlling the quantity of that central bank
+
+money directly. Increasing the supply of central bank money in the economy through additional
+
+purchases of government securities should raise private sector spending, both directly (through the
+
+increase in money holdings of private sector asset sellers) and indirectly (through an expansion by
+
+banks of the supply of credit).
+
+37 In the present environment, where particular credit markets were not functioning normally, it
+
+was appropriate to consider increasing the supply of central bank money by more unconventional types
+
+of asset purchases. Buying private sector assets in such markets, including commercial paper and
+
+corporate bonds, would help to stimulate the economy further by improving liquidity in the markets for
+
+these securities. In turn, that would encourage the flow of credit to companies.
+
+38 The Bank, rather than the MPC, had already been given the authority by the Chancellor to
+
+conduct such purchases, via the Asset Purchase Facility (APF), although in this case financed by the
+
+issuance of Treasury Bills. The APF was a specially created fund, indemnified by the Treasury.
+
+Those purchases were aimed at improving conditions in the specific credit markets rather than
+
+achieving the inflation target. Nevertheless, these measures might help to change banks’ behaviour
+
+and boost the broad supply of money, which could provide a material stimulus to nominal spending.
+
+39 It seemed likely that the Committee would want to consider a range of asset purchases in due
+
+course. That would strengthen the Committee’s ability to meet the inflation target. Therefore the
+
+Committee unanimously agreed that the Governor should write on its behalf to the Chancellor to seek
+
+authority to conduct purchases of government and other securities, financed by the creation of central
+
+bank money using the APF. It would be crucial for the Chancellor to ensure that the Government’s
+
+debt management policy would be consistent with the monetary policy actions of the MPC. The
+
+Committee recognised that the impact of such operations was both uncertain and subject to time lags.
+
+In communicating the MPC’s actions, it would be important to stress that such measures were being
+
+considered in order to meet the inflation target. The publication of the February Inflation Report
+
+would provide an opportunity to emphasise this.
+
+40 The Governor invited the Committee to vote on the proposition that Bank Rate should be
+
+reduced by 50 basis points to 1.0%. Eight members of the Committee (the Governor, Charles Bean,
+
+
+-----
+
+10
+
+John Gieve, Kate Barker, Tim Besley, Spencer Dale, Andrew Sentance and Paul Tucker) voted in
+
+favour of the proposition. David Blanchflower voted against, preferring a reduction of 100 basis
+
+points.
+
+41 Finally, the Governor expressed his appreciation to John Gieve for the contribution he had made
+
+to the Committee.
+
+The following members of the Committee were present:
+
+Mervyn King, Governor
+Charles Bean, Deputy Governor responsible for monetary policy
+John Gieve, Deputy Governor responsible for financial stability
+Kate Barker
+Tim Besley
+David Blanchflower
+Spencer Dale
+Andrew Sentance
+Paul Tucker
+
+Dave Ramsden was present as the Treasury representative.
+
+
+-----
+

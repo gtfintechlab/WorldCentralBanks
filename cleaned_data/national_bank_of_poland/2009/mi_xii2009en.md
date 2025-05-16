@@ -1,0 +1,130 @@
+**N** **a** **t** **i** **o** **n** **a** **l** **B** **a** **n** **k** **o** **f** **P** **o** **l** **a** **n** **d**
+
+M o n e t a r y P o l i c y C o u n c i l
+
+# MINUTES OF THE MONETARY POLICY COUNCIL DECISION-MAKING MEETING HELD ON 23 DECEMBER 2009
+
+During the meeting the Monetary Policy Council discussed the outlook for future economic growth
+and inflation in Poland, the monetary policy conducted by the Monetary Policy Council in its
+second term of office, and determinants of monetary policy in subsequent years.
+
+While discussing the outlook for global economic growth, some members of the Council assessed
+the scale and sustainability of global economic revival as largely uncertain. Those members
+emphasised that improved activity to-date in the largest developed economies had been, to a large
+extent, the effect of fiscal stimulus packages. Those members also pointed out that, in line with
+economic growth outlook for 2010, strong GDP growth could be expected in Asian and Latin
+American economies as well as further improvement in economic activity in the United States with
+relatively lower GDP growth in European economies.
+
+As regards the situation in the Polish economy, it was emphasised that the in-coming data,
+including data on export, industrial output and construction and assembly production, as well as
+economic situation indices illustrating enterprises’ and households’ sentiment confirmed the gradual
+recovery. However, some of the members pointed to risk factors underlying a prompt and sustained
+revival of the Polish economy. In particular, those members pointed to reduced lending to
+enterprises and a decline in loan growth to households, as well as to the persistence of an
+unfavourable situation in the interbank market, reflected in elevated spreads between the NBP
+reference rate and WIBOR rates. Those members also drew attention to the quick buildup of public
+debt and argued that its high level could adversely affect economic growth in the medium term.
+
+While discussing current and future inflation the Council members pointed to the decrease in core
+inflation net of food and energy prices from 2.9% in October to 2.8% in November 2009. Some of
+the members were of the opinion, however, that core inflation stood at a relatively high level,
+which, given a likely improvement in global economic situation that potentially could trigger a rise
+in world prices for agricultural and energy commodities, posed a risk to maintaining inflation at the
+target in the medium term. However, other members maintained that given the persistence of the
+negative output gap in the Polish economy, a fall of inflation could be expected in subsequent
+quarters. Moreover, some members of the Council stressed that the risk of increased inflationary
+pressure in the Polish economy in the near future would be additionally contained by the still
+unfavourable situation in the labour market, despite some signals of improvement in recent months.
+
+While discussing the effects of the monetary policy conducted by the Council in its second term of
+office, some members argued that the elevated CPI inflation in the years 2008-2009 indicated that
+in the earlier period the level of interest rates may not have fully accounted for future inflation risk.
+According to those members their view was supported by the persistence of relatively high core
+inflation in recent quarters, including the fast growth of market services prices. In their opinion, the
+key factors conducive to lower inflationary pressure in 2008-2009 and thus contributing to limiting
+inflation’s deviation from the inflation target were the appreciation of the zloty in the period
+
+00 919 Warszawa Świętokrzy ska 11/21 phone no (22) 826 99 55 fax no (22) 826 37 51
+
+
+-----
+
+preceding the outbreak of the global financial crisis and the crisis-related decline of prices of
+agricultural and energy commodities in global markets.
+
+Other members pointed to the fact that elevated inflation in recent years was mainly connected with
+factors beyond the direct control of domestic monetary policy. Those members argued that the
+strong rise in prices of agricultural and energy commodities in global markets at the end of 2007
+and in the first half of 2008, which led to a rise in inflation in a number of countries, including
+Poland, was, among other things, connected with a quick increase in demand from emerging
+economies and legislative changes in the United States which excluded trade in commodity futures
+from the supervision of public institutions. They also stressed that the crisis-driven zloty
+depreciation which significantly exceeded the depreciation of the equilibrium exchange rate was
+conducive to the rise in inflation in Poland in 2009. Among the factors that had significantly
+influenced prices in the Polish economy, including their faster growth in recent years, the members
+indicated price liberalisation in certain domestic markets and increases of indirect taxes and
+administered prices. Those members also stressed that in that period there had been a very quick
+increase in loans in the Polish economy, which was connected with a strong inflow of capital to
+emerging markets.
+
+It was stressed that the rise in the prices of services, which contributed to increasing inflation in
+Poland in 2008-2009, had probably been connected with changes in the structure of private
+consumption and was characteristic of countries undergoing the process of convergence.
+
+When discussing the monetary policy conducted in the years 2004-2009, the members pointed out
+that one of the factors confirming the effectiveness of the policy was the fact that it had anchored
+inflation expectations at a low level. Some of the members also argued that given the lags between
+changes in NBP interest rates and their strongest impact on economic processes a comprehensive
+assessment of the monetary policy conducted by the MPC in its second term of office should
+account for inflation developments in 2010-2011. In this context the members of the Council
+pointed out that most forecasts available show a strong fall of inflation in 2010. They also argued
+that attempting to fully neutralise the impact of price shocks in global commodity markets on
+inflation in Poland would have led to excessive GDP fluctuations in Poland, including a likely GDP
+decrease after the outbreak of the global economic crisis.
+
+While discussing the effects of the monetary policy conducted by the Council in its second term of
+office against the background of other countries, some MPC members pointed to the fact that in the
+years 2004-2009, in addition to shocks that impacted the world economy as a whole, such as
+commodity shocks and the global economic crisis, the Polish economy also underwent large
+changes connected with the accession to the European Union. Those members pointed to the fact
+that despite these shocks, inflation’s average deviation from the target (0.3 p.p.), the volatility of the
+output gap and of central bank interest rates in Poland in 2004-2009 were among the smallest in
+countries which pursued inflation targeting with a continuous inflation target.
+
+While discussing the monetary policy in the coming years, some members of the Council argued
+that an excessive rise in lending, in particular a rise in the market for mortgage loans, could pose a
+threat to price stability in the Polish economy over a longer time horizon. In addition, those
+members stressed that if the credit boom risk increased significantly, monetary policy would have
+to be tightened in Poland regardless of the relatively low CPI inflation. Since interest rate rises
+themselves would not eliminate the credit boom risk they should be complemented with appropriate
+supervisory measures.
+
+While referring to the decisions on interest rates in the coming months the Council pointed out that
+in view of the low inflation pressure and the persisting threats to the sustainability of economic
+recovery in Poland, NBP interest rates should be left at an unchanged level in the near future. At the
+same time it was emphasised that in case of a significant economic revival in Poland, accompanied
+
+
+-----
+
+by a significant increase in inflationary pressure, a change to the monetary policy parameters could
+be required. Too strong and premature a monetary policy tightening in a situation of over-liquidity
+in global financial markets could, however, result in an excessive appreciation of the zloty. The
+situation of public finances will be an important conditioning factor to monetary policy.
+
+The Council concluded that leaving the interest rates unchanged was justified by the information
+about the Polish and global economic situation that had been released since the previous meeting.
+
+The Council left the interest rates at an unchanged level: reference rate at 3.50%, lombard rate at
+5.00%, deposit rate at 2.00% and rediscount rate at 3.75%.
+
+At the same time, the Council decided to introduce, starting on 1 January 2010, the discount rate on
+bills of exchange accepted from commercial banks for discount at the NBP. The Council set the
+discount rate at 4.00% on an annual basis.
+
+_Date of publication: 21 January 2010_
+
+
+-----
+

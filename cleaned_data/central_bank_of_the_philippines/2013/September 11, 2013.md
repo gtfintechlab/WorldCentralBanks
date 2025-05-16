@@ -1,0 +1,252 @@
+**HIGHLIGHTS OF THE MEETING OF THE MONETARY BOARD ON MONETARY POLICY ISSUES**
+
+**HELD ON 12 SEPTEMBER 2013[1]**
+
+
+**I.** **Monetary Policy Decision**
+
+The Monetary Board (MB) decided to:
+
+a) Maintain the BSP’s policy interest rates at 3.5 percent for the overnight RRP
+(borrowing) rate and 5.5 percent for the overnight RP (lending) rate;
+
+b) Maintain the current interest rates on term RRPs, RPs and SDA; and
+
+c) Maintain the current reserve requirement ratios.
+
+**II.** **Key Considerations in the Formulation of the Monetary Policy Stance**
+
+  - The MB’s decision was based on its assessment of a benign inflation environment. Latest
+baseline forecasts indicated that the future inflation path continued to be broadly in line
+with the target range of 4.0±1.0 percent in 2013-2014 and 3.0±1.0 percent for 2015, while
+inflation expectations remained firmly anchored. Domestic economic activity has also been
+growing at a solid pace, supported by firm demand and buoyant business sentiment.
+
+  - At the same time, the MB noted that the balance of risks to the inflation outlook has
+shifted slightly toward the upside as oil prices have become more volatile amid ongoing
+geopolitical tensions in the Middle East. Meanwhile, world economic prospects are seen to
+remain broadly subdued, thus tempering pressures on global commodity prices. The
+robust growth of lending to the productive sectors of the economy should also support the
+improvement in the economy’s absorptive capacity and help moderate price pressures. As
+expected, the BSP’s operational adjustment of its SDA facility has also contributed to the
+rise in domestic liquidity (M3) growth in July. As M3 growth rates are expected to
+normalize once these adjustments have been completed, the temporary period of strong
+M3 growth is not expected to lead to significant inflationary pressures.
+
+  - Going forward, the BSP will continue to pay close attention to the outlook for prices and
+economic activity to ensure that monetary policy continues to safeguard non-inflationary
+economic growth.
+
+1 The discussions presented reflect the assessment made by the Monetary Board based on the information available at the time of the policy
+meeting. A comprehensive set of economic information was provided by the Technical Secretariat of the Advisory Committee (AC). The AC is
+composed of the Governor of the BSP as Chairman and four members, namely: the Deputy Governor of the Monetary Stability Sector, the Deputy
+Governor of the Supervision and Examination Sector, the Assistant Governor of the Monetary Policy Sub-Sector, and the Assistant Governor of the
+Treasury Department. The highlights of the discussions on the 12 September 2013 meeting were approved by the Monetary Board during its
+l ti h ld 3 O t b 2013 Th t ti f th M t B d t li i i h d l d 24 O t b 2013
+
+
+-----
+
+**III.   Recent Developments and Inflation Outlook**
+
+The MB considered the following developments in coming up with its policy decision:
+
+**A. Domestic price conditions**
+
+  - Year-on-year headline inflation declined further in August due largely to lower non-food
+inflation. Likewise, other indicators fell such as the official core inflation, seasonallyadjusted month-on-month headline inflation, and seasonally adjusted 3-month moving
+average annualized headline and core inflation. Seasonally-adjusted month-on-month core
+inflation was steady in August.
+
+  - The slower increases in the prices of non-food items were due to the downward
+adjustment in electricity charges, as a result of lower generation charges at the Wholesale
+Electricity Spot Market. Similarly, food inflation dropped due to adequate domestic supply
+of such food commodities as vegetables, sugar, and oil. Slower price increases of meat,
+fish, and fruits also contributed to lower food inflation for the month.
+
+**B.  Inflation expectations**
+
+  - Inflation expectations reflected in forecast surveys of private sector economists by the BSP
+and by Consensus Economics remain within the target band over the policy horizon. For
+August 2013, results of the Consensus Economics survey showed slightly lower mean
+inflation forecasts for 2013 and 2014 at 3.0 percent and 3.7 percent, respectively.
+Similarly, results of the BSP’s survey of private sector economists for August 2013 yielded a
+slightly lower mean inflation forecast for 2013 of 3.0 percent from 3.1 percent in July,
+while mean forecasts for 2014 and 2015 were unchanged at 3.6 percent and 3.7 percent,
+respectively.
+
+**C. Inflation outlook**
+
+  - The outlook for inflation remains broadly in line with the target range over the policy
+horizon. The latest average baseline inflation forecasts for 2013 – 2014 are lower
+compared to the previous policy meeting on 25 July 2013. Meanwhile, the mean forecast
+for 2015 is broadly unchanged. The downward shift in the forecast path is attributed to the
+lower-than-forecasted actual inflation outturns for July and August as well as the lower
+actual NCR wage adjustment for 2013. These offset the impact of faster M3 growth and
+the increase in oil prices.
+
+  - The balance of risks to future inflation is now slightly skewed to the upside. Potential
+increases in oil prices due to the ongoing Syrian crisis, faster M3 growth and expected
+higher electricity rates in Mindanao constitute the upside risks to inflation. Nonetheless,
+M3 growth rates are expected to decelerate once the adjustments from the recent finetuning of the SDA facility have been completed and, thus, are not expected to translate
+into significant inflationary pressures.
+
+
+-----
+
+**D. Demand conditions**
+
+  - Latest indicators point to the continued strength of domestic demand, with GDP increasing
+by 7.5 percent in Q2 2013. While this is slightly slower than the revised 7.7 percent growth
+during the first quarter, it is higher relative to the 6.3-percent growth recorded during the
+same quarter in 2012 and well above the long-run average growth rate. The secondquarter year-on-year performance was supported by growth in all expenditure items,
+notably household consumption, capital formation, and government spending.
+
+  - Meanwhile, based on the Business Expectations Survey (BES), business sentiment has
+remained buoyant in Q3 2013, although less upbeat compared to the previous quarter. For
+Q4 2013, the business outlook has turned more bullish with the BES next-quarter index
+rising to an all-time high of 60 percent since the nationwide survey started in Q4 2006. At
+the same time, the composite leading economic indicator (LEI) index of the NSCB likewise
+continued its upward trend in the third quarter, with 8 of the 11 LEIs contributing to the
+rise in the index.
+
+  - On 6 September 2013, the Department of Labor and Employment reported that the
+Regional Tripartite Wages and Productivity Board-National Capital Region (RTWPB-NCR)
+approved an additional P10.00 (2.2 percent) increase in the basic pay for all private
+workers in the region, bringing the minimum wage to P466.00.
+
+**E.  Supply-side indicators**
+
+Developments in Agriculture
+
+  - The Agriculture sector declined slightly by 0.3 percent in Q2 2013 from a growth of
+0.6 percent in Q2 2012 due largely to contraction in the production of corn, banana and
+sugarcane. This was offset partly by higher output for mango, poultry and livestock. Palay
+production likewise fell in Q2 2013 because of lower harvested area and yield, which in
+turn, was due to dry weather conditions and insufficient water supply. Lower rice yields
+were also obseerved due to flooding and the movement of cropping to the first quarter.
+
+  - The Bureau of Agricultural Statistics (BAS) forecasts rice output to decline in Q3 2013 due
+to insufficient water supply, intense heat and late onset of rains. Nevertheless, rice
+production in Q4 2013 is expected to increase as a result of the different government
+intervention programs including expansion of area harvested and improvement in yield by
+investing in irrigation. For 2013, palay production is expected to register a higher growth
+compared to 2012.
+
+  - Commercial rice prices have been on an uptrend in recent months, reflecting largely the
+increase in prices associated with the onset of the lean season. Typhoon damages and
+alleged price manipulations also contributed to the increase in rice prices. Nevertheless,
+rice prices are expected to moderate towards the Q4 2013 harvest, particularly as some
+farmers have started harvesting even before the end of the lean season.
+
+  - Meanwhile, the Food and Agriculture Organization (FAO) Food Price Index (FPI) declined
+by 4.2 points (about 2 percent) to 205.9 points in July 2013 from the revised June 2013
+
+
+-----
+
+level of 210.1 points. The decline in July, which marked the third consecutive monthly
+drop, was driven by lower international prices across food commodity groups.
+
+Oil Price Developments
+
+  - Oil prices were higher in August due largely to the political unrest in the Middle East,
+which fanned concerns of oil supply disruption in the region. Oil prices sustained their
+upward increase in September as escalating tensions in Syria continued to bolster
+concerns of oil supply disruptions. The month-to-date average spot market price of Dubai
+crude oil as of 11 September was higher by US$2.73 per barrel compared to the average in
+August.
+
+Developments in the Utilities Sector
+
+  - Overall cost of electricity was lower in August 2013 due to the reduction in the generation
+charge and other components of the electricity bill. Meralco reported that the generation
+charge decreased in August 2013 due to the downward adjustments in generation rates
+purchased from the Wholesale Electricity Spot Market (WESM). The reduction in WESM’s
+generation charges was brought by lower demand for power supply with the onset of the
+rainy season and the increased output of hydroelectric plants. Cost of power sourced from
+independent power producers also went down due mainly to lower coal and natural gas
+prices. Moreover, transmission charge and other bill components were lower.
+
+**F. Financial market developments**
+
+  - The Philippine Stock Exchange Index (PSEi) dipped sharply in August, falling below the
+6,000 mark, as foreign investors withdrew from Asian regional bourses on heightened
+geopolitical tensions over Syria. This further affected investors already worried by the
+possible early tapering of the US Federal Reserve’s quantitative easing program.
+
+In early September, the local bourse advanced over the better-than-expected Chinese
+exports data in August and the upward revision in Japan’s second quarter GDP. However,
+the uptick was partly dampened by concerns over the armed conflict in Zamboanga City
+and the ordered reduction in water rates by the Metropolitan Waterworks and Sewerage
+System, which weighed on the market.
+
+  - Similarly, the peso weakened as the foreign exchange market remained affected by
+concerns on the tapering of the US Fed’s quantitative easing. Furthermore, concerns over
+possible military actions against Syria have sparked a sell-off in global financial markets,
+causing volatility in emerging Asian markets. Nonetheless, the increasing level of the
+country’s gross international reserves likewise provided broad stability to the peso. On a
+year-to-date basis, the peso depreciated against the US dollar by 6.5 percent on
+12 September 2013, moving in tandem with Asian currencies except the Chinese yuan,
+which appreciated vis-à-vis the US dollar.
+
+  - Meanwhile, after widening in August, debt spreads generally tightened in early September
+following the release of upbeat economic data in the US. Improvements in China’s exports,
+factory output and retail sales tempered fears on slowdown concerns in the world’s
+
+
+-----
+
+second largest economy. Declining worries over a US attack on Syria likewise contributed
+to the narrowing trend.
+
+**G. Domestic liquidity and credit conditions**
+
+    - Domestic liquidity or M3 grew by 30.1 percent (preliminary) in July to P6.0 trillion. This
+
+growth was faster than the 20.0-percent expansion recorded in the previous month. On a
+monthly basis, seasonally-adjusted M3 expanded at a faster pace of 8.9 percent compared
+to the 3.7 percent m-o-m growth in June.
+
+    - Money supply growth was driven largely by the expansion in credits to the domestic
+sector. Claims on the domestic sector grew by 11.3 percent in July from 11.1 percent in
+June due to the continued increase in claims on the private sector (by 14.5 percent),
+reflecting the sustained growth in bank lending.
+
+    - The growth in NFA was likewise faster at 9.3 percent y-o-y in July compared to 6.0 percent
+in June. The BSP’s NFA position improved on the back of steady foreign exchange inflows
+from remittances, BPO receipts, and portfolio investments. Meanwhile, the NFA of banks
+increased as banks’ foreign assets grew faster than their foreign liabilities. Banks’ foreign
+assets rose due to the growth in their loans and receivables as well as in their deposits and
+placements with head offices, while banks’ foreign liabilities continued to increase due
+mainly to higher placements and deposits of foreign banks with their local branches and
+other banks.
+
+    - The outstanding loans of commercial banks grew by 12.3 percent in July, the same rate as
+in June. Meanwhile, on a month-on-month seasonally-adjusted basis, commercial bank
+lending in July increased by 1.6 percent for loans, with the bulk of loans going to real
+estate, renting, and business services; wholesale and retail trade; electricity gas and water;
+construction; and manufacturing.
+
+**H.  Fiscal developments**
+
+    - The fiscal deficit in the first semester of 2013 was P51.3 billion, higher than the
+
+P34.4-billion deficit incurred during the same period in 2012. This represented
+60.6 percent of the P84.7 billion programmed deficit for Q1-Q2 2013. Revenue collections
+increased by 10.3 percent while expenditures were higher by 12.0 percent.
+
+**I.  External developments**
+
+    - Prospects for global economic growth remain modest. Economic recovery in the US and
+Japan has continued on the back of improving domestic demand and market sentiment,
+while economic activity in the euro area has begun to stabilize. Meanwhile, the downturn
+in key emerging economies, notably China and India, has become more apparent.
+Monetary policy settings across the globe have subsequently remained geared toward
+promoting domestic demand amid broadly benign inflation pressures, even as
+policymakers continue to be watchful over the timing of the eventual tapering of
+unconventional monetary stimulus in advanced economies, particularly in the US.
+
+
+-----
+

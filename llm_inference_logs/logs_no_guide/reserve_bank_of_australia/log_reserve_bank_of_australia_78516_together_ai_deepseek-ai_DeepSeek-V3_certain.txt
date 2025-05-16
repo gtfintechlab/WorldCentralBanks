@@ -1,0 +1,1285 @@
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.0.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/hp/Desktop/global-central-banks/src/llm_benchmarking/inference.py", line 9, in <module>
+    from datasets import load_dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/__init__.py", line 17, in <module>
+    from .arrow_dataset import Dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/arrow_dataset.py", line 59, in <module>
+    import pandas as pd
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/__init__.py", line 49, in <module>
+    from pandas.core.api import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/api.py", line 28, in <module>
+    from pandas.core.arrays import Categorical
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/__init__.py", line 1, in <module>
+    from pandas.core.arrays.arrow import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/__init__.py", line 5, in <module>
+    from pandas.core.arrays.arrow.array import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/array.py", line 50, in <module>
+    from pandas.core import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/ops/__init__.py", line 8, in <module>
+    from pandas.core.ops.array_ops import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/ops/array_ops.py", line 56, in <module>
+    from pandas.core.computation import expressions
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/computation/expressions.py", line 21, in <module>
+    from pandas.core.computation.check import NUMEXPR_INSTALLED
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/computation/check.py", line 5, in <module>
+    ne = import_optional_dependency("numexpr", errors="warn")
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/compat/_optional.py", line 135, in import_optional_dependency
+    module = importlib.import_module(name)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/numexpr/__init__.py", line 24, in <module>
+    from numexpr.interpreter import MAX_THREADS, use_vml, __BLOCK_SIZE1__
+AttributeError: _ARRAY_API not found
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.0.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/hp/Desktop/global-central-banks/src/llm_benchmarking/inference.py", line 9, in <module>
+    from datasets import load_dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/__init__.py", line 17, in <module>
+    from .arrow_dataset import Dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/arrow_dataset.py", line 59, in <module>
+    import pandas as pd
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/__init__.py", line 49, in <module>
+    from pandas.core.api import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/api.py", line 28, in <module>
+    from pandas.core.arrays import Categorical
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/__init__.py", line 1, in <module>
+    from pandas.core.arrays.arrow import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/__init__.py", line 5, in <module>
+    from pandas.core.arrays.arrow.array import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/array.py", line 64, in <module>
+    from pandas.core.arrays.masked import BaseMaskedArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/masked.py", line 60, in <module>
+    from pandas.core import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/nanops.py", line 52, in <module>
+    bn = import_optional_dependency("bottleneck", errors="warn")
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/compat/_optional.py", line 135, in import_optional_dependency
+    module = importlib.import_module(name)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/bottleneck/__init__.py", line 7, in <module>
+    from .move import (move_argmax, move_argmin, move_max, move_mean, move_median,
+Traceback (most recent call last):
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/numpy/core/_multiarray_umath.py", line 44, in __getattr__
+    raise ImportError(msg)
+ImportError: 
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.0.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+
+2025-04-19 02:48:25,029 - together_inference - INFO - Starting inference on 2025-04-19
+2025-04-19 02:48:25,029 - together_inference - INFO - Loading dataset...
+2025-04-19 02:48:32,252 - together_inference - INFO - Loaded 150 sentences from the dataset.
+2025-04-19 02:48:32,252 - together_inference - INFO - Using model: together_ai/deepseek-ai/DeepSeek-V3
+2025-04-19 02:48:32,252 - together_inference - INFO - Using seed: 78516
+2025-04-19 02:48:32,252 - together_inference - INFO - Processing 150 documents in 75 batches.
+2025-04-19 02:48:32,253 - together_inference - INFO - Processing batch 1/75 with 2 sentences.
+2025-04-19 02:48:32,253 - together_inference - INFO - Processing batch 1/75
+2025-04-19 02:48:41,630 - together_inference - INFO - Completed batch 1/75
+2025-04-19 02:48:41,634 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states a factual observation about bond yields without any hedging or speculative language."
+}
+```
+2025-04-19 02:48:41,634 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence uses past tense and factual language ('had continued to recover', 'supported by') to describe events and actions, indicating certainty."
+}
+```
+2025-04-19 02:48:41,634 - together_inference - INFO - Processing batch 2/75 with 2 sentences.
+2025-04-19 02:48:41,634 - together_inference - INFO - Processing batch 2/75
+2025-04-19 02:48:46,568 - together_inference - INFO - Completed batch 2/75
+2025-04-19 02:48:46,569 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states a factual observation about credit growth without any hedging or speculative language."
+}
+```
+2025-04-19 02:48:46,569 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states factual past events with specific details (June and September quarters of 2020) and clear cause-effect relationships, indicating certainty."
+}
+```
+2025-04-19 02:48:46,569 - together_inference - INFO - Processing batch 3/75 with 2 sentences.
+2025-04-19 02:48:46,569 - together_inference - INFO - Processing batch 3/75
+2025-04-19 02:48:51,071 - together_inference - INFO - Completed batch 3/75
+2025-04-19 02:48:51,072 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'unlikely' and 'may' indicates a lack of definitive certainty in the statement."
+}
+```
+2025-04-19 02:48:51,072 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'likely' indicates a probabilistic judgment rather than a definitive statement."
+}
+```
+2025-04-19 02:48:51,072 - together_inference - INFO - Processing batch 4/75 with 2 sentences.
+2025-04-19 02:48:51,072 - together_inference - INFO - Processing batch 4/75
+2025-04-19 02:48:59,617 - together_inference - INFO - Completed batch 4/75
+2025-04-19 02:48:59,617 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'forecast' and 'a little above average' indicates a degree of estimation and lack of definitive certainty."
+}
+```
+2025-04-19 02:48:59,617 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'could' and 'expected to' indicates tentative language, reflecting uncertainty about future iron ore prices."
+}
+```
+2025-04-19 02:48:59,617 - together_inference - INFO - Processing batch 5/75 with 2 sentences.
+2025-04-19 02:48:59,617 - together_inference - INFO - Processing batch 5/75
+2025-04-19 02:49:12,437 - together_inference - INFO - Completed batch 5/75
+2025-04-19 02:49:12,443 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence provides definitive statements about rent and valuation trends without any hedging or speculative language."
+}
+```
+2025-04-19 02:49:12,443 - together_inference - INFO - Response: {
+"label": "uncertain",
+"justification": "The use of 'suggesting' implies an interpretation rather than a definitive statement, introducing uncertainty."
+}
+2025-04-19 02:49:12,443 - together_inference - INFO - Processing batch 6/75 with 2 sentences.
+2025-04-19 02:49:12,443 - together_inference - INFO - Processing batch 6/75
+2025-04-19 02:49:17,928 - together_inference - INFO - Completed batch 6/75
+Running inference for Reserve Bank of Australia
+[ModelResponse(id='nqggMvL-28Eivz-932a74f22f53bfdb', created=1745045312, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states a factual observation about bond yields without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=154, total_tokens=188, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqggMv5-zqrih-932a74f22f6753f3', created=1745045312, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence uses past tense and factual language (\'had continued to recover\', \'supported by\') to describe events and actions, indicating certainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=185, total_tokens=230, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqggQgk-zqrih-932a752c6fb553f3', created=1745045321, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states a factual observation about credit growth without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=155, total_tokens=189, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqggQjT-zqrih-932a752cba2fbada', created=1745045321, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states factual past events with specific details (June and September quarters of 2020) and clear cause-effect relationships, indicating certainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=179, total_tokens=225, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqggSCi-zqrih-932a754b48f1bada', created=1745045326, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'unlikely\' and \'may\' indicates a lack of definitive certainty in the statement."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=167, total_tokens=207, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqggS9h-zqrih-932a754b49dc53f3', created=1745045326, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'likely\' indicates a probabilistic judgment rather than a definitive statement."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=173, total_tokens=208, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqggTYi-zqrih-932a75677b2553f3', created=1745045331, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'forecast\' and \'a little above average\' indicates a degree of estimation and lack of definitive certainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=175, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqggTW5-zqrih-932a75677e27bada', created=1745045331, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'could\' and \'expected to\' indicates tentative language, reflecting uncertainty about future iron ore prices."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=163, total_tokens=205, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqggW2r-zqrih-932a759cde9ebada', created=1745045339, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence provides definitive statements about rent and valuation trends without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=171, total_tokens=206, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqggW2g-zqrih-932a759cdb5b53f3', created=1745045339, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "uncertain",\n"justification": "The use of \'suggesting\' implies an interpretation rather than a definitive statement, introducing uncertainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=168, total_tokens=203, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqggZvT-zqrih-932a75ed886e53f3', created=1745045352, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a factual event (discussion and review of CPI) without any hedging or speculative language."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=164, total_tokens=199, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqggZsM-zqrih-932a75ed8c75bada', created=1745045352, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence provides definitive statements about housing price trends in specific cities without hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=177, total_tokens=213, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 02:49:17,928 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a factual event (discussion and review of CPI) without any hedging or speculative language."
+}
+2025-04-19 02:49:17,928 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence provides definitive statements about housing price trends in specific cities without hedging or speculative language."
+}
+```
+2025-04-19 02:49:17,928 - together_inference - INFO - Processing batch 7/75 with 2 sentences.
+2025-04-19 02:49:17,929 - together_inference - INFO - Processing batch 7/75
+2025-04-19 02:49:24,289 - together_inference - INFO - Completed batch 7/75
+2025-04-19 02:49:24,289 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'suggested' and 'unlikely' indicates a lack of definitive certainty in the statement."
+}
+```
+2025-04-19 02:49:24,289 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states factual comparisons about the Chinese market's size in Asia and relative to GDP without any hedging or speculative language."
+}
+```
+2025-04-19 02:49:24,289 - together_inference - INFO - Processing batch 8/75 with 2 sentences.
+2025-04-19 02:49:24,290 - together_inference - INFO - Processing batch 8/75
+2025-04-19 02:49:34,070 - together_inference - INFO - Completed batch 8/75
+2025-04-19 02:49:34,071 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'unless' introduces a conditional scenario, indicating uncertainty about whether the inflation outlook will improve."
+}
+```
+2025-04-19 02:49:34,071 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'expected' indicates a prediction rather than a definitive statement, introducing uncertainty."
+}
+```
+2025-04-19 02:49:34,071 - together_inference - INFO - Processing batch 9/75 with 2 sentences.
+2025-04-19 02:49:34,071 - together_inference - INFO - Processing batch 9/75
+2025-04-19 02:49:36,815 - together_inference - INFO - Completed batch 9/75
+2025-04-19 02:49:36,815 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states a factual observation about Japanese equity prices rising, which is presented as a known event."
+}
+```
+2025-04-19 02:49:36,815 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'was expected to' indicates a projection rather than a definitive statement, introducing uncertainty."
+}
+```
+2025-04-19 02:49:36,815 - together_inference - INFO - Processing batch 10/75 with 2 sentences.
+2025-04-19 02:49:36,815 - together_inference - INFO - Processing batch 10/75
+2025-04-19 02:49:47,318 - together_inference - INFO - Completed batch 10/75
+2025-04-19 02:49:47,318 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence provides definitive comparisons about stock prices without any hedging or speculative language."
+}
+```
+2025-04-19 02:49:47,318 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states factual observations (deposit outflows, increased use of emergency liquidity assistance) without hedging or speculative language."
+}
+```
+2025-04-19 02:49:47,318 - together_inference - INFO - Processing batch 11/75 with 2 sentences.
+2025-04-19 02:49:47,318 - together_inference - INFO - Processing batch 11/75
+2025-04-19 02:49:53,727 - together_inference - INFO - Completed batch 11/75
+2025-04-19 02:49:53,734 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states factual observations about the Australian dollar's depreciation and its position relative to its post-float high without any hedging or speculative language."
+}
+```
+2025-04-19 02:49:53,734 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The sentence uses tentative language like 'continued to suggest' and 'surprisingly large fall,' indicating uncertainty about the data and its implications."
+}
+```
+2025-04-19 02:49:53,734 - together_inference - INFO - Processing batch 12/75 with 2 sentences.
+2025-04-19 02:49:53,734 - together_inference - INFO - Processing batch 12/75
+2025-04-19 02:49:59,613 - together_inference - INFO - Completed batch 12/75
+
+[ModelResponse(id='nqggbVZ-zqrih-932a760f5a9e53f3', created=1745045358, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'suggested\' and \'unlikely\' indicates a lack of definitive certainty in the statement."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=164, total_tokens=206, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqggbUi-zqrih-932a760f5a8ebada', created=1745045358, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states factual comparisons about the Chinese market\'s size in Asia and relative to GDP without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=173, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqggdNC-zqrih-932a76370ad353f3', created=1745045364, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'unless\' introduces a conditional scenario, indicating uncertainty about whether the inflation outlook will improve."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=167, total_tokens=207, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqggdPv-28Eivz-932a76370bd3bada', created=1745045364, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'expected\' indicates a prediction rather than a definitive statement, introducing uncertainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=165, total_tokens=202, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgggGm-zqrih-932a76742af053f3', created=1745045374, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states a factual observation about Japanese equity prices rising, which is presented as a known event."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=177, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgggJi-zqrih-932a76743d2fb056', created=1745045374, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'was expected to\' indicates a projection rather than a definitive statement, introducing uncertainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=170, total_tokens=209, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqggh5w-zqrih-932a7685485653f3', created=1745045376, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence provides definitive comparisons about stock prices without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=33, prompt_tokens=166, total_tokens=199, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqggh5t-zqrih-932a76854bbdb056', created=1745045376, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states factual observations (deposit outflows, increased use of emergency liquidity assistance) without hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=168, total_tokens=210, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqggkDe-zqrih-932a76c6fc5c53f3', created=1745045387, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states factual observations about the Australian dollar\'s depreciation and its position relative to its post-float high without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=161, total_tokens=207, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqggkF8-zqrih-932a76c70bed6766', created=1745045387, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The sentence uses tentative language like \'continued to suggest\' and \'surprisingly large fall,\' indicating uncertainty about the data and its implications."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=166, total_tokens=212, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqggn8R-zqrih-932a76ef09e353f3', created=1745045393, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'could\' indicates possibility rather than certainty about the trade-offs being considered."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=156, total_tokens=193, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqggnCG-zqrih-932a76ef090a6766', created=1745045394, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states a factual observation (\'members noted\') without any hedging or qualifiers, indicating certainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=162, total_tokens=200, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 02:49:59,613 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'could' indicates possibility rather than certainty about the trade-offs being considered."
+}
+```
+2025-04-19 02:49:59,613 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states a factual observation ('members noted') without any hedging or qualifiers, indicating certainty."
+}
+```
+2025-04-19 02:49:59,613 - together_inference - INFO - Processing batch 13/75 with 2 sentences.
+2025-04-19 02:49:59,613 - together_inference - INFO - Processing batch 13/75
+2025-04-19 02:50:03,944 - together_inference - INFO - Completed batch 13/75
+2025-04-19 02:50:03,945 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'noted that' and 'had been' suggests the statement is based on observed trends rather than definitive certainty."
+}
+```
+2025-04-19 02:50:03,945 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The sentence uses speculative language such as 'around', 'potential', and 'likely', indicating uncertainty."
+}
+```
+2025-04-19 02:50:03,945 - together_inference - INFO - Processing batch 14/75 with 2 sentences.
+2025-04-19 02:50:03,945 - together_inference - INFO - Processing batch 14/75
+2025-04-19 02:50:09,379 - together_inference - INFO - Completed batch 14/75
+2025-04-19 02:50:09,379 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'suggested' indicates that the statement is based on interpretation rather than definitive evidence."
+}
+```
+2025-04-19 02:50:09,379 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The phrase 'a little longer than previously thought' indicates a lack of precise timing, reflecting uncertainty."
+}
+```
+2025-04-19 02:50:09,379 - together_inference - INFO - Processing batch 15/75 with 2 sentences.
+2025-04-19 02:50:09,379 - together_inference - INFO - Processing batch 15/75
+2025-04-19 02:50:18,103 - together_inference - INFO - Completed batch 15/75
+2025-04-19 02:50:18,104 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of past tense ('had been') and qualifiers ('generally') introduces uncertainty about the current state of the economic recovery."
+}
+```
+2025-04-19 02:50:18,104 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'pointed to further moderation' suggests a projection rather than a definitive outcome, indicating uncertainty."
+}
+```
+2025-04-19 02:50:18,104 - together_inference - INFO - Processing batch 16/75 with 2 sentences.
+2025-04-19 02:50:18,104 - together_inference - INFO - Processing batch 16/75
+2025-04-19 02:50:32,298 - together_inference - INFO - Completed batch 16/75
+2025-04-19 02:50:32,305 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'noted' and 'would continue to do so for some time' indicates an observation rather than a definitive statement, introducing uncertainty."
+}
+```
+2025-04-19 02:50:32,305 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states factual observations about household credit growth and housing loan approvals without any hedging or speculative language."
+}
+```
+2025-04-19 02:50:32,305 - together_inference - INFO - Processing batch 17/75 with 2 sentences.
+2025-04-19 02:50:32,305 - together_inference - INFO - Processing batch 17/75
+2025-04-19 02:50:35,170 - together_inference - INFO - Completed batch 17/75
+2025-04-19 02:50:35,171 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states factual past events with clear verbs ('had depreciated', 'had appreciated') indicating certainty."
+}
+```
+2025-04-19 02:50:35,171 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence provides a precise figure ('a little below 2½ per cent') and references a specific target midpoint, indicating factual certainty."
+}
+```
+2025-04-19 02:50:35,171 - together_inference - INFO - Processing batch 18/75 with 2 sentences.
+2025-04-19 02:50:35,171 - together_inference - INFO - Processing batch 18/75
+2025-04-19 02:50:40,517 - together_inference - INFO - Completed batch 18/75
+
+[ModelResponse(id='nqggotq-zqrih-932a77146ef953f3', created=1745045399, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'noted that\' and \'had been\' suggests the statement is based on observed trends rather than definitive certainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=161, total_tokens=206, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqggotm-zqrih-932a77146eba6766', created=1745045399, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The sentence uses speculative language such as \'around\', \'potential\', and \'likely\', indicating uncertainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=181, total_tokens=220, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqggq9p-zqrih-932a772edc0753f3', created=1745045404, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'suggested\' indicates that the statement is based on interpretation rather than definitive evidence."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=155, total_tokens=195, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqggq9m-zqrih-932a772edabc6766', created=1745045404, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The phrase \'a little longer than previously thought\' indicates a lack of precise timing, reflecting uncertainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=158, total_tokens=197, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqggrmW-zqrih-932a7750df2b53f3', created=1745045409, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of past tense (\'had been\') and qualifiers (\'generally\') introduces uncertainty about the current state of the economic recovery."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=158, total_tokens=203, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqggrmW-zqrih-932a7750dd376766', created=1745045409, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'pointed to further moderation\' suggests a projection rather than a definitive outcome, indicating uncertainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=155, total_tokens=196, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgguTv-zqrih-932a77885e2a6766', created=1745045418, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'noted\' and \'would continue to do so for some time\' indicates an observation rather than a definitive statement, introducing uncertainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=171, total_tokens=220, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgguRr-zqrih-932a778859d253f3', created=1745045418, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states factual observations about household credit growth and housing loan approvals without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=170, total_tokens=208, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqggyd5-zqrih-932a77e0289112d2', created=1745045432, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states factual past events with clear verbs (\'had depreciated\', \'had appreciated\') indicating certainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=163, total_tokens=202, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqggycB-zqrih-932a77e01afa6766', created=1745045432, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence provides a precise figure (\'a little below 2½ per cent\') and references a specific target midpoint, indicating factual certainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=168, total_tokens=213, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqggzTB-zqrih-932a77f26d566766', created=1745045435, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence provides specific numerical data and clear comparisons, indicating factual certainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=32, prompt_tokens=180, total_tokens=212, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqggzUr-zqrih-932a77f2690f12d2', created=1745045435, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The sentence explicitly mentions \'a key ongoing uncertainty\' and discusses potential ripple effects, indicating a lack of certainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=167, total_tokens=208, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 02:50:40,518 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence provides specific numerical data and clear comparisons, indicating factual certainty."
+}
+```
+2025-04-19 02:50:40,518 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The sentence explicitly mentions 'a key ongoing uncertainty' and discusses potential ripple effects, indicating a lack of certainty."
+}
+```
+2025-04-19 02:50:40,518 - together_inference - INFO - Processing batch 19/75 with 2 sentences.
+2025-04-19 02:50:40,518 - together_inference - INFO - Processing batch 19/75
+2025-04-19 02:50:46,423 - together_inference - INFO - Completed batch 19/75
+2025-04-19 02:50:46,423 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'was expected' and 'was likely' indicates probabilistic language, suggesting uncertainty."
+}
+```
+2025-04-19 02:50:46,423 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'was expected to' and 'outlook was supported by' indicates a projection based on current conditions rather than a definitive statement."
+}
+```
+2025-04-19 02:50:46,423 - together_inference - INFO - Processing batch 20/75 with 2 sentences.
+2025-04-19 02:50:46,423 - together_inference - INFO - Processing batch 20/75
+2025-04-19 02:50:52,283 - together_inference - INFO - Completed batch 20/75
+2025-04-19 02:50:52,283 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence uses definitive language ('remained in good shape') and references observable facts ('favourable macroeconomic environment'), indicating certainty."
+}
+```
+2025-04-19 02:50:52,283 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'generally', 'around', and 'possibly slightly lower' indicates a lack of definitive certainty in the statement."
+}
+```
+2025-04-19 02:50:52,283 - together_inference - INFO - Processing batch 21/75 with 2 sentences.
+2025-04-19 02:50:52,283 - together_inference - INFO - Processing batch 21/75
+2025-04-19 02:51:06,371 - together_inference - INFO - Completed batch 21/75
+2025-04-19 02:51:06,377 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence uses definitive language ('judged', 'recognised') to describe the members' assessments and conclusions."
+}
+```
+2025-04-19 02:51:06,377 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of terms like 'consistent with' and 'moderate growth' indicates a degree of interpretation rather than definitive certainty."
+}
+```
+2025-04-19 02:51:06,377 - together_inference - INFO - Processing batch 22/75 with 2 sentences.
+2025-04-19 02:51:06,377 - together_inference - INFO - Processing batch 22/75
+2025-04-19 02:51:15,236 - together_inference - INFO - Completed batch 22/75
+2025-04-19 02:51:15,242 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'noted that' suggests an observation rather than a definitive statement, introducing uncertainty."
+}
+```
+2025-04-19 02:51:15,242 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states factual past events (depreciation of the US dollar) without any hedging or speculative language."
+}
+```
+2025-04-19 02:51:15,242 - together_inference - INFO - Processing batch 23/75 with 2 sentences.
+2025-04-19 02:51:15,242 - together_inference - INFO - Processing batch 23/75
+2025-04-19 02:51:19,471 - together_inference - INFO - Completed batch 23/75
+2025-04-19 02:51:19,471 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states past actions ('had announced') as factual events without any hedging or ambiguity."
+}
+```
+2025-04-19 02:51:19,471 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'would' and 'though' indicates conditional or tentative language, reflecting uncertainty about the outcomes."
+}
+```
+2025-04-19 02:51:19,471 - together_inference - INFO - Processing batch 24/75 with 2 sentences.
+2025-04-19 02:51:19,471 - together_inference - INFO - Processing batch 24/75
+2025-04-19 02:51:27,310 - together_inference - INFO - Completed batch 24/75
+
+[ModelResponse(id='nqgh24V-zqrih-932a78140d456766', created=1745045440, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'was expected\' and \'was likely\' indicates probabilistic language, suggesting uncertainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=172, total_tokens=210, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgh23t-zqrih-932a78140fa612d2', created=1745045440, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'was expected to\' and \'outlook was supported by\' indicates a projection based on current conditions rather than a definitive statement."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=169, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgh3qJ-zqrih-932a783859e36766', created=1745045446, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence uses definitive language (\'remained in good shape\') and references observable facts (\'favourable macroeconomic environment\'), indicating certainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=160, total_tokens=203, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgh3nC-zqrih-932a7838587a12d2', created=1745045446, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'generally\', \'around\', and \'possibly slightly lower\' indicates a lack of definitive certainty in the statement."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=163, total_tokens=207, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgh5Xk-zqrih-932a785d1d036766', created=1745045452, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence uses definitive language (\'judged\', \'recognised\') to describe the members\' assessments and conclusions."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=186, total_tokens=226, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgh5ae-zqrih-932a785d19ef12d2', created=1745045452, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of terms like \'consistent with\' and \'moderate growth\' indicates a degree of interpretation rather than definitive certainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=163, total_tokens=207, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgh9iG-zqrih-932a78b509ab12d2', created=1745045466, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'noted that\' suggests an observation rather than a definitive statement, introducing uncertainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=166, total_tokens=205, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgh9i7-zqrih-932a78b50a3c6766', created=1745045466, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states factual past events (depreciation of the US dollar) without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=169, total_tokens=208, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqghCQB-zqrih-932a78ec7d6b6766', created=1745045475, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states past actions (\'had announced\') as factual events without any hedging or ambiguity."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=158, total_tokens=194, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqghCM3-zqrih-932a78ec78b912d2', created=1745045475, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'would\' and \'though\' indicates conditional or tentative language, reflecting uncertainty about the outcomes."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=170, total_tokens=211, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqghDbt-zqrih-932a7906e8586766', created=1745045479, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states a factual observation about market rates moving towards the ECB\'s policy rate without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=158, total_tokens=199, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqghDbz-zqrih-932a7906ec3512d2', created=1745045479, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence uses definitive language (\'continued to strengthen\', \'had picked up\', \'had slowed\') indicating clear observations without ambiguity."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=167, total_tokens=210, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 02:51:27,311 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states a factual observation about market rates moving towards the ECB's policy rate without any hedging or speculative language."
+}
+```
+2025-04-19 02:51:27,311 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence uses definitive language ('continued to strengthen', 'had picked up', 'had slowed') indicating clear observations without ambiguity."
+}
+```
+2025-04-19 02:51:27,312 - together_inference - INFO - Processing batch 25/75 with 2 sentences.
+2025-04-19 02:51:27,312 - together_inference - INFO - Processing batch 25/75
+2025-04-19 02:51:31,505 - together_inference - INFO - Completed batch 25/75
+2025-04-19 02:51:31,505 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The phrase 'this reflected continued slow growth in wages' is a definitive statement without hedging language."
+}
+```
+2025-04-19 02:51:31,505 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The sentence mentions 'uncertainty about fiscal negotiations in the united states and the greek bailout package,' which indicates a lack of certainty."
+}
+```
+2025-04-19 02:51:31,505 - together_inference - INFO - Processing batch 26/75 with 2 sentences.
+2025-04-19 02:51:31,505 - together_inference - INFO - Processing batch 26/75
+2025-04-19 02:51:39,079 - together_inference - INFO - Completed batch 26/75
+2025-04-19 02:51:39,086 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states factual observations about equity prices without hedging or speculative language."
+}
+2025-04-19 02:51:39,086 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'suggested' and 'likely' indicates the statement is based on inference rather than definitive evidence."
+}
+```
+2025-04-19 02:51:39,086 - together_inference - INFO - Processing batch 27/75 with 2 sentences.
+2025-04-19 02:51:39,086 - together_inference - INFO - Processing batch 27/75
+2025-04-19 02:51:49,329 - together_inference - INFO - Completed batch 27/75
+2025-04-19 02:51:49,338 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence provides specific data and clear statements about mortgage delinquencies without any hedging or ambiguity."
+}
+```
+2025-04-19 02:51:49,338 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'somewhat' introduces a degree of vagueness about the extent to which the Swiss franc traded below the ceiling."
+}
+```
+2025-04-19 02:51:49,338 - together_inference - INFO - Processing batch 28/75 with 2 sentences.
+2025-04-19 02:51:49,338 - together_inference - INFO - Processing batch 28/75
+2025-04-19 02:51:54,963 - together_inference - INFO - Completed batch 28/75
+2025-04-19 02:51:54,963 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'remained a key risk' implies a potential outcome rather than a definitive statement, indicating uncertainty."
+}
+```
+2025-04-19 02:51:54,964 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states a factual observation about the unemployment rate with specific data and a clear historical comparison."
+}
+```
+2025-04-19 02:51:54,964 - together_inference - INFO - Processing batch 29/75 with 2 sentences.
+2025-04-19 02:51:54,964 - together_inference - INFO - Processing batch 29/75
+2025-04-19 02:52:03,028 - together_inference - INFO - Completed batch 29/75
+2025-04-19 02:52:03,035 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'expected' indicates a prediction rather than a definitive statement, introducing uncertainty."
+}
+```
+2025-04-19 02:52:03,035 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'unlikely' and conditional phrasing ('for as long as') indicates a lack of definitive certainty."
+}
+```
+2025-04-19 02:52:03,035 - together_inference - INFO - Processing batch 30/75 with 2 sentences.
+2025-04-19 02:52:03,035 - together_inference - INFO - Processing batch 30/75
+2025-04-19 02:52:11,598 - together_inference - INFO - Completed batch 30/75
+
+[ModelResponse(id='nqghFwA-zqrih-932a7937e99b12d2', created=1745045487, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The phrase \'this reflected continued slow growth in wages\' is a definitive statement without hedging language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=149, total_tokens=186, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqghFwE-zqrih-932a7937eb756766', created=1745045487, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The sentence mentions \'uncertainty about fiscal negotiations in the united states and the greek bailout package,\' which indicates a lack of certainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=177, total_tokens=225, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqghHBX-zqrih-932a79521d3612d2', created=1745045491, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states factual observations about equity prices without hedging or speculative language."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=28, prompt_tokens=154, total_tokens=182, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqghHBf-zqrih-932a79521fc06766', created=1745045491, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'suggested\' and \'likely\' indicates the statement is based on inference rather than definitive evidence."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=170, total_tokens=213, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqghKTM-zqrih-932a79817d0f6766', created=1745045499, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence provides specific data and clear statements about mortgage delinquencies without any hedging or ambiguity."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=189, total_tokens=225, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqghKSw-zqrih-932a79817a9c12d2', created=1745045499, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'somewhat\' introduces a degree of vagueness about the extent to which the Swiss franc traded below the ceiling."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=150, total_tokens=196, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqghNVP-zqrih-932a79c1be9012d2', created=1745045509, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'remained a key risk\' implies a potential outcome rather than a definitive statement, indicating uncertainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=155, total_tokens=197, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqghNYN-zqrih-932a79c20db153c6', created=1745045509, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states a factual observation about the unemployment rate with specific data and a clear historical comparison."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=174, total_tokens=211, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqghQ9y-zqrih-932a79e4bf5c12d2', created=1745045515, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'expected\' indicates a prediction rather than a definitive statement, introducing uncertainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=157, total_tokens=194, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqghQ9x-zqrih-932a79e4bbcc53c6', created=1745045515, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'unlikely\' and conditional phrasing (\'for as long as\') indicates a lack of definitive certainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=159, total_tokens=201, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqghSZW-zqrih-932a7a172dce12d2', created=1745045523, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states a factual observation about corporate bond issuance without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=161, total_tokens=196, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqghSZ9-zqrih-932a7a17286753c6', created=1745045523, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence uses past tense and definitive language (\'had fallen noticeably\', \'remained weak\') to describe observed outcomes without hedging or ambiguity."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=161, total_tokens=206, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 02:52:11,604 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states a factual observation about corporate bond issuance without any hedging or speculative language."
+}
+```
+2025-04-19 02:52:11,604 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence uses past tense and definitive language ('had fallen noticeably', 'remained weak') to describe observed outcomes without hedging or ambiguity."
+}
+```
+2025-04-19 02:52:11,604 - together_inference - INFO - Processing batch 31/75 with 2 sentences.
+2025-04-19 02:52:11,604 - together_inference - INFO - Processing batch 31/75
+2025-04-19 02:52:22,655 - together_inference - INFO - Completed batch 31/75
+2025-04-19 02:52:22,656 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states a factual observation about the euro area and Japanese economies in 2016 without any hedging or speculative language."
+}
+```
+2025-04-19 02:52:22,656 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states a factual observation about past events (increased growth in prices and costs) without any hedging or speculative language."
+}
+```
+2025-04-19 02:52:22,656 - together_inference - INFO - Processing batch 32/75 with 2 sentences.
+2025-04-19 02:52:22,656 - together_inference - INFO - Processing batch 32/75
+2025-04-19 02:52:29,864 - together_inference - INFO - Completed batch 32/75
+2025-04-19 02:52:29,871 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states factual events (decline in October, reversal in November) without hedging or speculative language."
+}
+2025-04-19 02:52:29,871 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states a factual observation about credit conditions improving, without any hedging or speculative language."
+}
+```
+2025-04-19 02:52:29,871 - together_inference - INFO - Processing batch 33/75 with 2 sentences.
+2025-04-19 02:52:29,871 - together_inference - INFO - Processing batch 33/75
+2025-04-19 02:52:32,356 - together_inference - INFO - Completed batch 33/75
+2025-04-19 02:52:32,357 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states factual information about the northern territory's population and labour market participation rates without any hedging or speculative language."
+}
+```
+2025-04-19 02:52:32,357 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'some' and 'had remained' introduces ambiguity about the extent and timing of the credit growth."
+}
+```
+2025-04-19 02:52:32,357 - together_inference - INFO - Processing batch 34/75 with 2 sentences.
+2025-04-19 02:52:32,357 - together_inference - INFO - Processing batch 34/75
+2025-04-19 02:52:36,516 - together_inference - INFO - Completed batch 34/75
+2025-04-19 02:52:36,516 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The sentence uses the phrase 'had occurred' and provides an example with 'e.g.', indicating a general observation rather than a definitive statement."
+}
+```
+2025-04-19 02:52:36,516 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence uses definitive language ('had remained', 'had been near or above') to state facts without ambiguity."
+}
+```
+2025-04-19 02:52:36,517 - together_inference - INFO - Processing batch 35/75 with 2 sentences.
+2025-04-19 02:52:36,517 - together_inference - INFO - Processing batch 35/75
+2025-04-19 02:52:46,217 - together_inference - INFO - Completed batch 35/75
+2025-04-19 02:52:46,219 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of phrases like 'most likely' and 'too soon to be confident' indicates uncertainty in the assessment."
+}
+```
+2025-04-19 02:52:46,220 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'would normally be expected' introduces a hypothetical scenario, indicating uncertainty about the typical assistance level of the exchange rate."
+}
+```
+2025-04-19 02:52:46,220 - together_inference - INFO - Processing batch 36/75 with 2 sentences.
+2025-04-19 02:52:46,220 - together_inference - INFO - Processing batch 36/75
+2025-04-19 02:52:50,970 - together_inference - INFO - Completed batch 36/75
+
+[ModelResponse(id='nqghV8e-zqrih-932a7a4d5d4b12d2', created=1745045531, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states a factual observation about the euro area and Japanese economies in 2016 without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=167, total_tokens=209, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqghVBu-zqrih-932a7a4d5e3353c6', created=1745045531, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states a factual observation about past events (increased growth in prices and costs) without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=162, total_tokens=205, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqghYPQ-zqrih-932a7a91c9cd53c6', created=1745045542, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states factual events (decline in October, reversal in November) without hedging or speculative language."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=168, total_tokens=203, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqghYQM-28Eivz-932a7a91cc7512d2', created=1745045542, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states a factual observation about credit conditions improving, without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=162, total_tokens=198, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqghaXp-zqrih-932a7abee92d12d2', created=1745045549, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states factual information about the northern territory\'s population and labour market participation rates without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=156, total_tokens=197, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqghaZc-zqrih-932a7abee9f053c6', created=1745045550, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'some\' and \'had remained\' introduces ambiguity about the extent and timing of the credit growth."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=160, total_tokens=202, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqghbJE-zqrih-932a7ace6f6212d2', created=1745045552, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The sentence uses the phrase \'had occurred\' and provides an example with \'e.g.\', indicating a general observation rather than a definitive statement."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=160, total_tokens=207, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqghbGY-zqrih-932a7ace6f6e53c6', created=1745045552, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence uses definitive language (\'had remained\', \'had been near or above\') to state facts without ambiguity."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=165, total_tokens=205, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqghcWQ-zqrih-932a7ae879ec12d2', created=1745045556, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of phrases like \'most likely\' and \'too soon to be confident\' indicates uncertainty in the assessment."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=172, total_tokens=214, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqghcXy-28Eivz-932a7ae87f9f53c6', created=1745045556, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'would normally be expected\' introduces a hypothetical scenario, indicating uncertainty about the typical assistance level of the exchange rate."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=162, total_tokens=207, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqghfSY-28Eivz-932a7b25ac8d12d2', created=1745045566, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The use of definitive language like \'agreed\', \'significant\', and \'pronounced\' indicates a clear, confident stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=155, total_tokens=198, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqghfRY-zqrih-932a7b25b934bcbf', created=1745045566, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'had reflected\' suggests a past interpretation that may not be definitively proven or universally accepted."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=170, total_tokens=211, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 02:52:50,971 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The use of definitive language like 'agreed', 'significant', and 'pronounced' indicates a clear, confident stance."
+}
+```
+2025-04-19 02:52:50,971 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'had reflected' suggests a past interpretation that may not be definitively proven or universally accepted."
+}
+```
+2025-04-19 02:52:50,971 - together_inference - INFO - Processing batch 37/75 with 2 sentences.
+2025-04-19 02:52:50,971 - together_inference - INFO - Processing batch 37/75
+2025-04-19 02:52:59,977 - together_inference - INFO - Completed batch 37/75
+2025-04-19 02:52:59,978 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states a factual revision of rural exports due to favourable weather without any hedging language."
+}
+```
+2025-04-19 02:52:59,978 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'seemed to be' indicates a tentative or speculative tone, suggesting uncertainty."
+}
+```
+2025-04-19 02:52:59,978 - together_inference - INFO - Processing batch 38/75 with 2 sentences.
+2025-04-19 02:52:59,978 - together_inference - INFO - Processing batch 38/75
+2025-04-19 02:53:09,872 - together_inference - INFO - Completed batch 38/75
+2025-04-19 02:53:09,876 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence provides specific details about capital flows and their destinations without any hedging language or ambiguity."
+}
+```
+2025-04-19 02:53:09,876 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence provides factual and specific information about the banks' profit announcements and their financial year endings without any ambiguity."
+}
+```
+2025-04-19 02:53:09,876 - together_inference - INFO - Processing batch 39/75 with 2 sentences.
+2025-04-19 02:53:09,876 - together_inference - INFO - Processing batch 39/75
+2025-04-19 02:53:18,666 - together_inference - INFO - Completed batch 39/75
+2025-04-19 02:53:18,667 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The sentence uses phrases like 'it was not clear' and 'could be large,' indicating a lack of definitive knowledge or certainty."
+}
+```
+2025-04-19 02:53:18,667 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence uses definitive language ('no sign of slowing', 'steady at just below 3 per cent') to describe observed data without hedging or ambiguity."
+}
+```
+2025-04-19 02:53:18,667 - together_inference - INFO - Processing batch 40/75 with 2 sentences.
+2025-04-19 02:53:18,667 - together_inference - INFO - Processing batch 40/75
+2025-04-19 02:53:25,297 - together_inference - INFO - Completed batch 40/75
+2025-04-19 02:53:25,297 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The sentence uses terms like 'had been stronger than expected' and 'had continued to improve,' which indicate observations based on past data rather than definitive future certainty."
+}
+```
+2025-04-19 02:53:25,297 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence provides specific data and clear comparisons, indicating a factual and definitive statement about share market performance."
+}
+2025-04-19 02:53:25,297 - together_inference - INFO - Processing batch 41/75 with 2 sentences.
+2025-04-19 02:53:25,297 - together_inference - INFO - Processing batch 41/75
+2025-04-19 02:53:28,946 - together_inference - INFO - Completed batch 41/75
+2025-04-19 02:53:28,947 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The phrase 'but not by as much as expected in some cases' introduces variability and lack of definitive conclusion."
+}
+```
+2025-04-19 02:53:28,947 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence provides specific numerical data and clear observations about output growth, indicating a factual and definitive statement."
+}
+```
+2025-04-19 02:53:28,947 - together_inference - INFO - Processing batch 42/75 with 2 sentences.
+2025-04-19 02:53:28,947 - together_inference - INFO - Processing batch 42/75
+2025-04-19 02:53:35,334 - together_inference - INFO - Completed batch 42/75
+
+[ModelResponse(id='nqghgoU-zqrih-932a7b42c94712d2', created=1745045571, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states a factual revision of rural exports due to favourable weather without any hedging language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=157, total_tokens=193, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqghgoR-zqrih-932a7b42c964bcbf', created=1745045571, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'seemed to be\' indicates a tentative or speculative tone, suggesting uncertainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=149, total_tokens=187, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqghjWT-zqrih-932a7b7bafafbcbf', created=1745045580, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence provides specific details about capital flows and their destinations without any hedging language or ambiguity."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=203, total_tokens=239, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqghjWm-zqrih-932a7b7bbdc6bf93', created=1745045580, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence provides factual and specific information about the banks\' profit announcements and their financial year endings without any ambiguity."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=179, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqghnXe-zqrih-932a7bbb2abebf93', created=1745045590, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The sentence uses phrases like \'it was not clear\' and \'could be large,\' indicating a lack of definitive knowledge or certainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=191, total_tokens=236, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqghnY4-zqrih-932a7bbb291cbcbf', created=1745045590, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence uses definitive language (\'no sign of slowing\', \'steady at just below 3 per cent\') to describe observed data without hedging or ambiguity."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=182, total_tokens=230, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqghq3c-zqrih-932a7bf00d79bcbf', created=1745045598, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The sentence uses terms like \'had been stronger than expected\' and \'had continued to improve,\' which indicate observations based on past data rather than definitive future certainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=51, prompt_tokens=185, total_tokens=236, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqghq3U-zqrih-932a7bf00bb9bf93', created=1745045598, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence provides specific data and clear comparisons, indicating a factual and definitive statement about share market performance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=185, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqghs1j-zqrih-932a7c194fdcbcbf', created=1745045605, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The phrase \'but not by as much as expected in some cases\' introduces variability and lack of definitive conclusion."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=167, total_tokens=208, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqghs3t-zqrih-932a7c194a73bf93', created=1745045605, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence provides specific numerical data and clear observations about output growth, indicating a factual and definitive statement."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=168, total_tokens=206, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqght6L-zqrih-932a7c302f0fbf93', created=1745045609, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'was expected to\' indicates a prediction rather than a definitive statement, introducing uncertainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=187, total_tokens=226, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqght6F-zqrih-932a7c30297dbcbf', created=1745045609, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states factual observations about growth and price changes without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=157, total_tokens=192, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 02:53:35,339 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'was expected to' indicates a prediction rather than a definitive statement, introducing uncertainty."
+}
+```
+2025-04-19 02:53:35,339 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states factual observations about growth and price changes without any hedging or speculative language."
+}
+```
+2025-04-19 02:53:35,339 - together_inference - INFO - Processing batch 43/75 with 2 sentences.
+2025-04-19 02:53:35,339 - together_inference - INFO - Processing batch 43/75
+2025-04-19 02:53:38,371 - together_inference - INFO - Completed batch 43/75
+2025-04-19 02:53:38,378 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states factual observations about exchange rate movements without hedging or speculative language."
+}
+```
+2025-04-19 02:53:38,378 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'discussed' and 'implications' suggests deliberation without a definitive conclusion, indicating uncertainty."
+}
+```
+2025-04-19 02:53:38,378 - together_inference - INFO - Processing batch 44/75 with 2 sentences.
+2025-04-19 02:53:38,378 - together_inference - INFO - Processing batch 44/75
+2025-04-19 02:53:45,360 - together_inference - INFO - Completed batch 44/75
+2025-04-19 02:53:45,364 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states a factual observation ('minimal issuance') without any hedging or speculative language."
+}
+```
+2025-04-19 02:53:45,364 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence uses definitive language ('had declined', 'were well contained') and presents observations as factual without hedging or speculation."
+}
+```
+2025-04-19 02:53:45,364 - together_inference - INFO - Processing batch 45/75 with 2 sentences.
+2025-04-19 02:53:45,364 - together_inference - INFO - Processing batch 45/75
+2025-04-19 02:53:53,050 - together_inference - INFO - Completed batch 45/75
+2025-04-19 02:53:53,056 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states a factual observation about the unemployment rate in Ireland without any hedging or speculative language."
+}
+```
+2025-04-19 02:53:53,056 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states factual past events and specific support measures without any hedging or speculative language."
+}
+```
+2025-04-19 02:53:53,056 - together_inference - INFO - Processing batch 46/75 with 2 sentences.
+2025-04-19 02:53:53,056 - together_inference - INFO - Processing batch 46/75
+2025-04-19 02:53:59,865 - together_inference - INFO - Completed batch 46/75
+2025-04-19 02:53:59,871 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'probably' indicates a lack of definitive certainty in the statement."
+}
+```
+2025-04-19 02:53:59,871 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'was expected to have slowed' indicates a prediction or expectation rather than a confirmed fact."
+}
+```
+2025-04-19 02:53:59,871 - together_inference - INFO - Processing batch 47/75 with 2 sentences.
+2025-04-19 02:53:59,871 - together_inference - INFO - Processing batch 47/75
+2025-04-19 02:54:04,082 - together_inference - INFO - Completed batch 47/75
+2025-04-19 02:54:04,084 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states a past event as a factual occurrence without any hedging or speculative language."
+}
+```
+2025-04-19 02:54:04,084 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The phrase 'had a detailed discussion' implies deliberation without a definitive conclusion, indicating uncertainty."
+}
+```
+2025-04-19 02:54:04,084 - together_inference - INFO - Processing batch 48/75 with 2 sentences.
+2025-04-19 02:54:04,084 - together_inference - INFO - Processing batch 48/75
+2025-04-19 02:54:10,423 - together_inference - INFO - Completed batch 48/75
+
+[ModelResponse(id='nqghuzZ-zqrih-932a7c581a82bcbf', created=1745045615, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states factual observations about exchange rate movements without hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=33, prompt_tokens=179, total_tokens=212, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqghuzn-zqrih-932a7c5819b4bf93', created=1745045615, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'discussed\' and \'implications\' suggests deliberation without a definitive conclusion, indicating uncertainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=150, total_tokens=191, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqghvu3-zqrih-932a7c6b2b84bf93', created=1745045618, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states a factual observation (\'minimal issuance\') without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=149, total_tokens=185, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqghvvk-zqrih-932a7c6b2ce9bcbf', created=1745045618, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence uses definitive language (\'had declined\', \'were well contained\') and presents observations as factual without hedging or speculation."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=171, total_tokens=213, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqghxyg-zqrih-932a7c96dac2bcbf', created=1745045625, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states a factual observation about the unemployment rate in Ireland without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=149, total_tokens=186, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqghy2j-zqrih-932a7c96daf3bf93', created=1745045625, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states factual past events and specific support measures without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=179, total_tokens=214, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgi1HA-28Eivz-932a7cc6cac1bcbf', created=1745045633, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'probably\' indicates a lack of definitive certainty in the statement."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=159, total_tokens=194, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgi1Gv-zqrih-932a7cc6cf3abf93', created=1745045633, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'was expected to have slowed\' indicates a prediction or expectation rather than a confirmed fact."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=170, total_tokens=210, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgi3Lh-zqrih-932a7cf16d65bcbf', created=1745045640, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states a past event as a factual occurrence without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=159, total_tokens=194, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgi3HM-zqrih-932a7cf16df6bf93', created=1745045639, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The phrase \'had a detailed discussion\' implies deliberation without a definitive conclusion, indicating uncertainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=151, total_tokens=188, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgi4Yi-zqrih-932a7d0bee23bf93', created=1745045644, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'likely to have been\' indicates a degree of speculation rather than a definitive statement."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=176, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgi4ZB-zqrih-932a7d0bea1fbcbf', created=1745045644, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'would be reviewed\' indicates a conditional or tentative action, suggesting uncertainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=154, total_tokens=191, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 02:54:10,424 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'likely to have been' indicates a degree of speculation rather than a definitive statement."
+}
+```
+2025-04-19 02:54:10,424 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'would be reviewed' indicates a conditional or tentative action, suggesting uncertainty."
+}
+```
+2025-04-19 02:54:10,424 - together_inference - INFO - Processing batch 49/75 with 2 sentences.
+2025-04-19 02:54:10,424 - together_inference - INFO - Processing batch 49/75
+2025-04-19 02:54:22,422 - together_inference - INFO - Completed batch 49/75
+2025-04-19 02:54:22,423 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a factual comparison about spot prices being above a specific historical reference point without any hedging language."
+}
+2025-04-19 02:54:22,423 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'suggested' and 'somewhat' indicates a lack of definitive evidence or precision in the statement."
+}
+```
+2025-04-19 02:54:22,423 - together_inference - INFO - Processing batch 50/75 with 2 sentences.
+2025-04-19 02:54:22,423 - together_inference - INFO - Processing batch 50/75
+2025-04-19 02:54:29,099 - together_inference - INFO - Completed batch 50/75
+2025-04-19 02:54:29,100 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The sentence uses qualifiers like 'some contacts' and 'mild pick-up', indicating a lack of definitive certainty."
+}
+```
+2025-04-19 02:54:29,100 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states a factual observation about sovereign yields without any hedging or speculative language."
+}
+```
+2025-04-19 02:54:29,100 - together_inference - INFO - Processing batch 51/75 with 2 sentences.
+2025-04-19 02:54:29,100 - together_inference - INFO - Processing batch 51/75
+2025-04-19 02:54:35,521 - together_inference - INFO - Completed batch 51/75
+2025-04-19 02:54:35,522 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states observed facts (global supply chain bottlenecks and higher commodity prices contributing to inflation) without hedging or ambiguity."
+}
+```
+2025-04-19 02:54:35,522 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of words like 'suggested', 'had been', and 'a little above average' indicates a lack of definitive certainty in the statement."
+}
+```
+2025-04-19 02:54:35,522 - together_inference - INFO - Processing batch 52/75 with 2 sentences.
+2025-04-19 02:54:35,522 - together_inference - INFO - Processing batch 52/75
+2025-04-19 02:54:41,001 - together_inference - INFO - Completed batch 52/75
+2025-04-19 02:54:41,002 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'noted that' and 'had eased somewhat' introduces a degree of subjectivity and vagueness, indicating uncertainty."
+}
+```
+2025-04-19 02:54:41,002 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'was expected to' indicates a prediction or expectation rather than a definitive outcome."
+}
+```
+2025-04-19 02:54:41,002 - together_inference - INFO - Processing batch 53/75 with 2 sentences.
+2025-04-19 02:54:41,002 - together_inference - INFO - Processing batch 53/75
+2025-04-19 02:54:45,483 - together_inference - INFO - Completed batch 53/75
+2025-04-19 02:54:45,483 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of conditional language like 'would be affected' and 'would dampen' indicates uncertainty about the future outcomes."
+}
+```
+2025-04-19 02:54:45,483 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states a factual observation about workers' attachment to employers during lockdowns without any hedging or speculative language."
+}
+```
+2025-04-19 02:54:45,483 - together_inference - INFO - Processing batch 54/75 with 2 sentences.
+2025-04-19 02:54:45,483 - together_inference - INFO - Processing batch 54/75
+2025-04-19 02:54:51,860 - together_inference - INFO - Completed batch 54/75
+
+[ModelResponse(id='nqgi6Rb-zqrih-932a7d335ce3bf93', created=1745045650, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a factual comparison about spot prices being above a specific historical reference point without any hedging language."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=163, total_tokens=198, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgi6RV-zqrih-932a7d335d44bcbf', created=1745045650, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'suggested\' and \'somewhat\' indicates a lack of definitive evidence or precision in the statement."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=158, total_tokens=202, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgi9zx-zqrih-932a7d7e6f65bcbf', created=1745045662, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The sentence uses qualifiers like \'some contacts\' and \'mild pick-up\', indicating a lack of definitive certainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=173, total_tokens=216, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgi9zN-zqrih-932a7d7e6ae1bf93', created=1745045662, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states a factual observation about sovereign yields without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=162, total_tokens=196, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgiBzw-zqrih-932a7da8194bbcbf', created=1745045669, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states observed facts (global supply chain bottlenecks and higher commodity prices contributing to inflation) without hedging or ambiguity."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=172, total_tokens=213, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgiByV-zqrih-932a7da81fb5bf93', created=1745045669, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of words like \'suggested\', \'had been\', and \'a little above average\' indicates a lack of definitive certainty in the statement."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=178, total_tokens=228, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgiDtQ-zqrih-932a7dd04b01bcbf', created=1745045675, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'noted that\' and \'had eased somewhat\' introduces a degree of subjectivity and vagueness, indicating uncertainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=171, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgiDtQ-zqrih-932a7dd04c28bf93', created=1745045675, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'was expected to\' indicates a prediction or expectation rather than a definitive outcome."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=155, total_tokens=193, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgiFWy-zqrih-932a7df298c2bcbf', created=1745045681, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of conditional language like \'would be affected\' and \'would dampen\' indicates uncertainty about the future outcomes."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=170, total_tokens=213, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgiFX1-zqrih-932a7df29a7bbf93', created=1745045681, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states a factual observation about workers\' attachment to employers during lockdowns without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=163, total_tokens=203, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgiGr7-zqrih-932a7e0e988cbcbf', created=1745045685, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence provides specific numerical data and a clear timeline, indicating factual certainty about wages growth."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=177, total_tokens=213, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgiGrC-zqrih-932a7e0e9b30bf93', created=1745045685, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence uses definitive language (\'did not suggest\', \'had subsequently risen\') to describe past events without hedging or ambiguity."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=164, total_tokens=206, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 02:54:51,861 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence provides specific numerical data and a clear timeline, indicating factual certainty about wages growth."
+}
+```
+2025-04-19 02:54:51,861 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence uses definitive language ('did not suggest', 'had subsequently risen') to describe past events without hedging or ambiguity."
+}
+```
+2025-04-19 02:54:51,861 - together_inference - INFO - Processing batch 55/75 with 2 sentences.
+2025-04-19 02:54:51,861 - together_inference - INFO - Processing batch 55/75
+2025-04-19 02:54:58,586 - together_inference - INFO - Completed batch 55/75
+2025-04-19 02:54:58,586 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states a factual observation ('members also noted data') without any hedging or speculative language."
+}
+```
+2025-04-19 02:54:58,586 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence provides a specific numerical comparison (35 basis points) without any hedging language, indicating certainty."
+}
+```
+2025-04-19 02:54:58,587 - together_inference - INFO - Processing batch 56/75 with 2 sentences.
+2025-04-19 02:54:58,587 - together_inference - INFO - Processing batch 56/75
+2025-04-19 02:55:09,205 - together_inference - INFO - Completed batch 56/75
+2025-04-19 02:55:09,206 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The sentence uses conditional language like 'potential' and 'would require,' indicating uncertainty about future outcomes."
+}
+```
+2025-04-19 02:55:09,206 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states a factual observation about past events (decline in yields) with a clear cause (anticipation of the bank's bond purchase program), leaving no room for doubt."
+}
+```
+2025-04-19 02:55:09,206 - together_inference - INFO - Processing batch 57/75 with 2 sentences.
+2025-04-19 02:55:09,206 - together_inference - INFO - Processing batch 57/75
+2025-04-19 02:55:13,794 - together_inference - INFO - Completed batch 57/75
+2025-04-19 02:55:13,794 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'some' and 'were being deployed' introduces ambiguity about the extent and certainty of the actions described."
+}
+```
+2025-04-19 02:55:13,794 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'might' indicates possibility rather than certainty about the new US administration's policies."
+}
+```
+2025-04-19 02:55:13,795 - together_inference - INFO - Processing batch 58/75 with 2 sentences.
+2025-04-19 02:55:13,795 - together_inference - INFO - Processing batch 58/75
+2025-04-19 02:55:19,597 - together_inference - INFO - Completed batch 58/75
+2025-04-19 02:55:19,603 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'expected' indicates a prediction rather than a definitive outcome, introducing uncertainty."
+}
+```
+2025-04-19 02:55:19,603 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states factual observations about commercial loan approvals without hedging or speculative language."
+}
+```
+2025-04-19 02:55:19,603 - together_inference - INFO - Processing batch 59/75 with 2 sentences.
+2025-04-19 02:55:19,603 - together_inference - INFO - Processing batch 59/75
+2025-04-19 02:55:24,441 - together_inference - INFO - Completed batch 59/75
+2025-04-19 02:55:24,441 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states factual outcomes (sharp falls in tourism imports/exports and lower education exports) without hedging or speculative language."
+}
+```
+2025-04-19 02:55:24,441 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence uses definitive language ('remained near multi-decade lows') to describe observed facts without ambiguity."
+}
+```
+2025-04-19 02:55:24,441 - together_inference - INFO - Processing batch 60/75 with 2 sentences.
+2025-04-19 02:55:24,441 - together_inference - INFO - Processing batch 60/75
+2025-04-19 02:55:28,181 - together_inference - INFO - Completed batch 60/75
+
+[ModelResponse(id='nqgiJob-zqrih-932a7e3669e0bcbf', created=1745045692, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states a factual observation (\'members also noted data\') without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=163, total_tokens=200, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgiJk6-zqrih-932a7e366f18bf93', created=1745045691, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence provides a specific numerical comparison (35 basis points) without any hedging language, indicating certainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=171, total_tokens=209, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgiLnE-28Eivz-932a7e60aaa9bcbf', created=1745045698, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The sentence uses conditional language like \'potential\' and \'would require,\' indicating uncertainty about future outcomes."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=172, total_tokens=211, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgiLkX-zqrih-932a7e60a835bf93', created=1745045698, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states a factual observation about past events (decline in yields) with a clear cause (anticipation of the bank\'s bond purchase program), leaving no room for doubt."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=54, prompt_tokens=174, total_tokens=228, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgiPuP-zqrih-932a7ea2d952bf93', created=1745045709, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'some\' and \'were being deployed\' introduces ambiguity about the extent and certainty of the actions described."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=163, total_tokens=206, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgiPuR-zqrih-932a7ea2ea56bfca', created=1745045709, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'might\' indicates possibility rather than certainty about the new US administration\'s policies."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=170, total_tokens=208, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgiRGP-zqrih-932a7ebf8cd2bf93', created=1745045713, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'expected\' indicates a prediction rather than a definitive outcome, introducing uncertainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=162, total_tokens=199, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgiRGM-zqrih-932a7ebf8994bfca', created=1745045713, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states factual observations about commercial loan approvals without hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=33, prompt_tokens=169, total_tokens=202, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgiSzu-zqrih-932a7ee3ce78bf93', created=1745045719, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states factual outcomes (sharp falls in tourism imports/exports and lower education exports) without hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=163, total_tokens=205, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgiSzz-28Eivz-932a7ee3c942bfca', created=1745045719, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence uses definitive language (\'remained near multi-decade lows\') to describe observed facts without ambiguity."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=156, total_tokens=195, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgiURz-zqrih-932a7f021ad2bfca', created=1745045724, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states factual information about Asia\'s role in Japan\'s exports and its impact on the Japanese economy with specific reference to the March quarter."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=177, total_tokens=223, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgiUS2-zqrih-932a7f021c85bf93', created=1745045724, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence provides specific, verifiable data (19 million payments) and clear assertions about the platform\'s performance, indicating certainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=172, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 02:55:28,181 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states factual information about Asia's role in Japan's exports and its impact on the Japanese economy with specific reference to the March quarter."
+}
+```
+2025-04-19 02:55:28,181 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence provides specific, verifiable data (19 million payments) and clear assertions about the platform's performance, indicating certainty."
+}
+```
+2025-04-19 02:55:28,181 - together_inference - INFO - Processing batch 61/75 with 2 sentences.
+2025-04-19 02:55:28,181 - together_inference - INFO - Processing batch 61/75
+2025-04-19 02:55:31,221 - together_inference - INFO - Completed batch 61/75
+2025-04-19 02:55:31,221 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states a factual observation about the relationship between population growth, output growth, and the unemployment rate without any hedging or speculative language."
+}
+```
+2025-04-19 02:55:31,221 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The sentence uses qualifiers like 'difficult to judge' and 'expected,' indicating a lack of definitive certainty."
+}
+```
+2025-04-19 02:55:31,221 - together_inference - INFO - Processing batch 62/75 with 2 sentences.
+2025-04-19 02:55:31,221 - together_inference - INFO - Processing batch 62/75
+2025-04-19 02:55:35,454 - together_inference - INFO - Completed batch 62/75
+2025-04-19 02:55:35,455 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'had been more persistent than earlier anticipated' indicates a comparison to prior expectations, introducing uncertainty about the actual persistence of the slowdown."
+}
+```
+2025-04-19 02:55:35,455 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The sentence uses conditional language ('if not resolved satisfactorily', 'could result', 'could have implications') indicating uncertainty about the outcomes."
+}
+```
+2025-04-19 02:55:35,455 - together_inference - INFO - Processing batch 63/75 with 2 sentences.
+2025-04-19 02:55:35,455 - together_inference - INFO - Processing batch 63/75
+2025-04-19 02:55:43,550 - together_inference - INFO - Completed batch 63/75
+2025-04-19 02:55:43,550 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states a factual observation about growth in public sector investment and defence spending without any hedging or speculative language."
+}
+```
+2025-04-19 02:55:43,550 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence provides specific, factual data about the US dollar's appreciation and depreciation against various currencies without any hedging or speculative language."
+}
+```
+2025-04-19 02:55:43,550 - together_inference - INFO - Processing batch 64/75 with 2 sentences.
+2025-04-19 02:55:43,550 - together_inference - INFO - Processing batch 64/75
+2025-04-19 02:55:46,997 - together_inference - INFO - Completed batch 64/75
+2025-04-19 02:55:46,998 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states a factual observation about credit growth without any hedging or qualifiers."
+}
+```
+2025-04-19 02:55:46,998 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states factual observations about money market spreads without any hedging or speculative language."
+}
+```
+2025-04-19 02:55:46,998 - together_inference - INFO - Processing batch 65/75 with 2 sentences.
+2025-04-19 02:55:46,998 - together_inference - INFO - Processing batch 65/75
+2025-04-19 02:55:51,627 - together_inference - INFO - Completed batch 65/75
+2025-04-19 02:55:51,627 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states factual observations about wage growth trends without hedging or speculative language."
+}
+```
+2025-04-19 02:55:51,627 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'likely' indicates a degree of uncertainty about the inflation forecast."
+}
+```
+2025-04-19 02:55:51,627 - together_inference - INFO - Processing batch 66/75 with 2 sentences.
+2025-04-19 02:55:51,627 - together_inference - INFO - Processing batch 66/75
+2025-04-19 02:55:56,611 - together_inference - INFO - Completed batch 66/75
+
+[ModelResponse(id='nqgiVYr-zqrih-932a7f19aad8bf93', created=1745045728, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states a factual observation about the relationship between population growth, output growth, and the unemployment rate without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=162, total_tokens=207, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgiVaU-28Eivz-932a7f19abfabfca', created=1745045728, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The sentence uses qualifiers like \'difficult to judge\' and \'expected,\' indicating a lack of definitive certainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=175, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgiWUT-zqrih-932a7f2c7cdebf93', created=1745045731, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'had been more persistent than earlier anticipated\' indicates a comparison to prior expectations, introducing uncertainty about the actual persistence of the slowdown."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=170, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgiWTn-zqrih-932a7f2c79ddbfca', created=1745045731, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The sentence uses conditional language (\'if not resolved satisfactorily\', \'could result\', \'could have implications\') indicating uncertainty about the outcomes."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=175, total_tokens=220, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgiXiB-zqrih-932a7f471875bf93', created=1745045735, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states a factual observation about growth in public sector investment and defence spending without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=153, total_tokens=193, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgiXmk-zqrih-932a7f4718c3bfca', created=1745045735, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence provides specific, factual data about the US dollar\'s appreciation and depreciation against various currencies without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=205, total_tokens=248, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgiaC7-zqrih-932a7f7a0fb4bf93', created=1745045743, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states a factual observation about credit growth without any hedging or qualifiers."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=156, total_tokens=190, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgia94-zqrih-932a7f7a08a5bfca', created=1745045743, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states factual observations about money market spreads without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=169, total_tokens=203, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgib8i-zqrih-932a7f8f0ae0bf93', created=1745045747, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states factual observations about wage growth trends without hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=33, prompt_tokens=169, total_tokens=202, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgib8b-zqrih-932a7f8f0e71bfca', created=1745045747, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'likely\' indicates a degree of uncertainty about the inflation forecast."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=169, total_tokens=204, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgicWu-zqrih-932a7fac1cf0bf93', created=1745045751, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states factual observations about growth in Australia\'s major trading partners without any hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=184, total_tokens=222, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgicWs-zqrih-932a7fac1bedbfca', created=1745045751, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a factual observation about economies being integrated into global production chains and their recent export performance, without any hedging or speculative language."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=167, total_tokens=208, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 02:55:56,612 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states factual observations about growth in Australia's major trading partners without any hedging or speculative language."
+}
+```
+2025-04-19 02:55:56,612 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a factual observation about economies being integrated into global production chains and their recent export performance, without any hedging or speculative language."
+}
+2025-04-19 02:55:56,612 - together_inference - INFO - Processing batch 67/75 with 2 sentences.
+2025-04-19 02:55:56,612 - together_inference - INFO - Processing batch 67/75
+2025-04-19 02:56:00,803 - together_inference - INFO - Completed batch 67/75
+2025-04-19 02:56:00,809 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence provides specific data and clear reasons for the decline in terms of trade, indicating certainty."
+}
+```
+2025-04-19 02:56:00,809 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states a factual observation about the WPI growth with clear comparisons and no hedging language."
+}
+```
+2025-04-19 02:56:00,809 - together_inference - INFO - Processing batch 68/75 with 2 sentences.
+2025-04-19 02:56:00,809 - together_inference - INFO - Processing batch 68/75
+2025-04-19 02:56:03,839 - together_inference - INFO - Completed batch 68/75
+2025-04-19 02:56:03,839 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states an observation about the US dollar's position with clear, factual language."
+}
+```
+2025-04-19 02:56:03,839 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'likely' indicates a probabilistic judgment rather than a definitive statement."
+}
+```
+2025-04-19 02:56:03,839 - together_inference - INFO - Processing batch 69/75 with 2 sentences.
+2025-04-19 02:56:03,839 - together_inference - INFO - Processing batch 69/75
+2025-04-19 02:56:07,334 - together_inference - INFO - Completed batch 69/75
+2025-04-19 02:56:07,345 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'were expected to' indicates a prediction rather than a definitive outcome, introducing uncertainty."
+}
+```
+2025-04-19 02:56:07,345 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'discussed' indicates deliberation without a definitive conclusion, introducing uncertainty."
+}
+```
+2025-04-19 02:56:07,345 - together_inference - INFO - Processing batch 70/75 with 2 sentences.
+2025-04-19 02:56:07,345 - together_inference - INFO - Processing batch 70/75
+2025-04-19 02:56:11,648 - together_inference - INFO - Completed batch 70/75
+2025-04-19 02:56:11,648 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence uses definitive language ('had generally been stable', 'solid issuance') without hedging or qualifiers indicating doubt."
+}
+2025-04-19 02:56:11,648 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The phrase 'taking stock of upside and downside risks' indicates consideration of potential but not definitive outcomes, reflecting uncertainty."
+}
+```
+2025-04-19 02:56:11,648 - together_inference - INFO - Processing batch 71/75 with 2 sentences.
+2025-04-19 02:56:11,648 - together_inference - INFO - Processing batch 71/75
+2025-04-19 02:56:15,290 - together_inference - INFO - Completed batch 71/75
+2025-04-19 02:56:15,296 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The sentence uses terms like 'expectations were' and 'was expected,' which indicate speculation rather than definitive statements."
+}
+```
+2025-04-19 02:56:15,296 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'suggested' implies that the conclusion is based on interpretation rather than definitive evidence."
+}
+```
+2025-04-19 02:56:15,296 - together_inference - INFO - Processing batch 72/75 with 2 sentences.
+2025-04-19 02:56:15,296 - together_inference - INFO - Processing batch 72/75
+2025-04-19 02:56:22,473 - together_inference - INFO - Completed batch 72/75
+
+[ModelResponse(id='nqgie2r-zqrih-932a7fcbfb1dbf93', created=1745045756, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence provides specific data and clear reasons for the decline in terms of trade, indicating certainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=177, total_tokens=214, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgie3X-zqrih-932a7fcbffc1bfca', created=1745045756, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states a factual observation about the WPI growth with clear comparisons and no hedging language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=163, total_tokens=200, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgifH9-zqrih-932a7fe62d05bfca', created=1745045761, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states an observation about the US dollar\'s position with clear, factual language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=161, total_tokens=196, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgifHE-zqrih-932a7fe62b0dbf93', created=1745045761, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'likely\' indicates a probabilistic judgment rather than a definitive statement."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=158, total_tokens=193, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgig9A-zqrih-932a7ff85f24bfca', created=1745045763, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'were expected to\' indicates a prediction rather than a definitive outcome, introducing uncertainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=182, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgig9F-zqrih-932a7ff85c7cbf93', created=1745045763, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'discussed\' indicates deliberation without a definitive conclusion, introducing uncertainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=145, total_tokens=181, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgihC2-28Eivz-932a800e3931bf93', created=1745045767, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence uses definitive language (\'had generally been stable\', \'solid issuance\') without hedging or qualifiers indicating doubt."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=164, total_tokens=201, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgihBT-zqrih-932a800e3e35bfca', created=1745045767, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The phrase \'taking stock of upside and downside risks\' indicates consideration of potential but not definitive outcomes, reflecting uncertainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=159, total_tokens=201, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgiiTq-zqrih-932a802919f3bf93', created=1745045771, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The sentence uses terms like \'expectations were\' and \'was expected,\' which indicate speculation rather than definitive statements."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=174, total_tokens=216, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgiiUH-zqrih-932a80291a76bfca', created=1745045771, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'suggested\' implies that the conclusion is based on interpretation rather than definitive evidence."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=161, total_tokens=201, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgijc9-zqrih-932a8040082cbf93', created=1745045775, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence uses definitive language (\'were again strong\') without any hedging or qualifiers, indicating certainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=147, total_tokens=185, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgijZ3-zqrih-932a80400aa1bfca', created=1745045775, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'in part\' suggests partial or incomplete reasoning, indicating uncertainty about the full motivation behind the payments."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=167, total_tokens=209, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 02:56:22,474 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence uses definitive language ('were again strong') without any hedging or qualifiers, indicating certainty."
+}
+```
+2025-04-19 02:56:22,474 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'in part' suggests partial or incomplete reasoning, indicating uncertainty about the full motivation behind the payments."
+}
+```
+2025-04-19 02:56:22,474 - together_inference - INFO - Processing batch 73/75 with 2 sentences.
+2025-04-19 02:56:22,474 - together_inference - INFO - Processing batch 73/75
+2025-04-19 02:56:25,729 - together_inference - INFO - Completed batch 73/75
+2025-04-19 02:56:25,730 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states factual observations (little net change, earnings in line with expectations) without hedging or ambiguity."
+}
+```
+2025-04-19 02:56:25,730 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'likely' and 'would not' indicates probabilistic language, suggesting the statement is not definitive."
+}
+```
+2025-04-19 02:56:25,730 - together_inference - INFO - Processing batch 74/75 with 2 sentences.
+2025-04-19 02:56:25,730 - together_inference - INFO - Processing batch 74/75
+2025-04-19 02:56:37,153 - together_inference - INFO - Completed batch 74/75
+2025-04-19 02:56:37,154 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states factual information about the Bank of Japan's policy announcement without any speculative or ambiguous language."
+}
+```
+2025-04-19 02:56:37,154 - together_inference - INFO - Response: ```json
+{
+"label": "uncertain",
+"justification": "The use of 'had grown' and 'was in prospect' indicates past and speculative future events, introducing uncertainty."
+}
+```
+2025-04-19 02:56:37,154 - together_inference - INFO - Processing batch 75/75 with 2 sentences.
+2025-04-19 02:56:37,155 - together_inference - INFO - Processing batch 75/75
+2025-04-19 02:56:42,919 - together_inference - INFO - Completed batch 75/75
+2025-04-19 02:56:42,925 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence states factual past events (equity markets little changed in March, rebound from late 2018) without hedging or speculative language."
+}
+```
+2025-04-19 02:56:42,925 - together_inference - INFO - Response: ```json
+{
+"label": "certain",
+"justification": "The sentence uses definitive language ('was picking up very strongly', 'were experiencing better-than-average conditions') without any hedging or qualifiers."
+}
+```
+2025-04-19 02:56:42,929 - together_inference - INFO - Inference completed. Returning DataFrame with 150 rows.
+2025-04-19 02:56:42,930 - together_inference - INFO - Time taken for inference: 497.90091919898987
+2025-04-19 02:56:42,953 - together_inference - INFO - Inference completed for certain. Results saved to /Users/hp/Desktop/global-central-banks/llm_inference_output/reserve_bank_of_australia/certain_together_ai/deepseek-ai/DeepSeek-V3_20250419_78516.csv
+
+[ModelResponse(id='nqgimgX-zqrih-932a806cc957bf93', created=1745045782, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states factual observations (little net change, earnings in line with expectations) without hedging or ambiguity."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=164, total_tokens=203, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgimgZ-zqrih-932a806ccd49bfca', created=1745045782, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'likely\' and \'would not\' indicates probabilistic language, suggesting the statement is not definitive."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=178, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqginez-zqrih-932a80814bb9bfca', created=1745045785, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states factual information about the Bank of Japan\'s policy announcement without any speculative or ambiguous language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=172, total_tokens=210, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqginf8-zqrih-932a80814c45bf93', created=1745045785, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "uncertain",\n"justification": "The use of \'had grown\' and \'was in prospect\' indicates past and speculative future events, introducing uncertainty."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=166, total_tokens=208, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgir3S-zqrih-932a80c88c8bbf93', created=1745045797, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence states factual past events (equity markets little changed in March, rebound from late 2018) without hedging or speculative language."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=165, total_tokens=211, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgir4z-zqrih-932a80c89b86bfa5', created=1745045797, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "certain",\n"justification": "The sentence uses definitive language (\'was picking up very strongly\', \'were experiencing better-than-average conditions\') without any hedging or qualifiers."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=160, total_tokens=205, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]

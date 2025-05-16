@@ -1,0 +1,199 @@
+**BANK OF ISRAEL**
+
+### Office of the Spokesperson and Economic Information
+
+March 8, 2021
+
+# Report on the Bank of Israel’s discussions prior to deciding
+ on the interest rate
+
+## The discussions took place on February 21 and 22, 2021.
+
+ General
+
+The Monetary Committee sets the interest rate in a process that includes two
+discussions––the first in a broad forum, and the second in a narrower one.
+
+In the broad-forum discussion, the relevant background economic conditions are
+presented, including the real and financial-monetary developments in Israel’s economy,
+and developments in the global economy. Participants in this discussion include the
+members of the Monetary Committee, senior representatives from the various
+departments of the Bank, and economists from the economic departments (Research
+and Markets), who prepare and present the material for discussion.
+
+In the narrow forum—which consists of the Monetary Committee and a representative
+of the Markets Department—the Research and the Markets Departments present their
+views of the main considerations that should guide the setting of the monetary policy.
+An open discussion on monetary policy follows, which ends with a vote on the level of
+the interest rate. According to Section 18(c) of the Bank of Israel Law, 5770–2010, the
+decision on the interest rate is reached by majority vote of the members of the Monetary
+Committee who participate in the voting.
+
+A summary view of the economic situation available at the time of the Committee’s
+discussion is presented in the [notice regarding the interest rate decision, which was](https://www.boi.org.il/en/NewsAndPublications/PressReleases/Pages/22-2-21.aspx)
+[published on February 22, and in the data file that accompanied the notice.](https://www.boi.org.il/en/NewsAndPublications/PressReleases/Documents/Main%20economic%20background%20%20Interest%20Rate%20decision%2022.2.21.pptx?fireglass_rsn=true)
+
+Page 1 of 5
+
+
+-----
+
+## THE NARROW-FORUM DISCUSSION
+
+The members of the Monetary Committee participating in the discussion decide on the
+appropriate rate of interest. After the discussion, it was decided to keep the interest rate
+unchanged at 0.1 percent. Five Committee members supported the proposal to keep the
+interest rate unchanged, and one Committee member supported the proposal to reduce
+it to 0 percent.
+
+The discussion focused on the adverse impact of the crisis on GDP and on employment
+noting the heterogeneity of industries regarding the magnitude of the impact, the more
+rapid than expected path of recovery of economic activity in Israel and abroad against
+the background of the vaccination campaigns, the inflation environment, the
+developments regarding the exchange rate, and the financing limitations in the credit
+market.
+
+## Main points of discussion
+
+The effect on aggregate economic activity of the third lockdown, despite its length, was
+apparently more moderate than expected, and than that of the previous lockdowns. This
+can be seen in several rapid indicators of activity—mobility data, credit card purchases,
+and labor inputs. This moderate negative impact is apparently a direct result of the
+adjustment by the public and businesses, seen in, among other things, the rising trend
+of online purchases between each lockdown as indicated by credit card data. This is
+alongside the Israeli economy’s comparative advantage in the area of services exports
+for which global demand during the coronavirus crisis even increased (except for
+tourism), and particularly in the high tech industry which has continued to grow during
+the crisis. Despite the lockdown, GDP grew in the fourth quarter of 2020 by 6.3 percent
+(2.9 percent net of the effect of vehicle imports)—growth that reflects strong activity in
+several industries, and in the full year of 2020, GDP contracted by 2.4 percent, a smaller
+than expected contraction, which mainly reflected the adverse impact on private
+consumption (-9.4 percent). However, the relatively moderate negative impact in
+aggregate activity blurs the gaps in the effects of the crisis among the various sectors
+and industries in the economy, between those that were directly or indirectly negatively
+impacted by the limitations, and those less affected. The negative impact is not uniform
+across the firms, and as can bee seen in a CBS real time survey, larger firms are more
+resilient while the smaller are more vulnerable.
+
+In parallel, a gap opened between GDP data, which are relatively encouraging
+compared internationally, and the state of the labor market, where the broad
+unemployment rate in recent months has been very high; during the course of the second
+lockdown it was about 23 percent, declined to about 14 percent between the lockdowns,
+and at the beginning of the third lockdown it climbed to about 20 percent. This gap
+points to most of the unemployment in Israel being concentrated in industries that are
+characterized by low labor productivity and wage conditions, and emphasizes the
+differential adverse impact on different labor market industries at the height of the
+
+
+-----
+
+crisis. In view of this, the Committee members expressed concern over the effects of
+the crisis on inequality in the economy.
+
+Despite the low level of annual inflation, -0.4 percent, the inflation environment
+continues to increase, driven by global oil and commodity prices. The Committee
+members discussed the increase in inflation expectations, against the background of the
+accommodative policy and the rise in the global inflation environment, and in particular
+the increase in inflation expectations in the US. One-year inflation expectations from
+all sources increased and are around the lower bound of the target range. Expectations
+derived from the capital market for the first and second years forward increased
+markedly, and expectations for medium and longer terms remain anchored within the
+target range. The Committee members noted that despite the increase in inflation
+expectations for the short term, the expectations are still low, as is actual inflation.
+Therefore, the monetary policy will have to remain accommodative in order to support
+economic recovery.
+
+In terms of the forecast for continued recovery in Israel and worldwide, the high pace
+of vaccination as well as the effectiveness of the vaccines, increase the probability for
+a rapid recovery of the Israeli economy and the realization of the optimistic scenario in
+the Research Department’s forecast that was published in January. The IMF revised
+upward its growth and trade forecasts for advanced economies against the background
+of the vaccination process—in 2021, the global economy is expected to grow by 5.5
+percent. Global economic data indicate continued recovery in view of the decline in the
+scope of morbidity worldwide—GDP data for the fourth quarter surprised to the upside
+in most countries, sentiment indices indicate continued recovery, purchasing managers
+indices in January continued to point to expansion in global activity, and world trade
+continued to grow. At the same time, in some countries the level of morbidity remains
+high; in Europe the morbidity level and continued lockdowns led to a marked
+contraction in GDP in 2020. The monetary policy in the main economies continued to
+be very accommodative and governments put additional fiscal programs into action.
+Equity prices continued to rise on global capital markets, while in the Israeli market
+prices rose strongly relative to other countries. The Committee members were of the
+opinion that these signs could indicate the desired exit from the global crisis, even if it
+is expected to be gradual.
+
+The program that the Bank of Israel announced on January 14, to purchase $30 billion
+in 2021, led to an immediate and relatively sharp depreciation of the shekel, but since
+then the shekel has strengthened slightly. From the Monetary Committee’s previous
+decision until January 14, the shekel strengthened by 3.2 percent in terms of the
+effective exchange rate. Following the Bank of Israel’s announcement regarding the
+scope of its intervention in the foreign exchange market in 2021, the shekel weakened
+by 5.2 percent, so that at the end of the period, the shekel had weakened by about 1.8
+percent in terms of the effective exchange rate, by about 2 percent against the US dollar,
+and by about 0.6 percent against the euro. A continuation of this trend is expected to
+support export performance, the exit from the crisis, and a return of inflation to the
+target range.
+
+
+-----
+
+Most of the Committee members were of the view that the current extent of monetary
+accommodation, through its various tools, is sufficient for now, particularly in view of
+the additional tools used in the credit market, such as the payment deferral framework.
+They noted that the financial system is functioning in an orderly fashion, and that the
+various indicators do not point to severe credit distress. However, they noted that the
+small and micro business segment has encountered greater difficulty in raising credit.
+The Committee members noted that the interest rates in the economy have remained at
+low levels, despite the increase in credit risk, partly due to the policy measures taken
+by the Bank of Israel and the Ministry of Finance.
+
+Five of the Committee members were of the opinion that the interest rate should be left
+unchanged at 0.1 percent. These five Committee members thought that the low level of
+the interest rate supports a recovery of economic activity and a gradual return of
+inflation to the target range, particularly in view of the fact that the Bank of Israel is
+using other tools in the credit market and in the foreign exchange market. One
+Committee members voted in favor of lowering the interest rate to 0 percent. He
+believed that an interest rate lower than 0.1 percent is more appropriate due to the
+intensity of the crisis and the unusually intense impact on the employment level. He
+added that he does not rule out the possibility that a more accommodative policy and a
+move to a negative interest rate may be necessary in the future. The Committee decided
+to leave in place the other policy measures decided upon in the past.
+
+The Committee noted that the fast pace of the inoculation process in Israel increases
+the optimism regarding a rapid return of the economy to a path of growth in the coming
+year. However, the risks to economic activity remain high—mainly in view of the risk
+of additional morbidity waves due to the spread of the various mutations—and the
+adverse impact on the economy, and particularly on the labor market, is expected to be
+prolonged.The Committee will therefore continue to utilize a range of tools in order to
+increase the extent of monetary policy accommodation and to ensure the continued
+orderly functioning of the financial markets. The Committee will expand the use of the
+existing tools, including the interest rate tool, and will operate additional ones, to the
+extent that it assesses that it is necessary in order to achieve its monetary policy goals
+and to moderate the adverse economic impact resulting from the crisis.
+
+**Participants in the narrow-forum discussion:**
+
+**Members of the Monetary Committee:**
+Prof. Amir Yaron, Governor of the Bank and Chairperson
+Mr. Andrew Abir, Deputy Governor of the Bank of Israel
+Prof. Reuben Gronau
+Prof. Moshe Hazan
+Prof. Zvi Hercowitz
+Prof. Michel Strawczynski
+
+
+-----
+
+**Other participants in the narrow-forum discussion:**
+Ms. Dana Orfaig, Research Department
+Mr. Tal Biber, Head of the Markets Division, Markets Department
+Dr. Golan Benita, Chief of Staff to the Governor
+Mr. Uri Barazani, Spokesperson of the Bank
+Mr. Arad May, Secretariat of the Monetary Committee
+Ms. Shulamit Nir, Research Department
+Mr. Yoav Soffer, Advisor to the Governor
+Mr. Daniel Shlomiuk, Spokesperson’s Office
+
+
+-----
+

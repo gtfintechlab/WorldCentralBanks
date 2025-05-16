@@ -1,0 +1,486 @@
+### August 14, 2014
+
+## The Bank of Korea
+
+
+-----
+
+###### (English version)
+
+#### Minutes of the Monetary Policy Committee Meeting[1)]
+
+##### (August 2014)
+
+ Ⅰ. Outline
+
+###### 1. Date of meeting : Thursday, August 14, 2014
+
+ 2. Place     : Monetary Policy Committee Meeting Room
+
+ 3. Monetary Policy Committee members present:
+
+ Lee, Juyeol, Chairman (Bank of Korea Governor) Ha, Seong Keun Chung, Hae-Bang Chung, Soon Won Moon, Woosik Hahm, Joon-Ho Jang, Byung Wha (Senior Deputy Governor)
+
+ 4. Monetary Policy Committee members absent : none
+
+ 5. Participants : Song, JaeJung, Auditor Kim, Jun Il, Deputy Governor Kang, Juno, Deputy Governor Hur, Jae Sung, Deputy Governor Suh, Young Kyung, Deputy Governor Lee, Heung Mo, Deputy Governor Chae, Sun Byoung, Director General of Reserve Management Group Choi, Woon Gyu, Director of Economic Research Institute Shin, Woon, Director General of Research Department Cho, Jeonghwan, Director of Macroprudential Analysis Department Yoon, Myun-Shik, Director General of Monetary Policy & Markets Department Kim, Minho, Director General of International Department Jeon, Seung-Cheol, Director General of Monetary Policy Committee Secretariat Park, Sung Joon, Director General of Press Office Huh, Jin Ho, Director of Financial Markets Division Moon, Han Geun, Head of MPC Administrative Support Team 
+
+1) This English version (summary) of the minutes of the Monetary Policy Committee Meeting was
+
+produced at a working level, and is not an official document.
+
+1
+
+
+-----
+
+###### Ⅱ. Summary of Discussions on the Current Economic Situation2)
+
+  After briefings by staff on 'Current Economic Developments in Korea',
+
+ 'FX and International Finance' and the 'Financial Markets', the discussions
+
+ of the Monetary Policy Committee (MPC) members covered the following
+
+ areas:
+
+  With regard to the global economy, many members’ assessment was
+
+ that the moderate trend of recovery led by advanced countries had been
+
+ sustained, with the pace of growth in the US accelerating. Members also
+
+ noted that, although the international financial markets showed generally
+
+ favorable movements, volatility had risen somewhat since the end of July,
+
+ influenced for instance by concerns about an early interest rate hike by the
+
+ US Federal Reserve and by the emergence of geopolitical risks.
+
+ As to the domestic economy, many members commented that, although
+
+ production indicators had shown partial improvements, the recovery of
+
+ domestic demand as evident from consumption and facilities investment
+
+ appeared feeble, while indicators of economic agents’ sentiment had
+
+ deteriorated. Some members expressed concerns about the possibility of
+
+ this worsening of economic agents’ sentiment operating as a factor
+
+ restraining the trend of growth going forward, mainly by reducing
+
+ consumption. One member noted that growth remained dependent upon
+
+ overseas demand while the trend of recovery in domestic demand was
+
+ weak, and that it was possibile that the negative domestic demand gap,
+
+ which has an even greater influence on prices and employment, had
+
+ actually widened recently. Regarding employment, meanwhile, one member
+
+ noted that, despite a recent increase in the number of persons employed
+
+ qualitative improvements in the employment situation had been limited,
+
+ with the increase having centered around the older age groups, the service
+
+2) English versions of 'Current Economic Developments in Korea' and the 'Financial Markets' are posted
+
+on the Bank of Korea website.
+
+2
+
+
+-----
+
+###### sector and part-time employment. Another member argued that the
+
+ unemployment gap relative to the natural rate of unemployment was high,
+
+ and that there was also labor market slack in terms of working hours, as
+
+ the share in total persons employed of those working less than 35 hours
+
+ per week was high and average weekly working hours had been on a
+
+ constant decline.
+
+ In the domestic financial markets, meanwhile, members noted that the
+
+ expectations of a BOK Base Rate cut had risen, long- and short-term
+
+ interest rates had fallen, and the Korean won had depreciated against the
+
+ US dollar.
+
+ With regard to prices, members mentioned that consumer price inflation
+
+ stood at 1.6%, a slight decrease from the previous month, and anticipated
+
+ that it would remain at a low level for the time being given the low
+
+ demand-pull pressures and the pressures from appreciation of the Korean
+
+ won.
+
+ Ⅲ. Discussions Concerning Monetary Policy Decision (Summary)
+
+ The main details of the MPC Members’ discussions concerning a
+
+ change in the Bank of Korea Base Rate were as follows:
+
+ Most members shared the opinion that, in overall consideration of the
+
+ domestic and international economic environments and their future
+
+ outlooks, it would be desirable to lower the Base Rate by 25 basis points
+
+ from its current level for the intermeeting period.
+
+ One member noted that now was the moment when providing some
+
+ momentum for the restoration of confidence was necessary, since the pace
+
+ of economic recovery was judged to be still unsatisfactory and the
+
+ economic slowdown had become prolonged, due particularly to a massive
+
+3
+
+
+-----
+
+###### weakening in confidence of economic agents, while prices were seen likely
+
+ to sustain a low rate of increase below the inflation target for the time
+
+ being. The same member went on to state an opinion that, although there
+
+ was a need to cut the Base Rate from its current level, it would be better
+
+ to depart from the existing method of cutting it in 25 basis point steps,
+
+ by lowering it instead by 20 basis points to 2.30%, since account should
+
+ be taken of the need for ensuring room for Base Rate adjustments in
+
+ response to future uncertainties, of the limited effect of an additional rate
+
+ cut in the current somewhat accommodative financial circumstances, and of
+
+ the spread between domestic and overseas interest rates, which exerts an
+
+ influence on capital flows.
+
+ Another member expressed the view that, although it was desirable to
+
+ cut the Base Rate by 0.25 of a percentage point this month, particular
+
+ attention should be paid to communication so as to avoid the formation of
+
+ one-sided market expectations, since there was only a limited possibility of
+
+ further monetary easing given that the Base Rate cut and the government
+
+ measures to revitalize domestic demand would likely contribute to a
+
+ strengthening of the economic recovery, that the possibility could not be
+
+ ruled out of the Base Rate cut, together with the easing of the LTV and
+
+ DTI regulations, increasing households’ debt burdens, and that the
+
+ possibility remained of the US Fed raising interest rates early.
+
+ One other member argued that it would be desirable to cut the Base
+
+ Rate by 0.25 of a percentage point this month, as the expected positive
+
+ effects of the Base Rate cut — including the steadying of the trends of
+
+ narrowing of the negative output and the inflation gaps, the prevention of
+
+ a further increase in the imbalances between domestic and overseas
+
+ demand due to export-dependent growth, and the blocking the decline in
+
+ economic sentiment from becoming firmly entrenched — would outweigh
+
+ the negative factors involved such as the household debt risk, the
+
+ possibility of an early interest rate hike by the US Fed, and worsening
+
+4
+
+
+-----
+
+###### financial institution profitability due to interest rate cuts. He went on to
+
+ advocate the view that, going forward, while closely monitoring the effects
+
+ of the Base Rate cut on macroeconomy and financial stability, it would be
+
+ appropriate to secure a neutral monetary policy stance to allow policy
+
+ flexibility on both the upward and the downward sides.
+
+ Another member commented that, while lowering the Base Rate by
+
+ 0.25 of a percentage point to break free of the vicious circle of
+
+ weakening consumer and investor sentiments, it was necessary to pay
+
+ attention to ensure that factors threatening financial stability, such as an
+
+ increase in household debt and a delay in corporate restructuring, did not
+
+ materialize, and to closely examine the effects of changes in global
+
+ financial market conditions resulting from any shift in the US monetary
+
+ policy stance. This member went on to state that it was necessary to
+
+ encourage financial institutions to manage household debt in a stable
+
+ manner at their own initiative and to pursue soundness in their operations,
+
+ so that the loosening of housing finance regulations and the easing of
+
+ monetary policy could achieve their intended effects without undermining
+
+ financial stability.
+
+ Another member also noted that it would be desirable to cut the Base
+
+ Rate by 0.25 of a percentage point, and added that although this
+
+ downward adjustment was expected to contribute to easing the sluggishness
+
+ of the Korean economy and to enhancing its stability, there were concerns
+
+ that policy costs might be incurred, such as delays in restructuring and an
+
+ expansion in household debt, and that the policy authorities should
+
+ therefore devote efforts to minimizing such costs. He added that, as the
+
+ Base Rate was being cut in parallel with the easing of the LTV and DTI
+
+ regulations to normalize the housing market, it would be advisable to
+
+ closely monitor the real estate market in the future, and to make the
+
+ required preparations for implementing macroprudential measures if needed.
+
+5
+
+
+-----
+
+###### One other member commented that it would be desirable to hold the
+
+ Base Rate at its current level of 2.50% for the intermeeting period. He
+
+ expressed the opinion that it was unnecessary to change the current
+
+ monetary policy stance, since the downward revision of the growth
+
+ forecast for this year, to 3.8%, had been due to a temporary shock, and
+
+ so there was little need for short-term economic stimulation, while the
+
+ current growth rate did not turn out unsatisfactory compared with the
+
+ potential growth rate, now estimated at around the middle- to upper-3%
+
+ range. He went on to note that, in the current situation in which Korean
+
+ corporations were avoiding investment despite their abundant retained
+
+ income reserves, a Base Rate cut could not necessarily guarantee an
+
+ increase in corporate investment and would instead reduce the incomes of
+
+ households, the majority of which are net creditors, and thereby lower
+
+ household consumption, which he added could be out of step with the
+
+ government’s policy stance of returning corporate profits to households so
+
+ as to boost consumption.
+
+ Regarding the inflation target, meanwhile, the same member mentioned
+
+ that, considering that consumer price inflation was projected to be below
+
+ its target this year, at 1.9 percent, and since this low inflation was likely
+
+ to continue for a considerable time in line with the global trend of low
+
+ inflation, and that most advanced countries including the US set their
+
+ inflation targets at the 2 percent level while, among emerging market
+
+ countries, countries such as Thailand and China set theirs at from 0.5 to 3
+
+ percent and 3.5 percent respectively, Korea’s current inflation target of
+
+ 2.5~3.5 percent was set too high. He went on to advocate the desirability
+
+ of adjusting the inflation target range downward slightly and widening it
+
+ to 1 percent above or below its mid-point from the year 2015 on. He
+
+ added meanwhile that, rather than resetting the inflation target every three
+
+ years as was currently done, it would be advisable to determine a target
+
+ without the setting of a specific period for it unless there were particular
+
+ reasons to do so.
+
+6
+
+
+-----
+
+###### Ⅳ. Results of Deliberation on Monetary Policy Directions
+
+ Incorporating the outcome of the discussions held earlier, a statement
+
+ was compiled reflecting the views of the majority.
+
+ Mr. Moon, Woosik, however, expressed clear opposition to the idea of
+
+ lowering the Base Rate by 0.25 of a percentage point, and argued for
+
+ holding it at its current level.
+
+7
+
+
+-----
+
+< Ref >
+
+###### Monetary Policy Decision
+
+ □ The Monetary Policy Committee of the Bank of Korea decided
+
+ today to lower the Base Rate by 25 basis points, from 2.50% to
+
+ 2.25%.
+
+ □ Based on currently available information the Committee considers
+
+ that, although the trend of economic recovery in the US has been
+
+ sustained, the euro area economic recovery still appears weak, while
+
+ trends of economic growth in emerging market countries have
+
+ differed from country to country. The Committee forecasts that the
+
+ global economy will sustain its modest recovery going forward,
+
+ centering around advanced economies, but judges that the possibility
+
+ exists of its being affected by the changes in global financial
+
+ market conditions stemming from the shift in the US Federal
+
+ Reserve’s monetary policy stance, by the weakening of economic
+
+ growth in some emerging market countries and by geopolitical
+
+ risks.
+
+ □ In Korea, exports have maintained their buoyancy but the
+
+ Committee judges that improvements in domestic demand, which
+
+ had contracted due mainly to the impacts of the Sewol ferry
+
+ accident, have been insufficient, and that the consumption and
+
+ investment sentiments of economic agents also continue to show
+
+ sluggishness. On the employment front, the scale of increase in the
+
+ number of persons employed has expanded in line with increases in
+
+ the 50-and-above age group and in the service sector. The
+
+ Committee expects that the negative output gap in the domestic
+
+ economy will gradually narrow going forward, although its pace of
+
+ narrowing will be moderate.
+
+8
+
+
+-----
+
+###### □ Consumer price inflation fell from 1.7% the month before to 1.6%
+
+ in July, due mainly to increases in the extents of decline in the
+
+ prices of agricultural and petroleum products. Core inflation
+
+ excluding agricultural and petroleum product prices rose slightly to
+
+ 2.2%, from 2.1% in June. The Committee forecasts that inflation
+
+ will gradually rise, but judges that for the time being inflationary
+
+ pressures will not be high. Housing prices in the country excluding
+
+ Seoul and its surrounding areas showed a slight upward movement,
+
+ while leasehold deposit prices both in Seoul and its surrounding
+
+ areas and in the rest of the country continued their modest
+
+ uptrends.
+
+ □ In the domestic financial markets, after having risen substantially
+
+ owing chiefly to the government’s announcement of economic
+
+ policies, stock prices have fallen back somewhat due for example
+
+ to geopolitical risks. The Korean won has depreciated under the
+
+ influence of the US dollar’s strength globally, and long-term market
+
+ interest rates have fallen.
+
+ □ Looking ahead, the Committee will conduct monetary policy so as
+
+ to keep consumer price inflation within the inflation target range
+
+ over a medium-term horizon while supporting the recovery of
+
+ economic growth. In this process it will closely monitor external
+
+ risk factors such as shifts in major countries’ monetary policies,
+
+ changes in economic agents’ sentiment and movements of future
+
+ economic indicators including the household debt trend, while
+
+ observing the effects of this month’s Base Rate cut and the
+
+ government’s economic policies.
+
+9
+
+
+-----
+

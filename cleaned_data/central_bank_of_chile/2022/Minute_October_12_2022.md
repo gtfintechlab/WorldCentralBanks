@@ -1,0 +1,232 @@
+# MONETARY POLICY MEETING
+
+### OCTOBER 2022
+
+**[INF*RES*AS]**
+
+
+-----
+
+## MONETARY POLICY MEETING
+
+##### Minutes of the monetary policy meeting No. 293, held on 11-12 October 2022.
+
+Present: Rosanna Costa, Governor; Pablo García, Vice-Governor; Alberto Naudon, Board member; Luis
+Felipe Céspedes, Board member; Stepanka Novy, Board member.
+
+Also present: Juan Pablo Araya, Legal Counsel and Attestor; Elías Albagli, Monetary Policy Division Director;
+Paulina Yazigi, Financial Markets Division Director; Rosario Celedón, Financial Policy Division Director; Gloria
+Peña, Statistics Division Director; Michel Moure, Institutional Affairs Division Director; Diego Ballivián,
+Corporate Risk Division Director; Markus Kirchner, Macroeconomic Analysis Manager; Enrique Orellana,
+Monetary Pollicy Strategy and Communication Manager; Miguel Fuentes, International Analysis Manager;
+Felipe Musa, acting Market Operations Manager; Juan Carlos Piantini, Business Strategy Administration
+Manager; Juan Francisco Martínez, Financial Stability Manager; ; Francisco Ruiz, Macroeconomic Statistics
+Manager; Felipe Lozano, Communications Manager; Andrés Sansone, Advisor to the Finance Minister; Erika
+Arraño, Senior Economist; Marlys Pabst, Secretary General.
+
+#### 1. Background
+
+**The domestic scenario**
+
+Headline inflation had reached 13.7% annually in September, slightly less than in August, while core
+inflation —the CPI minus volatiles— had risen to 11.1% annually. Cumulative inflation in the last two
+months had exceeded the forecast in the September MP Report, owing mainly due to sharp price increases
+in some foods and, though not as sharp, in some services, mainly for administrated and indexed items.
+
+Cost pressures were giving mixed signals. On the one hand, nominal wages and the exchange rate had
+risen again, while, on the other hand, commodity prices had declined and global supply problems had been
+moderating. The business cost outlook (IMCE) remained near record highs. Inflation expectations taken
+from the Economic Expectations Survey (EES) and the Financial Traders Survey (FTS) remained above 3% in
+the two-year horizon and had been adjusted downward in the one-year term.
+
+The non-mining Imacec for August (+1.3% annually; +0.7% monthly seasonally adjusted) had surpassed
+the forecast in the September MP Report, mainly because of greater activity in some services. In all other
+sectors, however, the expected drops in activity were confirmed, as was the case in trade, manufacturing
+
+
+-----
+
+and construction. In domestic spending, private consumption indicators had continued to consolidate the
+expected adjustment path. Those linked to investment remained weak, although in some sectors —energy,
+transportation and telecommunications— there was a certain resilience that had favored the import of
+machinery and equipment. The consumer confidence index (IPEC) remained in the pessimistic zone, but
+with some recent rebound. The same behavior was observed in the case of firms (IMCE) across the different
+economic sectors.
+
+In the labor market (INE), job creation remained stagnant, while the participation and unemployment rates
+showed no material changes, the latter standing at 7.9% in August. Labor demand had continued to lose
+strength, as reflected in the steady decline of the Internet Job Postings Index since the end of 2021 and of
+business expectations for employment (IMCE). Real wages continued to post negative annual variations in
+their different measurements.
+
+The local financial market had aligned itself with the lower risk appetite of global markets. Compared with
+the previous meeting, the exchange rate had depreciated by around 5%, long-term interest rates had risen
+—especially UF-denominated—, the sovereign risk premium (5-year CDS) had increased and the IPSA stock
+index had lost close to 7%.
+
+Bank credit continued to decelerate in all portfolios. Commercial and consumer loans had been falling
+further, with real annual contractions of 2.2% and 3.0% in September, while the annual variation of
+mortgage loans was at an all-time low, at 1.8% in the same month. These developments were in line
+with the latest Bank Lending Survey (BLS), which reported that supply conditions remained tight, driven by
+factors such as a perception of increased risk and a worsening economic environment. The BLS also pointed
+to a weaker demand, which for individuals was especially noticeable in the housing segment. Lending
+interest rates had seen further hikes in the margin.
+
+The market outlook for the monetary policy rate (MPR) had increased. The various measures of expectations
+available (i.e., taken from surveys and financial asset prices) placed it at 11.25% at the October meeting,
+and then peaked between 11.25% and 11.5% at December.
+
+**The international scenario**
+
+Global inflation had continued to show signs of greater persistence, central banks had further raised their
+benchmark rates and market expectations pointed to a prolonged monetary tightening in developed
+economies. At its September meeting, the Federal Reserve had again raised the Fed funds rate range by 75
+basis points (bps) and the FOMC’s rate outlook suggested future rate hikes outpacing market expectations.
+The European Central Bank had raised its monetary policy rate by 75bp and signaled additional increases
+due to persistent inflationary pressures and the risk of expectations becoming unanchored.
+
+
+-----
+
+The Bank of England had added 50 bps to its benchmark rate, amid high pressures from wages. In the U.K.,
+the announcement of a fiscal stimulus package and tax cuts had sharply depreciated the pound and raised
+interest rates, which had prompted the Bank of England to establish a temporary purchase of long-term
+bonds in view of the increased risk of financial instability.
+
+In Latin America, monetary authorities had kept on raising their monetary policy rates; however, some
+had surprisingly made more moderate increases than expected in the face of early signs that inflation had
+reached a peak in several economies. Brazil was a case in point, where the central bank had paused last
+September its rate hike cycle begun in March 2021, without ruling out new increases in the months ahead.
+
+The market outlook for global growth had continued to adjust downward, mainly for 2023. In the United
+States, the combination of high inflation, tighter monetary policy and worsening financial conditions had
+contributed to a deterioration in next year’s outlook, although projections for 2022 had remained stable,
+amid still resilient consumer indicators and a still strong labor market.
+
+In the Eurozone, uncertainty surrounding the war in Ukraine continued to affect expectations about energy
+availability. Meanwhile, the real-income decline and the drop in confidence augured weak consumption.
+Furthermore, the tightening of financial conditions, the persistence of the negative supply shock and the
+worsening economic outlook continued to anticipate an erosion of investment dynamism.
+
+In China, adding to the weakness of the real estate sector and the uncertainty regarding the strategy for
+controling the spread of Covid-19, there were the effects of the deteriorated world demand for goods on
+the country’s exports. In Latin America, activity had shown greater resilience than expected; however, there
+were signs of moderation in the pace of growth. Thus, the revisions of the projections for 2022 went in
+opposite directions among the different economies, but for 2023 they continued to deteriorate, amid the
+worsening global outlook, tighter financial conditions, lower commodity prices and risks of internal tensions
+in different countries.
+
+In this scenario, global financial markets had remained highly volatile and risk appetite had declined. Since
+the last Meeting, the dollar had continued to strengthen globally, stock markets had fallen and long-term
+interest rates had risen.
+
+Commodity prices, in general, had continued to adjust downward, in line with the stronger dollar and
+the worsening outlook for world activity. The oil price had shown high volatility, with sharp declines and
+a subsequent recovery in the face of less favorable news on the supply side. Thus, in the days prior to
+the Meeting, the oil barrel was trading around US$90 (WTI-Brent average). Similarly, the copper price
+had shown fluctuations and was close to US$3.5 per pound, virtually unchanged from the last Meeting.
+The price of European natural gas had dropped significantly, despite disruptions in Russian supplies. Food
+prices had shown mixed movements. Edible oils prices had fallen, while cereals had risen, influenced by the
+uncertainty about new interruptions in grain exports from Ukraine.
+
+
+-----
+
+#### 2. Background analysis and discussion
+
+Regarding the external scenario, there was agreement that it had worsened in recent weeks. It was pointed
+out that inflationary pressures remained high in both developed and emerging economies and, if anything,
+the phenomenon had become more persistent than expected. Consequently, monetary policies were
+becoming more contractionary in most countries, most notably in the U.S. It was pointed out that, although
+the markets had been adjusting to the change of scenario without major and generalized disruptions,
+global financial conditions had been tightening, growth projections were being downgraded again and
+commodity markets were becoming weaker.
+
+There was consensus that not only would the external impulse to the Chilean economy diminish, but also
+that the probability of seeing negative risk scenarios had increased. Both the possible impacts of a more
+contractionary U.S. monetary policy on the rest of the world and the vulnerabilities in some important
+financial markets, such as developments in the United Kingdom were noted. The development of other
+sources of uncertainty already present was added, such as the war between Russia and Ukraine and the
+weakness of the Chinese economy and the consequences of its real-estate sector adjustment.
+
+Regarding local conditions, there was general agreement that there were no substantial differences with
+respect to forecasts in the September MP Report. On the activity side, beyond surprises in some sectors,
+activity had evolved in line with expectations. The sectors most closely linked to the business cycle showed
+a clear adjustment and consumption was in line with expectations. Also noteworthy was the presentation
+to Congress of the fiscal budget for 2023, which, in general terms, seemed consistent with the Report
+assumptions, especially the importance of fiscal consolidation and the absence of other macroeconomic
+stimuli aimed at efficiently achieving the convergence of inflation to 3%.
+
+The trajectory of inflation was noted, with its slight decline in the annual variation rate after many months
+of sharp rises. It was added that, in any case, in line with expectations, core inflation continued to rise,
+which maintained the alerts about the consolidation of a downward inflationary trend.
+
+It was mentioned that the depreciation of the peso would drive up inflation in the short term, as was
+reflected in prices and market expectations. In any case, being the outcome of a global movement of the
+dollar, this increase in the exchange rate had different impacts on inflation than had previous ones, in which
+the depreciation responded more to factors from within. In addition, it had to be considered that, although
+the deterioration of the external scenario would put greater pressure on prices in the short term, mediumterm inflationary pressures would be lower due to the negative consequences on economic activity.
+
+The behavior of inflation expectations was also noted, which despite somewhat higher inflation in the short
+term, showed downward adjustments at longer horizons, probably reflecting the medium-term impact of a
+more deteriorated macroeconomic scenario. All in all, there was consensus that two-year expectations were
+still well above 3% and their evolution was a matter of concern.
+
+
+-----
+
+Regarding local financial conditions, the weak growth in credit was observed, with its low or negative
+annual variation rates in its different categories. It was emphasized that this behavior was consistent with
+the rise in interest rates and with the evaluation of the third-quarter Bank Lending Survey, which reported
+that supply conditions remained constrained and demand was perceived as weak for all segments. The
+discussion focused on the behavior of shorter-term UF-denominated interest rates —typically more closely
+linked to the business cycle—, which had risen significantly in recent months, the origin of which was
+unclear, but which could end up having a significant impact on the economy.
+
+#### 3. Analysis of monetary policy options
+
+All five Board members agreed that the information gathered since the publication of the last Monetary
+Policy Report outlined a central scenario in which medium-term inflationary pressures would gradually ease
+in line with expectations. In their view, this was a major change from several of the previous Meetings,
+where, in general, the data were showing the need for an increasingly contractionary monetary policy
+to ensure the convergence of inflation to 3% in the two-year horizon. There was also consensus that
+the inflationary problem was still present, inflation remains at high levels, persistence was high and the
+medium-term inflation expectations of different agents remained well above the 3% target.
+
+In this context, all the Board members agreed that, in line with the September Report, the MPR was already
+near its maximum level. Therefore, an adjustment of the rate should be evaluated in order to reach a
+sufficiently contractionary degree to maintain it for the time needed to assess the impact of the changes
+in the macroeconomic scenario and ensure the achievement of the inflation target within the two-year
+horizon. The Board discussed two options: to raise the MPR by 25bp or by 50 bp.
+
+In the Board’s view, the option of raising the MPR by 25bp gave more time to assess the evolution of the
+macroeconomic scenario, particularly in terms of external developments and their impact on activity and
+medium-term inflationary pressures. It could also be evaluated positively if the weight assigned to external
+risks was very high. On the other hand, adopting this option could give the wrong signal regarding the
+Board’s reading of the risks to inflation, particularly with respect to inflationary persistence.
+
+Regarding the option of raising the MPR by 50bp, there was agreement among the Board members that
+adopting such a decision placed the policy rate at the level necessary to ensure the convergence of inflation
+to 3%, given the current macroeconomic environment. At the same time, it gave a signal consistent with
+the Board’s concern about the persistence of inflation and reduced the risks associated with significant
+changes in external conditions. They also favored this option because it made it easier to give a clearly
+neutral bias to the next rate movements and allowed emphasizing that it would be kept unchanged for as
+long as necessary to ensure the convergence of inflation to 3% within the two-year policy horizon.
+
+
+-----
+
+#### 4. Monetary policy decision
+
+Governor Costa, Vice-Governor García, and Board members Naudon, Céspedes and Novy voted for raising
+the MPR by 50bp, to 11.25%.
+
+
+-----
+
+**MONETARY POLICY MEETING**
+OCTOBER 2022
+
+
+-----
+

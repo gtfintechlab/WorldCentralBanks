@@ -1,0 +1,419 @@
+### Publication date: 22 October 2008
+
+## MINUTES OF THE SPECIAL
+# MONETARY POLICY COMMITTEE MEETING
+## 8 OCTOBER 2008
+
+##### These are the minutes of the special Monetary Policy Committee meeting held on  8 October 2008.
+
+ They are also available on the Internet http://www.bankofengland.co.uk/publications/minutes/mpc/pdf/2008/mpc0810.pdf
+
+ The Bank of England Act 1998 gives the Bank of England operational responsibility  for setting interest rates to meet the Government’s inflation target. Operational  decisions are taken by the Bank’s Monetary Policy Committee. The Committee meets  on a regular monthly basis and minutes of its meetings are released on the  Wednesday of the second week after the meeting takes place. Accordingly, the  minutes of the Committee meeting to be held on 5 and 6 November will be published on  19 November 2008.
+
+ This meeting was convened by the Governor under the provisions of paragraph 10(2) of Schedule 3 to the Bank of England Act 1998.
+
+
+-----
+
+#### MINUTES OF THE SPECIAL MONETARY POLICY COMMITTEE MEETING HELD ON 8 OCTOBER 2008
+
+1 The Governor convened a special meeting of the Monetary Policy Committee on Wednesday
+
+8 October, under the provisions of paragraph 10(2) of Schedule 3 to the Bank of England Act 1998, to
+
+replace the meeting scheduled for later that day. The Governor invited Committee members to discuss
+
+a proposal to reduce Bank Rate by 50 basis points, as part of a co-ordinated easing in monetary policy,
+
+in conjunction with the Bank of Canada, the European Central Bank, the US Federal Reserve, Sveriges
+
+Riksbank, the Swiss National Bank and the Bank of Japan.
+
+2 Before the meeting, Committee members had been briefed on developments since the previous
+
+meeting in financial markets; the international economy; money, credit demand and output; supply,
+
+costs and prices. The Chief Economist updated Committee members at the beginning of the meeting.
+
+**Financial markets**
+
+3 Conditions in international money and credit markets had deteriorated very markedly over the
+
+past month, following a series of failures by financial institutions in the United States. As strains
+
+within the international financial system had intensified, the price of longer-term funding for banks in
+
+the United Kingdom and elsewhere had risen very sharply and its availability had declined further.
+
+The worsening outlook for financial institutions had been reflected in markedly higher credit default
+
+premia. As banks had found it harder to access term funding, interest rates on shorter-maturity
+
+instruments had increased sharply too. Sterling and dollar three-month LIBOR rates had risen to
+
+nearly 200 and 300 basis points above risk-free rates respectively. And trading had effectively ceased
+
+in many markets. Concerns about financial stability had led to increased demand for safer assets.
+
+Yields on US Treasury Bills had fallen to zero for the first time since the early 1940s. The upheaval in
+
+financial markets had resulted in further destabilisation of individual institutions, and subsequent
+
+government intervention, in the United States and across Europe.
+
+4 A reduced appetite for risk and concerns about the impact of the tightening availability of credit,
+
+and of the economic slowdown more generally, had contributed to sharp increases in corporate bond
+
+
+-----
+
+2
+
+spreads. Spreads on investment-grade sterling corporate bonds relative to the yield on government
+
+debt had risen to over 400 basis points, their highest levels in the past 20 years. The same factors had
+
+contributed to reductions in equity prices, in both developed and developing economies. The main
+
+equity indices in the United Kingdom, United States and euro area had fallen by about 20% in
+
+domestic currency terms since the Committee’s previous meeting. Falls in equity prices were broad
+based and not concentrated solely among financial institutions.
+
+5 In response to the financial market turbulence, expectations for the path of official interest rates
+
+in the United Kingdom, United States and euro area had all declined on the month. Market
+
+participants appeared now to be pricing in a reduction of 50 basis points in Bank Rate at the
+
+Committee’s October meeting, and of a further one percentage point by the middle of next year.
+
+6 Exchange rates had been volatile. Against the dollar, sterling had fallen by around 1%, but it had
+
+risen by around 5% against the euro. In effective terms, it had risen by over 3% since the September
+
+meeting. Movements in sterling over the month did not appear to be related to changes in market
+
+interest rates.
+
+7 That morning, the Government had announced the introduction of a programme for
+
+recapitalising a number of major UK banks, on which the Governor had briefed the Committee, which
+
+had also included further measures to provide liquidity to the banking system and to provide
+
+government guarantees on new borrowing by the banks. The announcement had led to an immediate
+
+fall in credit default premia. But it was too early to judge what the full impact of the package would
+
+be.
+
+**The international economy**
+
+8 The prospects for demand growth in the United Kingdom’s main export markets had deteriorated
+
+markedly over the month. This reflected both the turbulence in global financial markets and weaker
+than-expected economic data.
+
+9 The outlook for activity in the euro area had weakened. The final estimate of GDP in the second
+
+quarter of 2008 had indicated a fall of 0.2%. Expenditure data suggested that both household
+
+consumption and investment had decreased. The available indicators were also consistent with weak
+
+
+-----
+
+3
+
+output in the third quarter. Consumer price inflation had eased back further, to 3.6% in September on
+
+the flash estimate of the HICP.
+
+10 In the United States, output measures had weakened further. Non-farm payrolls had declined by
+
+nearly 160,000 in September. Headline CPI inflation had fallen to 5.4% in August, primarily due to
+
+the contribution of lower energy prices. The twelve-month inflation rate of the personal consumption
+
+expenditures price index, excluding energy and food prices, had increased slightly.
+
+11 The fall in Japanese GDP in the second quarter had been revised down to 0.7%, a much weaker
+
+outturn than anticipated at the time of the August Inflation Report. Indicators of business confidence
+
+had also softened: in the third quarter, the Tankan Survey balance had been negative for the first time
+
+in five years.
+
+12 Commodity prices had fallen sharply over the month in response to the weaker outlook for world
+
+activity. The spot price of oil had declined by about a fifth in both sterling and dollar terms since the
+
+time of the September meeting and was a third below its peak in July in sterling terms. Non-oil
+
+commodity prices had also slipped: falls had been recorded in the prices of foods, non-food
+
+agricultural goods and metals. The Baltic Dry Index, which measured the cost of shipping dry
+
+commodities, such as iron ore, had fallen by 75% from its peak four months earlier.
+
+**Money, credit, demand and output**
+
+13 As had been expected, the ONS had revised upward the level of GDP quite substantially over the
+
+past as a result of the revised treatment of financial intermediation. GDP growth over the past few
+
+years had, however, been little changed. The earlier estimate of zero GDP growth in the second
+
+quarter had not been revised.
+
+14 The outlook for activity in the second half of 2008 had weakened markedly. Industrial
+
+production declined by 0.6% in August, reflecting reductions in both manufacturing and energy output.
+
+And the main business surveys had fallen sharply in September. The CIPS/Markit manufacturing and
+
+services output balances had declined to their lowest levels since the series began in 1991 and 1996
+
+respectively.
+
+
+-----
+
+4
+
+15 The weakening in global demand prospects, combined with the appreciation of sterling over the
+
+past month, suggested that the outlook for net trade over coming quarters had deteriorated. Although
+
+business investment was volatile and hard to predict with any accuracy, the available evidence from a
+
+range of surveys on investment intentions and business confidence was consistent with further
+
+weakness in business investment. And indicators of household spending, including monthly retail
+
+sales data, new car registrations, surveys and reports from the Bank’s regional Agents, suggested that
+
+consumption had weakened markedly in the third quarter.
+
+16 House prices had fallen sharply again, with both the Halifax and Nationwide indices declining by
+
+around 5% during the third quarter. The number of loan approvals for house purchase slipped a little
+
+further in August. Indicators of housing market activity remained at very low levels, pointing to
+
+possible further weakness in the housing market over coming months.
+
+17 The weaker housing market was consistent with evidence that credit conditions had continued to
+
+tighten before the most recent period of financial market turbulence. The growth rate of secured
+
+lending to individuals had slowed further in August. The reduction in the availability of credit was
+
+most pronounced among customers with higher loan-to-value ratios, while quoted mortgage rates for
+
+borrowers with 75% loan-to-value ratios or less had, on average, fallen. Reports from the Bank’s
+
+regional Agents indicated that corporate credit conditions had tightened, particularly for larger firms.
+
+The renewed tensions in financial markets, combined with the increase in default rates among both
+
+households and firms expected by lenders in the Bank’s Credit Conditions Survey, were likely to lead
+
+to a further material tightening in credit conditions for households and firms over coming months.
+
+18 Broad money growth had continued to slow, once allowance was made for transactions within
+
+the financial sector that were unlikely to be related to spending on goods and services. The value of
+
+notes and coin in circulation was unchanged in real terms over the past twelve months. The overall
+
+picture was consistent with current monetary conditions weighing heavily on the growth of money
+
+spending.
+
+**Supply, costs and prices**
+
+19 The most recent data suggested that the labour market had weakened. According to the Labour
+
+Force Survey, the employment rate had declined in the three months to July, while unemployment had
+
+
+-----
+
+5
+
+risen. The Claimant Count had increased to 2.8% in August. And a range of survey-based evidence,
+
+together with reports from the Bank’s regional Agents, indicated that the labour market was likely to
+
+slacken further over the coming months.
+
+20 The three-month mean of wage settlements had ticked up slightly in August. Regular pay drift
+
+had been a little stronger than expected. The Average Earnings Index measure for twelve-month pay
+
+growth (including bonuses) had been revised up slightly in June and increased to 3.7% in July. But
+
+even so, earnings growth had continued to be subdued.
+
+21 CPI inflation had increased by 0.3 percentage points to 4.7% in August. While sterling oil prices
+
+had fallen over the month, the future price of gas in wholesale markets was little changed. Despite the
+
+rise in the value of sterling over the past month, the exchange rate had remained about 15% below its
+
+level in July 2007, and that continued to put upwards pressure on import prices. Import price inflation
+
+of goods, excluding energy and food, had been over 6% in July. Further down the supply chain,
+
+manufacturing input and output prices had fallen slightly on the month in August, even though, over
+
+the year as a whole, the rate of increase had remained high.
+
+22 Despite the further rise in CPI inflation, the evidence on inflation expectations was broadly
+
+unchanged. According to the Citigroup/YouGov survey, the median household’s expectations for
+
+inflation over the next 5 to 10 years had risen marginally, and for the next 12 months were unchanged.
+
+**The immediate policy decision**
+
+23 The Governor briefed the Committee on discussions that had taken place among a number of
+
+leading central banks about a proposal for a co-ordinated easing of monetary policy. He invited the
+
+Committee to decide whether the Bank of England should participate in this action.
+
+24 The Committee discussed the outlook in the United Kingdom. For some time, the Committee
+
+had been balancing two main risks to CPI inflation in the medium term. On the downside, there was
+
+the risk that a sharp slowdown in the economy, associated with weak real income growth and the
+
+tightening in the supply of credit, would pull inflation materially below the 2% target for inflation. On
+
+the upside, there was a risk that a period of inflation above target this year and next would raise
+
+inflation expectations, so that inflation persisted above the target for a sustained period. The
+
+
+-----
+
+6
+
+Committee judged that, during the past month, the balance of risks to inflation in the medium term had
+
+shifted decisively to the downside.
+
+25 CPI inflation had risen to 4.7% in August, reflecting increases in food and energy prices.
+
+Inflation was likely to rise further to above 5% in the next month or two, in large part as the full effects
+
+of already announced increases in the price of domestic energy were felt. But inflation was then likely
+
+to drop back, as the contribution from retail energy prices waned and the margin of spare capacity in
+
+the economy increased. Pay growth had so far remained subdued and commodity price pressures had
+
+eased, with oil prices down substantially from their mid-summer peak.
+
+26 Conditions in international credit and money markets had deteriorated very markedly over the
+
+course of the past month. Many markets had closed. In the United Kingdom, the supply of credit to
+
+households and firms had clearly tightened further as banks sought to adjust their balance sheets. The
+
+Committee noted that cuts in official interest rates could not be expected to resolve the current
+
+problems in financial markets and that a significant increase in the capital of the banking sector would
+
+be required. The Committee therefore welcomed that morning’s announcement of a Government
+
+programme to recapitalise the major UK banks.
+
+27 Data released over the past month indicated that the outlook for economic activity in the United
+
+Kingdom had deteriorated substantially, reflecting a sharp monetary contraction. Output growth had
+
+slowed to a halt in the second quarter, business surveys pointed to further weakening during the second
+
+half of 2008, and the labour market had softened. Consumer spending growth had slowed, in part as a
+
+result of the squeeze on real incomes, while business and dwellings investment had declined. Equity
+
+prices had fallen, and the further tightening in credit conditions would also weigh down on domestic
+
+demand growth. The depreciation in sterling over the past year was likely to support net exports, but
+
+the prospects for demand growth in the United Kingdom’s main export markets had worsened. The
+
+weakness in output growth at home was likely to open up a growing margin of spare capacity that
+
+would over time bear down on inflation.
+
+28 Over the month, the risk of a sharper monetary contraction had risen, and hence of a more
+
+pronounced slowing in activity and employment than was needed to keep inflation at target in the
+
+medium term. The impact of the Government’s programme to recapitalise the major UK banks on
+
+lending growth was likely to be positive. But the scale and timing of that were still highly uncertain.
+
+
+-----
+
+7
+
+Although inflation was expected to remain well above the target for some time, the risk that inflation
+
+expectations for the medium term would be dislodged had diminished in the light of the weaker
+
+outlook for economic activity. Oil and many other commodity prices were lower. The exchange rate
+
+had recovered some of its most recent falls, but remained volatile. The increase in slack in the labour
+
+market meant it was less likely that cost pressures would feed through into higher wage growth.
+
+29 All these developments pointed to the need for a relaxation in monetary policy. In the current
+
+financial market turbulence, the reduction in Bank Rate that would ultimately be required to meet the
+
+inflation target was very difficult to gauge. But the evidence available now was clearly sufficient to
+
+justify a reduction in Bank Rate of 50 basis points this month.
+
+30 Against that background, the Governor invited the Committee to discuss the proposal to reduce
+
+Bank Rate by 50 basis points, as part of a co-ordinated easing in monetary policy. The reduction, if
+
+the Committee decided to accept the proposal, would be announced in conjunction with the Bank of
+
+Canada, the European Central Bank, the US Federal Reserve, Sveriges Riksbank, the Swiss National
+
+Bank and the Bank of Japan. Given the global nature of the financial market turbulence, there was a
+
+strong argument for participating in the proposed co-ordinated international action.
+
+31 The Governor invited the Committee to vote on the proposition that Bank Rate should be
+reduced by 50 basis points to 4.5%. The Committee voted unanimously in favour of the proposition.
+
+32 The following members of the Committee were present:
+
+Mervyn King, Governor
+Charles Bean, Deputy Governor responsible for monetary policy
+John Gieve, Deputy Governor responsible for financial stability
+Kate Barker
+Tim Besley
+David Blanchflower
+Spencer Dale
+Andrew Sentance
+Paul Tucker
+
+Dave Ramsden was present as the Treasury representative.
+
+
+-----
+

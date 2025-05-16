@@ -1,0 +1,155 @@
+**N** **a** **t** **i** **o** **n** **a** **l** **B** **a** **n** **k** **o** **f** **P** **o** **l** **a** **n** **d**
+
+M o n e t a r y P o l i c y C o u n c i l
+
+# MINUTES OF THE MONETARY POLICY DECISION MAKING
+ MEETING HELD ON 3 JULY 2013
+
+At its meeting, members of the Monetary Policy Council discussed the current and future monetary
+policy decisions in the context of macroeconomic developments in Poland and abroad.
+While assessing economic conditions abroad, some members of the Council emphasised that
+although the situation in the United States was improving steadily, even though slowly, (as
+evidenced, in particular, by growing employment), global economic growth remained weak. In this
+context, it was pointed out that the euro area recession – which probably persisted in the first half of
+2013 – had been accompanied by further downward revision of GDP growth forecasts for this
+economy and postponement of its recovery. Moreover, some members of the Council pointed to the
+signs of deteriorating economic climate in some major developing countries, including China,
+which negatively affected activity in the euro area, and, indirectly, also in Poland. At the same time,
+members of the Council observed that the second half of 2013 was expected to bring a gradual
+improvement in the global economic conditions and, in particular, an end to the euro area recession.
+A few members of the Council assessed that even amidst low GDP growth in the euro area, a
+relatively fast growth in Polish exports to that economy was possible, especially if economic
+activity in Germany remained considerably higher than in other euro area countries.
+
+It was pointed out that the recent signals from the Federal Reserve that it might start QE tapering
+caused a deterioration of the financial market sentiment. The deterioration of the global financial
+sentiment resulted in some outflow of capital from the emerging markets and a depreciation of their
+currencies. When assessing the impact of the situation in the international markets on the domestic
+financial market, some members of the Council emphasized that, as compared to other emerging
+economies, the change in prices of Polish assets (including an increase of yields on Treasury bonds
+and zloty depreciation) was limited. In the opinion of those Council members, this might be a sign
+of favourable perception by investors of the Polish economy fundamentals. Yet, a few Council
+members assessed that the risk of renewed rise in financial market uncertainty in emerging markets,
+including Poland, should be taken into account. They also pointed to the recent outflow of portfolio
+capital from Poland, related to lower relative attractiveness of investing in Polish Treasury bonds.
+
+Referring to the July NBP projection, some members of the Council emphasized that the central
+paths of GDP and inflation in Poland were slightly lower than those in the March projection; yet,
+this was mainly visible for the coming quarters. In the medium term, both projections were very
+similar and pointed to a gradual recovery in economic growth and a slow rise in inflation.
+
+When analysing the current economic situation in Poland, some Council members pointed to the
+signs of persistently weak domestic conditions, including further fall in industrial output in May
+2013 and deepening decline in construction output, as well as continued slow growth in retail sales.
+Those members of the Council stressed that economic climate indicators did not clearly signal
+trends in economic activity, and the continued low level of lending to the private sector suggested
+that the possible strengthening of GDP growth in the coming quarters was likely to be gradual and
+moderate.
+
+0 0-919 Warszawa u l Święto krzys ka 1 1 /2 1 phon e (+4 8) 2 2 653 2 8 88 fax (+4 8) 2 2 653 1 3 28
+
+
+-----
+
+Some members of the Council argued that the significant decrease in the NBP interest rates
+implemented since November 2012 supported economic recovery, although it cannot completely
+offset the negative impact of external conditions, fiscal tightening and deteriorating corporate
+sentiment on domestic GDP growth. According to those members of the Council, economic growth
+is negatively influenced, in particular, by concerns about a prolonged recession or stagnation in the
+euro area, discouraging enterprises from investing. In such a situation, if the outlook for demand
+cease to deteriorate and if enterprises start to expect economic recovery in the coming quarters,
+lower cost of financing could become a significant factor supporting investment. In the opinion of a
+few Council members, increasing production capacity utilization and some rise in the total cost
+estimate value of newly launched investment were among signs of a possible recovery in
+investment activity in the near future. Low interest rates also encourage consumption, in particular
+by reducing households' loan repayment burden of zloty denominated loans.
+
+In the opinion of some Council members, in the longer term, domestic demand might also be
+supported by the launch of the new EU Financial Perspective for 2014-2020. At the same time, the
+expected recovery in consumption would reduce the contribution of net exports to GDP growth. A
+few Council members also pointed to the uncertainty about the scale of further fiscal tightening,
+which might be significantly smaller than currently declared.
+
+When addressing the situation in the labour market, attention was paid to slower decline in
+employment in the enterprise sector in May 2013, as expressed in annual terms. Yet, it was
+emphasised that, at that moment, it was difficult to assess the sustainability of the observed changes.
+At the same time, it was pointed out that unemployment continued at a relatively high level, further
+supporting low wage growth.
+
+While discussing inflation developments in Poland, attention was drawn to a further decline in
+inflation in May 2013, down to 0.5%, i.e. a level significantly below the NBP’s inflation target of
+2.5%. Some members of the Council emphasized that the available forecasts pointed to the
+possibility of inflation running at a very low level in the coming months. Those Council members
+argued that also in the coming quarters inflation was likely to continue well below the NBP target.
+In their opinion, this was evidenced by the deepening decline in producer prices and low wage
+growth, indicating the absence of cost pressure in the economy, as well as stagnation in
+consumption in the 2013 Q1 and only a minor increase in retail sales in 2013 Q2, signalling the lack
+of demand pressure.
+
+When analysing the July inflation projection, some members of the Council emphasized that such
+factors as the gradual acceleration of economic growth and the probable persistently negative output
+gap until the end of the projection horizon would curb price growth in the coming quarters.
+Similarly, slow growth in unit labour costs and the expected – amidst low global demand –
+stabilization of commodity prices in the world markets should be conducive to low inflation. That
+meant, in the opinion of those Council members, that the return of inflation to the target would be
+gradual. Yet, other members of the Council pointed out that according to the July projection growth
+in food and energy prices, including oil prices, as well as growth in wages would remain below the
+level recorded in past, while zloty exchange rate was anticipated to be slightly stronger than
+currently observed. According to those Council members, should these variables develop more in
+line with previously observed values, it is likely that the rise in inflation will be faster than indicated
+by the July projection. In this context, a few members of the Council emphasized that some of the
+available forecasts, including forecasts by financial analysts, indicate the possibility of inflation
+returning to the target already in 2014. Those Council members also emphasized that the estimates
+of the current output gap, as being a non-observable variable, were always uncertain. According to
+the opinion of those Council members output gap may be less negative than indicated in the July
+projection.
+
+
+-----
+
+While discussing monetary policy decisions, some members of the Council assessed that interest
+rates were at very low levels, and their further reduction might discourage households from holding
+funds on bank accounts. A few Council members also emphasized that excessive interest rates cuts
+would create an incentive to accept greater risks, e.g. by undertaking low-productivity projects that
+eventually may prove unprofitable, and would lead to changes in the structure of bank lending
+(rising role of mortgage lending amidst reduced lending to companies). According to those Council
+members, for the above reasons it would be justified to keep the interest rates unchanged.
+
+Most of the Council members assessed, however, that the prolonged economic slowdown and the
+lack of inflationary pressure, together with the medium term outlook for the economy, as indicated,
+among others, by the July projection of inflation and GDP – spoke in favour of lowering interest
+rates at the current meeting. Further monetary policy easing was expected to support economic
+recovery and the return of inflation to the target.
+
+Most of the Council members agreed that the decision to cut interest rate taken in July should mark
+the end of the loosening cycle of monetary policy started in November 2012. Members of the
+Council pointed out that the gradual recovery in demand expected in the second half of the year
+should translate into a slightly stronger economic growth. However, in their opinion, in view of the
+persistently negative output gap, inflation was likely to remain at very low levels for several
+quarters ahead. Yet, according to those members of the Council, economic activity should steadily
+improve, which – combined with the effects of a significant monetary policy easing – would
+encourage the return of inflation to the target in the medium term. In the opinion of the majority of
+the Council members, the current level of interest rates, including the July cut, would support
+economic recovery and the return of inflation to the target, while, at the same time, it would reduce
+the risk of adverse effects of excessive interest rates cuts for the financial system and the economy.
+In addition, those Council members pointed out that signalling the end of the loosening cycle would
+contribute to reducing the uncertainty about monetary policy in the future.
+
+A few Council members pointed out, however, that no declarations as to probable future course of
+monetary policy should be made. They claimed that at present it was difficult to assess the impact
+of the government’s planned changes in public expenditure and revenue on economic activity and
+inflation in Poland. In the opinion of those Council members, another reason against declaring
+probable future course of monetary policy was the persistent uncertainty about financial markets'
+response to the signals of limiting monetary expansion in the United States and to the assessment of
+the economic and institutional reforms in the euro area.
+
+At the meeting, a motion was submitted to lower the NBP basic interest rates by 0.25 percentage
+points. The motion passed. The Council decided to lower the NBP basic interest rates by 0.25
+percentage points to the following levels: reference rate to 2.50%, lombard rate to 4.00%, deposit
+rate to 1.00%, rediscount rate to 2.75%.
+
+_Publication date: 22 August 2013_
+
+
+-----
+

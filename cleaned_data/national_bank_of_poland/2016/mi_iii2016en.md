@@ -1,0 +1,207 @@
+# Minutes of the Monetary Policy Council decision-making meeting held on 11 March 2016
+
+At the meeting, the Council members discussed monetary policy against the background
+
+of macroeconomic developments in Poland and abroad as well as the results of the March
+projection of inflation and GDP.
+
+When discussing economic activity abroad, the Council members recognized that global
+
+economic activity remained moderate and that the uncertainty about its outlook had
+recently increased. It was noted that in the major advanced economies, i.e. in the United
+States and the euro area, consumer expenditure growth remained stable, as labour market
+conditions continued to improve. It was pointed out, however, that GDP growth in both
+economies was constrained by low investment growth and a slowdown in exports. It was
+underlined that slower export growth, particularly in the case of the euro area, resulted
+from weaker conditions in the major emerging market economies, particularly China. It
+was added that conditions in global industry were very volatile and deteriorating. Exports
+had weakened also in Germany, and – in association with this – conditions in German
+industry had ebbed. This might be conducive to lower growth in Polish exports and
+industrial production, as Polish and German industries cooperate closely within global
+supply chains. At the same time, it was stressed that in spite of weaker exports, German
+economy continued to recover, supported by ongoing domestic demand growth, partly
+stimulated by increased public expenditures.
+
+The Council members judged that the uncertainty about the global economic outlook
+
+had particularly increased in recent months. This uncertainty results from the risk of a
+stronger deterioration in economic conditions in China and other emerging market
+economies, as well as the extent to which this weakening would translate into activity in
+the advanced economies. In this context, it was pointed out that many international
+institutions had revised their forecasts for global economic growth downwards. Certain
+Council members expressed the opinion that these revisions could be associated with the
+downtrend in financial asset prices in the advanced and emerging market economies which
+had been observed for several months.
+
+The Council members stressed that energy and agricultural commodity prices – in spite
+
+of their recent rebound – were still low, which is the main reason for low consumer and
+producer price growth worldwide. Certain Council members pointed to factors which
+could contribute to lower commodity prices over the longer run. It was noted i.a. that gas
+prices might decline further, as several producers of this commodity suggested an increase
+in its exports. Some Council members, in turn, drew attention to geopolitical tensions,
+arguing that their increase could lead to higher prices of commodities, particularly of crude
+oil.
+
+It was highlighted that the uncertainty about the global economy was affecting financial
+
+market sentiment, which in recent months had been reflected by capital outflows from
+many emerging market economies and the resultant fall in financial asset prices in these
+
+1/4
+
+
+-----
+
+countries as well as the depreciation of their currencies. Attention was drawn to the
+significant depreciation of the zloty, the fall in share prices on the Polish stock exchange
+and the outflow of capital from the government bond market. This notwithstanding, the
+Council members underlined that investor sentiment had improved in recent weeks, which
+resulted i.a. in an appreciation of the zloty.
+
+It was pointed out that the likelihood of the major central banks maintaining their
+
+expansionary monetary policy for longer than previously expected had increased over
+recent months. It was noted that the ECB had again expanded its monetary policy, in
+particular by lowering the deposit rate to a more negative level and significantly increasing
+the scale of its monthly asset purchases. It was also outlined that in the United States, in
+spite of an increase in interest rates in December 2015, the uncertainty about the direction of
+the Fed’s monetary policy had risen of late.
+
+The Council members pointed to likely consequences of further monetary easing by the
+
+ECB on the Polish economy. It was highlighted that it might be conducive to a decline in
+Polish government bond yields and an appreciation of the zloty. However, as certain
+members pointed out, the zloty was broadly stable over the course of the ECB’s asset
+purchase programme. Some Council members expressed the opinion that the reduction in
+the ECB deposit rate to a more negative level might create a risk of higher foreign capital
+inflow to the Polish banking sector, although the extent of the risks associated with this is
+hard to assess for the time being.
+
+While analysing the current domestic economic conditions, it was highlighted that – in
+
+spite of the rise in external risks – stable economic growth in Poland continued and in 2015
+Q4 GDP growth had even accelerated slightly. It was also stressed that domestic demand
+continued to be the key driver of GDP growth. It was highlighted that investment
+expenditure had accelerated in 2015 Q4, which had been accompanied by stable growth in
+consumption. Consumer expenditures are supported by improving labour market
+conditions, reflected particularly in rising employment and a fall in the unemployment
+rate, which had reached the lowest level since 2008. Moreover, as certain Council members
+underlined, consumer demand growth was also supported by an improvement in
+consumer sentiment. Investment demand, in turn, is propped up by sound financial
+standing of enterprises and the capacity utilization above the long-run average. It was also
+outlined that Polish exports continued to grow and sentiment in Polish industry remained
+positive, even though German exports and industrial conditions had weakened of late. It
+was also pointed out that moderate loan growth also contributed to stable domestic
+demand growth. Certain Council members noted in addition that surveys of the Polish
+enterprise sector did not point to limited access to external financing as a major hurdle for
+corporate investment.
+
+Discussing the economic outlook for Poland, it was highlighted that in line with the
+
+March GDP projection, GDP growth should remain stable in the coming years. It was noted
+that consumer demand growth was forecasted to accelerate, propped up by rising
+employment and an increase in wage growth, as well as a boost to government transfers to
+households resulting from the introduction of the “Family 500+” programme. Certain
+
+2/4
+
+
+-----
+
+Council members expressed the opinion that higher consumer demand growth could
+translate also into an acceleration in investment. Rising investment, in turn, should increase
+the productive capacity of the Polish economy, which could alleviate inflationary pressure
+that might appear in the medium term due to an increase in consumer demand growth.
+These members also outlined that an acceleration in domestic demand might lead to wider
+current account deficit and greater external imbalances, particularly given moderate
+growth in economic activity abroad.
+
+Reviewing price developments in Poland, attention was drawn to still negative price
+
+growth, which – similarly to other countries – was mainly due to the fall in commodity
+prices in recent quarters. Low inflation in Poland’s major trading partners is another factor
+behind lower consumer price growth. It was highlighted that consumer price growth in the
+Polish economy was also lowered by a lack of wage pressure, which persists in spite of a
+notable improvement in the labour market. In this context, some Council members noted
+that unit labour cost growth had been slow for some time. In addition, certain Council
+members expressed the opinion that embargo imposed by Russia on Polish food products
+had been conducive to lower food prices in Poland. These members also pointed to an
+ongoing fall in apparel prices, which – in their opinion – might be further exacerbated by
+softer demand of foreign consumers caused by i.a. recession in Russia and Ukraine as well
+as a sharp depreciation of their currencies.
+
+During the discussion on the results of the March inflation projection, it was highlighted
+
+that, according to this projection, price growth should turn positive in 2016 Q4 and return
+to the tolerance band within two years. At the same time, it was noted that core inflation
+was projected to gradually increase, supported by an acceleration in domestic demand, an
+expected rise in wage growth as well as higher consumer expenditure of households
+resulting from the introduction of the “Family 500+” programme. Certain Council members
+underlined in addition that the negative impact of the fall in commodity prices should be
+fading out, which would be conducive to higher CPI inflation later in the projection
+horizon. According to some Council members, an acceleration in price growth, stemming
+from faster growth in consumer demand and good labour market conditions, might prove
+faster than forecasted in the projection.
+
+Discussing the effects of negative price growth in Poland, some Council members
+
+emphasized that no negative developments associated with deflation had been observed so
+far. In particular, households and enterprises do not hold off their consumption and
+investment expenditures. Certain members outlined that the risk of a prolonged period of
+deflation in Poland was low due to very good labour market conditions, which result in
+stable nominal price growth. Other Council members assessed in turn that the risk that
+economic agents will start to postpone their expenditures increases as the period of
+negative price growth extends. Therefore, the Council members decided that the impact of
+low price growth on the behaviour of economic agents in Poland should be monitored
+further.
+
+Referring to the interest rates in the context of direct inflation targeting, the Council
+
+decided that they should remain unchanged at the current meeting. The Council members
+
+3/4
+
+
+-----
+
+indicated that the currently observed low price growth was mainly due to factors beyond
+the influence of domestic monetary policy. However, in the coming quarters, CPI growth
+would be supported by a steady increase in domestic economic activity. This assessment is
+backed by the results of the March projection of inflation and GDP.
+
+The Council members confirmed their assessment that – given the available data and
+
+forecasts – the current level of interest rates helped to keep the Polish economy on a
+sustainable growth path and to maintain macroeconomic stability. The Council members
+stressed that the elevated uncertainty regarding external conditions, more notably
+persisting risks to global economic activity and volatile financial market sentiment, also
+spoke in favour of a stabilization of the interest rates. Other important monetary policy
+determinant was the uncertainty about the outlook for fiscal policy beyond 2016. The
+Council members also judged that decisions on the interest rates should take into account
+their potential impact on the stability of the domestic financial sector.
+
+The majority of the Council members expressed the opinion that under these conditions
+
+keeping interest rates at the current level ensured room for monetary policy easing in the
+event of negative shocks, which would result in a deterioration in economic conditions and
+lower price growth. Certain Council members did not rule out a necessity for lowering the
+interest rates should indications of negative developments associated with deflationary
+processes occur, even though they assessed their probability as low.
+
+Certain Council members indicated in turn that in the coming quarters it might be
+
+justified to consider the circumstances under which the monetary policy stance could be reexamined. This could be justified if inflationary pressure appeared as a result of favourable
+labour market conditions and expected acceleration in consumer demand.
+
+The Council decided to keep the NBP interest rates unchanged: the reference rate at
+
+1.50%, the lombard rate at 2.50%, the deposit rate at 0.50%, the rediscount rate at 1.75%.
+
+Publication date: 17 March 2016
+
+4/4
+
+
+-----
+

@@ -1,0 +1,44 @@
+**-**
+
+# MONETARY PROGRAM FOR SEPTEMBER 2011
+ BCRP MAINTAINS THE REFERENCE RATE AT 4.25%
+
+1. The Board of the Central Reserve Bank of Peru approved to maintain the monetary
+policy reference interest rate at 4.25 percent.
+
+This decision takes into account the slowdown observed in economic activity and the
+intensification of international financial risks. Should these trends continue, the Central
+Bank will change its monetary policy stance.
+
+2. Inflation in August was affected by transitory factors and recorded a monthly rate of 0.27
+percent and an annual rate of 3.35 percent. Core inflation, which registered 0.25 percent,
+accumulated an annual growth rate of 3.19 percent. Inflation excluding food and energy
+showed a rate of 0.13 percent and an accumulated annual rate of 2.13 percent.
+
+3. Some current and advanced indicators of activity show a lower pace of growth than in
+the first semester. Furthermore, indicators of global activity show a lower growth and
+increased uncertainty continues to be observed in international financial markets. These
+factors have a potential negative effect on global economic growth as a result of the
+weak evolution of the U.S. economy and the persistence of risks associated with the
+fiscal and financial situation of some industrialized countries.
+
+4. The Board continues to oversee the projection of inflation and its domestic and external
+determinants and stands ready to adopt future adjustments in monetary policy
+instruments in order to ensure that inflation converges towards the inflation target range,
+in a context of domestic economic growth.
+
+5. The Board also approved to maintain the annual interest rates on lending and deposit
+operations in domestic currency (not included in auctions) between the BCRP and the
+financial system, as described below:
+
+a. Overnight deposits: 3.45 percent.
+b. Direct repo and rediscount operations: 5.05 percent.
+c. Swap: a commission equivalent to a minimum annual effective cost of 5.05
+percent.
+
+6. The Board will approve the Monetary Program for October on its session of October 6,
+2011.
+
+
+-----
+

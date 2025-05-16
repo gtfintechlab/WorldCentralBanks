@@ -1,0 +1,41 @@
+# Central Bank of Egypt
+
+**Press Release**
+**November 4, 2010**
+
+**_In its meeting held on November 4, 2010, the Monetary Policy Committee (MPC)_**
+**_decided to keep the overnight deposit rate and overnight lending rate unchanged at_**
+**_8.25 percent and 9.75 percent, respectively. The discount rate was also kept unchanged_**
+**_at 8.5 percent._**
+
+Headline CPI increased by 1.69 percent in September after accelerating by 2.85 percent
+in August, while the annual rate remained broadly unchanged at 10.97 percent in
+September. The intensification of supply shortages related to fruits & vegetables in
+addition to red meat and poultry have led to a surge in their prices to account for more
+than 60 percent of annual headline inflation between July and September. On the other
+hand, after jumping by 2.82 percent in August, core CPI inched up by 0.22 percent in
+September, while the annual rate declined to 7.59 percent from 8.16 percent in August.
+The acceleration in the prices of red meat and poultry have accounted for 60 percent of
+annual core inflation between July and September.
+
+Meanwhile, the annual real GDP growth for 2009/10 Q4 was revised downwards from
+5.9 percent to 5.4 percent. Looking ahead, unfolding global economic developments have
+created uncertainty about the nascent global recovery, which could potentially weigh on
+domestic investment and external demand.
+
+Against the above and despite the sharp increase in food prices, non-food inflation has
+remained largely subdued since early 2009, implying that underlying inflation pressures
+arising from the ongoing economic recovery remain contained. Nonetheless, the MPC is
+mindful of the risk of possible propagation of shocks related to food items to other prices.
+
+The MPC will continue to closely monitor all economic developments and will not
+hesitate to adjust the key CBE rates to ensure price stability over the medium-term.
+
+Dr. Rania Al-Mashat
+Division Chief, Monetary Policy Unit
+Telephone number: 27701315
+E-mail address: monetary.policy@cbe.org.eg
+
+
+-----
+

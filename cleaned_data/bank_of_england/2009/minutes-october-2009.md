@@ -1,0 +1,479 @@
+### Publication date: 21 October 2009
+
+## MINUTES OF THE 
+# MONETARY POLICY COMMITTEE MEETING
+## 7 AND 8 OCTOBER 2009
+
+##### These are the minutes of the Monetary Policy Committee meeting held on  7 and 8 October 2009.
+
+ They are also available on the Internet http://www.bankofengland.co.uk/publications/minutes/mpc/pdf/2009/mpc0910.pdf
+
+ The Bank of England Act 1998 gives the Bank of England operational responsibility  for setting interest rates to meet the Government’s inflation target. Operational  decisions are taken by the Bank’s Monetary Policy Committee. The Committee meets  on a regular monthly basis and minutes of its meetings are released on the  Wednesday of the second week after the meeting takes place. Accordingly, the  minutes of the Committee meeting to be held on 4 and 5 November will be published on  18 November 2009.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 7 AND 8 OCTOBER 2009
+
+1 Before turning to its immediate policy decision, the Committee discussed financial market
+
+developments; the international economy; money, credit, demand and output; and supply, costs and
+
+prices.
+
+**Financial markets**
+
+2 The price of many assets had increased again over the month. Sterling Libor-OIS spreads had
+
+fallen further. The three-month spread had nearly halved to a low of 16 basis points during the month,
+
+broadly in line with its pre-crisis levels. Although volumes in interbank markets themselves had
+
+remained subdued, the cost of borrowing for the large number of firms with existing loans referenced
+
+to Libor rates would have declined. There had also been continuing signs of improvements in
+
+longer-term funding markets for banks, with the first issuance of a sterling-denominated residential
+
+mortgage-backed security to private markets since the first half of 2008 and further euro-denominated
+
+covered bond issuance by UK banks.
+
+3 Equity prices in the United Kingdom, euro area and United States had risen since the September
+
+MPC meeting. Equity prices had risen by around 50% since their March lows, but still remained at
+
+least 25% below their pre-crisis highs. This turnaround was likely to have reflected a combination of
+
+lower default-free rates, higher earnings forecasts and a reduction in the equity risk premium.
+
+According to estimates derived from a dividend discount model, the risk premium for UK equities,
+
+which had been extremely elevated in March, had returned to around its average of the past decade.
+
+Corporate bond yields and spreads had also fallen further, and yields on investment-grade bonds had
+
+fallen below their average of the past decade.
+
+4 Short-term sterling interest rate expectations had been volatile over the month. Expectations of
+
+the near-term path of interest rates had moved down markedly over recent months: short-term risk free
+
+rates expected in October 2010 were almost a whole percentage point lower than at the time of the
+
+
+-----
+
+2
+
+August Inflation Report. Government bond yields had fallen in the United Kingdom and overseas over
+
+the month. Implied volatility in sterling interest rates remained elevated across the curve compared
+
+with the average of the past five years.
+
+5 Sterling had fallen by nearly 5% over the month, and was around 6% below the starting level
+
+assumption for the August Inflation Report forecast. The decline in sterling had been roughly equal
+
+across currencies. Sterling interest rates had declined relative to overseas rates; that could explain
+
+some of the depreciation.
+
+**The international economy**
+
+6 The most recent data had been consistent with the trough in activity in advanced economies
+
+having passed and with growth in Asia remaining buoyant. It was likely that the world economy
+
+would expand by more during the second half of 2009 than had previously been anticipated, although
+
+the level of world demand and trade remained weaker than a year ago.
+
+7 In the United States, third quarter growth was likely to have been boosted by the car scrappage
+
+scheme, but other components of demand also appeared to be strengthening. New housing starts had
+
+risen by nearly 15% in the three months to August compared with the preceding three months. The
+
+Non-Manufacturing Index and manufacturing Purchasing Managers Index (PMI) for September were
+
+both consistent with positive growth, although non-farm payrolls had fallen by more in September than
+
+many commentators had expected.
+
+8 Having contracted on the latest estimates by 0.2% in Q2, euro-area GDP was likely to have
+
+expanded a little in the third quarter, although growth was uneven across countries. The services
+
+sector business activity index for September had moved above 50, the threshold consistent with
+
+growth, and the manufacturing PMI had been just short of that level.
+
+9 The recovery in Asia continued, underpinned by large fiscal stimuli, and rapid credit expansion
+
+in China and India. GDP growth in China appeared to have broadly returned to pre-crisis rates.
+
+Korean GDP had grown by 2.6% during the second quarter, driven by a pickup in consumption and
+
+investment. There were also signs of stronger domestic demand in other medium-sized Asian
+
+
+-----
+
+3
+
+economies. These sources of growth were consistent with some rebalancing towards domestic demand
+
+growth.
+
+10 It was possible that positive spillovers from these developments would support a more general
+
+recovery in world demand just as negative spillovers had contributed to the sharpness and
+
+synchronicity of the slowdown during the final quarter of 2008. Nevertheless, some of the factors
+
+currently supporting activity were unlikely to be sustained, and the durability of the global recovery
+
+remained unclear. In the short term the expansionary effects of car scrappage schemes on spending in
+
+a number of countries would fade, and the boost to growth from a turnaround in the stock cycle would
+
+dissipate. Further out, prolonged tightness in credit supply as banks repaired their balance sheets
+
+might weigh on the growth of both demand and supply in the advanced economies. And even though
+
+rising domestic demand in Asia appeared to be supporting the recovery in the short term, there was a
+
+risk that global imbalances would re-emerge in the medium term.
+
+**Money, credit, demand and output**
+
+11 M4 growth, adjusted to exclude the money holdings of institutions that intermediate funds
+
+between banks, had been estimated to have grown by 3.9% on a three-month annualised basis in
+
+August, marginally less than in the previous month. Adjusted M4 growth was weak compared with its
+
+average of the past decade. Although the counterfactual was hard to identify, the strength of broad
+
+money growth relative to nominal GDP was consistent with there having been a boost to M4 growth
+
+from the asset purchase programme. The sectoral M4 data provided some evidence on the extent to
+
+which money, which had been created by the programme, had begun to flow through from institutional
+
+investors to the non-financial sector. The three-month annualised growth rate of non-financial
+
+companies’ money holdings had picked up in recent months and the growth of households’ M4 had
+
+also increased in August.
+
+12 The latest data were consistent with a stabilisation of output around the middle of year. There
+
+had been a further small upward revision to second quarter growth, reducing the estimated decline in
+
+output to 0.6%. And despite the decline in industrial production in August, available evidence,
+
+including from surveys, pointed to some growth in the second half of the year.
+
+
+-----
+
+4
+
+13 Private sector final domestic demand had declined more sharply than output during the second
+
+quarter, and it was possible that consumption and investment would decline further during Q3.
+
+Notwithstanding the possibility of a rebalancing of activity towards net trade, the sustainability of any
+
+recovery in output depended importantly on the medium-term prospects for consumption and
+
+investment.
+
+14 The level of consumption had already declined significantly. Prospects depended on the extent
+
+to which: consumption had adjusted to reductions in prospective income and higher taxes;
+
+stimulatory monetary policy was able to offset the drag from tight credit conditions; and, households
+
+desired to strengthen further their balance sheets in response to uncertain employment prospects and
+
+falls in financial wealth.
+
+15 House prices had risen in recent months according to both the Halifax and Nationwide indices.
+
+A recovery in house prices would reduce the decline in the value of homeowners’ assets which,
+
+combined with the pickup in consumer confidence, could imply a smaller increase in savings than the
+
+Committee had previously assumed. Housing market activity had picked up but remained subdued by
+
+historical standards, consistent with the view that a limited supply of houses for sale had been an
+
+important factor supporting recent house price rises.
+
+16 Business investment had fallen by nearly 20% in the first half of 2009, a large fall by comparison
+
+with previous recessions. It was likely that some firms had reduced their desired capital stock in
+
+response to the downturn, and this could have been an important factor behind the weakness in
+
+investment. But it was also possible that a number of investment projects had been postponed during
+
+the first half of the year in response to heightened economic uncertainty and the sharp squeeze on the
+
+availability of credit. Some stabilisation in investment was possible given that confidence had
+
+strengthened and that larger, higher-rated companies had been able to access funding from capital
+
+markets.
+
+17 The prospects for investment also depended on the availability of bank credit. Sterling lending
+
+to non-financial firms by banks remained weak. In part, this was likely to have reflected the decision
+
+by some companies to raise funds from capital markets to repay bank debt. There had been a small
+
+increase in sterling bank lending in August, but this had followed several months of repayments.
+
+There were some signs, including from the Bank’s most recent credit conditions survey that the
+
+
+-----
+
+5
+
+availability of bank credit had begun to improve, and the terms on which it could be accessed were
+
+stabilising. Over a longer horizon, the availability of bank credit would depend on the ability of banks
+
+to complete the process of their own balance sheet adjustment. UK banks had raised nearly £50 billon
+
+of core tier 1 capital since the start of 2009, but it was likely that significantly more would be needed
+
+to meet future capital requirements and to guard against future losses. Set against that were some signs
+
+that loan losses were beginning to stabilise earlier than might have been anticipated: mortgage arrears
+
+had risen only slightly in the second quarter and there were tentative signs that commercial property
+
+values, collateral for a significant proportion of loans, had begun to stabilise.
+
+**Supply, costs and prices**
+
+18 CPI inflation had been 1.6% in August. In line with the pre-release arrangements, an advance
+
+estimate for CPI inflation of 1.1% in September had been provided to the Governor ahead of
+
+publication. Although only limited detail on the breakdown had been provided, it appeared that the
+
+0.5 percentage point fall in inflation could be wholly accounted for by utility price increases from the
+
+previous summer dropping out of the twelve-month measure. The near-term inflation profile was still
+
+likely to be volatile, with base effects from movements in petrol prices a year earlier and the
+
+prospective reversal of the cut in VAT set to boost inflation over coming months.
+
+19 In contrast to the volatility in observed current inflation, most available measures of inflation
+
+expectations had been stable over recent months, and generally at values which had previously been
+
+broadly consistent with future inflation being on target.
+
+20 Whole economy earnings growth remained weak. According to the Average Earnings Index, in
+
+the three months to July regular pay had been 2.2% higher than the same period a year earlier.
+
+Settlements remained subdued too. A significant proportion of recent private sector pay settlements
+
+had been pay freezes or cuts.
+
+21 According to the LFS measure, the number of people employed had declined by 217,000 in the
+
+three months to July, a smaller decline than in the previous non-overlapping three-month period.
+
+Employment had fallen by materially less relative to output than in previous post-war recessions. A
+
+similar pattern was evident in the euro area, though not in the United States.
+
+
+-----
+
+6
+
+22 There were a number of candidate explanations for the relatively muted fall in employment in
+
+the United Kingdom. One explanation was that company failures, which in the past had accounted for
+
+a significant proportion of redundancies, now appeared to be running at a lower rate relative to output
+
+than in previous recessions. The relatively muted rate of corporate liquidations could in turn be the
+
+result of the lower level of interest payments on this occasion, HMRC’s Business Payment Support
+
+Service which facilitated the deferral of some tax payments, and an increased willingness by banks to
+
+show forbearance to companies struggling to service their loans. Another explanation was that real
+
+wages had been more flexible than in the past. This was consistent with the observation that the
+
+private labour share had behaved similarly in the current and early 1990s recessions, despite a
+
+significantly sharper fall in hourly productivity. Employers might also have chosen to retain
+
+employees on payroll, given the costs of replacing skilled or experienced staff, in the belief that the
+
+sharpness of the downturn in output would be temporary.
+
+**The immediate policy decision**
+
+23 The Committee reviewed the impact of the asset purchase programme on financial markets. The
+
+spread between gilt yields and OIS rates had fallen substantially since March. Over that period, there
+
+had been significant reductions in sterling Libor rates and sharp rises in a number of sterling asset
+
+prices, including those of equities and corporate bonds, and liquidity conditions in many financial
+
+markets were considerably improved compared with six months earlier. It was probable that the asset
+
+purchase programme had contributed to these developments, although it was unlikely to have been the
+
+only factor. Earlier cuts in Bank Rate, official sector intervention to stabilise the banking system,
+
+improvements in the global economy and the recovery in confidence since the panic of autumn 2008
+
+had also probably played a part. The rate of adjusted M4 growth relative to nominal GDP was
+
+consistent too with money growth having been boosted by the asset purchase programme, although
+
+monetary data were volatile and not straightforward to interpret. Overall, the evidence suggested that
+
+the effect on asset prices had been of the type that the Committee had anticipated when it launched the
+
+programme and had been substantial.
+
+24 Developments over the month had generally been positive. Internationally, data were consistent
+
+with a continuing recovery in global activity. Domestically, the combination of the latest official data
+
+and the most recent surveys suggested that the level of output in the third quarter was likely be close to
+
+the central projection in the August Inflation Report. Asset price developments, including the rises in
+
+
+-----
+
+7
+
+equity prices and declines in short-term interest rates and the sterling exchange rate would provide a
+
+boost to output further out.
+
+25 Near-term inflation was likely to remain volatile. Pre-release data indicated that CPI inflation
+
+had fallen significantly in September. But it was likely to pick up in coming months as base effects
+
+from movements in petrol prices a year earlier fed through and in response to the prospective reversal
+
+of the cut in VAT. Nevertheless, the medium-term outlook for inflation, which was critical for setting
+
+policy, would be largely unaffected by these short-term developments so long as inflation expectations
+
+remained anchored. Surveys and market-based indicators gave little indication to the contrary.
+
+26 Key factors influencing the medium-term outlook included the prospects for balance sheet
+
+adjustment by banks, the public and non-bank private sectors and, internationally, the prospects for a
+
+rebalancing of global demand. Although recent developments, including the news from Asian
+
+economies, provided grounds for greater optimism about the prospects for a global recovery, its
+
+durability was questionable if surplus countries were unable to sustain the substantial growth of
+
+domestic demand that would be necessary to offset subdued US consumer spending.
+
+27 The most recent developments in relation to UK banks’ funding and capital needs had been
+
+positive, but they were of limited significance relative to the scale of adjustment to balance sheets that
+
+was needed. Moreover, notwithstanding recent trends, the possibility of future adverse news in
+
+relation to losses could not be discounted.
+
+28 Corporate credit remained hard to access, although there was some evidence that credit
+
+conditions had recently eased. That could provide a boost to investment if projects that had been put
+
+on hold earlier in the year were started. But any pickup would be dampened to the extent there was a
+
+significant excess capital stock.
+
+29 In relation to consumption, the key medium-term uncertainty remained by how much desired
+
+savings would increase. At face value, the resilience of employment relative to output so far in this
+
+recession was encouraging for the prospects for household spending. A smaller reduction in
+
+employment during the downturn could attenuate any increase in precautionary saving, thus supporting
+
+demand. But it was possible that the factors currently supporting employment – relative to output –
+
+would prove to be temporary, and that employment would eventually decrease in line with the lower
+
+
+-----
+
+8
+
+level of activity. Similarly, the impact of the recent rises in asset prices would be to support spending,
+
+but only if sustained.
+
+30 There were differences of view among members of the Committee on the balance of risks to the
+
+medium-term outlook for inflation, and how it had shifted in recent months. All Committee members,
+
+however, agreed that recent developments were not sufficiently compelling to justify revising the
+
+target level of asset purchases that had been agreed at the August meeting or to change the level of
+
+Bank Rate at this meeting. The forecast round ahead of the November Inflation Report would provide
+
+an opportunity to assess more fully how the medium-term outlook for activity and inflation had
+
+evolved since August.
+
+31 The Governor invited the Committee to vote on the proposition that:
+
+Bank Rate should be maintained at 0.5%;
+
+The Bank of England should continue with the programme, as announced following its
+
+6 August meeting, of asset purchases totalling £175 billon financed by the creation of central
+
+bank reserves.
+
+The Committee voted unanimously in favour of the proposition.
+
+32 The following members of the Committee were present:
+
+Mervyn King, Governor
+Charles Bean, Deputy Governor responsible for monetary policy
+Paul Tucker, Deputy Governor responsible for financial stability
+Kate Barker
+Spencer Dale
+Paul Fisher
+David Miles
+Adam Posen
+Andrew Sentance
+
+Dave Ramsden was present as the Treasury representative.
+
+
+-----
+

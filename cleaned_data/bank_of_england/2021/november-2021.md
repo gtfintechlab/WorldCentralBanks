@@ -1,0 +1,1300 @@
+# Monetary Policy Summary and minutes of the Monetary
+
+ Policy Committee meeting ending on 2 November 2021
+
+## Publication date: 4 November 2021
+
+These are the minutes of the Monetary Policy Committee meeting ending on 2 November 2021.
+
+[They are available at https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2021/november-](https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2021/november-2021)
+
+2021.
+
+The Bank of England Act 1998 gives the Bank of England operational responsibility for setting monetary policy
+
+to meet the Government’s inflation target. Operational decisions are taken by the Bank’s Monetary Policy
+
+Committee. The minutes of the Committee meeting ending on 15 December will be published on 16 December
+
+2021.
+
+
+-----
+
+### Monetary Policy Summary, November 2021
+
+The Bank of England’s Monetary Policy Committee (MPC) sets monetary policy to meet the 2% inflation target,
+
+and in a way that helps to sustain growth and employment. At its meeting ending on 2 November 2021, the
+
+Committee judged that the existing stance of monetary policy remained appropriate. The MPC voted by a
+
+majority of 7-2 to maintain Bank Rate at 0.1%. The Committee voted unanimously for the Bank of England to
+
+maintain the stock of sterling non-financial investment-grade corporate bond purchases, financed by the
+
+issuance of central bank reserves, at £20 billion. The Committee voted by a majority of 6-3 for the Bank of
+
+England to continue with its existing programme of UK government bond purchases, financed by the issuance
+
+of central bank reserves, maintaining the target for the stock of these government bond purchases at £875
+
+billion and so the total target stock of asset purchases at £895 billion.
+
+The Committee’s updated central projections for activity and inflation are set out in the accompanying
+
+November Monetary Policy Report. The projections are conditioned on asset and energy prices averaged over
+
+the 15 days to 27 October. This gives a market-implied path for Bank Rate that rises to around 1% by the end
+
+of 2022. Wholesale energy prices are assumed to be based on their respective futures curves for the first six
+
+months of the projections and remain flat beyond that. There are material risks around this assumption.
+
+Both global and UK GDP increased in 2021 Q3, although at a slower pace than projected in the August Report.
+
+Growth is somewhat restrained by disruption in supply chains. Alongside the rapid pace at which global
+
+demand for goods has risen, this has led to supply bottlenecks in certain sectors. There have also been some
+
+signs of weaker UK consumption demand. While bottlenecks will continue to restrain growth somewhat in the
+
+near term, global and UK GDP are nonetheless expected to recover further from the effects of Covid-19 (Covid).
+
+UK GDP is projected to get back to its 2019 Q4 level in 2022 Q1.
+
+Over the second half of the forecast period, and conditioned on the market-implied path for Bank Rate, UK GDP
+
+growth is expected to be relatively subdued. The pace of growth slows as potential supply growth eases back
+
+towards pre-Covid rates, and as higher energy prices and the fading of monetary and fiscal policy support
+
+temper demand growth. At the Autumn Budget and Spending Review 2021, the Government announced a
+
+higher path for government consumption, particularly over the next couple of years. By the end of the forecast
+
+period, a margin of spare capacity is expected to emerge.
+
+The Labour Force Survey unemployment rate fell to 4.5% in the three months to August, while Her Majesty’s
+
+Revenue and Customs payroll data have continued to rise strongly. Just over a million jobs are likely to have
+
+been furloughed immediately before the Coronavirus Job Retention Scheme closed at end-September,
+
+significantly more than expected in the August Report. Nonetheless, there have continued to be few signs of
+
+increases in redundancies and the stock of vacancies has increased further, as have indicators of recruitment
+
+difficulties. Taken together, while there is considerable uncertainty, initial indicators suggest that unemployment
+
+will rise slightly in 2021 Q4. Bank staff’s estimate of underlying pay growth has remained above pre-pandemic
+
+rates, although pay growth is expected to fall back from its current rate in the November Report central
+
+projections.
+
+
+-----
+
+Twelve-month CPI inflation fell slightly from 3.2% in August to 3.1% in September. Bank staff expect inflation to
+
+rise to just under 4% in October, accounted for predominantly by the impact on utility bills of past strength in
+
+wholesale gas prices. CPI inflation is then expected to rise to 4½% in November and remain around that level
+
+through the winter, accounted for by further increases in core goods and food price inflation. Wholesale gas
+
+prices have risen sharply since August. CPI inflation is now expected to peak at around 5% in April 2022,
+
+materially higher than expected in the August Report.
+
+The upward pressure on CPI inflation is expected to dissipate over time, as supply disruption eases, global
+
+demand rebalances, and energy prices stop rising. As a result, CPI inflation is projected to fall back materially
+
+from the second half of next year. Conditioned on the market-implied path for Bank Rate and the MPC’s current
+
+forecasting convention for future energy prices, CPI inflation is projected to be a little above the 2% target in two
+
+years’ time and just below the target at the end of the forecast period. In an alternative scenario that is
+
+conditioned on energy prices following forward curves throughout the forecast period and as set out in the
+
+November Report, CPI inflation falls back towards the target more rapidly than in the MPC’s central projection,
+
+and is materially lower over the second half of the forecast period.
+
+The MPC’s remit is clear that the inflation target applies at all times, reflecting the primacy of price stability in the
+
+UK monetary policy framework. The framework also recognises that there will be occasions when inflation will
+
+depart from the target as a result of shocks and disturbances. In the recent unprecedented circumstances, the
+
+economy has been subject to very large shocks. Given the lag between changes in monetary policy and their
+
+effects on inflation, the Committee, in judging the appropriate policy stance, will as always focus on the medium
+term prospects for inflation, including medium-term inflation expectations, rather than factors that are likely to be
+
+transient.
+
+At its recent meetings, the Committee has judged that some modest tightening of monetary policy over the
+
+forecast period was likely to be necessary to meet the 2% inflation target sustainably in the medium term. The
+
+latest developments, set alongside the Committee’s updated projections, reinforce this view. Nevertheless,
+
+near-term uncertainties remain, especially around the outlook for the labour market, and the extent to which
+
+domestic cost and price pressures persist into the medium term.
+
+At this meeting, the Committee concluded that the existing stance of monetary policy remained appropriate.
+
+The Committee judges that, provided the incoming data, particularly on the labour market, are broadly in line
+
+with the central projections in the November Monetary Policy Report, it will be necessary over coming months to
+
+increase Bank Rate in order to return CPI inflation sustainably to the 2% target. In observing the market-implied
+
+path for Bank Rate, the Committee notes that, in the November Monetary Policy _Report central projections, CPI_
+
+inflation is projected to be below the 2% target at the end of the forecast period, and would probably fall a little
+
+further beyond that point, given the margin of spare capacity that is expected to emerge.
+
+
+-----
+
+Looking beyond the coming months, the Committee will, as always, continue to focus on the medium-term
+
+prospects for inflation. The Committee judges that there are two-sided risks around developments in the
+
+economy in the medium term, and will reach its assessment on the balance of these risks in light of the relevant
+
+data as they emerge.
+
+
+-----
+
+### Minutes of the Monetary Policy Committee meeting ending on 2 November 2021
+
+1 Before turning to its immediate policy decision, and against the backdrop of its latest economic
+
+projections, the Committee discussed: the international economy; monetary and financial conditions; demand
+
+and output; and supply, costs and prices.
+
+**The international economy**
+
+2 UK-weighted global GDP was estimated to have risen by 1.2% in 2021 Q3, a little weaker than had been
+
+expected in the August Monetary Policy Report. This weaker growth had been accounted for by slower-than
+expected growth in the United States and China, partly offset by strength in the euro area. Global GDP was
+
+expected to expand at a slower pace in Q4 than had been anticipated in the August Report, in part reflecting
+
+supply chain disruptions, which had continued to weigh on global activity. Bottlenecks, stemming from supply
+
+disruptions and the pattern of global demand, as well as rising energy prices, had continued to increase global
+
+cost pressures.
+
+3 Supply chain bottlenecks over recent months had reflected both strong demand for consumer goods in
+
+advanced economies, in particular in the United States, and further supply disruptions from localised lockdowns
+
+at some major Chinese ports and Covid-related closures of factories in other Asian economies. Estimates of
+
+supply constraints constructed by Bank staff, derived from a range of PMIs such as delivery times and stocks of
+
+finished goods, had remained elevated since the MPC’s previous meeting. There had been some signs that
+
+demand had begun to rotate away from goods and back towards services. That had been most apparent in the
+
+United States where durables consumption had moderated.
+
+4 According to the preliminary flash estimate, euro-area GDP had grown by 2.2% in 2021 Q3. This was
+
+stronger than had been expected in the August Report, and had left the level of GDP 0.5% below that in 2019
+
+Q4. The upside news had reflected, in part, a smaller-than-expected drag on activity from the spread of the
+
+Delta variant. Euro-area GDP growth was expected to be just under 1% in Q4. According to the flash estimate,
+
+the euro-area composite output PMI had decreased by 1.9 points in October, to 54.3, with both the services and
+
+manufacturing indices decreasing.
+
+5 According to the Advance estimate, US GDP had increased by 0.5% in 2021 Q3. This was weaker than
+
+expected at the time of the August Report, but had left the level of GDP around 1½% higher than in 2019 Q4.
+
+Within this, household spending had risen by 0.4%, with spending on goods falling but services consumption
+
+continuing to rise. More recent high-frequency spending data suggested that social spending, such as on
+
+restaurants and recreation, had continued to recover. In the labour market, non-farm payrolls had increased by
+
+194,000 in September, a much slower pace than had been expected by financial markets. The unemployment
+
+rate had nevertheless fallen to 4.8% in September, from 5.2% in August, and the level of job vacancies had
+
+remained high. US GDP growth was expected to be around 1% in Q4.
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 2 November 2021** 1
+
+
+-----
+
+6 In China, GDP had increased by 0.2% in 2021 Q3, lower than had been expected at the time of the
+
+August Report. This downside news had reflected the impact of local Covid outbreaks on consumption and
+
+services activity, power shortages and a rapid slowdown in housing activity. Further stresses in the property
+
+market more recently were likely to weigh on activity in the near term.
+
+7 Global inflationary pressures had remained strong since the MPC’s previous meeting. Wholesale gas
+
+prices had continued to rise in Europe and Asia, reflecting strong demand, although they had fallen back at the
+
+end of October. The Brent oil spot price had risen further and was now around $85 per barrel. Non-energy
+
+commodity prices had also increased. Shipping costs had remained elevated, particularly for routes connecting
+
+Asia with the United States and with Europe. Survey indicators of manufacturing input and output prices had
+
+continued to rise in October in a number of advanced economies. Global cost pressures were expected to
+
+dissipate over time as supply disruption eased, global demand rebalanced and energy prices stopped rising.
+
+8 Cost pressures had continued to pass through to consumer prices in the euro area and in the United
+
+States. Euro-area HICP inflation had increased to 4.1% in October, its highest rate since 2008, and there had
+
+also been an increase in core inflation, which had risen to 2.1%. In the United States, core PCE inflation had
+
+remained at 3.6% in September, and the headline measure had risen to 4.4%.
+
+**Monetary and financial conditions**
+
+9 There had been some sizable movements in UK and global financial markets since the Committee’s
+
+previous meeting. In part that had reflected the impact of supply chain bottlenecks and sharp rises in energy
+
+prices on market participants’ outlook for global inflation and growth, and perceptions of possible monetary
+
+policy responses.
+
+10 Advanced-economy longer-term government bond yields had risen by around 20 to 30 basis points since
+
+the MPC’s September meeting, in large part reflecting an increase in the inflation compensation component of
+
+nominal interest rates. Ten-year bond yields had now mostly reversed the declines seen over the summer and,
+
+in the United Kingdom, had exceeded the levels seen immediately prior to the pandemic.
+
+11 Since the Committee’s previous meeting, short-term market measures of inflation compensation had risen
+
+sharply across advanced economies, including in the United Kingdom. Market contacts had reported that these
+
+increases had largely reflected strength in CPI inflation data, developments in energy prices and supply chain
+
+bottlenecks. Medium-term measures of advanced-economy inflation compensation had also continued to rise
+
+for much of the period since the Committee’s last meeting. In both the United States and the euro area, these
+
+measures were now around their average levels over the past decade. In the United Kingdom, medium-term
+
+inflation compensation measures had remained above their post-2008 average levels.
+
+12 Interpreting UK medium-term inflation compensation measures was not straightforward. UK inflation
+
+markets were used for hedging large pension liabilities, which could cause shifts in inflation compensation over
+
+and above those driven by changes in inflation expectations and perceived inflation risks. Inferences from UK
+
+measures, which were based on RPI inflation, about market expectations for CPI inflation were further
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 2 November 2021** 2
+
+
+-----
+
+complicated by the uncertain future wedge between consumer price and RPI inflation. The interpretation of
+
+some medium-term measures, including the five-year inflation swap rate, five years forward, was also affected
+
+by uncertainty around the planned alignment of the RPI with CPIH in 2030. All else equal, this alignment would
+
+push down levels of inflation compensation beyond that point, relative to prices in the past. It was therefore
+
+useful to consider a range of inflation compensation measures, including those with reference maturities prior to
+
+2030, such as the three-year inflation swap rate, five years forward. Despite these difficulties in interpretation,
+
+models that attempted to extract medium-term market expectations for CPI inflation, and intelligence gathered
+
+from market contacts, suggested that higher inflation expectations and greater perceived risks to inflation might
+
+have in part accounted for the above-average levels of medium-term inflation compensation measures,
+
+alongside other factors. The Committee’s overall assessment of medium-term inflation expectations was set out
+
+in Box C in the November Monetary Policy _Report._
+
+13 At its 22 September meeting, the Federal Open Market Committee (FOMC) had left unchanged its target
+
+range for the federal funds rate. The pace of asset purchases had also been left unchanged, but the FOMC had
+
+noted that a moderation in the pace of asset purchases might soon be warranted. In their updated Summary of
+
+Economic Projections, FOMC participants had revised up their projections for the appropriate level of the federal
+
+funds rate, with the median now rising to 1% in 2023. At its 27 October meeting, the Bank of Canada had left its
+
+policy rate unchanged and had ceased its asset purchase programme, moving into a reinvestment phase during
+
+which purchases would be made solely to replace maturing bonds. At its meeting on 28 October, the ECB
+
+Governing Council had left its key policy interest rates unchanged and had made no significant changes to its
+
+asset purchase programmes. On 2 November, the Reserve Bank of Australia had maintained the target for its
+
+cash rate, had continued its asset purchase programme and had discontinued its target for the yield on the April
+
+2024 bond. Both the Norges Bank and the Reserve Bank of New Zealand had increased policy rates by 25
+
+basis points at their most recent meetings.
+
+14 Across advanced economies, the paths for market-implied policy rates had risen since the Committee’s
+
+previous meeting. At the three-year horizon, the market-implied policy rate had risen by around 30 to 40 basis
+
+points in the United States, the euro area and the United Kingdom. Global interest rate markets had been
+
+volatile most recently, in part reflecting diminished market liquidity.
+
+15 In the United Kingdom, market-implied expectations for the path of Bank Rate over the year ahead had
+
+increased sharply since the MPC’s September meeting, which appeared to reflect market participants’
+
+perceptions of a further rise in inflationary pressures and recent MPC communications about the policy outlook.
+
+Most market contacts were expecting the Committee to raise Bank Rate to 0.25% by the end of the year, with
+
+expectations for the exact timing finely balanced between the November and December MPC meetings. The
+
+November Report was conditioned on a market-implied path for Bank Rate, based on the 15-working day
+
+average to 27 October, that rose to around 1% by the end of 2022. In the immediate run-up to the MPC’s
+
+November meeting, the market-implied path for Bank Rate had reached around 1.3% by the end of next year.
+
+Market contacts had noted that diminished market liquidity meant that it had become more difficult to infer a
+
+central path for Bank Rate expectations.
+
+16 The sterling effective exchange rate index had risen by around 1% since the previous MPC meeting.
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 2 November 2021** 3
+
+
+-----
+
+17 In contrast to movements in advanced-economy government bond markets, there had been relatively little
+
+news in corporate financing conditions. Advanced-economy equity prices had risen since the Committee’s
+
+previous meeting, in part supported by strong earnings, and corporate bond spreads had remained at
+
+historically low levels. In the United Kingdom, bank credit conditions for corporates had remained broadly
+
+stable.
+
+18 Lending rates on mortgages with loan-to-value (LTV) ratios higher than 75% had continued to fall since
+
+the September meeting, despite the increases in risk-free rates. The associated relatively sharp narrowing in
+
+mortgage spreads was in part likely to reflect the typical lagged response of mortgage rates to movements in
+
+risk-free rates, and so, all else equal, this effect would be expected to reverse to some extent. Perhaps
+
+consistent with that, there had been a rise in lending rates on some mortgage products with LTV ratios at or
+
+below 75% recently. The latest Credit Conditions Survey had suggested that unsecured credit conditions for
+
+households had continued to loosen somewhat.
+
+**Demand and output**
+
+19 UK quarterly GDP growth in 2021 Q2 had been revised up to 5.5% in the Quarterly National Accounts
+
+(QNA). Estimates of GDP had also been revised higher in preceding quarters, such that the cumulative shortfall
+
+in activity since 2019 Q4 was estimated to have been 3.3%, contrasting with an initial estimate of 4.4% and the
+
+4.3% that had been implied in the August Monetary Policy Report projection.
+
+20 The QNA had been aligned with Blue Book 2021, which had included significant methodological changes
+
+such as the introduction of double deflation and improvements to deflators for items such as
+
+telecommunications and clothing. Reflecting these changes, the contributions of manufacturing and telecoms
+
+services to GDP growth had been revised up significantly over recent decades, with largely offsetting revisions
+
+to contributions from other sectors such as financial services. Overall, GDP growth was now estimated to have
+
+been slightly lower on average in the years leading up to the financial crisis, and slightly higher on average in
+
+the subsequent years, most notably between 2016 and 2019.
+
+21 UK GDP was estimated to have risen by 0.4% in August, following a 0.1% fall in July, with activity slightly
+
+weaker than expected at the time of the August Report despite the upward revisions to preceding quarters.
+
+Much of the upside news in earlier months had been in government services output, and the health sector in
+
+particular, where activity had subsequently fallen back in July and August. Manufacturing and construction
+
+activity had also weakened since the spring, with output in these sectors around 2% below pre-Covid levels in
+
+August. Output in business, and transport and work-related, services had continued to recover, albeit at a more
+
+modest pace than had been anticipated. Activity in other consumer-facing services had recovered strongly and
+
+by slightly more than had been expected, however. Output in some sub-sectors, such as accommodation and
+
+food services, had been at or around pre-Covid levels, although activity in other sub-sectors, such as arts and
+
+recreation, had continued to lag further behind pre-pandemic levels.
+
+22 Much of the downside news since the August Report had appeared to reflect the impact of supply chain
+
+disruption, particularly for businesses in the manufacturing and construction sectors. Supplier delivery times in
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 2 November 2021** 4
+
+
+-----
+
+those particular sectors had continued to lengthen according to the latest PMI surveys, which had also shown
+
+stocks of manufactured goods being at historically low levels and backlogs of work at around historical highs.
+
+Rates of outstanding business had also continued to rise for services companies, albeit to a lesser degree.
+
+23 The Bank’s Agents had reported that shortages of materials and labour had weighed on output across a
+
+wide range of businesses, and that some businesses expected supply issues for certain products to persist until
+
+at least late-2022. According to the latest ONS Business Insights and Conditions Survey, the production or
+
+supply chains of around 11% of trading businesses had been affected by the recent sharp increases in gas
+
+prices. Consistent with supply disruption continuing, almost two thirds of respondents to the latest CBI Industrial
+
+Trends survey had reported that a lack of materials or components were expected to be a factor limiting
+
+production over the next three months, and 40% of respondents had cited shortages of skilled labour as a
+
+potential limiting factor, with both series at their highest levels since the mid-1970s.
+
+24 High-frequency indicators suggested that consumer spending had recovered further since the summer,
+
+but at a more modest pace than had been anticipated at the time of the August Report. A pick-up had been
+
+most discernible in those components where shortfalls had originally been the largest, including public transport
+
+journeys, flights and cinema visits. Retail sales volumes had fallen in September for the fifth month in a row and
+
+by around 5% from their peak in April, although sales volumes had remained around 4% above their 2019 Q4
+
+average. The declines had in part reflected a substitution away from spending on goods back towards services,
+
+which Bank staff anticipated could persist for a period as spending continued to converge towards its pre-Covid
+
+pattern. Goods spending might have also been dampened by product shortages, with some Agents’ contacts
+
+reporting lost sales for products such as electrical goods and furniture, and a continued shortage of new cars for
+
+sale in particular. The perception of possible disruption to supply had prompted a burst of spending on motor
+
+fuels in late September, and subsequent shortages until additional supplies had been delivered, with spending
+
+on fuel being lower than usual thereafter.
+
+25 Indicators of confidence among UK households had fallen in recent weeks, and by more than had been
+
+seen in other economies. The number of Covid cases had remained relatively high in the United Kingdom, but,
+
+unlike other swings in confidence over the recent past, the latest changes had appeared to reflect non-health
+
+factors. The ONS Opinions and Lifestyle Survey had shown a further decline in the share of adults expressing
+
+worries around Covid in the first half of October, although around two fifths of respondents had remained
+
+concerned. The softening in consumer confidence might have instead reflected idiosyncratic factors, such as
+
+the recent fuel shortages, or recent or prospective changes in individuals’ real incomes. In addition to increases
+
+in inflation, largely associated with higher energy costs, some households had been affected by the withdrawal
+
+of fiscal measures to support the economy during the Covid crisis, such as the removal of the temporary £20
+
+per week uplift to Universal Credit at the end of September. The September Bank of England/NMG household
+
+survey had continued to show that households in aggregate were expecting to increase their spending over the
+
+next three months, but that those on relatively low incomes were still expecting to reduce their spending. There
+
+had also been declines in the share of households anticipating a return to pre-Covid levels of spending by the
+
+end of this year or by the middle of 2022.
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 2 November 2021** 5
+
+
+-----
+
+26 Businesses’ investment intentions over the year ahead had remained robust, although to a lesser degree
+
+in the near term. Business investment had risen by 4.5% in 2021 Q2, but was still around 13% below its 2019
+
+Q4 level. The October Decision Maker Panel had continued to report that the drag from Covid on business
+
+investment was lessening over time, but more gradually than had been anticipated in July, with investment in
+
+2021 Q4 expected to be around 7% lower than it would otherwise have been. Some contacts of the Bank’s
+
+Agents had reported investment having been held back by shortages of equipment and skilled labour.
+
+Nevertheless, the Agents’ special survey of investment intentions had indicated a strong rebound in spending
+
+over the next twelve months, particularly among consumer services firms. Businesses had generally looked to
+
+reinstate investment plans that had been put on hold, or had been considering other new projects that were
+
+perceived as being lower risk, as part of a desire to increase efficiency and productivity, and to improve digital
+
+capabilities.
+
+27 Overall, GDP was expected to grow by around 1.5% in 2021 Q3 and by 1% in Q4 in the November Report
+
+projections, around half of the rates envisaged in the August Report. As a result, GDP was expected to remain
+
+below its pre-Covid level until 2022 Q1. While this downward revision had mainly reflected supply chain
+
+disruption, a more modest recovery in consumer demand in particular had also been a contributing factor.
+
+28 At the Autumn Budget and Spending Review 2021, the Government had announced significant increases
+
+in public services spending alongside other tax and welfare changes. These increases in spending were in
+
+addition to the higher health and social care spending announced in September alongside the new Health and
+
+Social Care Levy. Bank staff had estimated that the fiscal policies announced since the August Report would
+
+boost GDP by just over ½% at their peak in fiscal year 2023-24.
+
+**Supply, costs and prices**
+
+29 The Labour Force Survey (LFS) unemployment rate had fallen to 4.5% in the three months to August, 0.3
+
+percentage points lower than had been expected at the time of the August Monetary Policy Report. The jobless
+
+rate had remained above its 2019 Q4 level, however, with that increase almost entirely accounted for by those
+
+that had been unemployed for six months or longer. LFS employment had risen by 0.7% in the three months to
+
+August, to 1.6% below its 2019 Q4 level, with that shortfall more than accounted for by lower self employment.
+
+Her Majesty’s Revenue and Customs (HMRC) employee payrolls had risen by 210,000 in the single month of
+
+September, although these initial estimates had tended to be revised down somewhat. The increase in the total
+
+number of payroll employees compared to its pre-pandemic level had been more than accounted for by a
+
+sustained increase in workers in the health, education and public administration sector over the past year. In
+
+contrast, the number of employees in consumer-facing services had remained some way below pre-Covid
+
+levels.
+
+30 The LFS inactivity rate had fallen slightly in the three months to August, accounted for largely by a fall in
+
+inactive students and discouraged workers, but was still around 1 percentage point higher than immediately
+
+prior to the pandemic. Average hours worked had continued to increase in the three months to August, as
+
+those on furlough had increasingly returned to work, and were now only a little below their 2019 Q4 level.
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 2 November 2021** 6
+
+
+-----
+
+31 According to HMRC administrative data, around 1.4 million jobs, just over 5½% of private sector jobs, had
+
+been furloughed on the Coronavirus Job Retention Scheme (CJRS) in August, compared to around 1.7 million
+
+jobs furloughed in July. This had been in line with estimates derived from the ONS’s Business Insights and
+
+Conditions Survey (BICS), but was more than double the assumption incorporated in the August Report. Fully
+
+furloughed jobs had accounted for 55% of the total number of jobs furloughed in August. Smaller firms with less
+
+than 10 employees had accounted for around half of furloughed jobs. The latest BICS data suggested that the
+
+share of private sector jobs furloughed had fallen to 4½%, or around 1.1 million jobs, in the final ten days of the
+
+CJRS at the end of September.
+
+32 There was so far little evidence that the end of the CJRS had led to a significant increase in
+
+unemployment, although there remained uncertainty around the outlook. Indicators of redundancies had
+
+remained subdued, including the latest BICS data on planned redundancies by small businesses over the next
+
+three months. The Bank’s Agents had not picked up reports of widespread layoffs, and some larger companies
+
+in sectors where demand was still weak had reported that they were likely to continue to retain staff in
+
+anticipation of a recovery.
+
+33 Indicators of employment demand and labour market tightness had remained elevated. The stock of job
+
+vacancies recorded by the ONS had reached another record high of 1.1 million in the three months to
+
+September, and the strength had been relatively broad-based across sectors and by firm size. The ratio of
+
+vacancies to unemployment had also reached its highest level since a consistent series had been available in
+
+2001. Higher frequency indicators of the number of online vacancies had risen further in October. The REC
+
+staff availability indices had remained at historically very low levels. Companies across a wide range of sectors
+
+had reported an increase in hiring intentions to the Bank’s Agents. At the same time, staff turnover had picked
+
+up and recruitment difficulties had become more broad based, with companies reporting acute shortages in a
+
+range of occupations. The Agents’ score for companies’ staff recruitment difficulties was at its highest level
+
+since the series had begun in 1997.
+
+34 Private-sector regular Average Weekly Earnings (AWE) had risen by 6.8% in the three months to August
+
+on a year earlier, broadly in line with expectations at the time of the August Report. Adjusted for the mechanical
+
+effects of the CJRS and changes in composition, Bank staff estimated that private sector regular pay growth
+
+had risen to around 4½%, above pre-pandemic rates of around 3½%. The REC permanent staff salaries index,
+
+which measured the monthly pay growth of new permanent hires, had increased to another record high in
+
+September, with respondents to the survey noting greater competition for workers and that some job candidates
+
+had been able to successfully negotiate higher starting pay.
+
+35 Median whole-economy employment-weighted annual basic pay growth in the Bank’s pay settlements
+
+database had remained at 3% over recent months, slightly higher than in 2020 and compared with growth of 2%
+
+in 2019. That was broadly consistent with pay settlements reported to the Bank’s Agents, which had continued
+
+to increase as the labour market had tightened. Within the aggregate reports, there had been a rising number
+
+of targeted pay awards in excess of 5%, to compensate workers for pay freezes during the pandemic or to
+
+retain staff with skills in particularly high demand. Recent trends in settlements were difficult to determine with
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 2 November 2021** 7
+
+
+-----
+
+precision, given the seasonality of pay negotiations and the relatively low numbers of settlements included in
+
+early estimates.
+
+36 The Government had announced at the Autumn Budget and Spending Review 2021 that the National
+
+Living Wage for those aged over 23 would rise by 6.6% from April 2022, with large rises in the National
+
+Minimum Wage for younger workers as well. The temporary pause in public sector pay progression introduced
+
+in November 2020 had also been lifted, with pay awards to be determined after independent pay review bodies
+
+made their recommendations ahead of next April.
+
+37 Twelve-month CPI inflation had fallen slightly, from 3.2% in August to 3.1% in September. Core inflation,
+
+excluding food, beverages, tobacco and energy, had also declined, from 3.1% to 2.9%. Both of these outturns
+
+had been broadly in line with expectations at the time of the August Report. Within the components, core goods
+
+inflation had remained at an eleven-year high of 3.3%. Services inflation had fallen to 2.6%, largely reflecting
+
+the unwind of the boost to inflation in August from last year’s Eat Out to Help Out scheme.
+
+38 Bank staff expected CPI inflation to rise to just under 4% in October, accounted for predominantly by the
+
+impact on utility price inflation of previously announced increases in Ofgem’s standard variable tariff caps on
+
+gas and electricity prices. CPI inflation was expected to rise to 4½% in November and remain around that level
+
+through the winter, accounted for by further increases in core goods and food price inflation.
+
+39 Most survey indicators of costs and prices were at historically elevated levels. Food input costs had risen
+
+materially, while core manufacturing producer output price inflation had reached its highest level since 2008 in
+
+September. Services producer price inflation had increased to 3.6% in 2021 Q3, from 2.0% in Q2, also the
+
+highest rate since 2008. Some of that strength had been due to components related to freight and support
+
+services, and could partly reflect recent congestion at some ports. The flash composite input and output price
+
+PMIs had risen to record highs in October, with contacts attributing those movements to supply shortages, rising
+
+fuel, transport and energy bills, and stronger wage pressures. The Bank’s Agents had also reported that
+
+increased costs were being passed through to output and retail prices to a greater extent than previously.
+
+40 At the Autumn Budget and Spending Review 2021, the government had announced a number of changes
+
+to excise duties, including a major reform of the alcohol duty regime and a freezing of duties for one year from
+
+February 2022, and a freezing of fuel duties for one year from April 2022. Taken together, these
+
+announcements represented around 0.1 percentage points of downside news to Bank staff’s CPI inflation
+
+forecast.
+
+41 Wholesale gas prices had continued to rise sharply since the September MPC meeting, although they had
+
+fallen back at the very end of October. The rises in gas and electricity futures prices suggested that Ofgem’s
+
+retail price caps would increase materially further from April 2022. Taking account of this, CPI inflation was
+
+expected to pick up to close to 5% in 2022 Q2, around 1 percentage point higher than had been expected in the
+
+August Report. Ofgem had announced recently that it would consult on its price cap methodology ahead of
+
+determining the energy price caps in April.
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 2 November 2021** 8
+
+
+-----
+
+42 Since the MPC’s previous meeting, the Citi/YouGov measure of household inflation expectations for the
+
+year ahead had risen from 4.1% in September to 4.4% in October, its highest level since 2008. The five-to-ten
+
+year ahead measure had fallen slightly to 3.7%, after rising sharply in September. In common with other
+
+business survey indicators of companies’ own pricing intentions, the Decision Maker Panel series on expected
+
+price growth over the next twelve months was at elevated levels, and had risen sharply in October. Responses
+
+to questions in the CBI Distributive Trades survey on the expected change in the general level of prices in the
+
+markets in which firms compete, over the next year and two years, were broadly in line with past averages,
+
+however. Professional forecasters expected CPI inflation to be close to target in the medium term.
+
+**The immediate policy decision**
+
+43 The MPC sets monetary policy to meet the 2% inflation target, and in a way that helps to sustain growth
+
+and employment.
+
+44 The Committee reviewed recent developments against the backdrop of its latest economic projections as
+
+set out in the accompanying November Monetary Policy Report. The projections were conditioned on asset and
+
+energy prices averaged over the 15 working days to 27 October. This gave a market-implied path for Bank
+
+Rate that rose to around 1% by the end of 2022. Wholesale energy prices were assumed to be based on their
+
+respective futures curves for the first six months of the projections and remain flat beyond that. There were
+
+material risks around this assumption.
+
+45 UK-weighted global GDP was estimated to have risen by 1.2% in 2021 Q3, a little weaker than had been
+
+expected in the August Report. This had been accounted for by slower-than-expected growth in the United
+
+States and China, partly offset by strength in the euro area. Growth was somewhat restrained by disruption in
+
+supply chains. Alongside the rapid pace at which global demand for goods had risen, this had led to supply
+
+bottlenecks in certain sectors. Fiscal stimulus, particularly in the United States, had continued to boost
+
+materially consumers’ demand for durable goods, although to a lesser extent than earlier in the year. Supply
+
+disruptions from localised lockdowns at some major Chinese ports and Covid-related closures of factories in
+
+other Asian economies had weighed on activity.
+
+46 Global GDP in 2021 Q4 was also expected to expand at a slower pace than had been anticipated in the
+
+August Report. Supply and demand imbalances were expected to ease over 2022 in the November Report
+
+projections, reflecting a continued rotation of demand back towards services in advanced economies, and a
+
+dissipation of supply disruptions.
+
+47 Supply chain bottlenecks and rising energy prices had continued to increase global cost pressures.
+
+Wholesale gas prices had risen further in Europe and Asia, as had the Brent oil price, and shipping costs had
+
+remained elevated. In the November Report projections, world export prices excluding fuels were projected to
+
+rise by around 6% in 2021 as a whole. Export price inflation was then expected to fall back, as bottlenecks
+
+eased relatively gradually, energy prices stopped rising and shipping costs decreased.
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 2 November 2021** 9
+
+
+-----
+
+48 There had been some sizable movements in UK and global financial markets since the Committee’s
+
+previous meeting. Advanced-economy longer-term government bond yields had increased, in large part
+
+reflecting an increase in the inflation compensation component of nominal interest rates. Advanced-economy
+
+equity prices had risen, while corporate bond spreads had remained at historically low levels.
+
+49 Market-implied expectations for the path of Bank Rate over the year ahead had increased sharply since
+
+the MPC’s September meeting, although a deterioration in liquidity conditions meant that it had become more
+
+difficult to infer a central path for policy expectations. Most market contacts were expecting the Committee to
+
+increase Bank Rate to 0.25% by the end of this year, with expectations for the exact timing finely balanced
+
+between the November and December meetings.
+
+50 As of 2 November 2021, the total stock of assets held in the Asset Purchase Facility had reached £871
+
+billion, including £127 billion of the £150 billion programme of UK government bond purchases announced on 5
+
+November 2020.
+
+51 In 2021 Q2, the cumulative shortfall in UK GDP since 2019 Q4 was estimated to have been 3.3%,
+
+compared with the 4.3% that had been expected in the August Report projection. GDP was expected to grow
+
+by around 1.5% in 2021 Q3 and by 1% in Q4 in the November Report projections, around half of the rates
+
+envisaged in the August Report. While these downward revisions had mainly reflected supply chain disruption,
+
+a more modest recovery in consumer demand had also been a contributing factor. Retail sales volumes had
+
+fallen in September for the fifth month in a row, and consumer confidence had fallen in recent weeks. UK GDP
+
+was now projected to get back to its 2019 Q4 level in 2022 Q1.
+
+52 At the Autumn Budget and Spending Review 2021, the Government had announced a higher path for
+
+government consumption, particularly over the next couple of years. These increases in spending were in
+
+addition to the higher health and social care spending announced in September alongside the new Health and
+
+Social Care Levy. Bank staff had estimated that the fiscal policies announced since the August Report would
+
+boost GDP by just over ½% at their peak in fiscal year 2023-24.
+
+53 Over the second half of the forecast period, and conditioned on the market-implied path for Bank Rate, UK
+
+GDP growth was expected to be relatively subdued. The pace of growth slowed as potential supply growth was
+
+expected to ease back towards pre-Covid rates, and as higher energy prices and the fading of monetary and
+
+fiscal policy support tempered demand growth. Consumption growth was expected to slow over the forecast
+
+period, in part reflecting the drag on real incomes from higher energy prices. Government spending growth was
+
+also expected to fall back, as the fiscal policy stance tightened gradually over time in line with announced
+
+government policy. Business investment was projected to rise over the first half of the forecast period as sales
+
+recovered and uncertainty declined, and was supported by the Government’s capital allowance super
+deduction, before falling back.
+
+54 Following its latest stocktake of the supply side of the economy and as set out in detail in the November
+
+_Report, the Committee expected potential supply to be around 1% lower by the end of the forecast period than_
+
+in August. That partly reflected an updated assessment of the impact of demographic trends on potential
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 2 November 2021** 10
+
+
+-----
+
+participation and average hours, as well as a weaker expected path for business investment, which weighed on
+
+the growth of capital and total factor productivity.
+
+55 The Labour Force Survey (LFS) unemployment rate had fallen to 4.5% in the three months to August,
+
+while Her Majesty’s Revenue and Customs payroll data had continued to rise strongly. The total number of
+
+payroll employees was now estimated to be above its 2019 Q4 level, more than accounted for by a sustained
+
+increase in workers in the health, education and public administration sector over the past year. Nevertheless,
+
+LFS employment in the three months to August had been around 1½% below its pre-pandemic level, reflecting
+
+lower self employment. With measured GDP also still some way below its pre-Covid level, whole-economy
+
+labour productivity had been weak. Focusing on market-sector GDP and employment data, the average level of
+
+productivity was expected to be marginally higher by the end of the year compared to 2019 Q4.
+
+56 The LFS inactivity rate had fallen slightly in the three months to August, but was still around 1 percentage
+
+point higher than immediately prior to the pandemic.
+
+57 Just over a million jobs were likely to have been furloughed immediately before the Coronavirus Job
+
+Retention Scheme (CJRS) closed at end-September, significantly more than had been expected in the August
+
+_Report. Nonetheless, there had continued to be few signs of increases in redundancies and the stock of_
+
+vacancies had increased further, as had indicators of recruitment difficulties. Taken together, while there was
+
+considerable uncertainty, initial indicators suggested that unemployment would rise slightly in 2021 Q4. Official
+
+labour market figures for October, the first set of LFS data covering the period following the closure of the
+
+CJRS, would be published ahead of the December MPC meeting, with further official data for 2021 Q4
+
+published thereafter. It would be important to monitor developments in self employment and any signs of
+
+increased bankruptcies among small and medium-sized enterprises.
+
+58 There was significant uncertainty about the degree of slack in the economy, although it was judged likely
+
+that there was a small margin of excess demand currently. Over 2022 and 2023, excess demand was expected
+
+to be eroded, as demand growth slowed by more than supply growth. Conditioned on the market-implied path
+
+for Bank Rate, a margin of spare capacity was expected to emerge by the end of the forecast period. In part,
+
+that was accounted for by some spare capacity in the labour market, as the unemployment rate was expected to
+
+rise somewhat as demand growth slowed.
+
+59 Bank staff’s estimate of underlying pay growth had remained above pre-pandemic rates. Pay settlements
+
+had continued to increase as the labour market had tightened. Underlying wage growth was, nevertheless,
+
+projected to fall back from its current rate in the November Report central projections.
+
+60 Twelve-month CPI inflation had fallen slightly from 3.2% in August to 3.1% in September. Bank staff
+
+expected inflation to rise to just under 4% in October, accounted for predominantly by the impact on utility bills
+
+of past strength in wholesale gas prices. CPI inflation was then expected to rise to 4½% in November and
+
+remain around that level through the winter, accounted for by further increases in core goods and food price
+
+inflation. Wholesale gas prices had risen sharply since August, although they had fallen back at the very end of
+
+October. CPI inflation was now expected to peak at around 5% in April 2022 in the November Report
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 2 November 2021** 11
+
+
+-----
+
+projections, materially higher than had been expected in the August Report. The path for wholesale energy
+
+prices was nevertheless very uncertain, and could change substantially over short periods of time.
+
+61 In the November Report projections, the upward pressure on CPI inflation was expected to dissipate over
+
+time, as supply disruption eased, global demand rebalanced, and energy prices stopped rising. As a result, CPI
+
+inflation was projected to fall back materially from the second half of next year. Conditioned on the market
+implied path for Bank Rate and the MPC’s current forecasting convention for future energy prices, CPI inflation
+
+was projected to be a little above the 2% target in two years’ time and just below the target at the end of the
+
+forecast period. In projections conditioned on the alternative assumption of constant interest rates at 0.1%, CPI
+
+inflation was forecast to be 2.8% in two years’ time.
+
+62 Since the Committee’s previous meeting, the Citi/YouGov five-to-ten year ahead measure of household
+
+inflation expectations had fallen slightly in October, after rising sharply in September. Medium-term UK inflation
+
+compensation measures in financial markets had remained above their post-2008 average levels. Higher
+
+inflation expectations and greater perceived risks to inflation might have played a role in this, alongside other
+
+factors. Professional forecasters expected CPI inflation to be close to target in the medium term.
+
+63 Overall, and as set out in Box C in the November Report, the MPC judged that inflation expectations
+
+remained well anchored in the United Kingdom at present. The Committee would, nevertheless, continue to
+
+monitor very closely the risk that domestic and global demand and cost pressures could affect medium-term
+
+inflation expectations, and so wage and price setting.
+
+64 The Committee turned to its immediate policy decision.
+
+65 The MPC’s remit was clear that the inflation target applied at all times, reflecting the primacy of price
+
+stability in the UK monetary policy framework. The framework also recognised that there would be occasions
+
+when inflation would depart from the target as a result of shocks and disturbances. In the recent unprecedented
+
+circumstances, the economy had been subject to very large shocks. Given the lag between changes in
+
+monetary policy and their effects on inflation, the Committee, in judging the appropriate policy stance, would as
+
+always focus on the medium-term prospects for inflation, including medium-term inflation expectations, rather
+
+than factors that were likely to be transient.
+
+66 The Committee’s best collective judgement was that the risks to the medium-term inflation projections in
+
+the November Report were broadly balanced. But this masked large risks in both directions, including among
+
+other things from energy prices and wage growth. Different MPC members placed different weights on these
+
+risks and therefore on the overall balance of risks.
+
+67 In an alternative scenario that was conditioned on energy prices following forward curves throughout the
+
+forecast period and as set out in the November Report, CPI inflation fell back towards the target more rapidly
+
+than in the MPC’s central projection, and was materially lower over the second half of the forecast period. This
+
+alternative scenario was consistent with a general tendency for many commodity prices to revert towards their
+
+prior levels following similar large movements historically.
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 2 November 2021** 12
+
+
+-----
+
+68 The risks around the November Report projection for wage growth to ease were judged to be skewed to
+
+the upside. Earnings growth could be boosted over the forecast period by the impact of higher current and
+
+expected inflation, if employees resisted declines in their real wages. That would be different to the experience
+
+of recent decades, including the dynamics of the labour market following the global financial crisis. It was,
+
+however, possible that there could be a break from past wage bargaining behaviour, as some aspects of the
+
+labour market were currently quite different to that period. There could also be greater than expected upward
+
+pressure on wage growth from: a continuation of a lower availability of workers, for example due to a lower path
+
+for participation or migration; sustained demand for labour from the health, education and public administration
+
+sector; or a persistence of labour market mismatch within industries or across other dimensions.
+
+69 At its recent meetings, the Committee had judged that some modest tightening of monetary policy over the
+
+forecast period was likely to be necessary to meet the 2% inflation target sustainably in the medium term. The
+
+latest developments, set alongside the Committee’s updated projections, reinforced this view. Nevertheless,
+
+near-term uncertainties remained, especially around the outlook for the labour market, and the extent to which
+
+domestic cost and price pressures persisted into the medium term.
+
+70 At this meeting, most members of the Committee judged that the existing stance of monetary policy, which
+
+included the previously announced £150 billion increase in the target stock of purchased assets, remained
+
+appropriate. Importantly, and as had been signalled previously, there was value in waiting for additional
+
+information on near-term developments in the labour market, including official data relating to the period
+
+following the end of the CJRS, before deciding when a tightening in monetary policy might be warranted. In
+
+addition, at least part of the downgrade in near-term UK GDP prospects since the August Report was likely to
+
+have reflected a moderation in demand, and downside risks to demand could be accentuated by the impact of
+
+higher prices on households’ real incomes. Current elevated global cost pressures were still most likely to
+
+prove transitory, leading to a one-off increase in consumer prices rather than persistently higher inflation rates.
+
+In assessing the appropriate monetary policy strategy, it was important to consider the costs, as well as the
+
+benefits, of taking out insurance against possible upside risks to medium-term inflation from second-round
+
+effects on wages and prices. As had been the case for some time, the ability to loosen monetary policy in
+
+response to any significant negative demand shock in the future was to some degree constrained by the
+
+effective lower bound of Bank Rate, whereas interest rates could be increased by as much as was needed to
+
+bring inflation back to target sustainably should any second-round effects materialise.
+
+71 One member of the Committee joined the majority in noting a moderation in domestic and global activity,
+
+along with cross-currents in the domestic labour market and wages, energy price dynamics, and business
+
+pricing expectations affecting inflation prospects. But this member also observed a continued elevated level of
+
+risky asset prices, despite the increase in government bond yields globally. In light of this, while agreeing with
+
+the majority on maintaining Bank Rate, this member judged that it would be appropriate to remove some of the
+
+monetary stimulus to asset prices by terminating the existing asset purchase programme at this meeting, ahead
+
+of any subsequent increase in Bank Rate.
+
+72 For two members of the Committee, the economic outlook warranted a tightening in the monetary policy
+
+stance at this meeting. These members preferred an immediate end to the existing asset purchase programme,
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 2 November 2021** 13
+
+
+-----
+
+as well as an immediate increase in Bank Rate to 0.25%. Domestic and global cost pressures had remained
+
+strong. In the United Kingdom, the labour market had tightened further, with no sign that the end of the furlough
+
+scheme had eased labour market strains. These members judged that, with the existing policy stance, CPI
+
+inflation was likely to remain above the 2% target in the medium term. This reflected a greater impact from cost
+
+pressures, especially pay growth, and the prospect of a larger and more persistent level of excess demand in
+
+the United Kingdom than in the central projection in the November Report. Maintaining the current policy stance
+
+when CPI inflation was well above target and the output gap was closed might cause medium-term inflation
+
+expectations to drift up further. A decision to tighten policy at this meeting would reduce that risk, which might
+
+otherwise ultimately necessitate a more abrupt subsequent tightening in policy and hence a greater adjustment
+
+in growth and employment. It would demonstrate the Committee’s commitment to returning inflation to target in
+
+the medium term and help to ensure that medium-term inflation expectations remained well anchored.
+
+73 The Committee judged that, provided the incoming data, particularly on the labour market, were broadly in
+
+line with the central projections in the November Monetary Policy Report, it would be necessary over coming
+
+months to increase Bank Rate in order to return CPI inflation sustainably to the 2% target. In observing the
+
+market-implied path for Bank Rate, the Committee noted that, in the November Monetary Policy _Report central_
+
+projections, CPI inflation was projected to be below the 2% target at the end of the forecast period, and would
+
+probably fall a little further beyond that point, given the margin of spare capacity that was expected to emerge.
+
+74 Looking beyond the coming months, the Committee would, as always, continue to focus on the medium
+term prospects for inflation. The Committee judged that there were two-sided risks around developments in the
+
+economy in the medium term, and would reach its assessment on the balance of these risks in light of the
+
+relevant data as they emerged.
+
+75 The Chair invited the Committee to vote on the propositions that:
+
+Bank Rate should be maintained at 0.1%;
+
+The Bank of England should maintain the stock of sterling non-financial investment-grade corporate bond
+
+purchases, financed by the issuance of central bank reserves, at £20 billion;
+
+The Bank of England should continue with its existing programme of UK government bond purchases,
+
+financed by the issuance of central bank reserves, maintaining the target for the stock of these purchases
+
+at £875 billion.
+
+Seven members (Andrew Bailey, Ben Broadbent, Jon Cunliffe, Jonathan Haskel, Catherine L Mann, Huw Pill
+
+and Silvana Tenreyro) voted in favour of the first proposition. Two members (Dave Ramsden and Michael
+
+Saunders) voted against this proposition, preferring to increase Bank Rate by 15 basis points to 0.25%.
+
+The Committee voted unanimously in favour of the second proposition.
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 2 November 2021** 14
+
+
+-----
+
+Six members (Andrew Bailey, Ben Broadbent, Jon Cunliffe, Jonathan Haskel, Huw Pill and Silvana Tenreyro)
+
+voted in favour of the third proposition. Three members (Catherine L Mann, Dave Ramsden and Michael
+
+Saunders) voted against this proposition, preferring to reduce the target for the stock of UK government bond
+
+purchases from £875 billion to £855 billion.
+
+**Operational considerations**
+
+76 The existing programme of £150 billion of UK government bond purchases had started in January and its
+
+completion was expected by around the end of 2021. Further details of the planned operational approach to gilt
+
+purchases between the August and December MPC meetings had been set out in the Market Notice
+
+accompanying the August 2021 minutes.
+
+77 The Committee would keep the asset purchase programme under review. If needed, there was scope for
+
+the Bank of England to re-evaluate the existing technical parameters of the gilt purchase programme.
+
+78 At its September meeting, the MPC had agreed to reinvest the cash flows associated with reductions in
+
+the stock of sterling non-financial investment-grade corporate bond purchases held by the Asset Purchase
+
+Facility back into eligible corporate bonds, commencing in November 2021. The Committee had subsequently
+
+been briefed by Bank staff on the approach that would be taken to making these investments in a way that took
+
+account of the climate impact of the issuers of bonds. Details of this approach would be published in the
+
+coming days, ahead of reinvestment operations commencing in late November.
+
+79 The following members of the Committee were present:
+
+Andrew Bailey, Chair
+Ben Broadbent
+Jon Cunliffe
+Jonathan Haskel
+Catherine L Mann
+Huw Pill
+Dave Ramsden
+Michael Saunders
+Silvana Tenreyro
+
+Clare Lombardelli was present as the Treasury representative.
+
+As permitted under the Bank of England Act 1998, as amended by the Bank of England and Financial Services
+
+Act 2016, Diana Noble was also present on 27 October and Brad Fried was present on 2 November, as
+
+observers for the purpose of exercising oversight functions in their roles as members of the Bank’s Court of
+
+Directors.
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 2 November 2021** 15
+
+
+-----
+

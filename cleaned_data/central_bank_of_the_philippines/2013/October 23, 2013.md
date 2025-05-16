@@ -1,0 +1,210 @@
+**HIGHLIGHTS OF THE MEETING OF THE MONETARY BOARD ON MONETARY POLICY ISSUES**
+
+
+**HELD ON 24 OCTOBER 2013[1]**
+
+**I.** **Monetary Policy Decision**
+
+The Monetary Board (MB) decided to:
+
+a) Maintain the BSP’s policy interest rates at 3.5 percent for the overnight RRP
+
+(borrowing) rate and 5.5 percent for the overnight RP (lending) rate;
+
+b) Maintain the current interest rates on term RRPs, RPs and SDA; and
+
+c) Maintain the current reserve requirement ratios.
+
+**II.** **Key Considerations in the Formulation of the Monetary Policy Stance**
+
+  - The MB’s decision was based on its assessment of a benign inflation environment. Latest
+baseline forecasts indicate that the future inflation path remains in line with the target range
+of 4.0±1.0 percent in 2013-2014 and 3.0±1.0 percent for 2015. Inflation expectations also
+continue to be firmly anchored. The Monetary Board also noted that while global economic
+conditions remain challenging, prospects for domestic activity remain robust, supported by
+buoyant domestic demand and favorable consumer and business sentiment.
+
+  - At the same time, the MB noted that the risks to the inflation remain unchanged. With the
+bulk of lending going to the productive sectors of the economy, the improvement in the
+economy’s absorptive capacity is expected to be sustained, helping to moderate price
+pressures.
+
+  - Going forward, the MB recognized the need to monitor emerging price and output conditions
+to ensure that monetary policy remains in line with price stability while being supportive of
+economic growth.
+
+**III.   Recent Developments and Inflation Outlook**
+
+The MB considered the following developments in coming up with its policy decision:
+
+**A. Domestic price conditions**
+
+  - Year-on-year headline inflation inched up in September to 2.7 percent from 2.1 percent in
+August. Likewise, other indicators increased such as the official core inflation, seasonallyadjusted month-on-month headline and core inflation, seasonally adjusted 3-month moving
+average annualized headline and core inflation, and number and weight of above-threshold
+
+1 The discussions presented reflect the assessment made by the Monetary Board based on the information available at the time of the policy
+meeting. A comprehensive set of economic information was provided by the Technical Secretariat of the Advisory Committee (AC). The AC is
+composed of the Governor of the BSP as Chairman and four members, namely: the Deputy Governor of the Monetary Stability Sector, the Deputy
+Governor of the Supervision and Examination Sector, the Assistant Governor of the Monetary Policy Sub-Sector, and the Assistant Governor of the
+Treasury Department. The highlights of the discussions on the 24 October 2013 meeting were approved by the Monetary Board during its regular
+
+i h ld 14 N b 2013 Th i f h M B d li i i h d l d 12 D b 2013
+
+
+-----
+
+items. Meanwhile, two out of three alternative measures of core inflation estimated by the
+BSP were steady in September.
+
+  - The uptick in inflation for September was attributed largely to higher food prices and
+electricity charges. Tight domestic supply conditions, triggered by the recent weather-related
+production disruptions, led to higher prices of key food items, particularly corn, fish, and meat.
+Rice prices were also higher due to the lean season. Meanwhile, the upward adjustment in
+electricity rates as a result of higher generation and transmission charges contributed to the
+rise in non-food inflation.
+
+**B.  Inflation expectations**
+
+  - Inflation expectations—reflected in forecast surveys of private sector economists by the BSP
+and by Consensus Economics—continue to support the benign inflation outlook. For
+September 2013, results of the BSP’s survey of private economists showed lower mean
+inflation forecasts for 2013, 2014 and 2015 at 2.9 percent (from 3.0 percent in August),
+3.5 percent (from 3.6 percent), and 3.6 percent (from 3.7 percent), respectively. Similarly,
+results of the Consensus Economics survey in October showed lower mean inflation forecasts
+for 2013 and 2014.
+
+**C. Inflation outlook**
+
+  - The outlook for inflation remains broadly in line with the target range over the policy horizon.
+The latest average baseline inflation forecasts are broadly unchanged for 2013 and 2015 but
+slightly higher for 2014. The upward adjustment in the inflation path for 2014 could be
+attributed mainly to the higher-than-forecasted actual inflation in September. Meanwhile, the
+risks to future inflation rmeained broadly unchanged.
+
+**D. Demand conditions**
+
+  - Domestic demand conditions remain fairly buoyant. Output expansion is expected to be
+sustained over the coming quarters with higher-frequency indicators of demand, including
+vehicle sales, energy sales, and manufacturing output (based on the MISSI), still growing
+robustly. The Purchasing Managers’ Indices (PMI) of the manufacturing and services sectors
+have continued to point to expansion, although the retail/wholesale (R/W) sector was below
+the 50-threshold. The respondents cited decrease in orders and unstable prices and decrease
+in the production of suppliers as the main reasons for the decline. Nevertheless, purchases of
+the R/W sector was in expansion mode in preparation for the Christmas season.
+
+  - Measures of consumer and business sentiment, while declining slightly for Q3, turned bullish
+for the next quarter. These demand indicators are consistent with the results of the latest
+business cycle analysis of the BSP and various leading economic indicators monitored by the
+BSP and NSCB which all point to a continued economic upturn. Seven out of eleven BSP leading
+and coincident indicators and eight out of eleven NSCB composite leading economic indicators
+suggest continued positive economic growth in Q3 2013.
+
+**E.  Supply-side indicators**
+
+Developments in Agriculture
+
+  - Favorable supply conditions have kept prices of meat, fish, fruits and refined sugar generally
+stable in September 2013 compared to their month ago levels Meanwhile prices of some
+
+
+-----
+
+monitored vegetables rose in September after Typhoon Odette affected key vegetableproducing areas in the northern and central parts of Luzon.
+
+  - Retail prices of rice eased in October 2013 signaling the onset of the main harvest
+season.According to the NFA, rice prices are expected to continue to trend downwards with
+the main harvest likely to reach its peak level between mid-October and November 2013.
+However, the downtrend in prices may be moderated by the impact of Typhoon Santi on
+production, particularly in Region III which is a key supplier of rice stocks in Metro Manila.
+
+  - Meanwhile, the Food and Agriculture Organization (FAO) Food Price Index declined by about
+4 points (about 1.9 percent) to 201.8 points in August 2013 from the July 2013 level of 205.6
+points. The decline in August, which marked the fourth consecutive monthly decrease, was
+driven largely by lower international prices for cereals and oils.
+
+Oil Price Developments
+
+  - Oil prices were higher in September due mainly to escalating tensions in the Middle East,
+particularly Syria, fueling concerns of oil supply disruption in the region. However, the monthto-date average spot price of Dubai crude oil as of 15 October declined as the budget
+deliberations deadlock in the US fueled concerns of slower global economic activity and
+reduced oil demand going forward.
+
+Developments in the Utilities Sector
+
+  - Overall cost of electricity was lower in October 2013 due to the reduction in generation charge
+and other electric bill components. Meralco reported that the generation charge went down
+due to the downward adjustments in generation rates purchased from the Wholesale
+Electricity Spot Market (WESM). The reduction in WESM’s generation charges was due to the
+availability of more hydroelectric power plants. The end of the National Power Corporation’s
+collection of the Incremental Currency Exchange Rate Adjustment also contributed to the
+reduction of power generation charge. Similarly, power rates of the Power Supply Agreements
+and Independent Power Producers transmission charge and other bill components declined.
+
+**F. Financial market developments**
+
+  - In October, the PSEi climbed amid improved investor optimism fueled by Moody’s upgrade of
+the Philippines’ sovereign rating to investment grade status on 3 October and the country’s
+growth forecast being raised by several institutions (ADB, WB, Fitch Ratings, Goldman Sachs,
+First Metro Investment Corp. and University of East Asia and the Pacific). Reports of the surge
+in Philippine exports and factory output in August also helped lift the PSEi in the first half of
+the month. However, the rally was tempered by growing concerns of a prolonged US
+government shutdown (that began on 1 October) and rising fears that the US may default if
+Congress fails to lift the debt ceiling by the 17 October deadline, compounded by Fitch Rating
+placing the US’ AAA rating on negative watch on 15 October. Market volatility eased after
+President Obama signed the budget bill on 17 October. On 18 October, the PSEi pushed pass
+the 6,600 mark for the first time since August as it closed higher relative to the end-September
+level by 6.7 percent at 6,607.83 index points.
+
+  - The peso also strengthened during the period 1-16 October to average P43.19/US$1. The
+peso’s recovery was underpinned by the decision of the US Fed not to taper its quantitative
+easing program and the recent credit rating upgrade from Moody’s, coupled with easing
+
+
+-----
+
+concerns over the US government default. Similarly, the increasing level of the country’s gross
+international reserves provided broad stability to the peso.[2]
+
+    - For the period 1-18 October, debt spreads tightened. The upgrade on the country’s credit
+rating by Moody’s completed the country’s ascent to investment rank which prompted an
+increase in demand for Philippine debt papers, translating to a tighter sovereign bond spread.
+
+**G. Domestic liquidity and credit conditions**
+
+    - Domestic liquidity or M3 grew by 30.9 percent (preliminary) in August to reach P6.0 trillion.
+This growth was slightly faster than the 30.1-percent expansion recorded in the previous
+month and is the fastest on record since 2002. On a monthly basis, seasonally-adjusted M3
+was broadly unchanged after expanding by 8.5 percent (revised) month-on-month (m-o-m) in
+July.
+
+    - The temporary period of strong M3 growth is itself not expected to translate into significant
+inflationary pressures given manageable credit growth. The outstanding loans of commercial
+banks grew by 14.2 percent in August, from 12.3 percent in July. On a month-on-month
+seasonally-adjusted basis, commercial bank lending in August increased by 1.8 percent for
+loans net of RRPs and by 1.0 percent for loans inclusive of RRPs.
+
+**H.  Fiscal developments**
+
+    - The fiscal deficit in the period January-August 2013 was P82.6 billion, higher than the P71.1
+billion deficit incurred during the same period in 2012. This represented57.2 percent of the
+P144.5 billion programmed deficit for Q1-Q3 2013. Revenue collections increased by
+12.4percent while expenditures were higher by 12.6 percent.
+
+**I.  External developments**
+
+    - Prospects for global economic growth remain tepid. In its latest World Economic Outlook
+(October 2013), the IMF lowered anew its world output projections by 0.3 percentage point
+and 0.2 percentage point in 2013 and 2014, respectively compared to forecasts released in July
+2013. The latest IMF forecasts point to a modest 2.9-percent and 3.6-percent increase in
+global output for 2013 and 2014, respectively. Fiscal pressures in the US, adjustment fatigue in
+the euro area (particularly in the periphery economies), tighter financial conditions associated
+with the eventual exit from unconventional monetary policies, emerging domestic
+vulnerabilities and capacity constraints in emerging economies, and geopolitical concerns in
+oil-producing countries represent the downside risks to global growth.
+
+2 G I i l li b d US$83 20 billi f d A 2013 f US$83 17 billi f d J l
+
+
+-----
+

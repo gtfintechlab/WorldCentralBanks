@@ -1,0 +1,70 @@
+#            MONETARY PROGRAM FOR JULY 2017
+ BCRP LOWERED THE POLICY INTEREST RATE TO 3.75%
+
+1. The Board of the Central Reserve Bank of Peru approved to lower the monetary policy
+
+interest rate by 25 basis points to 3.75 percent.
+
+This level of the benchmark rate is compatible with an inflation forecast in which inflation
+remains within the target range during 2017 and 2018. This forecast takes into account the
+following factors:
+
+i) The reversal of the supply shocks that affected inflation in the first quarter continued in
+
+June, as a result of which inflation returned to the target range. Moreover, inflation
+without food and energy continued to decline within the target range;
+
+ii) Expectations of inflation in 12 months have continued to fall and remain within the
+
+inflation target range;
+
+iii) The pace of growth of domestic economic activity continues to be below its potential
+
+growth level. Economic activity is expected to recover in the following quarters as a result
+of increased government and private spending, and
+
+iv) The world economy continues to show a gradual recovery, although there is still some
+
+uncertainty about the policies of developed countries, particularly about the reversal of
+the monetary stimulus of central banks in these economies.
+
+2. The Board is giving special close attention to new data on inflation and inflation
+
+determinants, particularly to data about the velocity of expectations’ convergence to the
+inflation target range, the degree of reversal of the supply shocks, and the pace of recovery
+of public and private spending, to assess the convenience of making additional changes in
+the monetary policy stance if deemed necessary.
+
+3. Inflation in June registered a rate of -0.16 percent due to the reversal of some food prices,
+
+as a result of which the year-to-year rate of inflation fell for the third consecutive month,
+declining from 3.04 percent in May to 2.73 percent in June. Inflation without food and energy
+showed a rate of 0.06 percent, as a result of which the year-to-year rate decreased from 2.54
+percent in May to 2.38 percent in June, within the target range (between 1 and 3 percent).
+Inflation is foreseen to remain within this range during 2017 and 2018.
+
+4. The indicators of business expectations about economic activity remain on the optimistic side
+
+and GDP is expected to grow between 2.5 and 3.0 percent in 2017.
+
+5. The Board of the Central Bank also approved to lower the annual interest rates on lending
+
+and deposit operations in domestic currency (not included in auctions) between BCRP and
+the financial system, as specified below:
+
+a. Overnight deposits: 2.50 percent.
+b. Direct repos and rediscount operations: i) 4.30 percent for the first 15 operations
+
+carried out by a financial institution in the last 12 months, and ii) the interest rate set
+by the Committee of Monetary and Foreign Exchange Operations for additional
+operations to the 15 first operations carried out in the last 12 months.
+
+c. Swaps: a commission equivalent to a minimum annual effective cost of 4.30 percent.
+
+6. The Board will approve the Monetary Program for August on its meeting of August 10, 2017.
+
+Lima, July 13, 2017
+
+
+-----
+

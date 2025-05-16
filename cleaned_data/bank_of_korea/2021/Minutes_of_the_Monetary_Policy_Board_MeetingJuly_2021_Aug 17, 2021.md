@@ -1,0 +1,968 @@
+### July 2021
+
+## Bank of Korea
+
+
+-----
+
+(English version)
+
+#### Minutes of the Monetary Policy Board Meeting[1)]
+
+##### (July 2021)
+
+Ⅰ. Outline
+
+1. Date of meeting: Thursday, July 15, 2021
+
+2. Place: Monetary Policy Board Meeting Room
+
+3. Monetary Policy Board members present:
+
+Lee, Juyeol, Chairman (Bank of Korea Governor)
+Koh, Seung Beom
+Lim, Jiwon
+
+Cho, Yoon-Je
+
+Suh, Young Kyung
+Joo, Sangyong
+Lee, Seungheon (Senior Deputy Governor)
+
+4. Monetary Policy Board members absent: none
+
+5. Participants:
+Jang, Ho Hyun, Auditor
+Park, Jong Seok, Deputy Governor
+Lee, Hwan Seok, Deputy Governor
+Min, Jwa Hong, Deputy Governor
+Kim, Woong, Director General of Research Department
+Lee, Sang Hyeong, Director General of Monetary Policy Department
+Kim, Inkoo, Director General of Financial Markets Department
+Kim, Hyun Kee, Director General of International Department
+Park, Young Chool, Press Officer
+
+Han, Seung Chul, Director General of Monetary Policy Board Secretariat
+
+Sung, Kwang Jin, Head of MPB Team
+
+1) This English version (summary) of the minutes of the Monetary Policy Board Meeting was produced
+
+at a working level, and is not an official document.
+
+1
+
+
+-----
+
+###### Ⅱ. Summary of Discussions on the Current Economic Situation
+
+After briefings by staff on _Recent Economic Developments,[2)]_ _FX and International_
+
+_Finance Trends, and_ _Financial Market Trends, the discussions of the Monetary Policy_
+
+Board (MPB) members covered the following areas:
+
+Members assessed that the domestic economy was showing recovery, led by exports
+
+and facilities investment. Members saw that the spread of virus variants and the
+
+consequently strengthened social distancing measures would work to contract private
+
+consumption. Members, however, expected the negative impacts on consumption to be
+
+limited, thanks to increasing vaccine distribution, the government’s economic stimulus
+
+package, and economic agents’ lessened sensitivity to the disease. Meanwhile, some
+
+members presented the opinion that attention should be paid to the possibility of a
+
+bottleneck in the supply chain causing a delay in manufacturing production.
+
+Members saw that, with respect to prices, consumer price inflation for this year
+
+would run above the path projected in May, due not only to upward inflationary
+
+pressures on the supply side but to gradually increased pressures on the demand side as
+
+well. Members also assessed underlying price movements, including core inflation, to be
+
+generally on the rise.
+
+Members saw that financial conditions remained accommodative, and raised concerns
+
+that risks on the financial side had built up due to increased search for yield by
+
+economic agents and greater expectations for additional price rises in asset markets amid
+
+high growth in private-sector leverage. Meanwhile, with respect to housing prices which
+
+remained on the sharp rise, some members assessed that there were large upside risks
+
+in the short term, presenting the opinion that it would be important to take effective
+
+housing supply measures to ensure price stability. Other members pointed out that
+
+housing prices were continuing to increase despite the fact that households’ mortgage
+
+interest rates had recently risen above the pre-pandemic level. They called for an
+
+in-depth analysis of the relationship between housing prices and various financial and
+
+economic variables, including interest rates.
+
+In addition, members stressed the need to pay close attention to the economic
+
+shocks from COVID-19 on vulnerable groups, the US Federal Reserve’s monetary policy
+
+2) An English version of Recent Economic Developments is posted on the Bank of Korea website.
+
+2
+
+
+-----
+
+stance, and the future developments of US long-term bond yields.
+
+3
+
+
+-----
+
+###### Ⅲ. Discussions Concerning Monetary Policy Decision (Summary)
+
+The main details of the MPB members’ discussions concerning a change in the
+
+Bank of Korea Base Rate were as follows:
+
+Most members shared the opinion that, in overall consideration of the domestic and
+
+international financial and economic environments, it would be desirable to keep the
+
+Base Rate at its current level of 0.50%, while one member argued for raising it by
+
+0.25 percentage points.
+
+One member presented the view that it would be appropriate to keep the Base Rate
+
+at the current level of 0.50%.
+
+The member assessed that the domestic economy was sustaining a trend of
+
+export-driven recovery in the second quarter, as in the first quarter. The member saw
+
+that, although domestic demand such as private consumption had emerged from its
+
+sluggishness, the trend of recovery would likely slow due to greatly strengthened social
+
+distancing levels stemming from the recent resurgence of COVID-19. With respect to
+
+employment conditions, the member pointed out that, although the number of persons
+
+employed had been on the steady rise, the recovery in employment showed an uneven
+
+pattern depending on industry and occupational status, and the share of the long-term
+
+unemployed had risen. The member also assessed that, although inflation had recently
+
+been subject to upward pressures, it was highly likely to run below the target level at
+
+the end of this year as the base effect fades. The member presented the opinion that,
+
+particularly since consumer price inflation had run in the 0% range for two years in a
+
+row and the trend of recovery in consumption was expected to be delayed due to the
+
+resurgence of COVID-19, present conditions did not give rise to concerns about upward
+
+inflationary pressures over a medium-term horizon.
+
+The member stated that the government had been conducting an expansionary fiscal
+
+policy to cope with domestic and international shocks since 2019. The member noted
+
+that government spending growth ran far above spending growth in non-government
+
+sectors in 2019, and this tendency strengthened further in 2020 due to responses to
+
+COVID-19. As a result, the member estimated that, although real GDP in 2020 declined
+
+by only 0.9% year on year, spending in non-government sectors fell by about 2.5%.
+
+The member saw that, although vaccination was gathering pace, the aftereffects of the
+
+pandemic were lasting longer than initially expected. The member also expected that it
+
+would likely to take substantial time for the export-driven economic recovery to lead to
+
+stable expansion of household income, wages, employment and consumption. The
+
+4
+
+
+-----
+
+member thus stated the opinion that it was still important for fiscal policy to take an
+
+active role, and there was a need for a policy mix with accommodative monetary policy
+
+keeping step with fiscal policy until the crisis could be overcome.
+
+The member saw that there were growing expectations for a Base Rate hike since
+
+the May MPB meeting, noting that a Base Rate hike is one of various tools to rein in
+
+housing price increases and household debt growth. The member, however, pointed out
+
+that, since housing price increases of late had not been led by investment by owners of
+
+multiple houses actively searching for high returns, it would be very difficult to estimate
+
+the effects of an interest rate increase on the housing market. The member added that
+
+households’ mortgage interest rates were already running above the pre-pandemic level
+
+in reflection of the government’s lending regulation measures, and policy measures to
+
+offset the negative side effects of low interest rates, such as debt service ratio (DSR)
+
+rules differentiated by borrower, had also taken effect. The member expressed the view
+
+that household debt should be stabilized through macroprudential policy, not monetary
+
+policy, stressing the importance of patiently abiding by this principle.
+
+The member assessed that, although the coronavirus shock had been triggered by
+
+the spread of an infectious disease, from an economic perspective it was closer to a
+
+polarization shock. The member presented the opinion that since the negative impacts
+
+were concentrated in vulnerable sectors, groups and borrowers, the trend of their income
+
+recovery should be closely observed. The member judged that it would not be late to
+
+discuss a Base Rate hike after a sufficient degree of vaccination had been achieved.
+
+Another member expressed the opinion that it would be desirable to keep the Base
+
+Rate at the current level of 0.50%.
+
+The member assessed the recovery in the world economy to have strengthened
+
+overall. The member saw that, although COVID-19 variants were spreading, there had
+
+been a significant decrease in the number of severe cases or deaths, and thus the spread
+
+of the virus would likely have limited economic impacts compared to the past.
+
+However, the member pointed out the possibility of economic recovery slowing
+
+somewhat in some EMEs with low vaccination rates. The member saw that, with
+
+respect to global trade, goods trade was sustaining high growth, while recovery in
+
+service trade had been delayed.
+
+Looking at the domestic economy, the member expected exports and facilities
+
+investment to remain robust, thanks to rapid economic recoveries of our major trading
+
+partners, and a trend of recovery in the global IT industry. The member saw that
+
+private consumption would contract for some time due to tighter social distancing
+
+measures, but the decline in consumption would be smaller than those during past
+
+5
+
+
+-----
+
+resurgences of the coronavirus, given the plans for large-scale vaccination, the
+
+accumulation of household savings, and the lessened sensitivity of the public to the
+
+disease. The member anticipated that the domestic economy would maintain a broader
+
+recovery in the second half of this year as well, since the constraints on consumption
+
+would be offset by expanded consumption stemming from the government’s economic
+
+stimulus package.
+
+The member assessed that consumer price inflation for this year was highly likely
+
+to reach the 2% range, somewhat higher than the May forecast, due to a faster rise in
+
+international oil prices of late. In light of the trends of increase in various indexes
+
+representing underlying inflation, inflationary pressures were heightening broadly and
+
+were not limited to specific items.
+
+The member judged the financial market to remain significantly accommodative. The
+
+member’s assessment was that the accumulation of financial imbalances was continuing,
+
+as leveraged financing by households and corporations was showing high growth, and
+
+investment funds were flowing into asset markets due to ample market liquidity and
+
+stronger risk-taking appetite.
+
+The member stated that the domestic economy would maintain a trend of recovery
+
+overall. The member, however, judged that it would be appropriate to keep the Base
+
+Rate unchanged from its current level, given that it would be necessary to wait and
+
+observe further the impacts of the current resurgence of the coronavirus on the future
+
+growth path, and that economic agents should have more time to communicate the
+
+future monetary policy direction with the Bank of Korea, particularly since only about a
+
+month had passed since the Bank began to communicate with them a possible
+
+adjustment of the degree of monetary policy accommodation within this year. The
+
+member, however, expressed the opinion that if future movements of growth and prices
+
+did not deviate far from the current predictions, an adjustment to the degree of
+
+monetary policy accommodation within the coming months should be considered, as had
+
+been discussed in the May MPB meeting. The member added that this would be
+
+necessary for the domestic economy to lay a foundation for stable and sustainable
+
+growth in the medium to long term.
+
+One member expressed the opinion that it would be desirable to raise the Base
+
+Rate to 0.75% from the current level of 0.50%.
+
+The member assessed that growth in the global economy was gathering pace since
+
+the last MPB meeting. The member expected trends of economic recovery in major
+
+countries to continue in the second half as well, although uncertainties related to the
+
+coronavirus conditions were increasing due to the emergence of virus variants.
+
+6
+
+
+-----
+
+The member saw that export-driven recovery had been gradually materializing since
+
+the beginning of this year and facilities investment remained solid overall. The member
+
+also expected construction investment to show improvement in the second half of this
+
+year. The member saw that private consumption was unlikely to run well below the
+
+level projected in May thanks to the government’s economic stimulus package, despite
+
+the rapid spread of COVID-19.
+
+With respect to prices, the member assessed that, as consumer price inflation had
+
+run above 2% every month since the beginning of the second quarter, prices were
+
+somewhat emerging from the low levels they had been recording, with personal service
+
+charges, as well as prices of agricultural, livestock and fisheries products and
+
+petroleum-based products, showing upward trends.
+
+The member expressed the opinion that there was no urgent need to adjust the
+
+Base Rate level, judging from current real economic conditions. The member pointed
+
+out that, more importantly, concerns about COVID-19 were increasing due to the
+
+emergence of virus variants. The member also assessed that there would still be room
+
+for closely watching price developments, since consumer prices were likely to fall to the
+
+1% range next year, even if they rise to the 2% inflation target this year, and core
+
+inflation would likely recover to the mid-1% next year from the lower-1% level this
+
+year.
+
+However, given financial stability conditions, the member expressed the view that
+
+the time had come to adjust the degree of monetary policy accommodation. The
+
+member particularly raised the concern that household debt was continuing to grow
+
+despite the government’s lending regulation measures, and funds were continuing to flow
+
+into asset markets such as the real estate. The member assessed that the accommodative
+
+monetary policy in place since the COVID-19 outbreak had played an important role in
+
+preventing a sharp contraction in the real economy, but had simultaneously caused a
+
+rise in asset prices. The member added that these rising financial imbalances were
+
+commonly faced by most central banks in advanced economies.
+
+The member stated that there were various opinions as to how the central bank
+
+could preemptively respond to an asset market bubble, and it was undeniable that the
+
+fundamental mandate of monetary policy, a part of macroeconomic policy, was to give
+
+first consideration to the real economy. The member, however, expressed the opinion
+
+that more attention should be given to financial stability in the conduct of monetary
+
+policy at the present moment. The member noted that it had been often pointed out that
+
+an adjustment to the degree of monetary policy accommodation under the current
+
+ongoing COVID-19 crisis conditions could increase difficulties faced by vulnerable
+
+groups. The member, however, raised the concern that persistent debt growth as seen
+
+7
+
+
+-----
+
+recently would lead to greater risk of a so-called debt trap, which would make it
+
+impossible to normalize interest rates due to the excessive debt burden. The member
+
+pointed out that, recalling historical experience, excessive credit had caused bubbles to
+
+form and burst, weakening the financial sector’s soundness and intermediary role and
+
+ultimately worsening the real economy to a great extent. The member thus stressed that
+
+it would be extremely important to ensure financial stability for stable domestic
+
+economic growth at this point.
+
+The member noted that, taking these points into overall consideration, it would be
+
+desirable to give greater weight to financial stability and raise the Base Rate to 0.75%
+
+from the current 0.50%. The member added that monetary policy was expected to have
+
+a signaling effect on asset markets, although some pointed out that it would be difficult
+
+to deal with excessive expectations for price increases in asset markets through a slight
+
+interest rate hike. The member expressed the opinion that it was inevitable that the
+
+increased burdens on vulnerable groups, including the working-class, the self-employed,
+
+and small- and medium-sized enterprises (SMEs), following an interest rate hike would
+
+have to be dealt with through fiscal policy which can target specific sectors. The
+
+member also stressed the need to consistently push for macroprudential policies aimed at
+
+reigning in the pace and size of debt growth.
+
+Meanwhile, the member expressed the need for a thorough analysis of US inflation,
+
+which had shown higher-than-expected growth. The member assessed that inflation in
+
+the US and the consequent changes in its monetary policy would highly likely to lead
+
+the world economy to areas of uncertainty. The member thus raised the concern that
+
+reversals of elements that had all moved in only one direction during the pandemic,
+
+such as expansionary fiscal policy based on government bond issuance at low rates,
+
+rising asset market prices based on leveraged investment, and expansions in household
+
+and corporate debt, could trigger unforseen shocks. The member also noted that previous
+
+cases had shown that shifts in the US monetary policy stance were accompanied by
+
+economic unrest in EMEs, and thus pointed out that attention was needed in this
+
+regard.
+
+In addition, the member expressed the view that careful thought should be given to
+
+orderly normalization of the emergency measures taken to deal with the pandemic crisis.
+
+The member stated that numerous emergency measures had expired so far, but
+
+supporting the credit market through an SPV that purchases corporate bonds and
+
+commercial paper, and the expansion of the Bank Intermediated Lending Support
+
+Facility, were still ongoing. The member added that, if there was a Base Rate hike in
+
+consideration of financial imbalances, it would be desirable to maintain these measures
+
+aimed at supporting vulnerable groups for some time.
+
+8
+
+
+-----
+
+Finally, the member noted that monetary policy alone could not guarantee medium
+to long-term economic growth, since it is fundamentally a macroeconomic policy that
+
+responds to short-term economic fluctuations. However, the member expressed the view
+
+that monetary policy that accounted for financial stability would be able to establish a
+
+foundation for stable economic growth in the longer term. The member thus stressed
+
+that a foundation for economic stability should be established based on monetary policy,
+
+while structural issues to ensure long-term growth of the domestic economy should be
+
+dealt with through the government’s aggressive economic policy.
+
+Another member presented the view that it would be appropriate to keep the Base
+
+Rate unchanged from the current level of 0.50%.
+
+The member assessed that the domestic economy was sustaining a favorable
+
+recovery, with exports and facilities investment maintaining strong growth and the
+
+recovery of private consumption strengthening gradually. The member expected the
+
+domestic economy to exhibit growth consistent with the path forecast last May, although
+
+uncertainties related to COVID-19 had increased again. The member’s forecast was that
+
+stronger recoveries of the US and other major economies would have positive impacts
+
+on exports of and investment in Korea’s key industries. The member also projected that
+
+consumption would sustain its underlying trend of improvement, since the effects of the
+
+spread of the virus variants were unlikely to last long considering the full-scale
+
+vaccinations of young and senior age groups and previous measures to combat
+
+COVID-19, and the government was implementing policy measures to support income
+
+and boost consumption.
+
+Looking at inflation, the member mentioned that consumer price inflation had risen
+
+to the mid-2% level, boosted by the accelerating growth in service charges in addition
+
+to supply-side upward pressures, and core inflation had also sustained its modest growth
+
+of the lower-1% level. The member expected inflation to be somewhat above the May
+
+forecast growth path going forward. Meanwhile, the member’s evaluation was that
+
+housing price growth had accelerated, particularly in Seoul and its surrounding areas,
+
+and home purchase sentiment and expectations of higher housing prices were also rising
+
+again.
+
+Concerning the financial markets, the member pointed out that market risks were
+
+increasing, with continued risk preference and heightened volatility of capital flows
+
+between financial institutions. The member noted that there were growing concerns in
+
+the stock market about overly optimistic expectations from individual investors and
+
+leveraged speculative transactions. The member also assessed that institutional investors
+
+had been increasing short-term transactions involving MMFs and RPs and expanding
+
+investment in high-risk assets such as non-prime corporate bonds, and in this process
+
+9
+
+
+-----
+
+the interconnectedness of financial markets had increased, leading to higher interest rate
+
+and credit risks throughout the markets. Meanwhile, the member added that household
+
+debt had exhibited another sharp rise in June and the rate of growth in M2 and other
+
+liquidity indicators remained high.
+
+The member expressed concerns that the increasing imbalances throughout the
+
+financial markets could work to weaken financial system resilience and make the
+
+domestic economy vulnerable to internal and external shocks. The member argued that
+
+financial conditions, which had been eased to an extraordinary extent to cope with the
+
+COVID-19 crisis last year, were now acting as a factor worsening financial imbalances,
+
+and it would be therefore necessary to adjust the degree of easing appropriately.
+
+In conclusion, the member assessed that, considering the forecast of a strong,
+
+sustained recovery of the domestic economy and the continued increase in financial
+
+stability risks, it would be necessary to partly adjust the degree of monetary easing in
+
+the near future. However, the member expressed the opinion that it would be desirable
+
+to keep the Base Rate at its current level of 0.50%, considering the need to observe the
+
+developments and effects of the recent resurgence of COVID-19 for a little longer.
+
+One member presented the view that it would be appropriate to keep the Base Rate
+
+unchanged from its current level.
+
+The member assessed that, since the previous MPB meeting, the global economic
+
+recovery had been strengthening, boosted by accelerated vaccination and eased
+
+restrictions on economic activity. However, the member pointed out that the possibility
+
+could not be ruled out of a subdued economic recovery particularly in emerging market
+
+countries with low vaccination rates, since developments of the health crisis remained
+
+volatile with the rapid global spread of virus variants.
+
+The member mentioned that the domestic economy had continued to show similar
+
+developments to those of the global economy, and projected that a mix of upside and
+
+downside risks, such as supply chain bottlenecks, the resurgence of COVID-19,
+
+accelerated vaccinations and stimulus measures, would work to increase the volatility of
+
+economic activity greatly for the time being. The member expected the manufacturing
+
+sector to reverse to an uptrend at any moment, considering the positive forecast for the
+
+business climate by corporations and the steady improvement in inventories and in
+
+conditions for final demand, such as exports. Concerning the services sector, meanwhile,
+
+the member judged that economic losses in face-to-face industries would be inevitable,
+
+as the trend of their recoveries had been disrupted greatly in the short term by stricter
+
+social distancing rules. The member’s assessment was that, since vaccines had proved to
+
+be somewhat effective in preventing people from getting infected with COVID-19 and,
+
+10
+
+
+-----
+
+in case of infections, from getting seriously ill, and since face-to-face economic
+
+activities were being replaced with non-face-to-face economic activities based on the
+
+lessons learned from previous experiences, the resurgence of COVID-19 was likely to
+
+have only limited effects on GDP over a medium-term horizon. The member, however,
+
+noted that a careful approach was needed in estimating the economic impacts of the
+
+resurgence, since vaccination was proceeding more slowly in Korea than in major
+
+countries and the spread of virus variants had started to pick up at a time when
+
+face-to-face activities were increasing.
+
+The member assessed that consumer price inflation had exceeded 2% for the third
+
+consecutive month, and that supply-side inflationary pressures had declined somewhat but
+
+remained higher than originally forecast while demand-side inflationary pressures had
+
+also been increasing gradually. The member also mentioned that inflation expectations
+
+among the general public had been growing rapidly since the beginning of this year,
+
+and added that attention had been paid to whether this uptrend would continue and also
+
+to the correlation between inflation expectations and asset inflation.
+
+The member meanwhile assessed the financial markets as remaining relatively stable.
+
+The member also expressed concerns about the growing risk of the accumulation of
+
+financial imbalances due to the continued search for yield by economic agents and
+
+strengthening interactions between increasing private-sector leverage and rising asset
+
+prices under accommodative financial conditions. More specifically, the member noted
+
+that household credit had maintained strong growth and housing price growth had been
+
+accelerating again, raising concerns about their negative impacts. The member pointed
+
+out that upward trend in Korea’s household debt-to-income ratio had been gaining pace
+
+since the outbreak of COVID-19 to substantially surpass the average of major advanced
+
+countries, Korea’s housing price-to-income ratio (PIR) had also been growing more
+
+rapidly than that of other countries, and the ratio’s disparity from its long-term
+
+equilibrium level had widened significantly. The member presented the view that, if
+
+these risks are not appropriately managed, they could undermine future economic growth
+
+and financial stability through a potential increase in debt repayment burdens and the
+
+possibility of drastic price adjustments, and that in this regard there was a growing need
+
+to make monetary policy responses along with implementing various macroprudential
+
+measures.
+
+Taking all this into consideration, the member judged that, while the domestic
+
+economy had maintained the underlying trend of recovery, consumer price inflation was
+
+likely to exceed the May forecast and the risk of financial imbalances, such as
+
+increasing private-sector leverage and an over-concentration of funds in asset markets,
+
+had been worsening gradually. The member took the view that it would be necessary in
+
+11
+
+
+-----
+
+this regard to adjust the degree of monetary easing and change the policy stance to
+
+meet changing financial and economic conditions. The member, however, expressed the
+
+opinion that, since the resurgence of COVID-19 could limit the short-term trend of
+
+economic activity and add to uncertainty, it would be desirable to hold the Base Rate
+
+at its current level and observe a little longer developments of the health crisis and the
+
+economic situation at home and abroad.
+
+Another member presented the view that it would be desirable to hold the Base Rate at its
+
+current level of 0.50%.
+
+The member expected Korea’s growth rate for this year to be at around 4% as
+
+originally forecast, since briefings by the Research Department indicated that the spread
+
+of variants was likely to have only limited negative effects on consumption compared
+
+with the past due mainly to accelerated vaccinations and loosened vigilance against the
+
+pandemic while the supplementary budget was expected to have positive effects. With
+
+respect to exports and investment, the member considered it fortunate to see exports and
+
+investment buoyant despite the global spread of virus variants, boosted largely by
+
+recoveries of major economies and digital innovation. The member, however, presented
+
+the view that attention should be paid to possible production setbacks in key
+
+manufacturing industries, due mainly to the continued supply chain bottlenecks resulting
+
+from a shortage of semiconductor supply, limited logistics facilities, and the spread of
+
+COVID-19 in certain regions of the country.
+
+The member forecast consumer price inflation to be nearly 2% this year and core
+
+inflation to remain in the lower-1% range with both supply- and demand-side upward
+
+pressures strengthening. The member expressed the view that core inflation felt by the
+
+general public might be much higher than the actual figures, given that regulated items
+
+account for a large share of Korea’s statistics on consumer price inflation and owners’
+
+equivalent rent (OWR) is excluded from the statistics, and added that this was not
+
+irrelevant to the recent rise in inflation expectations.
+
+Concerning the financial sector, the member pointed to the accumulation of risks
+
+owing to the unprecedented expansion in leverage and the strengthening risk preference.
+
+The member noted that a look at the rates of growth in housing sales prices in the
+
+world’s major cities and stock price growth rates in major countries since the beginning
+
+of last year showed that Korea ranked near the top. The member added that Korea’s
+
+household debt-to-GDP ratio had become much higher than those of major countries,
+
+with financial institution household lending recording its largest-ever increase and the
+
+outstanding amount of loans on margin accounts hitting a record high in the first half
+
+of this year.
+
+12
+
+
+-----
+
+Considering these macroeconomic and financial stability conditions, the member
+
+expressed the view that it would be necessary not to wait too long to start adjusting
+
+the monetary easing stance. The member however added that, considering the heightened
+
+uncertainty surrounding the growth path due to the recent rapid resurgence of
+
+COVID-19, it would be appropriate to keep the Base Rate unchanged from the current
+
+level and closely monitor future economic developments to determine when to start
+
+monetary policy normalization. The member also stressed the need to examine whether
+
+the prolongation of the accommodative policy stance in response to the COVID-19
+
+shock was working to increase the risk of financial imbalances. Furthermore, the
+
+member added that it would be necessary to consider more direct financial and fiscal
+
+support for vulnerable groups hit hardest by the resurgence of COVID-19.
+
+###### Ⅳ. Results of Deliberation on Monetary Policy Directions
+
+ Incorporating the outcome of the above discussions, the following Monetary
+
+ Policy Decision statement was compiled reflecting the views of the majority.
+
+ However, Dr. Koh, Seung Beom expressed clear opposition to keeping the
+
+ Base Rate at the current level and argued for raising it by 0.25 percentage
+
+ points.
+
+ Monetary Policy Decision
+
+ □ The Monetary Policy Board of the Bank of Korea decided today to leave the
+
+ Base Rate unchanged at 0.50% for the intermeeting period.
+
+ □ Currently available information suggests that the recovery of the global
+
+ economy has strengthened, supported by accelerated vaccinations and the
+
+ relaxation of restrictions on economic activity in major countries. In global
+
+ financial markets, stock prices have continued to rise, reflecting the economic
+
+ recovery. The US dollar has strengthened, while long-term government bond
+
+ yields have declined considerably due mainly to the spread of COVID-19
+
+ variants. Looking ahead, the Board sees global economic growth and global
+
+13
+
+
+-----
+
+###### financial markets as likely to be affected largely by the severity of the
+
+ resurgence of COVID-19 and the status of vaccine distribution, as well as by
+
+ national policy responses and their effects.
+
+ □ The Korean economy has continued its sound recovery. Exports and facilities
+
+ investment have sustained their buoyancy and private consumption has shown
+
+ improvement. Labor market conditions have continued to improve, with the
+
+ year-on-year increase in the number of persons employed remaining high.
+
+ Going forward, exports and investment will sustain their buoyancy, while
+
+ private consumption is forecast to temporarily weaken affected by the
+
+ coronavirus resurgence but then return to the path of recovery supported by
+
+ the execution of a supplementary budget. GDP growth this year is projected
+
+ to be around 4%, consistent with the forecast in May.
+
+ □ Consumer price inflation has remained high at the mid-2% level due to the
+
+ rising prices of petroleum products and agricultural, livestock, and fisheries
+
+ products as well as the accelerating increase in service prices. Core inflation
+
+ (excluding changes in food and energy prices from the CPI) has run at the
+
+ lower-1% level. The inflation expectations of the general public have risen
+
+ slightly to the lower-to mid-2% range. Looking ahead, it is forecast that
+
+ consumer price inflation will continue to run in the lower- to mid-2% range
+
+ for some time, exceeding the path projected in May. Core inflation is
+
+ forecast to increase gradually to the mid-1% range.
+
+ □ In domestic financial markets, stock prices and the Korean won to US dollar
+
+ exchange rate have risen, mainly driven by global financial market
+
+ movements. The 3-year Korean Treasury bond yield has risen considerably,
+
+ while the 10-year yield has fallen. Household loan growth has remained high,
+
+ showing a record level on a first-half basis, and housing prices have
+
+ continued to increase rapidly in all parts of the country.
+
+ □ The Board will continue to conduct monetary policy in order to sustain the recovery
+
+ of economic growth and stabilize consumer price inflation at the target level over a
+
+ medium-term horizon, while paying attention to financial stability. The Board will
+
+14
+
+
+-----
+
+###### maintain an accommodative stance of monetary policy as there remain uncertainties
+
+ posed by the virus, although the Korean economy is expected to continue its recovery
+
+ and inflation to remain at a high level for some time. In this process the Board will
+
+ judge whether it is appropriate to adjust the degree of accommodation while
+
+ thoroughly assessing developments related to COVID-19, changes in the pace of
+
+ growth and inflation, and the risk of a buildup of financial imbalances.
+
+15
+
+
+-----
+

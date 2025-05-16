@@ -1,0 +1,350 @@
+==============
+###### English Version
+==============
+
+# Monetary Policy Committee Meeting
+
+ Minutes
+
+### June 10, 2010
+
+## Bank of Korea
+
+
+-----
+
+###### Ⅰ. Outline
+
+1. Date of meeting June 10, 2010 (Thur), 9 AM
+
+2. Place Monetary Policy Committee Meeting Room
+
+3. Monetary Policy Committee members present
+Kim, Choongsoo, Chairman (Governor of Bank of Korea)
+Kim, Dae Sik
+Choi, Dosoung
+Kang, Myung Hun
+Lee, Ju Yeol (Senior Deputy Governor)
+Lim, Seungtae
+
+4. Monetary Policy Committee members absent : None
+
+5. Government representative present
+Yim, Jong-ryong, Vice Minister of Strategy and Finance
+
+6. Participants
+
+Kang, Tai Hyuk, Auditor
+Kim, Jae-Chun, Deputy Governor
+Jang, Byung-Wha, Deputy Governor
+Lee, Kwang-June, Deputy Governor
+Jang, Seh Geun, Deputy Governor
+Kim, Kyungsoo, Director General of Institute for Monetary and Economic
+Research
+Lee, Sang Woo, Director General of Research Department
+Chung, Hee-Chun, Director General of Monetary Policy Department
+Min, Sung Kee, Director General of Financial Markets Department
+Ahn, Byung Chan, Director General of International Department
+Yoo, Byoung Gap, Director General of Monetary Policy Committee Secretariat
+Jung, Hee Sik, Director General of Press Office
+
+1) This English version (summary) of the Monetary Policy Committee meeting minutes was produced at
+the working level and is not an official document.
+
+1
+
+
+-----
+
+###### Ⅱ. Discussion on Economic Situation (Summary)2)
+
+After hearing staff briefings on 'Current Domestic and Overseas Economic
+
+Developments' and the 'Financial Markets', the discussions among members
+
+of the Monetary Policy Committee (MPC) covered the following areas:
+
+With regard to the global economy, most members agreed that the
+
+recovery momentum was continuing overall, since emerging markets including
+
+China were registering high growth and advanced economies including the US
+
+and Japan were showing solid, albeit gradual growth. However, some
+
+members commented that the outlook for the global economy was still
+
+gloomy, given that leading economic indicators in major advanced countries
+
+were showing downward trends and there were still potential risk factors such
+
+as the fiscal problems in Europe.
+
+As for recent domestic economic developments, most members assessed
+
+the domestic economy as having remained on an improving trend in May, as
+
+in the month before, centering around exports. One member mentioned that
+
+the GDP gap was estimated to be escaping its negative state.
+
+In this connection, most members noted that manufacturing and services
+
+production continued to rise and exports were also favorable, with export
+
+performance data on a daily basis hitting a record high in May, boosted by
+
+the global economic recovery.
+
+They pointed out in addition that the lackluster month-on-month
+
+performance of some domestic demand indicators such as facilities investment
+
+and consumption in the second quarter had been due to a technical base
+
+period effect following their large increases during the first quarter, and
+
+deemed overall domestic demand to still remain brisk.
+
+However, some members commented that, taking into account the fact
+
+2) The contents of 'Current Domestic and Overseas Economic Developments' and the 'Financial Markets'
+are posted in English on the Bank of Korea web site.
+
+2
+
+
+-----
+
+that growth in domestic demand was slowing and leading economic indicators
+
+were also continuing to decline, there was a likelihood of change in the
+
+phase of the business cycle and attention needed to be paid to this matter.
+
+Regarding the future outlook, many members forecasted that the trend of
+
+stable growth in Korea would not be under great threat during the second
+
+half of this year, although downside growth risk might increase to some
+
+extent in the case where the fiscal crises in some European countries caused
+
+increases in domestic and international financial market volatility.
+
+With respect to employment, members considered that the employment
+
+situation showed pronounced improvement, pointing to the examples of
+
+employment in the private sector returning to its pre-global financial crisis
+
+level in April and the sharp fall in the unemployment rate in May. One
+
+member, however, forecasted a somewhat limited recovery in the employment
+
+sector, noting the facts that restructuring of the small scale services industry,
+
+including the wholesale and retail and restaurants & hotels sectors, was
+
+continuing, and that the government's job creation schemes were being cut
+
+back or replaced by the end of June and the capacity to absorb young
+
+employees had weakened.
+
+Many members noted that the domestic financial markets had shown
+
+instability, as foreign portfolio investment funds had flown from the markets
+
+dramatically, and stock prices and the KRW/USD exchange rate had become
+
+much more volatile, influenced by the fiscal crises in some European
+
+countries and the growing geopolitical risk on the Korean peninsula. One
+
+member meanwhile assessed there to be great likelihood of distortions in
+
+market fund flows caused by herd behavior, since short-term funds were
+
+abundant in the financial markets, and he pointed to the need to step up
+
+monitoring of market fund flows.
+
+As to consumer price inflation, many members judged that, although it
+
+was below the inflation target, it was still higher than the expected level and
+
+there was a high possibility that it could exceed the target level at year-end,
+
+as consumer prices were rising gradually due to hikes in public utility charges
+
+3
+
+
+-----
+
+and mounting demand-pull pressures in line with the economic recovery.
+
+One member noted that major indicators of demand-pull pressures,
+
+including the GDP gap rate, the manufacturing capacity utilization ratio and
+
+the employment rate, had already converged on or surpassed their long-term
+
+average figures.
+
+Regarding the real estate market, some members mentioned that the
+
+possibility of a restructuring in the real estate market had been steadily
+
+raised, with housing transactions turning even more sluggish and prices falling
+
+at a faster pace in Seoul and its surrounding areas. One member
+
+meanwhile argued that there were concerns about a possible vicious circle, in
+
+which the sluggish real estate market might worsen financial conditions in the
+
+construction industry, which would increase the delinquency rate of savings
+
+banks holding heavy project financing loans and damage their asset quality,
+
+consequently leading to a further increase in the downside pressures on real
+
+estate prices.
+
+###### Ⅲ. Discussion Related to Monetary Policy Decision (Summary)
+
+The Monetary Policy Committee Members' discussions on changes in the
+
+Bank of Korea Base Rate were as follows.
+
+Many members judged conditions to be have reached the stage where
+
+adjustment of the degree of monetary policy easing was appropriate, given
+
+the national economys having gotten back on track and the growing upside
+
+risks to prices. Some pointed out the possibility that maintaining the Base
+
+Rate at its current level, to which it had been steeply cut to counteract the
+
+crisis, might give rise to serious side effects such as herd behavior in the
+
+markets, adding that if this should undermine market confidence in the
+
+monetary authorities, they would have to shoulder a very heavy cost burden.
+
+Some members mentioned that it was advisable for the central bank to
+
+take preemptive monetary policy measures in an effort to mitigate potential
+
+4
+
+
+-----
+
+inflationary pressures and prepare for new risks that might arise in the
+
+second half of the year.
+
+Some other members meanwhile argued that, given the relatively stable
+
+consumer prices, the central bank should wait and see how the global
+
+financial market unrest would progress before taking preemptive measures to
+
+adjust interest rates, since there was great uncertainty due to the fiscal
+
+problems in Southern European countries.
+
+Many members meanwhile noted that, even though not making an upward
+
+adjustment of the Base Rate this month, the central bank should send the
+
+markets a clearer signal of a possible interest rate increase than in the
+
+previous month, in order to prevent herd behavior.
+
+One member expressed the opinion that, although the fiscal crisis in
+
+Southern Europe was hardly likely to lead to a global financial crisis, reforms
+
+in the financial and foreign exchange markets should be energetically pursued
+
+now, so that the domestic economy would be able to cope with such crises
+
+in the future.
+
+###### Ⅳ. Remarks by Government Representative
+
+Prior to the members' arguments regarding the Base Rate, the Chairman
+
+gave the floor to the Vice Minister of Strategy and Finance present at the
+
+meeting, who explained the government's position on and assessment of the
+
+current economic situation and measures to mitigate the volatility of capital
+
+flows.
+
+5
+
+
+-----
+
+< Ref >
+
+Monetary Policy Decision
+
+- The Monetary Policy Committee of the Bank of Korea decided today to
+maintain the Base Rate at its current level (2.00%) for the intermeeting
+period.
+
+- In the global economy, emerging market economies have sustained their
+favorable performance, while the economies of major advanced countries
+such as the US and Japan have continued improvement. There is,
+however, an underlying risk that the international financial markets may be
+destabilized at any time due to the government debt problems in some
+European countries, and that this could exercise an influence on the
+recovering trend in the global economy.
+
+- The upward trend of domestic economic activity appears to have been
+maintained. Even though the increasing trend of domestic demand such
+as consumption and investment has temporarily faltered, exports have
+sustained their buoyancy and, led by the private sector, labor market
+conditions have improved further.
+
+This upward trend is expected to be maintained. Considering the overseas
+risk factors, however, there still remains uncertainty as to the economic
+growth path.
+
+- Consumer price inflation has accelerated slightly, driven mainly by
+petroleum products, and demand-pull pressure is expected to increase
+gradually as the upward trend of economic activity continues. In the real
+estate market, housing sales prices have shown weakness, dragged
+down by prices in Seoul and its surrounding areas.
+
+- In the financial markets, price variables such as stock prices and
+exchange rates have been highly volatile due to the government debt
+problems in some European countries and the increase in the
+geo-political risks surrounding the Korean peninsula. The scale of the
+growth in mortgage lending has widened slightly in response chiefly to
+reduced lending rates, even though house transactions have been
+inactive.
+
+- Looking ahead, the Committee will maintain the accommodative policy
+stance in such a way as to help the economy sustain its sound growth
+on a foundation of price stability and, in carrying out policy, it will take
+overall account of financial and economic conditions at home and abroad.
+
+   - However, Mr. Kang, Myung Hun and Mr. Lim, Seungtae dissented
+from the addition of the expression 'foundation of price stability' to the
+'Monetary Policy Decision', while agreeing that the Base Rate be
+maintained at its current level.
+
+6
+
+
+-----
+

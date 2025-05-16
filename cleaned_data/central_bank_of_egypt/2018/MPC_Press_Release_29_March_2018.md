@@ -1,0 +1,46 @@
+# Central Bank of Egypt
+
+**Press Release**
+
+March 29, 2018
+
+**In its meeting on March 29, 2018, the Monetary Policy Committee (MPC) decided to cut the overnight**
+**deposit rate, overnight lending rate, and the rate of the Central Bank of Egypt's (CBE) main operation**
+**by 100 basis points to 16.75 percent, 17.75 percent, and 17.25 percent, respectively. The discount rate**
+**was also cut by 100 basis points to 17.25 percent.**
+
+In its last meeting on February 15, 2018 the MPC began to ease its tight stance on interest rates that
+successfully managed to tame monthly inflation.
+
+Annual headline and core inflation rates continued to decline to record 14.4 percent and 11.9 percent in
+February 2018, after peaking in July 2017 at 33.0 percent and 35.3 percent, respectively. The headline
+and core annual inflation rates thereby registerd the lowest since October and April 2016, respectively.
+
+Real GDP growth continued to improve for the fifth consecutive quarter to record 5.3 percent in
+December 2017 and 5.0 percent during 2017, the highest economic growth since 2010. This coincided
+with the narrowing of the unemployment rate to 11.3 percent in December 2017, the lowest since
+December 2010.
+
+The pickup of economic growth was largely boosted by higher net external demand, due to more
+competitive exchange rates, followed by public domestic demand, which have more than offset lower
+private domestic demand. Output growth by economic activity was relatively diversified, and continued
+to be mostly supplied by the private sector.
+
+Cutting key policy rates today remains consistent with tight real monetary conditions and with achieving
+the inflation target of 13 percent (±3 percent) in 2018 Q4 and single digits thereafter.
+
+Domestic risks surrounding the inflation outlook include the evolution of inflation expectations, the
+timing and magnitude of potential subsidy-reform measures, as well as demand-side pressures. Risks
+from the global economy are crude oil price developments and the pace of tightening financial
+conditions.
+
+The MPC closely monitors all economic developments and will not hesitate to adjust its stance to
+achieve its mandate of price stability over the medium term.
+
+**Monetary Policy Sector**
+Phone: +20227701315
+E-mail: monetary.policy@cbe.org.eg
+
+
+-----
+

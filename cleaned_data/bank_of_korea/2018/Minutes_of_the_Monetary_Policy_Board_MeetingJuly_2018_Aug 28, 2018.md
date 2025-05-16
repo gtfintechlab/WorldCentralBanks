@@ -1,0 +1,1029 @@
+### July 12, 2018
+
+## The Bank of Korea
+
+
+-----
+
+###### (English version)
+
+#### Minutes of the Monetary Policy Board Meeting[1)]
+
+##### (July 2018)
+
+ Ⅰ. Outline
+
+###### 1. Date of meeting: Thursday, July 12, 2018
+
+ 2. Place     : Monetary Policy Board Meeting Room
+
+ 3. Monetary Policy Board members present:
+
+ Lee, Juyeol, Chairman (Bank of Korea Governor) Lee, Il Houng Cho, Dongchul Koh, Seung Beom Shin, Inseok Yoon, Myun-Shik (Senior Deputy Governor) Lim, Jiwon
+
+ 4. Monetary Policy Board members absent: none
+
+ 5. Participants:
+ Lim, Hyung Joon, Deputy Governor Huh, Jin Ho, Deputy Governor Shin, Ho Soon, Deputy Governor Ryoo, Sang Dai, Deputy Governor Chung, Kyuil, Deputy Governor Suh, Bong Gook, Director General of Reserve Management Group Lee, Hwan Seok, Director General of Research Department
+  Sohn, Wook, Director of BOK Economic Research Institute  Shin, Woon, Director General of Financial Stability Department
+ Park, Jongseok, Director General of Monetary Policy Department Lee, Sang Hyeong, Director General of Financial Markets Department Lee, Seung Heon, Director General of International Department Seong, Byung Hee, Press Officer Chang, Cheong-Seok, Director General of Monetary Policy Board Secretariat Lee, Dong Won, Head of MPB Team
+
+1) This English version (summary) of the minutes of the Monetary Policy Board Meeting was produced
+
+at a working level, and is not an official document.
+
+1
+
+
+-----
+
+##### Ⅱ. Summary of Discussions on the Current Economic Situation[2)]
+
+###### After briefings by staff on “Economic Outlook for the Second Half of
+
+ 2018,” “FX and International Finance” and “Financial Market Trends,” the
+
+ discussions of the Monetary Policy Board (MPB) members covered the
+
+ following areas:
+
+ Members evaluated that the global economy had continued to show
+
+ moderate growth on the whole, with emerging market economies(EMEs)
+
+ generally improving and the US economy sustaining its robust growth.
+
+ Members also mentioned that there had been growing concerns in the
+
+ global financial markets, as Asian emerging market countries had seen
+
+ declining stock prices and depreciating currencies and had experienced
+
+ foreign capital outflows in consequence of the US-China trade dispute.
+
+ Concerning the domestic economy, members’ evaluation was that
+
+ facilities and construction investment had continued to go through a
+
+ correction, private consumption and exports had sustained relatively
+
+ favorable movements, and government spending had increased rapidly. The 
+
+ growth forecasts for this year and next year were lowered by 0.1
+
+ percentage point each to 2.9 percent and 2.8 percent, respectively, in
+
+ reflection of downside risks such as the escalating trade dispute between
+
+ the US and China and continued employment sluggishness. 
+
+ Concerning inflation, members noted that consumer price inflation had
+
+ risen slightly and core inflation had remained in the low-1% range in the
+
+ second quarter. And in comprehensive consideration of increases in oil
+
+ prices and the exchange rate and a slowdown in growth of administered
+
+ prices due to an expansion in welfare policy including education and
+
+ medical services, consumer price inflation was forecast at 1.6 percent for
+
+2) English versions of “Economic Outlook for the Second Half of 2018” and “Financial Market Trends”
+
+are posted on the Bank of Korea website.
+
+2
+
+
+-----
+
+###### this year and 1.9 percent for next year.
+
+ As to the domestic financial markets, members assessed that price
+
+ variable volatility, although having increased due to concerns about a
+
+ spread of trade frictions, would have only limited impacts, and went on to
+
+ state that attention needed to be paid to the possibility of an escalation of
+
+ the US-China trade dispute. The members stressed that, despite a
+
+ slowdown in household debt growth, it would be necessary to constantly
+
+ examine growth in loans such as leasehold deposit loans and loans to sole
+
+ proprietors.
+
+3
+
+
+-----
+
+##### Ⅲ. Discussions Concerning Monetary Policy Decision (Summary)
+
+###### The main details of the MPB members’ discussions concerning a
+
+ change in the Bank of Korea Base Rate were as follows:
+
+ The majority of members shared the opinion that, in overall
+
+ consideration of the domestic and international financial and economic
+
+ environments, it would be desirable to keep the Base Rate at its current
+
+ level of 1.50 percent for the intermeeting period.
+
+ One member took the view that it would be desirable to raise the Base
+
+ Rate from the current 1.50 percent to 1.75 percent at this meeting, as the
+
+ time had come to somewhat reduce the accommodative monetary policy
+
+ stance.
+
+ The member noted that, although the global economy had maintained
+
+ modest growth, there had been growing preference for safe haven assets
+
+ due to the prolongation of the recent trade dispute, and global supply
+
+ chains had begun to show signs of structural changes. The member added
+
+ that the repercussions of the trade conflict were likely to be limited to
+
+ financial markets in the short term, but if the dispute intensified, Korea’s
+
+ exports would be affected both directly and indirectly, and the long-term
+
+ results would be hard to predict as production bases were relocated.
+
+ The member assessed domestic real economic fundamentals as being
+
+ overall similar to those previously forecast. The member noted that
+
+ consumption had continued to show gradual improvement and construction
+
+ investment had been going through a correction as originally forecast,
+
+ while IT investment, concentrated among some corporations, had exhibited
+
+ weak growth and was likely to fall below the level originally forecast.
+
+ The member, however, argued that the Korean economy, boosted by an
+
+ expansionary fiscal policy, was expected to continue to remain slightly
+
+ above its potential growth level.
+
+ The member evaluated, meanwhile, that the recent rapid decline in the
+
+4
+
+
+-----
+
+###### working-age population aged 15 to 59, combined with the fall in the
+
+ average working hours, had reduced total labor supply, and in the process
+
+ of coping with this, corporations had raised wages and reduced changes in
+
+ the number of persons employed, which had resulted in a decrease in the
+
+ rate of increase in total working hours and an increase in the rate of total
+
+ wage growth from January to May this year.
+
+ The member’s assessment was that consumer price inflation had
+
+ remained flat at the mid-1% level, but when excluding the prices of
+
+ administered items currently exhibiting negative growth, inflation was seen
+
+ to have already exceeded its target. The member forecast consumer price
+
+ inflation to decline temporarily in the third quarter due to a base effect
+
+ and then gradually move near its target, considering that personal service
+
+ prices, which were driving consumer price inflation, had remained in the
+
+ mid-2% range and that oil prices and prices of items affected by the
+
+ global economic recovery were expected to rise.
+
+ Meanwhile, the member’s judgment was that the expansion in financial
+
+ liabilities resulting from the sustained accommodative monetary policy
+
+ stance was materializing as risks to the real economy, such as excessive
+
+ business investment in real estate sector, and vacancy risks from
+
+ oversupply of housing. The member also assessed that returns from
+
+ inefficient leveraged investment had not led to sustainable revenues, which 
+
+ had been gradually increasing deadweight loss in the Korean economy.
+
+ The member added that a balloon effect, in which considerable liquidity
+
+ had been flowing into less-regulated sectors, still existed while real estate
+
+ risks had been somewhat controlled by various measures taken by the
+
+ policy authorities.
+
+ In this regard, the member’s judgment was that widening financial
+
+ imbalances could be curbed to some extent by making a slight upward
+
+ adjustment of the Base Rate toward the neutral interest rate at this point
+
+ in time when inflation was forecast to near its target in the medium term.
+
+ The member also took the view that the burdens placed on vulnerable
+
+5
+
+
+-----
+
+###### groups by a rate hike could be addressed more effectively with
+
+ government policy measures implemented at a micro level.
+
+ Another member expressed the view that it would be desirable to hold
+
+ the Base Rate at its current level of 1.50 percent for the intermeeting period,
+
+ stating that more time was needed to monitor trends of economic conditions,
+
+ employment and inflation as well as changes in external conditions.
+
+ The member expressed the view that, although the global economy had
+
+ overall maintained favorable growth and global trade had rebounded in the
+
+ second quarter, uncertainties had increased, since, from the second half of this
+
+ year, the repercussions of the US-China trade dispute were likely to increase
+
+ more than originally expected and the US Federal Reserve was forecast to
+
+ continue to normalize its monetary policy in line with the sustained US
+
+ economic growth.
+
+ Looking at the domestic economy, the member noted that employment
+
+ had been sluggish and facilities and construction investment had been going
+
+ through corrections while private consumption and exports had shown
+
+ relatively favorable movements. The member also expressed the view that it
+
+ would be necessary to examine whether this employment sluggishness had
+
+ been caused by either cyclical or structural factors, and went on to state that
+
+ if employment in the construction sector remained poor and that in the
+
+ manufacturing sector did not improve significantly, employment from next
+
+ year onwards would also be weaker than initially forecast. The member
+
+ mentioned that consumer price inflation had accelerated slightly but core
+
+ inflation had remained in the lower-1% range in the second quarter, and
+
+ added that future trends should be closely monitored, as consumer price
+
+ inflation was now forecast to increase near its target in the fourth quarter this
+
+ year and in the first half of next year, driven by factors such as international
+
+ oil prices and exchange rates.
+
+  Looking at the real economy, the member’s evaluation was that,
+
+ although the Korean economy had recently seemed to sustain modest growth
+
+ overall and a slightly positive output gap, the inflation gap was highly likely
+
+6
+
+
+-----
+
+###### to remain negative for the time being, and therefore the current monetary
+
+ easing stance should be maintained.
+
+  Concerning financial stability, the member argued that attention should
+
+ be paid to the recent rise in global financial market volatility, as seen
+
+ especially in financial unrest in EMEs, and also to the accumulation of
+
+ financial imbalances. Specifically, the member noted that it would be
+
+ necessary to step up monitoring of the development and impacts of the
+
+ US-China trade dispute and also to keep a close watch on the inversion of
+
+ the US and Korean yield curves and trends of capital flows. The member
+
+ also expressed the view that household debt growth had recently been stable
+
+ but was still higher than nominal growth rate, and that in this regard it
+
+ would be necessary to constantly examine and cope with growth in leasehold
+
+ deposit loans, credit loans and loans to sole proprietors. And the member
+
+ added that in-depth examination of how much consideration should be given
+
+ to the household debt issue in monetary policy decisions would be needed.
+
+ One other member presented the view that it would be desirable to hold
+
+ the Base Rate at its current level of 1.50 percent for the intermeeting period.
+
+ Looking at the recent economic conditions since the May 24 Monetary
+
+ Policy Board meeting, the member noted that the GDP growth forecasts
+
+ for this year and next year had been revised downward by 0.1 percentage
+
+ point to 2.9 percent and 2.8 percent, respectively, compared to the April
+
+ forecasts, and that this reflected downside risks to growth, including an
+
+ escalation of the trade dispute between the US and China, continued
+
+ sluggishness in employment, and a heightening of domestic and
+
+ international financial market volatility. Taking into consideration, however,
+
+ that the potential growth of the Korean economy was estimated at the
+
+ upper-2 percent level, the member assessed actual growth to be continuing
+
+ at a level consistent with its potential. With respect to consumer price
+
+ inflation, the member noted that the slower uptrend in administered prices,
+
+ such as costs for education and medical services, had worked as a
+
+ downside risk to inflation. The member also noted that personal service
+
+7
+
+
+-----
+
+###### price inflation, which reflects demand-side pressures relatively well, had
+
+ remained in the mid-2 percent range, and supply-side inflationary pressures
+
+ were growing due to the recent rises in global oil prices and the exchange
+
+ rate. Against this backdrop, the member forecast consumer price inflation
+
+ to be 1.6 percent this year and 1.9 percent next year. The member also
+
+ expected consumer price inflation to gradually accelerate from the fourth
+
+ quarter and reach its 2 percent target at the end of this year.    
+
+ The member’s assessment was that, in the financial markets at home
+
+ and abroad, volatility in price variables had heightened due to concerns
+
+ about the spread of global trade disputes. The member added that, while
+
+ substantial capital outflows and rising financial unrest had been seen in
+
+ EMEs, and vulnerable ones in particular, such changes in external factors
+
+ would likely have limited and manageable impacts on the domestic
+
+ economy and finance, given the economy’s favorable fundamentals. The
+
+ member, however, noted that if the US-China trade dispute persisted or
+
+ escalated to an unexpected level, and financial unrest heightened in
+
+ preemptive reflection of this, it would be hard to rule out the possibility
+
+ that the negative impacts could be larger than expected.  
+
+ Meanwhile, the member mentioned the need for remaining on the alert
+
+ and keeping an eye on household lending, since, although household
+
+ lending growth had slowed thanks to government measures, it was still
+
+ high compared to past years. The member then presented the view that
+
+ from the perspective of financial stability, a close eye should also be kept
+
+ on the higher growth in sole proprietor loans seen recently, led by real
+
+ estate leasing services.
+
+ With respect to the corresponding monetary policy direction, the
+
+ member’s assessment was that, since GDP growth forecasts for this year
+
+ and the next year were consistent with their potential growth levels, and
+
+ consumer price inflation was expected to reach its target level at around
+
+ the end of this year, the need had grown for paying attention to financial
+
+ stability risks at home and abroad when conducting monetary policy. The
+
+8
+
+
+-----
+
+###### member also presented the opinion that there remained a need to reduce
+
+ the degree of monetary easing from the current level by raising the Base
+
+ Rate in the not-distant future in order to ensure space for monetary policy
+
+ in preparation for a possible change in the phase of the business cycle
+
+ over a longer term horizon, and in order to preemptively alleviate potential
+
+ destabilizing factors stemming from the widening of the policy rate gap
+
+ between the Bank of Korea and the US Federal Reserve. The member,
+
+ however, expressed the view that it would be better to hold the Base Rate
+
+ at its current level of 1.50 percent in consideration of the following
+
+ factors: 1) the growth forecasts had been revised downward, albeit only
+
+ slightly, in reflection of downside risks, 2) economic sentiment had
+
+ weakened somewhat, due to high uncertainties about economic conditions,
+
+ including the US-China trade dispute, and 3) demand-side inflationary
+
+ pressures were still modest.
+
+ Meanwhile, one member expressed the view that, taking into overall
+
+ consideration the trends in the real economy and inflation, and conditions
+
+ related to financial stability, it would be desirable to keep the Base Rate at
+
+ its current level of 1.50 percent for the intermeeting period.
+
+ The member saw that the global economy was maintaining growth above
+
+ its potential and continuing to show a modest expansionary phase. The
+
+ member noted that US economic growth in the second quarter was expected
+
+ to rise significantly from the previous quarter and EMEs were generally
+
+ sustaining their trends of improvement, while the economies in the Euro area
+
+ and Japan were showing trends of recovery. The member thus forecast that
+
+ global trade would continue on a solid growth track for quite some time. The
+
+ member, however, expressed the view that it was necessary to closely monitor
+
+ the developments and extents of any escalation of global trade disputes or
+
+ heightening of financial market volatility.
+
+ The member’s assessment was that, with respect to the domestic economy,
+
+ although quarter-on-quarter growth was estimated to have slowed somewhat in
+
+9
+
+
+-----
+
+###### the second quarter, this represented a technical decline since first-quarter
+
+ growth had been partially attributable to one-off factors. The member noted
+
+ that investment was undergoing a correction. The member, however, saw that
+
+ the domestic economy was sustaining growth consistent with its potential level
+
+ as exports and consumption showed favorable movements, and that the output
+
+ gap remained slightly positive.
+
+ Nonetheless, the member assessed uncertainties surrounding the medium
+ to long-term growth path to remain high, due mainly to changes in policies
+
+ at home and abroad. Externally, the member noted the growing concerns
+
+ about the US-China trade dispute, expressing the opinion that if trade
+
+ protectionism became more globally widespread, consumption and investment
+
+ could be constrained greatly through strengthened risk aversion, although
+
+ losses in exports stemming from already finalized trade sanctions were
+
+ estimated to have been limited. Domestically, the member noted that attention
+
+ should be paid to the continued sluggishness in employment. With respect to
+
+ the forecasts for employment conditions in the second half against the
+
+ backdrop of the government’s increase in public sector jobs and reduced
+
+ impacts of the restructurings of some manufacturing industries, the member
+
+ pointed out that there was a high possibility that changes in the number of
+
+ persons employed would run below its forecast, given that the employment
+
+ sluggishness was significantly attributable to structural factors. Meanwhile, the
+
+ member added that there were positive factors surrounding the growth path in
+
+ the second half, including the heightened possibility of fiscal policy being
+
+ implemented in a more expansionary manner compared to that at the time of
+
+ the April forecast, and the fact that the reduction in statutory working hours
+
+ was being carried out more flexibly than expected.
+
+ The member noted that consumer price inflation had stabilized in the
+
+ mid-1 percent range of late, but there was a possibility that inflationary
+
+ pressures were higher than what was suggested by headline indexes, given the
+
+ price trends of items greatly affected by demand-side factors. For instance,
+
+ pointing out that core inflation with administered items excluded had
+
+10
+
+
+-----
+
+###### accelerated to the upper-1 percent level, the member expressed a need for
+
+ caution with respect to determining the underlying movements of consumer
+
+ prices. The member added that it should also be noted that volatilities in the
+
+ exchange rate and international oil prices could be heightened for some time,
+
+ due mainly to trade disputes and changes in the monetary policies of major
+
+ countries.
+
+ Last, in terms of financial stability, the member saw the need for constant
+
+ vigilance, as household lending growth was slowing but still high. Looking at
+
+ the financial markets, the member’s assessment was that sudden and
+
+ large-scale capital outflows were unlikely since external soundness indicators
+
+ remained strong, although price variable volatility had increased greatly due to
+
+ concerns about the spread of trade disputes. The member, however, stressed
+
+ the need for close monitoring of relevant risks in preparation for a possible
+
+ increase in cautious sentiment with respect to the Chinese financial markets
+
+ and economy stemming from the escalating trade dispute between the US and
+
+ China.
+
+ Another member expressed the view that, since price inflation was low
+
+ and there were high uncertainties at this juncture, it would be desirable to
+
+ confirm the pace of inflation growth and choose the time to raise the
+
+ Base Rate accordingly, while holding the Base Rate at its current level of
+
+ 1.50 percent this time.
+
+ Looking at real economic conditions, the member evaluated that,
+
+ although uncertainties surrounding the economic landscape had been
+
+ mounting at home and abroad, relevant indicators pointed to solid growth.
+
+ On the international front, the member noted that risks of a worsened
+
+ global trade environment had mounted greatly as, in the US, the Trump
+
+ administration’s protectionist stance had led to the materialization of
+
+ worse-than-expected disputes with China and the EU. The member also
+
+ commented that growing uncertainties related to these trade frictions had
+
+ heightened anxieties in regional financial markets. The member, however,
+
+ saw that the real economic indicators in the US remained more favorable
+
+11
+
+
+-----
+
+###### than originally expected, that no indicators suggested that global trade
+
+ would show slower growth, and that Korean exports also continued to
+
+ show steady growth at the upper-3 percent level on a goods volume basis.
+
+ On the domestic front, the member judged that there had been ongoing
+
+ signs that the labor market environment was changing since the end of
+
+ last year, and there were increased uncertainties as to the effects this
+
+ might have on the behaviors of economic agents. The member also noted
+
+ that the increase in the number of persons employed continued to show a
+
+ sharp decline since the end of last year, and wages showed a significant
+
+ upward trend especially led by regular wages, both of which the member
+
+ attributed to a combination of factors, including growth in labor demand
+
+ stemming from economic recovery, a decline in labor demand in line with
+
+ the restructurings of some manufacturing industries, and a structural decline
+
+ resulting from the implementation of a higher minimum wage. However,
+
+ the member found it hard to assess the relative weight of each of these
+
+ factors. In summary, the member determined that the evidence pointed to
+
+ real economic growth at or slightly above its potential level, despite
+
+ growing downside risks to the growth track caused by greatly heightened
+
+ uncertainties surrounding the domestic and international economic
+
+ environments.
+
+ The member, meanwhile, noted that consumer price inflation had
+
+ increased from 1.3 percent in the first quarter to 1.5 percent in the second
+
+ quarter, and core inflation had recorded 1.3 percent in the second quarter
+
+ as well. The member assessed that theoretically the current conditions
+
+ suggested a build-up of inflationary pressures, since, on the domestic front,
+
+ the positive output gap had persisted and, on the international front, the
+
+ shock from the decline in the real neutral rate had diminished due to the
+
+ steady recovery of global trade. The member commented that the price
+
+ inflation of items sensitive to economic conditions had been accelerating
+
+ since the third quarter of last year, and administered prices were
+
+ constraining the growth of overall consumer price inflation due to the
+
+12
+
+
+-----
+
+###### recent government policy to rein in price increases. The member expressed
+
+ the view that, given these factors, actual consumer price inflationary
+
+ pressures should be seen to be somewhat higher than the level figures
+
+ showed. The member noted that the engine driving the buildup of
+
+ underlying inflationary pressures was not large due to the modest growth
+
+ of domestic demand, and that there was a possibility that inflation
+
+ expectations themselves had become somewhat low, as price inflation had
+
+ remained low since 2012, for a considerable length of time. The member
+
+ saw that these factors had caused only moderate acceleration in price
+
+ inflation in the second quarter and could constrain the pace of increase in
+
+ inflation in the future. The member, however, added that it was difficult
+
+ to predict the pace of price inflation growth in the second half due to
+
+ additional factors causing price rises, including a recent substantial increase
+
+ in regular wage growth and a rise in oil prices.
+
+ Concerning household debt, the member's assessment was that it was
+
+ high, but emergency liquidity management was not needed from a
+
+ financial stability perspective. The member thus presented the opinion that,
+
+ when managing interest rates, it would be necessary to check whether
+
+ price inflation converges on its target, as this would result in a better
+
+ management of inflation expectations, which is the objective of an
+
+ inflation targeting monetary policy.
+
+ One other member expressed the view that it would be desirable to
+
+ hold the Base Rate at its current level to support the continuation of
+
+ recent growth, while keeping a close watch on how recently expanding
+
+ risk factors would be reflected in the overall macroeconomy in the future.
+
+ With regard to the domestic economy, the member’s assessment was
+
+ that it had been sustaining growth at around its potential rate and had not
+
+ deviated far from its expected path, boosted by the booming world
+
+ economy. The member stated that exports had been showing growth in
+
+ line with expectations, thanks to the strength of semiconductors and
+
+ petrochemical products despite the sluggishness seen in ships and
+
+13
+
+
+-----
+
+###### automobiles. The member added that, in terms of domestic demand
+
+ moderate growth in private consumption had been continuing and
+
+ government spending had been expanding rapidly, although construction
+
+ investment had remained in a downturn and facilities investment had been
+
+ falling due to the completion of facilities expansion in the semiconductor
+
+ industry and to delayed investment in the display sector.
+
+ However, the member evaluated that downside risks were
+
+ predominating over upside risks with respect to the macroeconomy since
+
+ the second half of this year. The member first pointed out that there were
+
+ growing uncertainties as to whether the trend of rapid growth in the world
+
+ economy would continue in the future as well. The member expected the
+
+ boom in the US economy to continue for some time, but added that the
+
+ rapid growth seen in Europe was easing somewhat. The member also
+
+ pointed out the need to be mindful of the possibility that trade disputes
+
+ between the US and other major countries could negatively affect the
+
+ world economy. The member emphasized that, given the current escalation
+
+ in trade disputes as China implemented its restructuring and deleveraging
+
+ policies, a close eye should be kept on the possibility of negative spillover
+
+ effects on the Korean economy expanding, as Korea’s trade is heavily
+
+ dependent upon China.
+
+ The member, meanwhile, presented the opinion that attention should be
+
+ paid to the pattern of deteriorating terms of trade in Korean economy as
+
+ the surge in semiconductor prices subsides and international oil prices
+
+ continue to grow. The member noted that the deterioration in the terms of
+
+ trade implied that the GDP deflator was not rising as quickly as consumer
+
+ prices, and pointed out that this was likely to reduce the nominal growth
+
+ rate. Accordingly, the member commented that, given recent export and
+
+ import price trends, the nominal growth rate could remain in the 3 percent
+
+ range, lower than 5 percent range seen for the past three years. The
+
+ member's assessment was that this would probably work to contract
+
+ domestic demand through a decline in real purchasing power by slowing
+
+14
+
+
+-----
+
+###### growth in overall nominal variables such as corporate sales, the current
+
+ account balance and government tax revenue.
+
+ The member also noted that labor market-related policy measures were
+
+ understood as a factor causing price rises and slower growth through
+
+ aggregate supply-side exogenous upward cost shocks. The member,
+
+ however, presented the view that the recent situation, with no visible
+
+ change in prices and a large slowdown in employment growth, implied
+
+ that aggregate demand was not expanding. The member thus evaluated that
+
+ labor market-related policy measures could weigh on growth rather than on
+
+ prices. The member saw that consumer price inflation actually remained in
+
+ the mid-1 percent range, despite a rise in international oil prices. The
+
+ member noted that the aforementioned factors meant that there were
+
+ growing downside risks to the outlook that expanded aggregate demand
+
+ would help price inflation gradually accelerate to its 2 percent target level
+
+ from the second half of this year.
+
+15
+
+
+-----
+
+##### Ⅳ. Results of Deliberation on Monetary Policy Directions
+
+###### Incorporating the outcome of their earlier discussions, members
+
+ compiled a statement reflecting the views of the majority.
+
+ However, Mr. Lee, Il Houng expressed clear opposition to the idea of
+
+ holding the Base Rate at its current level, and argued for a 0.25
+
+ percentage point raise.
+
+< Ref >
+
+###### Monetary Policy Decision
+
+- The Monetary Policy Board of the Bank of Korea decided today to
+
+###### leave the Base Rate unchanged at 1.50% for the intermeeting period.
+
+- Based on currently available information the Board considers that the
+
+###### global economy has continued its robust growth. The volatility in the
+
+ global financial markets has expanded, as a result mainly of concerns
+
+ about the trade disputes in the world and of the strengthening of the
+
+ US dollar. Looking ahead the Board sees global economic growth as
+
+ likely to be affected by factors such as the movements toward
+
+ spreading trade protectionism, the paces of monetary policy
+
+ normalization in major countries, and the directions of the US
+
+ government's economic policies.
+
+- The Board judges that the solid trend of domestic economic growth has
+
+###### continued, as consumption and exports have shown favorable
+
+ movements although the adjustments in facilities and construction
+
+ investment have persisted. Employment conditions are still sluggish,
+
+ with the extent of increase in the number of persons employed having
+
+16
+
+
+-----
+
+###### remained at a low level. Going forward the Board expects domestic
+
+ economic growth to be slightly below the path projected in April, but
+
+ to sustain a rate at its potential level. It anticipates that investment will
+
+ slow but that the trend of steady increase in consumption will continue,
+
+ and that exports will also sustain their favorable movements thanks to
+
+ the buoyancy of the global economy.
+
+- Consumer price inflation has remained at the mid-1% level, due mainly
+
+###### to the slowing pace of increase in agricultural and livestock product
+
+ prices and despite the prices of petroleum products having risen greatly.
+
+ Core inflation (with food and energy product prices excluded from the
+
+ CPI) has fallen into the low-1% range, and the rate of inflation
+
+ expected by the general public has remained at the mid-2% level.
+
+ Looking ahead it is forecast that consumer price inflation, after
+
+ remaining in the mid-1% range for some time, will pick up and
+
+ gradually approach the target level. Core inflation will also gradually
+
+ rise.
+
+- The volatility of price variables in the domestic financial markets has
+
+###### expanded, in reflection of global financial market movements. The
+
+ Korean won-US dollar exchange rate has risen significantly, in line
+
+ with the global strengthening of the US dollar. Stock prices and
+
+ long-term market interest rates have fallen to considerable extents,
+
+ under the influence of heightened external uncertainties related chiefly
+
+ to the US-China trade dispute. Household lending has sustained its
+
+ higher rate of expansion than in past years, although the amount of its
+
+ expansion has lessened somewhat. Housing sales prices have remained
+
+ steady.
+
+- Looking ahead, the Board will conduct monetary policy so as to ensure
+
+###### that the recovery of economic growth continues and consumer price
+
+ inflation can be stabilized at the target level over a medium-term
+
+17
+
+
+-----
+
+###### horizon, while paying attention to financial stability. As it is forecast
+
+ that inflationary pressures on the demand side will not be high for the
+
+ time being, while the domestic economy is expected to continue its
+
+ solid growth, the Board will maintain its accommodative monetary
+
+ policy stance. In this process it will judge carefully whether it is
+
+ necessary to adjust its accommodative monetary policy stance further,
+
+ while closely checking future economic growth and inflation trends. It
+
+ will also carefully monitor conditions related to trade with major
+
+ countries, any changes in the monetary policies of major countries, the
+
+ trend of increase in household debt, and geopolitical risks.
+
+18
+
+
+-----
+

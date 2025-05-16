@@ -1,0 +1,566 @@
+### Publication date: 20 July 2011
+
+## MINUTES OF THE 
+# MONETARY POLICY COMMITTEE MEETING
+## 6 AND 7 JULY 2011
+
+##### These are the minutes of the Monetary Policy Committee meeting held on 6 and 7 July 2011. 
+
+ They are also available on the Internet
+
+ http://www.bankofengland.co.uk/publications/minutes/mpc/pdf/2011/mpc1107.pdf
+
+ The Bank of England Act 1998 gives the Bank of England operational responsibility for setting
+
+ interest rates to meet the Government’s inflation target. Operational decisions are taken by the
+
+ Bank’s Monetary Policy Committee. The Committee meets on a regular monthly basis and
+
+ minutes of its meetings are released on the Wednesday of the second week after the meeting
+
+ takes place. Accordingly, the minutes of the Committee meeting to be held on 3 and 4 August
+
+ will be published on 17 August 2011.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 6 AND 7 JULY 2011
+
+1 Before turning to its immediate policy decision, the Committee discussed financial market
+
+developments; the international economy; money, credit, demand and output; and supply, costs and
+
+prices.
+
+**Financial markets**
+
+2 Expectations implied by market prices of the point at which Bank Rate would begin to rise had
+
+been pushed back further during the month, partly because economic data, both at home and overseas,
+
+had been softer than anticipated. Information derived from overnight index swaps suggested that, on
+
+average, financial market participants expected Bank Rate to have increased by 25 basis points by
+
+around the middle of 2012. Short-term interest rates had fallen slightly in the euro area as well.
+
+Consistent with the pattern of market interest rates, the sterling effective exchange rate index had
+
+fallen by about 1%.
+
+3 Longer-term forward interest rates had increased a little in both the United Kingdom and United
+
+States, but had been broadly unchanged in the core euro-area countries.
+
+4 Euro-area sovereign debt markets had become more strained, reflecting heightened concerns
+
+over some peripheral countries’ fiscal positions. The fiscal situation in Greece had remained a key
+
+focus for market participants. In the days immediately preceding the approval by the Greek parliament
+
+of further fiscal adjustment measures, spreads between the yields of several euro-area countries’
+
+sovereign bonds and those of German bonds of equivalent maturity had widened further; CDS premia
+
+had also risen and had subsequently remained volatile. The cost of bank funding in wholesale markets
+
+had remained elevated internationally, reflecting continued sovereign debt and banking sector strains,
+
+including uncertainty over the outcome of the EU bank stress tests. There had been little new funding
+
+raised by banks at longer maturities during the month, although that needed to be set against the fact
+
+that the major UK banks had already raised around two thirds of their likely funding requirement for
+
+2011 as a whole.
+
+
+-----
+
+2
+
+5 Equity prices had risen a little internationally over the month. There had been sizable moves
+
+within the month as events unfolded within the euro area. Corporate bond spreads had increased
+
+slightly in the United Kingdom and the euro area, but had changed little in the United States.
+
+**The international economy**
+
+6 The data released during the month had continued to point towards a broadly based easing in the
+
+pace of global activity. But it remained unclear whether this slowing would prove to be persistent.
+
+JP Morgan’s global manufacturing Purchasing Managers’ Index (PMI) had fallen in June, reaching its
+
+lowest level for almost two years. Some of that weakness was likely to have been caused by the
+
+continuing disruption to global supply chains caused by the earthquake and tsunami in Japan in March,
+
+and by the contractionary impact of increases in oil prices earlier in the year. It was possible that much
+
+of the softening in the pace of global expansion might therefore prove to be temporary. But it was less
+
+clear that the disruption to global supply chains could explain recent falls in survey measures of
+
+service sector activity in most of the major economies, so the likely persistence of that weakness was
+
+hard to gauge.
+
+7 A range of indicators suggested that output growth in the United States had slowed by more than
+
+could be explained by supply-chain disruptions. Consumer confidence had fallen and real disposable
+
+income growth had remained weak, partly reflecting the impact of elevated energy prices. The
+
+business activity balance of the non-manufacturing ISM index had fallen again in June.
+
+8 In the euro area, the picture was one of moderate growth at the aggregate level in the second
+
+quarter, but with considerable cross-country variation. Indicators of German growth had remained
+
+reasonably firm. But demand growth in some peripheral countries was likely to remain restrained by
+
+the need to reduce fiscal deficits and restore competitiveness. And there was a risk that sovereign debt
+
+and banking stresses could intensify, perhaps significantly, to the detriment of economic activity and
+
+the financial system across the euro area.
+
+9 Notwithstanding OPEC’s lack of agreement on production quotas at its most recent meeting, oil
+
+prices had fallen slightly on the month, probably reflecting both demand and supply factors. Monetary
+
+policy had been tightened further in a number of Asian economies over the past month, partly in
+
+response to inflationary pressures. Over time, tighter policy might lead to some easing in the growth
+
+
+-----
+
+3
+
+of global demand for oil and other commodities. Some International Energy Agency member
+
+countries had also agreed to release additional oil from their emergency stocks in response to the
+
+ongoing disruption of supplies from Libya.
+
+**Money, credit, demand and output**
+
+10 According to the most recent ONS estimate, GDP had grown by 0.5% in the first quarter,
+
+unchanged from the previous estimate. Underlying growth was likely to have been somewhat below
+
+that, after allowing for the offsetting effects of the apparently erratic falls in energy and construction
+
+output in the first quarter, and the recovery in output after the snow-induced weakness in the fourth
+
+quarter of 2010. Within that aggregate figure, net trade had contributed a little less to growth than
+
+previously indicated, while the contraction in business investment had been less pronounced. The
+
+0.6% fall in consumption had not been revised.
+
+11 Business surveys had pointed towards continued modest underlying economic growth in the
+
+second quarter, after allowing for the estimated impacts of the supply-chain disruptions caused by the
+
+earthquake and tsunami in Japan, and of the extra bank holiday on the number of working days in
+
+April. Industrial production had increased by 0.9% in May, partly reversing the decline in April. But
+
+there were early indications that underlying growth might soften in the third quarter, in both services
+
+and manufacturing. The CIPS/Markit services business activity index had been broadly unchanged in
+
+June, a little below its historic average level, but the more forward-looking business expectations index
+
+had fallen sharply. There had also been reductions in both the manufacturing PMI employment
+
+intentions and export indices. It seemed likely that these reductions were linked, at least in part, to the
+
+concurrent slowdown in global activity.
+
+12 The most recent indicators had pointed towards continued weakness in the near-term outlook for
+
+consumption. The volume of retail sales had fallen by 1.4% in May, having risen by 1.1% in April.
+
+And consumer confidence survey balances had remained at low levels.
+
+13 The outlook for activity in the medium term would depend in part upon the prospects for
+
+consumption and its major determinants. The level of consumption over the past year had been
+
+significantly weaker than the Committee had previously expected. Over the same period, households’
+
+real post-tax disposable incomes had fallen by more – reflecting the impact of increased VAT, and
+
+
+-----
+
+4
+
+higher energy and other commodity prices – and the household saving rate had declined by about
+
+1.5 percentage points. It was possible that households adjusted their spending patterns only gradually,
+
+suggesting that the past decline in real incomes could continue to weigh on consumption growth for
+
+some time to come and that the saving rate would tend to rise. Alternatively, it was possible that
+
+households had already largely adjusted their spending in response to the past shock to their income, in
+
+which case there would be less upwards pressure on the saving rate in the future.
+
+14 The pace of the economic recovery in the medium term more broadly would be affected by the
+
+price and availability of credit to households and businesses. The spreads on the array of secured and
+
+unsecured lending rates to households over riskless interest rates of comparable maturity had remained
+
+significantly higher than before the financial crisis. Indicators of the cost of bank credit to a range of
+
+firms, particularly smaller businesses, had remained elevated. But larger businesses that were more
+
+able to access funds from capital markets faced lower borrowing costs. Broad money and credit
+
+growth continued to be weak: M4 excluding the holdings of interbank intermediaries had increased by
+
+about 1% on a three-month annualised basis in May and M4 lending had been unchanged on a similar
+
+basis.
+
+15 The elevated cost of credit to households and firms had reflected in part the continuing high
+
+premium over riskless interest rates charged to UK banks for raising funds in financial markets. The
+
+premium had not declined in line with the Committee’s previous expectations, despite the actions
+
+banks had taken to increase capital and to strengthen their balance sheets. There were several factors
+
+that might have weighed against these actions and pushed up investors’ perceptions of the risks
+
+attached to UK banks’ wholesale liabilities. There was uncertainty surrounding the future structure of
+
+the UK banking industry and the business models of some of the major banks. Developments in the
+
+regulatory environment might have led wholesale investors to infer that the public sector was less
+
+likely than before to protect them in the event of a bank default. And the sovereign and banking sector
+
+strains in some vulnerable euro-area economies had remained a material threat to the stability of UK
+
+banks. While UK banks’ direct exposures to the most vulnerable euro-area governments were limited,
+
+they had larger claims on the private sectors of some of those economies and credit risks could arise
+
+from links with other European banking systems that were more directly exposed. It remained unclear
+
+how long it would be before these uncertainties were resolved and to what extent banks’ funding costs
+
+would decline over the medium term.
+
+
+-----
+
+5
+
+**Supply, costs and prices**
+
+16 Twelve-month CPI inflation had remained at 4.5% in May, unchanged from in April, and
+
+broadly in line with the Committee’s expectation. In line with the usual pre-release arrangements, an
+
+advance estimate for twelve-month CPI inflation of 4.2% for June had been provided to the Governor
+
+ahead of publication. A detailed breakdown of the CPI data was not yet available. Also in line with
+
+the pre-release arrangements, the Governor informed the Committee that producer input prices had
+
+increased by 0.4% in June, mainly reflecting the contribution of elevated crude oil prices. Producer
+
+output prices had risen by 0.1% on the month, reflecting increases in prices for both manufacturing
+
+products and food.
+
+17 Despite the fall in CPI inflation in June, recent developments in utility and imported food prices
+
+had indicated that the near-term peak in CPI inflation would probably be somewhat higher, and would
+
+occur sooner, than either the Committee had assumed at the time of the May Inflation Report
+
+projections or was currently projected by many external commentators. One utility company had
+
+announced in June increases in gas and electricity prices that would take effect from August. It was
+
+likely, on the basis of past experience, that similar announcements by other utility companies would
+
+soon follow. If so, those rises in utility prices would be slightly in excess of what had been assumed in
+
+the May Inflation Report and would come into effect earlier. But there was considerable uncertainty
+
+about the near-term profile for CPI inflation.
+
+18 There remained a significant risk that expectations of above-target inflation would become
+
+entrenched, adding to wage and price pressures. The evidence on inflation expectations had been
+
+mixed on the month. The YouGov/Citigroup measure of inflation expectations five to ten years ahead
+
+had risen sharply in June, to a level a little above its previous peak in 2008. The measure of inflation
+
+expectations over the next twelve months had increased by a similar amount. But measures of
+
+inflation expectations and inflation uncertainty derived from financial markets had changed little.
+
+19 There was also little clear evidence to suggest that elevated CPI inflation had begun to feed
+
+through into wages. Earnings growth had continued to be muted. Private sector regular annual pay
+
+growth had been 1.8% in the three months to April, in comparison with 2.1% in the three months to
+
+
+-----
+
+6
+
+January. And private sector wage settlements had been subdued at 2.1% in the three months to May.
+
+There appeared to be a significant degree of slack in the labour market and that was likely to bear
+
+down on earnings growth for some time.
+
+20 The path of productivity would determine what growth rate of earnings was consistent with
+
+inflation returning to the 2% target in the medium term. Over the past year, labour productivity
+
+growth had been puzzlingly weak and, despite the softness in earnings growth, unit labour costs had
+
+consequently grown more strongly than the Committee had expected. The recent behaviour of labour
+
+productivity had been more similar to that in some of the core euro-area countries than to that in the
+
+United States. It was possible that the underlying growth rate of productivity in the United Kingdom
+
+during the recession had slowed, though it was unclear whether this would last.
+
+21 There were signs in the most recent UK labour market data and in some of the employment
+
+surveys that the pace of employment growth had begun to slow. It was possible that this heralded an
+
+upturn in productivity growth, with firms more able to meet any growth in demand for their goods and
+
+services with their existing staff. Alternatively, it could signal that firms had begun to respond to
+
+weaker actual or prospective demand by reducing hiring.
+
+**The immediate policy decision**
+
+22 Inflation had been well above the 2% target as a result of the temporary boost from higher
+
+energy and other commodity prices, the increase in the standard rate of VAT and the past depreciation
+
+of sterling. Despite the fall in CPI inflation in June, it was likely that inflation would rise further, to
+
+over 5%, in the coming months. In the light of recent developments in utility and food prices, the peak
+
+in inflation was likely to be a little higher and come sooner than the Committee had previously
+
+expected. The Committee’s central view remained that a margin of spare capacity in the economy was
+
+likely to push down inflation and bring it back towards the target in the medium term, as the impact of
+
+the factors temporarily boosting inflation subsided. But there were material risks to that view, both to
+
+the upside and to the downside. The Committee discussed how those risks had evolved since its
+
+previous meeting.
+
+23 The key risk to the downside was that demand growth would not be sufficiently strong to soak
+
+up the pool of spare capacity in the economy, leading inflation to fall materially below the target in the
+
+
+-----
+
+7
+
+medium term. The latest indicators suggested that the pace of global activity had slowed, although it
+
+was not clear how persistent this would prove to be. Some of the slowing in global activity reflected
+
+the temporary impact of the continuing disruption to supply chains caused by the Japanese earthquake
+
+and tsunami in March, and the effects of the elevated price of oil. The risks posed by an intensification
+
+of the sovereign debt and banking problems within the euro area to the prospects for economic activity
+
+and the financial system at home had remained substantial. The funding costs faced by the major UK
+
+banks remained elevated, in part reflecting those risks emanating from within the euro area, and were
+
+likely to continue to affect the price and availability of credit to many households and businesses
+
+adversely. Indicators had pointed towards continued modest underlying UK GDP growth in the
+
+second quarter and, more tentatively, to some softening in the outlook for the third quarter. But the
+
+implications of weaker activity for inflation would depend on the factors that had caused it. Partly in
+
+response to the more downbeat news on the outlook for economic activity, investors had put back their
+
+central estimate of when official interest rates would begin to rise and the sterling effective exchange
+
+rate had fallen modestly. This was likely, in time, to provide some countervailing stimulus to
+
+economic activity.
+
+24 The key risk to the upside was that the period of elevated inflation would persist for longer than
+
+the Committee expected. Expectations of above-target inflation could become entrenched in price and
+
+wage-setting behaviour; employees might press harder for wage increases in response to recent
+
+declines in living standards; or there might be further upward pressure on prices arising from energy
+
+and other internationally traded goods prices. According to one survey-based measure, households’
+
+expectations of inflation in the medium term had increased markedly, to a little above their previous
+
+peak in 2008. But measures of inflation expectations derived from financial markets had been stable.
+
+There was no clear evidence that higher inflation expectations had begun to feed through into
+
+wage-setting behaviour. Earnings growth had remained subdued. But earnings growth was affected
+
+by a range of factors, making it hard to infer clearly what impact inflation expectations might have
+
+had. It remained unclear how much comfort to draw from recent labour market developments, given
+
+the puzzling behaviour of productivity over the recent past.
+
+25 Overall, the balance between the upside and the downside risks to inflation in the medium term
+
+had not changed sufficiently over the month for Committee members to change their views of the
+
+appropriate setting for monetary policy. The risks to inflation in the medium term remained
+
+substantial in both directions. The Committee set monetary policy to balance those risks around the
+
+
+-----
+
+8
+
+2% inflation target. If it were to become clear that one of those risks had crystallised – and the
+
+medium-term outlook for inflation had deviated materially from the target in either one direction or the
+
+other – the Committee would respond by changing the stance of monetary policy.
+
+26 Most members judged that it was appropriate to maintain the current stance of monetary policy
+
+at this meeting. It was likely that the current weakness in activity would persist for longer than
+
+previously thought, although the reduction over the month in the exchange rate and in market interest
+
+rates would provide some countervailing stimulus to the economy. That weakness, together with the
+
+continued subdued behaviour of earnings, reinforced the case that inflation was likely to fall back once
+
+the temporary impact of the factors pushing up on it had waned. But there also remained upside risks
+
+associated with the sustained period of above-target inflation. There was a range of views on the
+
+balance of these downside and upside risks. Overall, however, recent developments had reduced the
+
+likelihood that a tightening in policy would be warranted in the near term.
+
+27 For one member, the balance of risks to inflation continued to warrant an immediate expansion
+
+of the Committee’s programme of asset purchases, financed by the issuance of central bank reserves.
+
+For that member, the weak pattern of demand overseas and domestically had evolved broadly as
+
+expected. The evidence suggested that there remained a significant margin of spare capacity. So it
+
+was likely that, on the balance of risks, inflation would fall below the target in the medium term. The
+
+stability of financial market measures of inflation expectations and of earnings growth indicated that it
+
+was unlikely that they would begin to drift upwards.
+
+28 For two members, the argument for removing some of the monetary stimulus at this meeting had
+
+remained strong. For them, the upside risks to inflation in the medium term from global pricing
+
+pressures and the possibility that inflation expectations could increase continued to outweigh the
+
+downside risk that the strength of the recovery would be insufficient to eat into the economy’s
+
+persistent margin of spare capacity. Recent activity data had weakened both in the United Kingdom
+
+and overseas. But it was likely that the factors that lay behind the recent softening had also negatively
+
+affected supply conditions, so their impact on medium-term inflation was likely to be muted. It was
+
+not clear how much comfort could be drawn from subdued earnings data: it was possible that the rate
+
+of wage growth consistent with inflation returning to the 2% target would be lower than in the past, as
+
+a result of the continued weakness in productivity growth and the likelihood that businesses would
+
+seek to rebuild their profit margins. One of these members felt that a small increase in Bank Rate
+
+
+-----
+
+9
+
+would afford the Committee greater flexibility in responding to possible future developments, noting
+
+that any increase could be reversed if the need arose.
+
+29 The Governor invited the Committee to vote on the propositions that:
+
+Bank Rate should be maintained at 0.5%;
+
+The Bank of England should maintain the stock of asset purchases financed by the issuance
+
+of central bank reserves at £200 billion.
+
+Regarding Bank Rate, seven members of the Committee (the Governor, Charles Bean, Paul Tucker,
+
+Ben Broadbent, Paul Fisher, David Miles and Adam Posen) voted in favour of the proposition.
+
+Spencer Dale and Martin Weale voted against the proposition, preferring to increase Bank Rate by
+
+25 basis points.
+
+Regarding the stock of asset purchases, eight members of the Committee (the Governor, Charles Bean,
+
+Paul Tucker, Ben Broadbent, Spencer Dale, Paul Fisher, David Miles and Martin Weale) voted in
+
+favour of the proposition. Adam Posen voted against the proposition, preferring to increase the size of
+
+the asset purchase programme by £50 billion to a total of £250 billion.
+
+30 The following members of the Committee were present:
+
+Mervyn King, Governor
+Charles Bean, Deputy Governor responsible for monetary policy
+Paul Tucker, Deputy Governor responsible for financial stability
+Ben Broadbent
+Spencer Dale
+Paul Fisher
+David Miles
+Adam Posen
+Martin Weale
+
+Dave Ramsden was present as the Treasury representative.
+
+
+-----
+

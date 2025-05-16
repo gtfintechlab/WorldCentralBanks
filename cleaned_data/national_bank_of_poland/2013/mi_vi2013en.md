@@ -1,0 +1,149 @@
+**N** **a** **t** **i** **o** **n** **a** **l** **B** **a** **n** **k** **o** **f** **P** **o** **l** **a** **n** **d**
+
+M o n e t a r y P o l i c y C o u n c i l
+
+# MINUTES OF THE MONETARY POLICY DECISION MAKING
+ MEETING HELD ON 5 JUNE 2013
+
+At its meeting, members of the Monetary Policy Council discussed the current and future monetary
+policy decisions in the context of macroeconomic developments in Poland and abroad.
+While assessing the conditions in the external environment of the Polish economy it was noted that
+data on the euro area GDP in 2013 Q1 had proven to be weaker than expected and confirmed
+continuing recession in the euro area. Some members of the Council pointed to the fact that
+although business condition indicators for the euro area had improved somewhat, as observed in the
+recent period, they continued to suggest persisting recessionary trends in that economy, further
+delaying the prospects for economic recovery. Factor having an adverse effect on economic activity
+in the euro area – according to those members of the Council – was the on-going process of
+deleveraging in the private sector and tightening of the fiscal policy. This translated, in particular,
+into further deterioration of the labour market situation in many countries, which, combined with
+unresolved capital shortfall of some euro area banks, hampered growth of the euro area economy.
+At the same time, it was pointed out that GDP growth in the United States accelerated in 2013 Q1.
+An important factor supporting activity in the U.S. economy was revival of consumption, observed
+amidst gradually declining unemployment. Some members of the Council pointed out that, in the
+opinion of market participants, improving situation in the labour market and continued economic
+recovery might urge the Federal Reserve to limit the scale of asset purchases over the next few
+quarters. The signs of a possible reduction of monetary policy expansiveness by the Fed had
+strongly effected the sentiment in the global financial markets. Consequently, the emerging
+markets, including Poland, saw some outflow of its portfolio capital, which was reflected in the
+weakening of the zloty exchange rate and rising yields on Polish bonds.
+While addressing domestic economic activity in early 2013, it was indicated that GDP growth in the
+first quarter was significantly weaker than expected. It was also stressed that although investment
+decline had slowed down somewhat, domestic demand continued to decline amidst stagnation in
+consumption. Moreover, lower contribution of net exports to GDP growth confirmed that low
+activity abroad, in particular, the recession in the euro area, was adversely affecting the Polish
+economy. It was also emphasized that the monthly macroeconomic data (stagnation of industrial
+output and retail sales and further decline in construction output in April) signalled continued weak
+economic activity at the beginning of 2013 Q2.
+Some members of the Council assessed that also the coming quarters might be expected to see
+persistently low economic activity in Poland, and that recovery might start later than previously
+assumed. In their opinion, economic activity would continue to be negatively affected by
+deteriorating situation in the labour market, low credit growth and on-going fiscal tightening
+(including the decline in public investment). Economic growth would further be curbed – in the
+opinion of those Council members – by the lack of a significant recovery in the euro area.
+Other members of the Council assessed, however, that subsequent quarters might be expected to
+bring gradual recovery in economic growth. In this context, they pointed to positive signals from
+the national accounts data, i.e. a less steep investment decline in 2013 Q1 and acceleration in GDP
+growth, added value and exports in quarter-on-quarter seasonally adjusted terms. Moreover, in their
+
+0 0-919 Warszawa u l Święto krzys ka 1 1 /2 1 phon e (+4 8) 2 2 653 2 8 88 fax (+4 8) 2 2 653 1 3 28
+
+
+-----
+
+opinion, the approaching economic recovery might be suggested by the improvement in some
+business condition indicators, halting the decline in the number of new orders in industry and
+accelerating growth in monetary aggregates observed at the beginning of Q2.
+While analysing inflation developments it was pointed out that April 2013 saw another decline in
+inflation (to 0.8%), which remained markedly below the NBP inflation target. Some members of the
+Council emphasized that the fall in inflation in the past few months has been stronger than expected
+in the March projection, and that some of the latest short-term forecasts indicated possible further
+decline in inflation in subsequent months and its remaining below the lower limit for deviations
+from the NBP target over the coming year. When discussing inflationary processes, the steepening
+fall in producer prices (PPI) and continued lack of wage pressure were also noted. According to the
+majority of the Council members, when taking into account the lack of cost and wage pressures and
+weak growth prospects, the risk of inflation running below target in the medium term was still
+greater than the risk of inflation exceeding the target, despite the monetary policy easing
+implemented so far and some depreciation of zloty exchange rate observed recently. A few
+members of the Council emphasized, however, that inflation could return to the NBP target within a
+few quarters, as suggested by forecasts of financial analysts and Assumptions for 2014 budget law
+adopted by the Ministry of Finance.
+While addressing the situation in the labour market, a few members of the Council pointed out that
+although wage growth remained slow, the lowest wages were rising faster than the average ones,
+which was due to the currently implemented and planned increases of the minimum wage. This
+contributed to rising unemployment among the young and the low-skilled workers. A few members
+of the Council argued, however, that an excessively low minimum wage would discourage labour
+participation, and the current ratio of minimum wage to average wage did not seem high.
+While analysing the situation in the banking sector, a few members of the Council pointed out that
+the recently implemented monetary policy easing had so far not contributed to a revival in lending,
+which – in their opinion – showed that further interest rate cuts offered only limited potential to
+boost economic activity. At the same time, those Council members pointed out that falling interest
+on term deposits, driven by NBP interest rate cuts, discouraged households from this form of
+saving; whereas term deposits are a relatively stable source of bank financing. Yet, other members
+of the Council emphasized, that the NBP interest rate cuts had been vastly passed through into
+interest rates on bank loans and deposits. They also stressed that as monetary policy transmission
+mechanism was characterised by considerable time lags, interest rate cuts should not be expected to
+translate immediately into lending and economic growth. In turn, as regards reduced volume of
+term deposits, those Council members indicated that withdrawn funds were transferred to current
+and savings accounts, and therefore only maturity structure of banks’ liabilities changes.
+In assessing the current interest rate level, some members of the Council emphasized that the scale
+of the monetary policy easing implemented so far was significant, and the NBP interest rates were
+currently low. According to a few Council members, excessively low interest rates might bring
+negative effects, namely: undermine the incentives for corporate restructuring, change the structure
+of bank lending (increase role of mortgage loans, while limiting lending to corporates), spur
+unprofitable in the long-term investment projects, and lead to asset price bubbles. Those members
+of the Council also pointed out that some of those factors might translate into lower potential
+growth. Other members of the Council argued that corporate restructuring was hampered to a much
+larger extent by institutional and legal factors, and given banks’ current attitude to lending, the risk
+of financing unprofitable investment was not high enough to justify keeping interest rates at – what
+they assessed to be – an excessively high level. Moreover, in the opinion of those Council members,
+declining current and forecasted inflation was increasing real interest rates above the level adequate
+to the current macroeconomic conditions. At the same time, as regards the risk of decreasing
+potential output growth, a few Council members pointed out that it might also be driven by a
+
+
+-----
+
+prolonged economic downturn, which, causing heightened unemployment might have a lasting
+negative impact on human capital and increase the level of equilibrium unemployment.
+While discussing the level of the NBP interest rates, the majority of Council members assessed that
+they should be lowered at the current meeting. However, their opinions differed as to the scale of
+the decrease. In turn, other Council members were of the opinion that the interest rates should be
+kept unchanged.
+When discussing the NBP interest rate decision, the majority of the Council members pointed out
+that the incoming data confirmed stronger – than expected in March – economic slowdown in
+Poland and abroad, and a deeper than anticipated decline in inflation. Given the above and
+considering the uncertainty about the scale and timing of economic recovery in the euro area and
+the risk of prolonged period of weak economic activity in Poland, the scale of monetary policy
+easing should be expanded. Further interest rate cuts would support recovery in the Polish economy,
+and thus the return of inflation to the NBP target in the medium term. At the same time, some of
+those Council members assessed that the scale of interest rate cuts at the June meeting should be
+moderate in order to reduce their negative impact on households’ propensity to save in the banking
+sector. In the context of the decision about the scale of interest rate cuts, those Council members
+also pointed to the issue of interest rate differential between Poland and major developed
+economies, which may be important for portfolio capital flows. Some Council members argued,
+however, that due to time lags in the monetary transmission mechanism, the monetary policy easing
+should be more decisive and the scale of interest rate cuts in June larger.
+Other members of the Council assessed that the coming quarters should be expected to bring a
+gradual recovery in economic activity and a rise in inflation over the coming year (partly due to
+statistical base effect), which justified keeping the NBP interest rates unchanged. At the same time,
+expectations that the Federal Reserve would reduce the scale of quantitative easing could translate
+into the risk of increased capital outflows from the emerging markets, which – in the opinion of
+those Council members – also spoke in favour of keeping the NBP interest rates unchanged.
+At the same time, in the opinion of the majority of the Council members, given the significant scale
+of the already implemented cuts in the NBP interest rates, the current cycle of monetary easing was
+coming closer to an end. The Council members pointed out that a more comprehensive assessment
+of the medium-term outlook for economic growth and inflation – allowing the discussion on the
+monetary policy stance in the coming months – would be possible in July, after the Council had got
+acquainted with the new NBP projection and information about a possible amendment to the budget
+law.
+At the meeting, a motion was submitted to lower the NBP basic interest rates by 0.50 percentage
+points. The motion did not pass. A motion was also submitted to lower the NBP basic interest rates
+by 0.25 percentage points. The motion passed. The Council decided to lower the NBP basic interest
+rates by 0.25 percentage points to the following levels: reference rate to 2.75%, lombard rate to
+4.25%, deposit rate to 1.25%, rediscount rate to 3.00%.
+
+_Publication date: 20 June 2013_
+
+
+-----
+

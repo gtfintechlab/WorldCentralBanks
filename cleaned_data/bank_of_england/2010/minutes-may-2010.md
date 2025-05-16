@@ -1,0 +1,538 @@
+### Publication date: 19 May 2010
+
+## MINUTES OF THE 
+# MONETARY POLICY COMMITTEE MEETING
+## 7 AND 10 MAY 2010
+
+##### These are the minutes of the Monetary Policy Committee meeting held on  7 and 10 May 2010.
+
+ They are also available on the Internet http://www.bankofengland.co.uk/publications/minutes/mpc/pdf/2010/mpc1005.pdf
+
+ The Bank of England Act 1998 gives the Bank of England operational responsibility  for setting interest rates to meet the Government’s inflation target. Operational  decisions are taken by the Bank’s Monetary Policy Committee. The Committee meets  on a regular monthly basis and minutes of its meetings are released on the  Wednesday of the second week after the meeting takes place. Accordingly, the  minutes of the Committee meeting to be held on 9 and 10 June will be published on 23 June 2010.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 7 AND 10 MAY 2010
+
+1 Before turning to its immediate policy decision, and against the background of its latest
+
+projections for output and inflation, the Committee discussed financial market developments; the
+
+international economy; money, credit, demand and output; and supply, costs and prices.
+
+**Financial markets**
+
+2 Financial markets had become severely impaired in the days immediately preceding the
+
+Committee’s meeting. The trigger had been an erosion in market participants’ confidence in the ability
+
+of some euro-area member states to achieve necessary fiscal adjustment. The spread between the
+
+yields on German government debt and those for euro-area countries with high government deficits or
+
+debt levels had risen sharply. As concerns about banks’ exposures to sovereign debt had increased,
+
+some measures of the cost of interbank funding had picked up and the average term of transactions
+
+was reported to have shortened materially. The cost of borrowing dollars in forward foreign exchange
+
+markets had also increased, particularly the premium paid to exchange euros for dollars. That
+
+premium had risen to levels previously only exceeded in the aftermath of the failure of Lehman
+
+Brothers. Uncertainty more generally had picked up, liquidity in many other markets had become
+
+severely impaired, and major equity markets had experienced sharp falls. Euro-area financial sector
+
+stocks had fallen particularly sharply, most probably reflecting their greater exposure to euro-area
+
+government debt.
+
+3 In response, a comprehensive support package had been announced by the EU, IMF and ECB
+
+just before the resumption of the Committee’s meeting on 10 May. This included an announcement by
+
+central banks, including the Bank of England, that they would reopen dollar liquidity swap facilities.
+
+There had been some signs that financial market conditions had eased somewhat following these
+
+announcements, but it was too early to judge the lasting impact of the various measures.
+
+4 The financial market turbulence had coincided with the general election in the United Kingdom.
+
+Against that backdrop, there had been limited discernible financial market reaction to the election
+
+results, including in the yields on UK government securities. Those yields had fallen when compared
+
+
+-----
+
+2
+
+with the April MPC meeting, with ten-year spot rates declining by around 30 basis points. The value
+
+of such snapshot comparisons was less than normal, however, given the volatility of financial markets.
+
+5 In the year to date, gross issuance of UK corporate debt and equity had been in line with
+
+historical averages, but less than the exceptional issuance recorded during 2009. The available data
+
+suggested that pattern had continued during April as primary markets had initially remained resilient to
+
+the mounting concerns about euro-area sovereign risk. But issuance had dwindled in the days directly
+
+before the Committee had met and it was not possible to assess for how long this situation would
+
+persist.
+
+6 Exchange rate movements had mainly reflected developments within the euro area. Over the
+
+month as a whole, sterling was broadly unchanged on an effective basis, having appreciated against the
+
+euro and depreciated against the dollar. Sterling had depreciated by around 2½% on an effective basis
+
+compared with three months earlier.
+
+7 Near-term interest rate expectations had fallen over the month. In the United Kingdom, market
+
+participants expected the withdrawal of the exceptional degree of monetary stimulus to start later and
+
+occur more gradually than they had previously. According to overnight index swaps, expected
+
+one-year interest rates a year ahead were around 20 basis points lower than a month previously. There
+
+had been slightly larger moves in euro and dollar markets.
+
+**The international economy**
+
+8 The latest indicators remained consistent with a recovery of global activity centred on growth in
+
+the United States and Asia. Recent developments had, however, probably worsened the growth
+
+prospects for the euro area, the United Kingdom’s largest trading partner.
+
+9 Recent activity indicators for the euro area had been mixed, with the services and manufacturing
+
+Purchasing Managers’ Indices (PMIs) for April both rising and pointing to renewed growth, while
+
+other indicators, including retail sales, pointed to weaker activity. But the key development had been
+
+the intensification of financial market stress. That seemed likely to prompt an accelerated pace of
+
+fiscal consolidation in a number of euro-area countries. Greece had announced a more rapid fiscal
+
+consolidation plan, supported by an EU and IMF financing package, and Spain and Portugal had
+
+
+-----
+
+3
+
+committed to significant additional deficit reduction measures. These actions were likely to weigh on
+
+growth in the euro area unless they were offset by stronger activity elsewhere, with negative
+
+implications for the contribution to UK growth from exports. In addition, euro-area credit conditions
+
+could be adversely affected if the financial market turbulence led to a deterioration in the terms on
+
+which banks could access funds. More generally, euro-area private sector confidence could be dented
+
+by recent events, also putting downward pressure on spending.
+
+10 Activity indicators suggested that recovery in the United States had continued. Output had risen
+
+by 0.8% during the first quarter and the manufacturing and non-manufacturing PMIs for April were
+
+consistent with continuing growth in the second quarter. Non-farm payrolls had increased strongly in
+
+April and estimates of employment in the preceding two months had been revised up. Nevertheless,
+
+the durability of the recovery in US activity remained uncertain, as the fiscal stimulus and the stock
+
+cycle were likely to provide declining support to growth, and given the uncertain prospects for the
+
+housing market.
+
+11 The latest data had also been consistent with continued strong growth in many Asian economies.
+
+The four-quarter growth rate of Chinese GDP was estimated to have reached nearly 12% in 2010 Q1
+
+and Korean GDP had increased by almost 2% in the first quarter.
+
+**Money, credit, demand and output**
+
+12 Broad money balances, measured by M4 excluding the holdings of interbank intermediaries, had
+
+increased in March. The annualised quarterly growth rate had risen to nearly 6%, its highest since the
+
+first half of 2008, although growth had remained more subdued when measured over a longer period.
+
+The majority of the increase in March had been accounted for by the volatile money holdings of
+
+financial companies including insurance companies and pension funds. The money holdings of
+
+households and non-financial companies had increased more moderately.
+
+13 The latest indicators suggested that the availability of credit had continued to ease gradually,
+
+although conditions remained tight. Lending to individuals had been muted and non-financial
+
+companies, in aggregate, had reduced their borrowing from UK banks and capital markets during
+
+March. Bank balance sheet restructuring would continue to restrain the availability of credit for some
+
+time to come. UK banks needed to raise significant funding on capital markets as part of that
+
+
+-----
+
+4
+
+restructuring. Banks had continued raising funds from capital markets during April, but their access to
+
+markets had been interrupted by recent developments. If sustained, that could complicate the process
+
+of balance sheet restructuring.
+
+14 Nominal demand had risen at close to its ten-year average rate in 2009 H2, reflecting
+
+above-average increases in the GDP deflator and below-average growth in real activity. Despite the
+
+unfavourable mix, this was encouraging in that one of the objectives of the asset purchase programme
+
+had been to arrest the collapse in nominal spending that had occurred around the end of 2008. The
+
+latest indicators suggested that nominal demand growth had continued during the first half of 2010.
+
+15 According to the ONS’s preliminary estimate, real GDP had grown by 0.2% during the first
+
+quarter, lower than the 0.4% growth recorded during the final quarter of 2009. But it was likely that
+
+the underlying rate of growth had increased between the two quarters. A number of temporary factors,
+
+including the restoration of the standard rate of VAT to 17.5% at the turn of the year, the declining
+
+impact of car scrappage schemes, and the impact of the snow in January were likely to have depressed
+
+activity during the first quarter. Moreover, in line with pre-release arrangements, the Governor
+
+informed the Committee that industrial production had increased by 2.0% in March. The ONS had
+
+noted that, absent other information, this would add 0.1 percentage points to the preliminary estimate
+
+of GDP in the first quarter.
+
+16 A number of indicators suggested that growth had continued during the second quarter. The
+
+manufacturing and services CIPS/Markit PMIs for April had remained well above the 50 level,
+
+consistent with positive growth, and the construction index had remained above that threshold for the
+
+second successive month. The Committee noted that the disruption to air travel during April from the
+
+eruption of the Icelandic volcano was unlikely to have had a material impact on aggregate economic
+
+activity. Overall, the available evidence suggested that underlying growth was likely to be only a little
+
+below its historical average during 2010 H1.
+
+17 Looking ahead, the prospects for activity depended to a significant extent on the evolution of
+
+public sector borrowing and private sector saving. It was possible that a new government would
+
+announce a faster deficit reduction programme than had been set out in the March 2010 Budget.
+
+Private sector saving had risen markedly during the recession. A number of the factors that might have
+
+boosted private sector saving, including a desire to increase precautionary balances and tight credit
+
+
+-----
+
+5
+
+conditions, were likely to have a persistent effect. Set against that, to the extent that economic
+
+uncertainty gradually declined, households and firms might become more confident about spending.
+
+Private sector saving might also be affected by any changes to fiscal plans that had not been
+
+anticipated, or by the announcement of detailed measures.
+
+**Supply, costs and prices**
+
+18 CPI inflation had picked up to 3.4% in March, mainly reflecting increased contributions from
+
+food and energy prices. This increase had largely reversed the decline which had taken place in
+
+February. Over 2010 Q1 as a whole, inflation had been broadly in line with the central view of the
+
+February Inflation Report projection.
+
+19 Sterling had depreciated and oil prices had increased sharply since the time of the February
+
+_Inflation Report. This meant that inflation was likely to remain above the target for longer than the_
+
+Committee had then anticipated. Producer output prices had risen by 1.4% in April and were nearly
+
+6% higher than a year earlier. The CIPS/Markit survey also suggested that manufacturing output
+
+prices had risen in recent months. Although producer prices were volatile, these developments were
+
+also consistent with a higher outlook for consumer price inflation over the next year.
+
+20 According to the average weekly earnings measure, private sector total pay growth in the three
+
+months to February compared with a year earlier had increased markedly, to 1.8%. Much of this
+
+increase had reflected higher financial sector bonuses. Regular pay growth remained muted but had
+
+also picked up a little, especially within the manufacturing sector. The Committee expected pay
+
+growth to remain subdued, in part reflecting the significant degree of slack that existed in the labour
+
+market. Nevertheless, recent developments could be providing an early sign that employers might be
+
+willing to grant higher pay increases as output and hence productivity levels increased, in part in order
+
+to retain employees with firm-specific skills.
+
+21 According to the LFS measure, total employment had fallen by 89,000 in the three months to
+
+February by comparison with the previous non-overlapping quarter. Unemployment was estimated to
+
+have risen by around half of this amount on the same basis, and inactivity had increased. But the more
+
+timely claimant count measure of unemployment had fallen by around 33,000 in March, the second
+
+
+-----
+
+6
+
+successive monthly decline. Moreover, according to the LFS measure, average hours worked had
+
+increased slightly in the three months to February.
+
+22 Taken together, the most recent readings from the various surveys suggested that households’
+
+short and medium-term inflation expectations had been drifting up in recent months, but remained
+
+consistent with inflation being around the target. Implied inflation expectations from financial markets
+
+had generally fallen during the month, although the ongoing financial market volatility militated
+
+against drawing inferences prematurely from these falls.
+
+**The May GDP growth and inflation projections**
+
+23 The Committee reached its policy decision in light of its projections to be published in the
+
+_Inflation Report on Wednesday 12 May. The considerable stimulus stemming from the highly_
+
+accommodative monetary policy stance, together with a projected expansion of world demand and the
+
+past depreciation of sterling, was expected to underpin the emerging recovery in economic activity.
+
+But the pace of that recovery would be dampened by several factors: the need for a substantial fiscal
+
+tightening at home and abroad; needed further strengthening in the balance sheet of the UK banking
+
+sector; and the private sector’s desire for higher savings in an environment of increased uncertainty.
+
+24 The strength of the recovery remained uncertain. It was difficult to assess with precision the
+
+impact of the unprecedented loosening in monetary policy. The scale of the improvement in net trade
+
+would depend on the pace of expansion in global demand, especially in the euro area, and on the extent
+
+of expenditure switching prompted by sterling’s past depreciation. There were also substantial
+
+uncertainties about the force of the factors likely to restrain growth. They included the nature and pace
+
+of the prospective fiscal consolidation, the degree to which constraints on bank lending would suppress
+
+spending and the persistence of higher levels of private saving.
+
+25 As in its February projections, the Committee judged that the recovery in economic activity was
+
+likely to gather strength over the next year or so. But the downside risks to growth in the near term
+
+had increased somewhat, reflecting the heightened market concerns about the prospects for fiscal
+
+consolidation in a number of euro-area countries.
+
+
+-----
+
+7
+
+26 The substantial fall in demand and output following the financial crisis meant that the level of
+
+activity was very unlikely to return to its pre-crisis trend for a considerable period. The persistent
+
+weakness in the level of output reflected both the substantial impact of the financial crisis on the
+
+supply capacity of the economy and the sustained weakness of demand relative to that capacity.
+
+27 The near-term outlook for inflation was somewhat higher than in February and suggested that
+
+inflation was likely to remain above target for the rest of the year. As the temporary effects raising
+
+inflation waned, downward pressure from the persistent margin of spare capacity was likely to drag
+
+inflation below the target for much of the forecast period. Further out, this downward pressure was
+
+likely to fade as the recovery gradually took hold.
+
+28 The extent to which inflation would moderate was highly uncertain. Business costs and prices
+
+depended on the degree of spare capacity in the economy. That in turn would depend on the strength
+
+of the recovery and the extent to which the downturn had impaired the supply potential of the
+
+economy. The profile for inflation would also depend on how sensitive prices were to a given degree
+
+of slack in the economy, the extent to which businesses needed to adjust further to sterling’s
+
+depreciation, and on whether there were additional substantial movements in commodity prices.
+
+29 On balance, the Committee judged that, conditional on the assumption that Bank Rate followed a
+
+path implied by market interest rates and that the stock of purchased assets financed by the issuance of
+
+central bank reserves remained at £200 billion throughout the forecast period, inflation was somewhat
+
+more likely to be below target than above it for much of the forecast period, although those risks were
+
+broadly balanced by the end.
+
+**The immediate policy decision**
+
+30 Two key issues framed the immediate policy decision: first, the implications of economic data
+
+over the past three months for the medium-term outlook for activity and inflation; second, the
+
+potential implications for that outlook of the turbulent developments in the days before the
+
+Committee’s decision.
+
+31 The economic data at home and abroad had evolved broadly as the Committee had expected
+
+three months earlier and the May Inflation Report projections for growth and inflation in the medium
+
+
+-----
+
+8
+
+term had not changed significantly compared with the Committee’s previous projections. The pace of
+
+recovery still depended critically on the interplay of the various underlying tailwinds and headwinds
+
+affecting activity. Near-term inflation prospects had risen, reflecting the depreciation of sterling and
+
+higher oil prices, and there was some tentative evidence that cost pressures were increasing. But the
+
+Committee’s central view remained that the substantial margin of spare capacity would continue to
+
+bear down on inflation after the impact of these factors had waned.
+
+32 Considerable uncertainties remained about the margin of spare capacity and the strength of its
+
+influence on inflation, and there was a range of views among Committee members on the balance of
+
+risks to the projections. Some members interpreted recent developments in firms’ costs and pricing
+
+behaviour as potentially suggesting that the dampening effect on inflation from the margin of spare
+
+capacity might be somewhat weaker than assumed in the May central projection. Others placed more
+
+weight on the downside risks to activity and inflation from continued constraints on credit supply and
+
+recent developments in the euro area.
+
+33 Those euro-area developments had the potential to affect the UK economy through a number of
+
+channels. Activity could be adversely affected through a reduction in demand for UK exports if
+
+euro-area growth was held back. Credit conditions could ease more slowly than otherwise, to the
+
+extent that banks operating in the United Kingdom were adversely affected by recent financial market
+
+developments. The cost to the United Kingdom of issuing public sector debt could increase if
+
+financial market concerns about deficit financing broadened beyond their present focus. And private
+
+sector confidence could be dented. These channels could put downward pressure on overall demand
+
+and might also affect the supply potential of the economy if increased uncertainty restricted
+
+investment. It was possible, however, that the recently announced support measures would succeed in
+
+restoring financial market and private sector confidence, in which case the only lasting effect of recent
+
+developments on UK economic prospects could come about from accelerated fiscal adjustment in the
+
+euro area.
+
+34 A significant fiscal consolidation in the United Kingdom was necessary in the medium term.
+
+The eventual nature and pace of the consolidation was uncertain and would need to be sensitive to
+
+sustaining market confidence. A more detailed and demanding path for fiscal consolidation than set
+
+out in the March 2010 Budget, upon which the Inflation Report projections had been based, might
+
+
+-----
+
+9
+
+therefore be needed in order to avoid unnecessary increases in the cost of issuing public debt. That
+
+created further uncertainty about the prospects for activity and inflation.
+
+35 Although the Committee judged that the risks to activity and inflation in the near term had
+
+increased, it was too early to assess with confidence the overall impact of recent developments on the
+
+medium-term outlook. Some of the present uncertainties should be reduced by the time of future
+
+meetings. All Committee members agreed that the overall outlook for inflation implied by the
+
+_Inflation Report projections warranted leaving policy unchanged._
+
+36 The Governor invited the Committee to vote on the proposition that:
+
+Bank Rate should be maintained at 0.5%;
+
+The Bank of England should maintain the stock of asset purchases financed by the issuance
+
+of central bank reserves at £200 billion.
+
+The Committee voted unanimously in favour of the proposition.
+
+37 Finally, the Governor expressed his appreciation to Kate Barker for her contribution as a member
+
+of the Committee.
+
+38 The following members of the Committee were present:
+
+Mervyn King, Governor
+Charles Bean, Deputy Governor responsible for monetary policy
+Paul Tucker, Deputy Governor responsible for financial stability
+Kate Barker
+Spencer Dale
+Paul Fisher
+David Miles
+Adam Posen
+Andrew Sentance
+
+Dave Ramsden was present as the Treasury representative.
+
+
+-----
+

@@ -1,0 +1,993 @@
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.0.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/hp/Desktop/global-central-banks/src/llm_benchmarking/inference.py", line 9, in <module>
+    from datasets import load_dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/__init__.py", line 17, in <module>
+    from .arrow_dataset import Dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/arrow_dataset.py", line 59, in <module>
+    import pandas as pd
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/__init__.py", line 49, in <module>
+    from pandas.core.api import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/api.py", line 28, in <module>
+    from pandas.core.arrays import Categorical
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/__init__.py", line 1, in <module>
+    from pandas.core.arrays.arrow import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/__init__.py", line 5, in <module>
+    from pandas.core.arrays.arrow.array import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/array.py", line 50, in <module>
+    from pandas.core import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/ops/__init__.py", line 8, in <module>
+    from pandas.core.ops.array_ops import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/ops/array_ops.py", line 56, in <module>
+    from pandas.core.computation import expressions
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/computation/expressions.py", line 21, in <module>
+    from pandas.core.computation.check import NUMEXPR_INSTALLED
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/computation/check.py", line 5, in <module>
+    ne = import_optional_dependency("numexpr", errors="warn")
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/compat/_optional.py", line 135, in import_optional_dependency
+    module = importlib.import_module(name)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/numexpr/__init__.py", line 24, in <module>
+    from numexpr.interpreter import MAX_THREADS, use_vml, __BLOCK_SIZE1__
+AttributeError: _ARRAY_API not found
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.0.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/hp/Desktop/global-central-banks/src/llm_benchmarking/inference.py", line 9, in <module>
+    from datasets import load_dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/__init__.py", line 17, in <module>
+    from .arrow_dataset import Dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/arrow_dataset.py", line 59, in <module>
+    import pandas as pd
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/__init__.py", line 49, in <module>
+    from pandas.core.api import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/api.py", line 28, in <module>
+    from pandas.core.arrays import Categorical
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/__init__.py", line 1, in <module>
+    from pandas.core.arrays.arrow import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/__init__.py", line 5, in <module>
+    from pandas.core.arrays.arrow.array import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/array.py", line 64, in <module>
+    from pandas.core.arrays.masked import BaseMaskedArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/masked.py", line 60, in <module>
+    from pandas.core import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/nanops.py", line 52, in <module>
+    bn = import_optional_dependency("bottleneck", errors="warn")
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/compat/_optional.py", line 135, in import_optional_dependency
+    module = importlib.import_module(name)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/bottleneck/__init__.py", line 7, in <module>
+    from .move import (move_argmax, move_argmin, move_max, move_mean, move_median,
+Traceback (most recent call last):
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/numpy/core/_multiarray_umath.py", line 44, in __getattr__
+    raise ImportError(msg)
+ImportError: 
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.0.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+
+2025-04-15 03:55:28,505 - together_inference - INFO - Starting inference on 2025-04-15
+2025-04-15 03:55:28,505 - together_inference - INFO - Loading dataset...
+2025-04-15 03:55:30,514 - together_inference - INFO - Loaded 150 sentences from the dataset.
+2025-04-15 03:55:30,514 - together_inference - INFO - Using model: together_ai/meta-llama/Llama-3-70b-chat-hf
+2025-04-15 03:55:30,514 - together_inference - INFO - Using seed: 5768
+2025-04-15 03:55:30,514 - together_inference - INFO - Processing 150 documents in 30 batches.
+2025-04-15 03:55:30,514 - together_inference - INFO - Processing batch 1/30 with 5 sentences.
+2025-04-15 03:55:30,514 - together_inference - INFO - Processing batch 1/30
+2025-04-15 03:55:31,680 - together_inference - INFO - Completed batch 1/30
+2025-04-15 03:55:31,681 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence reports a specific finding from a survey, which is a factual statement, making it certain."
+}
+2025-04-15 03:55:31,681 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "uncertain",
+"justification": "The sentence uses phrases such as 'continued to anticipate' and 'erosion of investment dynamism', which imply a degree of uncertainty and expectation rather than a definitive statement."
+}
+2025-04-15 03:55:31,681 - together_inference - INFO - Response: {
+"label": "uncertain",
+"justification": "The sentence expresses ambiguity by stating that the next movements could be either up or down, depending on unknown factors, indicating uncertainty."
+}
+2025-04-15 03:55:31,681 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a clear and definitive opinion about the importance of a specific condition for inflation convergence, without any doubt or hesitation."
+}
+2025-04-15 03:55:31,681 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a specific trend and provides concrete evidence from the automotive segment, indicating a clear and definitive statement."
+}
+2025-04-15 03:55:31,681 - together_inference - INFO - Processing batch 2/30 with 5 sentences.
+2025-04-15 03:55:31,681 - together_inference - INFO - Processing batch 2/30
+2025-04-15 03:55:33,082 - together_inference - INFO - Completed batch 2/30
+2025-04-15 03:55:33,083 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a clear and specific argument against raising the MPR at the meeting, indicating a certain perspective or opinion."
+}
+2025-04-15 03:55:33,083 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence provides specific numerical values for the median and survey results, indicating a clear and definitive statement."
+}
+2025-04-15 03:55:33,083 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence uses phrases such as 'conclusive evidence' and 'had to be implemented', indicating a high degree of confidence and certainty in the decision."
+}
+2025-04-15 03:55:33,083 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence reports specific data from a survey, providing concrete information about credit supply and demand, which indicates a certain statement."
+}
+2025-04-15 03:55:33,083 - together_inference - INFO - Response: {
+"label": "uncertain",
+"justification": "The phrase 'in general' and the use of 'going to linger on for quite some time' imply a degree of uncertainty and vagueness in the statement."
+}
+2025-04-15 03:55:33,083 - together_inference - INFO - Processing batch 3/30 with 5 sentences.
+2025-04-15 03:55:33,083 - together_inference - INFO - Processing batch 3/30
+2025-04-15 03:55:33,866 - together_inference - INFO - Completed batch 3/30
+Running inference for Central Bank of Chile
+[ModelResponse(id='nqAVfaq-4yUbBN-9309e18cbc4cc995', created=1744703730, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence reports a specific finding from a survey, which is a factual statement, making it certain."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=178, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVfau-4yUbBN-9309e18cbcc8d692', created=1744703730, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "uncertain",\n"justification": "The sentence uses phrases such as \'continued to anticipate\' and \'erosion of investment dynamism\', which imply a degree of uncertainty and expectation rather than a definitive statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=53, prompt_tokens=180, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVfao-4yUbBN-9309e18cbd4ee5f8', created=1744703730, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "uncertain",\n"justification": "The sentence expresses ambiguity by stating that the next movements could be either up or down, depending on unknown factors, indicating uncertainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=180, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVfay-4yUbBN-9309e18cca4105b7', created=1744703730, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a clear and definitive opinion about the importance of a specific condition for inflation convergence, without any doubt or hesitation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=189, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVfb7-4yUbBN-9309e18cc95720a2', created=1744703730, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a specific trend and provides concrete evidence from the automotive segment, indicating a clear and definitive statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=181, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAVftw-4yUbBN-9309e1934f3f05b7', created=1744703731, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a clear and specific argument against raising the MPR at the meeting, indicating a certain perspective or opinion."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=186, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVfup-4yUbBN-9309e193890138a0', created=1744703731, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence provides specific numerical values for the median and survey results, indicating a clear and definitive statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=193, total_tokens=227, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVfut-4yUbBN-9309e1939adb81c7', created=1744703731, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence uses phrases such as \'conclusive evidence\' and \'had to be implemented\', indicating a high degree of confidence and certainty in the decision."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=176, total_tokens=225, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVfuu-4yUbBN-9309e19398d8801b', created=1744703731, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence reports specific data from a survey, providing concrete information about credit supply and demand, which indicates a certain statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=190, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVfuv-4yUbBN-9309e19399a91fe3', created=1744703731, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "uncertain",\n"justification": "The phrase \'in general\' and the use of \'going to linger on for quite some time\' imply a degree of uncertainty and vagueness in the statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=181, total_tokens=228, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAVgKM-4yUbBN-9309e19c2e1905b7', created=1744703733, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a specific fact about local activity performing below expectations in the June IPOM, which is a verifiable and objective statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=163, total_tokens=204, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVgKS-4yUbBN-9309e19c388581c7', created=1744703733, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states that all board members agreed, implying a unanimous decision, which conveys a sense of certainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=191, total_tokens=227, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVgKR-4yUbBN-9309e19c3f1a801b', created=1744703733, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "uncertain",\n"justification": "The sentence expresses a hypothetical scenario and uses conditional language (\'could also be valid if\'), indicating uncertainty about the outcome or decision."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=177, total_tokens=216, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVgKn-4yUbBN-9309e19c3fda1fe3', created=1744703733, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence describes a specific view of board members about the need to inform the market, which is a clear and definitive statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=215, total_tokens=254, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVgKR-4yUbBN-9309e19c394c38a0', created=1744703733, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence reports on the results of a survey, providing specific information about the performance of businesses, which suggests a high degree of certainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=197, total_tokens=243, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 03:55:33,874 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a specific fact about local activity performing below expectations in the June IPOM, which is a verifiable and objective statement."
+}
+2025-04-15 03:55:33,874 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states that all board members agreed, implying a unanimous decision, which conveys a sense of certainty."
+}
+2025-04-15 03:55:33,874 - together_inference - INFO - Response: {
+"label": "uncertain",
+"justification": "The sentence expresses a hypothetical scenario and uses conditional language ('could also be valid if'), indicating uncertainty about the outcome or decision."
+}
+2025-04-15 03:55:33,874 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence describes a specific view of board members about the need to inform the market, which is a clear and definitive statement."
+}
+2025-04-15 03:55:33,874 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence reports on the results of a survey, providing specific information about the performance of businesses, which suggests a high degree of certainty."
+}
+2025-04-15 03:55:33,874 - together_inference - INFO - Processing batch 4/30 with 5 sentences.
+2025-04-15 03:55:33,874 - together_inference - INFO - Processing batch 4/30
+2025-04-15 03:55:34,721 - together_inference - INFO - Completed batch 4/30
+2025-04-15 03:55:34,728 - together_inference - INFO - Response: {
+"label": "uncertain",
+"justification": "The sentence expresses possibility rather than certainty, using phrases like 'remained perfectly possible' to convey a sense of uncertainty."
+}
+2025-04-15 03:55:34,728 - together_inference - INFO - Response: {
+"label": "uncertain",
+"justification": "The sentence expresses hesitation and ambiguity by using phrases like 'although' and 'some of them could be mentioned', indicating that the conclusion is not definitive or clear-cut."
+}
+2025-04-15 03:55:34,728 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence provides specific numerical values and percentages, indicating a clear and definitive statement about the price of oil barrels."
+}
+2025-04-15 03:55:34,728 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a clear and specific observation about the labor market, using verbs like 'pointed' and 'remained', which convey a sense of certainty."
+}
+2025-04-15 03:55:34,728 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "uncertain",
+"justification": "The sentence expresses a possibility of a slower path of MPR increases, indicating a degree of uncertainty and hesitation in the board member's opinion."
+}
+2025-04-15 03:55:34,728 - together_inference - INFO - Processing batch 5/30 with 5 sentences.
+2025-04-15 03:55:34,728 - together_inference - INFO - Processing batch 5/30
+2025-04-15 03:55:35,919 - together_inference - INFO - Completed batch 5/30
+2025-04-15 03:55:35,928 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence reports a specific and measurable change in interest rates, providing a clear and definitive statement about the outcome of the meeting."
+}
+2025-04-15 03:55:35,928 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "uncertain",
+"justification": "The sentence expresses hesitation and a need for more data to make a decision, indicating uncertainty about the outcome."
+}
+2025-04-15 03:55:35,928 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a specific fact about the meeting's background information being contained in a report, which is a verifiable and objective piece of information."
+}
+2025-04-15 03:55:35,928 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a clear observation about the labor market, providing a specific description of its current state, which indicates a certain assessment."
+}
+2025-04-15 03:55:35,928 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a specific and observable fact about the labor market, indicating a clear and definitive trend."
+}
+2025-04-15 03:55:35,928 - together_inference - INFO - Processing batch 6/30 with 5 sentences.
+2025-04-15 03:55:35,928 - together_inference - INFO - Processing batch 6/30
+2025-04-15 03:55:37,157 - together_inference - INFO - Completed batch 6/30
+
+[ModelResponse(id='nqAVgYz-4yUbBN-9309e1a119de05b7', created=1744703733, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "uncertain",\n"justification": "The sentence expresses possibility rather than certainty, using phrases like \'remained perfectly possible\' to convey a sense of uncertainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=178, total_tokens=216, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVgYw-4yUbBN-9309e1a11d6c38a0', created=1744703733, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "uncertain",\n"justification": "The sentence expresses hesitation and ambiguity by using phrases like \'although\' and \'some of them could be mentioned\', indicating that the conclusion is not definitive or clear-cut."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=167, total_tokens=214, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVgZC-4yUbBN-9309e1a11c8481c7', created=1744703734, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence provides specific numerical values and percentages, indicating a clear and definitive statement about the price of oil barrels."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=193, total_tokens=229, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVgZ7-4yUbBN-9309e1a11aaa801b', created=1744703734, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a clear and specific observation about the labor market, using verbs like \'pointed\' and \'remained\', which convey a sense of certainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=51, prompt_tokens=170, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVgZ7-4yUbBN-9309e1a11b371fe3', created=1744703734, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "uncertain",\n"justification": "The sentence expresses a possibility of a slower path of MPR increases, indicating a degree of uncertainty and hesitation in the board member\'s opinion."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=193, total_tokens=240, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAVgoh-4yUbBN-9309e1a6783181c7', created=1744703734, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence reports a specific and measurable change in interest rates, providing a clear and definitive statement about the outcome of the meeting."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=190, total_tokens=234, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVgof-4yUbBN-9309e1a67f0705b7', created=1744703734, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "uncertain",\n"justification": "The sentence expresses hesitation and a need for more data to make a decision, indicating uncertainty about the outcome."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=187, total_tokens=227, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVgpb-4yUbBN-9309e1a67a0238a0', created=1744703734, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a specific fact about the meeting\'s background information being contained in a report, which is a verifiable and objective piece of information."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=171, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVgoy-4yUbBN-9309e1a67e9c801b', created=1744703734, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a clear observation about the labor market, providing a specific description of its current state, which indicates a certain assessment."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=176, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVgoq-4yUbBN-9309e1a67ea01fe3', created=1744703734, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a specific and observable fact about the labor market, indicating a clear and definitive trend."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=168, total_tokens=207, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAVhAP-4yUbBN-9309e1aded5705b7', created=1744703736, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "uncertain",\n"justification": "The sentence expresses an expectation about future inflation, which implies uncertainty about the outcome."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=176, total_tokens=211, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVhAd-4yUbBN-9309e1adedc881c7', created=1744703736, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "uncertain",\n"justification": "The sentence expresses uncertainty about the future evolution of activity and demand, and mentions a \'highly uncertain external scenario\', indicating that the outcome is not definite."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=225, total_tokens=275, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVhAd-4yUbBN-9309e1adfcf81fe3', created=1744703736, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "uncertain",\n"justification": "The sentence uses phrases such as \'in principle\' and \'many more jobs had been created than was indicated\', which suggest a degree of uncertainty and approximation in the analysis."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=206, total_tokens=254, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVhAS-4yUbBN-9309e1ade82f38a0', created=1744703736, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a fact about the Chinese authorities\' actions, which is a verifiable and specific event, making it a certain statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=174, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVhAQ-4yUbBN-9309e1adfc8b801b', created=1744703736, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "uncertain",\n"justification": "The sentence expresses a possibility of inflationary risks, using phrases like \'seemed to be\' and \'not negligible\', which indicate a degree of uncertainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=184, total_tokens=229, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 03:55:37,165 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "uncertain",
+"justification": "The sentence expresses an expectation about future inflation, which implies uncertainty about the outcome."
+}
+2025-04-15 03:55:37,165 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "uncertain",
+"justification": "The sentence expresses uncertainty about the future evolution of activity and demand, and mentions a 'highly uncertain external scenario', indicating that the outcome is not definite."
+}
+2025-04-15 03:55:37,165 - together_inference - INFO - Response: {
+"label": "uncertain",
+"justification": "The sentence uses phrases such as 'in principle' and 'many more jobs had been created than was indicated', which suggest a degree of uncertainty and approximation in the analysis."
+}
+2025-04-15 03:55:37,165 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a fact about the Chinese authorities' actions, which is a verifiable and specific event, making it a certain statement."
+}
+2025-04-15 03:55:37,165 - together_inference - INFO - Response: {
+"label": "uncertain",
+"justification": "The sentence expresses a possibility of inflationary risks, using phrases like 'seemed to be' and 'not negligible', which indicate a degree of uncertainty."
+}
+2025-04-15 03:55:37,165 - together_inference - INFO - Processing batch 7/30 with 5 sentences.
+2025-04-15 03:55:37,165 - together_inference - INFO - Processing batch 7/30
+2025-04-15 03:55:38,106 - together_inference - INFO - Completed batch 7/30
+2025-04-15 03:55:38,114 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a factual comparison between current and historical figures, providing a clear and definitive statement."
+}
+2025-04-15 03:55:38,114 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a clear and unanimous agreement among board members on the necessary action to achieve a specific inflation target, indicating a high degree of certainty."
+}
+2025-04-15 03:55:38,114 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence presents a clear and specific observation about the performance of different sectors, including the mining industry, without expressing any doubt or ambiguity."
+}
+2025-04-15 03:55:38,114 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a specific decrease in private inflation expectations for a particular time period, indicating a clear and definitive statement."
+}
+2025-04-15 03:55:38,114 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a specific fact about early-year data, which is a verifiable and objective piece of information."
+}
+2025-04-15 03:55:38,114 - together_inference - INFO - Processing batch 8/30 with 5 sentences.
+2025-04-15 03:55:38,114 - together_inference - INFO - Processing batch 8/30
+2025-04-15 03:55:39,359 - together_inference - INFO - Completed batch 8/30
+2025-04-15 03:55:39,359 - together_inference - INFO - Response: {
+"label": "uncertain",
+"justification": "The sentence uses phrases like 'could also be the case' and 'tended to reinforce', which indicate a degree of uncertainty and hesitation in the statement."
+}
+2025-04-15 03:55:39,360 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a factual observation about the IMCE business confidence, which is a measurable indicator, making the statement certain."
+}
+2025-04-15 03:55:39,360 - together_inference - INFO - Response: {
+"label": "uncertain",
+"justification": "The sentence expresses uncertainty about the timing and manner of easing sanitary restrictions due to the complex epidemiological evolution."
+}
+2025-04-15 03:55:39,360 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a clear and specific trend in housing loans, indicating a definitive observation or fact."
+}
+2025-04-15 03:55:39,360 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states specific and objective facts about economic data, using words like 'showed', 'robust', and 'continued', indicating a high degree of confidence in the information."
+}
+2025-04-15 03:55:39,360 - together_inference - INFO - Processing batch 9/30 with 5 sentences.
+2025-04-15 03:55:39,360 - together_inference - INFO - Processing batch 9/30
+2025-04-15 03:55:40,505 - together_inference - INFO - Completed batch 9/30
+
+[ModelResponse(id='nqAVhXi-4yUbBN-9309e1b5aba705b7', created=1744703737, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a factual comparison between current and historical figures, providing a clear and definitive statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=33, prompt_tokens=170, total_tokens=203, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVhXg-4yUbBN-9309e1b5ab5a81c7', created=1744703737, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a clear and unanimous agreement among board members on the necessary action to achieve a specific inflation target, indicating a high degree of certainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=201, total_tokens=249, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVhXd-4yUbBN-9309e1b5aaa5801b', created=1744703737, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence presents a clear and specific observation about the performance of different sectors, including the mining industry, without expressing any doubt or ambiguity."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=180, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVhXj-4yUbBN-9309e1b5aec138a0', created=1744703737, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a specific decrease in private inflation expectations for a particular time period, indicating a clear and definitive statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=172, total_tokens=214, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVhXg-4yUbBN-9309e1b5aac41fe3', created=1744703737, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a specific fact about early-year data, which is a verifiable and objective piece of information."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=160, total_tokens=201, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAVhp6-4yUbBN-9309e1bb986605b7', created=1744703738, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "uncertain",\n"justification": "The sentence uses phrases like \'could also be the case\' and \'tended to reinforce\', which indicate a degree of uncertainty and hesitation in the statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=179, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVhp5-4yUbBN-9309e1bb9fd881c7', created=1744703738, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a factual observation about the IMCE business confidence, which is a measurable indicator, making the statement certain."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=170, total_tokens=213, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVhp2-4yUbBN-9309e1bb9f3c801b', created=1744703738, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "uncertain",\n"justification": "The sentence expresses uncertainty about the timing and manner of easing sanitary restrictions due to the complex epidemiological evolution."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=180, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVhp8-4yUbBN-9309e1bb9c5738a0', created=1744703738, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a clear and specific trend in housing loans, indicating a definitive observation or fact."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=33, prompt_tokens=164, total_tokens=197, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVhpH-4yUbBN-9309e1bb9f801fe3', created=1744703738, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states specific and objective facts about economic data, using words like \'showed\', \'robust\', and \'continued\', indicating a high degree of confidence in the information."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=192, total_tokens=242, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAViBM-4yUbBN-9309e1c35e2f05b7', created=1744703739, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "uncertain",\n"justification": "The sentence expresses a possibility or hypothetical scenario, using the phrase \'could hurt\', which indicates uncertainty about the outcome."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=171, total_tokens=213, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAViBV-4yUbBN-9309e1c35d471fe3', created=1744703739, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence presents a clear and definitive explanation of the factors affecting inflation, using phrases such as \'clearly determined\' and \'was contained\', indicating a high degree of confidence in the statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=57, prompt_tokens=198, total_tokens=255, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAViBe-4yUbBN-9309e1c35d4781c7', created=1744703739, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "uncertain",\n"justification": "The sentence mentions that the next MPR movement will hinge on how certain the board is about the convergence of inflation to the target, implying that the outcome is conditional and uncertain."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=54, prompt_tokens=187, total_tokens=241, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAViBa-4yUbBN-9309e1c35c8f801b', created=1744703739, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence reports specific data points, such as the unemployment rate and inactivity, which are presented as factual information."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=185, total_tokens=222, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAViBY-4yUbBN-9309e1c35abf38a0', created=1744703739, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence describes specific actions taken by the board, including a 75 basis point cut and implementation of extraordinary measures, indicating a clear and definitive outcome."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=212, total_tokens=261, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 03:55:40,505 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "uncertain",
+"justification": "The sentence expresses a possibility or hypothetical scenario, using the phrase 'could hurt', which indicates uncertainty about the outcome."
+}
+2025-04-15 03:55:40,505 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence presents a clear and definitive explanation of the factors affecting inflation, using phrases such as 'clearly determined' and 'was contained', indicating a high degree of confidence in the statement."
+}
+2025-04-15 03:55:40,505 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "uncertain",
+"justification": "The sentence mentions that the next MPR movement will hinge on how certain the board is about the convergence of inflation to the target, implying that the outcome is conditional and uncertain."
+}
+2025-04-15 03:55:40,505 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence reports specific data points, such as the unemployment rate and inactivity, which are presented as factual information."
+}
+2025-04-15 03:55:40,505 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence describes specific actions taken by the board, including a 75 basis point cut and implementation of extraordinary measures, indicating a clear and definitive outcome."
+}
+2025-04-15 03:55:40,505 - together_inference - INFO - Processing batch 10/30 with 5 sentences.
+2025-04-15 03:55:40,505 - together_inference - INFO - Processing batch 10/30
+2025-04-15 03:55:41,912 - together_inference - INFO - Completed batch 10/30
+2025-04-15 03:55:41,912 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "uncertain",
+"justification": "The sentence uses phrases like 'in the central scenario' and 'would contribute', indicating a conditional and probabilistic tone, which suggests uncertainty."
+}
+2025-04-15 03:55:41,912 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a clear and direct opinion about the views on public investment, leaving no room for ambiguity or doubt."
+}
+2025-04-15 03:55:41,912 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence describes a specific and detailed proposal for recalibrating parameters and modalities, indicating a clear and definitive stance."
+}
+2025-04-15 03:55:41,912 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a factual information about the actions taken by several central banks, which is a verifiable and objective fact."
+}
+2025-04-15 03:55:41,912 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a specific fact based on a survey, indicating a clear and definitive statement about the demand for credit."
+}
+2025-04-15 03:55:41,912 - together_inference - INFO - Processing batch 11/30 with 5 sentences.
+2025-04-15 03:55:41,912 - together_inference - INFO - Processing batch 11/30
+2025-04-15 03:55:42,937 - together_inference - INFO - Completed batch 11/30
+2025-04-15 03:55:42,941 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "uncertain",
+"justification": "The sentence uses phrases like 'could be construed' and 'neither consistent', which indicate a degree of uncertainty and ambiguity in the scenario being described."
+}
+2025-04-15 03:55:42,942 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a specific and objective fact about the perception of investment, without any ambiguity or doubt."
+}
+2025-04-15 03:55:42,942 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states that the option of lowering the MPR by 50bp 'clearly dominated', indicating a definitive conclusion."
+}
+2025-04-15 03:55:42,942 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a past event as a fact, using phrases like 'it was recalled' and 'had already adopted', indicating a certain and historical event."
+}
+2025-04-15 03:55:42,942 - together_inference - INFO - Response: {
+"label": "uncertain",
+"justification": "The sentence expresses uncertainty about the future action of the Central Bank, using phrases like 'prospects' and 'without new developments', indicating that the outcome is not definite."
+}
+2025-04-15 03:55:42,942 - together_inference - INFO - Processing batch 12/30 with 5 sentences.
+2025-04-15 03:55:42,942 - together_inference - INFO - Processing batch 12/30
+2025-04-15 03:55:44,178 - together_inference - INFO - Completed batch 12/30
+
+[ModelResponse(id='nqAViX5-4yUbBN-9309e1ca7b5805b7', created=1744703740, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "uncertain",\n"justification": "The sentence uses phrases like \'in the central scenario\' and \'would contribute\', indicating a conditional and probabilistic tone, which suggests uncertainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=191, total_tokens=238, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAViXD-4yUbBN-9309e1ca7b8281c7', created=1744703740, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a clear and direct opinion about the views on public investment, leaving no room for ambiguity or doubt."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=160, total_tokens=197, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAViX5-4yUbBN-9309e1ca7ab21fe3', created=1744703740, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence describes a specific and detailed proposal for recalibrating parameters and modalities, indicating a clear and definitive stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=210, total_tokens=248, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAViX8-4yUbBN-9309e1ca7a2c801b', created=1744703740, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a factual information about the actions taken by several central banks, which is a verifiable and objective fact."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=192, total_tokens=235, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAViXC-4yUbBN-9309e1ca78b138a0', created=1744703740, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a specific fact based on a survey, indicating a clear and definitive statement about the demand for credit."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=174, total_tokens=216, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAViwD-4yUbBN-9309e1d33b0c05b7', created=1744703742, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "uncertain",\n"justification": "The sentence uses phrases like \'could be construed\' and \'neither consistent\', which indicate a degree of uncertainty and ambiguity in the scenario being described."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=187, total_tokens=236, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAViwW-4yUbBN-9309e1d34a7481c7', created=1744703742, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a specific and objective fact about the perception of investment, without any ambiguity or doubt."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=174, total_tokens=208, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAViwK-4yUbBN-9309e1d34a6c1fe3', created=1744703742, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states that the option of lowering the MPR by 50bp \'clearly dominated\', indicating a definitive conclusion."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=182, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAViwJ-4yUbBN-9309e1d3482238a0', created=1744703742, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a past event as a fact, using phrases like \'it was recalled\' and \'had already adopted\', indicating a certain and historical event."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=185, total_tokens=235, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAViwR-4yUbBN-9309e1d3490e801b', created=1744703742, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "uncertain",\n"justification": "The sentence expresses uncertainty about the future action of the Central Bank, using phrases like \'prospects\' and \'without new developments\', indicating that the outcome is not definite."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=185, total_tokens=234, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAVjFF-4yUbBN-9309e1d9b8af05b7', created=1744703743, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence reports a specific numerical value of the unemployment rate, indicating a factual and verifiable piece of information."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=176, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVjFD-4yUbBN-9309e1d9bf3881c7', created=1744703743, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "uncertain",\n"justification": "The sentence uses the phrase \'baseline scenario assumed\', which implies a hypothetical or projected outcome rather than a definitive statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=173, total_tokens=210, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVjFC-4yUbBN-9309e1d9bde1801b', created=1744703743, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a factual observation about past inflation data, which is a verifiable and objective fact, making it certain."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=177, total_tokens=220, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVjF9-4yUbBN-9309e1d9bdcc38a0', created=1744703743, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "uncertain",\n"justification": "The sentence expresses diversity and evaluation of different trade-offs, implying that the outcome or conclusion is not definitive or clear-cut."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=176, total_tokens=214, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVjFL-4yUbBN-9309e1d9bf371fe3', created=1744703743, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a fact about the board members\' opinions, which is a specific and clear statement, indicating certainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=188, total_tokens=230, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 03:55:44,179 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence reports a specific numerical value of the unemployment rate, indicating a factual and verifiable piece of information."
+}
+2025-04-15 03:55:44,179 - together_inference - INFO - Response: {
+"label": "uncertain",
+"justification": "The sentence uses the phrase 'baseline scenario assumed', which implies a hypothetical or projected outcome rather than a definitive statement."
+}
+2025-04-15 03:55:44,179 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a factual observation about past inflation data, which is a verifiable and objective fact, making it certain."
+}
+2025-04-15 03:55:44,179 - together_inference - INFO - Response: {
+"label": "uncertain",
+"justification": "The sentence expresses diversity and evaluation of different trade-offs, implying that the outcome or conclusion is not definitive or clear-cut."
+}
+2025-04-15 03:55:44,179 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a fact about the board members' opinions, which is a specific and clear statement, indicating certainty."
+}
+2025-04-15 03:55:44,179 - together_inference - INFO - Processing batch 13/30 with 5 sentences.
+2025-04-15 03:55:44,179 - together_inference - INFO - Processing batch 13/30
+2025-04-15 03:55:45,320 - together_inference - INFO - Completed batch 13/30
+2025-04-15 03:55:45,321 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a fact about observed volatility and pressures on weaker economies, without expressing doubt or uncertainty."
+}
+2025-04-15 03:55:45,321 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a clear and specific observation about domestic spending behavior, indicating a certain and factual statement."
+}
+2025-04-15 03:55:45,321 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence describes a specific event (trade negotiations and agreement) and its impact on financial markets and commodity prices, which is a verifiable fact."
+}
+2025-04-15 03:55:45,321 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states that certain scenarios are 'unlikely', implying a clear assessment of their probability, which indicates certainty."
+}
+2025-04-15 03:55:45,321 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence describes specific, observable market trends and data, indicating a high degree of certainty in the statement."
+}
+2025-04-15 03:55:45,321 - together_inference - INFO - Processing batch 14/30 with 5 sentences.
+2025-04-15 03:55:45,321 - together_inference - INFO - Processing batch 14/30
+2025-04-15 03:55:46,335 - together_inference - INFO - Completed batch 14/30
+2025-04-15 03:55:46,344 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "uncertain",
+"justification": "The sentence uses the phrase 'was projected to approach', which indicates a forecast or prediction rather than a definitive statement, making it uncertain."
+}
+2025-04-15 03:55:46,345 - together_inference - INFO - Response: {
+"label": "uncertain",
+"justification": "The sentence expresses an expectation about the future reduction in sanitary restrictions, which implies uncertainty about the outcome."
+}
+2025-04-15 03:55:46,345 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence describes a specific scenario with clear causes and effects, using phrases like 'due to' and 'which occurred', indicating a certain and factual description of events."
+}
+2025-04-15 03:55:46,345 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence describes a specific and observable market behavior, providing concrete details about interest rates and their changes, which indicates a certain and factual statement."
+}
+2025-04-15 03:55:46,345 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a clear and specific observation about the labor market, using words like 'remained' and 'consistent', which convey a sense of certainty."
+}
+2025-04-15 03:55:46,345 - together_inference - INFO - Processing batch 15/30 with 5 sentences.
+2025-04-15 03:55:46,345 - together_inference - INFO - Processing batch 15/30
+2025-04-15 03:55:47,387 - together_inference - INFO - Completed batch 15/30
+
+[ModelResponse(id='nqAVjcW-4yUbBN-9309e1e17ea605b7', created=1744703744, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a fact about observed volatility and pressures on weaker economies, without expressing doubt or uncertainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=179, total_tokens=213, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVjcs-4yUbBN-9309e1e17cfb81c7', created=1744703744, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a clear and specific observation about domestic spending behavior, indicating a certain and factual statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=160, total_tokens=194, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVjcX-4yUbBN-9309e1e17c1d801b', created=1744703744, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence describes a specific event (trade negotiations and agreement) and its impact on financial markets and commodity prices, which is a verifiable fact."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=212, total_tokens=260, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVjcX-4yUbBN-9309e1e17dcd1fe3', created=1744703744, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states that certain scenarios are \'unlikely\', implying a clear assessment of their probability, which indicates certainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=174, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVjcU-4yUbBN-9309e1e17c5138a0', created=1744703744, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence describes specific, observable market trends and data, indicating a high degree of certainty in the statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=198, total_tokens=238, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAVjxC-4yUbBN-9309e1e89ba305b7', created=1744703745, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "uncertain",\n"justification": "The sentence uses the phrase \'was projected to approach\', which indicates a forecast or prediction rather than a definitive statement, making it uncertain."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=173, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVjxP-4yUbBN-9309e1e89a5f81c7', created=1744703745, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "uncertain",\n"justification": "The sentence expresses an expectation about the future reduction in sanitary restrictions, which implies uncertainty about the outcome."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=190, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVjxF-4yUbBN-9309e1e89961801b', created=1744703745, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence describes a specific scenario with clear causes and effects, using phrases like \'due to\' and \'which occurred\', indicating a certain and factual description of events."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=52, prompt_tokens=185, total_tokens=237, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVjxD-4yUbBN-9309e1e89a4238a0', created=1744703745, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence describes a specific and observable market behavior, providing concrete details about interest rates and their changes, which indicates a certain and factual statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=218, total_tokens=260, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVjxC-4yUbBN-9309e1e89b811fe3', created=1744703745, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a clear and specific observation about the labor market, using words like \'remained\' and \'consistent\', which convey a sense of certainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=176, total_tokens=226, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAVkG3-4yUbBN-9309e1ef1f9081c7', created=1744703746, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence provides specific numerical data and a clear explanation for the negative annual growth rates, indicating a high degree of certainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=193, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVkFx-4yUbBN-9309e1ef094c05b7', created=1744703746, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence provides specific details about the agreement, including the amount and duration, indicating a clear and definitive decision."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=178, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVkG3-4yUbBN-9309e1ef18a01fe3', created=1744703746, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence reports specific numerical values and events that have occurred, indicating a statement of fact rather than uncertainty or speculation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=202, total_tokens=244, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVkG6-4yUbBN-9309e1ef1ffb38a0', created=1744703746, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a clear and specific observation about the duration and effects of a period, indicating a certain and factual statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=168, total_tokens=206, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVkFz-4yUbBN-9309e1ef1db4801b', created=1744703746, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence reports on specific, observable indicators, such as retail trade and imports, which are factual and verifiable, indicating a certain statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=179, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 03:55:47,387 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence provides specific numerical data and a clear explanation for the negative annual growth rates, indicating a high degree of certainty."
+}
+2025-04-15 03:55:47,387 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence provides specific details about the agreement, including the amount and duration, indicating a clear and definitive decision."
+}
+2025-04-15 03:55:47,387 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence reports specific numerical values and events that have occurred, indicating a statement of fact rather than uncertainty or speculation."
+}
+2025-04-15 03:55:47,387 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a clear and specific observation about the duration and effects of a period, indicating a certain and factual statement."
+}
+2025-04-15 03:55:47,387 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence reports on specific, observable indicators, such as retail trade and imports, which are factual and verifiable, indicating a certain statement."
+}
+2025-04-15 03:55:47,388 - together_inference - INFO - Processing batch 16/30 with 5 sentences.
+2025-04-15 03:55:47,388 - together_inference - INFO - Processing batch 16/30
+2025-04-15 03:55:48,343 - together_inference - INFO - Completed batch 16/30
+2025-04-15 03:55:48,348 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a clear cause-and-effect relationship between higher interest rates and a phenomenon, indicating a certain and direct connection."
+}
+2025-04-15 03:55:48,348 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "uncertain",
+"justification": "The sentence mentions 'possible financial turmoil' and 'discussion around', which implies uncertainty and potential outcomes rather than a definite event or fact."
+}
+2025-04-15 03:55:48,348 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a specific and objective fact about the banking system's delinquency rate, indicating a certain statement."
+}
+2025-04-15 03:55:48,348 - together_inference - INFO - Response: {
+"label": "uncertain",
+"justification": "The sentence expresses a range of expectations from analysts, indicating a lack of consensus and therefore uncertainty."
+}
+2025-04-15 03:55:48,348 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states that it 'became clear' that the risks for inflation were still present, indicating a definitive conclusion."
+}
+2025-04-15 03:55:48,348 - together_inference - INFO - Processing batch 17/30 with 5 sentences.
+2025-04-15 03:55:48,348 - together_inference - INFO - Processing batch 17/30
+2025-04-15 03:55:49,408 - together_inference - INFO - Completed batch 17/30
+2025-04-15 03:55:49,409 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a specific and definitive trend in goods production, indicating a clear and certain observation."
+}
+2025-04-15 03:55:49,409 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a clear and definitive direction of commodity prices, indicating a certain trend."
+}
+2025-04-15 03:55:49,409 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a fact about growing concern, which is a clear and definitive statement, making it certain."
+}
+2025-04-15 03:55:49,409 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "uncertain",
+"justification": "The sentence expresses anticipation and uses phrases like 'at least until' which imply a degree of uncertainty about the future."
+}
+2025-04-15 03:55:49,409 - together_inference - INFO - Response: {
+"label": "uncertain",
+"justification": "The sentence expresses doubts and uncertainty about the evolution of wages, indicating that the outcome is not clear or definite."
+}
+2025-04-15 03:55:49,409 - together_inference - INFO - Processing batch 18/30 with 5 sentences.
+2025-04-15 03:55:49,409 - together_inference - INFO - Processing batch 18/30
+2025-04-15 03:55:50,604 - together_inference - INFO - Completed batch 18/30
+
+[ModelResponse(id='nqAVka9-4yUbBN-9309e1f58ea405b7', created=1744703747, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a clear cause-and-effect relationship between higher interest rates and a phenomenon, indicating a certain and direct connection."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=175, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVka4-4yUbBN-9309e1f59cbc81c7', created=1744703747, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "uncertain",\n"justification": "The sentence mentions \'possible financial turmoil\' and \'discussion around\', which implies uncertainty and potential outcomes rather than a definite event or fact."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=187, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVka7-4yUbBN-9309e1f59b89801b', created=1744703747, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a specific and objective fact about the banking system\'s delinquency rate, indicating a certain statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=168, total_tokens=210, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVkZv-4yUbBN-9309e1f59d6c38a0', created=1744703747, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "uncertain",\n"justification": "The sentence expresses a range of expectations from analysts, indicating a lack of consensus and therefore uncertainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=33, prompt_tokens=184, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVka5-4yUbBN-9309e1f59d501fe3', created=1744703747, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states that it \'became clear\' that the risks for inflation were still present, indicating a definitive conclusion."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=175, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAVkrA-4yUbBN-9309e1fb7b8305b7', created=1744703748, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a specific and definitive trend in goods production, indicating a clear and certain observation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=33, prompt_tokens=161, total_tokens=194, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVkrM-4yUbBN-9309e1fb78a481c7', created=1744703748, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a clear and definitive direction of commodity prices, indicating a certain trend."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=31, prompt_tokens=156, total_tokens=187, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVkrG-4yUbBN-9309e1fb79941fe3', created=1744703748, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a fact about growing concern, which is a clear and definitive statement, making it certain."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=170, total_tokens=210, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVkrJ-4yUbBN-9309e1fb7a6b38a0', created=1744703748, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "uncertain",\n"justification": "The sentence expresses anticipation and uses phrases like \'at least until\' which imply a degree of uncertainty about the future."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=183, total_tokens=225, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVkrM-4yUbBN-9309e1fb7914801b', created=1744703748, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "uncertain",\n"justification": "The sentence expresses doubts and uncertainty about the evolution of wages, indicating that the outcome is not clear or definite."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=174, total_tokens=210, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAVmAc-4yUbBN-9309e2022dc281c7', created=1744703749, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a clear and definitive opinion about the unexpectedness of a movement in a certain direction, indicating a high degree of confidence and certainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=200, total_tokens=248, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVmAa-4yUbBN-9309e202285d05b7', created=1744703749, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a clear and specific observation about the creation of private salaried employment and the public component, without any ambiguity or doubt."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=175, total_tokens=222, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVmAe-4yUbBN-9309e2022e5e801b', created=1744703749, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a clear and definitive outcome, \'caused no significant change\', indicating a certain conclusion."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=173, total_tokens=213, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVmAj-4yUbBN-9309e2022ec31fe3', created=1744703749, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states specific and measurable economic indicators, such as retail activity, vehicle sales, and inventories, which suggests a high degree of certainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=184, total_tokens=227, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVmAh-4yUbBN-9309e20228b038a0', created=1744703749, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a clear and specific observation about the consistency of gaps with low inflationary pressures, without any doubt or ambiguity."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=181, total_tokens=225, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 03:55:50,604 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a clear and definitive opinion about the unexpectedness of a movement in a certain direction, indicating a high degree of confidence and certainty."
+}
+2025-04-15 03:55:50,604 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a clear and specific observation about the creation of private salaried employment and the public component, without any ambiguity or doubt."
+}
+2025-04-15 03:55:50,604 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a clear and definitive outcome, 'caused no significant change', indicating a certain conclusion."
+}
+2025-04-15 03:55:50,604 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states specific and measurable economic indicators, such as retail activity, vehicle sales, and inventories, which suggests a high degree of certainty."
+}
+2025-04-15 03:55:50,604 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a clear and specific observation about the consistency of gaps with low inflationary pressures, without any doubt or ambiguity."
+}
+2025-04-15 03:55:50,604 - together_inference - INFO - Processing batch 19/30 with 5 sentences.
+2025-04-15 03:55:50,604 - together_inference - INFO - Processing batch 19/30
+2025-04-15 03:55:51,787 - together_inference - INFO - Completed batch 19/30
+2025-04-15 03:55:51,795 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "uncertain",
+"justification": "The sentence expresses a possibility of adverse effects and mentions 'sensitivity scenarios' that 'could materialize', indicating uncertainty about the outcome."
+}
+2025-04-15 03:55:51,795 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "uncertain",
+"justification": "The sentence expresses concern about the evolution of core inflation, implying uncertainty about its future development."
+}
+2025-04-15 03:55:51,795 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a specific assumption made in the central scenario of the June report, which is a clear and definitive statement."
+}
+2025-04-15 03:55:51,795 - together_inference - INFO - Response: {
+"label": "uncertain",
+"justification": "The sentence expresses a possibility ('could give a feeling of continuity') and a conditional scenario ('in a context where inflation expectations had risen'), indicating uncertainty."
+}
+2025-04-15 03:55:51,795 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence reports a specific fact about the national statistics institute's report, which is a verifiable and objective piece of information."
+}
+2025-04-15 03:55:51,795 - together_inference - INFO - Processing batch 20/30 with 5 sentences.
+2025-04-15 03:55:51,795 - together_inference - INFO - Processing batch 20/30
+2025-04-15 03:55:52,826 - together_inference - INFO - Completed batch 20/30
+2025-04-15 03:55:52,826 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a fact about the pandemic's impact, using phrases like 'very significant' and 'high number', which convey a sense of objective certainty."
+}
+2025-04-15 03:55:52,826 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a factual observation about the performance of manufacturing production and expectations in the eurozone, without expressing doubt or ambiguity."
+}
+2025-04-15 03:55:52,826 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a fact about the content of a specific report, which is a verifiable and objective piece of information."
+}
+2025-04-15 03:55:52,826 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a specific fact about headline inflation having fallen again, which is a clear and definitive statement."
+}
+2025-04-15 03:55:52,826 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a specific fact about inflation expectations, providing a clear and definitive statement without any ambiguity or doubt."
+}
+2025-04-15 03:55:52,826 - together_inference - INFO - Processing batch 21/30 with 5 sentences.
+2025-04-15 03:55:52,826 - together_inference - INFO - Processing batch 21/30
+2025-04-15 03:55:53,812 - together_inference - INFO - Completed batch 21/30
+
+[ModelResponse(id='nqAVmXU-4yUbBN-9309e2099b7e801b', created=1744703750, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "uncertain",\n"justification": "The sentence expresses a possibility of adverse effects and mentions \'sensitivity scenarios\' that \'could materialize\', indicating uncertainty about the outcome."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=194, total_tokens=240, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVmXG-4yUbBN-9309e2099e4205b7', created=1744703750, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "uncertain",\n"justification": "The sentence expresses concern about the evolution of core inflation, implying uncertainty about its future development."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=162, total_tokens=199, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVmYC-4yUbBN-9309e2099f7538a0', created=1744703750, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a specific assumption made in the central scenario of the June report, which is a clear and definitive statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=180, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVmXL-4yUbBN-9309e2099bda81c7', created=1744703750, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "uncertain",\n"justification": "The sentence expresses a possibility (\'could give a feeling of continuity\') and a conditional scenario (\'in a context where inflation expectations had risen\'), indicating uncertainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=197, total_tokens=241, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVmXE-4yUbBN-9309e2099c931fe3', created=1744703750, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence reports a specific fact about the national statistics institute\'s report, which is a verifiable and objective piece of information."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=175, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAVmsu-4yUbBN-9309e2111bef05b7', created=1744703751, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a fact about the pandemic\'s impact, using phrases like \'very significant\' and \'high number\', which convey a sense of objective certainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=180, total_tokens=225, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVmsy-4yUbBN-9309e211197881c7', created=1744703751, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a factual observation about the performance of manufacturing production and expectations in the eurozone, without expressing doubt or ambiguity."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=170, total_tokens=209, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVmt4-4yUbBN-9309e2111dc738a0', created=1744703751, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a fact about the content of a specific report, which is a verifiable and objective piece of information."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=171, total_tokens=214, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVmsv-4yUbBN-9309e211195d801b', created=1744703751, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a specific fact about headline inflation having fallen again, which is a clear and definitive statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=168, total_tokens=203, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVmtC-4yUbBN-9309e2111a1f1fe3', created=1744703751, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a specific fact about inflation expectations, providing a clear and definitive statement without any ambiguity or doubt."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=164, total_tokens=205, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAVnBn-4yUbBN-9309e2179e6281c7', created=1744703752, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a specific fact about the importance of announcements on fiscal policy, without expressing any doubt or ambiguity."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=188, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVnBg-4yUbBN-9309e21789d105b7', created=1744703752, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a factual comparison between the growth pace in Chile and the rest of the world, including a specific reference to China\'s slowdown, which implies a certain and objective observation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=184, total_tokens=234, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVnBm-4yUbBN-9309e2179e701fe3', created=1744703752, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a historical fact about the impact of the COVID-19 pandemic on the global economy, which is a verifiable and established event."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=176, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVnBq-4yUbBN-9309e2179ac938a0', created=1744703752, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a specific observation about wages rising in real terms, which is a factual statement, indicating certainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=168, total_tokens=204, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVnBn-4yUbBN-9309e2179e34801b', created=1744703752, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states specific data and rates, indicating a clear and definitive statement about the performance of durables and nondurables."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=188, total_tokens=232, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 03:55:53,820 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a specific fact about the importance of announcements on fiscal policy, without expressing any doubt or ambiguity."
+}
+2025-04-15 03:55:53,820 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a factual comparison between the growth pace in Chile and the rest of the world, including a specific reference to China's slowdown, which implies a certain and objective observation."
+}
+2025-04-15 03:55:53,820 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a historical fact about the impact of the COVID-19 pandemic on the global economy, which is a verifiable and established event."
+}
+2025-04-15 03:55:53,820 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a specific observation about wages rising in real terms, which is a factual statement, indicating certainty."
+}
+2025-04-15 03:55:53,820 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states specific data and rates, indicating a clear and definitive statement about the performance of durables and nondurables."
+}
+2025-04-15 03:55:53,821 - together_inference - INFO - Processing batch 22/30 with 5 sentences.
+2025-04-15 03:55:53,821 - together_inference - INFO - Processing batch 22/30
+2025-04-15 03:55:55,093 - together_inference - INFO - Completed batch 22/30
+2025-04-15 03:55:55,097 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a specific fact about inflation expectations being above 3% in the two-year horizon, which is a clear and definitive statement."
+}
+2025-04-15 03:55:55,097 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a fact about the past, describing what was happening with the peso and the external scenario, which is a certain and historical event."
+}
+2025-04-15 03:55:55,097 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states specific indicators and data sources, implying a clear and objective observation of the economic situation."
+}
+2025-04-15 03:55:55,097 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states specific facts about short-term indicators in the eurozone and Japan, providing a clear and objective description of the situation."
+}
+2025-04-15 03:55:55,098 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence provides a specific percentage (18.1%) and a clear comparison to a previous level (prepandemic), indicating a factual and certain statement."
+}
+2025-04-15 03:55:55,098 - together_inference - INFO - Processing batch 23/30 with 5 sentences.
+2025-04-15 03:55:55,098 - together_inference - INFO - Processing batch 23/30
+2025-04-15 03:55:56,623 - together_inference - INFO - Completed batch 23/30
+2025-04-15 03:55:56,632 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence clearly states the agreement on the bank's ability to act in the foreign exchange market and the conditions for doing so, without any ambiguity or doubt."
+}
+2025-04-15 03:55:56,632 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence reports specific data points and indices with exact values, indicating a high degree of certainty in the information presented."
+}
+2025-04-15 03:55:56,632 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a clear and specific trend in capital inflows, using verbs like 'had tended' and 'moderate', indicating a certain observation or fact."
+}
+2025-04-15 03:55:56,632 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a specific decline in private consumption, providing a clear and definitive statement about a past event."
+}
+2025-04-15 03:55:56,632 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a factual observation about the US labor market and consumption, without expressing any doubt or ambiguity."
+}
+2025-04-15 03:55:56,632 - together_inference - INFO - Processing batch 24/30 with 5 sentences.
+2025-04-15 03:55:56,632 - together_inference - INFO - Processing batch 24/30
+2025-04-15 03:55:57,870 - together_inference - INFO - Completed batch 24/30
+
+[ModelResponse(id='nqAVnUm-4yUbBN-9309e21dbefb05b7', created=1744703753, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a specific fact about inflation expectations being above 3% in the two-year horizon, which is a clear and definitive statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=184, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVnUo-4yUbBN-9309e21dbb6581c7', created=1744703753, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a fact about the past, describing what was happening with the peso and the external scenario, which is a certain and historical event."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=173, total_tokens=216, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVnUy-4yUbBN-9309e21dcb37801b', created=1744703753, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states specific indicators and data sources, implying a clear and objective observation of the economic situation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=193, total_tokens=232, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVnUy-4yUbBN-9309e21dbf7438a0', created=1744703753, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states specific facts about short-term indicators in the eurozone and Japan, providing a clear and objective description of the situation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=190, total_tokens=230, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVnWB-4yUbBN-9309e21dcae01fe3', created=1744703754, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence provides a specific percentage (18.1%) and a clear comparison to a previous level (prepandemic), indicating a factual and certain statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=176, total_tokens=226, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAVnrn-4yUbBN-9309e225a97a81c7', created=1744703755, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence clearly states the agreement on the bank\'s ability to act in the foreign exchange market and the conditions for doing so, without any ambiguity or doubt."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=200, total_tokens=250, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVnrb-4yUbBN-9309e225adf305b7', created=1744703755, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence reports specific data points and indices with exact values, indicating a high degree of certainty in the information presented."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=194, total_tokens=236, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVnrf-4yUbBN-9309e225a8461fe3', created=1744703755, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a clear and specific trend in capital inflows, using verbs like \'had tended\' and \'moderate\', indicating a certain observation or fact."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=51, prompt_tokens=169, total_tokens=220, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVnrr-4yUbBN-9309e225a914801b', created=1744703755, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a specific decline in private consumption, providing a clear and definitive statement about a past event."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=171, total_tokens=211, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVnrc-4yUbBN-9309e225ae0b38a0', created=1744703755, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a factual observation about the US labor market and consumption, without expressing any doubt or ambiguity."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=174, total_tokens=209, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAVoKW-4yUbBN-9309e22f5ece05b7', created=1744703756, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence provides specific numerical values for market expectations, indicating a clear and definitive statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=219, total_tokens=255, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVoKX-4yUbBN-9309e22f583b81c7', created=1744703756, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states specific indicators that have improved, providing concrete evidence, which makes the statement certain."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=183, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVoKU-4yUbBN-9309e22f5fcf801b', created=1744703756, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "uncertain",\n"justification": "The sentence uses the phrase \'were expected to\', which indicates a degree of uncertainty about the future outcome."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=177, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVoKL-4yUbBN-9309e22f5ed41fe3', created=1744703756, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a clear and specific cause-and-effect relationship between the withdrawal of pension savings and fiscal measures and their effects, indicating a certain statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=178, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVoKL-4yUbBN-9309e22f5dd638a0', created=1744703756, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "uncertain",\n"justification": "The sentence uses phrases such as \'potentially greater impact\' and \'suggested\', which indicate a degree of uncertainty and hesitation in the statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=187, total_tokens=235, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 03:55:57,870 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence provides specific numerical values for market expectations, indicating a clear and definitive statement."
+}
+2025-04-15 03:55:57,870 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states specific indicators that have improved, providing concrete evidence, which makes the statement certain."
+}
+2025-04-15 03:55:57,870 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "uncertain",
+"justification": "The sentence uses the phrase 'were expected to', which indicates a degree of uncertainty about the future outcome."
+}
+2025-04-15 03:55:57,870 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a clear and specific cause-and-effect relationship between the withdrawal of pension savings and fiscal measures and their effects, indicating a certain statement."
+}
+2025-04-15 03:55:57,870 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "uncertain",
+"justification": "The sentence uses phrases such as 'potentially greater impact' and 'suggested', which indicate a degree of uncertainty and hesitation in the statement."
+}
+2025-04-15 03:55:57,870 - together_inference - INFO - Processing batch 25/30 with 5 sentences.
+2025-04-15 03:55:57,870 - together_inference - INFO - Processing batch 25/30
+2025-04-15 03:55:58,917 - together_inference - INFO - Completed batch 25/30
+2025-04-15 03:55:58,925 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a factual comparison between the economic situation in Chile and the rest of the world, including China, without expressing any doubt or uncertainty."
+}
+2025-04-15 03:55:58,925 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence expresses a clear and definitive stance on the need for monetary policy normalization, indicating a certain tone."
+}
+2025-04-15 03:55:58,926 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a specific trend in expectations, using phrases like 'picked up somewhat', which implies a clear direction, making the statement certain."
+}
+2025-04-15 03:55:58,926 - together_inference - INFO - Response: {
+"label": "uncertain",
+"justification": "The sentence uses phrases such as 'could have been affected' and 'part of them continued to be imputed', which indicate uncertainty and possibility rather than certainty."
+}
+2025-04-15 03:55:58,926 - together_inference - INFO - Response: {
+"label": "uncertain",
+"justification": "The sentence outlines a possible scenario, using the phrase 'a scenario was outlined', which implies a hypothetical or potential situation rather than a definite or certain outcome."
+}
+2025-04-15 03:55:58,926 - together_inference - INFO - Processing batch 26/30 with 5 sentences.
+2025-04-15 03:55:58,926 - together_inference - INFO - Processing batch 26/30
+2025-04-15 03:55:59,937 - together_inference - INFO - Completed batch 26/30
+2025-04-15 03:55:59,945 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a clear observation of improved conditions in the north and a depressed situation in the south, without any ambiguity or doubt."
+}
+2025-04-15 03:55:59,945 - together_inference - INFO - Response: {
+"label": "uncertain",
+"justification": "The sentence expresses uncertainty about the future decisions of the Federal Reserve, using phrases like 'becoming more sensitive to changes in expectations' which implies a degree of unpredictability."
+}
+2025-04-15 03:55:59,946 - together_inference - INFO - Response: {
+"label": "uncertain",
+"justification": "The sentence expresses a hypothetical scenario and its potential impact, indicating uncertainty about the actual outcome."
+}
+2025-04-15 03:55:59,946 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "uncertain",
+"justification": "The sentence expresses a risk or possibility of a disorderly recovery, implying that the outcome is not definite or guaranteed."
+}
+2025-04-15 03:55:59,946 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "uncertain",
+"justification": "The sentence expresses uncertainty by stating that the answer was not obvious, implying that the outcome or decision is unclear."
+}
+2025-04-15 03:55:59,946 - together_inference - INFO - Processing batch 27/30 with 5 sentences.
+2025-04-15 03:55:59,946 - together_inference - INFO - Processing batch 27/30
+2025-04-15 03:56:01,204 - together_inference - INFO - Completed batch 27/30
+
+[ModelResponse(id='nqAVoh7-4yUbBN-9309e2371dfd05b7', created=1744703758, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a factual comparison between the economic situation in Chile and the rest of the world, including China, without expressing any doubt or uncertainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=182, total_tokens=225, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVogk-4yUbBN-9309e2371dab81c7', created=1744703757, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence expresses a clear and definitive stance on the need for monetary policy normalization, indicating a certain tone."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=182, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVoh5-4yUbBN-9309e2371d1e801b', created=1744703758, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a specific trend in expectations, using phrases like \'picked up somewhat\', which implies a clear direction, making the statement certain."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=168, total_tokens=210, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVogj-4yUbBN-9309e2371c5938a0', created=1744703757, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "uncertain",\n"justification": "The sentence uses phrases such as \'could have been affected\' and \'part of them continued to be imputed\', which indicate uncertainty and possibility rather than certainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=187, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVogx-4yUbBN-9309e2371c411fe3', created=1744703758, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "uncertain",\n"justification": "The sentence outlines a possible scenario, using the phrase \'a scenario was outlined\', which implies a hypothetical or potential situation rather than a definite or certain outcome."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=181, total_tokens=226, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAVozq-4yUbBN-9309e23dab7c05b7', created=1744703759, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a clear observation of improved conditions in the north and a depressed situation in the south, without any ambiguity or doubt."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=168, total_tokens=208, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVozz-4yUbBN-9309e23daae381c7', created=1744703759, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "uncertain",\n"justification": "The sentence expresses uncertainty about the future decisions of the Federal Reserve, using phrases like \'becoming more sensitive to changes in expectations\' which implies a degree of unpredictability."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=178, total_tokens=226, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVp1T-4yUbBN-9309e23da979801b', created=1744703759, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "uncertain",\n"justification": "The sentence expresses a hypothetical scenario and its potential impact, indicating uncertainty about the actual outcome."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=32, prompt_tokens=179, total_tokens=211, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVp1A-4yUbBN-9309e23da9b638a0', created=1744703759, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "uncertain",\n"justification": "The sentence expresses a risk or possibility of a disorderly recovery, implying that the outcome is not definite or guaranteed."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=176, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVozu-4yUbBN-9309e23da9af1fe3', created=1744703759, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "uncertain",\n"justification": "The sentence expresses uncertainty by stating that the answer was not obvious, implying that the outcome or decision is unclear."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=201, total_tokens=242, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAVpJU-4yUbBN-9309e24408c005b7', created=1744703760, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a fact about the past, which is a verifiable and objective statement, making it certain."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=167, total_tokens=208, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVpJV-4yUbBN-9309e2440fae81c7', created=1744703760, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a clear and specific outcome, \'consensus among the board members\', indicating a definitive and certain event."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=192, total_tokens=230, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVpJP-4yUbBN-9309e2440e63801b', created=1744703760, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence reports specific and factual information about market interest rates and credit growth, indicating a certain and objective statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=186, total_tokens=227, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVpJQ-4yUbBN-9309e2440e7838a0', created=1744703760, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "uncertain",\n"justification": "The sentence expresses a lack of evidence for inflationary convergence, implying that the outcome is still uncertain and open to further analysis."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=192, total_tokens=236, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVpJY-4yUbBN-9309e2440e321fe3', created=1744703760, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a specific action taken by the board at a specific meeting, providing a clear and definitive statement about the past."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=187, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 03:56:01,205 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a fact about the past, which is a verifiable and objective statement, making it certain."
+}
+2025-04-15 03:56:01,205 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a clear and specific outcome, 'consensus among the board members', indicating a definitive and certain event."
+}
+2025-04-15 03:56:01,205 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence reports specific and factual information about market interest rates and credit growth, indicating a certain and objective statement."
+}
+2025-04-15 03:56:01,205 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "uncertain",
+"justification": "The sentence expresses a lack of evidence for inflationary convergence, implying that the outcome is still uncertain and open to further analysis."
+}
+2025-04-15 03:56:01,205 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a specific action taken by the board at a specific meeting, providing a clear and definitive statement about the past."
+}
+2025-04-15 03:56:01,205 - together_inference - INFO - Processing batch 28/30 with 5 sentences.
+2025-04-15 03:56:01,205 - together_inference - INFO - Processing batch 28/30
+2025-04-15 03:56:02,309 - together_inference - INFO - Completed batch 28/30
+2025-04-15 03:56:02,309 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence describes a factual observation about the evolution of business services, wholesale trade, and construction expansion, without expressing doubt or uncertainty."
+}
+2025-04-15 03:56:02,309 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "uncertain",
+"justification": "The sentence expresses doubt about the capacity of monetary policy to continue providing an impulse of the same magnitude as in the past, indicating uncertainty."
+}
+2025-04-15 03:56:02,309 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence explicitly states the voting outcome of the Central Bank of Chile's monetary policy meeting, providing a clear and definitive result."
+}
+2025-04-15 03:56:02,309 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence reports on past events and provides specific reasons for the changes, indicating a clear and definitive statement."
+}
+2025-04-15 03:56:02,309 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states a factual observation about commercial loans growing above certain numbers, without expressing any doubt or hesitation."
+}
+2025-04-15 03:56:02,309 - together_inference - INFO - Processing batch 29/30 with 5 sentences.
+2025-04-15 03:56:02,309 - together_inference - INFO - Processing batch 29/30
+2025-04-15 03:56:03,611 - together_inference - INFO - Completed batch 29/30
+2025-04-15 03:56:03,611 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence clearly states the board's agreement on a specific monetary policy stance, indicating a clear and definitive decision."
+}
+2025-04-15 03:56:03,611 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "uncertain",
+"justification": "The sentence expresses a risk or possibility of a certain outcome, indicating uncertainty about the future interest rate curve."
+}
+2025-04-15 03:56:03,611 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "uncertain",
+"justification": "The sentence expresses difficulty in evaluating or anticipating new geopolitical risks, implying a lack of certainty."
+}
+2025-04-15 03:56:03,611 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence describes a specific past event or trend, using verbs like 'had fallen', 'remained', and 'were back', indicating a clear and definitive statement."
+}
+2025-04-15 03:56:03,611 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence provides specific and objective data about the price drop of commodities, making it a certain statement."
+}
+2025-04-15 03:56:03,611 - together_inference - INFO - Processing batch 30/30 with 5 sentences.
+2025-04-15 03:56:03,611 - together_inference - INFO - Processing batch 30/30
+2025-04-15 03:56:04,859 - together_inference - INFO - Completed batch 30/30
+
+[ModelResponse(id='nqAVpgY-4yUbBN-9309e24bff1605b7', created=1744703761, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence describes a factual observation about the evolution of business services, wholesale trade, and construction expansion, without expressing doubt or uncertainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=183, total_tokens=228, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVpgY-4yUbBN-9309e24bfe3081c7', created=1744703761, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "uncertain",\n"justification": "The sentence expresses doubt about the capacity of monetary policy to continue providing an impulse of the same magnitude as in the past, indicating uncertainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=202, total_tokens=248, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVpgT-4yUbBN-9309e24bfb94801b', created=1744703761, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence explicitly states the voting outcome of the Central Bank of Chile\'s monetary policy meeting, providing a clear and definitive result."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=184, total_tokens=228, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVpgN-4yUbBN-9309e24bfd9538a0', created=1744703761, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence reports on past events and provides specific reasons for the changes, indicating a clear and definitive statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=194, total_tokens=234, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVpgd-4yUbBN-9309e24bfb861fe3', created=1744703761, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states a factual observation about commercial loans growing above certain numbers, without expressing any doubt or hesitation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=180, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAVq1Q-4yUbBN-9309e252cce605b7', created=1744703762, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence clearly states the board\'s agreement on a specific monetary policy stance, indicating a clear and definitive decision."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=197, total_tokens=238, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVq1g-4yUbBN-9309e252cb7781c7', created=1744703762, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "uncertain",\n"justification": "The sentence expresses a risk or possibility of a certain outcome, indicating uncertainty about the future interest rate curve."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=204, total_tokens=244, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVq1K-4yUbBN-9309e252c859801b', created=1744703762, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "uncertain",\n"justification": "The sentence expresses difficulty in evaluating or anticipating new geopolitical risks, implying a lack of certainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=167, total_tokens=204, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVq1c-4yUbBN-9309e252c8d91fe3', created=1744703762, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence describes a specific past event or trend, using verbs like \'had fallen\', \'remained\', and \'were back\', indicating a clear and definitive statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=52, prompt_tokens=188, total_tokens=240, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVq1P-4yUbBN-9309e252cb4838a0', created=1744703762, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence provides specific and objective data about the price drop of commodities, making it a certain statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=173, total_tokens=212, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAVqPN-4yUbBN-9309e25acbc905b7', created=1744703763, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence expresses a clear and definitive opinion from the board, using phrases such as \'in the board\'s opinion\' and \'was consistent\', indicating a high degree of confidence and certainty."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=56, prompt_tokens=189, total_tokens=245, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVqPT-4yUbBN-9309e25aeb0581c7', created=1744703763, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence presents specific and objective data about credit creation figures and investment components, indicating a clear and definitive statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=196, total_tokens=237, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVqPV-4yUbBN-9309e25aea2438a0', created=1744703763, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "certain",\n"justification": "The sentence states specific and observable economic indicators, such as salaried employment, expectations, and credit growth, which can be verified or measured, making the statement certain."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=183, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVqPV-4yUbBN-9309e25aeed5801b', created=1744703763, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states that all board members agreed on the consistency of the options with the baseline scenario, indicating a clear and unanimous decision."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=205, total_tokens=250, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAVqPS-4yUbBN-9309e25aef1c1fe3', created=1744703763, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "certain",\n"justification": "The sentence states a specific rate of 3.5% for the MPR, indicating a clear and definitive outcome."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=169, total_tokens=212, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 03:56:04,860 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence expresses a clear and definitive opinion from the board, using phrases such as 'in the board's opinion' and 'was consistent', indicating a high degree of confidence and certainty."
+}
+2025-04-15 03:56:04,860 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence presents specific and objective data about credit creation figures and investment components, indicating a clear and definitive statement."
+}
+2025-04-15 03:56:04,860 - together_inference - INFO - Response: {
+"label": "certain",
+"justification": "The sentence states specific and observable economic indicators, such as salaried employment, expectations, and credit growth, which can be verified or measured, making the statement certain."
+}
+2025-04-15 03:56:04,860 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states that all board members agreed on the consistency of the options with the baseline scenario, indicating a clear and unanimous decision."
+}
+2025-04-15 03:56:04,860 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "certain",
+"justification": "The sentence states a specific rate of 3.5% for the MPR, indicating a clear and definitive outcome."
+}
+2025-04-15 03:56:04,862 - together_inference - INFO - Inference completed. Returning DataFrame with 150 rows.
+2025-04-15 03:56:04,863 - together_inference - INFO - Time taken for inference: 36.35772490501404
+2025-04-15 03:56:04,878 - together_inference - INFO - Inference completed for certain. Results saved to /Users/hp/Desktop/global-central-banks/llm_inference_output/central_bank_of_chile/certain_together_ai/meta-llama/Llama-3-70b-chat-hf_20250415_5768.csv
+

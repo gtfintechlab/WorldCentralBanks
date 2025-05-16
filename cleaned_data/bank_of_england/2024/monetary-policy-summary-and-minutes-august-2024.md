@@ -1,0 +1,312 @@
+# Monetary Policy Summary and
+
+ minutes of the Monetary Policy
+
+ Committee meeting ending on 
+
+ 31 July 2024
+
+### 1 August 2024
+
+
+-----
+
+These are the minutes of the Monetary Policy Committee meeting ending on 31 July 2024.
+
+[They are available at https://www.bankofengland.co.uk/monetary-policy-summary-and-](https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2024/august-2024)
+**minutes/2024/august-2024.**
+
+The Bank of England Act 1998 gives the Bank of England operational responsibility for
+setting monetary policy to meet the Government’s inflation target. Operational decisions are
+taken by the Bank’s Monetary Policy Committee. The minutes of the Committee meeting
+ending on 18 September will be published on 19 September 2024.
+
+
+-----
+
+## Monetary Policy Summary, August 2024
+
+The Monetary Policy Committee (MPC) sets monetary policy to meet the 2% inflation target,
+and in a way that helps to sustain growth and employment. The MPC adopts a medium-term
+and forward-looking approach to determine the monetary stance required to achieve the
+inflation target sustainably.
+
+At its meeting ending on 31 July 2024, the MPC voted by a majority of 5–4 to reduce Bank
+Rate by 0.25 percentage points, to 5%. Four members preferred to maintain Bank Rate at
+5.25%.
+
+The Committee has published an updated set of projections for activity and inflation in the
+accompanying August Monetary Policy Report.
+
+Twelve-month CPI inflation was at the MPC’s 2% target in both May and June. CPI inflation
+is expected to increase to around 2¾% in the second half of this year, as declines in energy
+prices last year fall out of the annual comparison, revealing more clearly the prevailing
+persistence of domestic inflationary pressures. Private sector regular average weekly
+earnings growth has fallen to 5.6% in the three months to May, and services consumer price
+inflation has declined to 5.7% in June. GDP has picked up quite sharply so far this year, but
+underlying momentum appears weaker.
+
+The Committee’s framework for assessing the medium-term outlook for inflation distinguishes
+between first and second-round effects. The MPC has been focused on second-round effects
+that capture more persistent inflationary pressures. The Committee continues to monitor the
+accumulation of evidence from a broad range of indicators.
+
+The Committee expects the fall in headline inflation, and normalisation in many indicators of
+inflation expectations, to continue to feed through to weaker pay and price-setting dynamics.
+A margin of slack should emerge in the economy as GDP falls below potential and the labour
+market eases further. Domestic inflationary persistence is expected to fade away over the
+next few years, owing to the restrictive stance of monetary policy.
+
+However, there is a risk that inflationary pressures from second-round effects will prove more
+enduring in the medium term. A stronger-than-expected path for demand, and structural
+factors such as a higher equilibrium rate of unemployment, could affect domestic wage and
+price-setting more persistently. Furthermore, the degree of restrictiveness of monetary policy
+could be less than embodied in the Committee’s current assessment.
+
+In balancing these considerations, at this meeting, the Committee voted to reduce Bank Rate
+to 5%. It is now appropriate to reduce slightly the degree of policy restrictiveness. The impact
+
+
+-----
+
+from past external shocks has abated and there has been some progress in moderating risks
+of persistence in inflation. Although GDP has been stronger than expected, the restrictive
+stance of monetary policy continues to weigh on activity in the real economy, leading to a
+looser labour market and bearing down on inflationary pressures.
+
+Monetary policy will need to continue to remain restrictive for sufficiently long until the risks to
+inflation returning sustainably to the 2% target in the medium term have dissipated further.
+The Committee continues to monitor closely the risks of inflation persistence and will decide
+the appropriate degree of monetary policy restrictiveness at each meeting.
+
+
+-----
+
+## Minutes of the Monetary Policy Committee
+
+ meeting ending on 31 July 2024
+
+1. Before turning to its immediate policy decision, the Committee discussed: the
+international economy; monetary and financial conditions; demand and output; and supply,
+[costs and prices. The latest data on these topics were set out in the accompanying August](https://www.bankofengland.co.uk/monetary-policy-report/2024/august-2024)
+**2024 Monetary Policy Report.**
+
+2. Global activity was projected to have expanded steadily over recent quarters. US GDP
+had grown by 0.7% in 2024 Q2, somewhat stronger than had been expected. Euro-area GDP
+had grown by 0.3% in Q2, in line with expectations. Recent outturns for consumer price
+inflation in the United States and the euro area suggested some further normalisation toward
+central banks’ targets.
+
+3. The Committee discussed developments in internationally traded goods prices, noting
+the presence of a range of risks that could be material for the UK inflation outlook. Although
+Chinese export prices had recently been higher than expected, they could pose a downside
+risk if past weakness were to re-emerge. That said, the effects on UK inflation would only be
+significant if competitive effects also generated spillovers to the price inflation of traded goods
+exported by other countries. Set against that, there were upside risks to goods prices from
+the risk of greater trade fragmentation and increased trade restrictions. A broadening of
+recent disruption to shipping routes could affect the supply of goods whose production was
+concentrated in particular regions. Upside risks to commodity prices from geopolitical
+developments, including from events in the Middle East, also remained.
+
+4. The level of sterling was also likely to be an important driver of UK import prices. The
+effective exchange rate had appreciated further since the Committee’s previous meeting,
+such that it was over 3% higher than its level at the start of this year. The appreciation was
+likely to weigh on the outlook for UK import prices and inflation, all else equal, but the extent
+of pass-through was likely to depend on the underlying driver of the appreciation.
+
+5. The market-implied path for Bank Rate was relatively little changed since the
+Committee's June meeting and the path that had been assumed in the May Monetary Policy
+Report. In the Bank's latest Market Participants Survey (MaPS), all respondents had
+expected the next move in Bank Rate to be downwards. Expectations on the timing of that
+move were finely balanced with a significant majority of respondents expecting the reduction
+to occur either at this MPC meeting or the subsequent one in September. That was
+consistent with market pricing for this meeting, which implied a close-to-evens probability of a
+25 basis point reduction in Bank Rate. The median profile for Bank Rate in the August MaPS
+
+
+-----
+
+implied a cumulative 50 basis point reduction by the end of this year, unchanged from the
+June survey and also broadly in line with market pricing.
+
+6. Turning to UK activity, GDP had grown by 0.7% in 2024 Q1, with that strength appearing
+to have continued into Q2. Growth in the first half of the year had been stronger than
+expected at the time of the May Report. Business surveys had continued to point to
+underlying growth of around 0.3% per quarter, somewhat weaker than headline GDP growth.
+
+7. The Committee discussed the risks around the outlook for domestic demand, which were
+judged to be skewed to the upside. Households’ real income growth had continued to be
+supported by the reversal of the previous energy shock, although this had appeared to raise
+savings more than consumption so far. While flat retail sales volumes pointed to continued
+elevated savings, improvements in indicators such as the GfK major purchases balance
+suggested a risk that consumption growth could strengthen by more than had been expected
+in the projection in the August Report. As set out in Box C in the August Report, there was a
+risk that the impact of higher interest rates on spending had been more modest and would
+occur earlier than was expected in the Committee’s latest modal projections, suggesting
+upside risks to the outlook for spending. Set against that, corporate insolvency rates had
+continued to rise, although they had remained well below their historical averages.
+
+8. Twelve-month CPI inflation had fallen back to the MPC’s 2% target in May and had
+remained at that level in June. Inflation was expected to increase to around 2¾% over the
+second half of this year, owing largely to a smaller expected drag from domestic energy bills.
+
+9. The Committee discussed the latest accumulated evidence on the degree of persistence
+in pay growth and domestic price inflation. Annual private sector regular average weekly
+earnings growth had continued to fall back, albeit to a still elevated level, in line with the
+projection at the time of the May Report. The continued downward trajectory in pay growth
+had been driven by the normalisation of short-term inflation expectations and some further
+easing in labour market tightness, although pay growth had remained in excess of rates
+explained by Bank models. Services consumer price inflation had declined in 2024 Q2 but
+had remained elevated and had been higher than expected at the time of the May Report.
+
+### The immediate policy decision
+
+10. The Monetary Policy Committee sets monetary policy to meet the 2% inflation target, and
+in a way that helps to sustain growth and employment. The MPC adopts a medium-term and
+forward-looking approach to determine the monetary stance required to achieve the inflation
+target sustainably.
+
+11. The Committee had been briefed on the Government’s 29 July statement on immediate
+public spending pressures. The Government had announced that any changes in the stance
+
+
+-----
+
+of fiscal policy would be set out in the Budget on 30 October. These would be incorporated in
+the November Monetary Policy Report projections.
+
+12. Twelve-month CPI inflation had returned to the MPC’s 2% target in May and June. CPI
+inflation was expected to increase to around 2¾% in the second half of this year, as declines
+in energy prices last year fell out of the annual comparison, revealing more clearly the
+prevailing persistence of domestic inflationary pressures.
+
+13. The Committee’s framework for assessing the medium-term outlook for inflation
+distinguished between first and second-round effects. The MPC was focused on secondround effects that captured more persistent inflationary pressures. The Committee noted that
+there were several potential paths for inflation.
+
+14. The Committee expected the fall in headline inflation, and normalisation in many
+indicators of inflation expectations, to continue to feed through to weaker pay and pricesetting dynamics. A margin of slack should emerge in the economy as GDP fell below
+potential and the labour market eased further. Domestic inflationary persistence was
+expected to fade away over the next few years, owing to the restrictive stance of monetary
+policy. The modal projection in the August Monetary Policy Report was one representation of
+this. Conditioned on the market-implied path of interest rates, CPI inflation was projected to
+fall back to 1.7% in two years’ time and to 1.5% in three years.
+
+15. However, there was a risk that inflationary pressures from second-round effects would
+prove more enduring in the medium term. A stronger-than-expected path for demand, and
+structural factors such as a higher medium-term equilibrium rate of unemployment, could
+affect domestic wage and price-setting more persistently. Furthermore, the degree of
+restrictiveness of monetary policy could be less than embodied in the Committee’s current
+assessment. This was reflected in the risks around the August Report modal inflation
+projection being skewed somewhat to the upside throughout the forecast period. Mean CPI
+inflation was projected to be 2.0% and 1.8% at the two and three-year horizons respectively.
+
+16. The Committee also continued to monitor the accumulation of evidence from a broad
+range of indicators.
+
+17. There remained considerable uncertainty around statistics derived from the ONS Labour
+Force Survey, making it more difficult to gauge the underlying state of labour market activity.
+Based on a broad set of indicators, the MPC judged that the labour market continued to
+loosen but that it remained relatively tight by historical standards.
+
+18. Private sector regular average weekly earnings growth had fallen to 5.6% in the three
+months to May, in line with expectations in the May Report, and broadly in line with
+alternative indicators of wage growth.
+
+
+-----
+
+19. Services consumer price inflation had been 5.7% in June, unchanged from May and
+stronger than had been expected in the May Report, but broadly as expected since the
+MPC’s previous meeting and lower than earlier in the year.
+
+20. Following weakness in the second half of 2023, UK GDP growth had picked up sharply
+around the turn of the year and has been stronger than expected in the May Report.
+Business surveys had continued to point to weaker underlying GDP growth of around 0.3%
+per quarter.
+
+21. Different members placed different probabilities on the extent to which the current
+restrictive policy stance would lead inflationary pressures to continue to unwind, or whether
+adverse inflationary dynamics would prove more enduring, possibly as a result of more
+structural factors or greater momentum in demand. The Committee recognised that the
+stance of monetary policy could remain restrictive even if Bank Rate were to be reduced from
+its current level.
+
+22. Five members preferred a 0.25 percentage point reduction in Bank Rate at this meeting.
+It was appropriate to reduce slightly the degree of policy restrictiveness. The impact from
+past external shocks had abated and there had been some progress in moderating risks of
+persistence in inflation. There had been a normalisation in inflation expectations, and
+forward-looking indicators such as the Decision Maker Panel survey pointed to waning wage
+and price pressures. The recent strength in services inflation had in part continued to reflect
+more volatile components of this series. Although GDP had been stronger than expected, the
+restrictive stance of monetary policy continued to weigh on activity in the real economy,
+leading to a looser labour market and bearing down on inflationary pressures. For some of
+these members, the decision was finely balanced. Inflationary persistence had not yet
+conclusively dissipated, and there remained some upside risks to the outlook.
+
+23. Four members preferred to maintain Bank Rate at 5.25% at this meeting. The upside
+news to services inflation and GDP outturns relative to the May Report, along with continued
+elevated wage growth, suggested that second-round effects were having a greater impact on
+wage and price-setting behaviour in the economy beyond what was embodied in the modal
+forecast. External factors, such as international food and energy prices, had played the major
+role in reducing headline inflation to date. By contrast, underlying domestic inflationary
+pressures appeared more entrenched. These members thought that there was a greater risk
+of more enduring structural shifts, such as a rise in the medium-term equilibrium rate of
+unemployment, a fall in potential growth and a rise in the long-run neutral interest rate,
+contributing to domestic inflationary persistence. They preferred to maintain the current level
+of Bank Rate until there was stronger evidence that these upside pressures would not
+materialise.
+
+
+-----
+
+24. Monetary policy would need to continue to remain restrictive for sufficiently long until the
+risks to inflation returning sustainably to the 2% target in the medium term had dissipated
+further. The Committee continued to monitor closely the risks of inflation persistence and
+would decide the appropriate degree of monetary policy restrictiveness at each meeting.
+
+25. The Chair invited the Committee to vote on the proposition that:
+
+Bank Rate should be reduced by 0.25 percentage points, to 5%.
+
+26. Five members (Andrew Bailey, Sarah Breeden, Swati Dhingra, Clare Lombardelli and
+Dave Ramsden) voted in favour of the proposition. Four members (Megan Greene, Jonathan
+Haskel, Catherine L Mann and Huw Pill) voted against the proposition, preferring to maintain
+Bank Rate at 5.25%.
+
+
+### Operational considerations
+
+
+27. On 31 July, the stock of UK government bonds held for monetary policy purposes was
+£690 billion.
+
+28. As discussed in Box A in the August Monetary Policy Report, the Committee would vote
+on the target for the reduction in the stock of UK government bonds held for monetary policy
+purposes over the 12-month period from October 2024 to September 2025 at its September
+2024 meeting.
+
+29. The following members of the Committee were present:
+
+Andrew Bailey, Chair
+Sarah Breeden
+Swati Dhingra
+Megan Greene
+Jonathan Haskel
+Clare Lombardelli
+Catherine L Mann
+Huw Pill
+Dave Ramsden
+
+Sam Beckett was present as the Treasury representative.
+
+David Roberts was present on 23 and 29 July, and Jonathan Bewes on 29 July, as observers
+for the purpose of exercising oversight functions in their roles as members of the Bank’s
+Court of Directors.
+
+30. On behalf of the Committee, the Chair expressed his appreciation to Jonathan Haskel for
+his contributions to the work of the MPC since becoming a member in 2018.
+
+
+-----
+

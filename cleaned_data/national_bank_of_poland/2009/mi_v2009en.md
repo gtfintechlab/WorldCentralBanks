@@ -1,0 +1,203 @@
+**N** **a** **t** **i** **o** **n** **a** **l** **B** **a** **n** **k** **o** **f** **P** **o** **l** **a** **n** **d**
+
+M o n e t a r y P o l i c y C o u n c i l
+
+# MINUTES OF THE MONETARY POLICY COUNCIL  DECISION-MAKING MEETING HELD ON 27 MAY 2009
+
+During the meeting the Monetary Policy Council discussed the outlook for inflation in the context
+of the past, current and, primarily, anticipated economic situation.
+
+The discussion at the meeting focused on the situation in the credit market and in the banking sector
+as well as on the outlook for economic growth and inflation in Poland and abroad.
+
+The Council paid a lot of attention to the situation in the domestic credit market. It was pointed to a
+strong decline in the growth of corporate and mortgage loans. On the other hand, attention was paid
+to a still high growth in consumption loans. It was pointed out banks might give preference to
+consumer loans market as the average volume of this type of loan is lower and the average maturity
+shorter, whereas interest rate significantly higher than in the case of other loan categories. Yet,
+some members of the Council paid attention to the growing risk of the loan portfolio deterioration
+related with granted consumption loans and, as a result, possible reduction of lending also in this
+segment.
+
+It was emphasized that reduction in lending has a negative impact on economic activity in Poland. It
+was also pointed at the risk of unfavourable feedback between deteriorating situation in the real
+economy and situation of the financial sector.
+
+While discussing measures that could support lending growth, the lowering of the required reserve
+rate was considered. It was emphasized that lowering of the reserve requirement was one of the
+expectations stated by banks during the preparation of the Pact on Credit Action Development in
+Poland. In the opinion of the Council, the reduction of the required reserve rate should be conducive
+towards increasing banks' lending. While analysing the scale of the reduction in reserve
+requirement, it was pointed out that lowering of this rate should be implemented gradually, and
+potential further adjustments should depend on the impact of this reduction on bank lending and
+interest rate developments in the interbank market.
+
+Some members of the Council argued that high credit risk assessment was a more important reason
+for banks’ limiting their lending than liquidity situation. In this context it was assessed that
+implementation of the guarantees and warranties of the Bank Gospodarstwa Krajowego introduced
+under the governmental Stability and Development Plan would favour the growth of corporate
+lending.
+
+While discussing the outlook for bank lending in Poland, the capital position of the banking sector
+was also addressed. It was pointed out that solvency ratio for the whole banking sector had recently
+stabilized, yet the capital position of different banks was diverse. The risk of decline in capital
+adequacy ratios may – in the case of some banks – reduce their lending.
+
+It was also pointed out that amidst the low limits for interbank transactions – in their attempt to
+acquire deposits from non-financial sector – banks had offered, for several months now, relatively
+high interests rate on deposits, considerably exceeding interest rates on loans in the interbank
+market. In the opinion of some members of the Council, banks undertake such measures in order to
+change the structure of their balance sheets to improve the relation between the value of granted
+
+00 919 Warszawa ulica Świętokrzyska 11/21 telefon (22) 826 99 55 fax (22) 826 37 51
+
+
+-----
+
+loans and the value of acquired deposits. Those members also pointed out that relatively high costs
+of financing of banks’ activity were coupled with falling yields on previously granted loans whose
+interest rate was largely based on variable WIBOR 3M rate.
+
+While analyzing the money market interest rate developments, it was pointed at the recent rise in
+WIBOR 3M rate which occurred amidst NBP interest rates being kept unchanged. Attention was
+also paid to the fact that WIBOR 3M rate was now considerably higher than the interest rate on repo
+transactions with the same maturity. According to some members of the Council, decline in banks’
+income on granted loans being the result of falling interest rates in the interbank market
+accompanied by high costs of acquiring deposits induces those banks to undertake measures aimed
+at maintaining WIBOR 3M rate at a heightened level, while limiting their interbank transactions.
+
+While discussing the external environment of the Polish economy, it was pointed to the signs of
+easing of downward trends in the global economy. At the same time, it was emphasised that the
+uncertainty about the starting point and sustainability of a possible recovery in the world economy
+remains high. In this context, attention was paid to the data suggesting stabilization of economic
+activity in the United States, while, at the same time, it was pointed out that some recently released
+data on American economy was worse than expected.
+
+While analysing the outlook for economic growth in Poland’s major trading partners, it was
+assessed that due to relatively lower flexibility of product and labour markets, the recession in
+Western Europe might be longer than in the United States. It was emphasized that a strong drop in
+GDP growth in euro area economies in 2009 Q1 might suggest that decline in economic activity in
+this region in 2009 – despite recent improvement in some economic indicators – would be deeper
+than expected. Some members of the Council also indicated that good economic situation in
+Western European economies in the past few years was largely driven by the boom in real estate
+markets and high demand for investment goods in the world. Those members argued that amidst
+current slump in real estate markets the recovery might take relatively long time both in the
+countries where the real estate bubble had burst and in the countries which had not reported any
+significant disequilibrium in these markets but whose exports were largely dependent upon high
+demand in the global economy. At the same time, those members pointed out that persisting low
+level of production capacity utilization in Western European economies might lead to a decline in
+the inflow of foreign direct investment to the countries of Central and Eastern Europe, including
+Poland, which might negatively affect productivity and economic growth in this region.
+
+While analysing the situation in the Polish economy, it was indicated that the released data
+suggested a possibility of GDP growth remaining positive in 2009 Q1. At the same time, it was
+assessed that subsequent quarters would see a downward trend in GDP growth which was suggested
+by macroeconomic data for April 2009 and economic indicators remaining at a low level despite a
+certain improvement in recent period. Some members of the Council assessed that GDP would
+probably grow in 2009, albeit the risk of its slight decline could not be excluded. Moreover, other
+members of the Council assessed that recovery in the Polish economy might come later than
+expected and the GDP growth might remain at a relatively low level for a longer period of time,
+should the recession in Poland’s major trading partners prove long-lasting.
+
+In the opinion of some members of the Council factors curbing the decline in GDP growth in
+subsequent quarters might include – similarly to 2009 Q1 – consumption and net exports. It was
+pointed out that consumption growth slowed down gradually due to still relatively high wage
+growth, income tax cuts implemented in 2009 and continuation of relatively high growth in
+consumption loans. On the other hand, it was emphasized that growing unemployment and
+anticipated decline in wage growth as well as worse consumer sentiment - despite certain recent
+improvement – as compared with the previous years constituted factors that might be conducive to
+limiting future consumption demand. Moreover, some members of the Council pointed to the risk
+of decline in real wages in the economy which might lead to further reduction in consumption.
+
+
+-----
+
+While addressing investment in the Polish economy, it was pointed out that further decline in
+private investment would be driven by unfavourable outlook for economic growth in Poland and
+abroad amidst production capacity surplus connected with high level of investment in the previous
+years. It was also emphasized that factors acting towards decline in investment expenditure would
+in addition include limited possibility of financing private investment in Poland caused by falling
+inflow of foreign direct investment, reduced bank lending and deteriorating financial condition of
+enterprises. On the other hand, it was pointed out that investment decline in the Polish economy
+might be curbed by investment projects co-financed with EU funds.
+
+While analysing current inflation developments, it was indicated that in April 2009 inflation
+exceeded expectations and remained above the upper limit for deviations from the inflation target.
+At the same time, it was pointed out that the rise in inflation in that month was caused by rising
+food prices, regulated prices and traded goods prices which was driven by the previous zloty
+exchange rate depreciation. Some members of the Council emphasized that developments of
+consumer price index net of prices largely beyond the direct control of monetary policy signalled
+that inflationary pressure in Poland had not eased considerably yet.
+
+While discussing the outlook for inflation in Poland, some members of the Council pointed out that
+short-term forecasts of the NBP suggested inflation might decline in the coming months below the
+upper limit for deviations from the inflation target. Those members also pointed out that the
+structure of inflation expectations had not deteriorated despite the rise in current inflation. In the
+opinion of those members of the Council in the medium term decline in inflation should be driven
+by the slowdown in economic growth and further widening of the negative output gap in Poland.
+Other members of the Council also pointed out that at the initial stage of recovery in the Polish
+economy inflationary pressure should not increase considerably due to faster labour productivity
+than wage growth and, consequently, favourable changes in unit labour costs.
+
+Some members of the Council also argued that amidst persisting considerable negative output gap
+inflation in Western European countries might run, for a longer time, at a low level, which –
+through import prices – would be conducive to easing inflationary pressure in Poland. Yet, some
+members of the Council pointed at the risk of growth in agricultural and energy commodity prices
+in the case of revival of economic activity in the United States and China, likely to occur earlier
+than in Europe. Those members argued that continuing relatively low growth in the Polish economy
+connected with persisting recession observed in Poland’s major trading partners might be then
+accompanied by inflationary pressure resulting from increase in commodity prices in the global
+markets.
+
+At the meeting, it was also pointed out that the rise in inflation in the medium term might in
+addition be driven by a possible rise in indirect and local taxes as well as fees and prices regulated
+by local governments, connected with considerable deterioration in the situation of the general
+government sector. At the same time, some members of the Council pointed at high uncertainty
+about future tax policy of central government and about taxes, fees and prices decided by local
+authorities.
+
+While discussing the impact of exchange rate on inflation, some members of the Council assessed
+that exchange rate developments remained the main risk factor for price stability. Those members
+also argued that – in the absence of current inflation growth translating into rising inflationary
+expectations and assuming exchange rate stabilization in the future – the impact of exchange rate
+depreciation on inflation might be expected to fade off gradually. Other members of the Council
+pointed out, however, that the pass-through of the previous exchange rate developments on inflation
+might be stronger than assessed earlier.
+
+Moreover, some members of the Council argued that the risk of deterioration in the outlook for
+growth in the Polish economy as a result of longer-than-expected slowdown in the economic
+
+
+-----
+
+activity in the euro area and a fall in the inflow of direct investment might be conducive to zloty
+exchange rate depreciation in the medium term. Those members also pointed out that the risk of
+exchange rate depreciation might result from deteriorating situation in the general government
+sector in Poland. Deteriorating fiscal situation increases uncertainty about the moment of zloty
+entering the ERM II.
+
+At the meeting the prospects of Poland meeting the Maastricht price stability criterion were also
+addressed. It was indicated that 12-month moving average HICP inflation in Poland exceeded in
+April 2009 by 0.7 percentage point the reference value for price stability criterion and that the
+difference between those indicators increased considerably.
+
+Members of the Council agreed that current inflation developments, uncertainty about the prospects
+of economic recovery in Poland and abroad and uncertainty about the situation in the public finance
+and its impact on inflation justified keeping the NBP interest rates unchanged at the current
+meeting. Some members of the Council indicated also that also very low level of real interest rates
+spoke in favour of leaving the NBP interest rates unchanged. The majority of the Council members
+decided that a more comprehensive assessment of the medium-term outlook for inflation would be
+possible after getting acquainted with the results of the June projection of inflation and GDP.
+Moreover, the Council decided that strong contraction in lending justified lowering the required
+reserve rate by 50 basis points at the current meeting.
+
+A motion to lower the required reserve rate by 50 basis points was put forward and passed. The
+Council lowered the required reserve rate from 3.5% to 3%, keeping, at the same time, the interest
+rates unchanged: the reference rate at 3.75%, the lombard rate at 5.25%, the deposit rate at 2.25%
+and the rediscount rate at 4.00%.
+
+_Publication date: 18 June 2009_
+
+
+-----
+

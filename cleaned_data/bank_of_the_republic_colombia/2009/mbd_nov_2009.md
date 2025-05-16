@@ -1,0 +1,112 @@
+# Minutes of a Meeting of the Board of Directors of the Central Bank of Colombia on November 23, 2009
+ A regular meeting of the Board of Directors of the Central Bank of Colombia was held in the city of Bogotá on November 23, 2009.
+ Present:  Mr. Oscar Iván Zuluaga, Minister of Finance and Public Credit Mr. José Darío Uribe, Governor of the Central Bank of Colombia
+ Full-time Board Members in Attendance: Mr. Carlos Gustavo Cano  Mr. Juan José Echavarría  Mr. Fernando Tenjo Mr. Cesar Vallejo Mr. Juan Pablo Zárate
+ Inflation and the economic situation were discussed with respect to growth and prospects for the future, and monetary-policy decisions were reached.  The following is a summary of the main issues addressed during the meeting. 
+ 1. BACKGROUND
+ a. Recent Developments in Inflation 
+ In October, annual consumer inflation was 2.72%, which is 49 bp less than in September. Cumulative inflation was 1.98% for the year-to-date at October. This is well below the rate witnessed last year for the same period (6.9%). The core inflation indicators continued to decline. 
+ Annual food inflation slowed went from 2.2% in September to 1.6% in October. 
+
+
+-----
+
+# The annual increase in regulated prices declined from 2.5% in September to 1.7% in October. This was due to all the sub-groups and particularly public utilities. 
+ Annual inflation in non-tradables, excluding food and regulated prices, went from 4.8% in September to 4.6% in October. The decline in items with low indexing and in rentals was a high point. Annual inflation in the price of highly-indexed items remained in the vicinity of 7%. 
+ Annual inflation in tradable goods, excluding food and regulated prices, dropped from 2.7% in September to 2.1% in October. 
+ Given the preliminary figures at November 13, inflation expectations derived from government bonds negotiated at 1, 5 and 10 years showed variations of -31 bp, -57 bp and -31 bp compared to the average figures for October and were 2.78%, 3.59% and 4.09%, respectively. 
+ The annual variation in producer prices (PPI) declined from -1.5% in September to -4.7% in October.
+ b. Growth
+ Most indicators of productive activity do not reflect a more profound slump in economic activity, but do not signal generalized growth either. 
+ - The annual variation in the industrial production index, excluding coffee processing, was -3.8% in September. With this figure, the annual decline in industrial production during the third quarter came to 4.6%, a descent that compares favorably to the reductions observed during the last three quarters. 
+ - With respect to levels, industrial production (seasonally adjusted) posted a small increase in September compared to August. 
+ - The industrial inventory indicator derived from the Fedesarrollo Business Opinion Survey (EOE) for September shows a slight decline with respect to the level in past months. The orders indicator, based on the same survey, has been at a standstill for several months. 
+
+2
+
+
+-----
+
+# - The annual variation in sales came to -7.3% in September. When seasonally adjusted, the series shows sales in the commerce sector declined during September to mid-2006 levels.
+ The Fedesarrollo Consumer Confidence Indicator dipped slightly during September and October. 
+ - By the third quarter, real VAT revenue also reflected a recovery compared to the second quarter.
+ - August retail sales dropped to an annual rate of 3.9%, which is less than in the second quarter (-4.8%).
+ There was a US$1.054 billion trade surplus during the year to date at September, which is US$500 m less than during the same period in 2008. 
+ Total exports in dollars (CIIU classification) declined 18.5% during the year to date at September 2009 with respect to the same period in 2008. In terms of origin, all of them declined: industrial exports -21.7%, mining exports -16.2% and agricultural exports -7.2%. 
+ Exports to Venezuela in U.S. dollars, which account for 15% of total exports, have plummeted 14.2% during the year to date. Sales to Venezuela during September were down 49.5% with respect to the same month in 2008. This was more than the decline in previous months.
+ Sales to the United States, which account for 38% of all exports, fell 20.3% during the year to date at September, due to fewer sales in dollars by the mining sector (-23.6%) and industry (-19%).
+ Imports (CIF) came to US$24.039 b during the year to date at September, having contracted at an annual rate of 18.7%. The largest decline was in imports of intermediate goods (29%), particularly from the United States. 
+ According to the Comprehensive Household Survey (GEIH), employment increased during the June-September 2009 moving quarter at an annual rate of 5.1% nationwide and 2.6% in the thirteen major metropolitan areas. However, the rate of increase in the labor supply (GPR) was even
+
+3
+
+
+-----
+
+# higher. The result was a higher unemployment rate: 12.2% nationwide and 13% in the 13 areas during the moving quarter ended in August. 
+ c. The External Context 
+ Economic conditions in the developed countries have improved during the last few months. By the third quarter of 2009, most of the developed economies posted GDP growth. In the case of the United States, GDP was up 3.5% (a/q) during that period, with consumption and investment being the variables that contributed the most to that increase. Business sentiment in the industrialized countries also has continued to improve, as have certain indicators of productive activity, such as exports and retail sales. The international financial markets continued to recover, particularly with respect to liquidity conditions and stock market performance. 
+ This improvement in prospects has led international analysts to raise their forecasts for growth in 2010, particularly with respect to the United States. Even so, there is lingering uncertainty about how the economies of those countries will evolve. Specifically, the weak job market and the restrictions on bank loans could tone down the recovery in consumption and investment during the coming quarters. 
+ As for the emerging countries, economic performance has been quite mixed. In the case of the Asian countries, China has consolidated its recovery and many of its productive indicators show significant rebounds, also led by fiscal spending. India’s performance is positive as well, but its recovery is less pronounced. 
+ The signals for Latin America are mixed. The exports of some countries in the region did improve during the last quarter. Industrial activity in Brazil and Chile is recovering, but the signs for the rest of Latin America are not as clear. 
+ In the case of the Venezuelan economy, real GDP contracted at an annual rate of 4.5% in the third quarter of 2009; the market had expected annual reductions close to 1.5% for the same period. Although government spending maintained its momentum, private consumption and gross fixed capital formation experienced major setbacks. As a result, a 2% drop is forecast for 2009. 
+
+4
+
+
+-----
+
+# The trend towards appreciation in the price of the region’s currencies continued during the year to date. However, in the past month, the exchange rate stabilized in most Latin American countries and even depreciated, except in Chile, where appreciation continued. 
+ d. Financial Variables 
+ The annual increase in M3, which had slowed up to mid-October, stabilized at around 10% in the last three weeks (from October 16 to November 6), largely due to liabilities subject to reserve requirements (LSR).  The annual variation in cash, which posted an annual increase of 0.7% in October, recovered slightly and was 3.7% on November 6. In real terms (non- food CPI-deflated), the growth rates for M3, LSR and cash averaged 6.5%, 7.2% and 1.7%, respectively, during October. 
+ The gross loan portfolio in domestic currency continued to slow, registering an annual increase of 5.1% by November 6 compared to 7.3% the month before. The gross commercial loan portfolio declined even more, having gone from 8.4% annual growth by October 9 to 6.3% by November 6. Throughout the month, the consumer loan portfolio stayed at levels similar to those observed the month before. The acceleration in the mortgage loan portfolio continued to consolidate between October 6 and November 9, with growth climbing from an annual rate of 12.9% to 15.7%. Consequently, in real terms (with non-food CPI) the domestic-currency denominated portion of the loan portfolio was up 2% by November 6, the commercial portfolio, 3.1%, the mortgage loan portfolio, 12.3% and the consumer loan portfolio, -3.2%. 
+ Corporate debt issue explains part of the slowdown in the commercial loan portfolio. With the figures at September, the commercial portfolio plus bonds grew 13.4%, which is 320 bp above the increase in the commercial loan portfolio. Another factor behind the slowdown in the domestic-currency denominated portfolio is associated with the increased in loan portfolio write- offs during the last 12 months, which went from COP5.5 t to COP7.5 t.
+ As for interest rates, the 50 bp benchmark rate cut (September 25) was reflected entirely in the money market rates and has passed through quickly to rates on deposits and commercial loans (except for construction). Moreover, the reduction in the usury rate as of October 1 (206 bp) accelerated the decline in rates on credit card lending. 
+
+5
+
+
+-----
+
+# The decline in average nominal rates during October was similar to the slowdown in non-food inflation; for that reason, interest rates in real terms remained relatively stable (with the exception of the credit rate, -116 bp and the consumer lending rate, -33 bp).
+ Between October 23 and November 13, 2009, the short, middle and long segments of the TES yield declined by 45 bp, 111 bp and 70 bp, in that order.  
+ 2. DISCUSSION AND POLICY OPTIONS 
+ The following points were emphasized by the Board of Directors during its deliberations: 
+ i The sharp, rapid drop in price growth during the month, which was not anticipated by the market or in the Bank’s technical calculations.  ii The continued decline in core inflation indicators and inflation expectations, which are within the target range set by the Board of Directors for next year.  iii The generalized reduction in price increases compared to other months when reductions were due fundamentally to lower food and regulated prices.  iv The temporary impact El Niño weather could have on price increases.  v The standstill in growth in consumer and business confidence indicators  vi The recovery in M3 and, above all, in liabilities subject to reserve requirements vii The financial system’s peso loan portfolio, which is declining but still continues to grow in excess of nominal GDP viii Bond issues to supplement financing for the productive sector  ix How market interest rates have performed in response to the benchmark rate cuts by the Central Bank. x Less economic growth in Venezuela this year and the outlook for 2010  xi The impact of the exchange rate on inflation and growth in the tradable sectors xii The evolution of interest rates on government bonds 
+
+6
+
+
+-----
+
+# The main points analyzed by the members of the Board centered on: (i)  the elements that affect the inflation forecasts for 2009 and 2010, particularly  an eventual surge in food and regulated prices due to El Niño weather; (ii) the lag between monetary policy measures and their effect on production and prices; (iii) forecasts for economic growth during the remainder of the year and in 2010, given weaker-than-anticipated external demand and less fiscal stimulus next year; (iv) the sharp drop in exports to Venezuela during recent months and in Venezuela’s output; (v) the evolution of the exchange rate in recent weeks; (vi) the performance of monetary aggregates and how it might affect economic recovery; (vii) the recent low momentum in the commercial loan portfolio held by the financial system and its causes; (viii) the risk balance between growth and inflation in a context of economic slowdown and falling inflation; (ix) the relevance of continuing to lower the intervention rate, given the latest data at hand; and (x) the need to bolster the monetary authority’s credibility and to anchor inflation expectations to the long-term target. 
+
+ The Board of Directors emphasized the following with respect to the way inflation performed during the month: (i) annual consumer inflation in October declined faster than expected; (ii) the core inflation indicators continued to drop; (iii) inflation expectations continue to fall; (iv) although the downturn in inflation was led by food and regulated prices, the monthly price reductions have been more generalized, encompassing a wide variety of goods and services; and (v) forecasts for the end of the year show inflation will be under the mid-point of the long-term target range (3%). 
+
+ It was noted that the external context has improved in recent months, prompting international analysts to raise their economic growth forecasts for 2010 in most countries and particularly in the United States. However, the growth forecasts for Venezuela show a sizeable reduction in GDP for this year and in 2010. Coupled with the added restrictions on trade, this will affect Colombian exports to that country. 
+
+ Moreover, although the information available at September reflects no new contractions in the country’s levels of economic activity, neither does it show vigorous recovery. Added to this is the continued slowdown in the portion of the loan portfolio denominated in domestic currency. 
+
+ Colombia’s expansive monetary policy has allowed for a steady reduction in interest rates on deposits and lending. The Board of Directors
+
+7
+
+
+-----
+
+# expects this tendency to continue to stimulate economic growth in an environment characterized by a healthy financial system.
+
+ The majority of the Board members believe a 50 basis point reduction in the intervention rate will reinforce economic recovery and will reduce the negative effects of the slump in trade with Venezuela. This cut in the intervention rate corrects the real interest rate increase caused by less inflation and expectations of inflation and is coherent with the inflation target set for 2010. 
+
+ Other members of the Board expressed fear concerning the extemporaneous nature of the measure, given the natural lag between its adoption and its full impact on demand. They indicated a new interest rate cut might make it difficult to meet the inflation target for 2010 and, if so, the Board would have to increase its intervention rate in an environment where the economic recovery might not have been consolidated. 
+
+ 3. POLICY DECISION 
+
+ The Board of Directors agreed, by a majority vote, to lower the Central Bank’s intervention rate by 50 bp, placing it at 3.5%. 
+ Bogotá D.C., Colombia  December 4, 2009
+
+8
+
+
+-----
+

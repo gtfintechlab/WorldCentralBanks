@@ -1,0 +1,49 @@
+**Central Bank of Egypt**
+
+**Press Release**
+
+April 28th, 2021
+
+**The Monetary Policy Committee (MPC) decided to keep the Central Bank of Egypt’s (CBE)**
+**overnight deposit rate, overnight lending rate, and the rate of the main operation unchanged**
+**at 8.25 percent, 9.25 percent, and 8.75 percent, respectively. The discount rate was also kept**
+**unchanged at 8.75 percent.**
+
+Annual headline urban inflation stabilized at 4.5 percent in March and February 2021, after
+registering 4.3 percent in January 2021. The stabilization in the annual headline inflation rate
+came due to the combined effect of the higher annual contribution of food items, and the lower
+annual contribution of non-food items. Annual food inflation increased in March 2021 after
+remaining stable in February 2021, reflecting higher annual contribution of volatile food items as
+well as core food items, but by a lesser extent, in line with their seasonal patterns. Meanwhile,
+annual non-food inflation declined, supported by broadly stable prices in March 2021 as well as
+favorable base effects. In the meantime, annual core inflation inched up slightly to 3.7 percent in
+March 2021 from 3.6 percent in February 2021.
+
+Real GDP growth recorded a preliminary figure of 2.0 percent during 2020 Q4, up from 0.7
+percent during the previous quarter. Moreover, some leading indicators point towards a
+resumption of recovery towards their pre-pandemic levels. Meanwhile, the unemployment rate
+stabilized at 7.2 percent during 2020 Q4 compared to 7.3 percent during the previous quarter.
+
+Global economic activity continues to display signs of recovery and resilience in the face of the
+COVID-19 pandemic, albeit with varying paces across countries and economic sectors. Prospects
+for global economic recovery remain contingent on the development of the pandemic, and the
+efficacy, availability and scale of distribution of vaccines. Global economic and financial
+conditions are expected to remain accommodative and supportive of economic activity over the
+medium term. Meanwhile, international food and other commodity prices have continued to
+rise, as international oil prices remained elevated relative to their post-pandemic levels. The
+changes in international oil prices were driven by demand and supply side developments, which
+continue to weigh on their future price trajectories.
+
+Against this background, the MPC decided that keeping policy rates unchanged remains
+consistent with achieving the inflation target of 7 percent (±2 percentage points) on average in
+2022 Q4 and price stability over the medium term.
+
+The MPC closely monitors all economic developments and will not hesitate to utilize all available
+tools to support the recovery of economic activity, within its price stability mandate.
+
+**Monetary Policy Sector**
+E-Mail: monetary.policy@cbe.org.eg
+
+
+-----
+

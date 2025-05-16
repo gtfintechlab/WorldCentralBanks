@@ -1,0 +1,330 @@
+a) Raise the BSP’s current policy interest rate by 50 basis points to
+
+
+**_HIGHLIGHTS OF THE MEETING OF THE MONETARY BOARD ON THE_**
+
+**_MONETARY POLICY STANCE HELD ON 15 DECEMBER 2022 [1]_**
+
+**I.** **Monetary Policy Decision**
+
+The Monetary Board decided to:
+
+a) Raise the BSP’s current policy interest rate by 50 basis points to
+
+5.50 percent for the overnight RRP rate; and
+
+b) Increase the current interest rates on the overnight deposit facility
+
+(ODF) to 5.0 percent and overnight lending facility (OLF) to
+6.0 percent.
+
+**II.** **Key Considerations in the Formulation of the Monetary Policy Stance**
+
+       - The latest baseline inflation forecasts continue to show an above-target
+
+inflation path over the policy horizon. The updated forecast path shows
+inflation peaking in December 2022. From there, inflation is seen to
+decelerate but remain elevated well into the first half of 2023. By Q3 2023,
+inflation will likely revert to within the 2-4 percent target band before
+settling close to the lower end of the target range in Q4 2023 and Q1 2024,
+largely due to base effects. Thereafter, inflation will stabilize and return to
+the midpoint of the target by Q2 2024.
+
+       - The Monetary Board noted that, at present, inflation remains high and
+
+broad-based, as seen in the sharp increase in core inflation and the further
+rise in inflation expectations.
+
+       - Meanwhile, the risks to the inflation outlook are strongly tilted to the
+
+upside in 2023 but remain broadly balanced for 2024.
+
+       - Amid broad-based inflation pressures, persistent upside risks to inflation,
+
+and elevated inflation expectations, the Monetary Board deemed it
+necessary to take aggressive monetary action to bring headline inflation
+back to within target as soon as possible. Continued monetary tightening
+will also provide a cushion against external spillovers even as major central
+banks have signaled a possible slowing down of monetary policy
+tightening.
+
+       - To mitigate the effects of persistent supply-side pressures on commodity
+
+prices, the Monetary Board also noted the continuing need for timely non-
+monetary interventions by the National Government in alleviating supply-
+side shortages and strengthening farm productivity.
+
+1 The discussions herein reflect the assessment made by the Monetary Board based on macroeconomic and
+
+financial information available at the time of the monetary policy meeting. The next meeting of the
+
+
+-----
+
+**III.** **Recent Developments and Inflation Outlook**
+
+The Monetary Board considered the recent macroeconomic and financial
+
+developments discussed below in assessing the monetary policy stance:
+
+**A. Domestic price conditions**
+
+  - Headline inflation increased further to 8.0 percent year-on-year (y-o-y) in
+
+November 2022 from 7.7 percent in October 2022, the highest recorded
+rate since November 2008. The rise in inflation in November 2022 was due
+primarily to higher inflation for food and non-alcoholic beverages. Inflation
+for rice, fruits, sugar, and vegetables also registered larger increases. Under
+non-food items, restaurants and accommodation services also contributed
+to the further uptick in inflation. The resulting year-to-date average
+inflation of 5.6 percent was above the NG’s average inflation target range
+of 2-4 percent for the year.
+
+  - Likewise, core inflation, which depicts underlying demand-side pressures,
+
+rose to 6.5 percent in November 2022 from 5.9 percent in October 2022.
+The higher official core inflation reflected rising food costs, which have
+driven inflation for other large-weighted CPI items such as other food and
+non-alcoholic beverages as well as restaurants and accommodation
+services.
+
+**B.  Inflation expectations**
+
+  - Inflation expectations also rose further. The BSP’s survey of private sector
+economists for December 2022 showed higher mean inflation forecasts
+for 2022 at 5.9 percent (from 5.7 percent based on the November 2022
+survey) and for 2023 at 5.1 percent (from 4.9 percent).
+
+  - Similarly, the results of the BSP’s Q4 2022 expectations survey on
+businesses and households indicate that both sectors anticipate inflation
+to breach the upper end of the government’s 2-4 percent target range for
+2022 and 2023.
+
+**C.  Inflation outlook**
+
+  - **The latest baseline forecasts continue to show an above-target**
+
+**inflation path, with average headline inflation seen at 5.8 percent for 2022**
+and at 4.5 percent for 2023 before decelerating towards the midpoint of
+the target range at 2.8 percent for 2024. The forecast for 2022 is
+unchanged, while that for 2023 has been raised due to the higher-thanexpected inflation outturn in November, the higher inflation nowcast for
+December, and the approved water rate increases starting 2023. The
+impact of these factors was partly offset by the lower crude oil price
+assumption and the peso appreciation. Meanwhile, the lower forecast for
+2024 could be attributed to the further easing in oil prices, the peso
+appreciation, and lower domestic growth outlook following the
+cumulative policy rate adjustments of the BSP.
+
+
+-----
+
+|Baseline Inflation Forecasts|Col2|Col3|
+|---|---|---|
+||17 November 2022 MB Meeting|15 December 2022 MB Meeting|
+|2022|5.8|5.8|
+|2023|4.3|4.5|
+|2024|3.1|2.8|
+
+
+
+  - **The risks to the inflation outlook remain strongly tilted to the upside**
+
+**in 2023 but broadly balanced for 2024. The expected upside risks to**
+inflation over the policy horizon stem mainly from elevated international
+food prices due to high fertilizer prices and supply chain constraints. On
+the domestic front, trade restrictions, increased prices of fruits and
+vegetables due to weather disturbances, higher sugar prices, pending
+petitions for transport fare increases, as well as potential wage
+adjustments in 2023 could push inflation upwards. Meanwhile, the impact
+of a weaker-than-expected global recovery continues to be the primary
+downside risk to the outlook.
+
+**D. Demand conditions**
+
+  - The Philippine economy is expected to remain on a recovery path over the
+
+near term. GDP growth is projected to settle within the DBCC’s targets for
+2022 and 2023, but slightly below the 6.5-8.0 percent target for 2024.[2] The
+slower growth is mainly due to the lower global GDP growth assumption
+for 2023 and the impact of the policy rate adjustments of the BSP.
+
+  - Domestic labor market conditions continued to show overall
+
+improvement, with the unemployment rate declining to 4.5 percent in
+October 2022 from 5.0 percent and 7.4 percent a month ago and a year
+ago, respectively.
+
+**E.  Supply-side indicators**
+
+Developments in Agriculture
+
+  - Nationwide average retail rice prices increased in November 2022 based
+
+on the results of the 2018-based PSA Retail Price Survey (RPS) covering all
+provinces and key cities in the country. The uptick in average rice prices in
+November 2022 was attributed to the lingering impact of agricultural
+damages and losses left by strong typhoons that hit the country during the
+main harvest season.
+
+  - Prices of key food items have risen as lingering supply-side issues and
+
+spillover effects of the Russia-Ukraine conflict have led to persistent global
+supply chain bottlenecks and soaring prices of fuel, feeds, and fertilizers.
+Likewise, the country’s vulnerability to natural calamities and animal
+diseases continue to weigh on agricultural production. To cushion the
+
+2 Government growth targets based on the 183rd Development Budget Coordination Committee (DBCC) Meeting on 5
+D b 2022
+
+
+-----
+
+impact of these challenges on the country’s food security, the National
+Government has implemented crucial non-monetary measures to fill
+short-term supply gaps (e.g., temporary reduction of tariff rates and timebound increase in import volumes and expansion of import sources) and
+boost local production (e.g., longer-term productivity-enhancing
+
+programs).
+
+- Based on the latest assessment as of 10 November 2022, prevailing La Niña
+
+conditions will likely persist through February 2023 and then transition to
+ENSO-neutral conditions by February-March-April 2023 season.
+
+Nonetheless, continuing La Niña conditions may pose the risk of more
+frequent tropical cyclones and sustained flooding, which could adversely
+affect the agriculture sector, as well as present upside pressures on
+inflation. On the other hand, above-normal rainfall conditions associated
+with La Niña may also boost water supply in harvest areas and thus
+potentially enhance agricultural production.
+
+Oil Price Developments
+
+- Global crude oil prices declined amid worries over weakening demand due
+
+to restrictive financial conditions, slowing global growth, and reduced
+demand from China. As such, futures prices of Brent crude oil remained in
+backwardation. Meanwhile, as of November 2022, the US Energy
+Information Administration (EIA) expects global supply and demand in oil
+markets to be generally balanced in 2023, although possible additional
+production cuts from OPEC+ and increased global economic uncertainty
+pose significant risks to the EIA’s outlook.
+
+- Domestic pump prices for gasoline, kerosene, and diesel have declined in
+
+recent weeks. However, on a year-to-date basis, prices of gasoline,
+kerosene, and diesel remained significantly higher compared to end-2021
+levels.
+
+Developments in the Utilities Sector
+
+- The overall electricity rate increased in December 2022 due to the
+
+completion of distribution-related refunds for residential customers. Three
+(3) such refunds are still ongoing, which are expected to be completed by
+December 2022, January 2023, and May 2023.
+
+- Meanwhile, the increase in electricity rates was tempered by the decline in
+
+generation charges. Charges from Power Supply Agreements (PSAs) fell as
+the First Natgas-San Gabriel plant went back online after its scheduled
+maintenance outage in October. The recent appreciation of the peso
+against the US dollar also contributed to the reduction in cost. Similarly,
+cost of electricity from the Wholesale Electricity Spot Market (WESM)
+decreased on improved supply conditions in the Luzon grid.
+
+**F. Financial market developments**
+
+
+-----
+
+- The peso depreciation against the US dollar slowed down to 9.8 percent
+
+year-to-date as of 29 November 2022, from 12.0 percent in October. The
+peso appreciated on positive market sentiment in November amid lowerthan-expected US inflation in October, which fueled optimism that the US
+Federal Reserve could slow its pace of rate increases, and the decline in
+global oil prices. On the domestic front, optimism over releases of positive
+news, specifically, higher gross international reserves (GIR) for October; the
+lower unemployment rate for September; higher-than-expected GDP
+growth in Q3 2022; the rise in overseas Filipino (OF) remittances in
+September; improvement in balance of payments (BOP) data in October;
+and the reinstatement of investment grade rating for the Philippines by
+S&P likewise contributed to the appreciation of the peso.
+
+- The Philippine Stock Exchange Index (PSEi) averaged 6,388.9 index points
+
+in November, higher by 6.6 percent than its October average. The recovery
+in the benchmark index could be attributed to improved market
+sentiment following positive developments in the domestic economy,
+including: faster-than-expected Q3 2022 GDP growth of 7.6 percent;
+positive third-quarter corporate earnings reports; and S&P Global Ratings’
+affirmation of the Philippines’ investment-grade credit rating of BBB+ with
+a stable outlook. Against this backdrop, there was market optimism on the
+economy’s ability to absorb the 75-bp rate increase by the BSP at its
+November policy meeting. Market expectations of a slower pace of
+monetary policy tightening by the US Federal Reserve also contributed to
+renewed investor confidence.
+
+**G. Domestic liquidity and credit conditions**
+
+- Domestic liquidity and credit conditions continued to support bank
+
+lending and broad-based economic recovery. Preliminary data show that
+domestic liquidity (M3) grew by 5.4 percent year-on-year to about ₱15.4
+trillion in October from 5.2 percent in September. Meanwhile, outstanding
+loans of universal and commercial banks for both production and
+consumption activities increased by 12.5 percent in October (from 12.3
+percent in September) and 22.6 percent (from 20.6 percent), respectively.
+
+- Secondary market government security yields, especially in the middle of
+
+the yield curve, declined on 5 December 2022. Yields fell as banks serviced
+their client requirements and reinvested their excess funds. The decline in
+yields at the belly of the curve was also supported by market expectations
+that the BSP could also move to a slower pace of policy rate increases amid
+signals from the US Federal Reserve that it could slow the pace of its
+upcoming rate increases.
+
+**H.  Fiscal developments**
+
+- Fiscal consolidation continued as the National Government (NG) recorded
+
+a deficit of P1,1111.8 billion for January - October 2022, 7.6 percent lower than
+recorded in the same period in 2021. Netting out the interest payments,
+
+
+-----
+
+the primary deficit amounted to P678.7 billion, 18.5 percent lower than the
+amount recorded in 2021.
+
+**I.  External developments**
+
+- Global economic activity contracted faster in November due to further
+
+declines in manufacturing output and service sector revenues amid a
+broad slump in business activity in major economies such as the United
+States, the Euro Area, United Kingdom, Japan, China, and Brazil.
+
+- Global economic output contracts for the fourth consecutive month amid
+
+a broad slowdown in business activity. The JP Morgan All-Industry Output
+Index fell further to 48.0 in November from 49.0 in October, reflecting the
+contractions in output, new business, new export business, and
+outstanding business. Although price pressures have eased amid the
+decline in input costs and selling charges, businesses recorded lower
+revenues as rising interest rates, prolonged geopolitical risks, elevated
+inflation, and heightened market volatility weighed on private demand.
+Nonetheless, the global economy's rate of contraction was partially offset
+by the faster expansion in India.
+
+- Amid major central banks’ aggressive monetary policy tightening, global
+
+financial conditions have also continued to tighten. Several central banks
+have raised their respective key policy rates in November to address
+persistent and broadening price pressures as well as to anchor inflation
+expectations.
+
+
+-----
+

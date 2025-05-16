@@ -1,0 +1,78 @@
+Press Release – June 22[nd], 2023
+
+**MPC decided to keep key policy rates unchanged**
+
+**In its meeting today, the Monetary Policy Committee (MPC) decided to keep the Central**
+**Bank of Egypt’s (CBE) overnight deposit rate, overnight lending rate, and the rate of the**
+**main operation unchanged at 18.25 percent, 19.25 percent, and 18.75 percent, respectively.**
+**The discount rate was also kept unchanged at 18.75 percent.**
+
+On the global front, forecasts for key international commodity prices continue to be revised
+
+downwards compared to those underlying the previous MPC meetings. In addition, while
+
+monetary policy tightening and lower energy prices have contributed to easing global inflationary
+
+pressures, inflation rates remain above their respective target levels in key global economies.
+
+Financial conditions in key advanced economies have also tightened compared to the May MPC
+
+meeting, supporting the slight decline in forecasts for global economic growth.
+
+Domestically, growth of real economic activity moderated to 3.9 percent in 2022 Q4 compared to
+
+4.4 percent in 2022 Q3, implying that growth during the first half of the fiscal year 2022/23
+
+registered 4.2 percent. Detailed figures for 2022 Q4 portray that growth was mainly driven by the
+
+positive contribution of net exports, in line with exchange rate developments. Furthermore, growth
+
+continues to be led by private sector economic activity, supported by the positive contributions of
+
+trade, agriculture and construction. Leading indicators for 2023 Q1 point towards a slowdown of
+
+real GDP growth. Given the above, real GDP growth is expected to slow down in fiscal year
+
+2022/23 compared to the previous fiscal year, before recovering thereafter. Meanwhile, the
+
+unemployment rate slightly declined to 7.1 percent in 2023 Q1 compared to 7.2 percent in the
+
+previous quarter, mainly due to an increase in employment.
+
+Annual urban headline and core inflation recorded 32.7 and 40.3 percent in May 2023,
+
+respectively. The recent increase was mainly driven by higher food prices and supported by higher
+
+non-food prices; impacted by recent government measures and seasonal demand on select core
+
+food items.
+
+Incoming data since the May MPC, including the recent inflation outturns, came broadly in line
+
+with expectations. In light of the above, the MPC decided to keep policy rates unchanged and to
+
+continue assessing the cumulative impact of previously enacted tightening policies and its
+
+transmission to the economy in a data-driven manner. The MPC reiterates that the path of future
+
+
+-----
+
+policy rates remains a function of forecasted inflation rather than prevailing inflation rates. The
+
+MPC will continue to monitor the incoming developments underlying the economic outlook. The
+
+committee will not hesitate to utilize all its available tools, including liquidity management
+
+operations, with the aim of ensuring a tight monetary stance and attaining the CBE’s upcoming
+
+inflation targets of 7 percent (± 2 percentage points) on average by 2024 Q4 and 5 percent (± 2
+
+percentage points) on average by 2026 Q4.
+
+**Monetary Policy Sector**
+monetary.policy@cbe.org.eg
+
+
+-----
+

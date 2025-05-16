@@ -1,0 +1,224 @@
+N a t i o n a l B a n k o f P o l a n d
+
+M o n e t a r y P o l i c y C o u n c i l
+
+# MINUTES OF THE MONETARY POLICY COUNCIL DECISION-MAKING MEETING HELD ON 30 JUNE 2010
+
+The Monetary Policy Council discussed primarily the outlook for economic growth and inflation in
+the Polish economy, the economic situation in the global economy with emphasis on the euro area,
+and the situation of the public finance sector.
+
+While discussing the situation in Poland's real economy, it was emphasised that the latest data
+indicated a stabilisation of economic growth. Some members of the Council pointed out that the
+structure of economic growth in 2010 Q1, including the high share of inventory build-up, might
+signal slower GDP growth in the months to come. Moreover, some members of the Council
+indicated that the flood may also have had a negative impact on GDP in 2010 Q2.
+
+While analysing the outlook for economic growth in Poland, some members of the Council
+expressed an opinion that its considerable acceleration was currently very unlikely. They
+emphasized that low economic activity in the euro area would be a factor curbing GDP growth in
+Poland. Special attention was paid to the risks to the outlook for German exports, and,
+consequently, for Polish exports, brought about by a growing macroeconomic imbalance in China
+due to fast economic growth observed in that country. Some members of the Council pointed to the
+need to take a different look at the link between economic growth in Western Europe and the
+growth of Polish exports to that region. They emphasized that it was necessary to accept the new
+reality, namely that in the years to come growth in the Western European countries would reach
+approx. 1-1.5% annually, which, however, should not prevent Polish exports from growing by 610% per year. At the same time they pointed out that in the period from 2004 till the outbreak of the
+crisis Polish exports had grown 14-23% yearly despite the fact that GDP of the Western European
+countries grew by a mere 2-2.5% per year.
+
+Some members of the Council emphasized that intensified financial-market turmoil driven by fiscal
+imbalances in some Western European countries and potential problems faced by financial
+institutions from European countries could be a more significant threat to domestic economic
+growth than the absence of clear signs of economic recovery in the euro area. Yet members of the
+Council pointed out that the hitherto observed zloty exchange rate depreciation might support GDP
+growth in Poland. Some members of the Council also pointed to the possibility of faster than
+currently anticipated revival in domestic demand, which might be supported by the good financial
+condition of enterprises.
+
+While discussing the investment activity of enterprises it was pointed out that corporate investment
+was being curtailed due to low production capacity utilization, relatively low demand growth and
+high uncertainty about the outlook for global economic growth as well as about changes in public
+finances. In the opinion of some members of the Council, corporate investment might thus remain
+low in the coming years. Other members of the Council assessed, however, that an increase in
+corporate investment in response to revived demand might be equally as fast as its decline during
+the crisis. In the opinion of those members of the Council a fast revival of corporate investment
+might be supported by enterprises’ very good financial condition, including the liquidity condition.
+
+00 919 Warszawa ul Świętokrzy ska 11/21 phone (22) 826 99 55 fax (22) 826 37 51
+
+
+-----
+
+Some members of the Council assessed that limited bank lending would have a negative impact on
+investment, especially that of SMEs whose financial condition was not as good as the situation of
+large enterprises. Other members of the Council argued, however, that almost 2/3 of enterprises in
+Poland did not use bank loans to finance their investment; therefore, the banks’ lending policy will
+not significantly limit their investment activity. Moreover, some members of the Council indicated
+that the currently low growth in corporate lending was a result of low demand for credit, which was
+connected with low investment activity and was characteristic of an early stage of economic
+recovery.
+
+While analysing the results of the June GDP projection based on the NECMOD model some
+members of the Council assessed that the strong acceleration of public investment and absorption of
+EU funds in the period preceding the 2012 UEFA European Football Championship anticipated in
+the projection was very unlikely. For this reason and due to slower economic growth abroad, in the
+opinion of those members of the Council the year 2011 might be expected to bring lower
+investment and GDP growth than assumed in the projection.
+
+While analysing the inflationary processes in Poland, some members of the Council judged that the
+current stage of economic recovery had a non-inflationary character. They pointed out that the
+negative output gap and slow growth of unit labour costs in the economy would contribute to
+keeping inflation low. At the same time, some members of the Council assessed that the hitherto
+observed zloty exchange rate depreciation would be conducive to a rise in inflation. Other members
+of the Council emphasized, however, that the impact of the zloty exchange rate depreciation on
+inflation in Poland might be limited by a large share of intra-corporate trade in imports.
+
+While discussing the outlook for inflation developments in Poland, some members of the Council
+assessed that due to the persisting low level of production capacity utilization and a high
+unemployment rate, an acceleration of economic growth did not threaten the stabilization of
+inflation at the level of the NBP inflation target. Other members of the Council argued, however,
+that even a moderate acceleration of GDP growth might lead to a rise in demand pressure, since – as
+a result of the global financial crisis – potential output growth in Poland might have declined. Those
+members stressed that both the June projection based on the NECMOD model and other forecasts
+prepared at the NBP pointed at a rise in inflation above the inflation target over the monetary policy
+horizon. They pointed out that in accordance with the results of the June projection the probability
+of inflation running above the inflation target over the monetary policy horizon was twice as high as
+the probability of inflation running below the inflation target. They argued that CPI inflation might
+run at a level higher than that suggested by the central projection path. This may be driven by both
+faster growth in food and energy prices and an earlier intensification of the wage pressure in the
+Polish economy than those assumed in the projection. They expressed an opinion that the possibility
+of growth in food and energy prices over the next twelve months being faster than assumed in the
+projection was suggested by short-term forecasts prepared at the NBP. Moreover, in the opinion of
+those members of the Council, the world prices of energy commodities, and, in consequence,
+energy prices in Poland, might grow faster than expected in the projection also over a longer
+horizon.
+
+While addressing the June projection’s results concerning wages in the economy, some members of
+the Council pointed out that the relatively low wage growth in the subsequent quarters resulted from
+the assumption of incomplete adjustment of employment to the fall in demand during the economic
+slowdown (the so-called “labour hoarding”). At the same time, they indicated that this “labour
+hoarding” might be attributed to growing specialization of enterprises which results in higher costs
+connected with staff rotation and to a decline in the pool of qualified labour force caused by
+emigration. According to those members of the Council, given such sources of this phenomenon it
+might be a factor intensifying the wage pressure, unlike in the previous economic recovery period.
+Those members emphasized that in the quarters to come a higher growth in wages in the economy
+
+
+-----
+
+than that anticipated in the projection might be suggested by: accelerating growth in wages in the
+corporate sector at the beginning of 2010 Q2, high wage growth in the public sector in 2010 Q1 and
+a relatively large number of job offers per one unemployed person.
+
+In the opinion of those members of the Council, faster growth of wages might also be driven by a
+good financial condition of firms, including public sector enterprises, which might reduce their
+resistance to wage demands of employees. A similar impact may be exerted on the one hand, by
+regulatory changes increasing the flexibility of wage determination in the public sector, and, on the
+other hand, by the increase in the minimum wage scheduled for the end of 2010. Those members of
+the Council assessed that the recently observed high wage growth in the mining industry might
+boost wage demands in other public sector enterprises. Other members of the Council pointed out,
+however, that the persisting relatively high unemployment would be a factor limiting wage growth
+in the economy.
+
+Some members of the Council argued that also the number of persons employed in the economy
+might be higher than that assumed in the projection. This is suggested by gradually growing
+employment in the enterprise sector whose changes in the past were indicative of changes in
+employment in the whole economy. Both a faster wage growth than that anticipated in the
+projection as well as a higher growth in the number of the employed would mean a stronger
+inflationary pressure stemming from the labour market and would increase the growth in
+consumption demand.
+
+While discussing the fiscal imbalance in the Western European countries, members of the Council
+paid attention to the high uncertainty surrounding the implementation of measures aimed to reduce
+it. It was emphasised that a fiscal consolidation in some of the euro area countries was necessary as
+its absence could increase turmoil in the financial markets. Some members of the Council assessed
+that the fiscal consolidation might have a negative impact on economic growth in Poland’s trading
+partners, and, as a result, on Polish exports. Some members of the Council indicated that the fiscal
+policy tightening might result in private demand revival and faster economic growth in European
+countries (i.e. the so-called non-Keynesian effects of fiscal tightening might occur). On the other
+hand, countries which fail to implement a consolidation of public finances or which continue to
+pursue expansionary fiscal policy, might see a decline in economic growth caused by the fiscal
+imbalance’s negative impact on private demand. Those members pointed out that the impact of the
+fiscal consolidation on economic growth would depend largely on the structure of the fiscal
+adjustment (including, in particular, on whether the deficit would be reduced mainly through tax
+increases or expenditure cuts, and on which expenditures would be reduced). They also emphasised
+that the emergence of expansionary effects of a fiscal tightening was dependent upon the credibility
+of the fiscal policy measures.
+
+At the same time, other members of the Council assessed that the scale of the planned fiscal
+tightening in the Western European countries was not large. Therefore, in the opinion of those
+members of the Council the impact of the fiscal consolidation on economic growth would be small.
+They emphasized that amidst low interest rates the occurrence of strong non-Keynesian effects of
+the fiscal tightening was very unlikely.
+
+The Council paid significant attention to the public finance situation in Poland. It was pointed out
+that high liquidity in the international financial markets at the moment facilitated the financing of
+the state budget deficit, and the public finance situation in Poland was hitherto more favourable than
+that observed in many European countries. Some members of the Council indicated that together
+with the progressing economic recovery in Poland the general government deficit to GDP ratio, an
+important indicator used by investors to assess a country's credit risk, would improve as well. Yet,
+the majority of Council members emphasized that economic recovery alone would not be sufficient
+to reduce the deficit of the general government sector in Poland to a low level, and that it was
+necessary to undertake measures aimed at rationalizing public expenditure. It was pointed out that if
+
+
+-----
+
+the other European economies consolidated their public finances and Poland ran a persistently high
+general government deficit, the costs of its financing might increase.
+
+At the same time, some members of the Council assessed that a considerable reduction in the public
+finance imbalance in Poland was rather unlikely in the coming months. Those members pointed out
+that no drafts of legal acts had hitherto been presented which would allow for a considerable
+reduction of the state budget deficit in the next few years. Some members of the Council indicated
+that due to some expenditures being transferred outside the state budget, current data on state
+budget implementation did not allow for an assessment of the situation in the general government
+sector as a whole. It was emphasised that should the general government deficit remain high it
+might be necessary to pursue a more restrictive monetary policy.
+
+While analysing the monetary policy abroad and in Poland, it was pointed out that given the
+absence of clear signs of economic recovery in the euro area, interest rates in this region might be
+expected to run at a low level for a longer period of time. In the opinion of some members of the
+Council this was one of the factors to be taken into account while deciding about the monetary
+policy parameters in Poland. Other members of the Council argued, however, that due to the
+differences in business cycles in Poland and in the euro area, observed over the past few years, the
+adjustment of monetary policy parameters in Poland might be needed earlier than in the euro area.
+
+While discussing the impact of the interest rate disparity on the exchange rate, some members of the
+Council indicated that at the moment this disparity did not have any significant impact on exchange
+rate developments, as suggested by similar exchange rate developments observed in emerging
+economies regardless of whether they had already embarked on a monetary policy tightening or not.
+Those members emphasized that should many countries continue to observe tensions in the public
+finance sector, the exchange rate’s sensitivity to interest rate changes might remain limited.
+
+While discussing developments in the Polish zloty exchange rate some members of the Council
+pointed out that due to the real convergence process the real zloty exchange rate should appreciate
+in the long run. At the same time those members of the Council indicated that in the past few years
+the exchange rate of the zloty had been highly volatile. It was pointed out that currently changes in
+international financial market sentiment had a considerable impact on zloty exchange rate. In the
+opinion of those members of the Council, given the likelihood of risk aversion remaining high in
+the financial markets, the exchange rate of the zloty will not be a factor curbing inflation in the
+Polish economy. Yet, some members of the Council assessed that the currently observed zloty
+depreciation might be temporary.
+
+While discussing the current level of interest rates in Poland, it was assessed that the uncertainty
+concerning the situation in the external environment and its impact on the Polish economy,
+including the zloty exchange rate developments, justified keeping the NBP interest rates unchanged.
+
+At the same time, some members of the Council indicated that interest rates in Poland were running
+at a level lower than the natural rate for the Polish economy. According to those Council members
+further economic recovery and a growing risk of inflation running above the NBP inflation target
+might speak in favour of raising the interest rates. Yet, other members of the Council assessed that
+the absence of clear signs of economic recovery in the euro area, limited investment activity of
+enterprises and no signs of revival in bank lending to firms might justify the continuation of the
+existing monetary policy.
+
+The Council kept the interest rates unchanged: the reference rate at 3.50%, the lombard rate at
+5.00%, the deposit rate at 2.00%, the rediscount rate at 3.75% and the discount rate at 4.00%.
+
+_Publication date: 15 July 2010_
+
+
+-----
+

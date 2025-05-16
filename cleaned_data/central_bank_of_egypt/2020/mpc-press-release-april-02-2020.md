@@ -1,0 +1,48 @@
+# Central Bank of Egypt
+
+**Press Release**
+
+April 02, 2020
+
+**The Monetary Policy Committee (MPC) decided to keep the Central Bank of** **Egypt’s (CBE)**
+**overnight deposit rate, overnight lending rate, and the rate of the main operation unchanged**
+**at 9.25 percent, 10.25 percent, and 9.75 percent, respectively. The discount rate was also kept**
+**unchanged at 9.75 percent.**
+
+Annual headline urban inflation declined to 5.3 percent in February 2020 from 7.2 percent in
+January 2020, supported by favorable base effect as well as contained underlying inflationary
+pressures. The decline of annual headline inflation was mainly driven by lower annual food
+contribution, mainly volatile food items, while the contribution of non-food items remained
+broadly stable. Meanwhile, annual core inflation declined to 1.9 percent in February 2020 from
+2.7 percent in January 2020, the lowest rate on record.
+
+Real GDP growth had stabilized around 5.6 percent in 2019 H2, which was the same level
+recorded in FY2018/19. Meanwhile, the unemployment rate had recorded 8.0 percent in 2019
+Q4 compared to 7.8 percent in 2019 Q3. Nevertheless, employment had been recovering on a
+quarterly basis for the fourth consecutive quarter.
+
+However, the COVID-19 outbreak as well as the associated containment measures induce a
+considerable disruption to economic activity and financial markets globally. Furthermore,
+international oil prices witnessed substantial decline affected by weaker demand in addition to
+the lack of agreement between OPEC and non-OPEC members on additional production cuts.
+
+The Central Bank of Egypt (CBE) moved preemptively, within its mandate, to support economic
+activity especially businesses and households. This should support employment in these
+exceptional times which is essential in order to avoid a prolonged slowdown in economic activity
+and help speed the recovery once the outbreak is contained.
+
+Against this background, and following the reduction of 300 basis points during the previous
+unscheduled MPC meeting on March 16, 2020, the MPC decided that keeping key policy rates
+unchanged remains consistent with achieving the inflation target of 9 percent (±3 percentage
+points) in 2020 Q4 and price stability over the medium term.
+
+The MPC closely monitors all economic developments and will not hesitate utilize all available
+tools to support the recovery of economic activity, within its price stability mandate, supported
+by the previous macroeconomic reforms.
+
+**Monetary Policy Sector**
+E-Mail: monetary.policy@cbe.org.eg
+
+
+-----
+

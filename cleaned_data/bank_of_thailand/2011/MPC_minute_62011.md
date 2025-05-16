@@ -1,0 +1,133 @@
+# Minutes of the Monetary Policy Meeting of the Monetary Policy Committee
+
+ Bank of Thailand
+
+ 24 August 2011
+
+ Publication date: 7 September 2011
+
+**Members Present**
+
+Prasarn Trairatvorakul (Chairman and Governor), Atchana Waiquamdee (Vice Chairman
+and Deputy Governor, Monetary Stability), Suchada Kirakul (Deputy Governor, Corporate
+Support Services), Ampon Kittiampon, Praipol Koomsup, Siri Ganjarerndee, Krirk-krai
+Jirapaet.
+
+**Financial Markets**
+
+**Market volatility increased in tandem with heightened risks in global financial**
+**markets,** especially on concerns over the US credit rating downgrade and debt ceiling
+problems. The resulting risk aversion weakened the Thai baht, reversing appreciation
+pressures in July. Looking ahead, the baht was expected to resume its appreciation path as
+portfolio inflows were expected to resume once global financial markets stabilize and in
+light of the continued strong economic fundamentals of Asia and Thailand. Since the
+beginning of August, the medium- to long-term yields on government bonds declined
+sharply, owing partly to a drop in US government bond yields and partly to portfolio shift
+towards longer maturities by foreign investors. Meanwhile, money market rates and shortterm government bond yields increased as the market priced in a policy rate hike. This was
+consistent with survey results which indicated that most market participants anticipated a
+rate hike of 0.25 percentage points at this meeting.
+
+**The International Economy**
+
+**Members assessed that risks to growth of advanced economies (G3) had increased.**
+**The US economy will likely grow at a modest rate for longer than expected, causing the**
+market to perceive higher risk of another recession. Nevertheless, factors that will help
+support growth and lower such risk include (1) higher consumer spending driven by lower
+oil prices and the recovery in the automobile sector after supply disruptions ended;
+(2) stronger financial conditions of businesses and households compared to the 2008 crisis;
+(3) continued expansion in exports; and (4) the ongoing accommodative monetary policy
+stance. Meanwhile, the impact from the US credit rating downgrade had been limited but
+may still affect risk premium for private financing in the periods ahead. **The euro area**
+expanded more slowly than expected as a result of higher inflation and the end of stimulus
+packages in some member countries. Economic growth was expected to moderate given
+the planned fiscal consolidation. However, robust exports and employment conditions in
+core member countries, especially Germany, should help support the euro area growth
+overall. The Japanese economy **continued to recover from reconstruction expenditures**
+despite the credit rating downgrade. **Growth in other parts of Asia showed some**
+**moderation with higher risks to exports to advanced economies. Nevertheless, intra-**
+regional trade, particularly rising exports to China, strong domestic demand reflected in
+high growth of retail sales and credit in many economies, as well as large fiscal and
+
+
+-----
+
+monetary policy space, should help cushion such increased risks. However, **inflationary**
+**pressures remained elevated in many Asian economies including Thailand.**
+
+**The Domestic Economy**
+
+**The Thai economy expanded during the first half of the year, supported by both**
+**domestic and external demand, despite the slowdown in the second quarter owing to the**
+impact of the disaster in Japan. The main growth engines in the latter half of this year
+**are domestic demand and a recovery in manufacturing production following the end**
+of the supply disruptions in the automobile sector. Private consumption and investment
+was expected to expand in line with good prospects for both farm and non-farm income,
+improved confidence, expansion in credit, and rising investment trend in the automobile,
+electronics and electrical appliance industries.
+
+**Members expressed concerns about the impact of the slowdown in advanced**
+**economies on the export sector.** However, such impact can be partly cushioned by
+(1) exporters’ diversification to markets in Asia and other emerging market economies;
+(2) continued expansion in exports of agricultural and resource-based products to advanced
+economies; and (3) ongoing stimulus from public consumption and investment. In this
+regard, members deemed it necessary to closely monitor developments in the global
+economy and their impact on the Thai economy.
+
+**Inflationary pressures remained high with core inflation trending upwards from strong**
+domestic demand and the continued pass-through of higher costs to prepared food. The
+MPC assessed that although inflation should moderate during the latter part of the year due
+to a cut in the Oil Fund levies, upside risks in the periods thereafter remained significant
+owing to (1) the closing output gap; (2) inflation expectations which remained high; and
+(3) government’s stimulus package such as increase in minimum wage and rice pledging
+scheme that may cause inflation expectations to increase.
+
+**Monetary Policy Considerations**
+
+**All members agreed that short-term policy goal of interest rate normalization**
+**remained appropriate in order to address inflationary pressure and preserve**
+**financial stability. Members also agreed that risks to growth had increased as a result**
+**of global economic slowdown, and that risks to inflation had also increased.** However,
+**_members differ somewhat on the weight assigned to such risks._**
+
+**Two members assessed that the risk of a global recession and consequential impact on**
+**the Thai economy was material enough to justify pausing the policy rate increase at**
+**this meeting in order to assess the extent of the slowdown in advanced economies given**
+their limited policy space to support growth. Moreover, although **domestic inflation**
+**remained high, short-run inflationary pressures from the government’s stimulus package**
+may not be material given the implementation time lag and only a small disbursement was
+expected in the second half of the year. Should it become clearer at the next meeting that
+the global economy does not enter a recessionary period and the Thai economy continues
+to expand well, policy interest rate can still be raised then.
+
+**Five members viewed that the continuation of the policy rate hike by another 0.25**
+**percentage points was appropriate.** They assessed that despite higher risks to
+**Thailand’s economic prospects** due to the slowdown in advanced economies, there are
+
+
+-----
+
+factors that should mitigate the risk of a global recession of the magnitude experienced in
+the recent crisis. Moreover, intra-regional trade and domestic demand in Asia, including
+Thailand, would continue to support the growth momentum. Meanwhile, upward risk to
+**domestic inflation increased significantly and may continue into future periods. While**
+the government’s stimulus package may help cushion risks to growth from the advanced
+economies, it could increase upward pressure on inflation and inflation expectations. Thus,
+continued interest rate normalization was deemed necessary to address future risks to
+inflation given the time lag in the transmission mechanism. Members also assessed that
+since real interest rates were still negative, gradual increase in the policy interest rate
+would signal policy continuity towards normalization and facilitate a smooth adjustment
+for the economy.
+
+**The MPC decided with a 5-2 vote to raise the policy interest rate by 0.25 percentage**
+points, from 3.25 to 3.50 percent per annum, to contain inflationary pressures and inflation
+expectations in the periods ahead. However, the MPC will closely monitor and assess
+**developments in the global economy and the government’s spending plans, and stands**
+ready to take necessary action to ensure sustainable growth for the Thai economy.
+
+Monetary Policy Group
+
+7 September 2011
+
+
+-----
+

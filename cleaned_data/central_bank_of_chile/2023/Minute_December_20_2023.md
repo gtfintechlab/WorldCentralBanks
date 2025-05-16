@@ -1,0 +1,49 @@
+
+
+# -
+
+## MONETARY POLICY MEETING
+
+#### Monetary Policy Meeting No.302, held on 19 December 2023.
+
+Present: Rosanna Costa, Governor; Pablo García, Vice-Governor; Alberto Naudon, Board member; Luis
+Felipe Céspedes, Board member; Stepanka Novy, Board member.
+
+Present the Finance Minister, Mario Marcel.
+
+Also present: Juan Pablo Araya, interim General Manager; Mauricio Alvarez, acting Legal Counsel and
+Attestor; Elías Albagli, Monetary Policy Division Director; Ricardo Consiglio, Financia! Markets Division
+Director; Rosario Celedón, Financia! Policy Division Director; Gloria Peña, Statistics and Data Division Director;
+Michel Maure, lnstitutional Affairs Division Director; Diego Ballivián, Corporate Risk Division Director; Markus
+Kirchner, Macroeconomic Analysis Manager; Enrique Orellana, Monetary Policy Strategy and Communication
+Manager; Sofía Bauducco, Economic Research Manager; Guillermo Carlomagno, lnternational Analysis
+Manager; Felipe Musa, Market Operations Manager; Silvana Celedón, Communications Manager; Andrés
+Sansone, Advisor to the Finance Minister; Marlys Pabst, Secretary General.
+
+### 1. Background
+
+In general terms, the economy had evolved in line with forecasts in the September Monetary Policy Report
+(MP Report), and the inflation outlook continued to point to its convergence to the 3% target in the second
+half of 2024. Compared to 2022, inflation had fallen from a peak of 14.1 % in August of that year to 4.8%
+last November. This had been a rapid decline, in which monetary policy action had played a significant role.
+
+Activity was back to slightly positive quarterly growth rates, and projections were that in the quarters ahead
+it would continue to gradually approach growth rates in line with its trend. In this context, the economy
+was expected to clase 2023 with zero growth, with the usual heterogeneity across sectors. Towards 2024
+and 2025, the growth ranges of the previous Report were maintained at 1.25%-2.25% and 2%-3%,
+respectively. As for expenditure, no majar changes were observed in aggregate numbers. However, private
+consumption had shown an incipient increase in the third quarter, while investment remained subdued. In
+the labor market, job creation remained sluggish, with demand for workers still weak, consistent with the
+evolution of the economic cycle. The unemployment rate had reached 8.9% in the moving quarter ending
+in October, outpacing its historical average. Real wage growth had risen to 3.5% annually, favored by lower
+inflation.
+
+
+-----
+
+-----
+
+-----
+
+-----
+

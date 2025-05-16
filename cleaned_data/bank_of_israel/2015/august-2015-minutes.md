@@ -1,0 +1,400 @@
+**BANK OF ISRAEL**
+
+# Office of the Spokesperson and Economic Information
+
+August 10, 2015
+
+# Report to the public on the Bank of Israel’s discussions prior to deciding on
+
+ the interest rate for August 2015
+
+The discussions took place on July 23 and 27, 2015.
+
+**General**
+
+In the process of making the monthly interest rate decision by the Monetary
+
+Committee, discussions are held at two levels––the first in a broad forum, and the
+
+second in a narrower one.
+
+In the broad-forum discussion, the relevant background economic conditions are
+
+presented, including the real and financial-monetary developments in Israel’s
+
+economy, and developments in the global economy. Participants in this discussion
+
+include the members of the Monetary Committee, senior representatives from the
+
+various departments of the Bank, and economists from the economic departments
+
+(Research and Market Operations), who prepare and present the material for
+
+discussion. The data, estimates and assessments in this document are those that were
+
+available at the time of the interest rate decision.
+
+In the narrow forum, which consists of the Monetary Committee and the Director of
+
+the Market Operations Department, the Directors of the Research Department and of
+
+the Market Operations Department present their recommendations regarding the
+
+interest rate. An open discussion follows, which ends with a vote on the level of the
+
+interest rate. According to Section 18(c) of the Bank of Israel Law, 5770-2010, the
+
+decision on the interest rate is reached by majority vote of the members of the
+
+Monetary Committee who participate in the voting. If the vote is tied, the Chairperson
+
+(the Governor) has an additional vote.
+
+
+-----
+
+A. THE STATE OF THE ECONOMY
+
+**1. Developments on the real side**
+
+_Indicators of the state of the economy_
+Indicators of economic activity that became available this month point to the economy
+continuing to grow at the moderate rate of the past few years, with a decline in exports.
+In the third estimate of National Accounts data for the first quarter, GDP growth was
+revised slightly downward (from 2.1 percent to 2.0 percent, seasonally adjusted data in
+annual terms), with a downward revision in exports (a contraction of 2.1 percent
+compared to a contraction of 1.9 percent in the previous estimate), and an upward
+revision in private consumption (to 7.9 percent, compared with 7.5 percent). In the
+Companies Survey for the second quarter, the net weighted balance remained near
+zero, similar to the first quarter. Goods exports (excluding ships and aircraft and
+diamonds, in current dollar terms) declined by 5 percent in June, following an increase
+of 2 percent in May, primarily due to a sharp decline in pharmaceuticals exports
+following a sharp increase in May. Goods imports (excluding ships and aircraft,
+diamonds, and fuels) increased by 6 percent in June. Business services exports
+(excluding startup companies) increased by 5.9 percent in May compared with April,
+following a prolonged decline in recent months, while the tourism industry continues
+to recover very slowly—the number of tourist arrivals in the second quarter (seasonally
+adjusted) was just 2 percent higher than in the first quarter. The Composite State of the
+Economy Index increased by 0.4 percent in June, positively affected by the increase in
+imports and in the job vacancy rate. However, the (continued) decline in goods exports
+and in industrial production were notably negative aspects among the components. The
+Consumer Confidence Index compiled by the Central Bureau of Statistics increased
+this month following a decline in the previous month, and the index compiled by Bank
+Hapoalim has remained stable for the past five months. The Purchasing Managers
+Index increased to 51.0 points in June.
+
+_The labor market_
+Labor market data continue to indicate a high level of employment and activity. The
+number of employee posts declined by 0.4 percent in April following an increase the
+previous month. In February–April, nominal wages increased by 1.5 percent, and real
+wages increased by 2.3 percent, relative to November–January (seasonally adjusted
+data). Health tax receipts for April–June were 7.8 percent higher (in nominal terms)
+than in the corresponding period last year. The job vacancy rate increased in June to
+3.3 percent, seasonally adjusted, further to the increase in May.
+
+_Budget data_
+In January–June, the domestic surplus (excluding net credit) in government activity
+was about NIS 0.6 billion, NIS 1.7 billion lower than the seasonal path consistent with
+achieving the deficit target of 2.5 percent of GDP. Since the beginning of the year,
+total tax revenues are about NIS 2.7 billion higher than the seasonal path, and nontax
+revenues are about NIS 2.5 billion lower than the seasonal path. Since the beginning of
+the year, gross domestic VAT revenues increased by about 9.2 percent in real terms,
+compared with the corresponding period in 2014, against the background of growth in
+private consumption. Since the beginning of the year, government domestic
+
+
+-----
+
+expenditure has been about NIS 4 percent higher (in nominal terms) than in the
+corresponding period last year.
+
+**2. Developments on the nominal side**
+
+_Inflation_
+The Consumer Price Index for June increased by 0.3 percent, while the average of
+forecasters’ projections was for an increase of 0.2 percent. There was a seasonal
+increase in the clothing and footwear component and a seasonal decline in the fruit and
+vegetables component. The rate of inflation as measured by the change in the CPI over
+the past 12 months was negative 0.4 percent, similar to the change over the 12 months
+that ended in May. CPI components representing tradable goods declined by 1.8
+percent over the past 12 months, and are still affected by the decline in energy prices
+that occurred prior to the beginning of 2015. The growth rate of components
+representing nontradable items continues to increase, as prices rose by 0.5 percent over
+the previous 12 months. In March–June, the rate of increase in the CPI has been
+consistent with achieving the inflation target, but inflation measured over the preceding
+12 months is expected to remain negative for several more months. In addition, the
+decline in energy prices that resumed in the past month, and the appreciation of the
+shekel, are liable to defer the return of the inflation rate to within the target range.
+
+_Expectations and forecasts of inflation and the interest rate_
+
+Short-term inflation expectations from various sources remained around the lower
+bound of the inflation target range this month. Similar to the previous month, private
+forecasters’ projections for the next 12 CPI readings are for an increase of 1 percent,
+on average, and expectations derived from banks’ internal interest rates are for 0.7
+percent. Twelve-month ahead inflation expectations derived from the capital market
+are currently 1.0 percent, and expectations for 2 years are 1.3 percent. Medium-term
+(3–5 years) forward expectations remained around 1.5 percent this month, while
+expectations for longer terms (5–10 years) continued to range around the midpoint of
+the inflation target range. The Telbor curve indicates some probability of a reduction in
+the interest rate in the next few months, but most private forecasters do not expect a
+reduction in the Bank of Israel interest rate. Forecasters project the interest rate in 1
+year to be 0.29 percent, on average.
+
+_Monetary aggregates_
+In the twelve months ending in June, the M1 monetary aggregate (cash held by the
+public and demand deposits) increased by 55.7 percent, and the M2 aggregate (M1
+plus unindexed deposits of up to one year) increased by 14.3 percent.
+_The credit market_
+Outstanding debt of the business sector remained stable in May, at about NIS 821
+billion. Repayments of NIS 2.7 billion were offset by the net raising of debt through
+nonbank loans and as a result of the shekel's depreciation against the dollar. In June,
+the nonfinancial business sector issued bonds totaling NIS 3.6 billion, higher than the
+average over the past 12 months (NIS 2.8 billion), and foreign companies continued to
+issue bonds at a relatively high pace. There were net withdrawals from corporate bond
+mutual funds and general bond mutual funds totaling about NIS 3.2 billion in June.
+Corporate bond market spreads declined slightly in June. Outstanding household debt
+increased by about NIS 5.8 billion (1.3 percent) in May to about NIS 442 billion, of
+
+
+-----
+
+which outstanding housing debt increased by about NIS 2.5 billion (0.8 percent) to NIS
+309 billion.
+New mortgage volume continued to increase, reaching NIS 7 billion in June. In
+parallel, the volume of mortgage refinancings—a process by which borrowers improve
+the terms of their loans against the background of low interest rates and yields—
+increased to NIS 2.7 billion (most of which is not included in the volume of new
+mortgages taken out.) In June, mortgage interest rates increased on all indexation
+tracks, particularly on the variable-rate CPI-indexed track (which increased by 0.2
+percentage points), and on the fixed-rate unindexed track (which increased by 0.18
+percentage points).
+
+_The housing market_
+The housing component of the CPI (based on residential rents) increased by 0.4
+percent in June, and has increased by 2.2 percent over the past 12 months. In April–
+May, home prices declined by 0.4 percent, and in the 12 months ending in May, they
+increased by 3.2 percent, compared with 4.0 percent in the 12 months ending in the
+previous month. Preliminary data indicate an increase in the number of transactions in
+May, among all buyer categories, following a seasonal decline in April. However, the
+annual pace of transactions is not exceptional compared to previous years. The number
+of new homes sold in May remained high—about 2,400, similar to the number in
+April—and the stock of homes available for sale remains relatively high.
+
+**3. The foreign exchange and capital markets**
+
+_The foreign exchange market_
+From the monetary policy discussion on June 21, 2015, through July 24, 2015, the
+shekel strengthened by about 0.25 percent against the dollar, and by about 3.5 percent
+against the euro. The shekel strengthened by about 2.5 percent in terms of the nominal
+effective exchange rate.
+
+_The capital market_
+From the monetary policy discussion on June 21, 2015 through July 24, 2015, the Tel
+Aviv 25 Index remained essentially unchanged (a decline of 0.1 percent). Yields in the
+government bond market increased by up to 12 basis points on the nominal curve and
+by up to 20 basis points on the CPI-indexed curve. The yield on unindexed bonds with
+10 years to maturity increased from about 2.33 percent to around 2.41 percent. There
+were slight changes along the makam yield curve, and most of the curve was trading at
+a yield similar to the Bank of Israel interest rate. Israel's sovereign risk premium, as
+measured by the five-year CDS spread, remained virtually unchanged, at about 70
+basis points.
+
+**4. Global economic developments**
+Two developments in the global economy were the focus of attention this month—the
+crisis in Greece and the sharp stock price declines in China—but in both situations
+there was some stabilization toward the end of the period, and financial market
+volatility remained limited mainly to those two economies. The IMF revised its 2015
+global growth projection slightly downward, and its 2016 projection remained
+unchanged. World trade has been uncharacteristically contracting for several months.
+In the US, there was a moderate recovery in the second quarter, and assessments are
+that it did not compensate for the low growth in the first quarter. Nonfarm payrolls
+
+
+-----
+
+increased by more than average for the year to date, and unemployment declined to 5.3
+percent, though the labor force participation rate declined and salaries increased only
+moderately. Housing market indices point to vigorous growth, while personal
+consumption expenditure increased moderately, exports weakened against the
+background of the strengthening of the dollar, and industrial production expanded
+moderately. The Fed Chair repeated the assessment that the Federal Reserve is likely to
+increase the interest rate this year. In the eurozone, the deterioration of the crisis in
+Greece did not have a marked negative impact on economic activity or on financial
+markets. The weakening of the euro and the accommodative monetary policy support
+exports and demand for credit; purchasing managers indices were relatively positive,
+and consumer confidence indices remained at high levels relative to recent years.
+Industrial production contracted in May, and unemployment remained high, at 11.1
+percent. The agreement with Greece led, for now, to some calm, though it is still not
+clear to what extent it is sustainable. Japan’s economy is showing signs of slowing:
+industrial production contracted in May and retail sales grew moderately. The Bank of
+Japan reduced its growth and inflation forecasts, and there is a growing assessment that
+it will accelerate its expansion plan. China’s stock market, which had increased by
+about 150 percent in the past year, declined sharply this month, and only stabilized, at
+a level 20 percent below its high, after various government actions. In contrast,
+indicators of real economic activity were positive, relative to previous months. In
+emerging markets, generally, a slowdown continues. Inflation remains low in major
+economies, and interest rates were reduced by several central banks, including those in
+Sweden, Canada, and China. The price of a barrel of oil declined this month to $56,
+from $63 in the previous month, and prices of industrial metals declined to a multiyear
+low.
+
+B. THE NARROW-FORUM DISCUSSION––THE INTEREST RATE DECISION
+FOR AUGUST 2015
+
+**Main points of discussion**
+
+The members of the Monetary Committee participating in the discussion decide on the
+appropriate rate of interest for the economy. After the discussion on the interest rate for
+August 2015, it was decided to keep the interest rate at 0.1 percent. The decision was
+unanimous.
+
+The discussion focused on several main issues: (1) inflation; (2) real economic activity;
+(3) the development of the exchange rate; (4) the global picture; (5) the housing
+market, and (6) fiscal policy.
+
+Committee members noted that the inflation rate derived from the price increases over
+the past four months is consistent with achieving the range defined as price stability.
+The Committee discussed the factors that could lead to another slowdown in the
+inflation rate—renewed oil price declines and shekel appreciation—and the factors that
+may support continued price increases—mainly an acceleration in nominal wages.
+Committee members agreed that the risks of a renewed slowdown in the inflation rate
+are greater than the risk of acceleration in price increases, and that those risks may
+defer the return of the inflation rate to within the target range.
+
+
+-----
+
+The Committee discussed the causes for the continued moderate growth in the
+economy, as seen in, among other things, National Accounts data and the Companies
+Survey. Members noted that several of the factors that further moderated growth in the
+beginning of the year are likely to be temporary. First, the slowdown in public
+consumption is likely to be transitory if the government in fact approves a new and
+expansionary budget by the end of the year. Second, the decline in goods exports from
+Israel was affected by temporary labor disruptions in the chemicals industry. In
+addition to this temporary factor, Committee members agreed that the decline in goods
+exports derives mainly from the contraction of world trade in recent months. Finally,
+the Committee discussed the composition of growth and several members expressed
+concern that this composition is increasingly less reliant on the growth of exports,
+which is a growth driver in a small and open economy. Such a change in the
+composition is liable to negatively impact the increase in productivity in the economy,
+a development that will slow GDP growth, particularly when the economy is near to
+exhausting the increase in employment.
+
+The Committee discussed the continued appreciation of the shekel in the past month,
+and the impact of the appreciation on activity and employment in export industries, and
+in the tradable sector overall.
+
+Committee members were updated on developments in the Chinese economy and
+regarding the debt crisis in Greece, and agreed that despite the stabilization seen
+recently in those economies, the developments in those countries are still a risk to
+global economic recovery. The Committee discussed assessments regarding the date of
+initial increase in the federal funds rate and also discussed the continued monetary
+expansion in Europe. Members emphasized that Bank of Israel policy in the future
+depends on developments in the inflation environment, in growth in Israel and abroad,
+and in the exchange rate of the shekel. Interest rates abroad, alongside other data,
+impact on the policy to the extent that they impact on these developments and on the
+domestic economy.
+
+Committee members discussed the vigorous activity in the housing market and the
+elevated volume of new mortgages extended to home buyers. The Committee also
+discussed the positive effect of mortgage refinancing activity on the risk profile of
+existing mortgages.
+
+The Committee was updated on the government’s steps to formulate a new budget, and
+on concern that the deficit target in this budget will be high, and lead to an increase in
+the debt to GDP ratio.
+
+In conclusion, all Committee members supported leaving the interest rate unchanged,
+and they concurred that the current interest rate environment continues to support
+continued growth and the return of the inflation rate to the target range within a year.
+At the same time, the Committee’s decisions take developments in asset markets into
+account as well.
+
+Following the discussion, the five members of the Monetary Committee voted on the
+Bank of Israel interest rate for August 2015. All members supported keeping the
+interest rate at 0.1 percent.
+
+
+-----
+
+**The main considerations behind the decision**
+
+The decision to keep the interest rate for August 2015 unchanged at 0.1 percent is
+consistent with the Bank of Israel's monetary policy, which is intended to return the
+inflation rate to within the price stability target of 1–3 percent a year over the next
+twelve months, and to support growth while maintaining financial stability. The path
+of the interest rate in the future depends on developments in the inflation environment,
+growth in Israel and in the global economy, and the exchange rate of the shekel, as
+well as on monetary policies of major central banks.
+
+The following are the main considerations underlying the decision:
+
+ The rate of increase in the CPI over the preceding four months has been consistent
+
+with the inflation target. Short-term inflation expectations from various sources are
+around the lower bound of the target range. Expectations for medium and longer
+terms remain entrenched near the midpoint of the target range. However, the
+decline in energy prices, which resumed in the past month, and the appreciation of
+the shekel, may defer the return of the inflation rate to within the target range.
+
+ Indicators of real economic activity that became available this month point to the
+
+economy continuing to grow at its moderate rate of recent years, led by private
+consumption and with a decline in exports. The second quarter Companies Survey
+supports this assessment. The Composite State of the Economy Index increased by
+0.4 percent in June, and was positively affected by an increase in imports and in the
+job vacancy rate, but declines in goods exports and in industrial production were
+notably negative components. Labor market data continue to indicate a high level
+of employment and activity.
+
+ Developments in China’s economy and the debt crisis in Greece, despite their
+
+recent stabilization, continue to pose risks to a global economic recovery. Moderate
+recovery continues in the US and Europe. While in the US the probability
+increased of an interest rate rise beginning this year, in Europe the monetary
+expansion continues, and in several economies the interest rate was reduced.
+
+ The shekel strengthened by 2.5 percent in terms of the nominal effective exchange
+
+rate this month, and has appreciated by 7.1 percent for the year to date, primarily as
+a result of the weakening of the euro. The appreciation, and the moderation in
+growth of world trade, weigh on the growth of exports and of the tradable sector.
+
+ Robust activity in the housing market, both on the supply side and on the demand
+
+side, continued this month, and was reflected in a record level of new mortgage
+volume, and an especially elevated level of new home sales. In the past 12 months,
+home prices have increased by 3.2 percent.
+
+The Bank of Israel will continue to monitor developments in the Israeli and global
+economies and in financial markets. The Bank will use the tools available to it and will
+examine the need to use various tools to achieve its objectives of price stability, the
+encouragement of employment and growth, and support for the stability of the
+financial system, and in this regard will continue to keep a close watch on
+developments in the asset markets, including the housing market.
+
+The decision was reached and published on July 27, 2015.
+
+
+-----
+
+**Participants in the narrow-forum discussion:**
+
+**Members of the Monetary Committee**
+Dr. Karnit Flug, Governor of the Bank and Chairperson
+Dr. Nadine Baudot-Trajtenberg, Deputy Governor
+Prof. Alex Cukierman
+Prof. Reuben Gronau
+Prof. Nathan Sussman, Director of the Research Department
+
+**Other participants in the narrow-forum discussion:**
+Mr. Andrew Abir, Director of Market Operations Department
+Mr. Daniel Hahiashvili, Chief of Staff to the Governor
+Mr. Eran Politzer, Economist in the Research Department
+Ms. Esti Schwartz, Secretary of the Monetary Committee
+Mr. Yoav Soffer, Spokesperson of the Bank of Israel
+
+
+-----
+

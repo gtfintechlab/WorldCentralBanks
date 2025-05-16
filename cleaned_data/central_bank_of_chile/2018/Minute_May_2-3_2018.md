@@ -1,0 +1,406 @@
+# Monetary Policy Meeting[1]/
+
+#### 2–3 MAY 2018
+
+CENTRAL BANK OF CHILE
+
+#### [INF*RES*AS]
+
+1/ This is a translation of a document originally written in Spanish. In case of discrepancy or difference
+in interpretation, the Spanish original prevails. Both versions are available at www.bcentral.cl
+
+
+-----
+
+## MINUTES OF THE MONETARY POLICY MEETING
+
+#### Monetary policy meeting No. 256, held on 2–3 May 2018.
+
+Present: Mario Marcel, Governor; Joaquín Vial, Vice-Governor; Pablo García,
+Board Member; Rosanna Costa, Board Member; Alberto Naudon, Board Member.
+
+Present the Finance Minister, Felipe Larraín.
+
+Also present: Alejandro Zurbuchen, General Manager; Juan Pablo Araya, General
+Counsel and Attestor; Miguel Fuentes, acting Research Division Director;
+Beltrán de Ramón, Financial Markets Division Director; Solange Berstein,
+Financial Operations Division Director; Gloria Peña, Statistics Division Director;
+Diego Saravia, Economic Research Manager; Enrique Orellana, Strategy and
+Communication of Monetary Policy Manager; Elías Albagli, Modeling and
+Economic Analysis Manager; Matías Bernier, Domestic Financial Markets
+Manager; Juan Carlos Piantini, International Markets Manager; Rodrigo
+Alfaro, Financial Stability Manager; Francisco Ruiz, Macroeconomic Statistics
+Manager; Luis Álvarez, Communications Manager; Diego Gianelli, Head of the
+International Analysis Department; Hermann González, Advisor to the Finance
+Minister; Tatiana Vargas, Senior Economist; Carlos Medel, Senior Economist;
+Marlys Pabst, Secretary General.
+
+#### 1. Analysis of the technical teams
+
+**The international scenario**
+
+The international scenario relevant for the Chilean economy remained favorable,
+with downward-biased risks on domestic activity, consistently with projections in
+the March Monetary Policy Report. Some risks, such as protectionist measures,
+geopolitical conflicts and potential changes in the interest rate trajectories in the
+developed world, had gained some visibility, causing some disruptions in the
+financial markets. The outlook for activity had stabilized above the values of the
+previous year, beyond the fact that, with some nuances, optimism had moderated
+during the first months of the year, especially in the developed economies.
+However, in the US, first-quarter GDP growth had exceeded expectations
+and slowed down compared to the quarter before. The positive performance
+of investment and the deceleration of consumption stood out. Expenditure
+fundamentals remained strong with high levels of confidence and a robust labor
+
+
+market. First-quarter GDP growth in the Eurozone also slowed down from the
+quarter before, in line with market forecasts and activity indicators that had
+lately been unexpectedly low in general. Similar developments were seen in
+the United Kingdom, although in this case they had been partly due to weather
+conditions. In the emerging world, China’s first-quarter GDP had remained as
+strong as the previous quarter and the mixed marginal numbers had continued
+to support the deceleration and rebalancing of activity foreseen for the next
+quarters. In Latin America, activity indicators were still mixed.
+
+Regarding inflation, in the developed economies the gradual increase in the
+US headline and core inflation indicators—near or above the Federal Reserve’s
+(Fed) target—contrasted with the more moderate and below central bank target
+figures of the Eurozone and Japan. In the Eurozone and the United Kingdom,
+recent inflation rates had fallen short of market forecasts. The Central Bank of
+Japan, in its latest statement, had ceased to mention that inflation would reach
+the target in 2019. Thus, the market outlook pointed to a larger divergence with
+respect to the future path that monetary policy in the US would follow compared
+with other developed economies. In any case, these central banks continued
+to signal a gradual withdrawal of their expansionary monetary policy stances.
+
+In the emerging economies, China had given mixed signals of monetary
+conduct by marginally raising its repo rate while reducing the banking reserve
+requirement. In Latin America, low inflation in most countries and price
+pressures that led to additional moderation provided some leeway for additional
+monetary easing. In fact, the Central Bank of Colombia had reduced its
+benchmark rate by 25 basis points (bp). Conversely, the Argentinean authority
+had decided to raise the monetary policy rate in two exceptional meetings by
+300 bp each time.
+
+Global financial conditions were still good by historic standards in most
+economies, because despite the aforementioned tensions coming from
+geopolitical frictions and additional protectionist measures, volatility had
+returned to its levels of the last Meeting, while risk premiums remained
+contained. In this context, stock market indexes rose slightly further in most
+countries. Long-term interest rates posted mixed movements across economies.
+Parities showed an appreciated US dollar around the world in the few days
+before this Meeting. Capital inflows to emerging economies had moderated in
+recent weeks.
+
+Commodity prices moved primarily up. The Brent–WTI average oil price had
+risen by 10% since the March Meeting, owing mainly to the geopolitical conflicts.
+Still, futures continued to show the transitory nature of the rise, because the
+
+
+-----
+
+easy entry of oil producers in the US shaped a downsloping trajectory going
+forward. The copper price, with ups and downs, remained near its levels of the
+last Meeting, coinciding with positive news of Chinese imports and increased
+inventories in the reference markets.
+
+**The domestic scenario**
+
+In the local financial market, long-term interest rates were near those prevailing
+at the time of the previous meeting, both in pesos and in UFs. The stock indices
+had risen, favored by companies’ better results, in the midst of risk premiums
+that continued to be low historically. In the two weeks prior to the Meeting, the
+Chilean peso had depreciated against the US dollar by close to 4%, following the
+trends of global markets. In any case, since the previous Meeting, the Chilean
+peso had shown a slight depreciation with respect to the dollar, contrasting
+with the appreciations of similar magnitude exhibited by other multilateral
+measures in the period. The real exchange rate (RER), using the 1986=100 base
+measurement, was estimated to have approached 89 in April and in the first
+days of May, a level similar to those of the previous Meeting.
+
+About domestic credit, the Bank Credit Survey of the first quarter 2018 had
+reported a strengthened demand in various segments—especially for consumer
+loans and commercial credit to big and real-estate companies—, together with
+marginal improvements in the supply of consumer and commercial loans for
+large companies. The cost of credit was still low, with declines in the interest
+rates on consumer and commercial loans that responded largely to seasonal and
+composition effects of these portfolios, while mortgage credit had been virtually
+unchanged. Credit growth was still bounded, with a mortgage segment that,
+aside from a slight decline recently, had continued to outperform the other
+portfolios. The increase in the commercial segment reflected a one-off operation.
+
+The different measures of expectations for the monetary policy rate (MPR)
+i.e. surveys and financial asset prices, anticipated no change at this Meeting.
+Furthermore, they foresaw that the first 25 bp upward adjustment would take
+place between the fourth quarter of 2018 and the first of 2019, which for the
+prices of financial assets and the Economic Expectations Survey (EES) meant a
+one-quarter deferral of said movement compared to estimates at the previous
+Meeting. All in all, the different expectations indicators still considered that the
+MPR would reach 3.5% at the end of the policy horizon.
+
+The activity and demand data received after the publication of the March Report
+was consistent with the baseline scenario described therein. The Imacec had
+grown by 4% annually in February (3.5% in January), somewhat less than
+
+
+reflected in the March EES and the expectations contained in the Bloomberg
+survey—between 0.2 and 0.5 percentage points (pp). First-quarter GDP growth
+stemmed to a large extent from mining, influenced by a low annual comparison
+base. All the other sectors maintained the better performance achieved in the
+latter months of 2017, where the increased contribution of several investmentrelated lines stood out, such as entrepreneurial services or some wholesale trade
+categories. In this scenario, the April EES showed no substantive changes in the
+activity growth expected for this year and next, the two somewhat above 3.5%.
+
+There were no major developments regarding the evolution of domestic demand
+components or most of its fundamentals. On the consumer side, the sale of
+durable goods, again led by automobile sales, kept performing more favorably
+than non-durables, whose imports were dynamic nonetheless. This, amidst
+levels of consumer confidence (IPEC) in optimistic territory. However, the labor
+market outlook deserved attention, due to the limited momentum that private
+salaried employment continued to show together with slow wage growth, which
+in both nominal and real terms remained below historical averages at February
+(spliced with base 2016=100). This could affect both the increase in the wage
+bill, which in the first quarter of the year had been somewhat above 3% in real
+annual terms (4% annual average in the second half of 2017), and consumption.
+
+Indicators of investment in construction and other works continued to point to
+a bounded recovery in the immediate future, such as various building and real
+estate indexes. The March survey of the Capital Goods Corporation reported a
+cut in the investment forecast for this year, mainly due to the postponement of
+projects (energy and public works), where everything in the 2018-2021 period
+adjusted upwards. About machinery and equipment, imports of capital goods
+excluding uncommon transport vehicles, maintained the improved performance
+of earlier months, which had begun to be reflected in some related branches of
+trade. The expectations of companies (IMCE) of April remained in optimistic
+ground on aggregate.
+
+The Business Perceptions Report continued to show positive expectations for
+this year according to the bulk of opinions, especially towards the second half,
+beyond the disparity of businesses’ actual results. Investment prospects had
+also improved. About the labor market, respondents generally mentioned no
+major immediate changes in their staff, and they shared their perception of low
+wage-related pressures. This latter factor was attributed to the weak performance
+of the last few years, which had decelerated wage growth and often led to
+freeze compensations during some quarters. The presence of immigrants had
+also helped to contain wage pressures according to some respondents. As for
+local credit, it was worth noting the low levels of interest rates, the favorable
+
+
+-----
+
+lending standards for lower-risk borrowers and the increase in applications for
+new credits.
+
+March inflation had been 0.2%, slightly below market expectations (by
+around one tenth of a point). This result was mainly explained by the positive
+impact of core inflation—CPIEFE—for services, which had contributed 0.34
+pp to headline inflation. The CPIEFE for goods continued to reflect the peso
+appreciation of recent months. Thus, in March it had fallen again, with a
+negative impact of 0.1 pp. As for the most volatile components, fresh fruits and
+vegetables had had a total impact on headline inflation, as did energy, while
+fuels contributed negatively (–0.07pp). In annual terms, inflation had fallen to
+1.8% and the core index had remained at 1.6%. Its evolution, as had been the
+trend of recent quarters, was still driven by the aforementioned appreciation of
+the peso, the current capacity gaps and the indexation to lower inflation rates.
+
+In this context, inflation expectations showed no big change. If anything, they
+had increased slightly one year ahead, between one and two tenths of a point.
+Thus, one year ahead, inflation insurances and the April EES had adjusted up
+to 2.6% and 2.7%, respectively, while the latest Financial Brokers Survey before
+the May Meeting continued to forecast a 2%. Inflation expectations two years
+ahead remained between 2.8% and 3%. For April, the market estimated that
+inflation would stand between 0.1% and 0.2%.
+
+#### 2. Background analysis and discussion
+
+All the participants in the Meeting agreed that the economy, both externally
+and internally, had behaved within the framework depicted in the baseline
+scenario of the last Monetary Policy Report, although risks remained and had
+even varied on some fronts.
+
+On the external scenario, the discussion centered on the implications of recent
+developments, concluding that it was ever more evident that the risks in this area
+had a clearly negative bias on domestic activity. For example, the inflationary
+outlook in the United States was discussed, together with how an increase could
+lead to faster interest rate hikes in the US, affecting global financial conditions.
+In this regard, there were comments on the appreciation of the dollar in
+international markets, arguing that this movement might have to do with the
+mentioned expectations that the Federal Reserve could accelerate the process of
+rate hikes. One participant added that he believed that the main risk continued
+to be that of a lack of coordination between monetary and fiscal policy in the
+United States that could be resolved in a disorderly manner, culminating in an
+
+
+overheated economy with excessive credit expansion. He added that this had
+been known to happen in the past and its consequences were not positive for
+either the developed or the emerging economies.
+
+There was also a discussion on how the stronger dollar had affected more
+intensively the currencies of emerging economies with some particular
+vulnerabilities. The case of Turkey was noted due to its high current-account
+deficit; the case of Brazil due to the difficulties it has endured in regaining higher
+growth rates; and that of Argentina and its problems with high inflation. One
+participant commented that Chile was clearly not in any of those categories.
+Other participants also said that the Bank had always considered the risk that
+an increase in interest rates in developed economies could have disruptive
+effects on financial conditions facing emerging economies; therefore, the current
+events should come as no surprise. It was pointed out that the important
+thing was not the origin of the disruptions in the financial markets, but to
+analyze the way in which it could affect financing conditions in Chile. On
+this matter, one participant noted that, in principle, the effect in Chile was
+quite evident: a depreciation of the peso, but a negative effect on activity.
+He recalled that in the past, shocks of this kind had generated a response of
+more—not less—expansionary monetary policy, despite the higher short-term
+inflation. This, because in the end the effects of lower activity on mediumterm inflation dominated and that was what determined the monetary policy
+decision. Therefore, if this risk had intensified somewhat in the recent past, the
+probability of a scenario where monetary policy was a little more expansionary
+than previously thought might have increased.
+
+Also noted was the surge of new geopolitical risks, more difficult to evaluate
+or anticipate. Trade issues between the United States and several of its major
+trading partners were mentioned, where tensions increased and decreased; the
+increases in oil prices due to conflicts in the Middle East, be it in Syria, Iran
+or any other state, also with agents that tended to be the same in each of these
+risks and interacted with each other. In the opinion of one participant, each and
+every one of these elements could trigger a scenario of global stress or unrest
+among the economic agents that would cause greater volatility or some discreet
+adjustment in market prices. One participant noted the risks posed by the oil
+price rise to an economy such as Chile, which is a net importer. Finally, the
+discussion turned to developments in Europe, a region that had shown some
+economic vigor, even more than expected, and whose latest results reflected
+some rather weak and less optimistic data, a situation that should be observed
+carefully to figure out how persistent this trend could be.
+
+
+-----
+
+On the domestic front, participants agreed that the figures for activity and
+inflation were not very different from expectations. The scenario in which the
+recovery of the economy would be more visible towards the second half of this
+year, leading to a gradual closing of the activity gap and sustaining the return of
+inflation to the target within the policy horizon was still valid. In this regard, one
+participant mentioned that it was important to note that, despite the good twelvemonth figures and the difficulty to interpret seasonally adjusted figures, activity
+remained weak, which was consistent with the meager creation of private salaried
+employment, low cost-side inflationary pressures and general information that
+had been collected for the Business Perceptions Report. Anyway, he added, the
+closing of gaps outlined in the last Report remained perfectly possible, because
+the conditions leading to it had not changed. Still, it was convenient to properly
+balance current data showing weak activity and a still negative output gap with
+a projected recovery, which showed that at the moment there was no need for
+a near-neutral policy rate, but rather for sustaining a monetary impulse at least
+as significant as the one projected in the Report.
+
+The discussion turned to the labor market, especially regarding the origin of
+the slowdown in wage growth and its consequences for activity and inflation. It
+was mentioned that there were several elements to be clarified on the matter, in
+particular how much of the deceleration in nominal wages could be blamed on
+supply-side factors and how much on demand-side ones. About supply, at least
+two events that were gaining importance were brought up, namely the increase
+in female participation—which in recent quarters had risen significantly, and
+faster than in the past—and immigration which, despite official figures, seemed
+to be having a greater weight in the work force. As for demand, attention was
+drawn to the technological adjustments and changes in productivity of recent
+years and how this would affect hiring once the economy more clearly recovered
+its near-potential growth rates. Several participants agreed that it was difficult to
+determine whether supply or demand factors were determining the evolution
+of the labor market, but the fact was that private salaried employment growth
+had been stagnant for some time, which made it difficult to attribute it only to
+immigration or female participation. They added that the sectors where one
+could assume greater participation of these groups were not those that showed
+the greatest changes in wage expansion. Moreover, the economy performing
+below potential was clearly consistent with a still weak labor demand. Therefore,
+it was possible that the deceleration of nominal wages was reflecting a labor
+market with greater gaps, signaling disinflationary forces somewhat more
+intense than expected, a situation that was complex considering that inflation
+was already low.
+
+
+It was said that it was important to try to figure out which factors were affecting
+the evolution of wages, because its effects on inflation looked different under
+the assumption that the biggest impact would be on costs or the wage mass.
+Even more so, when in the latter case the effect of a change in labor supply was
+the opposite of that of a change in labor demand. Therefore, it was complex to
+move the current dynamic of the labor market to the typical interpretation of
+the Phillips curve, which further complicated a good analysis of its implications
+on the evolution of inflation.
+
+It was agreed that the lower wage growth was a relevant issue at the current
+juncture, but the scope of the information should be clear, because what the
+National Statistics Institute (INE) data showed was a dramatic change in a
+very short time. Also, that other sources of information, delivered with lags,
+had still not shown such behavior, so it was necessary to wait for more data to
+become available.
+
+Several participants analyzed the fiscal situation. It was said that the
+announcements on fiscal policy and its implications on the structural balance
+that the Administration had to make within the first 90 days of its mandate
+were key to analyze the matter. The fact that the increasing participation of
+non-residents in the ownership of local bonds during the past year could end
+up having effects on the evolution of interest rates if the fiscal situation changed
+was also discussed.
+
+#### 3. Analysis of monetary policy option[2]/
+
+Based on this diagnosis, all the Board members considered that the monetary
+policy options analyzed in the previous Meeting were still valid. Consistent with
+this, they agreed that the relevant options were to either (1) keep the MPR at
+2.5%, but communicating that the Bank was still concerned about the effect
+of downward deviations of inflation, or (2) lower the MPR by 25 bp to 2.25%,
+with a possible downward bias.
+
+**Option 1: keep the MPR at 2.5%**
+
+The entire Board agreed that in a context where the baseline scenario of the
+March Report was coming true, this option allowed for an adequate monetary
+
+2/ In order to preserve the regulatory individual anonymity in the discussion, all the Board members
+are herein referred to as males, including female member Ms. Rosanna Costa.
+
+
+-----
+
+impulse to assure convergence of inflation to the target within the policy horizon.
+Some Board members added that the news rather suggested that the policy
+rate would probably remain unchanged for longer than previously thought.
+Finally, participants agreed that given market expectations and recent actions
+of the Central Bank, this option had no communicational risks, something that
+would strengthen monetary policy predictability, helping the effectiveness and
+efficiency of decisions in this matter.
+
+**Option 2: lower the MPR by 25 bp**
+
+All the Board members noted that in favor of this option was the fact that
+it limited the risks about the convergence of inflation described in the last
+Monetary Policy Report, which were still fully present. In particular, in a
+context where inflation was low —and was expected to linger for a while— and
+activity remained weak—as the negative output gap reflected—, the risks in
+the convergence of inflation were still present and, therefore, preventive actions
+should be analyzed. According to one Board member, on this occasion the option
+had more weight and validity because the news of lower short-term inflation
+came despite the fact that the economy had been growing more strongly for
+some quarters. Some members added that doubts about the evolution of wages
+were also an antecedent that enhanced the validity of this option.
+
+Again they all agreed that the main element against this option was the difficulty
+of communicating it. Particularly, this option implied a change of criterion
+compared to the latest decisions of the Board, which in similar situations had
+decided that it was not necessary to take preventive actions to mitigate risks to
+inflation convergence and had signaled that the current monetary impulse was
+adequate. In line with this, almost any market agent anticipated a rate cut. One
+Board member added that in the time elapsed between the Monetary Policy
+Report and the March Meeting there had been no accumulation of elements that
+significantly changed the baseline scenario outlined therein, so that mediumterm projections continued to point to a convergence of inflation to the target
+within the policy horizon. It was added that just as there were factors that pulled
+inflation down, such as the wage deceleration, there were others that could raise
+it, such as a faster closing of the gaps, with a greater dynamism of investment
+and the recent rise in the exchange rate.
+
+
+#### 4. Monetary policy decision
+
+The Board decided, with the votes of Governor Marcel, and Board members Vial,
+García, Costa and Naudon, to keep the monetary policy interest rate at 2.5%.
+
+
+-----
+

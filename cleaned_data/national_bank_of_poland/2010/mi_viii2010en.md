@@ -1,0 +1,206 @@
+N a t i o n a l B a n k o f P o l a n d
+
+M o n e t a r y P o l i c y C o u n c i l
+
+# MINUTES OF THE MONETARY POLICY COUNCIL DECISION-MAKING MEETING HELD ON 24 AUGUST 2010
+
+During its meeting the Monetary Policy Council discussed the economic growth and inflation in
+Poland, situation in the labour market and in the public finance sector, both in Poland and abroad,
+and the outlook for GDP growth in the external environment of the Polish economy.
+
+While discussing the outlook for economic growth in Poland, some members of the Council
+assessed that the recently released data were indicative of a stabilising rate of economic growth.
+They pointed out that domestic economic activity might be limited by potentially weakening growth
+in the external environment of the Polish economy. At the same time, these members pointed to the
+persistently weak investment demand of the private sector. It was emphasised that most enterprises
+do not intend to carry on investments increasing their production capacity given their expectations
+of economic growth stabilising at the current level. Moreover, some Council members pointed out
+that the announced change in VAT rates would be mitigating household consumption growth in
+2011. Those members also emphasised that demand in the Polish economy would be curbed by the
+tightening of banks’ lending policy with respect to households’ loans resulting from
+Recommendation T entering into force.
+
+However, forecasts indicating the possibility of a marked GDP acceleration in Poland were also
+invoked. It was pointed out that GDP growth in the coming quarters would be driven by inventories
+being rebuilt by enterprises. In turn, growing employment will be conducive to private consumption
+rising faster than so far observed. In the opinion of some members of the Council further recovery
+in economic activity will also be supported by growing exports. Those members argued that given
+the current exchange rate of the zloty, high export growth would be a driving force behind
+improvement in the financial condition of exporters, and, consequently, behind an increase of
+employment and wages by those entities. Growing aggregate wages in the sector of exporters will
+be, in turn, conducive to growing consumption which may lead to a rapid revival of investment in
+the private sector given the level of capacity utilization currently exceeding the long-term average.
+
+While discussing the situation in the labour market, it was pointed out that growing employment in
+the enterprise sector was accompanied by low wage growth. It was emphasized that such
+improvement in the labour market situation was favourable from the point of view of inflationary
+developments as it curbed the risk of a simultaneous increase in demand and cost pressure. Some
+members of the Council pointed out that neither data concerning planned changes in wages in
+enterprises nor wage expectations were indicative of the risk of considerable acceleration in wage
+growth.
+
+Other members of the Council emphasized, however, that some information from the labour market
+pointed to the wage pressure possibly rising in the subsequent quarters. The accelerating wage
+growth in enterprises in 2010 Q2 and the possibility of a rise in public sector wage growth in 2010
+Q3 as a result of increases in teacher wages were highlighted. Those members also drew attention to
+improving forecasts of employment in enterprises, in particular, in microenterprises, the most likely
+to yield to wage pressure. At the same time, some members of the Council argued that with the
+economic growth strengthening further in Poland the risk of rising wage pressure is increased by a
+
+00 919 Warszawa ul Świętokrzy ska 11/21 phone (22) 826 99 55 fax (22) 826 37 51
+
+
+-----
+
+relatively high and still growing level of wage expectations of the unemployed, adversely affecting
+their readiness to take up employment. Some members of the Council also indicated that lifting of
+restrictions on the access to the labour market in Germany and Austria for citizens of EU member
+states from Central and Eastern Europe in 2011 might lead to a drop in the number of the
+economically active in the Polish economy, and, in consequence, contribute to increase in wage
+pressure.
+
+While analysing the inflationary processes in Poland, some members of the Council pointed out
+that, as anticipated, CPI inflation was running at a relatively low level. Those members also pointed
+at a continuing decline in all core inflation measures. At the same time, they emphasised that
+despite previously expressed concerns about the developments in domestic food prices, in the past
+few months changes in those prices were acting towards inflation decline. Yet, other members of
+the Council indicated that CPI inflation was currently higher than indicated by some of the forecasts
+made at the beginning of 2010.
+
+Referring to inflation developments, some members of the Council pointed out that according to the
+available forecasts, inflation was running close to the NBP inflation target in the monetary policy
+horizon. They assessed that inflation would be curbed by moderate economic growth. In their
+opinion, low growth of unit labour costs in the economy, including their continuing decline in
+industry, is also a factor limiting the rise in inflation. Other members of the Council emphasised,
+however, that in the past the growth rate of unit labour costs in industry had not been a good leading
+indicator of inflationary pressure in the economy. Since inflation fell to a low level, this growth rate
+was positive only at the peak of the boom and during the economic slowdown. They assessed also
+that amidst likely acceleration of economic growth, increasing demand pressure would contribute to
+a rise in inflation. At the same time, they pointed out that in the case of a considerable slump in
+economic growth, zloty exchange rate depreciation resulting from a possible worsening of the
+public finance situation could constitute a risk for price stability.
+
+Some members of the Council emphasized that a marked increase in the growth of producer prices
+might be indicative of the risk of inflation acceleration. They also pointed out at rising cereal prices
+in the global markets. Some members of the Council argued that despite unfavourable demand
+situation in some countries, the global cereal supply should not be significantly reduced, which –
+given high stocks of these commodities – should limit the rise of their prices. Yet, other members of
+the Council pointed out that given still significant liquidity surplus in the global financial markets
+there was a risk of considerable rise in food prices.
+
+Referring to the change in VAT rates scheduled for the beginning of 2011, members of the Council
+pointed out that the increase in the price level driven by this change should be rather insignificant,
+and given stable inflation expectations, its impact on CPI inflation might be expected to be only
+temporary. Some members of the Council emphasized, however, that changes in VAT rates might
+boost inflation expectations. In the opinion of those members of the Council, the risk of rising
+inflation expectations was also increased by growing prices of some food commodities in the world
+markets and the possibility of a rise in administered prices resulting from the need to reduce high
+public finance deficit. At the same time, some members of the Council assessed that inflation
+expectations were currently running at an increased level.
+
+While discussing the situation in the public finance sector in Poland, some members of the Council
+pointed out that despite relatively favourable data concerning realization of the state budget and
+revenues from social insurance contributions, there was a risk of a significantly higher deficit in the
+public finance sector in 2010 than previously anticipated. In the opinion of those members of the
+Council, budgetary situation of local governments might be a factor contributing to an increase in
+public finance deficit. Yet, some members of the Council drew attention to the uncertainty about the
+growth of local governments’ debt in 2010 and assessed that a potential rise in the public finance
+deficit in relation to GPD did not have to be significant.
+
+
+-----
+
+While analysing medium-term risks for economic growth and inflation, the Council also discussed
+the Long-term Financial Plan for the State. It was emphasized that consolidation measures
+presented in this Plan were not sufficient to significantly limit the public finance deficit and halt the
+fast growth of public debt. Some members of the Council also pointed out that there was a risk of
+higher level of expenditure, as compared to the level anticipated in the Plan, being adopted in the
+Budget Act for 2011. At the same time, some members of the Council claimed that continuation of
+loose fiscal policy would increase the risk of growing inflationary pressure in the Polish economy,
+in particular, in the case of reversal of capital flows in the global financial markets. Yet, other
+members of the Council argued that fiscal policy should not boost inflationary pressure given the
+planned tightening of the fiscal policy in 2011, although the scale of this tightening would not be
+considerable. It was emphasised that a more comprehensive assessment of the implications of fiscal
+environment for the monetary policy would be possible after getting acquainted with the draft state
+budget for 2011.
+
+While discussing the external environment of the Polish economy, members of the Council pointed
+at a decline of GDP growth in 2010 Q2 in the United States and China and acceleration of GDP
+growth in the euro area, driven mainly by a strong rise in economic activity in Germany. In the
+opinion of some members of the Council, incoming information suggests that recovery in the
+American economy begins to falter which is likely to have a negative impact on the global
+economic outlook. Other members of the Council assessed that decline in GDP growth in the
+United States was in line with the expectations of lower potential output growth in major developed
+economies after the financial crisis. On the basis of the above and based on the past recession
+experience they insisted that the likelihood of double dip in the global economy was minor.
+
+Referring to the fiscal situation abroad, some members of the Council argued that, although the
+tensions in financial markets related to high imbalance of public finance in some euro area member
+states had subsided, the problem of excessive debt remained unsolved. Those members emphasized
+that it was at present impossible to rule out another wave of tensions related to high indebtedness
+which would adversely affect the global economic outlook. At the same time, some members of the
+Council pointed out that persisting high imbalance of public finance in major developed economies
+might have a negative effect on their potential growth.
+
+During the meeting the uncertainty about the current potential output growth in Poland was also
+addressed. Some members of the Council assessed that potential output growth declined as a result
+of the global financial crisis and also due to other factors, not related with the crisis. Other members
+of the Council maintained that moderate rise in unemployment in Poland during the economic
+slowdown and still growing number of economically active persons reduced the likelihood of
+decline in potential output growth.
+
+During the discussion about interest rates in Poland and abroad, some Council members pointed to
+the continuation of expansionary monetary policy by major central banks in developed countries.
+According to those members, under such circumstances, increase in interest rate disparity relating to
+a potential rise in the NBP interest rates could contribute to increased capital inflow to the Polish
+economy and to an excessively rapid zloty appreciation. Other Council members argued, however,
+that the impact of the increased interest rate disparity on the zloty exchange rate might be limited. In
+this context, those members indicated that a few central banks in developed and developing
+countries had recently increased interest rates. According to those members of the Council, the
+impact of the increased interest rate disparity on the zloty exchange rate might also be limited by
+other factors affecting the exchange rate, including the situation in the public finance sector. It was
+further indicated that amidst strong inflow of portfolio capital connected with high borrowing needs
+of the government, changes in investor attitudes to emerging economies could constitute a major
+risk for the zloty exchange rate developments.
+
+
+-----
+
+Monetary aggregate developments were also discussed at the meeting. Some members of the
+Council emphasised that the growth of M3 remains low. In particular, some of those members
+pointed out that there was no revival in lending and the growth of loans to enterprises stabilised at a
+low level. Other members of the Council indicated that the growth of M3 had increased in past few
+months and was higher than during the recovery from the previous economic slump. They also drew
+attention to the rise in demand for most loan types, as signalled by banks.
+
+While considering the decision on interest rates, some Council members argued that the present
+GDP growth, with a possibility of its acceleration and a likely reduced potential output growth,
+could contribute to a rise in inflationary pressure in the monetary policy transmission horizon.
+Those members emphasized that the current level of interest rates was adequate for a situation of
+strong slowdown in the growth of the Polish economy and the recession in its environment, and that
+given recovery gaining strength in Poland it was justified to increase the NBP interest rates.
+Moreover, according to those members of the Council, the increase in interest rates would contain
+the risk of a rise in inflation expectations and favour the growth in savings rate in the economy, and
+would, in consequence, contribute to maintaining sustainable economic growth in a longer period.
+In addition some Council members argued that in order to tighten monetary policy an increase in
+the required reserve rate might be justified.
+
+Other Council members pointed to the continuing adverse growth outlook in the external
+environment of the Polish economy and the lack of clear signals of further acceleration in the
+domestic economic growth. Those members emphasized that the currently low inflationary pressure
+and weakening of factors contributing to a rise in inflationary pressure in the recent period justified
+keeping the NBP interest rates unchanged. They also indicated that a rise in interest rates could
+increase the risk of a too quick zloty exchange rate appreciation. Some Council members argued
+that an increase of interest rates could weaken the recovery of economic growth in Poland too
+much.
+
+A motion to raise the required reserve rate by 50 basis points was put forward. The motion did not
+pass. A motion to raise NBP interest rates by 50 basis points was also put forward. The motion did
+not pass. The Council kept the interest rates unchanged: the reference rate at 3.50%, the lombard
+rate at 5.00%, the deposit rate at 2.00%, the rediscount rate at 3.75% and the discount rate at 4.00%.
+
+_Publication date: 23 September 2010_
+
+
+-----
+

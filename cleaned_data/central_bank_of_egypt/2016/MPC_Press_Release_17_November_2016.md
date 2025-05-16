@@ -1,0 +1,61 @@
+# Central Bank of Egypt
+
+**Press Release**
+
+**November 17, 2016**
+
+**_In its meeting held on November 17, 2016, the Monetary Policy Committee (MPC) decided to_**
+**_keep the overnight deposit rate, overnight lending rate, and the rate of the CBE's main_**
+**_operation unchanged at 14.75 percent, 15.75 percent, and 15.25 percent, respectively. The_**
+**_discount rate was also kept unchanged at 15.25 percent._**
+
+Annual headline inflation declined to 13.56 percent in October 2016 from 14.09 percent in
+September 2016 due to a favorable base effect, as the monthly rate rose by 1.70 percent in
+October from 1.25 percent in September. The bulk of the monthly increase occurred due to
+core items, particularly food, education and retail, while volatile food prices declined.
+Consequently, annual core inflation rose to 15.72 percent in October 2016 from 13.93 percent
+in September 2016, and the monthly rate rose by 2.81 percent in October from 1.39 percent in
+September.
+
+Despite elevated inflation rates in October 2016, the contribution of the pass-through from
+previous exchange rate movements as well as the estimated decline of potential output growth
+at current demand levels remained moderate. Annual real GDP reportedly grew by 4.3 percent
+in the fiscal year 2015/16 compared 4.4 percent in 2014/15. Labor market data show that the
+unemployment rate narrowed to 12.5 percent in the quarter ending June 2016 after peaking at
+13.4 percent in the quarter ending December 2013, supported by lower real unit labor costs
+relative to productivity. The unemployment rate inched up to 12.6 percent in the quarter
+ending September 2016.
+
+Looking ahead, annual inflation is expected to be impacted by transitory cost-push factors
+stemming from the economic reform measures before beginning to narrow. At the same time,
+the liberalization of the foreign exchange market in addition to fiscal and structural reform
+measures are expected to increase potential output growth, which coupled with weaker
+demand – partly due to tighter monetary conditions – is estimated to partly offset cost-push
+pressures.
+
+Developments in the external economic environment show that there has been some firming of
+international commodity prices, while low global inflation and subdued growth support low
+cost-push and demand-pull pressures on domestic prices, respectively.
+
+
+-----
+
+From the monetary perspective, broad and reserve money growth are likely to be impacted
+going forward by the phasing out of monetary financing of the fiscal deficit as well as relatively
+higher foreign reserves accumulation. Based on the targeted reserve money and the inflation
+outlook assessed in the extraordinary MPC meeting on November 3, 2016, tightening monetary
+conditions was warranted, and the CBE raised its key policy rates by 300 basis points and
+absorbed excess liquidity via longer-term deposit auctions.
+
+At this juncture and given the balance of risks, the MPC judges that the key CBE rates are
+currently appropriate. The MPC reiterates its price stability mandate and will continue to
+closely monitor all economic and monetary developments, and will not hesitate to adjust the
+key CBE rates to ensure price stability over the medium-term.
+
+Monetary Policy Sector
+Tel: +20227701315
+E-mail: monetary.policy@cbe.org.eg
+
+
+-----
+

@@ -1,0 +1,155 @@
+# MONETARY POLICY MEETING
+
+### JUNE 2022
+
+**[INF*RES*AS]**
+
+
+-----
+
+## MONETARY POLICY MEETING
+
+##### Minutes of the Monetary Policy Meeting No. 290, held on 7 June 2022.
+
+Present: Rosanna Costa Governor; Pablo García, Vice-Governor; Alberto Naudon, Board member; Luis Felipe
+Céspedes, Board member; Stepanka Novy, Board member.
+
+Also present: Beltrán de Ramón, General Manager; Juan Pablo Araya, Legal Counsel and Attestor; Elías
+Albagli, Monetary Policy Division Director; Paulina Yazigi, Financial Markets Division Director; Rosario
+Celedón, Financial Policy Division Director; Gloria Peña, Statistics Division Director; Michel Moure, Institutional
+Affairs Division Director; María Jesús Orellana, acting Corporate Risk Division Director; Markus Kirchner,
+Macroeconomic Analysis Manager; Enrique Orellana, Monetary Policy Strategy and Communication
+Manager; Miguel Fuentes, International Analysis Manager; Diego Gianelli, Market Operations Manager;
+Andrés Sansone, Advisor to the Finance Minister; Marlys Pabst, Secretary General.
+
+#### 1. Background
+
+Inflation in Chile had been escalating further, to its highest level in decades. The main factor behind its rise
+continued to be the significant increase in demand during 2021. However, in recent months the impact of
+strong global cost pressures resulting from higher prices of commodities, energy, and foods had intensified,
+in a context of ongoing difficulties in global supply chains, and where the peso remained depreciated and
+the activity gap was still positive.
+
+The short-term inflation outlook was steadily rising in response to this combination of factors. In line with
+expectations, activity had begun to adjust in the first quarter, although in a composition of demand where
+private consumption remained strong while investment weakened.
+
+Over the medium term, the reassessment of the macroeconomic scenario suggested that the commodity
+and food price shock would be more persistent than thought before, which had implications for inflation.
+In any case, the resolution of macroeconomic imbalances remained the central element for inflation to
+converge to 3% within the two-year horizon. This process would occur in large part through the adjustment
+of private consumption and investment, in a context where the vision of a significant contraction in fiscal
+spending was maintained. However, the high level of inflation and the greater persistence associated with
+its main determinants called for a more contractionary monetary policy to ensure such convergence.
+
+Risks continued to be high in the macroeconomic scenario, particularly because of how high and persistent
+inflation was at the time.
+
+
+-----
+
+#### 2. Background analysis and discussion
+
+In general terms, incoming news in recent weeks tended to confirm the view of the macroeconomic scenario
+adopted at the May Meeting, including the change in the monetary policy rate (MPR) trajectory anticipated
+at the moment. On the one hand, it was noted that inflation had been clearly above the forecast in the
+last Monetary Policy Report. On the other, although a moderate fall in activity and a more significant drop
+in investment were confirmed, private consumption remained dynamic due to a greater use of household
+liquidity, delaying its adjustment with respect to earlier projections.
+
+It was commented that information at hand depicted a scenario of higher and more persistent inflationar
+y pressures, which called for a more contractionary monetary policy than what had been foreseen in the
+March Report. It was pointed out that, although the inflation surprise of recent months had a clear focus
+on food prices and not so much on the core component, this did not imply that monetary policy should
+be neutral or take no action in this regard. Instead, what was needed was to assess whether these shocks
+affected the persistence of inflationary dynamics over the policy horizon. If they did, there should be a
+monetary policy response. It was added that it was important to bear in mind that the advantage of the
+inflation targeting scheme was that by establishing a two-year horizon, it avoided reacting to shocks
+that had transitory effect on inflation dynamics and did not jeopardize the achievement of the target.
+However, if these shocks had more permanent effects, irrespective of their origin, monetary policy had
+to react, because otherwise the inflation target would be compromised. It was noted that the conduct
+of monetary policy was based not only on analyzing inflation, but it also had a component of economic
+growth. However, in order for this mechanism to operate, it was necessary to maintain the credibility of
+monetary policy.
+
+It was recalled that the outlook for economic activity pointed to a significant weakening in the near future.
+There was consensus on the importance of specifying that this weakening was not an “externality” of the
+process of raising rates, but rather a fundamental element to achieve the convergence of inflation to the
+3% target. It was also recalled that after the significant measures to stimulate spending adopted in 2021,
+the economy had reached unsustainable levels of activity from a medium-term perspective. Undoing this
+imbalance meant that economic activity would see negative growth rates. The importance of keeping this
+in mind was also stressed, as resolving the imbalances was a necessary condition for the economy to grow
+in a healthy manner while creating jobs and boosting real wages.
+
+On the external front, it was pointed out that the global inflationary problem was becoming more and
+more important. It was noteworthy that the central banks of the leading economies were still reacting
+rather cautiously, which generated the risk of larger corrections than those already seen in global financial
+conditions if a more abrupt and marked change in the monetary policy stance of those economies were to
+become necessary. The greater likelihood of the latter scenario increased the risk of a recession in the major
+economies. This put greater pressure on financial conditions for emerging economies, including the value
+of their currencies, which in the medium term would be an additional drag on growth.
+
+
+-----
+
+It was discussed that, in this context, the economy was facing a particularly complex scenario of very
+significant risks. For one, given how high inflation was going, there was the risk that it would become more
+persistent, which would have impacts in multiple dimensions: inflation expectations above the target; more
+frequent price adjustments by companies and, therefore, more frequent margin adjustments; and increased
+pass-through of the exchange rate to local prices. It was mentioned that a key factor to avoid the negative
+effects of this greater persistence and to ensure the achievement of the 3% inflation target within two years
+was the credibility of monetary policy. In this regard, it was noted that monetary policy could only fulfill
+its countercyclical role of alleviating the costs in terms of economic activity, employment, and wages, if it
+succeeded in maintaining its credibility and expectations aligned with the target. Such a scenario was also
+needed to mitigate the impact of a potential global liquidity crisis, an important risk given the progress of
+the world’ s inflationary situation and the reaction of the main central banks so far. Finally, it was mentioned
+that there was the risk of a steeper-than-expected economic slowdown, with negative and undesirable
+effects on investment and employment. In this scenario, it was noted, the Bank would have enough room to
+lower the MPR and generate a significant monetary stimulus. The reason for this was that in such a scenario
+inflation would fall gradually, and a relatively rapid decline in the MPR would allow the Bank to promptly
+produce negative real rates.
+
+#### 3. Analysis of monetary policy options
+
+The Board agreed that the monetary policy framework had been particularly stressed over the past year.
+The magnitude of the aggregate demand and supply shocks was unprecedented in terms of both size and
+synchrony. Moreover, their short- and medium-term implications were also diverse and much of the analysis
+was aimed at evaluating these different trade-offs. In addition, all this was taking place in a local context
+where there was quite significant financial tension, amid an environment of uncertainty and volatility.
+
+The Board recalled that the process of monetary normalization had already begun almost a year ago, so that
+a good part of the adjustment deemed necessary to resolve macroeconomic imbalances had already been
+made. Accordingly, they estimated that, given the background described in the June Report, the MPR was
+already close to its terminal level in this cycle and considered two possible options: (i) raise the MPR by 75
+basis points (bp); or (ii) raise the MPR by 100bp.
+
+All five Board Members agreed that, as the MPR approached its target level, tactical considerations took
+on greater prominence when evaluating monetary policy options. In this scenario, there was agreement
+that the 75bp option struck a good balance between different considerations. On the one hand, it was
+consistent with the path judged necessary for inflation convergence in the Report’s central scenario, and
+at the same time it allowed room for additional hikes of a smaller magnitude that could be calibrated with
+information of the months ahead. On the other hand, this option was widely expected by the market,
+whose rate expectations were very close to the central part of the MPR corridor in the June Report. As for
+the 100bp option, although it could be justified as a sign of greater concern about the risk scenarios being
+
+
+-----
+
+faced, its counterpart was that it provided less flexibility for the future. In particular, to make it consistent
+with the idea that the MPR was approaching a terminal level, it would need to be accompanied by a clearly
+neutral bias, which was thought not to be feasible as yet.
+
+#### 4. Monetary policy decision
+
+Governor Costa, Vice-Governor García, and Board members Naudon, Céspedes, and Novy voted to raise
+the monetary policy rate by 75 basis points, to 9%.
+
+
+-----
+
+**MONETARY POLICY MEETING**
+JUNE 2022
+
+
+-----
+

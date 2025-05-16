@@ -1,0 +1,1178 @@
+# Minutes of the Monetary Policy
+
+ Meeting
+
+### March21,2019
+
+## Central Bank of the R.O.C. (Taiwan)
+
+
+-----
+
+##### Minutes[1] of the Joint Meeting of the Board of Directors and
+
+ the Board of Supervisors on March 21, 2019
+
+**Date and Time: March 21, 2019, at 2:00 p.m.**
+
+**Location: Room A606, Main Building, Central Bank of the R.O.C. (Taiwan)**
+
+**Members Present:**
+
+**Chairman, Board of Directors: Chin-long Yang**
+
+**Executive Directors: Jain-Rong Su, Tzung-ta Yen, Nan-kuang Chen, Ming-yih Liang**
+
+**Directors: Chi-chung Chen, Chen-chia Lee, Jin-lung Lin, Mei-lie Chu, Chao-hsi Huang,**
+
+Bih-jane Liu, Shiu-sheng Chen, Hsin-hong Kang
+
+**Excused：Jong-chin Shen (Executive Director, appointing Tzung-ta Yen as proxy),**
+
+Chung-dar Lei (Director, appointing Nan-kuang Chen as proxy)
+
+**Chairman, Board of Supervisors: Tzer-ming Chu**
+
+**Supervisors: Ching-fan Chung, Sheng-yao Lin, Tien-wang Tsaur, Kuei-hui Cheng**
+
+**Staff Present:**
+
+E-dawn Chen, Director General, Department of Banking
+
+James T.H. Shih, Director General, Department of Issuing
+
+Hui-huang Yen, Director General, Department of Foreign Exchange
+
+Yue-min Chen, Director General, Department of the Treasury
+
+Tsuey-ling Hsiao, Director General, Department of Financial Inspection
+
+Tzong-yau Lin, Director General, Department of Economic Research
+
+Chien-ching Liang, Director General, Secretariat
+
+Kuei-chou Huang, Director General, Department of Accounting
+
+Jhih-cheng Hong, Director, Personnel Office
+
+Kun-shan Wu, Director, Legal Affairs Office
+
+Chih-cheng Hu, Secretary, Board of Directors
+
+Yu-ming Chang, Secretary, Board of Supervisors
+
+**Presiding: Chin-long Yang**
+
+1
+This English translation is provided for information purposes only; the Chinese version
+shall prevail in case of discrepancies.
+
+1
+
+
+-----
+
+##### Agenda Item: Economic and Financial Conditions and Monetary Policy
+
+ Decision
+
+ I. Review of economic and financial conditions
+
+The Department of Economic Research presented the following review:
+
+**1.** **International Economic and Financial Conditions**
+
+Since the Board last convened in December 2018, a number of major concerns, including
+
+lingering uncertainty over the US trade policy, a slowing China economy, and possible
+
+extension of Brexit deadline, had led major international forecasting institutions to revise
+
+down their projections for the global economic growth and to predict a slower pace this year
+
+than last. In the meantime, trade tension among major economies had weighed on global trade
+
+growth momentum. As a result, world trade volume was forecast by international institutions
+
+to rise slower this year than last year.
+
+Forecasts for this year’s growth in major economies were also revised down by
+
+international institutions on account of cooling economic and trade activity across the world;
+
+for Taiwan’s primary trading partners, their growth this year would likely be slower than last
+
+year. Meanwhile, international institutions expected that global inflation and inflation in most
+
+economies would be weaker than last year, citing a sluggish global economic prospect and a
+
+projected downtrend in international oil prices. Overall, the global inflation outlook was
+
+expected to be mild for the year.
+
+In terms of monetary policy developments overseas, central banks in advanced
+
+economies had kept policy rates unchanged in the year so far, albeit showing a more dovish
+
+turn in general. The US Federal Reserve (Fed) decided to hold the policy rate steady on
+
+March 20, along with a plan to end the balance sheet runoff in September. The European
+
+Central Bank (ECB) said it would begin a fresh round of targeted longer-term refinancing
+
+operations (TLTRO-III) in September to stimulate bank lending. The Bank of Japan (BoJ)
+
+also made no change in its easy policy stance. Despite a rate hold, the People’s Bank of China
+
+cut reserve requirements for all banks to keep credit conditions accommodative. Meanwhile,
+
+other economies in Asia either maintained or reduced their policy rates.
+
+In the international financial markets, yields on 10-year government bonds of major
+
+2
+
+
+-----
+
+economies fell on account of a dovish shift by major central banks and a dimmer global
+
+economic outlook. Global stock markets bounced back from the low in the fourth quarter of
+
+2018, on the back of the aforementioned dovish turn, positive developments in US-China
+
+trade talks, and a marked easing in US financial squeeze.
+
+Key risks to the global economic outlook include the following.
+
+(1) Persistently high uncertainty over major economies’ trade policy: US-China trade
+
+talks are about to move towards conclusion with the final deal yet to be signed; the US will
+
+also open new battle fronts in trade with the European Union and Japan, where automobile
+
+tariffs, if imposed by the US on the EU and Japan, could trigger renewed tension.
+
+(2) Sharper-than-expected slowdown in China’s economy: as the negative impact of US
+
+tariffs began to show, China could witness subdued growth in investment, consumption, and
+
+exports; spillovers from a sharper slowdown or financial instability in China could batter
+
+global economic growth and commodity markets.
+
+(3) Brexit uncertainty and geopolitical tension: still a great deal of uncertainty
+
+surrounding Brexit and a potential oil supply disruption from Venezuela’s political crisis
+
+could incur additional risks to the global economic prospects.
+
+**2.** **Domestic Economic and Financial Conditions**
+
+(1) Economic situation
+
+In January, though the domestic business climate monitor improved from a blue light to
+
+a yellow-blue light, both leading and coincident indicators continued sliding downwards,
+
+reflecting a domestic economic downturn. The manufacturing inventory ratio climbed higher
+
+in January, pointing to a higher risk of economic contraction. Moreover, the ratio rose further
+
+thereafter, a sign that economic growth could weaken in the future.
+
+With the global economy cooling, domestic exports falling short of expectation, and
+
+economic growth losing steam, the Bank now projected the annual GDP growth rate to be
+
+2.13% in 2019, a downward revision of 0.20 percentage points from its December 2018
+
+forecast.
+
+In terms of external demand, the global economic slowdown and US-China trade friction
+
+combined to drag export growth in major Asian economies, including Taiwan, into negative
+
+3
+
+
+-----
+
+territory for the Jan.-Feb. period. Taiwan’s exports contracted by 4.1% in value terms, with
+
+export prices falling by 4.5% and export volume rising by a modest 0.4%. By product groups,
+
+most of the leading groups registered negative growth, except for information,
+
+communications & audio-video products, and electrical machinery products. By destination
+
+market, the decline in exports to China had the greatest impact. In view of expected
+
+sluggishness in global economic and trade growth, as well as a flattening in consumer
+
+expenditures on mobile devices, the Bank forecast Taiwan’s real export growth to moderate
+
+this year.
+
+With respect to domestic demand, investment in machinery equipment and R&D would
+
+continue expanding. Meanwhile, the government rolled out measures to encourage more
+
+overseas Taiwanese businesses to invest back at home, along with the ongoing efforts under
+
+the Forward-looking Infrastructure Development Program. These would combine to bolster
+
+investment by public and private sectors alike. Therefore, real growth in private investment
+
+was projected by the Bank to gain stronger momentum this year.
+
+In terms of private consumption, labor market conditions were stable, the unemployment
+
+rate edged down further, and the number of employed persons increased steadily.
+
+Furthermore, consumer spending is likely to be boosted by several favorable factors,
+
+including stronger prospects for pay raises as firms garnered better profits last year and
+
+incentives for shopping with government subsidies on energy-efficient home appliances and
+
+domestic tourism. However, recent signs of subdued growth momentum could dampen the
+
+willingness for hiring in the coming months. Overall, the Bank expected this year’s real
+
+growth in private consumption to be mild.
+
+With public and private investment expected to grow faster than last year and private
+
+consumption to expand steadily, domestic demand would continue to be the main driving
+
+force behind this year’s economic growth. The Bank judged that a positive impetus from
+
+domestic demand and a lower base effect would enable Taiwan’s pace of economic expansion
+
+to pick up quarter by quarter in 2019, albeit not as fast as 2018 on a yearly basis. Forecasts by
+
+major institutions for this year’s economic growth were also lower than last year, ranging
+
+between 2.00% and 2.27%.
+
+(2) Financial conditions
+
+Earlier in the year, as demand for funds built up ahead of the Lunar New Year holidays,
+
+4
+
+
+-----
+
+the Bank managed market liquidity in response through open market operations. Excess
+
+reserves in the banking sector were kept at a higher level, increasing from over NT$40 billion
+
+of the previous quarter to a level higher than NT$50 billion on average for the Jan.-Feb.
+
+period. As for short-term market rates, notwithstanding a higher demand for funds before the
+
+Lunar New Year holidays, market liquidity was still ample thanks to net foreign capital
+
+inflows. As of late, with currency in circulation flowing back to the banking system,
+
+short-term market rates dropped slightly. Compared to several key economies, Taiwan’s real
+
+interest rate (adjusted for inflation) stood around the middle of the range.
+
+Looking at the money supply, for the first two months of the year, M2 growth averaged
+
+at 3.03%, within the Bank’s target range. The annual growth rate of bank loans and
+
+investments averaged 5.70% for the same period as bank lending to private enterprises
+
+continued increasing. These data suggested that market liquidity was sufficient to support real
+
+economic activity and that inflationary pressures were muted.
+
+For the year as a whole, it is expected that bank loans and investments will post mild
+
+growth. In spite of projections for slower domestic economic growth and multiple
+
+uncertainties over the economic outlook, government actions, including those under the
+
+Forward-looking Infrastructure Development Program and measures to encourage returning
+
+investment by overseas Taiwanese firms, are likely to fuel growth in bank credit.
+
+(3) Price trends
+
+Since the start of the year, international oil prices recovered ground from previous lows.
+
+However, in addition to a slowing global economy, the continuous rise in US oil production
+
+would probably balance out the effect of production cuts by the Organization of the Petroleum
+
+Exporting Countries. Therefore, it was expected that international oil prices would register an
+
+average level lower than the previous year. As for global grain prices, there has been a
+
+downward swing since February.
+
+Against this backdrop of easing price trends for international commodities, domestic
+
+inflation was moderate. With vegetable prices falling on the back of stable weather
+
+conditions, communications rates decreasing, and consumer electronics products offered at
+
+promotional prices, the annual growth rates of CPI and core CPI stayed low for the first two
+
+months of the year. In terms of the output gap, a key factor in gauging inflationary pressures,
+
+the negative gap is expected to widen marginally owing to domestic economic moderation
+
+5
+
+
+-----
+
+this year.
+
+For this year, the Bank forecast the CPI and core CPI annual growth rates to be 0.91%
+
+and 0.78%, respectively. The forecast was based on expectations of abating pressures of
+
+imported inflation owing to lower-than-2018 international oil prices, a hold on domestic
+
+electricity price hikes, mild domestic demand, and the receding of the tobacco tax hike effect.
+
+The medians of domestic and international institutions’ 2019 inflation forecasts are 0.91% and
+
+0.90%, respectively.
+
+Looking ahead, key determinants of future price trends include upside pressures from the
+
+following: last year’s price decline for fruit and vegetables owing to abundant supply is likely
+
+to result in a steeper increase in food prices this year; the base wage hike this year would
+
+drive upwards employee pay and prices for away-from-home food; coach bus fares would be
+
+raised from March onwards. On the other hand, downside price pressures could come from a
+
+projected downtrend in international oil prices compared to last year, further reductions in
+
+communications rates, and a still negative output gap.
+
+**3.** **Considerations for Monetary Policy**
+
+(1) International institutions recently revised down their forecasts for global economic and trade
+
+growth this year. Major economies would be facing slower economic growth. There remain
+
+many uncertainties over international economic, trade, and financial prospects, including the
+
+lack of clarity in future developments of US trade policy towards China, Europe, and Japan,
+
+China’s economic downturn, and possible extension of Brexit deadline.
+
+(2) Inflationary pressures would be mild, given a slight moderation in the domestic economy
+
+and still below-potential output. For the year of 2019, the Bank projected the economy to
+
+expand mildly by 2.13% and inflation to rise 0.91%.
+
+(3) In recent months, major central banks kept policy rates unchanged while assuming more
+
+accommodative stances. Furthermore, Taiwan’s nominal and real interest rates were still
+
+around the middle range compared to selected economies.
+
+##### II. Proposition and Decision about Monetary Policy
+
+**1.** **Policy Proposition: To keep the discount rate, the rate on accommodations with**
+
+**collateral, and the rate on accommodations without collateral unchanged at 1.375%,**
+
+**1.75%, and 3.625%, respectively.**
+
+6
+
+
+-----
+
+2. Board members reached a unanimous vote for policy rates to remain unchanged. The
+
+discussions are summarized as follows.
+
+(1) Discussion on domestic and international economic and financial conditions
+
+In respect of the external environment, one board director noted that since the end of
+
+February international forecasting institutions and investment banks have actually adjusted their
+
+views on the global economic outlook given the Fed’s rate hike pause and a
+
+milder-than-expected slowdown in China thanks to Beijing’s massive stimulus measures. In
+
+fact, we have begun to see since mid-March that some foreign analysts said they expected
+
+global economic prospects to brighten in the second quarter or the latter half of the year. In light
+
+of these shifts, it remains to be seen whether a deeper domestic downturn would materialize as
+
+previously projected.
+
+Another board director stated that the expectation of a slowdown in not only world trade
+
+but also global investment this year suggested the corporate sector was worried about future
+
+business prospects. A series of uncertainties have sowed the seeds of this concern, including the
+
+US-China trade conflicts, which are not merely some transitory events but represent
+
+fundamentally a contest for technological dominance. In addition, if the Brexit deadline were to
+
+be extended till June, the concomitant effects would carry on for an even longer period. The
+
+influence on the global and domestic economy arising therefrom also needs to be closely
+
+monitored.
+
+In respect of domestic economic conditions, several board directors discussed the issue of
+
+domestic investment growth momentum. One board director pointed out that, given the scale of
+
+Taiwan’s investment in and merchanting trade (particularly intermediate goods trade) with
+
+China over the years since 2000, we are highly integrated into the global value chain. As the
+
+US-China trade friction could shake up global supply chains along the way, opportunities might
+
+also rise for Taiwan. In the past year, the government not only held meetings but also launched
+
+an action plan to encourage overseas Taiwanese businesses to invest at home. These efforts are
+
+expected to spur real investment by the returning Taiwanese firms, especially in the area of
+
+start-ups. In turn, such real investment could help address Taiwan’s long-running excess saving,
+
+raise productivity, and shore up wages, which would all be conducive to Taiwan’s economic
+
+growth.
+
+Another board director noted that projections for investment supported the view that
+
+7
+
+
+-----
+
+Taiwan’s economic growth in the second half of the year would outpace that in the first half.
+
+For instance, private investment is forecast to expand faster in the coming three quarters (from
+
+the second quarter onwards) than last year, and the government’s Forward-looking
+
+Infrastructure Development Program is also expected to propel growth in public and private
+
+investment this year. Nonetheless, an export-oriented economy like Taiwan should also
+
+consider potential headwinds in the broader environment, such as a global investment
+
+slowdown, and take careful counteractions as needed.
+
+One supervisor gave an opinion on domestic economic growth and noted that although
+
+falling export prices (in NT dollars) – deteriorating terms of trade – led to a weak performance
+
+in Taiwan’s exports, data based on real export volume showed modest growth in the Jan.-Feb.
+
+period. This supervisor also pointed out that domestic economic growth was not as slow as
+
+perceived by the public, let alone recessionary. One of the most popular definitions of a
+
+recession is two consecutive quarters of decline in the seasonally-adjusted annual rate (SAAR)
+
+of GDP growth. In contrast, Taiwan’s economy is forecast by multiple domestic institutions to
+
+register positive, close to 2% SAARs in all the quarters this year.
+
+With regard to domestic prices, one board director stated that inflation was quite low in the
+
+first quarter of 2019 and was expected to stay at a lower level for the year as a whole. Another
+
+board director noted that, compared to last year’s significant increase, crop production per unit
+
+of harvested area is expected to decrease this year. Combined with the growth-dampening effect
+
+of a warm winter at the start of the year, food prices are likely to pick up. However, this would
+
+only have a limited influence on the overall inflation rate.
+
+(2) Discussion on interest rate decision
+
+All board directors favored no change to the current levels of policy rates, based mainly
+
+on the assessment of domestic economic moderation. One board director gave the reason that,
+
+with economic momentum weaker than last year, it is warranted to continue with the
+
+accommodative monetary policy in order to support funding needs, particularly those of
+
+small- and medium-sized enterprises. Another board director stated that a widened output gap,
+
+which indicated deficient growth momentum and subdued inflation, and the likely year-long
+
+pause of rate hikes by the Fed gave little ground for Taiwan to raise policy rates.
+
+One board director remarked that while economies around the world, including Taiwan,
+
+were experiencing some slowdown and uncertainties abounded for the global economic
+
+8
+
+
+-----
+
+outlook, caution would be in order and, therefore, a ‘wait and see’ approach to the domestic
+
+policy rates would be warranted. Another board director mentioned that the Bank’s previous
+
+rate cut cycle spanned about one year, namely from the third quarter of 2015 to the second
+
+quarter of 2016, with four consecutive reductions in response to domestic economic doldrums,
+
+even negative growth. By contrast, domestic institutions already pointed out that, despite a
+
+slowdown in general, there is a likelihood for the economy to pick up gradually from quarter
+
+to quarter this year, underpinning the rate hold proposition. Furthermore, many economies
+
+had kept rates unchanged or continued with policy easing since the fourth quarter last year as
+
+they experienced slowdown in varying degrees. This board director highlighted that, in
+
+accordance with the Central Bank of the R.O.C. (Taiwan) Act, the last operational objective
+
+“to foster economic development” is to be pursued “within the scope of” the other objectives,
+
+such as financial stability and sound banking operations, whereas the general public
+
+sometimes give too much weight to the Bank’s role in economic growth.
+
+Several board directors expressed support for a rate hold and commented on future
+
+deliberations about monetary policy. One board director noted that holding rates steady would
+
+suffice in the short term given the relative calmness in the current international economic and
+
+financial environment. Nevertheless, protracted low interest rates hamper the efficiency of
+
+capital allocation. It is thus important to explore potential structural impacts of sustained
+
+monetary accommodation on the economy as a whole and whether the Bank has enough
+
+wiggle room if a sharper financial recession strikes. Another board director stated that
+
+developments since the previous Board Meeting, including policy rate holds and a dovish
+
+shift in major economies, a negative domestic output gap, the prospect of gradual
+
+improvement of domestic economic growth within the year, and muted inflationary pressures
+
+at home, suggested no need to reduce policy rates for the time being. However, going forward,
+
+it is vital to identify what policy tools the Bank can use to counter future uncertainties such as
+
+a financial crisis.
+
+One board director expressed the view that the Bank’s main policy rate, i.e., the discount
+
+rate, has had a signaling effect, albeit with limited power towards market interest rates and the
+
+real economy. However, that signal could be obscured given the contradiction between a
+
+downtrend in money supply, which was shown in recent declines of M2 growth, and a
+
+proposed rate hold, which is to indicate continued policy accommodation. In that connection,
+
+9
+
+
+-----
+
+this board director pointed to the moves by the Fed, who began last year to review its
+
+monetary policy framework and the effectiveness of its policy instruments while also inviting
+
+inputs from outside the institution, and argued that the Fed’s reforming act merits our
+
+attention.
+
+Another board director contended that the Bank’s discount rate not only serves as a
+
+signal but also affects interest rates on deposits and loans offered by banks under the
+
+bank-based financial system in Taiwan. For instance, banks would adjust their deposit rates
+
+after the central bank’s discount rate decision is announced. Bank lending rates, including
+
+those on adjustable rate mortgages, would change in tandem. These would in turn affect
+
+macroeconomic activity including investment and consumer spending.
+
+This board director explained further in regard to M2 growth. While the Bank continued
+
+with an accommodative stance, the annual M2 growth rate has kept sliding since the second
+
+half of 2018. Whether this is transient or persistent calls for attention. In particular, it needs to
+
+be determined if the significant increase in net ETF assets in the interim affected M2 growth
+
+adversely. Nonetheless, the annual M2 growth rate has stayed within the Bank’s 2.5%-6.5%
+
+target range in recent years, implying sufficient support for domestic economic activity in
+
+normal circumstances. Indeed, the endogenous nature of M2 variations entails that M2 growth
+
+would soften in a slowing economy as bank lending is dampened, in parallel with a central
+
+bank’s accommodative stance amid an economic slowdown. In terms of monetary policy
+
+framework, it seems that decisions of other central banks to shift to a different framework or
+
+modify the existing one are usually made to address issues like ineffective policy
+
+implementation, problems not facing the Bank. Moreover, our current monetary policy
+
+framework is functioning well, having facilitated the attainment of low and stable inflation
+
+and financial stability. At present, there seems no pressing need to change the monetary
+
+policy framework except for regular review.
+
+One board director expressed support for a rate hold, citing developments in recent
+
+months, including short-term factors such as developments in the domestic economy,
+
+financial conditions such as banks’ excess reserves, and situations overseas especially those in
+
+major economies. However, it is no good news when protracted low interest rates since the
+
+2008 global financial crisis restrict the efficacy of monetary policy via interest rate-setting.
+
+Foreign rate-setters, including those at the US Fed, have argued for raising policy rates,
+
+10
+
+
+-----
+
+though the timing of such a move would need to take some short-term factors into account.
+
+Furthermore, as in the case of Japan, which has kept policy rates low since 1992, trying to
+
+achieve short-term results via low rates could backfire in the long run. In this light, it is
+
+advisable to include longer-term factors in the Bank’s monetary policy decision-making in the
+
+future.
+
+Another board director stated that there are three types of interest rate decisions, a rate
+
+cut, a rate hold, and a rate hike. While nominal interest rates in Taiwan have stayed at very
+
+low levels for a long time, too low a level close to liquidity trap territory would render a rate
+
+cut ineffective in spurring consumption and investment. Moreover, prolonged low rates could
+
+restrain options for available policy tools; it is also unusual when an interest rate-setting
+
+approach has not been as effective as intended. On the other hand, though, this is neither the
+
+right time to begin a rate hike cycle, considering the absence of an overheating risk or strong
+
+growth momentum. Excluding a cut or hike, adopting a rate hold and allowing market forces
+
+to play their roles constitutes the better option in the current environment.
+
+One board director supported a rate hold on account of considerations regarding
+
+short-term economic cycles. However, the long-term effects of protracted low interest rates on
+
+Taiwan’s economy as a whole have been unclear and should be revealed in a timely manner.
+
+It is also suggested that the Bank communicate to the public that it pays great attention to not
+
+only short-term volatility but also longer-term economic growth. Basic economics seems to
+
+indicate that low rates could harm creditors but benefit debtors, with such possible effects as
+
+creating income inequality or widening the rich-poor gap along the way. More attention is
+
+warranted to this potential risk.
+
+Another board director also commented on the issue of protracted low interest rates. First,
+
+according to the “secular stagnation” thesis by former US Treasury Secretary Lawrence H.
+
+Summers, interest rates had been declining before, not after, the 2008 global financial crisis.
+
+Meanwhile, Taiwan has recorded low nominal rates for quite some time, but its real interest
+
+rate is not one of the lowest. Some economists suggest that the reason why interest rates have
+
+stayed low for a prolonged period with adverse implications is because of insufficient
+
+investment demand to absorb all the saving available in the economy. Therefore, the
+
+fundamental solution to protracted low rates is to boost investment. Furthermore, it is the
+
+collective viewpoint of several renowned foreign economists that monetary policy is
+
+11
+
+
+-----
+
+disproportionally burdened with the task of stabilizing the economy; countries with fiscal
+
+space should take more proactive action with fiscal expansion.
+
+Second, this board director continued, in a world of increased globalization, small open
+
+economies with free capital movements have their limitations in implementing interest rate
+
+policy, particularly in a low-interest rate environment, as well as in managing exchange rates.
+
+This concept could be described with the “impossible trinity” theory. On another front, Japan
+
+has adopted low policy rates for a long time but could still be slipping into the “lost 30 years.”
+
+While monetary policy (such as the BoJ’s balance sheet expansion) and fiscal policy (such as
+
+increased government spending) could be used to counter short-term economic cycles, they
+
+are not the effective cure for long-term structural diseases, which have been ailing Japan.
+
+Meanwhile, globalization makes protracted low rates a worldwide syndrome, which is not just
+
+seen in Taiwan, but many other economies elsewhere. In sum, the Bank should, in addition to
+
+heeding the possible side effects of protracted low rates, strive to resolve the root cause (such
+
+as considerable excess saving as a result of insufficient investment) behind this phenomenon.
+
+One board director, while approving of a rate hold, called for attention to the influence of
+
+capital flows. Another board director commented on Taiwan’s capital outflows, pointing out
+
+that outbound investments by insurers were massive in size and concentrated by market. If
+
+international stock and bond markets were to decline significantly, it could hit these insurers
+
+and affect domestic financial stability. It is therefore recommended that domestic insurers be
+
+encouraged to make longer-term investments at home, instead of overseas. One other board
+
+director followed up by explaining that insurers’ outbound investment is in fact due to the
+
+lack of longer-term (20-year or 30-year) financial products in the local market, to the extent
+
+that the levels of domestic interest rates, high or low, have little effect to the situation of
+
+insurer capital outflows. The solution would therefore be to guide insurers to invest more in
+
+real economic activity. In addition, given Taiwan’s large trade surplus and foreign capital
+
+inflows, small capital outflows could help let out pressures of a domestic market flush with
+
+liquidity. Liquidity utilization would also be less effective with domestic banks sitting on
+
+massive deposits yet lackluster in lending. These have all exerted downward pressures on
+
+interest rates.
+
+**3. Monetary Policy Decision: The board directors reached a unanimous vote to keep the**
+
+discount rate, the rate on accommodations with collateral, and the rate on accommodations
+
+12
+
+
+-----
+
+without collateral unchanged at 1.375%, 1.75%, and 3.625%, respectively.
+
+**Voting for the proposition:**
+
+Chin-long Yang, Jain-Rong Su, Tzung-ta Yen, Nan-kuang Chen, Ming-yih Liang,
+
+Chi-chung Chen, Chen-chia Lee, Jin-lung Lin, Mei-lie Chu, Chao-hsi Huang, Bih-jane
+
+Liu, Shiu-sheng Chen, Hsin-hong Kang, Jong-chin Shen (voting by proxy), Chung-dar
+
+Lei (voting by proxy)
+
+**Voting against the proposition: None.**
+
+##### III. The Press Release
+
+The board directors and supervisors approved unanimously to issue the following press
+
+release in the post-meeting press conference, together with the Supplementary Materials for
+
+the Post-Monetary Policy Meeting Press Conference prepared by the Bank.
+
+13
+
+
+-----
+
+#### Central Bank of the Republic of China (Taiwan)
+
+##### PRESS RELEASE Release Date: March 21, 2019
+
+<Website：http://www.cbc.gov.tw>
+
+##### Monetary Policy Decision of the Board Meeting
+
+I. Global economic and financial conditions
+
+Since the Board met in late December last year, global trade and
+
+manufacturing activity has continued to show signs of cooling. International
+
+institutions have widely revised down growth projections for the global economy
+
+this year, and major economies have mostly witnessed slower growth. Momentum
+
+for global economic expansion has weakened and international oil prices are
+
+expected to trend lower than last year, indicating a mild global inflation outlook.
+
+Major central banks have maintained policy rates unchanged in recent
+
+months, yet they have broadly adopted a more accommodative monetary policy
+
+stance. In addition, US-China trade negotiations are likely to achieve positive
+
+results, and global financial markets have rebounded significantly. Looking ahead,
+
+given lingering uncertainties over the US trade policies toward major economies
+
+such as China, the euro area, and Japan, a slowdown in the Chinese economy, and
+
+a possible extension of the Brexit deadline, the global economic and financial
+
+outlook remains unclear.
+
+II. Domestic economic and financial conditions
+
+1. Since the beginning of this year, softened external demand has contributed to
+
+negative growth in exports and weighed on production activity. Nevertheless,
+
+capital equipment imports have increased and the domestic stock market has
+
+rallied on the back of buoyant international stock markets, bolstering consumer
+
+confidence. The domestic economy has thus continued to register moderate
+
+growth. Labor market conditions have been stable, with employment slightly
+
+increasing and the unemployment rate modestly declining.
+
+In light of anticipated slowing in global economic and trade activity this year
+
+and a higher base last year, export growth may decelerate in 2019. However, with
+
+sustained growth in regular earnings and the government's consumption stimulus
+
+measures, private consumption is likely to grow at a steady pace. Meanwhile, as
+
+the government has proactively promoted the Forward-Looking Infrastructure
+
+Development Program and launched an action plan to welcome investments by
+
+14
+
+
+-----
+
+Taiwanese companies abroad, both public and private investment will continue to
+
+expand. The Bank forecasts Taiwan's economic growth to accelerate quarter by
+
+quarter driven by domestic demand. For the entire year, the GDP growth rate is
+
+projected to be 2.13%, lower than the previous year.
+
+2. For the first two months of this year, the consumer price index (CPI) posted an
+
+average annual growth rate of 0.20%, and the core CPI also rose mildly by 0.41%
+
+in the same period.
+
+In terms of the inflation outlook, a lower base effect as excess supply
+
+brought down prices in fruit and vegetables is likely to result in a steeper increase
+
+in food prices this year, while a minimum wage hike is expected to boost wage
+
+growth and drive up prices in away-from-home food. On the other hand, imported
+
+inflationary pressures would be held down by lower international oil prices
+
+projected for this year. Combined with moderate domestic demand and a
+
+dissipated tobacco tax hike effect, the inflation outlook is stable. The Bank
+
+forecasts the annual growth rates of CPI and core CPI (excluding fruit, vegetables,
+
+and energy items) for 2019 to be 0.91% and 0.78%, respectively (Appendix Table
+
+1).
+
+3. Early in the year, demand for funds in preparation for the Lunar New Year
+
+holidays was well met as the Bank managed market liquidity through open market
+
+operations. Banks' excess reserves climbed to a level higher than NT$50 billion on
+
+average for the first two months of the year, from over NT$40 billion of the
+
+previous quarter. Meanwhile, both long- and short-term market interest rates
+
+slipped slightly downwards in recent months.
+
+In the meantime, reserve money and the monetary aggregate M2 registered
+
+average annual growth rates of 6.78% and 3.03%, respectively, while bank loans
+
+and investments expanded by 5.70% for the same period, indicating sufficient
+
+money and credit growth to support economic activity. Recent data also pointed to
+
+satisfactory bank asset quality, with the non-performing loan ratio of domestic
+
+banks standing at 0.24% and the loan loss coverage ratio reaching a considerably
+
+healthy level of 569.56%.
+
+III. Monetary policy decisions
+
+The overall assessment based on the above information showed that Taiwan's
+
+economy would likely grow at a somewhat slower pace this year against the
+
+backdrop of a downward revision of global GDP and trade growth forecasts and
+
+15
+
+
+-----
+
+persistent uncertainties over the international economic, trade, and financial
+
+prospects. In addition, the actual output remains below potential and inflationary
+
+pressures are expected to be subdued. Moreover, Taiwan's nominal and real
+
+interest rates continue to register around the middle range among a host of
+
+economies (Appendix Figure 1 & Table 2). Therefore, the Board judged that a
+
+policy rate hold and a continued accommodative monetary policy stance will help
+
+foster sound development of the economy and the financial sector.
+
+The Board reached the following decision unanimously at the Meeting today:
+
+The discount rate, the rate on accommodations with collateral, and the
+
+rate on accommodations without collateral are kept unchanged at 1.375%,
+
+1.75%, and 3.625%, respectively.
+
+IV. The Bank will continue to monitor inflation, economic, and financial developments at
+
+home, while paying close attention to any possible impacts on Taiwan's economy and
+
+financial conditions resulting from shifts in global economic and trade activity, monetary
+
+policy of major economies, and cross-border capital flows. We will undertake
+
+appropriate and timely actions as warranted, so as to fulfill the central bank's statutory
+
+mandate.
+
+V. In principle, the NT dollar exchange rate is determined by market forces. Nonetheless, if
+
+irregular factors (such as massive inflows or outflows of short-term capital) as well as
+
+seasonal ones lead to excess volatility and disorderly movements in the NT dollar
+
+exchange rate with adverse implications for economic and financial stability, the Bank
+
+will, in accordance with its mandate, step in to maintain an orderly foreign exchange
+
+market.
+
+16
+
+
+-----
+
+#### Appendix
+
+##### Table 1 Taiwan's Inflation and Inflation Outlook
+
+
+Unit: %
+
+|Forecast institutions|Col2|Inflation|Inflation outlook|Median: 0.91% (domestic institutions)|
+|---|---|---|---|---|
+|||Jan.-Feb. 2019|2019 (f)||
+|Domestic institutions|DGBAS (2019/2/13)|0.20 (CPI) 0.41 (Core CPI*)|0.73||
+||CBC (2019/3/21)||0.91 (CPI) 0.78 (Core CPI*)||
+||TIER (2019/1/25)||1.10||
+|Foreign institutions|Morgan Stanley (2019/2/15)||0.50|Median: 0.90% (foreign institutions)|
+||Citi (2019/2/18)||0.70||
+||Nomura (2019/3/15)||0.80||
+||UBS (2019/3/15)||0.81||
+||IHS Markit (2019/3/15)||0.87||
+||Deutsche Bank (2019/3/14)||0.90||
+||Barclays Capital (2019/3/15)||1.00||
+||BoA Merrill Lynch (2019/3/18)||1.10||
+||Goldman Sachs (2019/3/18)||1.10||
+||HSBC (2019/3/18)||1.20||
+||Credit Suisse (2019/3/14)||1.40||
+
+
+**Excluding vegetables, fruit, and energy.
+
+Sources: DGBAS, Executive Yuan; forecasts by respective institutions.
+
+17
+
+
+-----
+
+##### Figure 1
+
+ Government Bond Yields of Selected Economies (2019/3/21)
+
+%
+
+##### 3.5
+
+ 3.0
+ 2.54 2.34
+ 2.5
+ 2.40
+ 1.99 1.87
+ 2.0
+ 1.84
+ 1.5
+
+ 1.0 0.81
+ 0.66
+ 0.52
+ 0.5
+ 0.08
+ 0.0 -0.16
+ -0.04 -0.16
+ -0.5 -0.53 -0.33 -0.33
+ -0.64 -0.76
+ -1.0
+
+**2-year bonds2年期** **5-year bonds5年期** **10-year bonds10年期**
+
+Sources: Bloomberg; Taipei Exchange; US Treasury Department.
+
+18
+
+
+**Taiwan**
+
+**Germany**
+
+**Japan**
+
+**Switzerland**
+
+
+-----
+
+##### Table 2
+
+ Real Interest Rates of Selected Economies
+
+Unit: %
+
+(1) (2) (3)=(1)-(2)
+
+Economies 1-year time deposit rate* CPI annual growth rate**
+
+**Real interest rate**
+
+(As of 2019/3/21) (2019 forecast)
+
+Malaysia 2.950 0.59 2.360
+
+Indonesia 4.750 2.99 1.760
+
+South Korea 1.500 0.32 1.180
+
+Thailand 1.500 0.78 0.720
+
+**Taiwan** **1.065** **0.91** **0.155**
+
+Singapore 0.700 1.08 -0.380
+
+**US** 1.390 1.95 **-0.560**
+
+**Japan** 0.010 0.62 **-0.610**
+
+Switzerland 0.000 0.62 -0.620
+
+UK 0.700 1.94 -1.240
+
+China 1.500 2.79 -1.290
+
+**Euro area** 0.050 1.44 **-1.390**
+
+Hong Kong 0.300 2.26 -1.960
+
+Philippines 0.500 3.32 -2.820
+
+- 1-year interest rates on small-amount deposits of selected major banks in respective economies,
+
+except for Taiwan, of which the figure is the 1-year time deposit floating rate of the five major
+
+domestic banks.
+
+** IHS Markit projections, as of March 15, 2019. Forecast for Taiwan's CPI annual growth rate is the
+
+CBC's projection.
+
+19
+
+|Economies|(1) 1-year time deposit rate* (As of 2019/3/21)|(2) CPI annual growth rate** (2019 forecast)|(3)=(1)-(2) Real interest rate|
+|---|---|---|---|
+|Malaysia|2.950|0.59|2.360|
+|Indonesia|4.750|2.99|1.760|
+|South Korea|1.500|0.32|1.180|
+|Thailand|1.500|0.78|0.720|
+|Taiwan|1.065|0.91|0.155|
+|Singapore|0.700|1.08|-0.380|
+|US|1.390|1.95|-0.560|
+|Japan|0.010|0.62|-0.610|
+|Switzerland|0.000|0.62|-0.620|
+|UK|0.700|1.94|-1.240|
+|China|1.500|2.79|-1.290|
+|Euro area|0.050|1.44|-1.390|
+|Hong Kong|0.300|2.26|-1.960|
+|Philippines|0.500|3.32|-2.820|
+
+
+-----
+

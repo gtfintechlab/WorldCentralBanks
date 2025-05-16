@@ -1,0 +1,175 @@
+# Minutes of a Meeting of the Board of Directors of Banco de la República
+ Held on October 26, 2012
+
+ A regular meeting of the Board of Directors of Banco de la República was held in the city of Bogotá D.C. on October 26, 2012.  In attendance were Mr. Mauricio Cárdenas Santamaria, Minister of Finance and Public Credit, Mr. José Darío Uribe, Governor and Managing Director of Banco de la República, and the full-time co-directors Messrs. Fernando Tenjo, Carlos Gustavo Cano, Juan José Echavarría, Juan Pablo Zárate and César Vallejo. Inflation and the economic situation were discussed with respect to growth and prospects for the future, and monetary-policy decisions were reached.  
+
+ 1. BACKGROUND
+
+ a. Recent Development in Inflation 
+
+ Annual consumer inflation was 3.08% in September. This represents a
+ slight decline compared to the month before. The change in the CPI for the year to September was 2.32%, which is significantly less compared to the same period in 2011 (2.95%). The slight downturn in total inflation was concentrated in the food CPI. 
+
+ The annual variation in the food CPI fell by 40 bp to 3.7% last month. A
+ downward trend in this rate has been observed for a year, given the favorable performance of perishable food prices. 
+
+ As for the non-food CPI, the largest rise was in the regulated CPI
+ (3.1%), which was up by 18 bp compared to the August rate. This performance is attributed mainly to the change in fuel prices and to the increase in electricity rates. The annual variations in the other components of this index – public utilities and urban public transportation – declined. 
+
+1
+
+
+-----
+
+# In September, the CPI for tradables (1.09%) and non-tradables (4.02%)
+ also showed larger annual variations. In the first case, the 12 bp rise compared to the month before was largely due to higher air fares and car prices. As for non-tradables, the build-up of 8 bp with respect to the annual variation the month before was concentrated in rentals, at 3.9%, which is the highest rate since late 2010. 
+
+ The average of the four indicators tracked by Banco de la República
+ came to 3.16% last month, as opposed to 3.12% in August. The annual variation in the overall PPI at September was 0.13%, which is similar to the rate in August. The imported PPI stayed in negative terrain, partly because of stability in the exchange rate, while the PPI for goods produced and consumed in the country is positive, but very low. 
+
+ The past month saw no major changes in the various measurements of
+ inflation expectations. According to the monthly survey of market operators, inflation is expected to be de 3.1% at the end of this year and 3.2% by September 2013. On the other hand, the quarterly business survey conducted at the start of October shows 3.4% expected inflation for December and at twelve months. Finally, the measurements derived from TES at two, three and five years converged at 3%.
+
+ b. Growth
+
+ The indicators of supply and demand for the third quarter reflect mixed
+ signals. However, the most relevant data suggest economic activity slowed during that period compared to the first half of the year. 
+
+ On the demand side, the indicators for retail sales, automobile sales and
+ confidence levels are evidence that household consumption is less dynamic.  According to DANE, retail sales in August grew at an annual rate of 1.2%, down from 1.4% in July and 4.0% in June. Part of this slowdown was explained by the drop in sales of cars and motorcycles (-3.7% annual). In fact, retail sales excluding cars and fuel were up by an annual rate of 2.5%.  Consumer confidence levels during the third quarter were less than in the second. The recovery in the consumer confidence index in September did not offset the declines registered during the two previous months. With this recent development, the downward trend observed in the indicator since early 2012 continues. 
+
+2
+
+
+-----
+
+# However, other variables suggest the slowdown in overall household
+ spending might not be so pronounced. On the one hand, imports in dollars during July and August for the consumer sector posted respective annual increases of 12.9% and 11.9%.  Furthermore, family income has not been affected, judging by the good performance of employment, especially salaried jobs, which rose at an annual rate of 6.8%, and by an inflation rate near the middle of the target range. Consumer lending has slowed, but continues to grow at high rates, together with real interest rates that are at the average calculated since 2000. 
+
+ As for investment, the figures on hand indicate the momentum observed
+ during the second quarter could hold. Imports of capital goods for industry accelerated in the July-August average compared to the average on record for April-June. However, imports of capital goods for agriculture and imports of transport equipment saw declines in July and August. 
+
+ Total exports in dollars were down in August at an annual rate of 9%
+ (not including re-exports of aircraft; when these are included, the annual variation is -7.6%). This was mainly because mining exports dropped by 14.6%, since agricultural and industrial and “other” exports registered annual increase of 2.7% and 5.8%, in that order.  In the case of mining products, the items that declined were petroleum and derivatives (-2.9% annual) and coal (- 55% annual). The increase in exports of agricultural products is explained by the rise coffee export values (15% annual), since exports of bananas and flowers fell at respective annual rates of 14% and 3%.
+
+ On the supply side, the indicators available for industry continue to
+ reflect weak performance. The annual variation in the IPI, without coffee processing, was -1.9% for the month of August. Part of this performance is explained by less external demand due to the weak global economy. In Colombia, as in other countries, the reduced growth in exports and industrial production mirrors the lack of strength in the global economy. 
+
+ Moreover, according to Fedesarrollo, industrial confidence continued to
+ deteriorate in August. Something similar happened with production expectations three months out. The industrial inventory indicator (which is counter-cyclical) showed an upward trend, but is still at a low level. The volume of industrial orders continued to decline. All of this suggests low growth in this sector during the next few months. Even so, industrial demand for deregulated energy, which is highly correlated with the IPI, rose in
+
+3
+
+
+-----
+
+# September at an annual rate of 3.4% (2.4% in August), so industrial production could have accelerated that month. In the case of commerce, according to the Fedesarrollo survey for August, merchants saw their economic situation improve slightly, while expectations at six months remained stable. Even so, the trend continues to suggest growth in the sector will slow during the coming months. A similar conclusion can be drawn from the Fenalco survey. 
+
+ Some of the figures associated with the agriculture and mining sectors
+ have improved in recent months. Coffee production between July and September is a case in point. According to the Federation of Coffee Growers, it experienced an annual increase of 20%. The Ministry of Mines and Energy reports oil production in September amounted to 956 thousand barrels a day, which is more than in the previous three months (927 MBD). 
+
+ Despite the signs of deceleration, growth during the coming quarters
+ will continue to be propelled by internal demand. A healthy financial system, household confidence and a dynamic job market will continue to support the increase in consumption. At the same time, commodity prices, confidence levels, the availability of internal and external financing, and foreign direct investment will contribute to investment growth. Consequently, the forecast range for economic growth in 2012 as a whole is between 3.7% and 4.9%. 
+
+ c. Financial Variables 
+
+ Bank lending (in DC and FC) posted 16.1% annual growth in
+ September, down from the month before (16.4%) and compared to June of this year (17.5%).
+
+ The commercial and household loan portfolios continued to slow during
+ the third quarter. The annual increase in commercial loans in domestic currency went from 16.6% to 14.4% between June 29 and October 5, while commercial lending in foreign currency rebounded slightly, although a consolidated trend has yet to be observed.  For its part, the annual growth in consumer lending during the quarter went from 21.2% to 19.1%, while the annual increase in mortgage lending declined from 16.0% to 15.4% during the same period.
+
+ In September, the real interest rates (discounting the non-food CPI) on
+ consumer, mortgage, ordinary commercial and preferential lending were
+
+4
+
+
+-----
+
+# 15.7%, 10.0%, 8.8% and 5.8%, in that order. These rates are below the respective averages calculated since 2000. 
+
+ d. The External Context 
+
+ The latest figures show Europe continues to contract and the United
+ States is experiencing moderate growth. In the emerging markets, the highlights are the slowdown in China and other Southeast Asian economies, because their exports and industrial production have weakened. In Latin America, with the exception of Brazil, the pace of growth in the larger economies has remained at a good level, thanks to the buoyancy in internal demand. 
+
+ In the euro zone, industrial production and retail sales continue to
+ decline in annual terms. Similarly, the deterioration in consumer and industrial confidence indexes persists, while the unemployment rate is high and shows no signs of getting better. Nevertheless, conditions on the financial markets and with respect to government debt have improved compared to the previous quarter, thanks partly to the announcements by the European Central Bank on unlimited purchases of sovereign bonds (OMT). This plan was well-received by the markets, boosting agents’ confidence. 
+
+ In the case of the United States, economic growth continues at a
+ moderate pace and was 2% in the third quarter, despite less external demand. Some housing and job market indicators have improved. Industry has slowed, but indicators of sentiment have begun to recover. As for demand, household consumption continues to increase and confidence has recovered. The moderation in export growth persists, given added external weakness. In a context of low inflationary pressures, weak demand and the perception of risk in view of the European situation, monetary authorities in the United States announced they would keep interest rates low until at least 2015. The greatest risk to the US economy in the near future is on the fiscal front. 
+
+ In China,  as in other Asian countries, one sees a similar pattern of
+ slowing growth in exports, industrial activity and retail sales, which gradually is beginning to be mirrored in a slower rate of economic activity. In the case of China, the reduction in growth was accentuated by monetary policy measures intended to lessen internal demand as a way to prevent inflationary pressures. 
+
+5
+
+
+-----
+
+# In Latin America, although export growth has slowed significantly in
+ countries such as Chile, Peru, Mexico, Venezuela and Ecuador, the pace of its expansion remains favorable. The decline in external activity has been offset by the force of domestic demand, which has allowed output in several cases to grow to a level near its potential.
+
+ Despite the slowdown in the global economy, international oil prices
+ remain high due to added geopolitical tensions in the Middle East and North Africa. Food prices have declined in recent weeks, as the weather at mid-year returned to normal. In this context, global inflation is still within tolerable ranges. This fact, coupled with weak economic growth, has allowed central banks, especially those in the developed economies, to maintain a highly expansive monetary policy. 
+
+ International financial conditions have improved in recent weeks, partly
+ because of the policy actions of the world’s major central banks. Volatility is down and the prices of some assets have increase. Nevertheless, there is still a great deal of uncertainty associated with the problems facing public finances and private banks in some of the advanced economies. Consequently, the downside risks to global growth continue. 
+
+ 2. DISCUSSION AND POLICY OPTIONS 
+
+ The Board of Directors considered the following factors in its
+ deliberations.
+
+ (i) The indicators of economic activity in the third quarter of 2012 confirm the weakness of the global economy. Europe continues to contract and the United State is growing at a moderate pace. The slowdown observed in some of the larger emerging market economies appears to be stabilizing. In this context and without inflationary pressures, one can expect the external interest rate to remain low for a prolonged period of time. Moreover, despite less global growth, international prices for oil and other commodities remain high. 
+
+ (ii) International financial conditions have improved, partly because of the policy actions of the world's major central banks. Volatility has declined and the prices of some assets have increased. Even so, there
+
+6
+
+
+-----
+
+# is still a great deal of uncertainty associated with the problems facing public finances and banks in some of the advanced economies. 
+
+ (iii) In Colombia, as in other countries, less growth in exports and
+ industrial production is a reflection of the weakness of the global economy. Terms of trade remain high and are stimulating national revenue.  
+
+ (iv) Despite the signs of deceleration, growth during the coming quarters will continue to be driven by internal demand. A healthy financial system, household confidence and a dynamic job market will continue to support the rise in consumption. For their part,  commodity prices, confidence levels, the availability of internal and external financing, and foreign direct investment will contribute to investment growth.  
+
+ (v) Growth in lending continues to slow, and the new and used housing price indexes are at historically high levels. 
+
+ (vi) Inflation, the average of the core inflation indicators and inflation expectations are very close to the middle of the target range (3%). 
+
+ (vii) A deep recession in Europe is still the greatest risk to the country’s
+ economic activity. The likelihood of its occurrence appears to have declined, thanks to the actions of the European authorities and the reaction of the markets on that continent. 
+
+ Some Board members suggested keeping the benchmark interest rate
+ unchanged, arguing the slowdown in economic activity reflected in the figures began at a point where aggregate expenditure had surpassed the economy’s productive capacity. GDP growth in 2012 will be satisfactory, considering the international situation and the fact that GDP is near its potential level. Measurements of core inflation and inflation expectations are near the long- term target (3%). They also felt the vigor of domestic demand, stimulated by investment in construction and civil works and by terms of trade, among other factors, will continue to fuel national revenue and employment. Housing prices continue to increase at high rates and lending has slowed, but is still growing at a fair pace. These variables also must be considered when defining the country’s monetary stance, so as to minimize the risks of future imbalances in them.
+
+7
+
+
+-----
+
+# Other members believe there is room to lower the intervention interest
+ rate, since a good monetary policy rests on the ability to anticipate and because inflation and inflation expectations continue to converge toward the midpoint of the long-term target range. The foregoing is in a context of weak global economic activity due to a stronger and more prolonged recession in Europe and slow economic growth in the United States and several emerging countries, which makes the Colombian economy vulnerable, given the make- up of its export sectors. Moreover, indicators of internal demand, consumption, consumer confidence, lending and industry signal the economy has been slowing.
+
+ 3. POLICY DECISION 
+
+ According to its assessment of the current risk balance, the Board of
+ Director of Banco de la República, by a majority, considered it appropriate to hold the intervention interest rate at 4.75%. Future monetary policy action will be determined by new information concerning the course of events in the developed countries and their impact on confidence, global demand and international commodity prices, and also by information on the situation within Colombia. 
+
+ The Board of Directors reiterated that Banco de la República has
+ enough tools and resources to meet the economy’s regular liquidity the needs in domestic and foreign currency and those that might arise in an environment of international financial turbulence. 
+
+ The Board of Directors will continue to keep a close eye on
+ performance and projections for economic activity and inflation in Colombia, in asset markets and with respect to the international situation. Finally, it repeated that monetary policy will hinge on whatever new information becomes available.
+ Bogotá D.C. - November 9, 2012
+
+8
+
+
+-----
+

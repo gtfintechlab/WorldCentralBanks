@@ -1,0 +1,127 @@
+**N** **a** **t** **i** **o** **n** **a** **l** **B** **a** **n** **k** **o** **f** **P** **o** **l** **a** **n** **d**
+
+M o n e t a r y P o l i c y C o u n c i l
+
+# MINUTES OF THE MONETARY POLICY COUNCIL DECISION-MAKING MEETING HELD ON 7 MARCH 2012 
+
+At its meeting, the Monetary Policy Council discussed the current and future monetary policy
+decisions against the background of external and domestic macroeconomic developments, including
+inflationary processes and the NBP’s March projection of inflation and GDP.
+
+While referring to the external conditions of the Polish economy, some members of the Council
+indicated that the recently published favourable data on the US and euro area economy supported
+optimistic sentiment in the global financial markets. Few members of the Council also pointed out
+that considering the current data, economic slowdown in the euro area might turn out less
+pronounced than previously expected.
+
+Other members of the Council emphasized that problems related to the fiscal crisis in the euro area
+had not been solved yet, and implementation of the fiscal package would be a long-term process.
+This means that should fiscal problems in some euro area countries escalate again, improved
+sentiment in the financial markets might prove short-lived and the outlook for economic growth in
+the euro area worse than currently anticipated. As regards the outlook for economic growth, those
+members of the Council drew particular attention to the lack of prospects for revival in lending by
+European banks despite a considerable liquidity provision by the European Central Bank.
+
+While discussing the monetary policy of major central banks, members of the Council pointed to
+their continued monetary expansion through increasing liquidity provision to the financial system,
+even though inflation in the United States, the euro area and Great Britain is running markedly
+above the target. In the opinion of some Council members, expansionary monetary policy will fuel
+price pressure.
+
+Data on economic activity in Poland, including data on output, retail sales and corporate lending,
+indicate that GDP growth in 2012 Q1 may continue at a relatively high level. At the same time,
+however, members of the Council emphasized that according to the forecasts for subsequent
+quarters, considering the relatively low level of most leading economic indicators, domestic
+economic growth, and, in particular, consumption are to weaken. It was also pointed out that
+consumption weakening may be partly driven by the observed lower lending to households.
+Moreover, some members of the Council indicated that the appreciation of the zloty exchange rate,
+affecting primarily import volume, would lead to lower contribution of net exports to GDP growth.
+
+Few members of the Council emphasized that in line with the NBP’s March projection, despite the
+forecast considerable slowdown in domestic economic activity, output gap might remain positive
+till the end of projection horizon. Likewise, throughout the projection horizon unemployment rate
+was supposed to run below the equilibrium unemployment rate as estimated in the NECMOD
+model. However, other members of the Council emphasized that both potential output and
+equilibrium unemployment rate were non-observable variables, and therefore their estimates as well
+as conclusions regarding the condition of the economy based on them should be read with caution.
+
+While addressing the situation in the labour market, members of the Council pointed out that the
+January data on employment and wages in the enterprise sector might be considerably distorted by
+temporary factors. Some members of the Council assessed that the persistently elevated
+unemployment had a mitigating effect on wage pressure, and, consequently, inflationary pressure.
+
+0 0-919 Warszawa u l Ś wi ę to krzys ka 1 1 /2 1 tel (22 ) 653 2 8 88 fax (22) 653 1 3 28
+
+
+-----
+
+Other members of the Council argued that moderate wage growth in the recent period, combined
+with heightened inflation observed for more than a year now, increasing household maintenance
+costs, posed a risk of higher wage pressure. Few members of the Council also claimed that the
+observed moderate wage growth had been largely driven by rising labour supply, and, the
+anticipated halting of labour supply growth might consequently add to wage pressure.
+
+While analysing the inflationary developments, some members of the Council emphasized that
+decline in January inflation was more pronounced than had been forecast, and in the absence of
+zloty depreciation, inflation might be expected to decrease further by the end of the year. Those
+Council members also pointed to lowering core inflation in January 2012.
+
+Other members of the Council indicated, however, that despite some decline, inflation continued to
+run considerably above the target as well as above the upper limit for deviations from the target, and
+in line with the NBP’s March projection, inflation was also likely to remain above 3.5% in a oneyear horizon. Moreover, in comparison with the November 2011 projection, the period during
+which inflation is forecast to remain at a heightened level had been extended. Those members of the
+Council additionally emphasized that by the end of the projection horizon, core inflation was also to
+continue at a relatively high level. In the opinion of those Council members, growth in the prices of
+energy commodities in the global markets and the effects of implementing the EU climate and
+energy package continue to be risk factors for a marked decrease in inflation. Those Council
+members also indicated that it was difficult to assess the likelihood of reductions in VAT rates in
+2014.
+
+Some members of the Council argued that interest rates were currently at a relatively low level,
+considering the macroeconomic situation in Poland, and even assuming for the possibility of a
+decline in the natural interest rate driven by the global financial crisis. Those Council members also
+assessed that high growth in monetary aggregates pointed to a merely slight decline in the natural
+interest rate in Poland. In the opinion of those Council members, low interest rates posed a risk of
+rising inefficiency in the economy.
+
+Yet, other members of the Council indicated that amidst growing monetary expansion abroad,
+keeping the NBP interest rates unchanged, additionally accompanied by a rise in WIBOR 3M rate
+in October 2011, and zloty appreciation at the beginning of the year, would mean a relative
+tightening of monetary policy in Poland.
+
+While discussing the decision on the NBP interest rates, members of the Council agreed that, given
+the heightened uncertainty about the global and domestic economic developments, it was justified
+to keep NBP interest rates unchanged at the current meeting. As regards future monetary policy
+decisions, the majority of the Council members maintained their view that NBP interest rates
+increase in the subsequent months could not be ruled out.
+
+Some members of the Council argued that – should the expected economic slowdown in Poland
+prove less pronounced than previously anticipated and, consequently, should the prospects of
+inflation returning to the target fail to improve – keeping the NBP interest rates unchanged could be
+conducive to both inflation expectations and inflation persisting at the elevated levels.
+
+At the same time, in the opinion of few members of the Council, a possible rise in the NBP interest
+rates in the subsequent months – amidst the expected weakening of economic activity abroad and in
+Poland – posed a risk that such monetary policy tightening would lead to an excessive weakening of
+demand in the Polish economy. Some members of the Council assessed that the NBP interest rates
+should be increased if the already visible decline in inflation was proceeding too slowly. In the
+opinion of those Council members, a decision to increase the NBP interest rates, if any, should
+depend on the pace of inflation decline in subsequent months and performance of the real sphere of
+the Polish economy.
+
+
+-----
+
+On the other hand, few members of the Council indicated that considering the NBP’s March
+projection of inflation and its balance of risks, in mid-2013 inflation should come close to the target
+and in 2014 it should run markedly below the target. Thus, the NBP interest rates increases might
+not be justified.
+
+The Council decided to keep the NBP interest rates unchanged at the following levels: reference
+rate at 4.50%, lombard rate at 6.00%, deposit rate at 3.00% and rediscount rate at 4.75%.
+
+_Publication date: 22 March 2012_
+
+
+-----
+

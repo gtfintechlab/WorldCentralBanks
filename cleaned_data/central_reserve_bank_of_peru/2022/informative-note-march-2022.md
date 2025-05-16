@@ -1,0 +1,65 @@
+**PRESS RELEASE**
+
+**MONETARY POLICY STATEMENT MARCH 2022**
+
+**BCRP RAISES THE REFERENCE RATE TO 4.0%**
+
+1. The Board of Directors of the Central Reserve Bank of Peru (BCRP) decided to raise the
+
+reference interest rate by 50 bps to 4.0 percent, thus continuing to normalize its monetary
+policy stance. This decision takes into account the following developments:
+
+i. Year-on-year inflation was 6.15 percent in February, temporarily above the target range
+
+due mainly to a surge in international food and fuel prices, as well as exchange rate
+depreciation. Year-on-year core inflation was 3.26 percent in February, above the upper
+limit of the target range.
+
+ii. With the significant increase in international energy and food prices so far this year,
+
+recently accentuated by international conflicts, inflation is expected to return to the
+target range in the first half of next year. The downward path of year-on-year inflation
+would begin in July of this year, as transitory pressures (exchange rate and international
+fuel and grain prices) recede, with economic activity below potential.
+
+iii. One-year-ahead expected inflation for 2022 increased from 3.73 percent to 3.75 percent,
+
+above the upper limit of the inflation target range.
+
+iv. Most indicators of expectations for economic activity remained in pessimistic territory in
+
+February.
+
+v. Global economic activity is improving, although at a slower pace due to the impact of
+
+COVID-19, persistent bottlenecks in the global supply of goods and services, and
+uncertainty in the pace of reversal of monetary stimulus in advanced economies.
+However, recent international conflicts have increased uncertainty in the recovery of the
+world economy and in the magnitude of upward pressures on commodity prices.
+
+2. The Board is particularly attentive to new information on inflation expectations and economic
+
+activity, with an aim to consider, if necessary, changes in the monetary stance so that inflation
+returns to the target range over the forecast horizon. In a context of uncertainty, financial
+volatility persists, with BCRP policies aiming at mitigating it.
+
+3. The Board also decided the following interest rates on its window facility operations in domestic
+
+currency with financial entities:
+
+i. Overnight deposits: 2.50 percent per year.
+ii. Direct security/currency repo and rediscount operations: i) 4.50 percent per year for the first
+
+10 operations in the last 3 months that a financial institution carries out since March 11, 2022;
+and ii) the interest rate set by the Monetary and Exchange Operations Committee for
+operations in addition to these 10 operations in the last 3 months. In addition, the Monetary
+and Exchange Operations Committee may establish higher rates based on the amount of
+the operations.
+
+4. The BCRP Board’s next monetary policy session will take place on April 7, 2022.
+
+Lima, March 10, 2022
+
+
+-----
+

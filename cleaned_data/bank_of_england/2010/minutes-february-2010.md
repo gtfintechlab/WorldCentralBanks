@@ -1,0 +1,615 @@
+### Publication date: 17 February 2010
+
+## MINUTES OF THE 
+# MONETARY POLICY COMMITTEE MEETING
+## 3 AND 4 FEBRUARY 2010
+
+##### These are the minutes of the Monetary Policy Committee meeting held on  3 and 4 February 2010.
+
+ They are also available on the Internet http://www.bankofengland.co.uk/publications/minutes/mpc/pdf/2010/mpc1002.pdf
+
+ The Bank of England Act 1998 gives the Bank of England operational responsibility  for setting interest rates to meet the Government’s inflation target. Operational  decisions are taken by the Bank’s Monetary Policy Committee. The Committee meets  on a regular monthly basis and minutes of its meetings are released on the  Wednesday of the second week after the meeting takes place. Accordingly, the  minutes of the Committee meeting to be held on 3 and 4 March will be published on 17 March 2010.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 3 AND 4 FEBRUARY 2010
+
+1 Before turning to its immediate policy decision, and against the background of its latest
+
+projections for output and inflation, the Committee discussed financial market developments; the
+
+international economy; money, credit, demand and output; and supply, costs and prices.
+
+**Financial markets**
+
+2 Weaker-than-expected macroeconomic data, including the preliminary release of UK GDP for
+
+the fourth quarter of 2009, had contributed to a decline in near-term sterling interest rate expectations
+
+over the month. Overnight index swap (OIS) rates twelve months ahead had fallen by around 25 basis
+
+points since the previous MPC meeting, and by almost 40 basis points since the Committee’s
+
+November 2009 Inflation Report projections had been finalised. Medium and longer-term interest
+
+rates had also fallen slightly, partly unwinding the increases seen in previous months.
+
+3 Yields had also fallen in the United States and on some euro-area government bonds. But the
+
+variation in yields on government debt across countries within the euro area had increased, reflecting
+
+ongoing concerns about the fiscal positions in some euro-area countries, particularly Greece. Those
+
+concerns appeared to have contributed to a generalised depreciation of the euro: its effective exchange
+
+rate index (ERI) had fallen over 2½% on the month. As a consequence, the sterling ERI had
+
+appreciated slightly.
+
+4 Equity prices had fallen internationally, although those movements had been small by
+
+comparison with the considerable increase in prices since their March 2009 troughs. It was possible
+
+that market participants had focused on the potential for Asian activity to be restrained by policy
+
+tightening following the increase in banks’ reserve requirements in China. Consistent with that,
+
+commodity prices had also fallen during the month: industrial metals prices had declined by almost
+
+15% and the Brent oil price by around 8% in dollar terms. Another possible trigger was the
+
+announcements by US authorities about possible regulatory reform.
+
+
+-----
+
+2
+
+5 By contrast, sterling corporate bond prices had risen during the month, with spreads over
+
+government bond yields narrowing further. UK corporate bond issuance had been strong in January.
+
+And there had been some positive news on bank funding conditions: January had seen record levels of
+
+issuance of unguaranteed and unsecured senior UK bank debt, and there had been another issue by a
+
+UK bank of a residential mortgage-backed security to private markets. Nonetheless, banks continued
+
+to face a significant challenge in replacing funding that matured over the next few years, including that
+
+supported by the official sector. Market intelligence indicated that strong cash inflows combined with
+
+low official interest rates may have led some asset managers to seek out higher yielding investments in
+
+recent months.
+
+**The international economy**
+
+6 Indicators during the month had generally pointed to a further strengthening of global activity,
+
+particularly in the manufacturing sector, in which the post-crisis fall in global output had been
+
+concentrated. According to the World Bank, global industrial production had increased at an
+
+annualised pace of more than 12% in the third quarter of 2009. The JP Morgan global manufacturing
+
+purchasing managers’ index (PMI) rose a further 1.5 points in January, to 56.1, consistent with
+
+reasonably brisk output growth at the turn of the year. And the Netherlands Bureau for Economic
+
+Policy Analysis measure of world goods trade had increased in November for the third consecutive
+
+month.
+
+7 Activity in emerging Asia had led the ongoing global recovery. In China, GDP in the fourth
+
+quarter of 2009 was estimated to have grown by 10.7% compared with a year earlier. Although
+
+official estimates of quarterly growth rates were not available, that probably implied a similar pace of
+
+quarterly expansion as in the third quarter.
+
+8 In the United States, the recent strength of manufacturing output growth was reflected in the
+
+GDP data for the fourth quarter of 2009: GDP was estimated to have grown by 1.4%, with a sizable
+
+boost from a reduction in the pace of de-stocking. Final domestic demand had also grown, and
+
+included a pickup in non-residential investment.
+
+9 The euro-area recovery had remained more subdued, with the manufacturing PMIs providing a
+
+reminder of the varied prospects for different countries within the area: the index levels in Germany,
+
+
+-----
+
+3
+
+France and Italy had risen further above 50, indicating economic expansion, but continued to point to
+
+falling activity in Greece, Ireland, and Spain. While the fiscal position in Greece did not appear to be a
+
+direct concern for the United Kingdom, it had the potential to trigger problems in some other countries
+
+and to damage a still fragile banking sector.
+
+10 Excluding the effects of movements in volatile energy and food prices, consumer price inflation
+
+had fallen by just over half a percentage point in both the United States and euro area over the past 18
+
+months. The recent decline in Japanese inflation had been more pronounced, likely reflecting the
+
+impact of the appreciation of the yen. These declines in inflation had appeared modest by comparison
+
+with the sizable reductions in output that had occurred around the world, and the margin of spare
+
+economic capacity that implied.
+
+**Money, credit, demand and output**
+
+11 M4, excluding the money holdings of institutions that intermediate funds between banks, had
+
+remained weak in December: the three-month annualised growth rate stood at -0.5%. As in recent
+
+months, that weakness had been concentrated in the money holdings of other non-bank financial
+
+companies – primarily institutional investors and securities dealers. That may in part have reflected
+
+the impact on their monetary holdings of purchases of banking sector long-term debt and equity
+
+securities. By contrast, the three-month annualised growth of non-financial companies’ money
+
+holdings remained above 6%. That might indicate improved prospects for business spending over the
+
+coming quarters.
+
+12 The latest data for 2009 Q3 indicated that nominal GDP had begun to expand again, at a
+
+quarterly pace of 1.1%. Taken at face value, these data were promising given that the objective of the
+
+accommodative stance of monetary policy, including the MPC’s asset purchase programme, was to
+
+increase nominal demand sufficiently to meet the inflation target. It was, however, possible that the
+
+increase in nominal demand was being absorbed by higher prices, and lower real output, than the
+
+Committee had anticipated.
+
+13 According to the preliminary estimate, real GDP had increased by 0.1% in the fourth quarter.
+
+That was weaker than the Committee’s central expectation at the time of the November 2009 Inflation
+
+_Report. There were several potential explanations for the apparent sluggishness of the recovery in the_
+
+
+-----
+
+4
+
+second half of 2009. First, although the ONS estimates were the single best source of information, it
+
+was nonetheless possible that output had expanded somewhat more rapidly than the current vintage of
+
+the official data had suggested. That would be consistent with the more positive signals from some
+
+business surveys, the relative resilience of the labour market, and evidence of a recovery in retail
+
+spending, car registrations and the housing market.
+
+14 Second, the headwinds facing the economy might have been more powerful than previously
+
+assumed. Credit conditions had remained tight, and bank lending weak. A desire to strengthen
+
+household balance sheet positions may have restrained consumer spending. If these were the sources
+
+of weakness in spending, then that weakness would likely persist for some time. The recent recovery
+
+in the housing market, however, might indicate that households’ concerns over the strength of their
+
+balance sheets were diminishing. According to the latest data, the average of the lenders’ house price
+
+indices had increased by 0.9% in January and by 10% since the trough in April 2009.
+
+15 Third, it was possible that businesses and households had temporarily delayed spending and
+
+increased saving in response to the high degree of current economic uncertainty. If that were the case,
+
+then spending might accelerate over time as economic uncertainty lessened and confidence returned.
+
+Having fallen dramatically during 2008, survey measures of consumer confidence had begun to
+
+normalise.
+
+16 Developments in the export and manufacturing sectors were a fourth potential explanation for
+
+the relative sluggishness of recent activity in the United Kingdom. A notable feature of the global
+
+recovery had been substantial increases in world trade and manufacturing output. But the level of UK
+
+manufacturing output had been broadly unchanged since the beginning of 2009, and export volumes
+
+had seemingly not yet been significantly boosted by sterling’s depreciation. The latest survey data
+
+indicated that businesses’ export orders and optimism had recovered recently, so it was possible that
+
+some revival of exports and manufacturing output was in prospect. But there was a risk that export
+
+growth might be restrained if the same headwinds that were buffeting the UK economy limited growth
+
+in the United Kingdom’s major trading partners. It was also possible that the demand for some UK
+
+exports, for instance of financial services, would not recover for some time. Separately, the weakness
+
+of net trade so far partly reflected the limited degree of expenditure switching towards domestically
+
+produced goods and services by UK consumers and businesses in response to sterling’s depreciation.
+
+
+-----
+
+5
+
+**Supply, costs and prices**
+
+17 According to the LFS measure, employment had fallen by 14,000 in the three months to
+
+November compared with the previous non-overlapping quarter. The unemployment rate had
+
+remained stable at 7.8%. As in previous months, the aggregate change in employment masked a larger
+
+fall in the number of full-time jobs, partly offset by an increase in part-time working. But the pace at
+
+which full-time employment was falling had been moderating since the summer of 2009. And the rate
+
+at which unemployed workers were finding employment had picked up. Overall, the employment data
+
+remained more resilient than might have been expected given the scale of the decline in recorded GDP.
+
+In addition, the corporate liquidation rate had been low relative to the fall in aggregate activity. And
+
+monthly data suggested that the level of corporate liquidations may have fallen back in the second half
+
+of 2009.
+
+18 Against the background of a substantial, and growing, margin of spare capacity, it was notable
+
+that CPI inflation outturns had tended to surprise to the upside during the past year. CPI inflation had
+
+increased by 1 percentage point to 2.9% in December – chiefly the result of higher petrol price
+
+inflation and the effects of the reduction in the standard rate of VAT a year earlier dropping out of the
+
+twelve-month comparison. It was likely that inflation had risen further in January, as the standard rate
+
+of VAT had been restored to 17.5%. Inflation was likely to remain above the target for some months
+
+at a time when monetary policy was exceptionally accommodative. There was a risk that this might
+
+cause inflation expectations to rise. Survey measures of inflation expectations had so far moved little,
+
+however. The Citigroup/YouGov survey measures of households’ near and medium-term inflation
+
+expectations had ticked up in January. But they remained well below the levels seen during 2008,
+
+when energy prices caused CPI inflation to rise sharply above the target.
+
+19 Excluding food and energy prices, and abstracting from the effects of changes to the VAT rate,
+
+CPI inflation had been broadly stable since the beginning of 2009. That was most likely because the
+
+upward pressure on firms’ imported costs and prices from sterling’s depreciation had acted to
+
+counterbalance the downward pressure on inflation from the margin of spare capacity. But it was
+
+difficult to judge the size of the impact of each of those two forces. Other advanced economies,
+
+including those that had not experienced significant currency depreciations, had also seen inflation
+
+hold steadier than might have been expected given the reduction in activity. This suggested that there
+
+might be other common factors helping to offset the downward impetus to inflation from weak
+
+
+-----
+
+6
+
+demand. A smaller effect of a given change in demand on inflation had been observed across the
+
+major economies even prior to the crisis.
+
+20 There were probably some factors that had moderated companies’ willingness to lower prices in
+
+order to boost sales, reducing the impact of a given degree of spare capacity on inflation. In the light
+
+of credit constraints and uncertain future revenues, some companies may have been reluctant to cut
+
+prices in order to protect their near-term cash flows. And, for some companies, the combination of the
+
+sharp reduction in global trade over the past 18 months and the depreciation of sterling may have
+
+reduced competitive pressures. This, or other factors, may have lengthened the lag between the
+
+emergence of spare capacity and its impact on companies’ pricing behaviour. If that were the case,
+
+inflation might be expected to fall back reasonably sharply in the medium term.
+
+21 The Committee also considered the possibility that the degree of spare capacity was influenced
+
+by businesses’ expectations of, or uncertainty over, future demand growth. In order to protect their
+
+profit margins in the short term, some companies may have made temporary changes to the scale of
+
+their operations. If demand picked up sustainably in the near term, then currently under-utilised staff
+
+and production lines could be quickly re-employed, limiting any resulting upward pressure on prices.
+
+Absent such a pickup, those reductions in the scale of businesses operations might become permanent,
+
+resulting in capital scrapping, commensurately higher unemployment and the associated loss of
+
+workers’ skills and labour market attachment. In that case, such a loss of productive capacity might
+
+act to moderate the downward pressure on prices that would result from the weaker demand
+
+environment.
+
+22 Evidence on the degree of near-term inflationary pressure was mixed. Twelve-month producer
+
+output price inflation, which tended to lead consumer goods price inflation, had increased to 3.5% in
+
+December, from 2.9% in November. But private sector earnings growth remained exceptionally weak.
+
+According to the average weekly earnings data, private sector regular pay was virtually unchanged in
+
+the three months to November compared with a year earlier. And a survey by the Bank’s Agents
+
+indicated that pay settlements were likely to remain unusually low. The Agents’ pay surveys had been
+
+useful indicators of wage pressures in the recent past. Indicators of pricing pressure from the business
+
+surveys also remained subdued.
+
+
+-----
+
+7
+
+**The February GDP growth and inflation projections**
+
+23 The Committee reached its policy decision in the light of its projections to be published in the
+
+_Inflation Report on Wednesday 10 February. Activity would be underpinned over the forecast period_
+
+by the considerable stimulus from the easing in monetary policy, and supported by global growth and
+
+the past depreciation of sterling. But the economy would face major headwinds. It was likely that
+
+credit conditions would remain restrictive for some time and that the need to strengthen public and
+
+private sector finances would weigh on spending.
+
+24 The Committee judged that the balance between those substantial forces pointed to a gradual
+
+recovery in the level of economic activity. Overall, the projected distribution for growth was similar to
+
+that presented in the November 2009 Inflation Report. As in November, it was more likely than not
+
+that growth would be above its historical average in 2011 and 2012. While the most likely path for
+
+growth was somewhat weaker, some of the downside risks were judged to be smaller than in
+
+November.
+
+25 Output was likely to remain substantially below the level consistent with its pre-crisis trend for a
+
+considerable period. In large part that reflected the impact of the downturn on the supply capacity of
+
+the economy. But output was also judged likely to remain some way below capacity throughout the
+
+forecast period.
+
+26 CPI inflation was likely to remain significantly above the 2% target in the near term, reflecting
+
+the continuing impact of sterling’s depreciation and the restoration of the standard rate of VAT to
+
+17.5% in January. The outlook for inflation was somewhat higher in the near term than in the
+
+Committee’s November forecast. Inflation was then likely to fall back to below the target for a period,
+
+as the margin of spare capacity exerted increasing downward pressure on prices, and the effects of
+
+sterling’s depreciation and higher VAT waned.
+
+27 The extent to which CPI was expected to deviate from the 2% target in the medium term was
+
+highly uncertain. It would depend in part on: the timing and strength of the recovery in demand; how
+
+much further prices needed to adjust to the past depreciation of sterling; the degree to which supply
+
+capacity would be eroded by the recession; and the sensitivity of inflation to spare capacity in the
+
+medium term. The risks around the most likely path for inflation were judged to lie to the upside,
+
+
+-----
+
+8
+
+reflecting the possibility of further increases in commodity prices, and the risk that a sustained period
+
+of above-target inflation might cause inflation expectations to rise. But there were also risks that
+
+inflation could stay below the target for longer than on the most likely path.
+
+28 On balance, the Committee judged that, conditional on the assumption that Bank Rate followed a
+
+path implied by market interest rates and the stock of purchased assets financed by the issuance of
+
+central bank reserves remained at £200 billion throughout the forecast period, it was more likely than
+
+not that inflation would be below the target for much of the forecast period, but the risks were broadly
+
+balanced around the target by the end.
+
+**The immediate policy decision**
+
+29 During the month, the Bank had completed the MPC’s programme for purchases of £200 billion
+
+of assets financed by the issuance of central bank reserves. That stock of past asset purchases would
+
+continue to impart a substantial degree of monetary stimulus for some time to come. The completion
+
+of the previously announced purchase programme had resulted in little immediate impact on market
+
+yields, consistent with the fact that market participants almost uniformly expected the size of the asset
+
+purchase programme to be left unchanged at this MPC meeting.
+
+30 Economic activity was recovering, but only weakly. The monetary and real GDP data had been
+
+disappointing, although the latter might be understating the true pace of the economic recovery. But
+
+there were some positive indicators, too. While based on uncertain data, nominal demand was
+
+estimated to have recovered in the third quarter, the labour market was stabilising, and there was some
+
+survey evidence of a pickup in business and consumer confidence. Retail sales, car registrations and
+
+the housing market also pointed to a resumption of household spending and a recovery in confidence.
+
+And the global economy was continuing to recover, albeit less markedly in some of the United
+
+Kingdom’s main trading partners than elsewhere.
+
+31 Fundamentally, the economic outlook had changed little over the past few months. The
+
+medium-term headwinds to economic activity remained considerable. Although credit conditions
+
+appeared to have begun a slow process of normalisation, they would be likely to remain tight for some
+
+time. Meanwhile, the need to strengthen public and private sector balance sheets would weigh on
+
+spending. Opposing those headwinds was the stimulus from exceptionally accommodative monetary
+
+
+-----
+
+9
+
+policy, and the past depreciation of sterling. The interaction of those opposing forces implied
+
+significant uncertainty over the outlook for demand. The stabilisation of labour and asset markets, as
+
+well as of confidence indicators, suggested to the Committee that the likelihood of the worst downside
+
+risks had diminished.
+
+32 The evolution of the economy’s supply potential was also uncertain. It was difficult to judge the
+
+extent to which the financial crisis and ensuing recession had impaired the supply capacity of the
+
+economy and how lasting that impairment might be. The sensitivity of inflation to the margin of spare
+
+capacity during this recession might be low, because of both longer-term structural developments in
+
+the economy since previous recessions and the impact of economic uncertainty on businesses’ pricing
+
+decisions.
+
+33 A case could be made for increasing the degree of monetary stimulus at this meeting. The
+
+Committee’s February Inflation Report projection, conditioned on Bank Rate following market yields,
+
+indicated that CPI inflation was more likely than not to be below target for much of the three-year
+
+forecast period if the asset purchase programme was maintained at its current size of £200 billion. An
+
+expansion of the asset purchase facility could bring inflation back to target more quickly than
+
+otherwise. That could also further attenuate, beyond the measures already taken, damage to the supply
+
+capacity of the economy caused by the recession.
+
+34 But there were also arguments for leaving the scale of the asset purchase programme unchanged
+
+at this meeting. The February projections did not imply an overwhelming risk of inflation being below
+
+the target over the forecast period, and so did not suggest an immediate need for a further relaxation of
+
+the policy stance. Indeed, given the exceptional degree of uncertainty over how the economy would
+
+evolve, there was little merit in attempting to fine-tune monetary policy in the hope of achieving
+
+comparatively small changes to the future path of inflation. Furthermore, CPI inflation was currently
+
+above the target, and the near-term outlook was for it to increase further. Consequently, there was a
+
+risk that inflation expectations might rise, and a possibility that expanding the size of the asset
+
+purchase programme at this meeting might add to that. For some members, there also remained risks
+
+that adding to the size of the asset purchase programme might increase the chance of unwarranted
+
+increases in asset prices, and that attempting to eliminate the degree of spare capacity too rapidly
+
+might eventually result in more inflationary pressure.
+
+
+-----
+
+10
+
+35 In addition to those arguments, maintaining the current stance of monetary policy, without
+
+adding further stimulus, would allow the Committee an opportunity to judge more thoroughly the
+
+effects of the cumulative loosening of monetary policy that it had implemented since September 2008.
+
+In particular, while Committee members agreed that the stock of past asset purchases would continue
+
+to impart a significant monetary stimulus for some time, views differed about the precise duration and
+
+size of that stimulus. It would also enable the Committee to assess the strength of the emerging
+
+economic recovery as more reliable data became available.
+
+36 The Committee would be able to provide further monetary stimulus should the outlook for
+
+inflation in the medium term warrant it.
+
+37 Taken together, all members felt that the arguments in favour of leaving the size of the asset
+
+purchase programme unchanged at this meeting were more persuasive. But for some members, the
+
+arguments were very finely balanced.
+
+38 The Governor invited the Committee to vote on the proposition that:
+
+Bank Rate should be maintained at 0.5%;
+
+The Bank of England should maintain the stock of asset purchases financed by the issuance
+
+of central bank reserves at £200 billion.
+
+The Committee voted unanimously in favour of the proposition.
+
+39 The following members of the Committee were present:
+
+Mervyn King, Governor
+Charles Bean, Deputy Governor responsible for monetary policy
+Paul Tucker, Deputy Governor responsible for financial stability
+Kate Barker
+Spencer Dale
+Paul Fisher
+David Miles
+Adam Posen
+Andrew Sentance
+
+Dave Ramsden was present as the Treasury representative.
+
+
+-----
+

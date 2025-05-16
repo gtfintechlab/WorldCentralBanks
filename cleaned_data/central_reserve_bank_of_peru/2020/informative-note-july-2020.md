@@ -1,0 +1,59 @@
+**PRESS RELEASE**
+
+**MONETARY POLICY STATEMENT JULY 2020**
+
+**BCRP MAINTAINED REFERENCE RATE AT 0.25%**
+
+1. The Board of Directors of the Central Reserve Bank of Peru (BCRP) decided to continue its
+
+expansionary policy stance, maintaining the reference rate at 0.25 percent and implementing
+further liquidity injection operations, in light of the following developments:
+
+i. Inflation in 2020 and 2021 is expected to fall below the target range due to a significant
+
+weakening of domestic demand.
+
+ii. One-year ahead expected inflation further decreased to 1.4 percent in June.
+
+iii. Year-on-year inflation decreased from 1.8 percent in May to 1.6 percent in June, while trend
+
+inflation remains in the lower part of the target range.
+
+iv. Economic activity has been severely affected by the effects from social confinement. Firm’s
+
+growth expectations continued to recover in June, in line with gradual economic reopening,
+although they remain at historic lows.
+
+v. Risks to global economic activity materialized, including a global recession with a partial
+
+rebound in the second half of the year.
+
+2. The BCRP will continue to take the necessary steps to sustain the payments system and credit
+
+flows. As of July 8th, the BCRP’s liquidity injection operations totaled S/ 48 billion, of which S/ 25.8
+billion were associated with government-backed repos. In this context, the credit to the private
+sector grew 13.7 percent year-on-year in May and interest rates decreased significantly. In
+addition, on June 30th the authorities launched the phase two of the “Reactiva Peru” program, with
+five auction sessions totaling S/ 17.7 billion at an average interest rate of 1.49 percent and a with
+greater share of small and micro enterprises.
+
+3. The Board considers it appropriate to maintain a strong expansionary monetary stance for as long
+
+as the negative effects of the pandemic on inflation and its determinants persist. The BCRP stands
+ready to extend monetary stimulus using a range of instruments.
+
+4. The Board also decided to maintain the following interest rates on its window facility operations in
+
+domestic currency with financial entities:
+
+i. Overnight deposits: 0.15 percent per year.
+
+ii. Direct security/currency repo and rediscount operations: 0.50 percent per year.
+
+5. The BCRP Board’s next monetary policy session will take place on August 13, 2020.
+
+Lima, July 9, 2020.
+
+
+-----
+

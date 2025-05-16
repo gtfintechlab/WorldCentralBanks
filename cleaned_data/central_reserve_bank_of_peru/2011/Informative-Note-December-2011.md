@@ -1,0 +1,47 @@
+# MONETARY PROGRAM FOR DECEMBER 2011
+ BCRP MAINTAINS THE REFERENCE INTEREST RATE AT 4.25%
+
+1. The Board of the Central Reserve Bank of Peru approved to maintain the monetary
+policy reference at 4.25 percent.
+
+This decision takes into account the lower growth being recorded by some components
+of expenditure, the current international financial risks, and the rise of inflation associated
+mainly with temporary supply factors. Future adjustments in the reference interest rate
+will depend on the evolution of inflation and its determinants.
+
+2. Inflation in November continued to be affected by transitory supply factors and recorded
+a monthly rate of 0.43 percent and an annual rate of 4.64 percent. Core inflation, which
+has also been influenced by the rise in food prices, registered a monthly rate of 0.29
+percent and a rate of 3.73 percent in the last 12 months. Inflation excluding food and
+energy showed a rate of 0.14 percent and accumulated an annual rate of 2.48 percent.
+Inflation is expected to return to the target range in 2012 once these supply factors
+subside. The survey on macroeconomic indicators shows that expectations of inflation in
+2012 are within the inflation target range.
+
+3. Some current and advanced indicators of activity show that growth in the economy is
+moderating and registering lower rates than the ones observed in the first semester.
+Thus, even though sales of electricity maintained a strong dynamism in November
+registering a growth rate of 8.0 percent, this rate is lower than the growth rate of 9.6
+percent observed in the first semester. Furthermore, indicators of global economic
+activity show lower growth rates and that uncertainty persists in international financial
+markets.
+
+4. The Board continues to oversee the projection of inflation and its determinants and
+stands ready to adopt future adjustments in monetary policy instruments on a prompt
+and timely basis.
+
+5. The Board also approved to maintain the annual interest rates on lending and deposit
+operations in domestic currency (not included in auctions) between the BCRP and the
+financial system, as described below:
+
+a. Overnight deposits: 3.45 percent.
+b.  Direct repo and rediscount operations: 5.05 percent.
+c. Swaps: a commission equivalent to a minimum annual effective cost of 5.05
+percent.
+
+6. The Monetary Program for January 2012 will be approved on the Board’s session of
+January 12, 2012.
+
+
+-----
+

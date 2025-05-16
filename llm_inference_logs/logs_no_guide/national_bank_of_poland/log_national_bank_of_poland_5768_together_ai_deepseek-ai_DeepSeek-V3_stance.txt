@@ -1,0 +1,51 @@
+2025-04-17 13:52:53,210 - together_inference - INFO - Starting inference on 2025-04-17
+2025-04-17 13:52:53,210 - together_inference - INFO - Loading dataset...
+Running inference for National Bank of Poland
+Traceback (most recent call last):
+  File "/storage/coda1/p-schava6/0/hpardawala3/llm_benchmarking/inference.py", line 274, in <module>
+    main()
+  File "/storage/coda1/p-schava6/0/hpardawala3/llm_benchmarking/inference.py", line 262, in main
+    df = inference_function(args, bank_official_name)
+  File "/storage/coda1/p-schava6/0/hpardawala3/llm_benchmarking/inference.py", line 127, in inference_function
+    dataset = load_dataset(f"gtfintechlab/{args['bank']}", str(args['seed']), trust_remote_code=True)
+  File "/storage/home/hcoda1/2/hpardawala3/.local/lib/python3.10/site-packages/datasets/load.py", line 2062, in load_dataset
+    builder_instance = load_dataset_builder(
+  File "/storage/home/hcoda1/2/hpardawala3/.local/lib/python3.10/site-packages/datasets/load.py", line 1782, in load_dataset_builder
+    dataset_module = dataset_module_factory(
+  File "/storage/home/hcoda1/2/hpardawala3/.local/lib/python3.10/site-packages/datasets/load.py", line 1664, in dataset_module_factory
+    raise e1 from None
+  File "/storage/home/hcoda1/2/hpardawala3/.local/lib/python3.10/site-packages/datasets/load.py", line 1629, in dataset_module_factory
+    ).get_module()
+  File "/storage/home/hcoda1/2/hpardawala3/.local/lib/python3.10/site-packages/datasets/load.py", line 1019, in get_module
+    data_files = DataFilesDict.from_patterns(
+  File "/storage/home/hcoda1/2/hpardawala3/.local/lib/python3.10/site-packages/datasets/data_files.py", line 690, in from_patterns
+    else DataFilesList.from_patterns(
+  File "/storage/home/hcoda1/2/hpardawala3/.local/lib/python3.10/site-packages/datasets/data_files.py", line 583, in from_patterns
+    resolve_pattern(
+  File "/storage/home/hcoda1/2/hpardawala3/.local/lib/python3.10/site-packages/datasets/data_files.py", line 361, in resolve_pattern
+    for filepath, info in fs.glob(pattern, detail=True, **glob_kwargs).items()
+  File "/storage/home/hcoda1/2/hpardawala3/.local/lib/python3.10/site-packages/huggingface_hub/hf_file_system.py", line 520, in glob
+    path = self.resolve_path(path, revision=kwargs.get("revision")).unresolve()
+  File "/storage/home/hcoda1/2/hpardawala3/.local/lib/python3.10/site-packages/huggingface_hub/hf_file_system.py", line 198, in resolve_path
+    repo_and_revision_exist, err = self._repo_and_revision_exist(repo_type, repo_id, revision)
+  File "/storage/home/hcoda1/2/hpardawala3/.local/lib/python3.10/site-packages/huggingface_hub/hf_file_system.py", line 125, in _repo_and_revision_exist
+    self._api.repo_info(
+  File "/storage/home/hcoda1/2/hpardawala3/.local/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/storage/home/hcoda1/2/hpardawala3/.local/lib/python3.10/site-packages/huggingface_hub/hf_api.py", line 2807, in repo_info
+    return method(
+  File "/storage/home/hcoda1/2/hpardawala3/.local/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/storage/home/hcoda1/2/hpardawala3/.local/lib/python3.10/site-packages/huggingface_hub/hf_api.py", line 2664, in dataset_info
+    r = get_session().get(path, headers=headers, timeout=timeout, params=params)
+  File "/storage/home/hcoda1/2/hpardawala3/.local/lib/python3.10/site-packages/requests/sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+  File "/storage/home/hcoda1/2/hpardawala3/.local/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/storage/home/hcoda1/2/hpardawala3/.local/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/storage/home/hcoda1/2/hpardawala3/.local/lib/python3.10/site-packages/huggingface_hub/utils/_http.py", line 96, in send
+    return super().send(request, *args, **kwargs)
+  File "/storage/home/hcoda1/2/hpardawala3/.local/lib/python3.10/site-packages/requests/adapters.py", line 713, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: (ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: 9adf501a-9660-41b9-bf88-f37945141e64)')

@@ -1,0 +1,93 @@
+# Minutes of a Meeting of the Board of Directors of the Central Bank of Colombia on March 20, 2009
+ A regular meeting of the Board of Directors of the Central Bank of Colombia was held in the city of Bogotá on March 20, 2009.
+ Present:  Mr. Óscar Iván Zuluaga, Minister of Finance and Public Credit Mr. José Darío Uribe, Governor of the Central Bank of Colombia
+ Full-time Directors: Mr. Carlos Gustavo Cano  Mr. Juan José Echavarría  Mr. Fernando Tenjo  Mr. Juan Pablo Zárate 
+ Circumstances surrounding inflation and economic growth, and their prospects for the future were discussed, and monetary-policy decisions were reached. The following is a summary of the principal topics addressed at the meeting. 
+ 1. BACKGROUND
+ a. Recent Developments in Inflation 
+ Annual consumer inflation was 6.47% in February, having declined for the fourth month in a row, on this occasion by 71 b.p. compared to January.  Most of the core inflation indicators were up, following a downward tendency observed during the last four months.
+ Food inflation went from 12.2% in January to 9.5% in February. The drop was in perishables and certain imported foods.
+
+
+-----
+
+# The prices of regulated goods registered an annual increase of 9.0% in February, as opposed to 8.5% in January.  The larger hikes originated with water and gas prices and urban transportation rates.
+ Non-tradable inflation, without food and regulated prices, increased from 5.1% in January to 5.4% in February. Rentals were an important item in this respect, and continue to climb; educational services were up a well.
+ Tradable inflation, without food and regulated prices, declined from 2.4% in January to 2.3% in February. 
+ The various inflation-expectation indicators measured on the basis of local government bonds at 1, 5 and 10 years were between 4% and 5% in the first week of March. This is the lowest level since mid-2006. 
+ The annual variation in producer prices (PPI) ceased to decline and remained at the level observed in January, which was 6.2%.
+ b. Internal Growth 
+ The available figures show internal economic activity continued to slow faster than the Central Bank’s technical team had anticipated. 
+ - The DANE figures on industrial production reflect an annual decline of 10.7% in the month of January. 
+ - The demand for energy was down by 3.2% in February (when adjusted by the number of working days, the figure is +0.8%). 
+ - Cement production dropped by about 20% in the first two months of the year, sparking doubts about the recovery in civil works.
+ - According to Fedesarrollo, industrial orders and inventory continued to deteriorate during the first month of the year.
+ - The indicator of consumer sentiment fell again in February, reaching a negative level for the first time since 2003. 
+
+
+-----
+
+# - Retail sales reported by DANE for the month of January fell to an annual rate of 4.5%, continuing the downward tendency begun in mid- 2008. 
+ As for external demand, total exports in dollars rose at an annual rate of 25.5% in 2008, with the growth in traditional exports reaching 40.8% and the annual increase in non-traditional exports being 8.3%. The major traditional export items were petroleum and petroleum derivatives, coal and coffee, with respective annual increases of 67%, 44% and 9.9%. Exports to Venezuela showed 16.9% annual growth, with outstanding momentum in meat sales (94.3%), yarn/thread and woven fabric (93.8%) and common metals (81.1%). In contrast, there were major declines in ready-made clothing and transport materials: -11.5% and 68.4% respectively. Total sales to the United States were up by an annual rate of 34.8%. The annual growth in non-traditional exports to that country (excluding gold) was 1.1%. Sales of machinery and equipment, common metals, food, bananas, textiles and ready-made clothing recovered with respect to the set-backs observed during 2007.
+ During the fourth quarter, exports in dollars fell by nearly 6% compared to the same period in 2008. The drop was more pronounced in the case of traditional exports (9%), due to lower international prices for the raw materials exported by Colombia. Non-traditional exports also experienced an important annual reduction, in this case on the order of 6%. Non-traditional exports to the United States were down by 13.5%, while the drop in non-traditional exports to Venezuela was 3%.
+ In January 2009, the annual decline in total imports was 5.2%. This aggregate has slowed since September 2008, when the annual variation was of 39%. An analysis by type of goods (CUODE classification) shows the slowdown has been led by the consumer goods group, which went from monthly annual growth rates near 25.0% in April 2008 to -9.1% in January 2009, and by intermediate goods, which registered a maximum monthly annual rate of 47.0% in September 2008 and an annual drop of 25.7% in January 2009. On the other hand, there was an annual increase of 22.0% in the purchase of capital goods.
+ The quarterly averages at January show annual increases in the unemployment rate for all the survey domains, but to a larger extent in the case of the 13 major cities. The unemployment rate for that period was 11.9% nationwide and 12.1% for the 13 major cities. These percentages amount to
+
+
+-----
+
+# respective increases of 1.1 and 1.6 percentage points compared to the same quarter in 2008.
+ c.  The External Context 
+ Intervention on the part of economic authorities in the United States and Europe has enabled liquidity conditions to normalize and to return to the levels observed prior to September. However, the credit channel in the developed economies has yet to be re-established. The restrictions on granting loans remain high; this has led to a sharp slowdown in commercial and consumer lending. 
+ The productive sector has been hard hit by the financial crisis. The second GDP revision in the United States for the fourth quarter of 2008 shows a decline of 6.2% (annualized quarterly rate), which is the highest since the start of the eighties. Consumption and investment in the United States were off by 4.3% and 20.8%, respectively, while exports, which had remained in positive terrain, fell by 23.6% at the end of the year. January and February saw continued deterioration in the indicators of consumer confidence and sentiment. 
+ Industrial production in the United States contracted at an annual rate of 11% in February; this is the sharpest drop since the seventies. The situation in other developed economies is similar.
+ The emerging economies, including Latin America, have experienced a sharp slowdown in economic activity. In the region, Brazil reported 1.3% economic growth during the fourth quarter, compared to 6.8% in the third quarter.  In Mexico, the decline in economic growth was 1.6% at December. As for Chile, there is no GDP data for the last quarter, but indicators such as industrial production show a sharp contraction during the fourth quarter of 2008 and in early 2009. 
+ The decline in inflationary pressures and the low forecasts for growth continue to enable the central banks to reduce their benchmark rates. 
+ After depreciating during the last six months, the region’s currencies reversed that tendency during the second week of March.  Colombia and Mexico are a case in point, with around 4% appreciation, while Brazil and
+
+
+-----
+
+# Chile have seen their currencies appreciate by about 2.5%. However, despite this latest rebound in local currencies, the exchange rates in Colombia, Mexico and Peru have depreciated compared to what they were in December 2008. 
+ d.  Financial Variables 
+ The monetary aggregates recommenced an upward tendency during the final weeks of February. By the end of the month, annual M3 growth was 19.4% and the annual increase in cash was 11.2%. 
+ Deposit-taking by the financial system in the form of certificates of deposit (CDs) and bonds continued to grow. In fact, during the last few months, CDs have been increasing at annual rates close to 45%. So far this year, the funds deposited with the banking system have been used primarily for investments in domestic and foreign currency. 
+ The slowdown in loans continued during February; this includes loans in pesos as well as foreign currency. There has been no growth in the balance of the loan portfolio in domestic currency during the last eight (8) weeks (15.8% annual growth at the end of February compared to 18.5% in December). 
+ With respect to the different types of loans, the commercial loan portfolio, including leasing (in pesos), registered an annual increase of 17.3% at the end of February. This reflects a dramatic slowdown. The annualized monthly increase in the smoothed series (13 week average) was close to 0% in February, suggesting there is no expansion in the margin on the commercial loan portfolio. The situation with respect to the consumer loan portfolio is similar. The annual increase at the end of February was 9% as opposed to 11.6% in December, and the annualized monthly growth in the smoothed series is in negative terrain (-2,2%). The least pronounced slowdown was in the mortgage loan portfolio, which registered an annual increase of 15% at February. The annualized monthly increase was 8.8%.
+ As to lending in US dollars, the loan portfolio in foreign currency has declined by US$323 m (9.2%) so far this year. Direct foreign borrowing by the private sector began to decline as of December (by US$ 41 million) and was down by US$59 m in January. 
+
+
+-----
+
+# Most of the market interest rates have declined quickly, ever since the Central Bank of Colombia began to lower its benchmark rate on December 19 of last year. Between that date and March 11, the inter-bank interest rate (TIB in Spanish) and the Bank Reference Indicator (IBR in Spanish) had accumulated a drop of 130 b.p. and were in line with the policy rate, which was 8%. 
+ The weighted average of the CD and DTF rates saw respective declines of 193 b.p. and 160 b.p. between December 19 and the beginning of March.  All interest rates on loans dropped substantially during the period between mid-December and late February. For example, the preferential rate dropped by 120b.p., the treasury rate, by 107 b.p., the ordinary rate, by 120 b.p. and the construction rate, by 60 b.p. The slowest pass through has been with rates on household lending, but reductions have been observed, even at that level, specifically in the interest rates on loans to purchase a home, which declined by 50 b.p. during the last two weeks in February. 
+ Real interest rates (deflated by the CPI without food) also exhibited a generalized reduction in January and particularly in February. This was due to the combination of lower nominal rates and the increase in non-food inflation during February. 
+ 2.  DISCUSSION AND POLICY OPTIONS 
+ The following points were emphasized during the course of the Board’s deliberations: 
+ i The increase in prices continues at a rate that exceeds the targets for inflation set by the Board, but has shown a tendency to decline. ii There are still no signs of a significant reduction in non-food inflation, without regulated prices. iii International prices for food, raw materials and oil continue to falling and could have a significant impact on total inflation, depending on the performance of the exchange rate and on the country’s trade policy.  iv The drop in oil prices on the international market has not been passed on to the price of gasoline in Colombia.
+
+
+-----
+
+# v Economic activity continues to weaken faster than the Bank’s technical team had anticipated. vi The total loan portfolio in the financial system continued to shed momentum during the past month, and most interest rates in the market were quick to decline in response to the cut in the Bank’s benchmark rate. vii Economic performance has been poor worldwide and in Colombia’s major export markets, particularly the United States, Venezuela and Ecuador. viii The effect of the exchange rate on inflation and growth in the tradable sectors is another aspect to consider. ix Intermediate and long-term expectations for inflation were emphasized as well; they are within the target range set by the Board of Directors. 
+ The main points of the discussion among the Board members centered on: (i) the effect of monetary-policy measures, given the time it takes them to work through to the economy; (ii) the elements that affect inflation forecasts for 2009 and 2010, and particularly the indexing mechanisms included in certain prices; (iii) the uncertainty the world financial crisis has generated on international markets and its impact on the Colombian economy; (iv) peso appreciation against the dollar in recent weeks; (v) the region’s access to external financing and the reduced momentum in the loan portfolio held by the financial system; (vi) the risk balance between growth and inflation in a context where the economy is slowing faster than expected and inflation expectations have declined; and (ix) the need to bolster the monetary authority’s credibility and to anchor inflation expectations. 
+ The Board members highlighted the fact that consumer inflation was down for the fourth month in a row. The decline in inflation and lower expectations of inflation confirm that weak internal and external demand and the drop in international commodity prices are bringing less inflationary pressure to bear. As a result, it is possible to anticipate that annual inflation will continue to fall in the coming months and will be within the target range by the end of 2009.
+ It also was emphasized that the outlook for the world economy remains negative.  During the month, international organizations such as the IMF and the World Bank forecast negative global economic growth in 2009. This decline has led to a sharp slowdown in economic growth in Latin America,
+
+
+-----
+
+# prompting a number of central banks to lower their benchmark rates. The devaluation of the region’s currencies between January and February was partly corrected in March, particularly in Colombia where recent peso devaluation was more than that observed in other countries. 
+ The Colombian economy has shown resistance to the world crisis, even despite the drop in external demand, which is reflected in less export momentum and in the resulting deterioration in growth.  The latest figures on industry and commerce point to sharp cutbacks. Given these conditions and considering the low level of capacity use, inflation in Colombia is expected to continue to decline. 
+ In view of the foregoing, the members of the Board unanimously agreed to lower the Central Bank’s intervention rate to 7%, which implies a reduction of 100 b.p.  The 300 b.p. reduction in the intervention interest rate accumulated since December 2008 fuels economic growth.  These policy decisions could be reached quickly, inasmuch as recent developments in Colombia and around the world have lowered the balance of risk both in terms of economic activity and inflation. 
+
+ Finally, the Board reiterated the need to continue to monitor the international financial situation, so any monetary policy measures that might be needed to address its impact can be adopted at the right time. 
+
+ 3. POLICY DECISION
+
+ The Board of Directors agreed to cut the Central Bank’s intervention interest rates by 100 b.p., placing the intervention rate at 7%. 
+ Bogotá D. C., Colombia April 3, 2009
+
+
+-----
+

@@ -1,0 +1,69 @@
+**PRESS RELEASE**
+
+**MONETARY POLICY STATEMENT DECEMBER 2021**
+
+**BCRP RAISES THE REFERENCE RATE TO 2.5%**
+
+1. The Board of Directors of the Central Reserve Bank of Peru (BCRP) decided to raise the
+
+reference interest rate by 50 bps to 2.50 percent. Monetary policy is still expansionary and the
+current decision does not necessarily imply a cycle of successive increases in the reference
+rate. This decision takes into account the following developments:
+
+i. Year-on-year inflation decreased from 5.83 percent in October to 5.66 percent in November,
+
+temporarily above the target range due mainly to a surge in international food and fuel
+prices, as well as exchange rate depreciation. Year-on-year core inflation was 2.91
+percent in November.
+
+ii. Inflation is expected to return to the target range in the second half of next year, as
+
+transitory pressures (exchange rate and international fuel and grain prices) recede, with
+economic activity below potential.
+
+iii. One-year-ahead expected inflation increased from 3.6 percent in October to 3.7 percent in
+
+November and is forecast at 3.5 percent for 2022, above the upper limit of the inflation
+target range.
+
+iv. Most indicators of expectations for economic activity deteriorated in November, and a
+
+few are located in pessimistic territory.
+
+v. Global economic activity is improving, although at a slower pace due to new COVID-19
+
+outbreaks, the emergence of new variants, and bottlenecks in global supply of goods
+and services. This recovery is expected to continue into the next quarters, as the
+vaccination rollout continues around the world and significant stimulus packages are
+implemented in developed countries.
+
+2. The Board is particularly attentive to new information on inflation expectations and economic
+
+activity, with an aim to consider, if necessary, changes in the monetary stance. Based on the
+available information, the Board sees the convenience of maintaining an expansionary stance
+for an extended period through a gradual withdrawal of monetary stimulus. The BCRP will
+continue to take the necessary steps to sustain the payments system and credit flows. In a
+context of uncertainty, financial volatility persists, with BCRP policies aiming at mitigating it.
+
+3. The Board also decided the following interest rates on its window facility operations in domestic
+currency with financial entities:
+
+i. Overnight deposits: 1.85 percent per year.
+
+ii. Direct security/currency repo and rediscount operations: 3.0 percent per year.
+
+4. The schedule of monetary policy meetings for the next twelve months is the following:
+
+January 6 February 10 March 10
+
+April 7 May 12 June 9
+
+July 7 August 11 September 8
+
+October 6 November 10 December 7
+
+Lima, December 9, 2021
+
+
+-----
+

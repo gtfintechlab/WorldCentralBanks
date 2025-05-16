@@ -1,0 +1,174 @@
+# Minutes of a Meeting of the Board of Directors of Banco de la República
+ Held on March 23, 2012
+
+ A regular meeting of the Board of Directors of Banco de la República was held in the city of Bogotá on March 23, 2012.  In attendance were Mr. Juan Carlos Echeverry, Minister of Finance and Public Credit, Mr. José Darío Uribe, Governor and Managing Director of Banco de la República, and full- time Board members Messrs. Carlos Gustavo Cano, Juan José Echavarría, Fernando Tenjo, Juan Pablo Zárate and César Vallejo. Inflation and the economic situation were discussed with respect to growth and prospects for the future, and monetary-policy decisions were reached.  The following is a summary of the main topics addressed at this meeting. 
+
+ 1. BACKGROUND 
+
+ a. Recent Developments in Inflation 
+
+ Annual consumer inflation was 3.55% in February. This is similar to the
+ rate posted the month before and below the December figure. In terms of monthly variations, the outcome was 0.61%, which is in line with the technical team’s expectation and less than the market forecasts, on average (0.78%).
+
+ The drop in annual inflation during February was largely the result of
+ another reduction in the annual variation in the CPI for food, which went from 4.9% in January to 4.7% in February. The non-food CPI (3.1%) showed an increase of 10 basis points (bp) compared to the figure for January. 
+
+ Annual variations within the food basket were down in all the categories
+ influenced by favorable supply conditions and by the appreciation in the exchange rate. However, despite the reductions, the annual adjustments in eating out (5.7%) remained high and surpassed those of last year. 
+
+1
+
+
+-----
+
+# The upward pressures within the non-food CPI remained concentrated
+ on prices for regulated services. The annual change in prices for this basket rose by 31 basis points over the previous figure on record. The annual increase in the price of gasoline was 5.7% by February, conceivably associated in part with high international fuel prices. Energy prices also continued to rise, posting an annual increase of 8.9% during that month. In terms of the CPI for residential natural gas, although February witnessed a reduction compared to January, the cumulative increases of past months mean the annual variation is still above 17%. 
+
+ There were no significant changes during February in the CPI for
+ tradables and non-tradables excluding food and regulated items. In the first case, the annual variation stayed at 0.7%, slightly below the figure observed in December. The halt in the upward trend in this indicator during the last two months is partly attributable to the appreciation in the exchange rate. As for non-tradables, the annual variation was 3.70% as opposed to 3.64% the month before. In this case, one sees the continuation of a very gradual upward trend that is consistent with the momentum in internal demand. The acceleration in rental fees persists, with an annual variation of 3.5% by February. With respect to educational services, the readjustment in February enrollment fees surpassed 4.5%, which was higher than expected.  These two groups were offset, in part, by declines in cultural entertainment and recreational services and by the relatively slight increases in financial services. 
+
+ The core inflation indicators also showed no major changes in February. 
+ The average of the three indicators tracked by Banco de la República came to 3.27%, which is similar to the average witnessed in January (3.26%), but less than the figure in December of last year.  Therefore, demand would have exerted some upward pressure so far this year, together with fuel prices. 
+
+ Inflation expectations declined in February. According to the monthly
+ survey of market operators, total inflation anticipated by December and February 2013 would be approximately 3.5%, which is 10 bp less than the rate expected a month earlier. The reduction was slightly more (around 30 bp) in the case of expectations based on TES rates. The latter were 3.4% for different horizons. 
+
+2
+
+
+-----
+
+# b. Growth 
+
+ According to DANE, the annual increase in Colombia’s GDP was 6.1%
+ by the fourth quarter of 2011. Coupled with minor revisions in data from the other quarters during the year, this implies 5.9% growth for 2011 as a whole. 
+
+ The expansion in the economy last year was marked by favorable
+ performance on the part of domestic demand. This aggregate rose 8.8%, which implies a build-up of more than three percentage points with respect to the rate observed in 2010. It also is similar to the growth on record for 2006 and 2007, both of which were economic boom periods. Despite a slowdown, domestic demand showed considerable momentum, having increased by 7.9% as opposed to 9.8% during the third quarter.
+
+ Household consumption was the component of demand that contributed
+ the most to GDP growth. It came to 6.5% for 2011 as a whole. This is more than in 2010, thanks largely to acquisitions of durables and semi-durables, which averaged an increase of 20% during the year. Relatively speaking, non- durable goods and services did not perform as well (with nearly 5% growth), but did surpassed their average as of 2000. Private consumption during the fourth quarter (6.1%) performed much as it did during the rest of the year, while government consumption was up by 3%. 
+
+ The second component in terms of contribution to growth was
+ investment in fixed capital, which rose 16.6%. This is the second highest rate since 2000, exceeded only by the increase in 2006. Spending on capital goods slowed somewhat during the fourth quarter of the year, largely because of a high basis of comparison. As was the case throughout the year, this item was bolstered considerably by purchases of transport equipment and machinery and equipment. Investment in building construction and civil works surpassed 6%. After having dropped 4.4% during the first half of the year, it rose 13.3% in the second.
+
+ Imports and exports posted record high growth rates in 2011. The first
+ of these aggregates was up by 21.5% last year, thanks to capital goods, raw materials and consumer goods, in that order of importance. Exports also did quite well, having increased by 11.4%, particularly due to the performance of traditional exports (coffee, crude oil and derivatives thereof, coal and ferro- nickel). Foreign sales of other products also were satisfactory. The fourth
+
+3
+
+
+-----
+
+# quarter saw a build-up in total exports (15.8%) compared to the first three quarters of the year. 
+
+ On the supply side, good performance throughout 2011 in the mining
+ and transport and telecommunications sectors was a high point. Mining was bolstered by the expansion in crude oil production and by a major increase in coal output during the latter half of the year. The good results in the second case originated with notable performance in air transport and in the telecommunications sector. Other sectors with vigorous growth were commerce, construction and financial services, while electricity, gas and water constituted the weakest performing branch of economic activity throughout the year, although this sector did show positive growth.  Agricultural- livestock production dropped during the final quarter of 2011(-2%), placing growth for the entire year at 2.2%. As a result, it was the sector with the second lowest rate of expansion in 2011. In the case of industry, growth during the year as a whole came to 3.9%. 
+
+ With respect to the economic situation in the first quarter of 2012, the
+ figures on hand point to good performance. Household consumption continues to be favored by consumer confidence, which is relatively high, despite the decline witnessed in February. This is according to measurements taken by Fedesarrollo. The annual increase in household borrowing by February (25% for consumer loans and 17% for mortgage lending) suggests good momentum in private consumption. The developments in the job market also appear to indicate the growth in consumption can be maintained, since the unemployment rate (UR) in January 2012 was the lowest of the last decade with respect to rates posted for that same month. This figure confirms the downward trend observed in the UR as of mid-2011. 
+
+ Added to this is the 4.9% expansion in retail sales during January,
+ which was less than last year but close to the average increase (6%) on record since 2000. According to the Colombian Automotive Committee, annual growth in vehicle sales was 7.2% by February.
+
+ The dollar value of exports posted an annual increase of 24% in
+ January, primarily due to exports originating in the mining-energy sector (29.9% annual growth) and industrial exports (14.9% annual increase). However, foreign sales of the country’s leading agricultural products declined at an annual rate of 19.2%, given the drop in exports of coffee and bananas.
+
+4
+
+
+-----
+
+# Some of the indicators on the supply side point to good momentum at
+ the start of 2012. The annual increase in total demand for energy came to 6.3% by February, a rate not seen since 2010 and one that could be due, in part, to a low basis of comparison last year because of maintenance at Cerro Matoso. On the other hand, raw material imports accelerated sharply in January (by 19%), offsetting the drop witnessed the month before and suggesting that entrepreneurs in a number of sectors anticipate a rise in production. 
+
+ Finally, in industry, the Fedesarrollo business opinion survey with data
+ at January continued to show high order levels and important expectations of production increases. Nevertheless, the production figures released by DANE for last month show a rate of 2.4%, which is the same as in December and less than the average for 2011 (4.8%). 
+
+ c. Financial Variables
+
+ Annual growth in total lending (DC and FC) came to 20.4% by
+ February, which is 46 bp less than in January and 292 bp less than in July 2011. This performance was lead by the commercial loan portfolio, with 18.8% growth, which is 30 bp less than the month before and adds up to a slowdown of 455 bp during the course of the last seven months. The momentum in the consumer and mortgage loan portfolios has stabilized, with respective annual variations of 24.7% and 17.4% by February, which are near the average growth rates observed since July 2011 (25.1% and 17.3%).
+
+ In February, real interest rates (discounting the non-food CPI) on
+ consumer, mortgage and ordinary commercial loans were 15.8%, 10.1% and 8.7%, in that order. These are less than the respective average rates calculated since 1998 (excluding the average mortgage lending rate, which has been calculated since May 2002). 
+
+ d. The External Context 
+
+ The new data on global economic activity show foreign demand is weak
+ but somewhat better than was forecast at the end of last year. Even so, average growth this year for Colombia’s trading partners would still be less than it was is 2011. 
+
+5
+
+
+-----
+
+# In Europe, the latest measures adopted by the authorities to deal with
+ national debt problems in the peripheral countries has partly restored the confidence of international financial markets and lessen the likelihood that the financial crisis in the region will intensify even further. The outcome for the two largest Eurozone economies: Germany and France, has been more favorable and this could indicate the recession forecast for that region might be milder than was anticipated initially. Moreover, the European authorities approved a new rescue plan for Greece in recent weeks, which was followed by a voluntary haircut on Greek bonds taken by private investors. The massive waves of liquidity the European Central Bank has pumped into the region’s commercial banking system have alleviated the banks’ short-term liquidity needs and supported government bond issues in Spain and Italy, countries whose risk premiums have declined the last few months. At any rate, there has yet to be an increase in commercial lending, since commercial banks are still reluctant to deliver recourses to the private sector. 
+
+ In the United States, the new figures are better than anticipated. As a
+ result, most analysts have raised their forecasts for that country’s growth during 2012, but at a rate that is still below its potential. The US economy continued to recover at a better-than-expected pace, bolstered by added growth in manufacturing and improved job-market performance. However, despite the recent positive signs, there are risks that could negatively affect this growth in the coming months, such as the possibility that the latest rise in oil prices will persist. In Japan, despite the slowdown in exports at the end of 2011, industrial production by January of this year showed signs of recovery. 
+
+ As for the emerging market economies, the growth rates witnessed in
+ the final quarter of 2011 were close to those for the long term, and 2012 should see this performance continue. The figures at hand point to a moderate slowdown that would be in line with the forecast.  In China, for example, the government decided to lower the target for growth in 2012 from 8% to 7.5%. In Latin America, the fourth-quarter figures ratified the slowdown in economic growth. However, the rise in raw material prices, the increase in domestic demand and the improvement in economic performance worldwide suggest this trend will not intensify. On the other hand, the sovereign risk premiums in Latin America declined slightly last month and the region’s currencies gained strength. If these risk levels and the abundance of global liquidity are maintained, capital flows to the economies in the region could continue and Latin America’s currencies would become even stronger. 
+
+6
+
+
+-----
+
+# In terms of commodity prices, the tensions in the Middle East and North
+ Africa have contributed to the rise in international oil prices, which have surpassed the highs witnessed in 2011. The prices of other commodities such as wheat, corn and soybeans, among others, also increased during the early months of the year, primarily because of factors related to the weather. 
+
+ In conclusion, the latest information indicates global demand remains
+ weak, although somewhat less than expected. Nevertheless, the high prices for oil and other commodities observed in recent weeks could have an adverse impact on prospects for recovery in the developed economies. Despite the inflationary risks posed by the rise in commodity prices, central banks the world over are expected to keep monetary policy loose in an effort to stimulate economic growth. 
+
+ Up to now, the various channels through which the European crisis and
+ less world growth could pass through to Colombia show no sign of contagion. In terms of confidence, the latest indicators for industry and consumers remain high. As for the commercial channel, exports were still growing at a good pace by January, especially those of mining origin. Moreover, the latest figures in the exchange balance reflect continued vigor in foreign direct investment, particularly for the mining sector. 
+
+ 2. DISCUSSION AND POLICY OPTIONS 
+
+ The Board of Directors was unanimous in its opinion that the policy
+ interest rate should not be changed, considering the following factors. 
+
+ (i) In February, annual inflation (3.55%) remained stable with respect to
+ the month before and has been declining since October of last year. The core inflation rates still averaged around 3%. These factors and recent action taken with respect to monetary policy helped to lessen inflation expectations, which are expected to continue to converge towards the middle of the target range. (ii) Economic growth during the fourth quarter of 2011 (6.1%) and for the year as a whole (5.9%) ratifies the robust expansion in the economy. The momentum in domestic demand, which had tended to grow from one quarter to another, slowed at the end of the year to a rate of 7.9%, which is what it was at the start of 2011. The sharp increase in aggregate spending for several quarters has led to a situation where demand is using up the installed capacity in various sectors of the economy. (iii) The recent slowdown in industrial
+
+7
+
+
+-----
+
+# manufacturing growth and several other figures released during the first quarter of 2012 suggest growth during that period may not live up to the figure posted at the end of 2011. The new data will allow for more certainty as to whether the momentum in domestic demand is consistent with sustainable economic growth and with accomplishing the inflation target. (iv) Growth in lending remains high, especially in the case of consumer loans. This indicates households have considerably higher levels of indebtedness. (v) Although the last 12 months have seen a rise in real and nominal interest rates on loans, they are still below their averages calculated since 2000, except in the case of interest on credit card lending. (vi) On the external front, the forecasts for 2012 point to negative economic growth in Europe, while the United States could post a rate slightly below its potential. The emerging market economies might not grow as much, but would expand to an extent near their long-term rate. For these reasons, Colombia’s trading partners likely will see less average growth this year than in 2011. (vii) International oil prices continue to rise and prices for the other commodities Colombia exports remain high. Consequently, terms of trade are at record highs and are fueling the growth in national revenue. At the same time, peso appreciation may be affecting the performance of certain tradable sectors. (viii) There is still the risk of a severe recession in Europe, with significant adverse effects for economic activity in Colombia, but the likelihood of it occurring has declined in recent weeks. (ix) The risks to inflation that come from expectations have eased somewhat. Those that can originate with the performance of demand or lending remain in effect. 
+
+ Given the data now at hand, and even considering the recent trend in
+ inflation, several Board members noted that inflationary pressures continue to weigh on the risk balance, which means additional adjustments in monetary policy might be necessary. 
+
+ Others felt the neutral range of the Bank’s intervention rate has been
+ achieved already and, given the lag that exists in the movement of interest rates and their full impact on demand, they believe any remaining inflationary pressures would be controlled in the near future with the measures adopted so far. 
+
+ Finally, one of the Board members reiterated the need to establish a reserve
+ requirement for consumer lending to complement the changes already made in Banco de la República’s intervention rate. 
+
+8
+
+
+-----
+
+# 3. POLICY DECISION
+
+ Based on this risk assessment, the Board of Directors decided to leave
+ Banco de la República’s intervention interest rate unchanged. New information will make it possible to determine any further action to be taken with respect to monetary policy. 
+
+ The Board will continue its careful monitoring of the international
+ situation, the trend in inflation and its forecasts, growth, and the way asset markets perform. It reiterated that monetary policy will depend on whatever new information becomes available. 
+
+ Bogotá, Colombia 
+
+ April 4, 2012
+
+9
+
+
+-----
+

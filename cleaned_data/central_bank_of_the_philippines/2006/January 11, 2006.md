@@ -1,0 +1,281 @@
+# ��
+
+
+**HIGHLIGHTS OF THE MEETING OF THE MONETARY BOARD ON**
+
+**MONETARY POLICY ISSUES HELD ON 12 JANUARY 2006***
+
+
+The Advisory Committee[1] submitted the following recommendations
+for the consideration of the Monetary Board:
+
+1) Maintain the current monetary policy settings as follows:
+
+(a) Maintain the BSP’s policy interest rates at 7.5 percent for the
+overnight RRP (borrowing) rate and 9.75 percent for the overnight RP
+(lending) rate; and
+
+(b) Maintain the current interest rates on term RRPs, RPs, and SDAs.
+
+2) Maintain the current reserve requirement ratios;
+
+3) Continue to articulate support for the use of non-monetary measures to
+address supply-side risks, particularly those related to food supply and oil,
+by strengthening representation and coordination with various government
+agencies; and
+
+4) Encourage public support for energy conservation and efficiency
+measures and support exploration/use of alternative sources of energy.
+
+**I. Key Considerations in the Formulation of the Monetary Policy**
+**Stance**
+
+The Advisory Committee’s recommendations were based on the
+following considerations:
+
+- Headline inflation eased in December, with slower price increases for
+most commodity groups. The recent easing in the price of imported oil, the
+strengthening of the peso, and the ongoing harvest season helped keep
+price pressures in check. Meanwhile, core inflation also continued to
+
+## ��������������������������������������������
+
+- The arguments and information presented herein were the ones prevailing at the time of the Monetary
+Board decision on 12 January 2006. The highlights of the discussions of the 12 January 2006 meeting
+were approved by the Monetary Board during its meeting held on 9 February 2006.
+1 The Advisory Committee is composed of the Governor of the BSP as Chairman and four members,
+namely: the Deputy Governor for the Monetary Stability Sector, the Deputy Governor for Supervision and
+Examination Sector, the Managing Director of the Treasury Department, and the Director of the
+Department of Economic Research.
+
+**Page 1 of 1**
+
+
+-----
+
+decelerate, indicating the continued absence of demand-side price
+pressures.
+
+- Food and energy items accounted for more than half of the December
+inflation rate: food contributed 2.6 percentage points while fuel, light and
+water (FLW) along with transport and communication (which includes
+gasoline and diesel) accounted for a combined 2.1 percentage points.
+
+- The price of Dubai crude oil rose in December 2005 and climbed further
+during the first week of January 2006 due to supply- and demand-related
+market concerns. Meanwhile, domestic retail prices of petroleum products
+were stable in December 2005 and were reduced at the beginning of
+January, in response to the earlier decline in world crude oil prices as well
+as the continued appreciation of the peso.
+
+- Selected indicators of demand suggest continued growth in economic
+activity.
+
+��Manufacturing activity showed some improvement. Average capacity
+utilization was slightly higher at 80.4 percent in October 2005
+compared to 80.3 percent in September. The value of production
+index (VAPI) for manufacturing increased by 13.9 percent year-onyear in October, higher than the 10.3 percent growth in September.
+Year-on-year growth in the volume of production index (VOPI) for
+manufacturing showed an increase of 4.6 percent in October from the
+4.5 percent contraction in the previous month.
+
+��The country’s major corporations posted strong revenue growth in the
+first nine months of 2005. Some firms, however, experienced slower
+profit growth in the third quarter due to higher operating expenses.
+
+��Unemployment eased to 10.3 percent in October 2005 from 10.9
+percent both in the same month in 2004 and in July 2005, using the
+old definition of unemployment. Similarly, based on the new definition
+of unemployment, the jobless rate declined to 7.4 percent from 7.7
+percent in July.[2]
+
+��Property values rose while office vacancy rates declined during the
+third quarter, based on estimates by Colliers International Research.
+
+## ��������������������������������������������
+
+2 Starting April 2005, the new Labor Force Survey (LFS) questionnaire was used to estimate the number of
+unemployed, which include all persons who are 15 years old and over as of their last birthday and are
+reported as: (1) without work and currently available for work and seeking work; or (2) without work and
+currently available for work but not seeking work for the following reasons: (a) tired/believed no work
+available; (b) awaiting results of previous job application; (c) temporary illness/disability; (d) bad weather;
+and (e) waiting for rehire/job recall. The old definition of unemployment did not consider the availability
+criterion.
+
+**Page 2 of 2**
+
+
+# ��
+
+decelerate, indicating the continued absence of demand-side price
+pressures.
+
+
+-----
+
+# ��
+
+
+��Results of the fourth quarter 2005 Business Expectations Survey
+(BES) and Consumer Expectations Survey (CES) indicated
+improvements in business and consumer outlook for the fourth quarter
+of 2005 and for the first quarter of 2006.
+
+- Other data, however, point to weakening demand.
+
+��Economic growth weakened in the third quarter, reflecting the
+dampening effects of higher oil and consumer prices as well as the
+sluggish performance of the agriculture sector. The country’s gross
+domestic product (GDP) registered a 4.1 percent growth for the third
+quarter of 2005, down from 6.2 percent a year ago. This brought GDP
+growth for the first nine months to 4.6 percent.
+
+��Merchandise imports declined by 3.1 percent year-on-year in October,
+from a 7.8 percent increase in September.
+
+��Merchandise exports declined for the second straight month by 1.6
+percent in November from 3.2 percent in October. The decline was
+traced to weaker foreign demand for electronics exports, which fell by
+1.6 percent and accounted for 68.1 percent of the aggregate export
+revenue during the month.
+
+��Passenger car sales fell by 4.0 percent year-on-year in October,
+following a 0.1 percent rise in the previous month, based on the data
+of the Chamber of Automotive Manufacturers of the Philippines, Inc
+(CAMPI).
+
+��Energy sales by the Manila Electric Company declined by 1.3 percent
+year-on-year in November due to reduced consumption of residential
+and industrial users.
+
+��Appliance sales fell for the eleventh straight month by 24.7 percent
+year-on-year in October.
+
+- Agricultural output grew at a slower pace of 1.7 percent in the first nine
+months of 2005 compared to 6.6 percent in the previous year, as the
+crops subsector contracted due to lower rice, corn and sugarcane
+production, while the other subsectors posted modest increases.
+
+- The expansion in domestic liquidity slowed, while growth in bank lending
+remained modest. Treasury bill (T-bill) auction rates continued to decline
+on 9 January 2006.
+
+**Page 3 of 3**
+
+
+-----
+
+��Based on preliminary Depository Corporations Survey (DCS) data,
+growth in domestic liquidity (M3) decelerated to 11.9 percent year-onyear in November from 13.9 percent in the previous month.[3]
+
+��Outstanding loans of commercial banks (KBs) grew by 1.3 percent
+year-on-year to P1.5 trillion as of end-October 2005. This was higher
+than the 0.5 percent growth in September.
+
+��T-bill rates declined during the 9 January 2006 auction relative to the
+previous auction on 29 November 2005. T-bill rates continued to ease
+due to ample liquidity, alongside the decision of the National
+Government (NG) to reduce its T-bill offering for the first quarter of
+2006.
+
+- The peso continued its appreciating trend in December on account of
+strong dollar inflows as well as improving outlook for the fiscal sector.
+
+- For the first 11 months of 2005, the NG’s fiscal deficit reached P122.8
+billion, which is 23.3 percent lower than the year-ago figure and equivalent
+to only 68.2 percent of the full-year target deficit. Revenues for the first 11
+months grew by 15.1 percent to reach P733.7 billion, while expenditures
+rose by 7.4 percent to P856.5 billion.
+
+- The global economy’s growth momentum continued based on data for the
+third quarter of 2005, driven by the robust output performance of the
+services sector and the moderate recovery of manufacturing in most
+major economies. On the price front, the recent decline in oil prices has
+contributed to easing global inflation pressures. At the same time, inflation
+expectations remained generally well-anchored.
+
+**II. Review of the Monetary Policy Stance**
+
+- The Monetary Board noted that recent evidence of easing inflation
+pressures supports an unchanged policy setting. Easing energy prices,
+favorable food prices, and the appreciation of the peso should help keep
+price pressures at bay in the near term.
+
+- In addition, demand-side pressures on consumer prices appear to be still
+limited given the sustained deceleration in core inflation, indications of
+easing money growth, and the slowdown in aggregate demand,
+particularly consumer spending. There has also been relatively little
+indication thus far of second-round effects from ongoing supply shocks.
+## ��������������������������������������������
+3 M3 refers to the stock of broad money based on data on the Depository Corporations Survey (DCS).
+The DCS, which replaces the Monetary Survey (MS) as the basis for measuring domestic liquidity, features
+an expanded list of surveyed institutions that includes the BSP, commercial banks, thrift banks, rural banks,
+non-stock savings and loan associations and non-banks with quasi-banking functions.
+
+**Page 4 of 4**
+
+
+# ��
+
+��Based on preliminary Depository Corporations Survey (DCS) data,
+growth in domestic liquidity (M3) decelerated to 11.9 percent year-on-
+
+
+-----
+
+- Nonetheless, there continue to be a number of risks to the inflation
+outlook. World energy prices continue to be the dominant source of
+uncertainty in the outlook for inflation given limited global surplus
+production capacity.
+
+- Moreover, there is still the risk of second-round effects given the expected
+price pressures in the pipeline. Potential shifts in the public’s inflation
+expectations likewise continue to be a policy concern, given the possibility
+of a sustained deviation of inflation from government targets over the
+policy horizon.
+
+- The Monetary Board reiterates that it remains committed to the BSP’s
+price stability objectives and will continue to closely monitor the evolving
+conditions for consumer prices, aggregate demand, domestic liquidity,
+and other factors in order to determine the appropriate stance of monetary
+policy and undertake action if necessary.
+
+**III. Monetary Policy Decision**
+
+- Upon assessment of the balance of risks to inflation and the evidence that
+has become available since its previous meeting on monetary policy, the
+Monetary Board unanimously approved the following measures:
+
+1) Maintain the current monetary policy settings as follows:
+
+(a) Maintain the BSP’s policy interest rates at 7.5 percent for the
+overnight RRP (borrowing) rate and 9.75 percent for the overnight
+RP (lending) rate; and
+
+(b) Maintain the current interest rates on term RRPs, RPs, and SDAs.
+�
+2) Maintain the current reserve requirement ratios;
+
+3) Continue to articulate support for the use of non-monetary measures
+to address supply-side risks, particularly those relating to food supply,
+energy conservation, and the development of alternative energy
+sources, by strengthening representation and coordination with
+various government agencies; and
+
+4) Intensify the BSP’s public information campaign with greater focus on
+the dynamics and sources of price pressures in order to help guide
+inflationary expectations.
+
+The next meeting of the Monetary Board to discuss the monetary
+policy setting is scheduled on 9 February 2006.
+
+**Page 5 of 5**
+
+
+# ��
+
+           - Nonetheless, there continue to be a number of risks to the inflation
+
+
+-----
+

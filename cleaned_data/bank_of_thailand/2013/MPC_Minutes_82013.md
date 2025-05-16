@@ -1,0 +1,172 @@
+**Edited Minutes of the Monetary Policy Committee Meeting**
+
+**Bank of Thailand**
+
+**27 November 2013**
+
+**Publication Date: 11 December 2013**
+
+**Members Present**
+
+Prasarn Trairatvorakul (Chairman), Pongpen Ruengvirayudh (Vice Chairman), Tongurai Limpiti,
+Arkhom Termpittayapaisith, Siri Ganjarerndee, Narongchai Akrasanee, and Aswin Kongsiri.
+
+**The Financial Markets**
+
+**Market expectations of the unwinding of the Federal Reserve’s quantitative easing (QE) were**
+**the main drivers of major and regional currencies. The US dollar** **appreciated since the last**
+**meeting, as financial markets shifted forward their anticipation of QE tapering, following more**
+optimistic statement by the Federal Open Market Committee (FOMC) in October, and
+better-than-expected labour market data. As a result, **regional currencies and the Thai baht**
+**depreciated against the US dollar. Domestic political situation and weaker-than-expected Thai**
+economic data also triggered capital outflows from the equity and bond markets especially in
+November, and contributed to the baht depreciation.
+
+**Government bond yield curve fluctuated with global market sentiments. Yields initially rose in**
+tandem with the US Treasury, thanks to market expectations of early QE tapering. However, the
+depreciation of Thai baht in November may have precipitated some selling of short-dated
+bonds by foreign investors. Most market participants expected the Monetary Policy Committee
+(MPC) to maintain the policy interest rate at this meeting, and to start normalizing the policy
+interest rate in the latter half of next year, consistent with economic recovery.
+
+Some members saw the need to closely monitor the potential implications of gold exports and
+imports for current account deficits and Thai baht. Although the headline deficit might have
+contributed to some foreign investors’ concerns about external stability, current account
+balance remained in surplus after excluding exports and imports of gold. Members agreed that
+greater communication regarding this issue would be beneficial.
+
+**The International Economy**
+
+**The global economy continued to recover, led by the major economies, and was projected to**
+**grow at a firmer pace next year. The US economy** grew more robustly than expected in the
+third quarter of this year, owing to a temporary boost from inventory accumulation. Healthier
+balance sheets of households and financial institutions should help sustain domestic demand
+and economic recovery in the periods ahead. Nonetheless, uncertainties about fiscal policy and
+the timing of Fed’s QE tapering would continue to weigh on global financial market sentiments.
+**The euro area economies grew at a gradual pace from domestic demand in core member**
+economies and improving exports, but political situation and fragile balance sheets of financial
+
+
+-----
+
+institutions continued to impede the recovery. The Japanese economy moderated in the third
+quarter of this year from contraction in exports and softening private consumption. Looking
+ahead, support from domestic demand and government’s economic stimulus policies should
+continue to provide growth momentum. **The Chinese economy** expanded well across all
+sectors, albeit at a slower pace relative to previous years, given the government’s greater focus
+on long-term sustainability of economic growth. The Asian economies continued to grow at a
+moderate pace. Exports of the North Asian economies recovered at a more robust pace than
+those of ASEAN peers. Given the North Asian products’ technological advantages and greater
+supply chain integration, these economies were able to benefit more from higher demand from
+the major and Chinese economies. Countries with twin deficit problem remained subject to
+higher risk of capital outflows compared to other countries.
+
+**Global inflationary pressure remained low,** and most central banks have consequently kept
+policy interest rates unchanged since the last meeting. However, in India and Indonesia the
+policy interest rates were raised in response to elevated inflationary pressure and widening
+current account deficits; while in the euro area economies the policy interest rate was lowered
+in response to the economic slowdown amidst subdued inflationary pressure.
+
+In their discussion, the MPC noted that (1) China’s economic reforms as set out in the Third
+Plenum, especially the liberalization of exchange rate (linked in part to Yuan greater
+convertibility), interest rates, and capital account, could have significant implications for the
+Thai economy, thus warranted close monitoring; and (2) Structural problems remained in China
+and Japan. China’s major challenges were to create higher value-added products, reduce
+income inequality and rein in shadow banking activities. In Japan, high social welfare spending
+and public debt, together with low labour productivity, could restrain Japanese economic
+growth in the periods ahead.
+
+**The Thai Economy**
+
+**The Thai economy expanded less than expected in the third quarter of 2013 from both**
+**private and public spending. Recovery in exports of goods has not gained traction, though**
+tourism continued to grow well. The outlook for private consumption was projected to be more
+subdued than previously assessed, with higher household debt burden holding back
+consumption of non-essential goods amidst lower consumer confidence. Private investment
+has not recovered, as some businesses awaited clearer signs of private demand recovery as well
+as implementation of public investment in infrastructural projects. Exports should gradually
+improve in line with a moderate pickup in external demand, but benefits would be curbed by
+limitations in competitiveness and lower technological advantage of the export industry. Core
+and headline inflation rates edged up in October in tandem with prices of food and beverages,
+but inflationary pressure overall remained low.
+
+**The economy was projected to grow at a slower pace than previously assessed. Growth was**
+**subject to greater downside risks, stemming from further delay in public investment, fragile**
+
+
+-----
+
+private confidence which might be compounded by the ongoing political situation, and the
+uncertain timing of QE tapering which continued to weigh on investors’ confidence. **The**
+**committee therefore revised growth projection down from 3.7 to around 3 percent in 2013,**
+**which has not taken into account possible additional effects from the political situation.**
+**Projection for 2014 was also revised downward from 4.8 to around 4 percent. Inflationary**
+pressure remained benign in line with economic outlook.
+
+**Concerns over financial stability risks have lessened, as private credits, including to**
+households, continued to decelerate. Financial conditions, nevertheless, remained conducive to
+economic recovery, reflected in part by financial institutions’ willingness to lend and continued
+demand for loans. Overall credit quality remained healthy, though households’ debt servicing
+abilities have shown some signs of deteriorating. Financial institutions have tightened credit
+standards, particularly for individual borrowers, to strengthen their credit risk management.
+Real estate market has cooled from the beginning of this year, in line with lower risk appetite
+from both buyers and developers.
+
+The committee agreed that clear growth drivers were lacking, and there were several factors
+impeding an economic recovery, including a high level of household indebtedness, a decline in
+export competitiveness, and higher downside risks to growth. Economic expansion in 2014
+should be driven in part by a technical rebound in private demand from a low base this year,
+together with a gradual recovery in exports in line with the global economic outlook subject to
+structural constraints. Given this backdrop, macroeconomic policies should remain supportive
+of economic recovery, particularly through expediting public investment. The committee saw
+lower risks to financial stability, as credit growth continued to adjust towards a more
+sustainable level that was consistent with the real economic activity, after expanding at a high
+pace throughout the past few years. Nevertheless, debt servicing abilities might deteriorate
+further during periods of economic slowdown, and warranted monitoring.
+
+**Monetary Policy Deliberation**
+
+The MPC judged that the Thai economy should expand at a slower pace than previously
+assessed with greater downside risks compared with the last meeting, with household credit
+growth moderating somewhat. **The majority of the committee saw further room to ease**
+**monetary policy in order to mitigate downside risks and support an economic recovery, given**
+benign inflation outlook.
+
+**Six members viewed a reduction of the policy rate by 0.25 percent per annum as appropriate**
+with the following rationales: (1) Downside risks to growth outlook have increased, and it would
+take time before the economy could resume growing at a normal pace. Domestic demand
+remained weak while recovery in exports has not gained traction despite improving global
+recovery, owing to structural factors. Some members saw a possibility of slower-than-expected
+global economic recovery. Moreover, domestic political situation could further dent
+sentiments, potentially affecting private spending and tourism, as well as causing further delay
+
+
+-----
+
+to public spending and investment; (2) Inflation edged up slightly following a gradual increase in
+LPG price but remained low and close to the lower bound of the target range. Inflation thus was
+not an immediate threat; (3) Risks to financial stability decreased somewhat, reflected by
+decelerating private credit growth amid economic slowdown. There were signs of adjustment in
+risk appetite for both lenders and borrowers, with financial institutions becoming more
+stringent in approving loans. Nevertheless, the MPC deemed it prudent to closely monitor the
+impact of reducing policy rate on financial stability developments.
+
+Some members noted that while there was room for monetary policy easing at the current
+juncture, the policy effectiveness in compensating for lower fiscal stimulus would be limited.
+
+**One member deemed maintaining the policy rate at 2.50 percent to** **be sufficiently**
+**accommodative as the Thai economy should be able to resume its normal growth next year.**
+Risks to financial stability remained, while inflation was kept subdued partly due to government
+measures. Furthermore, a prolonged period of very accommodative monetary policy could
+discourage private savings in the long run.
+
+**The MPC thus voted 6 to 1 to reduce the policy rate by 0.25 percent, from 2.50 to 2.25 percent**
+**per annum.**
+
+Monetary Policy Group
+
+11 December 2013
+
+
+-----
+

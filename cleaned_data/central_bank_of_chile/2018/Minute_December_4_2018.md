@@ -1,0 +1,200 @@
+# Monetary Policy Meeting[1]/
+
+#### DECEMBER 2018
+
+CENTRAL BANK OF CHILE
+
+#### [INF*RES*AS]
+
+1/ This is a translation of a document originally written in Spanish. In case of discrepancy or difference
+in interpretation, the Spanish original prevails. Both versions are available at www.bcentral.cl
+
+
+-----
+
+## MINUTES OF THE MONETARY POLICY MEETING
+
+#### Monetary policy meeting No. 261, held on 4 December 2018.
+
+Present: Mario Marcel, Governor; Joaquín Vial, Vice-Governor; Pablo García,
+Board member; Rosanna Costa, Board member, Alberto Naudon, Board member.
+
+Present the Finance Minister, Felipe Larraín.
+
+Also present: Alejandro Zurbuchen, General Manager; Juan Pablo Araya, General
+Counsel and Attestor; Elías Albagli, Monetary Policy Division Director; Beltrán
+de Ramón, Financial Markets Division Director; Solange Berstein, Financial
+Operations Division Director; Gloria Peña, Statistics Division Director; Michel
+Moure, Institutional Affairs Division Director; Miguel Fuentes, Macroeconomic
+Analysis Manager; Enrique Orellana, Strategy and Communication of Monetary
+Policy Manager; Matías Bernier, Domestic Markets Manager; Luis Álvarez,
+Communications Manager; Hermann González, Advisor to the Finance Minister;
+Marlys Pabst, Secretary General.
+
+#### 1. Background analysis and discussion
+
+The information presented to the Board and its analysis are contained in the
+December Monetary Policy Report. It mainly shows that, after being under 2%
+almost the entire second half of 2017, annual inflation rose throughout this
+year, and has been around 3% during the past few months. Although part of
+this increase is explained by the more volatile CPI items and the depreciation
+of the peso, inflation of those components of the basket that are most sensitive
+to the activity gap (i.e. services and non-tradables) has grown steadily over the
+course of 2018, in line with the recovery of the growth rate that began more
+than a year ago.
+
+Despite taking a pause in the third quarter, due to particular mining- and
+manufacturing-specific factors, growth was expected to resume in the fourth
+quarter. Thus, estimates were that the economy would grow 4% this year and
+between 3.25 and 4.25% in 2019, and that headline and core inflation would
+converge to 3% before the end of the policy horizon.
+
+
+Critical factors in this outlook were the observed dynamism of investment and a
+vision of the labor market which, once all the available information was factored
+in, together with the impact of the significant immigration flow of recent years,
+showed a dynamic consistent with the improved performance of activity.
+
+In this context, the evolution of macroeconomic conditions made it necessary
+to reduce the monetary stimulus, a process that the Board estimated it would
+continue to undertake gradually and cautiously, while the uncertainties coming
+from the external scenario were still high.
+
+Regarding the information at hand at the Meeting, it was mentioned that,
+generally speaking, the evaluation of the macroeconomic scenario showed a
+continuation of what had been assessed in the September Report. This was
+reflected in minor changes in the Board’s view on growth, with downward
+corrections to inflation, but linked to the more volatile elements, excluded
+from core inflation. This, with a scenario that was not very different at the
+start, considering the analysis of the particular factors that had explained the
+economy’s performance of the third quarter, which was confirmed by fourthquarter data already available.
+
+All this occurred in a context where the message of monetary policy normalization
+conveyed in September had been, largely, correctly internalized by the market,
+as could be inferred from the evolution of market rates more closely related to
+monetary policy, especially at terms shorter than two years.
+
+About the external scenario, it was mentioned that risks remained that were
+important for the Chilean economy, especially of an abrupt tightening of financial
+conditions for emerging economies, the evolution of the US economy and its
+implications for the US monetary policy, plus various risks of a geopolitical
+nature.
+
+What was new, was the fall in the oil price, where it seemed that supply-side
+factors prevailed. Still, this diagnosis called for some caution, particularly because
+of the possibility that demand-side factors could have a greater impact on the
+recent evolution of this price.
+
+In any case, incoming news suggested that the risks had not worsened, because
+the markets had interpreted that the Fed had signaled some moderation in its
+future course of action while the fall in the oil price, with copper relatively
+stable, gave way to a terms-of-trade improvement.
+
+
+-----
+
+On the domestic front, it was noted that one element that had weighed
+significantly in recent analyses was the evaluation that the labor market behaved
+according to the rest of the economy, having succeeded in absorbing a significant
+increase in the labor supply causing no big rise in the unemployment rate and
+only a moderate slowdown in wage growth.
+
+Furthermore, the latest data pointed to a tendency of private salaried
+employment to consolidate a gradual recovery accompanied by a reduction in
+self-employment.
+
+#### 2. Analysis of monetary policy options
+
+All five Board members agreed that the macroeconomic scenario in which the
+monetary policy decision was based was virtually a continuation of that in the
+September Report, meaning that the economy had regained its ability to grow
+and its capacity gaps were narrowing.
+
+Hand in hand with the reduction of these gaps, inflation of services and nontradables had accelerated steadily since the beginning of the year. Core inflation,
+as measured by the CPIEFE, had been more subdued, but it was expected to
+accelerate over the months. All this meant that it had become less necessary to
+hold on to the monetary impulse established when the economic cycle was at
+its lowest, so now the appropriate thing to do was to continue withdrawing it
+in order for inflation to converge to the policy target within its medium-term
+horizon.
+
+In this scenario, it was agreed that it was logical to follow a monetary policy path
+similar to the one proposed in September. This meant leaving no doubt about
+the need for a normalization of monetary policy, but, in turn, ensuring that this
+normalization would be done gradually and with caution. “Gradually” should be
+understood as gradual and predictable adjustments to the MPR, which would
+give economic agents the necessary time to adjust; “with caution” referred to
+the need to opportunely analyze changes in the macroeconomic scenario that
+could warrant a change of trajectory. These changes were especially important
+given the risks characteristic of today’s world economy and the hypotheses that
+had been incorporated into the projections of the domestic scenario. In the
+external environment in particular, although the baseline scenario assumed a
+mild worsening, with a slowdown in Chile’s trading partners’ growth, tighter
+
+
+financial conditions and a deterioration in commodity prices, the possibility
+of more dramatic changes remained latent in the perceptions of risk, in the
+trajectories of monetary policy in the developed world, and an escalation of
+the trade conflict.
+
+The Board agreed that there was no doubt about the need to go ahead with
+the process of monetary withdrawal. The baseline scenario of the December
+Report assumed that the MPR would reach its neutral level during the first half
+of 2020. Being more precise than in September was necessary as time passed
+and the evolution of macroeconomic conditions confirmed the contours that
+the Report’s baseline scenario had maintained during the year.
+
+For some Board members, specifying that the arrival at the neutral level would
+occur in the first half of 2020 was not intended to modify market expectations
+—which assumed it would do so in late 2020— but only to be transparent
+about what the baseline scenario of the Monetary Policy Report looked like and
+to be able to maintain consistency in the Board’s statement.
+
+Board members commented on the rationality of the assumption for the MPR’s
+trajectory as a reference for the Board’s discussion. It was agreed that this should
+not be considered as a commitment, since depending on the evolution of risks
+and, in particular, the costs of these risks scenarios, the Board could decide
+on a trajectory of the MPR different from the one of the baseline scenario. In
+the opinion of one Board member, it was possible, for example, to think of a
+path of MPR increases slower than indicated by the working assumption of
+the Monetary Policy Report, as considered by market expectations. However,
+the validity of one or another path would only be solved in the light of the
+evolution of the economy.
+
+**Option 1: hold the MPR at 2.75% with an upward bias**
+
+The Board agreed that the main reason for not changing the MPR at this Meeting
+was the consistency between the Bank’s actions and their communication,
+especially in that the withdrawal of the monetary stimulus would be done
+gradually and with caution. At the same time, they agreed that the upward bias
+that accompanied this decision reaffirmed that this process would continue in
+the months ahead.
+
+
+-----
+
+One Board member noted that holding the MPR this time, with an upward bias,
+could lessen the flexibility for the next Meeting’s decision, since it could be seen
+as a commitment to raise it in January, even if incoming data were less favorable
+than now. However, he added, there was also the opposite possibility —of better
+data than today’s— and, in that case, considering the option of raising the rate
+by 25 or 50 basis points would be inevitable at the next Meeting.
+
+**Option 2: raise the MPR by 25 basis points with an upward bias**
+
+The option of raising the MPR at this Meeting could be based on the idea that,
+given the wide gap between the current MPR and its neutral level, the risk
+of erring was low and would permit to pace future increases. However, its
+main caveat was that it could give a signal of urgency in the withdrawal of the
+monetary stimulus that was not consistent with the gradualism and caution
+committed by the Board.
+
+#### 3. Monetary policy decision
+
+The Board decided, with the votes of Governor Marcel, Vice–Governor Vial
+and Board members García, Costa and Naudon, to keep the monetary policy
+interest rate at 2.75%.
+
+
+-----
+

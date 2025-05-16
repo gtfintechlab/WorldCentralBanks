@@ -1,0 +1,145 @@
+**Edited Minutes of the Monetary Policy Committee Meeting**
+
+**Bank of Thailand**
+
+**11 May 2016**
+
+**Publication Date: 25 May 2016**
+
+**Members Present**
+
+Veerathai Santiprabhob (Chairman), Mathee Supapongse (Vice Chairman), Paiboon
+Kittisrikangwan, Jamlong Atikul, Porametee Vimolsiri, Sethaput Suthiwart-Narueput, and
+Apichai Boontherawara.
+
+**The Global Economy**
+
+**In the first quarter of 2016, the global economy recovered at a pace slightly slower than**
+**assessed in the previous meeting, as growth momentum in the G3 economies weakened**
+**in line with consumption spending. Going forward, however, the pace of the global**
+**economic recovery was still expected to remain close to the previous projection.**
+Key support would come from continued improvements in the U.S. economy, given the
+ongoing recovery in the labor market, while both the manufacturing and services sectors
+were likely to resume positive trajectory. At the same time, the Japanese economy gained
+support from accommodative monetary policy, coupled with government spending on
+reconstruction projects following the earthquake which had affected manufacturing
+activities and private consumption in the earlier period. With regard to China, government
+measures led to some economic improvements in the near term, but elevated corporate
+debt and overcapacity in the industrial sector continued to pose downside risks to the longterm outlook.
+
+**The balance of risks to the global economy remained tilted to the downside, given the**
+risks surrounding China’s economy and financial markets as well as monetary policy
+divergence among advanced economies. In addition, uncertainty regarding the Brexit
+referendum results could add to global financial market volatility and weigh on the euro
+**area recovery through trade and investment channels. The Committee would pay close**
+attention to future developments of China’s corporate defaults and the effectiveness of
+policy responses from the Chinese authorities, since these issues could have implications on
+financial stability in China and regional countries.
+
+**The Financial Markets**
+
+**Overall confidence in the financial markets improved, as crude oil prices rebounded and**
+investors’ concerns over the Chinese financial markets eased somewhat in the near term.
+With the anticipation of gradual policy rate increases by the U.S. Federal Reserve, investors
+continued to increase holdings of emerging market financial assets including those of
+Thailand. This resulted in an increase in Thai equity market indices and an appreciation of
+**the baht against the U.S. dollar in line with regional currencies. The** **Nominal Effective**
+**Exchange Rate (NEER), however, depreciated due to a rapid appreciation in the Japanese**
+yen. Thai government bond yields, especially at the long end of the yield curve, continued
+to edge lower mainly due to strong demand from domestic investors, causing the yield
+curve to flatten substantially from the beginning of the year. This helped lower financing
+costs and made domestic monetary conditions more accommodative. Nevertheless, some
+
+
+-----
+
+Committee members expressed concerns regarding low global bond yields that could
+potentially reflect underpricing of risks. In addition, a possible snapback in global bond
+yields, which could raise Thai bond yields as well, could have adverse impacts on the
+corporate sector. These issues warranted close monitoring in the period ahead.
+
+**Going forward, monetary policy divergence could still contribute to heightened volatility**
+**in international capital flows and exchange rates. However, Thailand’s strong external**
+positions at present could help support investors’ confidence.
+
+**Domestic Economic Conditions**
+
+**The Thai economy continued to recover gradually, supported by effective disbursement of**
+the fiscal budget as well as tourism that expanded more than anticipated on the back of a
+broad-based increase in the number of foreign visitors. Nevertheless, merchandise export
+volume, after excluding gold, still contracted from the same period last year due to the
+slowdown in trading partners’ economies and prevailing structural problems. Overall private
+investment remained low, with capacity expansion seen only in certain industries such as
+telecommunications and renewable electricity generation. Subdued investment caused
+imported capital goods and raw materials, together with commercial bank credit growth, to
+be on the decline. The modest credit growth was also due partly to the expiration of the
+government soft loan program. Private consumption showed signs of weakening partly
+because the drought had affected purchasing power of agricultural households. Meanwhile,
+non-farm employment was able to provide less cushion than in the past, as demand for
+labor in the manufacturing sector declined in line with the softening of economic activity.
+
+**The Thai economy was estimated to expand in 2016 at a rate close to the assessment in**
+**the previous meeting. Tourism, projected to grow briskly, would compensate for the more-**
+than-expected slowdown in private consumption and investment. In the period ahead,
+despite a return to normal rainfall pattern from mid-year onward, the Committee expected
+the impacts of drought on the financial health of agricultural households to persist for some
+time. One reason was the loss of income that caused some agricultural households to incur
+more debt. Another was a potential deterioration in soil fertility following severe dry
+season. Private consumption would thus continue to be weighed down going forward.
+**Overall, risks to the recovery were judged to be skewed more to the downside compared**
+**with the previous assessment. The Committee would monitor domestic demand closely in**
+order to ascertain the economic momentum amid the fragile global recovery.
+
+**Headline inflation turned positive in April due to an increase in oil prices coupled with**
+acceleration in fresh food prices. The latter was, nevertheless, considered to be a temporary
+result of the unusually hot weather. Meanwhile, demand-side inflationary pressure
+remained low, as reflected by subdued core inflation which was consistent with a gradual
+economic recovery. **Going forward, the Committee projected headline inflation to**
+**gradually rise in line with the previous assessment, although the inflation outlook could be**
+affected by uncertainties in global oil prices and softening domestic demand.
+
+**Overall risks to financial stability rose slightly on the back of search-for-yield behavior and**
+weakened debt service ability of both agricultural households and SMEs amid a delayed
+economic recovery. The deterioration in debt service ability was reflected by rising nonperforming loan (NPL) ratios, especially in the categories of SME loans and credit card loans.
+In addition, some Committee members noted that the currently low financing costs of large
+
+
+-----
+
+corporations, which resulted from banks competing for financially secured borrowers and a
+rapid increase in investors’ demand for private debenture, could reflect underpricing of
+risks. As such, the Committee would monitor and assess these developments closely.
+
+**The Policy Decision**
+
+**The Committee voted unanimously to maintain the policy rate at 1.50 percent at this**
+**meeting. In deliberating monetary policy, the Committee judged that the Thai economy**
+would continue to expand at a rate close to the previous assessment but face greater
+downside risks on the domestic front. Moreover, the strengthening of the baht against
+some trading partner currencies during some recent periods might not be as conducive to
+the economic recovery as it could be. Nonetheless, overall monetary conditions eased
+further thanks to the low levels of bond yields and prior reduction in commercial bank
+lending rates, which were deemed conducive to overall economic recovery. Consequently,
+the Committee decided to keep the policy rate unchanged at this meeting. The Committee
+also saw the need to preserve the policy space should the ongoing economic recovery
+become affected by negative risk factors such as a further delay in the global recovery, a
+prolonged weakness in domestic consumption, or political uncertainties that could dent
+public and private investments. Meanwhile, risks to financial stability from the search-foryield behavior, as well as other long-term imbalances that could accumulate under the
+prolonged low interest rate environment, continued to warrant close monitoring. In
+addition, some Committee members judged that monetary policy easing would provide
+limited support to the economy and inflation, as the current slowdown of the Thai economy
+was partly due to global and domestic structural problems. Besides, the reduction in
+commercial bank lending rates had already eased monetary conditions.
+
+**Looking ahead, the Committee concurred that monetary policy should remain sufficiently**
+**accommodative. The Committee would stand ready to utilize an appropriate mix of**
+available policy tools in order to ensure that monetary conditions are conducive to the
+economic recovery, while safeguarding financial stability.
+
+Monetary Policy Group
+
+25 May 2016
+
+
+-----
+

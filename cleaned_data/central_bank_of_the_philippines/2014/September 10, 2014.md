@@ -1,0 +1,228 @@
+**HIGHLIGHTS OF THE MEETING OF THE MONETARY BOARD ON MONETARY POLICY ISSUES**
+
+
+**HELD ON 11 SEPTEMBER 2014[1]**
+
+**I.** **Monetary Policy Decision**
+
+The Monetary Board (MB) decided to:
+
+a) Increase the BSP’s key policy interest rates by 25 basis points (bps) to 4.00 percent for
+
+the overnight RRP (borrowing) facility and 6.00 percent for the overnight RP (lending)
+facility;
+
+b) Adjust the interest rates on term RRPs, RPs and SDAs accordingly; and
+
+c) Maintain the current reserve requirement ratios.
+
+**II.** **Key Considerations in the Formulation of the Monetary Policy Stance**
+
+  - In deciding to increase policy rates anew, the MB noted that the inflation target remains at
+risk, particularly for 2015. Latest baseline forecasts have shifted closer toward the higher end
+of the target range of 3±1 percent for 2015, indicating elevated inflation pressures.
+
+  - At the same time, the balance of risks to the inflation outlook continues to lean toward the
+upside, with price pressures emanating from possible further increases in food prices as a
+result of tight domestic supply conditions, as well as from pending petitions for adjustments in
+utility rates and potential power shortages. Moreover, while inflation expectations remain
+broadly within target, they are seen to be settling near the upper end of the inflation target
+range, notably for 2015.
+
+  - Given these considerations, the Monetary Board deemed it necessary to respond with
+stronger policy action to rein in inflation expectations further and preempt potential secondround effects even as previous monetary responses continue to work their way through the
+economy.
+
+  - The MB also saw the increase in policy rates as a preemptive measure in the context of the
+eventual normalization of monetary policy in some advanced economies.
+
+  - Going forward, the MB agreed that the BSP should remain prepared to take appropriate policy
+actions as necessary to ensure the achievement of its price and financial stability objectives.
+
+1 The discussions presented reflect the assessment made by the Monetary Board based on the information available at the time of the policy
+meeting. A comprehensive set of economic information was provided by the Technical Secretariat of the Advisory Committee (AC). The AC is
+composed of the Governor of the BSP as Chairman and four members, namely: the Deputy Governor of the Monetary Stability Sector, the Deputy
+Governor of the Supervision and Examination Sector, the Assistant Governor of the Monetary Policy Sub-Sector, and the Assistant Governor of the
+Treasury Department. The highlights of the discussions on the 11 September 2014 meeting were approved by the Monetary Board during its
+
+l i h ld 25 S b 2014 Th i f h M B d li i i h d l d 23 O b 2014
+
+
+-----
+
+**III.   Recent Developments and Inflation Outlook**
+
+The MB considered the following developments in deciding its policy stance:
+
+**A. Domestic price conditions**
+
+  - Year-on-year headline inflation held steady in August. However, other indicators increased
+such as the official core inflation, all alternative measures of core inflation estimated by the
+BSP, seasonally-adjusted month-on-month and 3-month moving average annualized core
+inflation rate, and the number and weight of above-threshold items. In contrast, the
+seasonally-adjusted month-on-month and 3-month moving average annualized headline
+inflation rate slowed down in August.
+
+  - Inflation in National Capital Region (NCR) increased to 4.4 percent in August from 3.9 percent
+in July. Meanwhile, inflation in areas outside NCR (AONCR) stood at 5.0 percent in August from
+5.1 percent in the previous month. By major island groupings, the weighted average inflation
+in Visayas and Mindanao were at 6.3 percent and 5.2 percent, respectively, from 6.7 percent
+and 5.7 percent in July. By contrast, the weighted average inflation in Luzon excluding NCR was
+higher at 5.3 percent in August from 5.1 percent a month ago.
+
+  - The MB noted that broad-based indications of second-round effects of food price shocks have
+not thus far become evident. Recent wage petitions have not diverged significantly from their
+historical trends and there are no new calls for transport fare adjustments. Inflation
+expectations remain well behaved although near the upper bound of 2015-2016 target range.
+Nonetheless, the MB was of the view that second-round effects of supply-side pressures will
+require close monitoring. Core inflation has edged higher in August, increasing the risk that
+cost-push pressures could feed into underlying inflation. Strong demand conditions amid
+persistent supply shocks could potentially increase the impetus for second-round effects.
+
+**B.  Inflation expectations**
+
+  - Based on both BSP and Consensus Economics surveys, the inflation forecasts for 2015-2016
+remain close to the upper end of the inflation target band of 4 percent. For the August 2014
+survey round, the BSP survey of private sector economists yielded slightly higher mean
+inflation forecast for 2014 at 4.4 percent (from 4.3 percent) while the mean inflation forecasts
+for 2015 and 2016 were steady near the target upper-bound at 4.0 percent and 3.9 percent,
+respectively. Results of the August 2014 Consensus Economics survey showed steady inflation
+forecast for 2014 at 4.3 percent and slightly lower inflation forecast for 2015 at 3.9 percent
+(from           4.0 percent).
+
+**C.  Inflation outlook**
+
+  - Average annual inflation is still expected to settle within the government’s target range for
+2014 – 2016. However, the latest baseline forecasts indicate that inflation will be above the
+midpoint of the 4.0 percent ± 1.0 percentage point target range in 2014. For 2015, the baseline
+inflation path suggests that inflation could approach the upper end of the 3.0 percent ± 1.0
+percentage point target range before easing to near the midpoint of the target range in 2016.
+
+
+-----
+
+  - However, the balance of risks to future inflation is still dominated by upside risks. Possible
+upticks in food prices as a result of tight domestic supply conditions, delays in goods shipments
+due to port congestion, pending petitions for adjustments in utility rates and looming power
+shortage pose upside risks to inflation. In addition, higher-than-expected liquidity growth
+remains a risk that could lead to higher inflation. Meanwhile, downside risk could stem from
+slower global economic activity and fiscal underspending.
+
+**D. Demand conditions**
+
+  - The country’s real gross domestic product (GDP) expanded at a faster pace of 6.4 percent in
+Q2 2014 from 5.6 percent in the previous quarter. However, this is slower than the 7.9-percent
+growth in the same quarter a year earlier. On a seasonally-adjusted basis, quarter-on-quarter
+GDP growth rose by 1.9 percent in Q2 2014 from 1.4 percent in Q1 2014. The MB likewise
+noted that the sources of output growth appear to be gradually becoming broader-based.
+Recent favorable trends in manufacturing performance could indicate a resurgence in the
+industry sector.
+
+  - The faster-than-expected GDP growth in Q2 2014 was driven by the services and industry
+sectors on the production side and by net exports and household consumption on the
+expenditure side. These developments reflect the improvement in external trade in line with
+the gradual recovery of the global economy and continued favorable domestic demand
+conditions.
+
+  - First semester GDP growth at 6.0 percent is below the Government’s growth target of
+6.5–7.5 percent for 2014.
+
+**E.  Supply-side indicators**
+
+Developments in Agriculture
+
+  - The Agriculture sector saw positive growth in Q2 2014, a reversal of the contraction seen in Q2
+2013. The growth in the agriculture accelerated due to the big turnaround in crop harvest,
+particularly palay, corn, mango, and other crops.
+
+  - _Palay output grew, posting a 6.4 percent growth in Q2 2014, up from negative 1.9 percent a_
+year ago due to yield improvement and an increase in harvested areas. However, palay output
+is expected to decline in Q3 2014 compared to year-ago levels based on the Bureau of
+Agricultural Statistics’ (BAS) Palay and Corn Production Survey report due to the reduction in
+harvest areas and yields per hectare. Data from the National Food Authority (NFA) as of endJuly 2014 indicated that the country’s rice inventory decreased from month-ago and the yearago levels. However, the NFA is optimistic that the arrival of the additional rice imports will
+increase inventory and stabilize supply and prices.[2]
+
+  - The price of the benchmark Thai 100% B rice continued to rise in July 2014 from the monthago level due to limited exportable supply in Thailand. On the other hand, the FAO food price
+
+2 On 17 February 2014, the NFA Council approved the importation of additional 800 TMT of rice. The NFA awarded to Vietnam Southern Food
+Corporation (VINAFOOD II) the supply of 600 TMT and to Vietnam Northern Food Corporation (VINAFOOD I) the remaining 200 TMT after an open
+bidding held on 15 April 2014. To further augment rice supply, the NFA Council approved the additional importation of 500 TMT of rice as
+intervention to the increasing rice prices and to ensure the availability of rice supply to the low income population. The NFA decided to purchase
+500 TMT of rice through a Government to Government (G to G) Agreement basis with the rice supply expected to be delivered in three (3)
+tranches: 40 percent not later than 15 October 2014, 40 percent not later than 15 November 2014, and 20 percent not later than 15 December
+2014
+
+
+-----
+
+index (FPI) was lower in July 2014 from month-ago and year-ago levels due largely to the fall in
+the prices of grains, oilseeds, and dairy.
+
+Oil Price Developments
+
+    - Global oil prices decelerated in August after US crude oil inventories showed their largest
+increase since January 2014. Tracking the movements of international oil prices, the domestic
+pump price of gasoline was adjusted downward in August while price of diesel oil was steady.
+Meanwhile, global oil demand forecasts for 2014 by global energy authorities were generally
+steady relative to previous assessments.
+
+Developments in the Utilities Sector
+
+    - Electricity rates increased in August due to higher generation costs. According to Meralco,
+total generation charge went up mainly due to higher prices at the Wholesale Electricity Spot
+Market (WESM) and the increase in the average cost of contracted power supply sourced from
+Power Supply Agreements (PSAs). Scheduled and forced outages of various plants, aggravated
+by the impact of Typhoon “Glenda” led to a shortfall in power supply during the month.
+
+**F. Financial market developments**
+
+    - In August, the PSEi moved past the 7,100 mark as a result of positive corporate earnings and
+strong GDP growth, notwithstanding continued geopolitical tensions between Russia and
+Eukraine, and in the Middle East. However, the peso weakened in August relative to the
+previous month amid World Bank’s growth forecast downgrade. The World Bank cited weaker
+government spending, tighter monetary policy, and higher inflation as reasons for the lower
+GDP growth forecasts for 2014 and 2015.[3] Furthermore, the peso was weighed down by
+improving US economic data which buoyed demand for US dollars. Meanwhile, debt spreads
+increase due to the risk-off sentiment fuelled by escalated tensions in the Middle East as well
+as the continued conflict in the borders of Russia and Ukraine.
+
+**G. Domestic liquidity and credit conditions**
+
+    - Domestic liquidity or M3 grew by 18.3 percent in July, slower than the revised 23.3-percent
+expansion recorded in the previous month, to reach P7.1 trillion. On a month-on-month basis,
+seasonally-adjusted M3 increased by 2.5 percent, following a slight decline of 0.3 percent in
+June.
+
+    - From 20.1 percent in June, the outstanding loans of commercial banks, net of reverse
+repurchase (RRP) placements with the BSP, grew faster at 21.8 percent in July. On a month-onmonth seasonally-adjusted basis, commercial bank lending increased by 2.7 percent in July.
+
+**H.  Fiscal developments**
+
+    - The NG fiscal deficit for the first semester of 2014 was P54.0 billion, higher than the P51.3billion deficit incurred during the same period in 2013. Netting out the interest payments in
+the expenditures, the primary surplus amounted to P105.8 billion, slightly unchanged relative
+to the level recorded in the period January-June 2013. The MB noted that the actual M3
+growth is in line with the path projected by the BSP.
+
+3 The World Bank revised its growth outlook for the Philippines to 6.4 percent from 6.6 percent for 2014, and to 6.7 percent from 6.9 percent in
+2015
+
+
+-----
+
+    - Revenue collections rose by 11.0 percent to P933.7 billion as of end-June 2014 compared to
+P839.5 billion in the same period in 2013, mainly due to higher collections by the Bureau of
+Internal Revenue (BIR). Likewise, expenditures in January-June 2014 amounted to P987.7
+billion, 11.0 percent higher than the expenditures in the same period in 2013.
+
+**I.  External developments**
+
+    - Global growth prospects continue to be uneven. The outlook for advanced economies is
+generally upbeat, mainly as output growth in the US strengthens further while the recovery in
+the euro area remains moderate. However, economic activity in Japan has been fragile, as the
+imposition of higher sales taxes in April continues to dampen domestic demand. Meanwhile,
+the pace of growth in major emerging markets, particularly in China and India, has been
+subdued, notwithstanding indications of modest improvements.
+
+
+-----
+

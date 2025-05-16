@@ -1,0 +1,136 @@
+# Minutes from the Monetary Policy Council Decision Making Meeting held on 7 May 2014
+
+At its meeting, members of the Monetary Policy Council discussed the current and
+
+future monetary policy decisions in the context of macroeconomic developments in
+Poland and abroad.
+
+While discussing external developments, Council members pointed to a gradual
+
+improvement in business conditions. It was noted that after growth in the United States
+had come to a halt in early 2014, the latest data pointed to a rebound of economic
+activity. In addition, it was highlighted that – although the Federal Reserve was
+gradually reducing the scale of its asset purchases – monetary policy in the United
+States continued to be very accommodative.
+
+Council members also pointed out that a gradual recovery continued in the euro
+
+area. It was emphasised that recovery in Germany – Poland's main trading partner –
+was somewhat stronger than in other euro area member states. However, weaker March
+industrial orders and business sentiment in Germany were brought to attention. It was
+also noted that sentiment in the financial markets of the euro area countries most
+severely affected by the debt crisis had improved, which should translate into easier
+access to credit, and further into a gradual improvement in economic conditions in some
+of these countries.
+
+Council members emphasised that inflation in many countries, including in
+
+particular in the euro area, remained low despite the ongoing economic recovery. This
+may convince major central banks, including the ECB, to continue their accommodative
+monetary policies. A few Council members expressed the opinion that deflation in the
+euro area was increasingly less likely, as indicated by the upward revisions of some
+inflation forecasts for the euro area. These members also highlighted the risks to longerterm growth sustainability associated with further monetary policy easing by the ECB.
+
+In their discussion on developments in the external environment of the Polish
+
+economy, a few Council members cited factors which could potentially be conducive to
+lower growth in developed countries in the coming years, particularly in the euro area.
+These factors included possible further fiscal consolidation, ageing population and a
+decline in investment outlays, including for R&D, in developed countries following the
+global financial crisis. Furthermore, a few Council members indicated that attempts by
+Chinese authorities to rebalance economic growth in China away from investments
+might weaken demand for Chinese imports of investment goods from developed
+countries, particularly from Germany.
+
+Referring to economic conditions in emerging market economies, it was noted that
+
+Chinese growth had weakened in 2014 Q1. Attention was also drawn to a deterioration
+in economic outlook for Ukraine and Russia, which was related to the Ukrainian crisis.
+
+
+-----
+
+While discussing the impact of the Ukrainian crisis on the Polish economy, the majority
+of the Council members judged that the mounting turmoil in Ukraine continued to pose
+a source of uncertainty for Polish economic growth outlook. They pointed out that a
+weaker economic growth outlook in Russia and Ukraine and a depreciation of their
+currencies might undermine Poland's trade with the Eastern markets. However, a few
+Council members were of the opinion that – given that Poland's trade with these markets
+was limited, and some of these exports could be redirected to other markets – the
+Ukrainian crisis would have a limited impact on Polish foreign trade, and in
+consequence, on economic growth in Poland. Council members also highlighted that the
+impact of the Ukrainian crisis on the sentiment in the international financial markets and
+the zloty exchange rate had been limited so far.
+
+While discussing recent data releases in Poland, Council members pointed to
+
+ongoing growth in industrial output and retail sales as well as improved construction
+sector performance, all of which confirms continued recovery in domestic demand. It
+was indicated that, in contrast to earlier estimates, domestic demand had been the main
+driver of growth already in 2014 Q4, which had been – among others – due to much
+faster than expected rebound of investment spending. Yet, it was also emphasized that
+recent data on economic activity had been lower than expected and in some cases,
+including retail sales growth, export orders and leading indicators of business sentiment,
+had weakened. In the opinion of some Council members, the deterioration in sentiment
+could have been related with higher uncertainty due to an escalation of the conflict in
+Ukraine and weaker economic growth outlook in the trading partners in the East.
+
+Council members noted that the rebound of economic activity was translating into
+
+improvement in labour market conditions. Employment in the corporate sector is
+gradually expanding, with a concurrent decline in unemployment. Yet it was
+emphasised that the unemployment rate persisted at an elevated level, which
+constrained wage pressure, as confirmed by slow unit labour cost growth. However, a
+few Council members expressed the opinion that – like in the previous recoveries – unit
+labour cost might be expected to pick up in the coming quarters, citing an acceleration in
+wage growth in recent months. On the other hand, some Council members argued that
+business conditions surveys did not point to an acceleration of wage growth in the near
+future.
+
+Some Council members pointed to a slight improvement in lending growth,
+
+supported by low loan costs. At the same time, a few Council members drew attention to
+a low share of investment loans in financing of investment projects by small and
+medium-sized enterprises. Other Council members assessed that low interest on
+deposits continues to undermine the incentives to save in the banking system, which was
+reflected in increasingly weaker growth in corporate deposits.
+
+In their discussion on inflation developments, Council members pointed to inflation
+
+remaining markedly below the NBP inflation target and still low core inflation, despite a
+rise in one of its measures. It was also emphasised that producer prices continued to
+
+
+-----
+
+decrease, and that inflation expectations remained low. Some Council members noted
+that the available forecasts pointed to a slightly slower rise in inflation in the coming
+months than envisaged in the March projection. Taking this into account, a few Council
+members expressed the opinion that inflation might return to the target later than
+forecasted in the March projection. Some Council members presented the view that
+accelerated economic growth might translate into a rise in inflation to a greater extent
+than currently forecasted. Moreover, a few Council members noted that the situation in
+Ukraine and the adverse weather conditions in many major food commodity exporters
+resulted in a considerable rise in their prices in the global markets. This is conducive to
+faster food price growth, whose deceleration – along with slow energy price growth –
+was previously one of the key factors keeping inflation down.
+
+The Council decided that the NBP interest rates should remain unchanged at the
+
+current meeting. Furthermore, the Council maintained its assessment that the NBP
+interest rates should be kept unchanged for a longer period of time, i.e. at least until the
+end of the third quarter of 2014. The Council members observed that a more
+comprehensive assessment of macroeconomic outlook needed to change the horizon of
+keeping the interest rates at the current level will probably be possible during the July
+meeting of the Council, when a new NBP projection is to be presented.
+
+The Council left the key NBP interest rates unchanged at the following levels:
+
+reference rate at 2.50%, lombard rate at 4.00%, deposit rate at 1.00%, rediscount rate at
+2.75%.
+
+Publication date: 22 May 2014
+
+
+-----
+

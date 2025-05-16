@@ -1,0 +1,1076 @@
+### Publication date: 20 October 2004
+
+## MINUTES OF
+# MONETARY POLICY COMMITTEE MEETING
+
+## 6 and 7 October 2004
+
+##### These are the minutes of the Monetary Policy Committee meeting held on 6 and 7 October 2004.
+
+ They are also available on the Internet
+
+(http://www.bankofengland.co.uk/mpc/mpc0410.pdf).
+
+##### The Bank of England Act 1998 gives the Bank of England operational responsibility for setting interest rates to meet the Government’s inflation target. Operational decisions are taken by the Bank’s Monetary Policy Committee. The Committee meets on a regular monthly basis and minutes of its meetings are released on the Wednesday of the second week after the meeting takes place. Accordingly, the minutes of the Committee meeting held on 3 and 4 November will be published on 17 November 2004.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 6-7 OCTOBER 2004
+
+1 Before turning to its immediate policy decision, the Committee discussed developments in
+
+financial markets; the international economy; money, credit, demand and output; and the labour
+
+market, costs and prices.
+
+**Financial markets**
+
+2 Short-term interest rates in the United Kingdom had fallen by up to 20 basis points over the past
+
+month. Euro-area rates had fallen by less, and US rates had risen. The major influences on UK rates
+
+appeared to have been domestic economic indicators and changing market perceptions of the likely
+
+future path of monetary policy. None of the economists surveyed in the latest Reuters and Bloomberg
+
+surveys had expected a change in the repo rate in October, and mean expectations for the repo rate at
+
+the end of 2005 had fallen to below 5% in the Reuters survey.
+
+3 Movements in longer-term interest rates in the United Kingdom, the United States and the euro
+
+area had not been large. It was notable that implied volatilities of longer-term interest rates had eased
+
+in many international markets during 2004, suggesting that the uncertainty felt by market participants
+
+about prospective long-term interest rates had fallen.
+
+4 The sterling exchange rate index (ERI) had fallen by over 1% since the Committee’s September
+
+meeting, leaving it around 4% below its level at the time of the August Inflation Report. The
+
+movement was larger than could be accounted for by changes in the differentials between UK and
+
+foreign interest rates. The Committee noted other possible influences. First, sterling appeared to have
+
+fallen in response to indicators of weaker domestic demand, and to a downward shift in the expected
+
+future path of interest rates, even though movements in interest differentials had been modest. Second,
+
+market participants might have given weight to the deterioration in the UK current account, believing
+
+that the longer-term equilibrium value of sterling might be lower than previously thought. UK export
+
+performance had been surprisingly weak for some time. And the markets might be placing increasing
+
+
+-----
+
+2
+
+weight on the fact that the UK net trade balance in oil was deteriorating.
+
+5 Equity prices had risen in the major international markets since the Committee’s September
+
+meeting. UK equities had outperformed those in most other markets, in local currency terms: the
+
+FTSE All-Share index had risen by over 3% since 8 September. Although the balance of news about
+
+near-term demand conditions had probably been weaker than expected, other factors had been more
+
+supportive for UK equities. The fall in the exchange rate would improve the competitiveness of UK
+
+firms selling goods abroad, and would increase the sterling value of the foreign currency earnings of
+
+firms quoted in the United Kingdom and operating in other countries. And the fall in interest rates
+
+would have reduced the rate at which future corporate earnings would be discounted in valuing
+
+equities.
+
+**The international economy**
+
+6 The world economy was likely to grow more rapidly in 2004 than for some 30 years. Prospects
+
+for 2005 still appeared robust.
+
+7 Euro-area output appeared to be growing at around its trend rate, and the outlook was still
+
+broadly consistent with the August Inflation Report projections. The indicators for the third quarter
+
+were mixed. On the output side, euro-area industrial production had risen in July, and had expanded in
+
+five of the past six months, but the purchasing managers’ indices (PMIs) for both manufacturing and
+
+services had eased in September. On the expenditure side, retail sales had fallen in August, but
+
+business and consumer confidence had both improved in September. Although German domestic
+
+demand growth remained weaker than for the euro area as a whole, there were some brighter signs.
+
+Retail sales had increased in August, although this was an erratic series. And, on a longer-term
+
+perspective, German competitiveness had been improving for some time. Nevertheless, the weakness
+
+of domestic demand posed downside risks. The flash estimate of euro-area inflation had shown a
+
+small fall in September, to 2.2%.
+
+8  Estimated GDP growth for 2004 Q2 in the United States had been revised up from 0.7% to 0.8%.
+
+This nevertheless represented slower growth than in the previous four quarters, and it was important to
+
+assess whether this softness would be temporary. Here too, indicators for 2004 Q3 had been mixed.
+
+On the output side, the growth rate of industrial production had weakened in August. The
+
+
+-----
+
+3
+
+manufacturing and non-manufacturing Institute of Supply Management (ISM) surveys had eased in
+
+September, although both remained at levels that were consistent with continuing strong growth.
+
+Turning to domestic demand, consumption had been flat in August after showing strong growth in
+
+July. Consumer confidence had fallen slightly in September, and remained below its average for the
+
+past ten years, possibly affected by higher petrol prices. Prospects for consumer confidence would in
+
+part depend on employment, where some recent indicators had been moderately encouraging: initial
+
+unemployment claims had remained at a relatively low level and the employment components in both
+
+ISM indices had increased in September. By contrast, the rate of monetary growth was slowing: the
+
+broad money aggregate (M2) had grown by only 3.1% in the year to August, which might suggest
+
+softer medium-term prospects. The economic outlook would be sensitive to any further large
+
+movements in the oil price, but consumer and producer price indicators for August suggested some
+
+easing in inflationary pressure. Overall, the prospects for activity were perhaps slightly weaker than at
+
+the time of the August Inflation Report.
+
+9 The US current account deficit had risen to over 5½% of GDP in 2004 Q2, and was likely to rise
+
+further. While it was unlikely to be sustainable in the medium term, it was not clear by what means
+
+and how rapidly the adjustment would take place, and that posed risks for the global economy.
+
+10 GDP growth in Japan had been revised down to 0.3% in 2004 Q2. However, this weakness
+
+appeared to be temporary; the latest Tankan survey and industrial production data were consistent
+
+with a pickup in Q3. Growth in China and the rest of Asia continued to be buoyant.
+
+11 Oil prices had risen sharply. West Texas Intermediate now stood at over $50 per barrel, an
+
+increase of over 20% since the Committee’s previous meeting, bringing the rise since the beginning of
+
+the year to about 60%. The implications for world economic prospects depended on the extent to
+
+which the increase turned out to be permanent, and on the degree to which the fuel intensity of global
+
+production adjusted to the price rise. There were reasons to believe that at least some of the latest
+
+increase might be temporary. First, both US oil production and oil stocks had been affected by
+
+Hurricane Ivan. Second, the price differentials between different grades of oil had widened recently;
+
+sustained increases in oil prices had in the past tended to be associated with similar increases in prices
+
+across all grades. Third, oil futures prices for delivery dates out to 2007 had not increased by as much
+
+as the spot price. Futures prices for mid-2007 were around $35 per barrel. Nevertheless, the futures
+
+price was now well above the level that had been thought sustainable two years ago, and this reflected
+
+
+-----
+
+4
+
+some influences which might be more persistent: the increasing demand from rapidly growing Asian
+
+economies, and supply constraints. Even if the futures price remained at this level, the recent rise in
+
+oil prices could be expected to have only a modest adverse impact on global growth, but with a
+
+downside risk if business and consumer confidence were severely damaged. So far the rise in oil
+
+prices did not appear to have given rise to second-round effects on wages and inflation in the major
+
+industrial countries.
+
+**Money, credit, demand and output**
+
+12 The Q3 National Accounts release had shown an unrevised estimate of 0.9% for UK GDP in 2004
+
+Q2. Estimated manufacturing output growth had been revised up, but this had been largely offset by a
+
+downward revision to construction output.
+
+13 The balance of output indicators for 2004 Q3 had been softer than expected at the time of the
+
+August Inflation Report. Indicators of service sector output suggested an easing of growth in the third
+
+quarter, but an informal survey by the Agents was more positive about growth prospects in most
+
+subsectors. Manufacturing output was reported to have fallen by 0.8% in August, the third consecutive
+
+monthly fall, and the previous estimate for July was revised downwards. That was a weaker picture
+
+than suggested by the evidence from business surveys, and it was possible that the latest estimates
+
+would subsequently be revised up. The CIPS manufacturing PMI had fallen slightly in September
+
+after a larger fall in August, although it was still consistent with expansion, and reports from the
+
+Bank’s regional Agents suggested that manufacturing output growth might have passed its peak in Q3.
+
+The CIPS construction survey had suggested a strengthening picture during Q3. Overall, the near-term
+
+outlook for output growth had probably softened, but the extent of this was uncertain. And it was also
+
+difficult at this stage to identify the demand counterparts to the easing of output growth in Q3.
+
+14 On the demand side, the National Accounts release had reported revised estimates for consumption
+
+growth of 1.1% and 0.6% respectively in 2004 Q1 and Q2. There were some indications that
+
+consumer spending had eased further in the third quarter: retail sales growth, although still buoyant,
+
+appeared to be easing; private car sales in September were down 6% on a year earlier; and the CBI
+
+Distributive Trades survey had suggested weaker retail activity in September compared with a year
+
+earlier. There were, however, some factors supporting consumer spending. Unsecured lending
+
+growth, particularly the growth of credit card lending, had turned up, probably encouraged by the fall
+
+
+-----
+
+5
+
+over the past year in the spread between unsecured interest rates paid by borrowers and the repo rate.
+
+And estimates for personal disposable income in the first half of 2004 had been stronger than expected.
+
+Overall, it was not clear that consumption was slowing by any more than would have been expected
+
+given the increases in the repo rate and the fall in house price inflation.
+
+15 House price inflation in the third quarter, at 2.9% according to the average of the Halifax and
+
+Nationwide indices, had been rather lower than expected at the time of the Inflation Report, and the
+
+latest survey from the Royal Institution of Chartered Surveyors (RICS) showed a sharp fall in the net
+
+balance of respondents reporting house price rises in the past three months, suggesting that the rate of
+
+increase in house prices had turned downwards. Indicators of housing market activity continued to
+
+ease. However, the number of housing loan approvals and the ratio of sales to stocks in the RICS
+
+survey were at broadly similar levels to the period of temporary weakness in early 2003.
+
+16 The estimate for the quarterly growth of whole-economy investment in 2004 Q2 had been revised
+
+up to 2.4% in the latest National Accounts, and estimated business investment growth had been revised
+
+up to 2.6%. Investment growth had been expected to ease in the August Inflation Report projections,
+
+but there could be upside risks to this outlook. Corporate profitability for both oil and non-oil
+
+companies had increased in 2004; estimated productivity growth had recently improved; corporates’
+
+broad money deposit growth and their resort to external finance had increased during Q3; and
+
+corporate capital gearing at market value had fallen in Q2, all of which would be consistent with
+
+strengthening investment. In the medium term, the fall in the exchange rate would also tend to support
+
+investment, if it persisted. But there could also be downside risks, if oil prices remained high or if
+
+domestic and external demand weakened. The Committee noted that optimism had fallen in both
+
+business and consumer services, according to the September CIPS services survey, and the investment
+
+intentions surveys so far available for Q3 were a little disappointing.
+
+17 Net trade was estimated to have made a zero contribution to growth in 2004 Q2, and UK export
+
+growth continued to be relatively weak, given the pickup in world activity and trade. The most recent
+
+weakness of exports had not been wholly consistent with the evidence from surveys, and the export
+
+data had been both erratic and prone to revision in recent years. Nevertheless, UK exporters were
+
+apparently continuing to lose market share more rapidly than expected. That might reflect a long-term
+
+adjustment of supply capacity to the appreciation of sterling since 1996, which had resulted in a
+
+squeeze on exporters’ profit margins. The recent easing in sterling, if maintained, might be a
+
+
+-----
+
+6
+
+supportive influence for exports. It was also possible that the fall in the share of world trade
+
+experienced by UK exporters was in degree misleading, because there had been particularly rapid
+
+growth in intraregional trade and activity in regions such as Asia.
+
+18 The growth rate of notes and coin in circulation had increased to 5.9% in September, but still
+
+showed a longer-term downward trend consistent with some easing in the growth of the value of retail
+
+sales and consumption. The annual growth rate of broad money, excluding holdings by ‘other
+
+financial corporations’, had increased to 9.5% in August, the highest rate since the inception of the
+
+Committee. The recent increase in growth might partly be associated with a change in household
+
+portfolio preferences towards bank deposits, although companies’ money holdings had also grown
+
+strongly and the annual growth rate of nominal GDP had also been increasing slowly, to stand at 6.1%
+
+in 2004 Q2.
+
+**Wages, costs and prices**
+
+19 Although labour market conditions remained tight, the Workforce jobs data now corroborated the
+
+Labour Force Survey (LFS) in suggesting that employment growth had moderated during the year.
+
+LFS and claimant count unemployment had recently been stable. There had been a rise in measured
+
+inactivity. Pay pressures remained muted. Whole-economy settlements were little changed in the
+
+latest month; the annual growth rate of regular pay was also flat; and annual whole-economy earnings
+
+growth in the three months to July had fallen by 0.5 percentage points compared with the three months
+
+to June, although the data had been hard to interpret because of possible changes in the pattern of
+
+bonuses. Given the perceived tightness of the labour market, the recent rise in inflation on the RPI
+
+measure to over 3% (reflecting higher mortgage interest payments), and strong corporate profitability,
+
+it was perhaps surprising that pay pressures had not been stronger. The labour share of income had not
+
+increased so far in 2004.
+
+20 CPI inflation had fallen to 1.3% in August. In line with pre-release arrangements, an advance
+
+estimate of CPI inflation in September had been provided to the Governor 3½ working days ahead of
+
+publication, and this had suggested a fall in the rate to 1.1%. The Committee noted that inflation had
+
+so far turned out materially lower than it had projected earlier in the year despite the sharp rise in oil
+
+and petrol prices. It was difficult to assess whether the factors bringing about this forecast error would
+
+unwind, or alternatively whether they would continue or even intensify. Much of the forecast error
+
+
+-----
+
+7
+
+could be accounted for by lower-than-expected prices of food and financial services, and several
+
+different factors – the weather, technological improvements, and intensifying competition – had
+
+probably contributed. But at the aggregate level, the argument that competition had strengthened was
+
+not supported by the rise in corporate profitability in 2004, unless that merely reflected the strength of
+
+the business cycle.
+
+21 There was some limited evidence of price pressures earlier in the supply chain. The UK import
+
+price deflator had risen by 1.1% in Q2. Producer input price inflation had risen from 3.9% in July to
+
+4.8% in August, while producer output price inflation had been stable at 2.5%. Although the growth
+
+of labour costs remained subdued, it was not clear whether producers’ margins would absorb a further
+
+fall in sterling. The output price balance in the CIPS services survey in September was still near its
+
+four-year high reached in August, but in the manufacturing survey the output price balance had fallen
+
+back a little from its June record high.
+
+**The immediate policy decision**
+
+22 The August Inflation Report had described a central projection, conditioned on the gently rising
+
+path for the repo rate implied by the market yield curve at the time, in which the world economy
+
+maintained a strong and broadly based recovery, the UK economy also showed robust growth in
+
+activity, and CPI inflation rose to around the 2% target in the second year of the forecast. There was
+
+now a good deal of subsequent information to assess. The fall in sterling and in UK market interest
+
+rates, and the rise in equity prices, would all tend to support activity and inflation. Broad money
+
+growth was increasing, and unsecured lending growth had also turned up. But there were signs that
+
+output had been growing less strongly in the third quarter than previously expected. Activity and
+
+inflation in the housing market were easing. The labour market, although tight, had not tightened
+
+further, and consumer price inflation had fallen further below target. In the global economy, it was
+
+likely that activity growth in the United States and Japan would pick up from the slower rates in Q2,
+
+although US indicators in Q3 were mixed and perhaps less buoyant than expected; the euro area
+
+outside Germany seemed likely to maintain growth at around its trend rate; and prospects in non
+Japan Asia looked strong. The further rise in the oil price was unlikely to persist in full, although there
+
+were substantial risks to this outlook.
+
+
+-----
+
+8
+
+23 Members concluded that no change in the repo rate was appropriate this month. While the impact
+
+of the latest data on output and demand would probably be on the downside in the near term, financial
+
+market developments, and in particular the fall in the exchange rate, would be supportive. The
+
+forthcoming Inflation Report process would allow the Committee to weigh all these developments
+
+together in assessing the outlook for inflation. There were also several puzzles in the current
+
+conjuncture, for example between the apparent tightness of the labour market and modest pay
+
+pressures, and between gradually accelerating broad money and nominal GDP, and low and stable
+
+consumer price inflation. These issues added to the uncertainty of the outlook for inflation, and the
+
+Committee would be able to consider them further during the November Inflation Report round.
+
+24 The Governor invited members to vote on the proposition that the repo rate should be maintained
+
+at 4.75%. The Committee voted unanimously in favour of the proposition.
+
+25 The following members of the Committee were present:
+
+Mervyn King, Governor
+Rachel Lomax, Deputy Governor responsible for monetary policy
+Andrew Large, Deputy Governor responsible for financial stability
+Kate Barker
+Charles Bean
+Marian Bell
+Richard Lambert
+Stephen Nickell
+Paul Tucker
+
+Jon Cunliffe was present as the Treasury representative.
+
+
+-----
+
+#### ANNEX: SUMMARY OF DATA PRESENTED BY BANK STAFF
+
+A1 This Annex summarises the analysis presented by Bank staff to the Monetary Policy Committee
+
+on 4 October 2004, in advance of its meeting on 6-7 October. At the start of the Committee meeting
+
+itself, members were made aware of the information that had subsequently become available, and that
+
+information is included in this Annex.
+
+**I** **Financial markets**
+
+A2 Short-term interest rates in the United Kingdom and the euro area had fallen on the month, but
+
+had risen slightly in the United States. Compared with recent months, there had been less evidence of
+
+co-movement between international short rates. In the United Kingdom, short-term interest rates had
+
+fallen following the MPC decision on 9 September, the release of the MPC minutes on 22 September
+
+and the weaker-than-expected UK industrial production data on 6 October. Despite an overall fall,
+
+there had been some rises in UK short rates during mid-September, in part owing to stronger-than
+expected UK retail sales data on 16 September. Market participants and economists polled by Reuters
+
+had not expected the MPC to raise the policy rate at the October meeting, but the majority of
+
+economists had still expected official rates to reach 5% by the end of the year.
+
+A3 Short to medium-term maturity nominal forward rates had fallen in the United Kingdom and the
+
+euro area, but had risen in the United States. International long-maturity forward rates had fallen,
+
+continuing a general downward trend that had begun in May 2004. In the United States, this trend
+
+appeared to have been driven largely by declines in longer-maturity US inflation forward rates over the
+
+same period. More generally, since the start of 2004, inflation forwards in the United States
+
+had appeared more volatile than those in the United Kingdom and the euro area. UK market-based and
+
+survey-based inflation expectations had changed little since the previous meeting. They had remained
+
+below the 2% CPI inflation target in the near term and close to target in the medium term.
+
+A4 The sterling effective exchange rate index (ERI) had fallen by 1.2% to 102.0; only part of the
+
+fall could be accounted for by movements in relative interest rates. Sterling had depreciated by 1.6%
+
+against the euro and by 0.2% against the US dollar, but had appreciated against the yen by 1.6%.
+
+Looking forward, Consensus surveys had indicated little change in expectations two years ahead.
+
+Uncertainty about the future value of sterling, as measured by implied volatilities from options prices,
+
+had also fallen. The US dollar ERI had fallen by 0.6%.
+
+
+-----
+
+2
+
+A5 In local-currency terms, all the major international equity price indices had risen – the FTSE All
+Share by 3.1%, the S&P500 by 2.3%, the Dow Jones Euro Stoxx 300 by 3.1%, and the Japanese Topix
+
+by 0.3%. The rise in the FTSE All-Share had been broadly based across sectors, although the
+
+consumer goods index had fallen back a little, and had pushed the overall index to its highest level
+
+since mid-2002. Uncertainty about the future level of the FTSE 100, as measured by three and twelve
+month implied volatilities, had been broadly unchanged. There had also been little movement in credit
+
+spreads on sterling, euro, and dollar-denominated investment-grade corporate bonds.
+
+**II** **The international environment**
+
+A6 According to the final estimate, French GDP had risen by 0.7% on the quarter in 2004 Q2,
+
+revised down from 0.8% in the previous release. The estimated contribution of final domestic demand
+
+to Q2 GDP growth had been revised down slightly, while the net trade and stocks contributions had
+
+been unchanged. Italian GDP had increased by 0.3% in 2004 Q2, following 0.5% growth in Q1. The
+
+contribution from final domestic demand to Italian GDP growth in 2004 Q2 had been 0.2 percentage
+
+points and net trade had contributed 0.5 percentage points. But stockbuilding had subtracted 0.5
+
+percentage points from growth.
+
+A7 Euro-area retail sales had fallen by 1.3% in August compared with the previous month,
+
+following zero growth in July. The European Commission's consumer confidence indicator for the
+
+euro area had improved slightly, to –13 in September from –14 in August. The euro-area seasonally
+
+adjusted unemployment rate had been 9.0% in August, unchanged from July.
+
+A8 Industrial production in the euro area had increased by 0.4% on the month in July, following a
+
+fall of 0.2% in June. The European Commission's industrial confidence indicator for the euro area had
+
+risen to –3 in September, from –4 in August. The euro-area purchasing managers index (PMI) for
+
+manufacturing had fallen to 53.1 in September, from 53.9 in August. The euro-area PMI index for
+
+services had fallen to 53.3 in September, from 54.5 in August. The German IFO index had fallen to
+
+95.2 in September, from 95.3 in August.
+
+A9 The Eurostat flash estimate for euro-area twelve-month inflation as measured by the harmonised
+
+index of consumer prices had fallen to 2.2% in September, from 2.3% in August.
+
+
+-----
+
+3
+
+A10 According to the final estimate, US GDP had risen by 0.8% in 2004 Q2, revised up from the
+
+preliminary estimate of 0.7%. Within this total, the estimates for growth of consumption and
+
+government spending had both been unchanged. Private investment growth had been revised up to
+
+3.3%, from 3.1% in the preliminary release. Export growth had been revised up to 1.8%, from 1.5%,
+
+and import growth had been revised down to 3.0%, from 3.3%. The US current account deficit had
+
+widened to 5.7% of GDP in 2004 Q2, compared with 5.1% in the previous quarter.
+
+A11 US non-farm payrolls had risen by 144,000 in August, following an upwardly revised increase of
+
+73,000 in July. Real private consumption in the United States had been unchanged in August
+
+compared with the previous month, following a rise of 1.1% in July. Real personal disposable income
+
+had risen by 0.4% in August. The saving rate had increased to 0.9% of disposable income in August,
+
+from 0.5% in July. The Conference Board and University of Michigan measures of consumer
+
+confidence had both fallen slightly in September.
+
+A12 Among the other monthly indicators, US industrial production had risen by 0.1% in August
+
+compared with the previous month, following a rise of 0.6% in July. The Institute for Supply
+
+Management (ISM) manufacturing index had fallen to 58.5 in September, from 59.0 in August. The
+
+ISM non-manufacturing index had fallen to 56.7 in September, from 58.2 in August.
+
+A13 US producer prices for finished goods had increased by 3.4% in the year to August, compared
+
+with a 4.0% rise in the year to July. The US headline consumer price index (CPI) had risen by 2.7% in
+
+the year to August, down from an annual rate of 3.0% in July. Twelve-month core CPI, which
+
+excludes food and energy prices, had increased by 1.7% in August, following a rise of 1.8% in July.
+
+A14 In Japan, industrial production had risen by 0.3% on the month in August, after being unchanged
+
+in July. The all-activity index had fallen by 0.6% in July compared with the previous month. Worker
+
+households' real living expenditure had fallen by 0.2% in the year to August, and worker households'
+
+real incomes had been unchanged. According to the Bank of Japan’s Tankan survey, the large
+
+manufacturers’ business conditions diffusion index had increased by 4 points, to +26, in September.
+
+The large non-manufacturers’ business conditions diffusion index had increased by 2 points to +11. In
+
+China, industrial production growth had been 15.9% in the year to August, following an increase of
+
+15.5% in the year to July. Chinese annual consumer price inflation had been unchanged in August, at
+
+5.3%.
+
+
+-----
+
+4
+
+A15 Since the Committee’s previous meeting, the spot price of Brent crude oil had risen by $6.26 per
+
+barrel and The Economist dollar non-oil commodity price index had risen by 0.3%. The indices for
+
+food and non-food agricultural goods had fallen by 1.3% and 8.0% respectively, while the index for
+
+metals had risen by 10.3%.
+
+**III** **Money and credit**
+
+A16 The twelve-month growth rate of notes and coin, adjusted for special factors, had risen to 5.8%
+
+in September, from 5.3% in August. The annualised three-month growth rate had also risen, to 5.2%
+
+in September from 3.8% in August. Annual growth of aggregate M4 deposits had risen to 10.1% in
+
+August, from 9.3% in July. Annual growth of M4 lending (excluding the effects of securitisations)
+
+had increased, to 13.8% in August, from 12.7% in July. Excluding other financial corporations, annual
+
+M4 deposit growth had been 9.5% in August, up slightly from July, while annual M4 lending growth
+
+(excluding the effects of securitisations) had been unchanged at 12.2%.
+
+A17 The annual growth rate of households’ holdings of M4 had increased to 8.8% in August, from
+
+8.6% in July, while the annual growth rate of M4 lending to households (excluding the effects of
+
+securitisations) had fallen to 13.8%, from 13.9%. Within total net lending to individuals – a measure
+
+that includes lending by a broader set of institutions than the banks and building societies that are
+
+responsible for M4 lending – the annual growth rate of secured lending had fallen to 15.0% in August,
+
+from 15.1% in July, and the annual growth rate of unsecured lending had risen to 12.0% in August,
+
+from 11.9%. The annual growth rate of credit card borrowing had risen to 16.6% in August, from
+
+16.2% in July, while the annual growth rate of other unsecured borrowing had been 10.0%, from 9.9%.
+
+A18 The average standard variable rate on mortgages quoted for existing customers had risen while
+
+the average two-year fixed rate on mortgages had fallen. The effective mortgage rate had increased by
+
+3 basis points, to 5.43%, in August. According to the latest data from the Council of Mortgage
+
+Lenders, the share of new mortgages (by volume) with fixed rates had been unchanged at 38% in
+
+August. The average quoted interest rate on postal and telephone deposits and the average quoted
+
+interest rate on credit card borrowing had risen in September, and the average quoted rate for a
+
+personal loan of £10,000 had fallen.
+
+
+-----
+
+5
+
+A19 The value of mortgage equity withdrawal undertaken by domestic households had fallen to £15.0
+
+billion in Q2, or 7.5% of households’ personal disposable income (PDI), from £15.4 billion in Q1
+
+(7.8% of PDI).
+
+A20 The number of loan approvals for house purchase had fallen to 96,000 in August, from 100,000
+
+in July. The number of loan approvals for purposes other than house purchase or remortgaging had
+
+also fallen slightly, to 93,000 in August from 94,000 in July. Unsold stocks of properties measured by
+
+the Royal Institution of Chartered Surveyors had remained unchanged at 60 per surveyor in August,
+
+while the number of sales per surveyor had fallen to 27 in August, from 28 in July.
+
+A21 Households’ income gearing had risen to 7.5% of PDI in Q2, from 7.2% in Q1, while
+
+households’ capital gearing had fallen by 0.1 percentage point, to 17.7%, in Q2.
+
+A22 The annual growth rate of private non-financial corporations’ (PNFCs’) holdings of M4 deposits
+
+had risen by 0.1 percentage point, to 12.7%, in August. The annual growth rate of M4 lending to
+
+PNFCs (excluding the effects of securitisations) had risen sharply to 7.5% in August, from 6.9% in
+
+July. Total external finance, a broader measure of PNFCs’ funding, had averaged £4.8 billion over
+
+July and August, compared with a monthly average of £2.5 billion in Q2.
+
+A23 PNFCs’ income gearing had increased to 18.6% in Q2, from 17.8% in Q1. PNFCs’ capital
+
+gearing at market value had fallen to 28.9% in Q2, from 29.6% in Q1, whereas capital gearing at
+
+replacement cost had increased by 0.4 percentage points to 37.5% in Q2.
+
+**IV** **Demand and output**
+
+A24 The Quarterly National Accounts for 2004 Q2 had been published on 29 September. Estimated
+
+GDP growth at market prices in Q2 had been unrevised at 0.9%. At basic prices, GDP growth had also
+
+been unrevised at 0.9%. The majority of revisions in the latest release had affected GDP and its
+
+components back to 2004 Q1, but revisions had been made to estimated household income back to
+
+1996 Q1. The cumulative effect of the revisions had been to increase the estimated level of GDP at
+
+basic prices by 0.1% in 2004 Q2.
+
+
+-----
+
+6
+
+A25 On the expenditure side of the accounts, domestic demand had been estimated to have grown by
+
+0.8% in 2004 Q2, as against 0.9% in the previous release. Within domestic demand, final domestic
+
+demand growth had been revised down, from 1.1% to 0.9% for Q2.
+
+A26 The estimated growth of households’ consumption (including that of non-profit-making
+
+institutions serving households) had been revised down by 0.5 percentage points, to 0.6% in 2004 Q2.
+
+Household consumption growth had also been revised in 2004 Q1, up from 0.6% to 1.1%, mainly
+
+attributable to revised estimates for UK spending abroad. The cumulative effect of revisions to past
+
+data had left the estimated level of household consumption in 2004 Q2 unchanged from the previous
+
+release. Business investment growth had been estimated at 2.6% in Q2, revised up from 0.5% in the
+
+previous release. Business investment growth in 2004 Q1 had been revised down by one percentage
+
+point, to 0.9%. Whole-economy business investment growth in Q2 had been revised up, from 1.4% in
+
+the previous release to 2.4%. Government expenditure had been estimated to have grown by 0.4% in
+
+2004 Q2, revised down from 1.0% in the previous release.
+
+A27 Excluding the effects of identified missing trader intra-community fraud, estimated export and
+
+import growth had been 1.6% and 1.1% respectively in 2004 Q2. Net trade had been estimated to have
+
+made a zero contribution to growth in 2004 Q2, unchanged from the previous estimate and stronger
+
+than the negative contribution of 0.4 percentage points in Q1.
+
+A28 On the output side of the National Accounts, the service sector had been estimated to have grown
+
+by 0.9% in 2004 Q2, unrevised from the previous release. Manufacturing output had been estimated to
+
+have increased by 1.2% in Q2, revised up from 0.9%.
+
+A29 On the income side of the accounts, households’ real post-tax income had increased by 0.6% in
+
+2004 Q2. Household consumption had grown slightly slower than income in Q2, such that the
+
+household saving ratio had risen to 6.2% in Q2, from 6.1% in Q1. The household sector had remained
+
+in financial deficit for the tenth consecutive quarter in Q2, at 0.6% of GDP. Revisions to households’
+
+estimated property income back to 1996 Q1, totalling £4 billion in 2004 Q2, had led to downward
+
+revisions to households’ saving ratio and their net financial balance.
+
+A30 The gross operating surplus of corporations (excluding the quarterly alignment adjustment) had
+
+been estimated to have increased by 4.8% in 2004 Q2. The gross operating surplus had increased in all
+
+sectors. The gross trading profits of private non-oil, non-financial corporations had grown by 1.3% in
+
+
+-----
+
+7
+
+2004 Q2. The corporate sector’s financial surplus (excluding the alignment adjustment) had fallen in
+
+Q2 to 1.8% of GDP. The public sector financial deficit had narrowed to 3.1% of GDP in Q2, from
+
+3.3% in Q1. The current account deficit had widened slightly, to 2.2% of GDP in Q2.
+
+A31 Amongst indicators of output in 2004 Q3, industrial production had fallen by 0.8% in August.
+
+Manufacturing output had also fallen by 0.8% in August, while energy output had fallen by 0.5%. The
+
+Chartered Institute of Purchasing and Supply (CIPS) manufacturing survey output index had fallen
+
+slightly, to 53.2 in September from 53.3 in August, and new orders had also fallen, to 51.8 in
+
+September compared with 53.1 in August. The expected output balance and total orders balance in the
+
+Confederation of British Industry (CBI) Monthly Trends Enquiry had both fallen on the month. The
+
+former had fallen to +12 in September, from +19 in August; the latter had fallen to –6 in September,
+
+from +2 in August. The CIPS services survey business activity index had fallen to 54.7 in September,
+
+from 56.9 in August. The incoming new business index had also fallen, to 55.1 in September, from
+
+56.2 in August.
+
+A32 Turning to indicators of expenditure in 2004 Q3, retail sales had grown by 0.6% in August,
+
+following a fall of 0.6% in July. The three-month on three-month growth rate of retail sales had fallen,
+
+from 1.8% in July to 1.4% in August. In the CBI Distributive Trades Survey, the balance of retailers
+
+reporting positive annual growth in sales volumes had fallen, from +2 in August to –9 in September.
+
+The GfK consumer confidence balance had fallen, to –7 in September from –5 in August. According
+
+to the Society of Motor Manufacturers and Traders, new private car registrations had been 8.7% lower
+
+in the three months to September compared with a year earlier.
+
+A33 The Bank’s regional Agents had conducted a special survey of service sector turnover,
+
+questioning around 180 firms. Respondents had been asked to compare sales in the period from April
+
+to September with the same period a year earlier. The survey indicated that sales had increased in
+
+professional and other business services, but fallen in consumer services. Respondents had also been
+
+asked how they expected sales to change over the six months to March 2005 compared with the same
+
+period a year earlier. A majority of respondents had expected higher or substantially higher sales
+
+growth. The survey indicated that changes in market share, customer demand and planned expansion
+
+of capacity had been expected by respondents to be the main factors likely to raise or lower turnover
+
+over the next six months.
+
+
+-----
+
+8
+
+A34 Three-month on three-month house price inflation measured by the Nationwide house price
+
+index had fallen to 3.4% in September, from 4.1% in August. The same inflation rate measured by the
+
+Halifax house price index had fallen to 2.8% in September, from 3.9% in August.
+
+A35 Underlying goods export volumes (excluding oil and erratics) had been estimated to have risen
+
+by 0.8% in July. Growth in underlying exports to the rest of the European Union had offset lower
+
+exports to non-EU countries. Goods import volumes (excluding oil and erratics) had been estimated to
+
+have increased by 1.1%.
+
+**V** **The labour market**
+
+A36 According to the Labour Force Survey (LFS), employment had decreased by 1,000 in the three
+
+months to July compared with the three months to April. The 16+ employment rate had decreased by
+
+0.1 percentage points in the three months to July, to 59.9%, but had been flat compared with the same
+
+period a year earlier. Average hours had decreased by 0.5% in the three months to July, and by 1.3%
+
+compared with the same period a year earlier.
+
+A37 The overall CIPS employment survey for September had continued to suggest employment
+
+growth. The indices for construction and services had both risen, and remained above the ‘no change’
+
+level of 50, while the index for manufacturing had eased further, although it was still slightly above the
+
+‘no change’ level. The average level of vacancies in the three months to August had increased by
+
+12.5% compared with the same period a year earlier. According to the August Recruitment and
+
+Employment Confederation survey, the demand for agency staff had continued to increase, while
+
+availability of agency staff had continued to fall.
+
+A38 LFS unemployment had fallen by 16,000 in the three months to July, and had been 87,000 lower
+
+compared with the same period a year earlier. The LFS unemployment rate had been unchanged at
+
+4.7% in the three months to July, and had fallen by 0.3 percentage points compared with the same
+
+period a year earlier. The claimant count unemployment rate had remained unchanged at 2.7% in
+
+August. The level of 16+ inactivity had increased by 87,000 in the three months to July. The 16+
+
+inactivity rate had risen by 0.1 percentage points, to 37.1%, in the three months to July compared with
+
+the previous non-overlapping quarter, and by 0.2 percentage points compared with a year earlier.
+
+
+-----
+
+9
+
+A39 According to settlements information available to the Bank, the mean whole-economy twelve
+month average earnings index (AEI)-weighted settlement had been 3.2% in the year to August,
+
+unchanged on the revised figure for July. The twelve-month mean settlement in the private sector
+
+(AEI-weighted) had been 3.3%, unchanged on the year to July, while that in the public sector (sample
+weighted) had been 3.0%, unchanged on the year to July.
+
+A40 Overall annual whole-economy earnings growth had been 3.8% in the three months to July,
+
+down 0.5 percentage points on the three months to June. Private sector pay growth had decreased by
+
+0.5 percentage points to 3.8%, within which private sector services pay growth had decreased by 0.6
+
+percentage points, to 3.3%. Public sector pay growth had been 4.2% in the three months to July, and
+
+had fallen by 0.2 percentage points on the three months to June. Whole-economy earnings growth in
+
+the year to July had decreased by 0.8 percentage points, to 3.3%. Annual earnings growth excluding
+
+bonuses had been 4.2% in the three months to July, unchanged on the three months to June. The
+
+comparable public sector growth rate had decreased by 0.1 percentage points to 4.4%, while the
+
+comparable private sector growth rate had been unchanged at 4.1%. Shorter-run measures of earnings
+
+growth excluding bonuses had fallen below the twelve-month rates.
+
+**VI** **Prices**
+
+A41 Since the Committee’s previous meeting, sterling oil prices had risen by around 17%.
+
+A42 Manufacturing input prices had risen by 1.6% in August. This meant that the annual inflation
+
+rate had risen to 4.8% in August, from 3.9% in July. Looking ahead, the CIPS Report on
+
+_Manufacturing had pointed to_ accelerating input prices in September: the input price index had risen
+
+to 67.7, from 65.0 in August.
+
+A43 Manufacturing output prices excluding duties had risen by 0.2% in August. The annual inflation
+
+rate had remained at 2.5% in August. Looking ahead, survey data had pointed to rising output prices,
+
+although the balance on expected output prices from the CBI Monthly Trends Enquiry had fallen to 7
+
+in September, from 11 in August.
+
+A44 September’s National Accounts release showed that the GDP deflator at market prices had risen
+
+by 0.5% in 2004 Q2. The annual inflation rate had remained at 2.4%. Within this, the annual inflation
+
+rate of the household consumption deflator was unchanged at 1.5% and the annual inflation rate of the
+
+
+-----
+
+10
+
+government consumption deflator had risen to 3.1% in Q2, from 3.0% in Q1. The annual inflation rate
+
+of the exports deflator had risen by 0.9 percentage points to –0.9% in Q2, and that of the imports
+
+deflator had risen by 0.5 percentage points to –1.0%.
+
+A45 Annual CPI inflation had fallen by 0.1 percentage points to 1.3% in August. Within this, annual
+
+goods price inflation had fallen to –0.7% in August, while annual services price inflation had risen to
+
+3.5%. Annual RPIX inflation had been unchanged at 2.2% in August. Annual RPI inflation had risen
+
+to 3.2% in August, from 3.0% in July.
+
+**VII Reports by the Bank’s Agents**
+
+A46 The Bank’s regional Agents reported that manufacturing output growth had slowed a little,
+
+though it had remained positive. That had been largely the result of weaker domestic demand.
+
+Manufacturing capacity utilisation had been a little above normal, with some contacts either close to,
+
+or at, full capacity. Manufacturers’ material costs had started to accelerate again, following a period in
+
+the summer when their rate of increase had flattened. The prices of oil-derived materials and energy
+
+had risen strongly, and contacts had expected further price increases for steel in the fourth quarter of
+
+2004. Only some of those higher costs had been passed on in the form of higher manufacturers’
+
+prices. Prices had risen by more in domestic markets than overseas, with the smallest increases in
+
+those markets where prices were set in dollars.
+
+A47 Contacts reported that house price increases and the number of housing transactions had fallen
+
+in most regions in the third quarter. House prices, on average, had been little changed compared with
+
+the second quarter. The stocks of property for sale had risen quite strongly, but demand had weakened
+
+and there had been some signs that estate agents and removals companies had been looking to reduce
+
+their staffing. House building volumes had not been expected to decline, however, given the
+
+underlying shortage of supply of new houses relative to demand.
+
+
+-----
+

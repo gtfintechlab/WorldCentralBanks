@@ -1,0 +1,217 @@
+**HIGHLIGHTS OF THE MEETING OF THE MONETARY BOARD ON THE MONETARY POLICY**
+
+**STANCE HELD ON 6 FEBRUARY 2020[1]**
+
+
+**I.** **Monetary Policy Decision**
+
+The Monetary Board decided to:
+
+a) reduce the overnight RRP (borrowing) rate by 25 basis points (bps) to 3.75 percent; and
+
+b) reduce the current overnight deposit and overnight lending rates by 25 bps to
+
+3.25 percent and 4.25 percent, respectively.
+
+**II.** **Key Considerations in the Formulation of the Monetary Policy Stance**
+
+  - The Monetary Board’s (MB) decision to cut the BSP’s policy interest rate was based on its
+assessment of a manageable inflation environment. The latest baseline forecasts indicate a
+broadly steady path of inflation for 2020 and 2021, with average inflation remaining within the
+target band of 3.0 percent ± 1.0 percentage point. At the same time, inflation expectations
+remained well-anchored over the policy horizon.
+
+  - In deciding on the stance of monetary policy, the MB also noted that the risks to the inflation
+outlook continue to tilt slightly toward the upside in 2020 and toward the downside in 2021.
+Upside risks to inflation over the near term emanate mainly from potential upward pressures
+on food prices owing in part to the African Swine Fever outbreak and tighter international supply
+of rice. Moreover, there continues to be the burden on the economy posed by the ongoing Taal
+volcano eruption and the aftermath of typhoon Tisoy. However, uncertainty over trade and
+economic policies in major economies continue to weigh down on global demand, thus
+mitigating upward pressures on commodity prices.
+
+  - At the same time, the MB observed that prospects for global economic growth have weakened
+further amid geopolitical tensions. At the same time, the MB noted that the spread of the
+coronavirus disease (COVID-19) could have an adverse impact on economic activity and market
+sentiment in the coming months.
+
+  - The MB agreed that the manageable inflation environment allowed the BSP room for a
+preemptive reduction in the policy rate to support market confidence. While recent demand
+indicators still point to a firm outlook for the domestic economy, the Monetary Board believes
+that a policy rate cut would provide additional policy support to ward off the potential spillovers
+associated with increased external headwinds.
+
+1 The discussions herein reflect the assessment made by the Monetary Board based on a comprehensive set of economic information available at the
+time of the policy meeting. The highlights of the discussions during the 6 February 2020 monetary policy meeting were approved by the Monetary
+Board during its regular meeting held on 27 February 2020. The next meeting of the Monetary Board on the monetary policy stance is scheduled on
+19 M h 2020
+
+
+-----
+
+**III.   Recent Developments and Inflation Outlook**
+
+The MB considered the following developments in deciding on the monetary policy stance:
+
+**A. Domestic price conditions**
+
+  - Average headline inflation for 2019 was registered at 2.5 percent, well within the National
+Government’s 2-4 percent target range for the year and lower than the 5.2 percent recorded in
+2018. Meanwhile, year-on-year headline inflation increased further in December 2019,
+confirming that inflation has bottomed out in September-October 2019. Price pressures came
+mainly from higher food prices linked to weather-related supply disruptions as well as rising oil
+prices in the international market.
+
+  - Core inflation, which excludes selected volatile food and energy items to measure underlying
+price pressures, rose to 3.1 percent in December from 2.6 percent in the previous month while
+all alternative measures of core inflation also rose during the month. Similarly, the alternative
+core inflation measures were all higher in December 2019.
+
+**B.  Inflation expectations**
+
+  - Results of the BSP’s January 2020 survey of private sector economists showed slightly higher
+inflation forecasts relative to the results in the previous month. The mean inflation forecast for
+2020 increased to 3.1 percent from 2.9 percent. Likewise, the mean inflation forecast for 2021
+went up to 3.2 percent from 3.1 percent. Meanwhile, the 2022 mean inflation forecast stood at
+3.1 percent.
+
+**C.  Inflation outlook**
+
+  - The latest baseline forecasts indicate that inflation is expected to settle firmly within the 3.0
+percent ± 1.0 percentage point target range for 2020 to 2021. Inflation is projected to average
+at 3.0 percent for 2020 and 2.9 percent for 2021. The upward adjustment in the inflation
+forecasts for 2020 can be attributed to the higher-than-expected December 2019 and January
+2020 inflation outturn due to weather-related disturbances, the transitory impact on food prices
+from the eruption of Taal volcano, and the peso depreciation.
+
+**Baseline Inflation Forecasts**
+
+12 December 2019 6 February 2020
+
+MB Meeting MB Meeting
+
+2020 2.9 3.0
+
+2021 2.9 2.9
+
+  - The risks to the inflation outlook continue to tilt slightly toward the upside in 2020 and toward
+the downside in 2021. Upside risks to inflation over the near term emanate mainly from
+potential upward pressures on food prices owing in part to the African Swine Fever outbreak
+and tighter international supply of rice. Moreover, there continues to be the burden on the
+economy posed by the ongoing Taal volcano eruption and the aftermath of typhoon Tisoy.
+However, uncertainty over trade and economic policies in major economies continue to weigh
+down on global demand, thus mitigating upward pressures on commodity prices.
+
+|Baseline Inflation Forecasts|Col2|Col3|
+|---|---|---|
+||12 December 2019 MB Meeting|6 February 2020 MB Meeting|
+|2020|2.9|3.0|
+|2021|2.9|2.9|
+
+
+-----
+
+**D. Demand conditions**
+
+  - Prospects for the domestic economy remain firm over the medium term, supported by resilient
+domestic demand, particularly as public construction is expected to continue to recover with
+the timely passage of the 2020 fiscal budget. Nevertheless, the recent spread of the COVID-19
+across the region could affect tourist arrivals in the country and dampen growth in sectors
+dependent on tourist activities.
+
+  - Preliminary information and analysis suggests that the impact of the eruption of Taal Volcano
+on the domestic economy appears to be limited thus far. Based on NEDA’s latest preliminary
+assessment[2] on Taal Volcano’s impact on economic activities, as of 27 January 2020, the total
+foregone income within the 14-kilometer radius danger zone was estimated at ₱4.3 billion
+across important industries in CALABARZON, equivalent to only 0.17 percent of the region’s
+2018 gross regional domestic product (GRDP). The eruption could dampen growth and exert
+upside inflationary pressures in the near term. However, these adverse effects are likely to be
+transitory and are expected to dissipate as the situation continues to stabilize.
+
+  - Forward-looking indicators for manufacturing production continue to suggest positive
+momentum in the near term. The preliminary composite purchasing managers’ index (PMI)
+remained above the 50-point expansion threshold at 54.0 in December 2019, higher than the
+November 2019 PMI reading of 53.1. Car sales also grew by 10.3 percent year-on-year in
+November 2019 due to higher passenger and commercial vehicle sales. Likewise, total energy
+sales of Meralco increased by 4.3 percent year-on-year in November 2019 owing to higher
+energy sales from the residential, commercial, and industrial sectors.
+
+**E.  Supply-side indicators**
+
+Developments in Agriculture
+
+  - Domestic rice prices have generally been declining in Q4 2019 as the main harvest season began
+and as the arrival of rice imports by the private sector continued.
+
+  - According to the latest climate advisory of the Philippine Atmospheric, Geophysical and
+Astronomical Services Administration,[3] ENSO-neutral conditions will likely persist across tropical
+Pacific Ocean and is expected to continue until September 2020.
+
+Oil Price Developments
+
+  - Dubai crude oil spot prices has been generally declining since the second half of January 2020
+until early February 2020 due to worries over lower global oil demand amid rising COVID-19
+cases. On the domestic front, prices of petroleum products went down compared to their yearon-year levels.
+
+Developments in the Utilities Sector
+
+  - The overall electricity rate declined in January 2020 due to lower power generation charges. This
+can be attributed to lower cost of power from Power Supply Agreements brought about by a
+
+2 NEDA estimates are foregone economic income, which does not yet include the damage to infrastructure, public and also private assets. The agency
+also stated that the damage brought about by the eruption of Taal Volcano in Batangas is unlikely to disrupt the growth outlook for the year due to
+its limited scale and impact, but may pose a short-term risk to inflation via food prices.
+3 S l Cli O l k R f 22 J 2020
+
+
+-----
+
+reduction in capacity fees as a result of the annual reconciliation of outage allowances as
+approved by the Energy Regulatory Commission.
+
+**F. Financial market developments**
+
+  - In January 2020, the peso depreciated against the US dollar compared to the previous month
+amid global market risk aversion and safe-haven buying driven by the geopolitical tension
+between US and Iran as well as the heightened fears of the potential economic impact of the
+spread of the COVID-19.
+
+**G. Domestic liquidity and credit conditions**
+
+  - Domestic liquidity expanded faster in December 2019. Preliminary data show that domestic
+liquidity grew faster at 11.4 percent in December 2019 (from 9.8 percent in November), while
+bank lending growth was faster at 10.9 percent in December 2019 (from 10.1 percent in the
+previous month). The higher M3 growth was due the sustained growth in credit to the private
+sector as a result of higher loans for real estate activities; financial and insurance activities;
+electricity, gas, steam and airconditioning supply; construction; and information and
+communication. The expansion in net foreign assets brought about by foreign exchange inflows
+coming mainly from overseas Filipinos’ remittances and business process outsourcing receipts
+also contributed to M3 growth.
+
+**H.  Fiscal developments**
+
+  - With the timely passage of the 2020 fiscal budget, fiscal spending is expected to support the
+country’s growth momentum in 2020. For the first 11 months of 2019, the National Government
+recorded a P409.1 billion fiscal deficit, 14.3 percent lower than the deficit posted in the same
+period in 2018.
+
+**I.  External developments**
+
+  - The International Monetary Fund revised downward its full-year economic growth forecast for
+2019, 2020, and 2021 in its January 2020 World Economic Outlook. The downward revisions in
+the global growth projections reflect negative surprises to economic activity in a few emerging
+market economies and the impact of increased social unrest.
+
+  - For advanced economies, economic growth forecast was revised downwards for 2020 but
+maintained for 2021 due to the expected slower growth in the US, euro area, and the UK, as
+well as downgrades to other advanced economies in Asia, notably Hong Kong due to the impact
+of the pro-democracy protests. Meanwhile, notwithstanding a less positive outlook, growth for
+EMDEs is expected to improve in 2020 and 2021 relative to 2019, reflecting the projected
+recovery from deep downturns in some emerging market economies and an ongoing structural
+slowdown in China. For ASEAN, growth forecasts for 2020 and 2021 were also lower as growth
+prospects for Indonesia and Thailand have been revised down slightly due to continued
+slowdown in exports.
+
+
+-----
+

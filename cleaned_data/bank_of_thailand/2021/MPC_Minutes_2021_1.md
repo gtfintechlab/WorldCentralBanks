@@ -1,0 +1,514 @@
+**Edited Minutes of the Monetary Policy Committee Meeting (No.1/2021)**
+
+**3** **February 2021, Bank of Thailand**
+
+**Publication Date:** **17** **February 2021**
+
+**Members Present**
+
+Sethaput Suthiwartnarueput (Chairman), Mathee Supapongse (Vice Chairman),
+Paiboon Kittisrikangwan, Kanit Sangsubhan, Rapee Sucharitakul, Somchai Jitsuchon,
+and Subhak Siwaraksa
+
+**The Global Economy and Financial Markets**
+
+**The global economy continued to recover despite new waves of COVID-19 infections. While**
+economic activities in the manufacturing sector improved, those in the services sector were
+expected to deteriorate, albeit by a lesser degree compared with the first wave of the pandemic
+thanks to the less strict containment measures undertaken by many countries. Meanwhile, many
+major economies already began their vaccination campaigns and were expected to achieve herd
+immunities by mid-2021. Such vaccination progress, along with continued financial and fiscal
+support, would help bolster the global economic recovery.
+
+**The global financial market sentiment continued to improve.** **However, capital inflows to**
+**emerging markets, including Thailand, did not markedly increase.** **Market participants expected**
+**a stronger US economic recovery as the decline in political uncertainties strengthened the**
+likelihood of the US fiscal stimulus package. While long- term US Treasury yields rose in
+accordance with these expectations, Thailand’ s long- term government bond yields did not
+experience a similar increase. On the exchange rate, the baht against the US dollar moved within
+a narrow range and was in line with regional currencies. The nominal effective exchange rate
+(NEER) remained stable since the previous meeting.
+
+**Looking ahead, once the global health crisis from the COVID- 19 pandemic becomes**
+**well- contained, and the global economy continues to recover with most central banks**
+**maintaining their accommodative stance, risk-on sentiment would likely persist. In such case,**
+bond yields and equity prices could increase. The US dollar would likely weaken, with the regional
+currencies appreciating against the US dollar. However, the outlook remained highly uncertain
+and could result in increased volatility in the global financial market. The Committee thus deemed
+it necessary to closely monitor these developments.
+
+**Domestic Economy and Financial Stability**
+
+**The Thai economy was affected by the resurgence of the COVID-19 outbreak.** **However,**
+**the impact would be less severe than last year thanks to the less strict containment measures,**
+the additional support from the timely and targeted government measures, and the continued
+export recovery. The economy would thus expand in 2021, albeit at somewhat a lower rate than
+the December 2020 projection. Negative factors affecting the economy were as follows. First,
+the recent outbreak turned out more severe than previously assessed. As a result, private
+consumption would significantly weaken in line with lower labor income and higher
+unemployment. Approximately 4.7 million workers were expected to be at risk of facing severe
+
+
+-----
+
+income losses. These included daily-hired and self-employed workers in the non-farm sectors,
+as well as workers in the hotel industry. Among these workers, around 1.2 million could become
+unemployed or underemployed.[1/] Second, foreign tourist figures in 2021 were revised downward
+from the previous assessment as the reopening plan would likely be more gradual. Third, public
+expenditure for the fiscal year 2022 was expected to be lower than previously assessed.
+Nonetheless, some positive developments would partially offset the negative factors. These are
+(1) the additional fiscal stimulus in the first half of 2021, (2) better-than-expected recovery of
+most merchandise exports following the global economic recovery, particularly the US economy
+which was expected to expand more than previously assessed on the back of fiscal stimulus, and
+(3) the postponement of some budget disbursement from the fourth quarter of 2020 to 2021.
+**Headline inflation was projected to return to the target in the middle of 2021 and would stay**
+**close to the lower bound of the target range throughout the forecast period. Medium-term**
+inflation expectations remained anchored within the target.
+
+**Uncertainties surrounding the outlook of the Thai economy remained high with considerable**
+**downside risks. In the near term, the economic recovery would depend on the resolution of**
+the recent outbreak and the contemporaneous fiscal support. Over the medium term, it would
+depend on several factors. First, the recovery of foreign tourist figures which could be influenced
+by many factors including the plan for reopening the country, the situation of the outbreak, and
+the effectiveness of the vaccines. Second, the procurement and distribution of the COVID-19
+vaccines in Thailand, which would have implications for domestic economic activities and the
+reopening policy. Third, the fiscal support, both in terms of magnitude and duration. Fourth, the
+labor market situation, which became more fragile and could have an impact on private
+consumption.
+
+**The financial system became more vulnerable due to the negative shocks from the recent**
+**outbreak.** **Financial positions of households became more fragile following income shocks,**
+particularly the low-income households which had not yet recovered from the previous outbreak.
+Thus, credit quality on these households would have to be closely monitored. Meanwhile,
+**revenues and financial positions of businesses were affected, especially those in the sectors**
+relating to tourism and services which had not yet recovered from the previous outbreak.
+Small and medium enterprises (SMEs) experienced difficulties in accessing credit due to increased
+credit risks which could lead to higher probabilities of default for some businesses. The shortfall
+in liquidity, especially for SMEs, could have a negative feedback effect on the economy.
+Nevertheless, the overall impact on the financial institution system and the bond markets would
+be limited, as financial positions of commercial banks remained robust and were capable of
+withstanding potential deterioration in loan quality in the future.
+
+**Discussions by the Committee**
+
+**The Committee discussed the impact of the recent the COVID-19 outbreak on the economy and**
+expected the Thai economy to expand at a somewhat slower pace than the previous assessment.
+Moreover, the pace of the recovery among sectors would become more uneven which would
+induce increased vulnerabilities in the labor market. Meanwhile, risks to the economic outlook
+
+1/ Underemployed workers are defined as those working less than 24 hours per week
+
+
+-----
+
+increased, particularly from the uncertainty in the foreign tourist figures. These would have
+implications for the appropriate mix of financial and fiscal measures. The details were as follows.
+
+  - **Although the impact of the recent outbreak on the Thai economy would be less than**
+
+**last year, the pace of the recovery would be slower and more uneven among sectors**
+**and firms. In particular, several groups of firms had not recovered from the previous wave**
+of the outbreak and now were further hit. SMEs were particularly affected more than
+large corporates. The Committee expressed concerns over increased vulnerabilities in
+**the labor market, especially for daily-hired and self-employed workers in the non-farm**
+**sectors and workers in the hotel industry. The numbers of unemployed and**
+underemployed workers were projected to spike in the first quarter of 2021, and would
+subsequently decline gradually in line with the infection rates, the relaxation of the
+containment measures, and the fiscal stimulus going forward.
+
+  - **The Committee viewed that the public sector should implement more targeted**
+
+**measures in a sufficient manner, and these measures should be front-loaded at the**
+**onset of the negative shocks to prevent negative feedbacks on the economy and lessen**
+long-term economic scars. Otherwise, it would become more difficult and costly to
+reverse the impacts. For example, unemployed workers could take a long time to re-enter
+the labor force. On fiscal measures, the public sector should accelerate the spending on
+relief and support measures, especially project approvals under the Emergency Decree
+Authorizing the Ministry of Finance to Raise Loans to Solve Problems, to Remedy and
+Restore the Economy and Society, since the authorized borrowing period would end in
+September 2021. Financial and credit measures should quickly alleviate the debt burden
+of affected businesses and facilitate liquidity distribution through the existing loan
+guarantee scheme (PGS9). Going forward, the public sector should prioritize on economic
+restoration measures and expedite budget disbursements to sustain the momentum of
+fiscal policy. Additional government support could be tied to clearly stated objectives and
+conditions, such as employment retention or business model adjustments to the postCOVID environment. These would help alleviate vulnerabilities in the labor market and
+raise long-term potential growth of the economy.
+
+  - **The Committee viewed that the major risk to the economic outlook was the recovery**
+
+**of foreign tourists.** **External factors which could affect the pace of border reopening**
+included travel restrictions from China and virus mutations that could reduce vaccine
+efficacy. Important domestic factors included the efficacy and distribution of COVID-19
+vaccines, the willingness of the population to take the vaccine, and the ability to control
+and screen travelers crossing the borders.
+
+  - **The Committee deemed it important that the public sector should prepare a package of**
+
+**financial and fiscal measures corresponding to risks and economic development for**
+**each period going forward, and such policy package should be readily available if**
+**necessary. For instance, in the case that Thailand could not reopen the borders to admit**
+foreign tourists during the peak season from late 2021 to early 2022, the government
+should prepare fiscal measures and provide additional stimulus to cushion against such
+uncertainty. The Committee noted that rising public debt in the medium term would not
+
+
+-----
+
+**pose a significant risk to fiscal sustainability.[2/] Regarding financial measures,**
+the Committee suggested that the Bank of Thailand and related agencies should closely
+monitor the situation and stand ready to implement additional financial measures,
+including the potential extension of measures that would expire in 2021 if necessary.
+
+**Monetary Policy Decision**
+
+**The Committee voted unanimously to maintain the policy rate at 0.** **50 percent to support**
+**the economic recovery which remained highly uncertain.**
+
+The Committee assessed that the Thai economy would expand somewhat slower than the
+previous assessment due to the impact of the new wave of the COVID-19 outbreak on the
+economy. Nevertheless, recoveries across sectors were likely to be more uneven. Additional
+measures should thus be more targeted in line with the need and potential prospect of
+businesses. The problem facing the Thai economy was less about the level of the policy
+interest rate as lending rates and bond yields were already at a record low. While the overall
+liquidity in the banking system remained ample, the main challenge was about distributing
+liquidity to businesses and households in need sufficiently. Thus, financial and credit
+measures such as credit guarantee schemes that reduce credit risks should be enhanced and
+would be the appropriate solution. Moreover, uncertainties surrounding the economic
+recovery remained high. The Committee therefore voted to maintain the policy rate at this
+**meeting to preserve the limited policy space to act at the appropriate and most effective**
+**timing to maximize its effectiveness.**
+
+**The Committee viewed that if the baht appreciated rapidly, the economic recovery could**
+**be affected. Therefore, the Committee would closely monitor developments in foreign**
+exchange markets and capital flows as well as consider the necessity of implementing
+additional appropriate measures to ensure that the exchange rate movements would not
+hinder the economic recovery. These could be achieved by reducing pressures on the baht
+and addressing structural problems in the Thai foreign exchange market through continued
+efforts in expediting the new foreign exchange ecosystem. In addition, the Committee viewed
+that by encouraging Thai institutional investors to increase their portfolio investments
+abroad, it would facilitate capital outflows and improve the balance between inflows and
+outflows.
+
+**The Committee viewed that policy coordination among government agencies would be**
+**critical in supporting the economic recovery going forward.** **In addition, financial and fiscal**
+**measures should be expedited and be more targeted in line with the need and potential**
+**prospect of businesses.** Monetary policy must remain accommodative. Financial and credit
+measures should expedite liquidity distribution to the affected groups in a targeted and timely
+manner, for example, through credit guarantee schemes to reduce credit risks. In addition,
+appropriate conditions and incentive structures for employee retention could be considered.
+Financial institutions should expedite debt restructuring to have broader impacts. Additional
+
+2/ This was due to (1) the low level of pre-pandemic public debt, (2) the remaining average time to maturity of debt being
+approximately 10 years, (3) the debt being mostly denominated in local currency, and (4) the nominal GDP growth was
+expected to be higher than interest rates at which the government pays its debt
+
+
+-----
+
+fiscal measures should be expedited in a targeted manner to support the economy. Policy
+packages consisting of financial and fiscal measures should be prepared according to risks in
+each period going forward in order to safeguard the economy against negative shocks.
+Furthermore, the government should simultaneously implement supply-side policies to help
+support sustainable economic recovery in the post-COVID environment. In particular, labor
+upskilling and infrastructure investment to support the digital economy should be promptly
+pursued to help support sustainable economic recovery in the long term.
+
+Under the monetary policy framework with the objectives of maintaining price stability,
+supporting sustainable and full-potential economic growth, and preserving financial stability,
+**the Committee continued to put emphasis on supporting the economic recovery.**
+The Committee would monitor the outbreak situation in Thailand, fragility in the labor
+market, the procurement and distribution of the vaccines, the progress of protocols for
+admitting foreign tourists, and the adequacy of the government measures, in deliberating
+monetary policy going forward. The Committee would stand ready to use additional
+appropriate monetary policy tools if necessary.
+
+**Monetary Policy Group**
+
+**17** **February 2021**
+
+
+-----
+
+# Key Issues of the MPC Meeting No.1/2021
+
+### 3 February 2021
+
+## Impact of the new wave of the COVID-19 outbreak
+
+
+-----
+
+###### 2,900
+
+ 2,800
+
+ 2,700
+
+ 2,600
+
+ 2,500
+
+ 2,400
+
+ 2,300
+
+|but th level GDP|e pace of ex|p|
+|---|---|---|
+
+
+##### but the pace of expansion would now be somewhat slower than the previous forecast
+ in line with the latest Fiscal Policy Office’s projection
+
+###### Negative shocks since the previous MPC, namely
+ GDP level GDP
+ 2,900 •200 More severe economic impacts from the COVID-19
+ 180
+ containment measures than previously assessed
+ 2,800
+ 160
+
+ • Lower-than-expected foreign tourist figures
+ 140
+ 2,700
+
+ • Lower-than-previously-assessed FY2022 public expenditure
+ 120
+ 2,600 100
+ 80
+ were partially offset by some positive developments:
+ 2,500
+ 60
+
+ •40 Additional fiscal stimulus measures in first and second
+ 2,400
+ 20 quarters of 2021
+ 2,300 0
+
+ • Export recovery for almost all categories of merchandises
+ 2018 2019 2020 2021 2022
+
+ • Postponement of budget disbursement from the fourth
+ MPC Dec-20 MPC Feb-21
+ quarter of 2020 to 2021
+
+
+-----
+
+##### than last year due to less strict containment measures
+
+|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|Col19|Col20|Col21|Col22|Col23|Col24|Col25|Col26|Col27|Col28|Col29|Col30|Col31|Col32|Col33|Col34|Col35|Col36|Col37|Col38|Col39|Col40|Col41|New wave|Col43|Col44|Col45|Col46|Col47|Col48|Col49|First wave|Col51|Col52|Col53|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||||||||||||||||||||||||Severe cases|||||||||||~25 cases1/||||||||~800 cases2/||||
+||New wave (excluding foreigners) Death ratio 0.1% 1 Starting date of the outbreak 1/ data as of 9 Jan 64 First wave: 12 Mar 20 2/ calculated from the ratio of severe cases (20% fr New wave: 19 Dec 20 Latest data as of 2 First wave||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||Death ratio|||||||||||0.1%||||||||1|||-2%|
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+##### than last year due to less strict containment measures
+
+###### Economic impacts were less compared with last year outbreak The recent outbreak became more severe and proliferate faster than expected.
+ thanks to less strict containment measures
+ Number of accumulative new COVID-19 cases in the past 7 days
+ % Change from t0 Apple Mobility index (cities in red zone)
+ cases New wave First wave 25
+ 2,000 New wave (excluding foreigners) Severe cases ~25 cases[1/] ~800 cases[2/]
+ 0
+ Death ratio 0.1% 1-2%
+ 1,600
+
+**Starting date of the outbreak** 1/ data as of 9 Jan 64 **-25**
+
+###### 1,200 First wave: 12 Mar 20 2/ calculated from the ratio of severe cases (20% from the total cases)
+
+**New wave: 19 Dec 20** **-50**
+
+###### 1st wave
+ 800
+ Latest data as of 26 Jan 21
+ -75
+ 2nd wave
+ 400 First wave
+ -100
+ 0
+ t0 t10 t20 t30 t40 t50 t60 t70 t80 t90
+ 0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50
+ Number of days from the beginning of the outbreak Latest data as of 25 Jan 21
+
+Source: Apple mobility trend report, calculated by Bank of Thailand.
+
+Source: Department of Disease Control, calculated by Bank of Thailand
+
+###### New wave (Jan 21 ~) First wave (Apr ~ Jun 20)
+ The outbreak was severe and spread widely with several clusters. The outbreak was severe, and strict containment measures
+ Severity and duration of the outbreak The duration of the outbreak would be more prolonged were implemented countrywide for a month and gradually
+ (containment measures for 2-3 months, gradual re-opening within 2 months) relaxed within 2 months.
+ The containment measures are targeted, area-based and less strict relative to the
+ Stringency of the containment measures previous outbreak (even in the strictest areas) Strictest containment measures implemented countrywide
+
+No closure on shopping malls/Allow dine-in/Able to travel across cities if necessary
+
+###### Vaccination timeline More certain timeline Unknown timeline
+ Greater capacity in testing and hospitalization than the previous outbreak
+
+
+-----
+
+#### which would require appropriate, targeted, and sufficient measures for each group
+
+|Small impact on revenue Already recovered from the  Canned food previous wave  Freight transport  Electrical appliances  Large construction firms relying  Electronics on public sector projects or  Medical devices/ rubber gloves ongoing private sector projects Not fully recovered  Auto- and auto-parts  Low-rise residential property|Revenue would be affected temporarily, but would recover after the relaxation of containment measures Already recovered from the  Refrigerated and frozen food previous wave Not fully recovered  Hotels in provinces that depend  Trade and retail spaces on domestic tourists  Restaurant  Construction SMEs relying on  Public buses private sector projects|
+|---|---|
+|Revenues had already been affected during the previous wave. Modest impact on revenue is expected after the second wave with subsequent slow recovery.  Textiles and apparel  Condominiums relying on Thai customers|Revenue had already been affected during the previous wave and excess capacity remains high. Recovery is expected to be slow until vaccines are available and borders are re-opened for tourism.  Condominiums in the areas with  Hotels in provinces that depend oversupply or condominiums on foreign tourists that rely on foreign customers  Airlines and tour buses|
+
+
+#### which would require appropriate, targeted, and sufficient measures for each group
+
+###### Slightly decreasing
+ Revenue outlook during the new wave of the outbreak Significantly decreasing
+
+ Good
+ Revenue would be affected temporarily, but would recover after the
+ Small impact on revenue
+ relaxation of containment measures
+ Already recovered from the  Canned food previous wave  Freight transport Already recovered from the  Refrigerated and frozen food
+  Electrical appliances  Large construction firms relying previous wave
+  Electronics on public sector projects or
+ Revenue
+
+  Medical devices/ rubber gloves ongoing private sector projects Not fully recovered  Hotels in provinces that depend
+ position  Trade and retail spaces on domestic tourists
+ the Not fully recovered  Auto- and auto-parts  Restaurant  Construction SMEs relying on
+ new wave of  Low-rise residential property  Public buses private sector projects
+ the outbreak
+ Revenues had already been affected during the previous wave. Revenue had already been affected during the previous wave
+ Modest impact on revenue is expected after the second wave and excess capacity remains high. Recovery is expected to be slow
+ with subsequent slow recovery. until vaccines are available and borders are re-opened for tourism.
+
+  Condominiums in the areas with  Hotels in provinces that depend
+
+  Textiles and apparel
+ oversupply or condominiums on foreign tourists
+
+  Condominiums relying on Thai customers
+ Bad that rely on foreign customers  Airlines and tour buses
+
+
+-----
+
+###### faced significant income loss since the first wave of the outbreak
+ and thus became more vulnerable than other groups
+ non-farm employees Aggregate income of non-farm employees
+ classified by income level classified by sector
+
+ Index (3mma, sa)
+ (Dec 19 =100)
+ 120
+ 108.4 Medical, Education and
+ Public Administration (20.6%)
+ 107.2
+ 110 108.0 Other services,
+ e.g. real estate (17.7%)
+ 103.1
+ 103.1 Total income
+ 100
+ 99.9 Trade (15.5%)
+ 96.7 90 98.7 Manufacturing (27.9%)
+
+ 80
+ 76.2 Tourism-related services
+
+
+###### and thus became more vulnerable than other groups
+ Aggregate income of self-employed Aggregate income of non-farm employees Aggregate income of non-farm employees
+ workers in non-farm sectors classified by income level classified by sector
+
+ Index (3mma, sa) Index (3mma, sa)
+ %YoY (Dec 19 =100) (Dec 19 =100)
+ 10 110 120
+ 108.4 Medical, Education and
+ Public Administration (20.6%)
+ 107.2
+ 5 105 110 108.0 Other services,
+ e.g. real estate (17.7%)
+ 103.1
+ 0 103.1 Total income
+ 100
+ 99.9 Trade (15.5%)
+ -5
+ Dec 20 96.7 90 98.7 Manufacturing (27.9%)
+ 95
+ -10
+ 80
+ 76.2 Tourism-related services
+ 90
+ -15 e.g. hotels (7.6%)
+ Dec-19 Mar-20 Jun-20 Sep-20 Dec-20
+ 70
+ -20
+ income <= 10,000 baht (43%)
+ 60
+ income 10,001 - 15,000 baht (27.5%)
+ Dec-19 Mar-20 Jun-20 Sep-20 Dec-20
+ income >15,000 baht (29.5%)
+
+**Note: ( ) represents proportion of non-farm employees in 2020**
+
+###### all employee in non-agricultural sectors
+
+
+###### Aggregate income of non-farm employees
+ classified by sector
+
+
+-----
+
+###### of which 1.2 million workers might become unemployed or underemployed
+
+ 5.1 millon workers in total
+
+ In the red-zone area 2.8 million workers
+ ~0.5 million workers underemployed**
+ Workers in
+ affected significant income loss ~0.5 million workers
+ sectors*
+ 8.2 millon workers in total In the red-zone area 4.2 million workers
+ underemployed ~0.6 million workers
+ Workers in
+ affected
+ significant income loss ~3 million workers
+ sectors
+
+ more likely to become unemployed ~0.1 million workers
+
+
+###### of which 1.2 million workers might become unemployed or underemployed
+
+ 5.1 millon workers in total
+
+ In the red-zone area 2.8 million workers
+ ~0.5 million workers
+ Daily-hired employees underemployed**
+ Workers in
+ in non-agricultural sectors affected significant income loss ~0.5 million workers
+ sectors*
+ 8.2 millon workers in total In the red-zone area 4.2 million workers
+ Self-employed workers
+ underemployed ~0.6 million workers
+ Workers in
+ in non-agricultural sectors
+ affected
+ significant income loss ~3 million workers
+ sectors
+
+ Full-time hotel employees
+ more likely to become unemployed ~0.1 million workers
+
+ * Significantly-affected sectors included retail trade, hotels, restaurants and other services
+ ** Underemployment defined as hours worked less than 24 hours per week.
+
+
+-----
+

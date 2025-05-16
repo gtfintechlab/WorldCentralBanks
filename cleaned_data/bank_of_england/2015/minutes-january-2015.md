@@ -1,0 +1,684 @@
+### Publication date: 21 January 2015
+
+## MINUTES OF THE 
+
+# MONETARY POLICY
+ COMMITTEE MEETING
+
+## 7 and 8 January 2015
+
+##### These are the minutes of the Monetary Policy Committee meeting held on 7 and 8 January
+
+ 2015. 
+
+ They are also available on the Internet
+
+ http://www.bankofengland.co.uk/publications/minutes/Documents/mpc/pdf/2015/jan.pdf
+
+ The Bank of England Act 1998 gives the Bank of England operational responsibility for
+
+ setting monetary policy to meet the Government’s inflation target. Operational decisions
+
+ are taken by the Bank’s Monetary Policy Committee. The Committee meets on a regular
+
+ monthly basis and minutes of its meetings are released on the Wednesday of the second
+
+ week after the meeting takes place. Accordingly, the minutes of the Committee meeting to
+
+ be held on 4 and 5 February will be published on 18 February 2015.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 7 AND 8 JANUARY 2015
+
+1 Before turning to its immediate policy decision, the Committee discussed financial market
+
+developments; the international economy; money, credit, demand and output; and supply, costs
+
+and prices.
+
+**Financial markets**
+
+2 There had been a pick-up in volatility and sizeable moves in some asset prices, partly
+
+reflecting greater political uncertainty associated with elections in Greece, more evidence of very
+
+low global inflation, and the consequences of further falls in oil prices for oil-exporting countries,
+
+particularly Russia.
+
+3 Short-term interest rates in the United Kingdom and the United States had diverged.
+
+Whereas the one-year sterling rate one year ahead had declined by close to 20 basis points, the
+
+equivalent US dollar rate had risen by around 5 basis points. The timing implied by OIS rates of
+
+the first policy rate increase in the United Kingdom was now about 8 months later than that in the
+
+United States, and the date at which OIS rates reached 2% was around 8 years later. There had
+
+been little movement in short-term euro interest rates, which remained at very low levels.
+
+4 The divergent expected paths of short-term interest rates in the major economies had been
+
+reflected in foreign exchange markets, where the US dollar effective exchange rate index (ERI)
+
+had appreciated by a further 3% on the month to a level 10% higher than a year earlier. The
+
+sterling ERI had fallen by 1% during the month, reflecting a 4% depreciation of sterling against
+
+the dollar. The sterling ERI was around 2% higher than a year earlier, 11% higher than its trough
+
+in 2013, and still close to the top of the trading range established since its large depreciation
+
+in 2008.
+
+
+-----
+
+5 There had been significant further falls in longer-term nominal interest rates. Ten-year
+
+government bond yields had fallen by 30 to 40 basis points in the United Kingdom, United States
+
+and Germany, with the German rate moving below 0.5%. Reflecting greater political uncertainty,
+
+Greek ten-year government bond yields had risen by close to 300 basis points, though there had
+
+been negligible contagion to other euro-area periphery countries.
+
+6 A significant part of the falls in longer-term nominal interest rates in the major economies
+
+had reflected lower compensation for expected future inflation: the UK five-year RPI inflation
+
+swap rate five years forward had fallen by 25 basis points, a similar decline to that seen in
+
+equivalent US and euro-area swap rates. Historically, at least in the US, these measures of
+
+inflation expectations had been correlated with changes in oil prices. But the UK RPI inflation
+
+swap rate of 3.2% remained close to its average over the preceding ten years, whereas the US and
+
+euro-area inflation swap rates, at 2.2% and 1.6% respectively, were both around 70 basis points
+
+below their ten-year averages.
+
+7 It was not clear whether medium-term UK inflation expectations had genuinely held up
+
+more than elsewhere or whether there were market factors that had distorted the signal about
+
+inflation expectations that could be extracted from inflation swap rates. One possible reason why
+
+US inflation swap rates were correlated with changes in oil prices was that traders might prefer to
+
+deal in the most liquid inflation instruments which, in the United States, tended to be at longer
+
+maturities. If so, recent moves might have exaggerated the decline in medium-term inflation
+
+expectations in the United States. On the other hand, the activities of liability-driven investors
+
+might have pushed up implied inflation rates as they sought to hedge their inflation exposure.
+
+This would have particularly affected UK markets where defined-benefit pension funds were
+
+dominant and might help to explain why market-based measures of UK inflation expectations had
+
+not fallen further. While there was no hard evidence concerning hedging flows, market
+
+intelligence suggested that they had picked up towards the end of 2014.
+
+8 Surveys of households did suggest that UK medium-term inflation expectations had fallen
+
+below past averages, although most surveys had relatively short historical time series. According
+
+to the YouGov/Citigroup survey, households’ inflation expectations five-to-ten years ahead had
+
+fallen to 2.7% in December, 0.7 percentage points below the average since the series began
+
+in 2005. There was evidence that companies’ inflation expectations had also fallen.
+
+
+-----
+
+9 Members put different weights on the contrasting signals from household and market
+implied measures of medium-term inflation expectations. The balance of evidence pointed to
+
+inflation expectations remaining well anchored to the 2% inflation target over the medium term.
+
+There was some concern about the recent pace of decline in all measures of inflation expectations,
+
+in the United Kingdom and internationally, especially as there could be more downside news on
+
+inflation to be digested. All members agreed that different measures of inflation expectations
+
+across major countries needed to be monitored closely in the months ahead.
+
+10 Equity price indices had been volatile internationally, and had ended the month lower by
+
+3.6% in the United Kingdom, 2.3% in the United States, and 5.8% in the euro area. Declines were
+
+more pronounced in the oil and other energy producing sectors.
+
+**The international economy**
+
+11 Oil prices had fallen further during the month. The spot price of Brent crude oil had fallen
+
+to $50 per barrel, down $20 on the month and $32 lower than at the time of the November
+
+_Inflation Report. The consequences of a lower oil price for the global economy would depend on_
+
+the cause of the decline and how long it persisted.
+
+12 It was likely that the majority of the fall in oil prices since the summer had been a reaction to
+
+news about global oil supply and changes in the behaviour of key oil producers, although
+
+lower-than-expected oil demand was also likely to have played a significant role. In recent
+
+months, higher global oil production had been driven by greater Libyan and US output,
+
+supplementing a more generalised longer term rise in supply that had raised oil inventories. While
+
+this had put some downward pressure on oil prices, it was likely that the strategic decision by
+
+Saudi Arabia and other OPEC countries not to cut production had been more significant. The
+
+dominance of such supply factors was likely to explain why the sharp fall in oil prices had not so
+
+far been replicated more generally in the prices of other commodities, as would be the case if
+
+softer global demand had been the key driver of lower prices. Since the start of 2014 the
+
+S&P GSCI metals US dollar price index had fallen by 8% and agricultural commodity prices had
+
+fallen by 1%. Iron ore prices had fallen by up to 50%, but that was thought largely to reflect
+
+strong competition among major mining companies rather than weak demand, and the decline had
+
+occurred earlier than the drop in oil prices.
+
+
+-----
+
+13 The effect of lower oil prices would also depend on how long they persisted. The futures
+
+curve was upward sloping and consistent with prices rising to around $70 per barrel by the end
+
+of 2017. In sterling terms this represented a 30% decline on average across the first three years of
+
+the futures curve since June 2014.
+
+14 Sustained lower oil prices, to the extent they were driven by increased supply, were likely to
+
+boost global growth and dampen inflationary pressure. Estimates from a range of sources
+
+suggested that a supply-driven 10% fall in oil prices tended to boost world GDP by around 0.25%,
+
+with around 0.1-0.2 percentage points coming through within a year. If the fall in prices since
+
+June had been entirely supply-driven, Bank staff calculated on the basis of these estimates that it
+
+would add almost 1% to world GDP by the end of 2017. The impact on inflation would depend
+
+on the monetary policy response in each country but was likely to come through quickly and was
+
+already clearly visible.
+
+15 In the euro area, the flash estimate of headline HICP inflation had fallen to -0.2% in
+
+December, slightly lower than market expectations and the first negative reading since
+
+October 2009. Core inflation was stronger than expected at 0.8%. There had been little news on
+
+euro-area activity: the composite Purchasing Managers’ Index (PMI) had picked up a little in
+
+December but, taken together with other indicators, continued to point to growth of 0.2% in Q4,
+
+the same as in Q3.
+
+16 The recovery in the United States appeared a little stronger than previously thought. GDP
+
+growth in Q3 had been revised up to 1.2%, largely driven by a larger contribution from
+
+consumption. Bank staff’s estimate of growth in Q4 had also been revised up a little to 0.7%.
+
+Non-farm payrolls had increased by 321,000 in November while the unemployment rate had
+
+remained steady at 5.8%. Inflation, measured by the private consumption deflator, had fallen
+
+to 1.2% in November, partly reflecting lower oil prices.
+
+17 In China, a wide range of indicators had on balance suggested growth would stabilise at a
+
+quarterly rate of around 1.8% in 2014 Q4, although individual sectors relating to investment and
+
+construction were materially weaker. There were tentative signs of stabilisation within the
+
+property sector. In Japan, GDP had been revised down and was estimated to have fallen by 0.5%
+
+in 2014 Q3.
+
+
+-----
+
+**Money, credit, demand and output**
+
+18 New estimates of UK economic activity suggested that growth was proceeding at a steady
+
+pace, rather than slowing from an above-trend rate as had previously seemed likely. The third
+
+estimate of GDP growth in 2014 Q3, at 0.7%, had not been revised. But downward revisions to
+
+earlier quarters had led to four-quarter GDP growth being revised down from 3.0% to 2.6%. Bank
+
+staff estimated that output had continued to expand at a similar pace around the turn of the year
+
+with GDP growth in the final vintage of data expected to be 0.8% in Q4 and 0.7% in 2015 Q1.
+
+This was broadly consistent with evidence from a range of indicators, although these had been
+
+somewhat divergent. The composite CIPS output index in December had fallen to its lowest level
+
+since May 2013, while the activity balances in the Q4 BCC survey had picked up to close to their
+
+post-crisis highs.
+
+19 The mix of expenditure in Q3 had been revised, with higher consumption and a larger
+
+contribution from net trade offset by lower business investment and government consumption.
+
+Consumption growth had been revised up to 1% in Q3, its fastest rate since 2010 Q2, with an
+
+unusually large contribution from spending on vehicles. Upward revisions to household income
+
+meant that the saving ratio had been 7.0% in Q3, 1 percentage point higher than had been
+
+expected at the time of the November Inflation Report. Given the scope for future revisions, it
+
+was important not to over-interpret trends in the most recent vintage of National Accounts data.
+
+On the face of it, however, it no longer appeared that the pickup in consumption growth since the
+
+beginning of 2013 had been financed by a fall in saving. While the trade deficit had narrowed to
+
+2% of GDP in Q3, the current account deficit had widened to 6% of GDP, driven largely by an
+
+increase in the primary income deficit from 1.8% to 2.8% of GDP. The balance of direct
+
+investment income had turned negative for the first time since 2008.
+
+20 Near-term indicators suggested that household spending growth had remained strong. Retail
+
+sales volumes had grown by 1.6% in November, above Bank staff’s expectations, though it was
+
+not clear to what extent this increase represented spending being brought forward as a result of
+
+‘Black Friday’ discounts, rather than underlying growth. According to contacts of the Bank’s
+
+Agents, retail sales over the Christmas period had appeared solid. There had been a strengthening
+
+in consumer credit growth to 8.3% in November on a three-month annualised basis, perhaps
+
+driven in part by a loosening in the supply of unsecured credit. Lenders responding to the Bank’s
+
+
+-----
+
+_Credit Conditions Survey had reported that credit scoring criteria had loosened significantly and_
+
+the proportion of loan applications being approved had increased in Q4.
+
+21 The buoyancy of consumer spending was in contrast to the pattern of a slower housing
+
+market seen since the summer. Mortgage approvals for house purchase had remained below
+
+expectations at around 59,000 in November, and there was evidence from the Halifax and
+
+Nationwide indices that the rate of increase in house prices had slowed to an underlying pace of
+
+about 0.3% per month. While the housing market would be supported by recent declines in fixed
+
+mortgage interest rates, there was evidence from the Bank’s Credit Conditions Survey that the
+
+demand for secured lending for house purchase in Q4 had fallen sharply.
+
+22 There was mixed evidence on business investment trends. Official data showed that
+
+business investment had weakened, with growth being revised down to -1.4% in Q3. Intelligence
+
+collected by the Bank’s Agents indicated that business investment intentions had eased, more so in
+
+manufacturing than services. But investment data tended to be volatile and prone to future
+
+revision, and other business surveys had continued to point to strong growth in capital spending
+
+with investment intentions in the BCC survey picking up in Q4. One factor pushing down on
+
+investment in coming months would be the likely reduction in capital spending in the North Sea in
+
+response to lower oil prices.
+
+**Supply, costs and prices**
+
+23 Twelve-month CPI inflation had fallen to 1.0% in November, its lowest rate since
+
+September 2002, and, in line with the usual pre-release arrangements, an advance estimate for CPI
+
+inflation of 0.5% for December had been provided via the Governor to the MPC, ahead of
+
+publication. In line with the Committee’s remit, this would necessitate an exchange of letters
+
+between the Governor and the Chancellor of the Exchequer.
+
+24 The fall in CPI inflation to 0.5% in December was in line with Bank staff’s expectations
+
+immediately before the data release, but 0.5 percentage points lower than expected at the time of
+
+the November Inflation Report. Although the full details were not yet available, the fall in CPI
+
+inflation on the month was likely to have largely reflected lower fuel prices and utility price
+
+increases in December 2013 dropping out of the annual comparison. CPI inflation was expected
+
+by Bank staff to reach a trough of around zero in March, as lower oil prices fed through to petrol
+
+
+-----
+
+prices, with a roughly even chance that it would temporarily dip below zero at some point in the
+
+first half of 2015.
+
+25 A full analysis would be possible only once the detail behind the December figure had
+
+become available. It seemed likely, however, that the majority of the deviation of inflation from
+
+the target related to unusually low contributions from energy and food prices, as well as some
+
+downward impact on goods price inflation as the effects of sterling’s appreciation between
+
+Spring 2013 and Summer 2014 passed through to consumer prices. In addition to those factors,
+
+Bank staff’s central estimate was that around ½ percentage point of the deviation of inflation from
+
+the target reflected the weakness of domestic cost growth, a key element of which was wages.
+
+26 Over much of the past year, pay growth had been subdued such that unit labour costs had
+
+grown by only 0.5% in the four quarters to 2014 Q3, the latest period for which data were
+
+available. During the month, however, there was further evidence that the pace of pay growth had
+
+been picking up recently. Annual growth in whole-economy total pay had been 1.4% in the three
+
+months to October. Private sector regular pay had grown by 2.0% over the year and at an
+
+annualised rate of 4.3% in the three months to October. Pay growth at that rate was likely to be
+
+significantly higher than current rates of productivity growth, suggesting that unit labour cost
+
+growth had picked up toward the end of the year.
+
+27 The outlook for pay would depend on the pace at which the degree of slack remaining in the
+
+labour market was absorbed. Employment had continued to increase at the end of 2014, both in
+
+numbers employed and total hours worked, albeit at a slower pace than at the start of that year. In
+
+the three months to October, the number of people in employment had risen by 115,000. The
+
+unemployment rate had fallen to 6.0%, with short-term unemployment particularly low relative to
+
+its pre-crisis average, and the timelier claimant count measure of unemployment had fallen
+
+by 27,000 to 900,100 in November.
+
+28 Pay growth might also depend on the development of inflation and inflation expectations
+
+over the coming months. Around 40% of pay settlements would be agreed in April when,
+
+according to Bank staff’s latest estimates, twelve-month CPI inflation was likely to be around
+
+zero, so there was a risk that any pickup in pay growth might be delayed. There had been an
+
+increase in Q4 to around 20% in the proportion of respondents to the quarterly Deloitte CFO
+
+_Survey of large companies who expected CPI inflation to be less than 1.5% in two years’ time._
+
+
+-----
+
+**The immediate policy decision**
+
+29 The Committee set monetary policy to meet the 2% inflation target in the medium term, and
+
+in a way that helped to sustain growth and employment. The Committee had given guidance in its
+
+February 2014 Inflation Report on how it would seek to achieve the inflation target over the policy
+
+horizon. The central message of that guidance remained relevant: given the likely persistence of
+
+headwinds weighing on the economy, when Bank Rate did begin to rise, it was expected to do so
+
+only gradually, and more slowly than in previous cycles. Moreover, the persistence of those
+
+headwinds, together with the legacy of the financial crisis, meant that Bank Rate was expected to
+
+remain below average historical levels for some time to come. The actual path Bank Rate would
+
+follow over the next few years was uncertain, and would depend on economic circumstances.
+
+The Committee’s guidance on the likely pace and extent of interest rate rises was an expectation,
+
+not a promise.
+
+30 There had been a number of significant developments since the November Inflation Report.
+
+Oil prices had fallen further: the spot price of Brent crude oil had dropped to $50 per barrel, down
+
+$20 on the month and $32 lower than at the time of the November Inflation Report. CPI inflation
+
+had fallen to 0.5% in December, 0.5 percentage points lower than had been expected in
+
+November, and was now expected by Bank staff to reach a trough of close to zero in March, as
+
+lower oil prices fed through to petrol prices. There was, therefore, a roughly even chance that
+
+CPI inflation would temporarily dip below zero at some time during the first half of 2015.
+
+Inflation had also fallen abroad and was negative in the euro area. Market interest rates had
+
+declined as the expected pace and extent of future UK monetary policy tightening had been scaled
+
+back. The one-year sterling rate one year ahead had fallen by close to 20 basis points and was
+
+40 basis points lower than at the time of the November Inflation Report. By comparison, there
+
+had been relatively little news on activity. Growth remained solid in the United Kingdom and
+
+United States, but subdued in the euro area and was slowing modestly in the emerging economies.
+
+31 The Committee considered how these and other developments since the November Inflation
+
+_Report had affected the balance of risks to the medium-term outlook for growth and inflation and_
+
+hence the appropriate stance of monetary policy. As before, this would depend on factors such as:
+
+the persistence of the effects of reduced energy, food, and other imported prices on CPI; inflation
+
+expectations; the pace of aggregate demand growth; and the evolution of the labour market and,
+
+in particular, the degree of slack and consequent growth of wages relative to labour productivity.
+
+
+-----
+
+In light of the degree of uncertainty over these and other factors, a wide range of outcomes for
+
+inflation was possible. The Committee’s full assessment would be carried out over the coming
+
+month and published in the February Inflation Report.
+
+32 It was important to distinguish between factors affecting inflation in the very near term and
+
+those affecting it at medium-term horizons where monetary policy was more effective. The
+
+expected near-term profile of inflation was weaker than had been assumed at the time of the
+
+November Inflation Report. This was largely the result of the further sharp reduction in sterling
+
+oil prices that had taken place over the previous two months, and inflation in food and core goods
+
+prices being lower than expected, possibly reflecting slightly faster exchange rate pass-through
+
+than previously had been assumed. The downward effect on inflation was likely to be temporary
+
+if oil prices stabilised at around their current level or rose, as the oil price futures curve implied.
+
+The downward effect from exchange rate movements in 2013 and early 2014 could also begin to
+
+fade over the year. Over the medium term, inflation would predominantly reflect growth in
+
+domestic costs. These had also been subdued, but recently there had been signs of a pickup in pay
+
+growth as the amount of slack in the labour market was absorbed and the pace of economic
+
+activity continued to grow at around trend rates. Sustained pay growth, at rates materially higher
+
+than in recent years, would be required to be consistent with the 2% inflation target in the
+
+medium term.
+
+33 There were a number of developments since the November Inflation Report that might push
+
+down on inflation in the medium term. In particular, it was possible that the fall in near-term
+
+inflation might become more persistent if it lowered inflation expectations, pay and other cost
+
+growth in a way that became self-perpetuating. Inflation had fallen globally and was expected to
+
+reach its trough in the United Kingdom in the early part of the year when a large proportion of pay
+
+claims were settled. It was therefore possible that the pace of nominal wage growth would be
+
+weaker than otherwise and that this would feed into lower subsequent price inflation. In addition,
+
+the continued decline in oil prices was likely to contribute to a reduction in capital investment in
+
+the UK oil industry. Alongside these developments, it appeared that downside risks to the euro
+
+area had increased. Together, these factors could result in inflation persisting below the target for
+
+longer than previously expected.
+
+34 But there were also several developments since the November Inflation Report that might
+
+push up on aggregate demand relative to supply in the United Kingdom, and so result in inflation
+
+
+-----
+
+pressures being somewhat higher in the medium term. First, the Committee judged that the lower
+
+oil price would, if sustained, act as a stimulus to growth in the United Kingdom and its main
+
+trading partners via its effect on the costs of production and real incomes. One early manifestation
+
+of this was that nominal incomes were likely to have been growing at a significantly faster rate
+
+than consumer prices in the second half of 2014. Second, market interest rates had fallen sharply
+
+and were already passing through to lower fixed rate mortgages. Demand would be stimulated
+
+further were Bank Rate to follow the path implied by market yields, although inflation
+
+expectations had also fallen so the effect on real interest rates was smaller. Third, the early signs
+
+of a pickup in private sector average weekly earnings growth tentatively suggested that slack was
+
+either lower or being absorbed more quickly than previously thought. Each of these factors could
+
+result in inflation bouncing back sharply once the near-term effects of lower oil prices had passed
+
+through.
+
+35 In the view of all members, the outlook justified maintaining both the current level of Bank
+
+Rate and the stock of asset purchases financed by the issuance of central bank reserves. It was
+
+possible that the risks to CPI inflation in the medium term might have, if anything, shifted to the
+
+upside, but all members were also alert to the downside risk of current low inflation becoming
+
+entrenched. Monetary policy could and would be adjusted at the appropriate time to ensure that
+
+CPI inflation was on track to meet the 2% target in the medium term.
+
+36 For the two members who had voted in the previous month for an increase in Bank Rate, the
+
+decision this month was finely balanced. They believed that the sharp fall in inflation to below the
+
+2% target was probably driven largely by temporary factors and was unlikely materially to affect
+
+the behaviour of households and businesses in such a way that it became self-perpetuating. They
+
+also noted the most recent evidence that wage growth was more buoyant than they had expected.
+
+Nevertheless they noted the risk that low inflation might persist for longer than the temporary
+
+factors implied and concluded that this risk would be increased by an increase in Bank Rate at the
+
+current juncture.
+
+
+-----
+
+37 The Governor invited the Committee to vote on the propositions that:
+
+Bank Rate should be maintained at 0.5%;
+
+The Bank of England should maintain the stock of purchased assets financed by the
+
+issuance of central bank reserves at £375 billion.
+
+Regarding Bank Rate, the Committee voted unanimously in favour of the proposition.
+
+Regarding the stock of purchased assets, the Committee voted unanimously in favour of the
+
+proposition.
+
+38 Consistent with the Committee’s forward guidance, and as described in a market notice on 8
+
+January 2015, the Committee agreed to reinvest the £4.35 billion of cash flows associated with the
+
+redemption of the January 2015 gilt held by the Asset Purchase Facility.
+
+39 In order to accommodate Bank officials’ attendance at the G20 Meetings in Istanbul, the
+
+publication of the February 2015 Inflation Report and the accompanying press conference will be
+
+moved back one day to Thursday, 12 February.
+
+40 The following members of the Committee were present:
+
+Mark Carney, Governor
+Ben Broadbent, Deputy Governor responsible for monetary policy
+Jon Cunliffe, Deputy Governor responsible for financial stability
+Nemat Shafik, Deputy Governor responsible for markets and banking
+Kristin Forbes
+Andrew Haldane
+Ian McCafferty
+David Miles
+Martin Weale
+
+Dave Ramsden was present as the Treasury representative.
+
+As permitted under the Bank of England Act 1998, as amended by the Financial Services Act
+
+2012, Anthony Habgood was also present as an observer in his role as a member of the Oversight
+
+Committee of Court.
+
+
+-----
+

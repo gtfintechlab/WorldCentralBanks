@@ -1,0 +1,180 @@
+# Minutes of the Monetary Policy Council decision-making
+
+ meeting held on 11 July 2018
+
+During the meeting, the Council noted that the global economic conditions remain
+favourable. It was pointed out that activity in the euro area remained strong despite the
+forecast gradual decline in the region's GDP growth rate in 2018 and in the following years.
+It was noted that there was a risk of a more pronounced slowdown in this currency area,
+should trade tensions with the United States build up. Yet some Council members judged
+this risk to be limited. Certain Council members expressed the opinion that economic
+growth in the euro area might even be faster than forecast due to a loosening of fiscal
+policy in some countries of the area. At the same time, it was noted that GDP growth in
+the United States in 2018 would probably be higher than in 2017. It was observed that
+uncertainty concerning the outlook for global growth was currently elevated. Apart from
+the changes in international trade policy, the main risk factor to global economic
+conditions are developments in oil prices. It was emphasised that the heightened
+uncertainty about the outlook for global growth negatively affected the risk sentiment in
+global financial market, which was reflected in rising bond yields of many emerging
+market economies and in a depreciation of their currencies.
+
+When analysing changes in commodity prices, it was noted that oil prices persisted
+at levels markedly higher than the year before, having fluctuated significantly in the recent
+period. It was observed that the increased volatility of oil prices was motivated by political
+and economic decisions made by some of the countries exporting this commodity (i.e. the
+countries of the so-called OPEC+ and the United States). Certain Council members
+assessed that in the longer run, oil prices might stabilise close to the current level.
+
+While discussing inflation developments in the global economy it was observed
+that despite good economic conditions and higher oil prices than in the previous year,
+inflation abroad remained moderate. It was pointed out that this was driven by the
+persistently weak domestic inflationary pressures in many countries. It was assessed that
+the consistently low inflation in these economies over recent years might be supported by
+the following factors: the ongoing process of globalisation, including the growth of global
+supply chains and increased international flows of labour, and the weakened bargaining
+position of employees in wage negotiations. Certain Council members expressed the
+opinion that the impact of some of these factors might ease off in the future.
+
+Referring to monetary policy in the environment of the Polish economy, it was
+noted that the ECB was keeping interest rates close to zero, including the deposit rate
+below zero. At the same time, the ECB continued to purchase financial assets, although it
+announced a reduction in the scale of purchases from October 2018 and the termination of
+the programme at the end of the year. Some Council members judged that interest rates
+in the euro area would remain low for an extended period of time. Attention was also
+drawn to interest rate increases in the Czech Republic and Romania. Yet some Council
+
+
+-----
+
+members emphasised that economic performance of those countries was different from
+that in Poland: inflation in the Czech Republic and Romania was above the target, core
+inflation was elevated and wage growth continued at a faster rate than in Poland. It was
+noted that the Federal Reserve had raised interest rates in June and was continuing a
+gradual reduction of its balance sheet, which – as certain Council members underlined –
+might have a downward effect on GDP growth in the United States and on global
+economic conditions.
+
+Discussing the developments in Poland’s real economy, it was pointed out that
+GDP growth in 2018 Q2 was relatively high and probably close to that observed in the
+previous quarter. It was indicated that economic growth was supported by rising
+consumption, benefiting from the increasing employment and wages, disbursement of
+benefits and very high consumer sentiment. It was observed that according to available
+forecasts, investment growth had picked up in 2018 Q2. Apart from the continued robust
+growth of public investment, this had probably been due to a recovery in corporate
+investment outlays. Export growth was assessed to have increased somewhat in 2018 Q2,
+which – in the opinion of most Council members – was propped up by some weakening
+of the zloty in the recent period. It was noted that the depreciation of the zloty reflected
+the drag from heightened uncertainty in the global financial markets, as in the case of
+many other emerging market currencies. This uncertainty also contributed to a fall in share
+prices on the Warsaw Stock Exchange.
+
+With reference to the outlook for economic growth, it was pointed out that
+according to the July projection, GDP growth in 2018 would remain relatively high and
+above the level expected in March. However, in the following years economic growth
+would gradually slow down. Some Council members voiced the opinion that the main
+source of risk for the forecast GDP growth were developments in the environment of the
+Polish economy. Certain Council members indicated as the prevailing risk a deterioration
+in economic conditions abroad, which would lead to a more pronounced slowdown in
+economic activity in Poland. In contrast, other Council members judged that the likelihood
+of the unfavourable scenarios materialising might be smaller than expected, as might be
+their impact on the Polish economy. Moreover, economic conditions in the euro area could
+benefit from the expected easing of fiscal policy in some economies of the region. In effect,
+according to those Council members, GDP growth in Poland in the following years might
+be higher than envisaged in the July projection.
+
+While analysing the current developments in the labour market, a further rise in
+employment and a fall in the unemployment rate were highlighted. It was emphasised
+that these developments were accompanied by stronger wage growth than in the previous
+year. However, some Council members stressed that wage growth had remained stable
+since the beginning of 2018. These members underlined that the results of the July
+projection indicated a stabilisation of wage growth also in the subsequent quarters. They
+judged that this would be underpinned by the high – and rising – share of enterprises not
+planning pay rises in the nearest future. They also emphasised that the continued inflow
+
+
+-----
+
+of foreign workers was curbing the extent of wage growth. However, other Council
+members argued that wage growth might accelerate in the following quarters, especially
+should the demands of pay rises in the public sector – already observed in some
+occupational groups – mount. These members judged that any rises in the public sector
+might in turn spur an increase in wage pressure in the private sector.
+
+Discussing inflation developments in Poland, it was observed that the annual
+consumer price growth had increased in June as a result of rising fuel prices. At the same
+time, inflation net of food and energy prices was lower than at the beginning of the year,
+and service price growth had slowed down. In the assessment of some Council members,
+this suggested that domestic inflationary pressure continued to be weak, despite the
+relatively high economic growth and faster wage growth than in the previous year. Other
+Council members assessed that the recent decline in service price growth had probably
+been temporary.
+
+While discussing the outlook for price growth, it was indicated that in line with the
+July projection, inflation in 2018 would be lower than previously expected and stand at
+1.8%. Some Council members emphasised that the inflation forecast had been revised
+downwards in 2018, despite the increase in oil prices in the global markets and the recent
+depreciation of the zloty. They underlined that the downward revision of price growth
+resulted from a marked decline in core inflation forecasts, observed despite higher GDP
+growth than previously expected. The Council members pointed out that according to the
+July forecast, in the following years inflation was expected to increase gradually. Most
+Council members judged that in line with the July projection, inflation would remain close
+to the target in the projection horizon. Yet certain Council members judged that consumer
+price growth might be higher than the July projection envisaged due to the stronger-thanforecast GDP growth, faster wage growth and the renewed rise in service price growth.
+These members expressed the opinion that inflation might be additionally enhanced by a
+stronger pass-through of the rise in global oil prices to fuel prices, resulting from pricing
+policies of Polish fuel producers. They also emphasised the forecast rise in core inflation.
+In turn, other Council members judged that inflation might be lower than the July
+projection envisaged due to core inflation rising more slowly. They expressed the opinion
+that the absence of a rise in core inflation so far, despite very good economic conditions,
+increases the probability of its limited growth in the following quarters, especially in the
+face of the expected slowdown in GDP growth.
+
+The Council members also noted that no clear signs of imbalances were currently
+observed in the economy. In particular, it was emphasised that credit to the non-financial
+sector was growing at a moderate pace, and the real lending rates remained at solidly
+positive levels. Growth of the main monetary aggregates was also moderate. However,
+certain Council members assessed that the persisting level of reference rate – negative in
+real terms – might increase the risk of imbalances emerging in the economy, especially in
+the credit and real estate markets. They highlighted the relatively fast, in their opinion,
+
+
+-----
+
+rise in consumer loans and the resulting high level of household debt compared to other
+European countries.
+
+While discussing NBP monetary policy, the Council decided that currently interest
+rates should remain unchanged. The Council judged that current information, as well as
+the results of the July projection, indicated a favourable outlook for economic activity
+growth in Poland, despite the expected slowdown in GDP growth in the subsequent years.
+At the same time, in line with the projection, in the monetary policy transmission horizon
+inflation will remain close to the target. As a result, the Council judged that the current
+level of interest rates was conducive to keeping the Polish economy on a sustainable
+growth path and maintaining macroeconomic stability.
+
+The majority of the Council members expressed the opinion that, taking into
+account current information, the stabilisation of interest rates in the quarters to come
+would continue to help meet the inflation target, while supporting the maintenance of
+balanced economic growth, including a further recovery in investment. Moreover, these
+Council members pointed out that the need to take into account monetary conditions in
+the immediate environment of the Polish economy, as well as the heightened uncertainty
+about the outlook for the global economy, also spoke in favour of keeping the current level
+of interest rates in the coming quarters.
+
+In the opinion of some Council members, should incoming data and forecasts
+suggest a further increase in wage growth and a more marked intensification of
+inflationary pressure than currently expected, it might be justified to consider an increase
+in the NBP interest rates in the coming quarters.
+
+A view was also expressed that in the event of a significant decline in economic
+activity indicators accompanied by a marked deterioration in consumer and corporate
+sentiment, in the longer run it might be justified to consider a decrease in interest rates.
+
+The Council decided to keep the NBP interest rates unchanged: the reference rate
+at 1.50%, the lombard rate at 2.50%, the deposit rate at 0.50%, the rediscount rate at 1.75%.
+
+Publication date: 23 August 2018
+
+
+-----
+

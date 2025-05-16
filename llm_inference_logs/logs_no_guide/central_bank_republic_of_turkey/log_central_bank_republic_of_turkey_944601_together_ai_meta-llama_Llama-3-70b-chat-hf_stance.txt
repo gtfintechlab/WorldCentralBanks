@@ -1,0 +1,1001 @@
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.0.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/hp/Desktop/global-central-banks/src/llm_benchmarking/inference.py", line 9, in <module>
+    from datasets import load_dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/__init__.py", line 17, in <module>
+    from .arrow_dataset import Dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/arrow_dataset.py", line 59, in <module>
+    import pandas as pd
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/__init__.py", line 49, in <module>
+    from pandas.core.api import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/api.py", line 28, in <module>
+    from pandas.core.arrays import Categorical
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/__init__.py", line 1, in <module>
+    from pandas.core.arrays.arrow import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/__init__.py", line 5, in <module>
+    from pandas.core.arrays.arrow.array import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/array.py", line 50, in <module>
+    from pandas.core import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/ops/__init__.py", line 8, in <module>
+    from pandas.core.ops.array_ops import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/ops/array_ops.py", line 56, in <module>
+    from pandas.core.computation import expressions
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/computation/expressions.py", line 21, in <module>
+    from pandas.core.computation.check import NUMEXPR_INSTALLED
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/computation/check.py", line 5, in <module>
+    ne = import_optional_dependency("numexpr", errors="warn")
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/compat/_optional.py", line 135, in import_optional_dependency
+    module = importlib.import_module(name)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/numexpr/__init__.py", line 24, in <module>
+    from numexpr.interpreter import MAX_THREADS, use_vml, __BLOCK_SIZE1__
+AttributeError: _ARRAY_API not found
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.0.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/hp/Desktop/global-central-banks/src/llm_benchmarking/inference.py", line 9, in <module>
+    from datasets import load_dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/__init__.py", line 17, in <module>
+    from .arrow_dataset import Dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/arrow_dataset.py", line 59, in <module>
+    import pandas as pd
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/__init__.py", line 49, in <module>
+    from pandas.core.api import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/api.py", line 28, in <module>
+    from pandas.core.arrays import Categorical
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/__init__.py", line 1, in <module>
+    from pandas.core.arrays.arrow import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/__init__.py", line 5, in <module>
+    from pandas.core.arrays.arrow.array import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/array.py", line 64, in <module>
+    from pandas.core.arrays.masked import BaseMaskedArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/masked.py", line 60, in <module>
+    from pandas.core import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/nanops.py", line 52, in <module>
+    bn = import_optional_dependency("bottleneck", errors="warn")
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/compat/_optional.py", line 135, in import_optional_dependency
+    module = importlib.import_module(name)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/bottleneck/__init__.py", line 7, in <module>
+    from .move import (move_argmax, move_argmin, move_max, move_mean, move_median,
+Traceback (most recent call last):
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/numpy/core/_multiarray_umath.py", line 44, in __getattr__
+    raise ImportError(msg)
+ImportError: 
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.0.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+
+2025-04-15 04:18:36,123 - together_inference - INFO - Starting inference on 2025-04-15
+2025-04-15 04:18:36,123 - together_inference - INFO - Loading dataset...
+2025-04-15 04:18:37,442 - together_inference - INFO - Loaded 150 sentences from the dataset.
+2025-04-15 04:18:37,443 - together_inference - INFO - Using model: together_ai/meta-llama/Llama-3-70b-chat-hf
+2025-04-15 04:18:37,443 - together_inference - INFO - Using seed: 944601
+2025-04-15 04:18:37,443 - together_inference - INFO - Processing 150 documents in 30 batches.
+2025-04-15 04:18:37,443 - together_inference - INFO - Processing batch 1/30 with 5 sentences.
+2025-04-15 04:18:37,443 - together_inference - INFO - Processing batch 1/30
+2025-04-15 04:18:38,604 - together_inference - INFO - Completed batch 1/30
+2025-04-15 04:18:38,609 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence only reports on industrial production growth without providing any direct indication of the Central Bank's monetary policy stance or inflation concerns."
+}
+2025-04-15 04:18:38,609 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence provides a neutral assessment of the economy, highlighting both positive (consumption spending) and negative (sluggish investments) aspects, without indicating a clear direction for monetary policy."
+}
+2025-04-15 04:18:38,609 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests a deceleration in domestic demand, implying a slowdown in economic growth, which may lead the Central Bank to adopt an accommodative monetary policy stance."
+}
+2025-04-15 04:18:38,609 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies that strong domestic demand and imports are putting pressure on the current account balance, which may lead the Central Bank to tighten monetary policy to curb inflation and maintain macroeconomic stability."
+}
+2025-04-15 04:18:38,609 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence highlights several positive factors contributing to growth, implying a more optimistic outlook and a potential easing of monetary policy."
+}
+2025-04-15 04:18:38,609 - together_inference - INFO - Processing batch 2/30 with 5 sentences.
+2025-04-15 04:18:38,609 - together_inference - INFO - Processing batch 2/30
+2025-04-15 04:18:39,735 - together_inference - INFO - Completed batch 2/30
+2025-04-15 04:18:39,735 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence highlights various factors that keep inflationary pressures alive, implying that the Central Bank of Turkey may need to maintain a tight monetary policy to combat inflation."
+}
+2025-04-15 04:18:39,735 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence does not provide any information about the Central Bank of Turkey's monetary policy stance or decisions."
+}
+2025-04-15 04:18:39,735 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence only mentions the impact of a past event on inflation and does not provide any information about the Central Bank's future policy intentions or actions."
+}
+2025-04-15 04:18:39,735 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence only reports on employment and labor force participation rates without providing any information on inflation, interest rates, or monetary policy decisions, making it neutral."
+}
+2025-04-15 04:18:39,735 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence does not mention any monetary policy decisions or indicators, and instead discusses Turkey's relations with Russia and its impact on exports."
+}
+2025-04-15 04:18:39,735 - together_inference - INFO - Processing batch 3/30 with 5 sentences.
+2025-04-15 04:18:39,735 - together_inference - INFO - Processing batch 3/30
+2025-04-15 04:18:40,946 - together_inference - INFO - Completed batch 3/30
+Running inference for Central Bank of Turkey
+[ModelResponse(id='nqAcmsF-4yUbBN-930a0368efb81763', created=1744705117, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence only reports on industrial production growth without providing any direct indication of the Central Bank\'s monetary policy stance or inflation concerns."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=179, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcmsC-4yUbBN-930a0368ed9ae601', created=1744705117, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence provides a neutral assessment of the economy, highlighting both positive (consumption spending) and negative (sluggish investments) aspects, without indicating a clear direction for monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=175, total_tokens=225, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcmry-4yUbBN-930a0368e9392009', created=1744705117, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests a deceleration in domestic demand, implying a slowdown in economic growth, which may lead the Central Bank to adopt an accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=53, prompt_tokens=190, total_tokens=243, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcmsJ-4yUbBN-930a0368eb5e8251', created=1744705117, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies that strong domestic demand and imports are putting pressure on the current account balance, which may lead the Central Bank to tighten monetary policy to curb inflation and maintain macroeconomic stability."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=56, prompt_tokens=190, total_tokens=246, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcms3-4yUbBN-930a0368ed80d65c', created=1744705117, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence highlights several positive factors contributing to growth, implying a more optimistic outlook and a potential easing of monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=202, total_tokens=245, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcnBC-4yUbBN-930a036f8fbc2009', created=1744705118, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence highlights various factors that keep inflationary pressures alive, implying that the Central Bank of Turkey may need to maintain a tight monetary policy to combat inflation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=197, total_tokens=247, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcnCK-4yUbBN-930a036fefb5fc18', created=1744705118, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence does not provide any information about the Central Bank of Turkey\'s monetary policy stance or decisions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=178, total_tokens=212, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcnCK-4yUbBN-930a036fec6fe61b', created=1744705118, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence only mentions the impact of a past event on inflation and does not provide any information about the Central Bank\'s future policy intentions or actions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=196, total_tokens=238, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcnCg-4yUbBN-930a036ffe4d9c3d', created=1744705118, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence only reports on employment and labor force participation rates without providing any information on inflation, interest rates, or monetary policy decisions, making it neutral."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=192, total_tokens=240, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcnD8-4yUbBN-930a036ffe8405c3', created=1744705118, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence does not mention any monetary policy decisions or indicators, and instead discusses Turkey\'s relations with Russia and its impact on exports."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=179, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcnXM-4yUbBN-930a0376bf6e2009', created=1744705119, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence does not provide any information about the Central Bank of Turkey\'s monetary policy stance or decisions, but rather discusses the impact of the pandemic on certain services."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=190, total_tokens=236, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcnX6-4yUbBN-930a0376bf0ffc18', created=1744705119, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence does not mention the Central Bank of Turkey or its monetary policy, instead discussing sales of automobiles, making it irrelevant to the task."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=182, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcnWw-4yUbBN-930a0376ba31e61b', created=1744705119, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence only reports on inflation indices without providing any information about the Central Bank\'s policy decisions or stance, making it neutral."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=190, total_tokens=228, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcnXC-4yUbBN-930a0376bab39c3d', created=1744705119, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence suggests a mixed inflation picture, with no clear trend or pressure, which does not warrant a change in the monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=183, total_tokens=228, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcnXT-4yUbBN-930a0376bce205c3', created=1744705119, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The decline in industrial production index suggests a slowdown in economic activity, which may prompt the Central Bank of Turkey to adopt an accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=205, total_tokens=255, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 04:18:40,950 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence does not provide any information about the Central Bank of Turkey's monetary policy stance or decisions, but rather discusses the impact of the pandemic on certain services."
+}
+2025-04-15 04:18:40,950 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence does not mention the Central Bank of Turkey or its monetary policy, instead discussing sales of automobiles, making it irrelevant to the task."
+}
+2025-04-15 04:18:40,950 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence only reports on inflation indices without providing any information about the Central Bank's policy decisions or stance, making it neutral."
+}
+2025-04-15 04:18:40,950 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence suggests a mixed inflation picture, with no clear trend or pressure, which does not warrant a change in the monetary policy stance."
+}
+2025-04-15 04:18:40,950 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The decline in industrial production index suggests a slowdown in economic activity, which may prompt the Central Bank of Turkey to adopt an accommodative monetary policy stance."
+}
+2025-04-15 04:18:40,950 - together_inference - INFO - Processing batch 4/30 with 5 sentences.
+2025-04-15 04:18:40,950 - together_inference - INFO - Processing batch 4/30
+2025-04-15 04:18:41,792 - together_inference - INFO - Completed batch 4/30
+2025-04-15 04:18:41,797 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies that the Central Bank of Turkey is concerned about the potential inflationary impact of exchange rate depreciation and financial instability, suggesting a hawkish stance."
+}
+2025-04-15 04:18:41,797 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence suggests that inflation remains high despite a small decrease, implying that the Central Bank of Turkey may need to maintain a tight monetary policy to combat inflationary pressures."
+}
+2025-04-15 04:18:41,797 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The sentence indicates a rise in prices of durable goods, which may lead to inflationary pressures, prompting the Central Bank of Turkey to adopt a hawkish stance to curb inflation."
+}
+2025-04-15 04:18:41,797 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The upward revision of inflation expectations suggests that the Central Bank of Turkey may need to tighten its monetary policy to combat rising inflation, which is a hawkish stance."
+}
+2025-04-15 04:18:41,797 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence provides a neutral assessment of the industrial sector's contribution to employment, without indicating any strong growth or contraction that would warrant a hawkish or dovish stance."
+}
+2025-04-15 04:18:41,797 - together_inference - INFO - Processing batch 5/30 with 5 sentences.
+2025-04-15 04:18:41,797 - together_inference - INFO - Processing batch 5/30
+2025-04-15 04:18:43,201 - together_inference - INFO - Completed batch 5/30
+2025-04-15 04:18:43,206 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies that the slowdown in industrial production is temporary, which suggests that the Central Bank of Turkey may not need to tighten its monetary policy."
+}
+2025-04-15 04:18:43,206 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests that inflation remains under control, which implies that the Central Bank of Turkey may not need to tighten its monetary policy, leading to a dovish stance."
+}
+2025-04-15 04:18:43,206 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The downward revision of inflation expectations suggests a decrease in inflationary pressures, which may lead to a more accommodative monetary policy stance."
+}
+2025-04-15 04:18:43,206 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence indicates a cautious and monitoring approach, without hinting at any specific direction or bias in the monetary policy stance."
+}
+2025-04-15 04:18:43,206 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence indicates a rise in annual inflation, which may prompt the Central Bank of Turkey to tighten its monetary policy, hence a hawkish stance."
+}
+2025-04-15 04:18:43,206 - together_inference - INFO - Processing batch 6/30 with 5 sentences.
+2025-04-15 04:18:43,206 - together_inference - INFO - Processing batch 6/30
+2025-04-15 04:18:44,172 - together_inference - INFO - Completed batch 6/30
+
+[ModelResponse(id='nqAcnsw-4yUbBN-930a037e4f9c2009', created=1744705121, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies that the Central Bank of Turkey is concerned about the potential inflationary impact of exchange rate depreciation and financial instability, suggesting a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=202, total_tokens=252, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcnt8-4yUbBN-930a037e492ee61b', created=1744705121, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence suggests that inflation remains high despite a small decrease, implying that the Central Bank of Turkey may need to maintain a tight monetary policy to combat inflationary pressures."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=52, prompt_tokens=181, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcnsu-4yUbBN-930a037e4f5efc18', created=1744705121, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The sentence indicates a rise in prices of durable goods, which may lead to inflationary pressures, prompting the Central Bank of Turkey to adopt a hawkish stance to curb inflation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=185, total_tokens=234, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcnst-4yUbBN-930a037e486c9c3d', created=1744705121, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The upward revision of inflation expectations suggests that the Central Bank of Turkey may need to tighten its monetary policy to combat rising inflation, which is a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=51, prompt_tokens=178, total_tokens=229, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcnt1-4yUbBN-930a037e4ca805c3', created=1744705121, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence provides a neutral assessment of the industrial sector\'s contribution to employment, without indicating any strong growth or contraction that would warrant a hawkish or dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=51, prompt_tokens=182, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAco8Z-4yUbBN-930a03838cd22009', created=1744705121, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies that the slowdown in industrial production is temporary, which suggests that the Central Bank of Turkey may not need to tighten its monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=182, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAco8Y-4yUbBN-930a03839b63fc18', created=1744705121, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests that inflation remains under control, which implies that the Central Bank of Turkey may not need to tighten its monetary policy, leading to a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=53, prompt_tokens=176, total_tokens=229, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAco8Y-4yUbBN-930a03839c4ce61b', created=1744705121, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The downward revision of inflation expectations suggests a decrease in inflationary pressures, which may lead to a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=221, total_tokens=267, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAco8X-4yUbBN-930a03839c799c3d', created=1744705121, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence indicates a cautious and monitoring approach, without hinting at any specific direction or bias in the monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=187, total_tokens=229, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAco8j-4yUbBN-930a03839a5705c3', created=1744705121, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence indicates a rise in annual inflation, which may prompt the Central Bank of Turkey to tighten its monetary policy, hence a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=200, total_tokens=248, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcoYm-4yUbBN-930a038c5d462009', created=1744705123, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The sentence implies that the recent surge in food prices, particularly red meat, and the rise in the minimum wage may lead to inflationary pressures, which could warrant a hawkish monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=53, prompt_tokens=201, total_tokens=254, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcoYo-4yUbBN-930a038c6dcae61b', created=1744705123, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence suggests a strong economy, which may lead the Central Bank to tighten monetary policy to prevent inflation, indicating a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=170, total_tokens=216, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcoYr-4yUbBN-930a038c6ada9c3d', created=1744705123, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence does not mention the Central Bank of Turkey\'s monetary policy or any related indicators, making it irrelevant to classify its stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=182, total_tokens=222, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcoYn-4yUbBN-930a038c6ef3fc18', created=1744705123, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence expresses uncertainty about the pandemic\'s effects, implying a cautious approach to monetary policy, which is characteristic of a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=184, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcoYw-4yUbBN-930a038c6b8f05c3', created=1744705123, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The sentence suggests high inflationary pressures, which may prompt the Central Bank of Turkey to tighten its monetary policy, hence a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=185, total_tokens=227, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 04:18:44,179 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The sentence implies that the recent surge in food prices, particularly red meat, and the rise in the minimum wage may lead to inflationary pressures, which could warrant a hawkish monetary policy stance."
+}
+2025-04-15 04:18:44,179 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence suggests a strong economy, which may lead the Central Bank to tighten monetary policy to prevent inflation, indicating a hawkish stance."
+}
+2025-04-15 04:18:44,179 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence does not mention the Central Bank of Turkey's monetary policy or any related indicators, making it irrelevant to classify its stance."
+}
+2025-04-15 04:18:44,179 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence expresses uncertainty about the pandemic's effects, implying a cautious approach to monetary policy, which is characteristic of a dovish stance."
+}
+2025-04-15 04:18:44,179 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The sentence suggests high inflationary pressures, which may prompt the Central Bank of Turkey to tighten its monetary policy, hence a hawkish stance."
+}
+2025-04-15 04:18:44,179 - together_inference - INFO - Processing batch 7/30 with 5 sentences.
+2025-04-15 04:18:44,179 - together_inference - INFO - Processing batch 7/30
+2025-04-15 04:18:45,433 - together_inference - INFO - Completed batch 7/30
+2025-04-15 04:18:45,435 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence does not provide any indication of a change in monetary policy stance, as it only reports on stable exchange rates and downward trend in international transportation costs, without any implications for interest rates or inflation."
+}
+2025-04-15 04:18:45,435 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests a decrease in inflation, which could lead to a more accommodative monetary policy stance."
+}
+2025-04-15 04:18:45,435 - together_inference - INFO - Response: {
+"label": "dovish",
+"justification": "The sentence implies a temporary and not a persistent issue, which suggests a more optimistic outlook, characteristic of a dovish stance."
+}
+2025-04-15 04:18:45,435 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies a potential slowdown in domestic demand, which may lead the Central Bank to adopt an accommodative monetary policy stance to support the economy."
+}
+2025-04-15 04:18:45,435 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence does not provide any direct information about the Central Bank of Turkey's monetary policy stance, only discussing global market trends."
+}
+2025-04-15 04:18:45,435 - together_inference - INFO - Processing batch 8/30 with 5 sentences.
+2025-04-15 04:18:45,435 - together_inference - INFO - Processing batch 8/30
+2025-04-15 04:18:46,318 - together_inference - INFO - Completed batch 8/30
+2025-04-15 04:18:46,324 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence mentions both accommodative measures and steps towards normalization, indicating a balanced tone that neither leans towards tightening nor easing."
+}
+2025-04-15 04:18:46,325 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests a decrease in inflation, which implies a more accommodative monetary policy stance, hence dovish."
+}
+2025-04-15 04:18:46,325 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence focuses on the impact of net exports on growth and the current account balance, without providing any direct indication of the Central Bank's monetary policy stance."
+}
+2025-04-15 04:18:46,325 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The increase in industrial production suggests a growing economy, which may lead the Central Bank of Turkey to consider tightening monetary policy to prevent inflation."
+}
+2025-04-15 04:18:46,325 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The committee's assessment of upside risks to the inflation target suggests a cautious tone, implying a hawkish stance to combat potential inflationary pressures."
+}
+2025-04-15 04:18:46,325 - together_inference - INFO - Processing batch 9/30 with 5 sentences.
+2025-04-15 04:18:46,325 - together_inference - INFO - Processing batch 9/30
+2025-04-15 04:18:47,299 - together_inference - INFO - Completed batch 9/30
+
+[ModelResponse(id='nqAcoqf-4yUbBN-930a0392898ee61b', created=1744705124, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence does not provide any indication of a change in monetary policy stance, as it only reports on stable exchange rates and downward trend in international transportation costs, without any implications for interest rates or inflation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=53, prompt_tokens=185, total_tokens=238, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcoqw-4yUbBN-930a03928a7a2009', created=1744705124, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests a decrease in inflation, which could lead to a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=179, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcoqp-4yUbBN-930a03928a2a05c3', created=1744705124, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "dovish",\n"justification": "The sentence implies a temporary and not a persistent issue, which suggests a more optimistic outlook, characteristic of a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=175, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcoqg-4yUbBN-930a03928c72fc18', created=1744705124, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies a potential slowdown in domestic demand, which may lead the Central Bank to adopt an accommodative monetary policy stance to support the economy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=196, total_tokens=245, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcoqm-4yUbBN-930a03928f8f9c3d', created=1744705124, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence does not provide any direct information about the Central Bank of Turkey\'s monetary policy stance, only discussing global market trends."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=191, total_tokens=234, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcpDB-4yUbBN-930a039a4973e61b', created=1744705125, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence mentions both accommodative measures and steps towards normalization, indicating a balanced tone that neither leans towards tightening nor easing."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=188, total_tokens=230, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcpDF-4yUbBN-930a039a49502009', created=1744705125, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests a decrease in inflation, which implies a more accommodative monetary policy stance, hence dovish."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=182, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcpDB-4yUbBN-930a039a5df4fc18', created=1744705125, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence focuses on the impact of net exports on growth and the current account balance, without providing any direct indication of the Central Bank\'s monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=184, total_tokens=228, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcpDK-4yUbBN-930a039a5aeb05c3', created=1744705125, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The increase in industrial production suggests a growing economy, which may lead the Central Bank of Turkey to consider tightening monetary policy to prevent inflation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=174, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcpDK-4yUbBN-930a039a4d469c3d', created=1744705125, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The committee\'s assessment of upside risks to the inflation target suggests a cautious tone, implying a hawkish stance to combat potential inflationary pressures."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=199, total_tokens=246, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcpUm-4yUbBN-930a039fee182009', created=1744705126, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The sentence implies that the Turkish lira\'s depreciation is having negative effects, which may lead the Central Bank to tighten its monetary policy to combat inflation and stabilize the currency."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=181, total_tokens=229, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcpUn-4yUbBN-930a039fed07e61b', created=1744705126, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The revision of the outlook down for both advanced and emerging economies implies a more cautious tone, suggesting a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=181, total_tokens=225, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcpV5-4yUbBN-930a039fe9bc05c3', created=1744705126, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies a positive outlook on economic activity, which may lead to a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=183, total_tokens=225, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcpUn-4yUbBN-930a039fea269c3d', created=1744705126, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The increase in services prices and annual inflation suggests that the Central Bank of Turkey may need to tighten its monetary policy to combat rising inflation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=193, total_tokens=239, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcpUw-4yUbBN-930a039fea85fc18', created=1744705126, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests a weakening of pressures, which implies a less tight monetary policy stance, hence dovish."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=186, total_tokens=227, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 04:18:47,303 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The sentence implies that the Turkish lira's depreciation is having negative effects, which may lead the Central Bank to tighten its monetary policy to combat inflation and stabilize the currency."
+}
+2025-04-15 04:18:47,303 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The revision of the outlook down for both advanced and emerging economies implies a more cautious tone, suggesting a dovish stance."
+}
+2025-04-15 04:18:47,303 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies a positive outlook on economic activity, which may lead to a more accommodative monetary policy stance."
+}
+2025-04-15 04:18:47,303 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The increase in services prices and annual inflation suggests that the Central Bank of Turkey may need to tighten its monetary policy to combat rising inflation."
+}
+2025-04-15 04:18:47,303 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests a weakening of pressures, which implies a less tight monetary policy stance, hence dovish."
+}
+2025-04-15 04:18:47,303 - together_inference - INFO - Processing batch 10/30 with 5 sentences.
+2025-04-15 04:18:47,303 - together_inference - INFO - Processing batch 10/30
+2025-04-15 04:18:48,347 - together_inference - INFO - Completed batch 10/30
+2025-04-15 04:18:48,354 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence focuses on the contribution of net exports to quarterly growth, without providing any explicit indication of the committee's stance on monetary policy."
+}
+2025-04-15 04:18:48,354 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence describes a mixed inflation trend with no clear direction, indicating a neutral stance as it does not provide a strong signal for monetary policy action."
+}
+2025-04-15 04:18:48,354 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The committee's decision to keep the policy rate unchanged while maintaining flexibility in liquidity management indicates a neutral stance, as it neither tightens nor loosens monetary policy."
+}
+2025-04-15 04:18:48,354 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence provides a neutral update on trade data, without indicating any clear implications for inflation or interest rates, which are key factors in monetary policy decisions."
+}
+2025-04-15 04:18:48,354 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies a positive development in portfolio investments, which could lead to increased liquidity and reduced pressure on interest rates, thus supporting a dovish stance."
+}
+2025-04-15 04:18:48,354 - together_inference - INFO - Processing batch 11/30 with 5 sentences.
+2025-04-15 04:18:48,354 - together_inference - INFO - Processing batch 11/30
+2025-04-15 04:18:49,827 - together_inference - INFO - Completed batch 11/30
+2025-04-15 04:18:49,827 - together_inference - INFO - Response: {
+"label": "dovish",
+"justification": "The sentence mentions factors that curb the decline in demand, implying a positive impact on the economy, which is consistent with a dovish stance that favors economic growth over inflation control."
+}
+2025-04-15 04:18:49,827 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The rise in annual services inflation suggests that the Central Bank of Turkey may need to tighten its monetary policy to combat inflationary pressures."
+}
+2025-04-15 04:18:49,827 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The decrease in annual services inflation suggests a easing of inflationary pressures, which may lead the Central Bank of Turkey to adopt a more accommodative monetary policy stance."
+}
+2025-04-15 04:18:49,827 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The high annual inflation rate of 51.43% suggests that the Central Bank of Turkey may need to tighten its monetary policy to combat inflation, which is a hawkish stance."
+}
+2025-04-15 04:18:49,827 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence highlights various factors maintaining inflation pressures, implying a need for tighter monetary policy to combat inflation."
+}
+2025-04-15 04:18:49,827 - together_inference - INFO - Processing batch 12/30 with 5 sentences.
+2025-04-15 04:18:49,827 - together_inference - INFO - Processing batch 12/30
+2025-04-15 04:18:50,802 - together_inference - INFO - Completed batch 12/30
+
+[ModelResponse(id='nqAcpme-4yUbBN-930a03a5fb892009', created=1744705127, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence focuses on the contribution of net exports to quarterly growth, without providing any explicit indication of the committee\'s stance on monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=180, total_tokens=220, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcpmM-4yUbBN-930a03a5f973e61b', created=1744705127, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence describes a mixed inflation trend with no clear direction, indicating a neutral stance as it does not provide a strong signal for monetary policy action."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=195, total_tokens=242, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcpmN-4yUbBN-930a03a5f85ffc18', created=1744705127, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The committee\'s decision to keep the policy rate unchanged while maintaining flexibility in liquidity management indicates a neutral stance, as it neither tightens nor loosens monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=194, total_tokens=244, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcpmX-4yUbBN-930a03a5ffc69c3d', created=1744705127, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence provides a neutral update on trade data, without indicating any clear implications for inflation or interest rates, which are key factors in monetary policy decisions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=190, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcpmY-4yUbBN-930a03a5f82205c3', created=1744705127, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies a positive development in portfolio investments, which could lead to increased liquidity and reduced pressure on interest rates, thus supporting a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=187, total_tokens=237, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcq5b-4yUbBN-930a03ac895f2009', created=1744705128, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "dovish",\n"justification": "The sentence mentions factors that curb the decline in demand, implying a positive impact on the economy, which is consistent with a dovish stance that favors economic growth over inflation control."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=198, total_tokens=248, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcq5d-4yUbBN-930a03ac8f88e61b', created=1744705128, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The rise in annual services inflation suggests that the Central Bank of Turkey may need to tighten its monetary policy to combat inflationary pressures."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=194, total_tokens=239, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcq5f-4yUbBN-930a03ac9ebbfc18', created=1744705128, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The decrease in annual services inflation suggests a easing of inflationary pressures, which may lead the Central Bank of Turkey to adopt a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=52, prompt_tokens=195, total_tokens=247, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcq5g-4yUbBN-930a03ac9dc89c3d', created=1744705128, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The high annual inflation rate of 51.43% suggests that the Central Bank of Turkey may need to tighten its monetary policy to combat inflation, which is a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=199, total_tokens=249, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcq5f-4yUbBN-930a03ac9f6b05c3', created=1744705128, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence highlights various factors maintaining inflation pressures, implying a need for tighter monetary policy to combat inflation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=182, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcqX3-4yUbBN-930a03b5cbe2e61b', created=1744705129, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence highlights inflationary pressures from exchange rate developments, commodity prices, and supply chain disruptions, suggesting a need for tighter monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=186, total_tokens=232, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcqXG-4yUbBN-930a03b5ba532009', created=1744705129, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The widening current account deficit may lead the Central Bank of Turkey to tighten its monetary policy to combat potential inflationary pressures and currency depreciation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=214, total_tokens=255, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcqX4-4yUbBN-930a03b5ce099c3d', created=1744705129, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies a lack of growth in loan rates, suggesting a relaxed monetary policy stance, which is characteristic of a dovish tone."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=184, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcqXA-4yUbBN-930a03b5cb0ffc18', created=1744705129, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence only reports mixed changes in inflation subgroups without indicating a clear direction or trend, making it a neutral statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=182, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcqX7-4yUbBN-930a03b5c92e05c3', created=1744705129, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The increase in lump-sum SCT amounts on fuel indicates a tightening of monetary policy, which is a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=173, total_tokens=210, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 04:18:50,806 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence highlights inflationary pressures from exchange rate developments, commodity prices, and supply chain disruptions, suggesting a need for tighter monetary policy."
+}
+2025-04-15 04:18:50,806 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The widening current account deficit may lead the Central Bank of Turkey to tighten its monetary policy to combat potential inflationary pressures and currency depreciation."
+}
+2025-04-15 04:18:50,806 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies a lack of growth in loan rates, suggesting a relaxed monetary policy stance, which is characteristic of a dovish tone."
+}
+2025-04-15 04:18:50,806 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence only reports mixed changes in inflation subgroups without indicating a clear direction or trend, making it a neutral statement."
+}
+2025-04-15 04:18:50,806 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The increase in lump-sum SCT amounts on fuel indicates a tightening of monetary policy, which is a hawkish stance."
+}
+2025-04-15 04:18:50,806 - together_inference - INFO - Processing batch 13/30 with 5 sentences.
+2025-04-15 04:18:50,806 - together_inference - INFO - Processing batch 13/30
+2025-04-15 04:18:51,978 - together_inference - INFO - Completed batch 13/30
+2025-04-15 04:18:51,983 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence highlights the upward pressure on inflation due to external factors, implying a potential need for monetary policy tightening."
+}
+2025-04-15 04:18:51,983 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence indicates a tight monetary policy stance against the inflation outlook, which suggests a hawkish stance to combat inflation."
+}
+2025-04-15 04:18:51,983 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies a focus on reducing inflationary pressures, which is a characteristic of a hawkish monetary policy stance."
+}
+2025-04-15 04:18:51,983 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence emphasizes the need for coordination and a comprehensive approach to achieve price stability, without explicitly indicating a tightening or easing bias."
+}
+2025-04-15 04:18:51,983 - together_inference - INFO - Response: {
+"label": "dovish",
+"justification": "The sentence implies that the drop in fuel prices due to international oil prices outweighs the depreciation in the exchange rate, suggesting a downward pressure on inflation, which is a dovish signal."
+}
+2025-04-15 04:18:51,983 - together_inference - INFO - Processing batch 14/30 with 5 sentences.
+2025-04-15 04:18:51,983 - together_inference - INFO - Processing batch 14/30
+2025-04-15 04:18:52,902 - together_inference - INFO - Completed batch 14/30
+2025-04-15 04:18:52,907 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies that the depreciation of the Turkish Lira is limiting the improvement in inflation, suggesting that the Central Bank may need to take a more hawkish stance to combat inflationary pressures."
+}
+2025-04-15 04:18:52,907 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The sentence suggests a surge in rents, which may lead to higher inflation, prompting the Central Bank to adopt a hawkish stance to combat inflationary pressures."
+}
+2025-04-15 04:18:52,907 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence neither indicates a strong concern about high inflation levels nor suggests a relaxation of monetary policy, maintaining a neutral tone."
+}
+2025-04-15 04:18:52,907 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The sentence highlights rising prices in various food categories, which may indicate inflationary pressures, prompting the Central Bank to adopt a hawkish stance to combat inflation."
+}
+2025-04-15 04:18:52,907 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence does not provide any information about the Central Bank of Turkey's monetary policy stance or decisions."
+}
+2025-04-15 04:18:52,907 - together_inference - INFO - Processing batch 15/30 with 5 sentences.
+2025-04-15 04:18:52,907 - together_inference - INFO - Processing batch 15/30
+2025-04-15 04:18:54,080 - together_inference - INFO - Completed batch 15/30
+
+[ModelResponse(id='nqAcqow-4yUbBN-930a03bbcffd2009', created=1744705130, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence highlights the upward pressure on inflation due to external factors, implying a potential need for monetary policy tightening."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=188, total_tokens=229, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcqoj-4yUbBN-930a03bbd94be61b', created=1744705130, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence indicates a tight monetary policy stance against the inflation outlook, which suggests a hawkish stance to combat inflation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=189, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcqot-4yUbBN-930a03bbdb219c3d', created=1744705130, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies a focus on reducing inflationary pressures, which is a characteristic of a hawkish monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=191, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcqop-4yUbBN-930a03bbe91afc18', created=1744705130, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence emphasizes the need for coordination and a comprehensive approach to achieve price stability, without explicitly indicating a tightening or easing bias."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=185, total_tokens=228, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcqoq-4yUbBN-930a03bbef7105c3', created=1744705130, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "dovish",\n"justification": "The sentence implies that the drop in fuel prices due to international oil prices outweighs the depreciation in the exchange rate, suggesting a downward pressure on inflation, which is a dovish signal."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=52, prompt_tokens=187, total_tokens=239, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcrAC-4yUbBN-930a03c3488ee61b', created=1744705132, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies that the depreciation of the Turkish Lira is limiting the improvement in inflation, suggesting that the Central Bank may need to take a more hawkish stance to combat inflationary pressures."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=57, prompt_tokens=182, total_tokens=239, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcrAD-4yUbBN-930a03c34ecf2009', created=1744705132, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The sentence suggests a surge in rents, which may lead to higher inflation, prompting the Central Bank to adopt a hawkish stance to combat inflationary pressures."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=175, total_tokens=220, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcrAL-4yUbBN-930a03c34de405c3', created=1744705132, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence neither indicates a strong concern about high inflation levels nor suggests a relaxation of monetary policy, maintaining a neutral tone."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=183, total_tokens=225, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcrA8-4yUbBN-930a03c3495ffc18', created=1744705132, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The sentence highlights rising prices in various food categories, which may indicate inflationary pressures, prompting the Central Bank to adopt a hawkish stance to combat inflation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=202, total_tokens=247, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcrAD-4yUbBN-930a03c349429c3d', created=1744705132, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence does not provide any information about the Central Bank of Turkey\'s monetary policy stance or decisions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=177, total_tokens=211, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcrS4-4yUbBN-930a03c90bace61b', created=1744705133, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The increase in annual inflation rate suggests that the Central Bank of Turkey may need to tighten its monetary policy to combat rising prices."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=189, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcrS4-4yUbBN-930a03c90d712009', created=1744705133, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The sentence implies that prices are increasing dramatically, which may lead to inflationary pressures, prompting the Central Bank to adopt a hawkish stance to combat inflation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=185, total_tokens=230, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcrS4-4yUbBN-930a03c90e27fc18', created=1744705133, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "dovish",\n"justification": "The sentence suggests a positive trend in inflation, which may imply a less pressing need for monetary tightening, hence a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=180, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcrS5-4yUbBN-930a03c90dbb9c3d', created=1744705133, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence indicates a strong commitment to fighting inflation and achieving the 5% target, implying a tight monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=205, total_tokens=248, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcrSC-4yUbBN-930a03c90af305c3', created=1744705133, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "dovish",\n"justification": "The sentence implies a potential risk to portfolio flows, which may lead to a more accommodative monetary policy stance to mitigate the negative impact."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=179, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 04:18:54,086 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The increase in annual inflation rate suggests that the Central Bank of Turkey may need to tighten its monetary policy to combat rising prices."
+}
+2025-04-15 04:18:54,086 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The sentence implies that prices are increasing dramatically, which may lead to inflationary pressures, prompting the Central Bank to adopt a hawkish stance to combat inflation."
+}
+2025-04-15 04:18:54,086 - together_inference - INFO - Response: {
+"label": "dovish",
+"justification": "The sentence suggests a positive trend in inflation, which may imply a less pressing need for monetary tightening, hence a dovish stance."
+}
+2025-04-15 04:18:54,086 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence indicates a strong commitment to fighting inflation and achieving the 5% target, implying a tight monetary policy stance."
+}
+2025-04-15 04:18:54,086 - together_inference - INFO - Response: {
+"label": "dovish",
+"justification": "The sentence implies a potential risk to portfolio flows, which may lead to a more accommodative monetary policy stance to mitigate the negative impact."
+}
+2025-04-15 04:18:54,086 - together_inference - INFO - Processing batch 16/30 with 5 sentences.
+2025-04-15 04:18:54,086 - together_inference - INFO - Processing batch 16/30
+2025-04-15 04:18:56,141 - together_inference - INFO - Completed batch 16/30
+2025-04-15 04:18:56,141 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence indicates a focus on strengthening the Turkish lira and reducing the weight of swaps, which suggests a tightening of monetary policy, hence a hawkish stance."
+}
+2025-04-15 04:18:56,141 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies that the Central Bank of Turkey may need to tighten monetary conditions to reduce gold imports and curb the widening current account deficit, which is a hawkish stance."
+}
+2025-04-15 04:18:56,141 - together_inference - INFO - Response: {
+"label": "dovish",
+"justification": "The sentence suggests a decrease in prices of automobiles, which could indicate a decrease in inflationary pressures, leading to a dovish monetary policy stance."
+}
+2025-04-15 04:18:56,141 - together_inference - INFO - Response: {
+"label": "dovish",
+"justification": "The sentence implies a weaker economy due to weaker exports, which may lead the Central Bank to adopt an accommodative monetary policy stance."
+}
+2025-04-15 04:18:56,141 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies that financial conditions will remain tight, suggesting a restrictive monetary policy stance, which is characteristic of a hawkish tone."
+}
+2025-04-15 04:18:56,141 - together_inference - INFO - Processing batch 17/30 with 5 sentences.
+2025-04-15 04:18:56,141 - together_inference - INFO - Processing batch 17/30
+2025-04-15 04:18:57,090 - together_inference - INFO - Completed batch 17/30
+2025-04-15 04:18:57,091 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The high inflation rate of 48.69% suggests that the Central Bank of Turkey may need to tighten its monetary policy to combat inflation, which is a hawkish stance."
+}
+2025-04-15 04:18:57,091 - together_inference - INFO - Response: {
+"label": "dovish",
+"justification": "The decline in annual energy inflation despite price hikes suggests a positive trend, which may lead the Central Bank of Turkey to adopt a more accommodative monetary policy stance."
+}
+2025-04-15 04:18:57,091 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies that inflation is expected to rise, which may prompt the Central Bank to tighten monetary policy, hence a hawkish stance."
+}
+2025-04-15 04:18:57,091 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence discusses meat prices, which is unrelated to the Central Bank of Turkey's monetary policy stance."
+}
+2025-04-15 04:18:57,091 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The deceleration of producer prices suggests a decrease in inflationary pressures, which could lead the Central Bank of Turkey to adopt a more accommodative monetary policy stance."
+}
+2025-04-15 04:18:57,091 - together_inference - INFO - Processing batch 18/30 with 5 sentences.
+2025-04-15 04:18:57,091 - together_inference - INFO - Processing batch 18/30
+2025-04-15 04:18:58,404 - together_inference - INFO - Completed batch 18/30
+
+[ModelResponse(id='nqAcrnf-4yUbBN-930a03d07c272009', created=1744705134, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence indicates a focus on strengthening the Turkish lira and reducing the weight of swaps, which suggests a tightening of monetary policy, hence a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=51, prompt_tokens=222, total_tokens=273, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcrnX-4yUbBN-930a03d07b51e61b', created=1744705134, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies that the Central Bank of Turkey may need to tighten monetary conditions to reduce gold imports and curb the widening current account deficit, which is a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=53, prompt_tokens=188, total_tokens=241, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcrna-4yUbBN-930a03d07e76fc18', created=1744705134, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "dovish",\n"justification": "The sentence suggests a decrease in prices of automobiles, which could indicate a decrease in inflationary pressures, leading to a dovish monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=188, total_tokens=232, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcrni-4yUbBN-930a03d079ff05c3', created=1744705134, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "dovish",\n"justification": "The sentence implies a weaker economy due to weaker exports, which may lead the Central Bank to adopt an accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=183, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcrnn-4yUbBN-930a03d07b279c3d', created=1744705134, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies that financial conditions will remain tight, suggesting a restrictive monetary policy stance, which is characteristic of a hawkish tone."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=182, total_tokens=227, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcsPr-4yUbBN-930a03dd3fe92009', created=1744705136, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The high inflation rate of 48.69% suggests that the Central Bank of Turkey may need to tighten its monetary policy to combat inflation, which is a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=54, prompt_tokens=191, total_tokens=245, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcsPq-4yUbBN-930a03dd3cf505c3', created=1744705136, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "dovish",\n"justification": "The decline in annual energy inflation despite price hikes suggests a positive trend, which may lead the Central Bank of Turkey to adopt a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=177, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcsPk-4yUbBN-930a03dd3e52e61b', created=1744705136, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies that inflation is expected to rise, which may prompt the Central Bank to tighten monetary policy, hence a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=190, total_tokens=236, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcsPn-4yUbBN-930a03dd3acdfc18', created=1744705136, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence discusses meat prices, which is unrelated to the Central Bank of Turkey\'s monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=176, total_tokens=210, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcsPq-4yUbBN-930a03dd3c6c9c3d', created=1744705136, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The deceleration of producer prices suggests a decrease in inflationary pressures, which could lead the Central Bank of Turkey to adopt a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=53, prompt_tokens=198, total_tokens=251, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcsgE-4yUbBN-930a03e329bee61b', created=1744705137, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence only reports a static rate without indicating any change or direction, hence it does not convey a clear monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=180, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcsgD-4yUbBN-930a03e32958fc18', created=1744705137, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence suggests a temporary rise in inflation, which may prompt the Central Bank to take a more cautious stance, hence a hawkish tone."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=210, total_tokens=257, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcsgL-4yUbBN-930a03e32df32009', created=1744705137, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The significant increase in annual inflation in rents suggests a potential need for tighter monetary policy to combat rising prices, which is a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=183, total_tokens=225, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcsgF-4yUbBN-930a03e329689c3d', created=1744705137, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The sentence suggests that price increases in certain sectors remain strong, implying upward pressure on inflation, which may warrant a more restrictive monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=190, total_tokens=232, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcsgP-4yUbBN-930a03e32bef05c3', created=1744705137, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The decrease in inflation expectations suggests a more optimistic outlook, which may lead to a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=206, total_tokens=249, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 04:18:58,405 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence only reports a static rate without indicating any change or direction, hence it does not convey a clear monetary policy stance."
+}
+2025-04-15 04:18:58,405 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence suggests a temporary rise in inflation, which may prompt the Central Bank to take a more cautious stance, hence a hawkish tone."
+}
+2025-04-15 04:18:58,405 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The significant increase in annual inflation in rents suggests a potential need for tighter monetary policy to combat rising prices, which is a hawkish stance."
+}
+2025-04-15 04:18:58,405 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The sentence suggests that price increases in certain sectors remain strong, implying upward pressure on inflation, which may warrant a more restrictive monetary policy stance."
+}
+2025-04-15 04:18:58,405 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The decrease in inflation expectations suggests a more optimistic outlook, which may lead to a more accommodative monetary policy stance."
+}
+2025-04-15 04:18:58,405 - together_inference - INFO - Processing batch 19/30 with 5 sentences.
+2025-04-15 04:18:58,405 - together_inference - INFO - Processing batch 19/30
+2025-04-15 04:18:59,510 - together_inference - INFO - Completed batch 19/30
+2025-04-15 04:18:59,514 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The decline in industrial production suggests a slowdown in economic activity, which may lead the Central Bank of Turkey to adopt a more accommodative monetary policy stance."
+}
+2025-04-15 04:18:59,514 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The committee's decision to raise the policy rate from 45% to 50% indicates a tightening of monetary policy, which is a hawkish stance."
+}
+2025-04-15 04:18:59,514 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The sentence suggests that inflation is still high, particularly in processed food, which may prompt the Central Bank of Turkey to maintain a tight monetary policy stance."
+}
+2025-04-15 04:18:59,514 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies a weakening economy, which may lead the Central Bank of Turkey to adopt an accommodative monetary policy stance."
+}
+2025-04-15 04:18:59,514 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The committee's decision to keep the policy rate unchanged suggests a neutral stance, as it neither tightens nor loosens monetary policy."
+}
+2025-04-15 04:18:59,514 - together_inference - INFO - Processing batch 20/30 with 5 sentences.
+2025-04-15 04:18:59,514 - together_inference - INFO - Processing batch 20/30
+2025-04-15 04:19:00,684 - together_inference - INFO - Completed batch 20/30
+2025-04-15 04:19:00,690 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The significant increase in deposit rates by 1071 basis points indicates a tightening of monetary policy, which is a hawkish stance."
+}
+2025-04-15 04:19:00,690 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies that the Central Bank of Turkey expects tightening financial conditions to positively impact the inflation outlook, indicating a hawkish stance."
+}
+2025-04-15 04:19:00,690 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence implies a neutral stance as it assumes fiscal discipline and no unanticipated price hikes, indicating a stable and unchanged monetary policy."
+}
+2025-04-15 04:19:00,690 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The sentence suggests a strong underlying trend in industrial production, which may lead the Central Bank to consider tightening monetary policy to prevent inflationary pressures."
+}
+2025-04-15 04:19:00,690 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence indicates a stabilizing stance for FX liquidity and a supportive macroprudential policy stance, which suggests a balanced approach, neither tightening nor loosening, hence a neutral stance."
+}
+2025-04-15 04:19:00,690 - together_inference - INFO - Processing batch 21/30 with 5 sentences.
+2025-04-15 04:19:00,690 - together_inference - INFO - Processing batch 21/30
+2025-04-15 04:19:02,105 - together_inference - INFO - Completed batch 21/30
+
+[ModelResponse(id='nqAct4z-4yUbBN-930a03eb6e792009', created=1744705138, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The decline in industrial production suggests a slowdown in economic activity, which may lead the Central Bank of Turkey to adopt a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=178, total_tokens=228, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAct4r-4yUbBN-930a03eb6b09e61b', created=1744705138, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The committee\'s decision to raise the policy rate from 45% to 50% indicates a tightening of monetary policy, which is a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=188, total_tokens=238, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAct4v-4yUbBN-930a03eb6f959c3d', created=1744705138, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The sentence suggests that inflation is still high, particularly in processed food, which may prompt the Central Bank of Turkey to maintain a tight monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=201, total_tokens=245, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAct4u-4yUbBN-930a03eb6c8105c3', created=1744705138, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies a weakening economy, which may lead the Central Bank of Turkey to adopt an accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=178, total_tokens=222, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAct4r-4yUbBN-930a03eb6c7efc18', created=1744705138, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The committee\'s decision to keep the policy rate unchanged suggests a neutral stance, as it neither tightens nor loosens monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=178, total_tokens=222, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqActPv-4yUbBN-930a03f24dba2009', created=1744705139, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The significant increase in deposit rates by 1071 basis points indicates a tightening of monetary policy, which is a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=192, total_tokens=237, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqActPs-4yUbBN-930a03f24944e61b', created=1744705139, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies that the Central Bank of Turkey expects tightening financial conditions to positively impact the inflation outlook, indicating a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=200, total_tokens=245, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqActPw-4yUbBN-930a03f24d66fc18', created=1744705139, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence implies a neutral stance as it assumes fiscal discipline and no unanticipated price hikes, indicating a stable and unchanged monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=194, total_tokens=238, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqActQ8-4yUbBN-930a03f24c839c3d', created=1744705139, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The sentence suggests a strong underlying trend in industrial production, which may lead the Central Bank to consider tightening monetary policy to prevent inflationary pressures."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=175, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqActQ1-4yUbBN-930a03f24b9805c3', created=1744705139, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence indicates a stabilizing stance for FX liquidity and a supportive macroprudential policy stance, which suggests a balanced approach, neither tightening nor loosening, hence a neutral stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=55, prompt_tokens=199, total_tokens=254, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqActkF-4yUbBN-930a03f9a810fc18', created=1744705140, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies a slowdown in consumption spending, which could lead to lower inflation and a more accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=191, total_tokens=235, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqActkC-4yUbBN-930a03f9a89ce61b', created=1744705140, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence provides a balanced view of the economy, mentioning both a slight deceleration in domestic demand and strong external demand, without indicating a clear bias towards tightening or loosening monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=51, prompt_tokens=180, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqActkF-4yUbBN-930a03f9ac642009', created=1744705140, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "dovish",\n"justification": "The sentence suggests a positive economic indicator (high current account surplus) which may lead the Central Bank to adopt an accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=197, total_tokens=240, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqActkS-4yUbBN-930a03f9a99f9c3d', created=1744705140, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The sentence suggests an improvement in the underlying core inflation trend, which may lead the Central Bank to consider tightening monetary policy, hence a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=179, total_tokens=223, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqActkP-4yUbBN-930a03f9aa5005c3', created=1744705140, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence provides mixed signals on economic activity, with a sustained rise in export orders and a partial deceleration in domestic orders, making it difficult to infer a clear direction for monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=56, prompt_tokens=185, total_tokens=241, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 04:19:02,105 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies a slowdown in consumption spending, which could lead to lower inflation and a more accommodative monetary policy stance."
+}
+2025-04-15 04:19:02,105 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence provides a balanced view of the economy, mentioning both a slight deceleration in domestic demand and strong external demand, without indicating a clear bias towards tightening or loosening monetary policy."
+}
+2025-04-15 04:19:02,105 - together_inference - INFO - Response: {
+"label": "dovish",
+"justification": "The sentence suggests a positive economic indicator (high current account surplus) which may lead the Central Bank to adopt an accommodative monetary policy stance."
+}
+2025-04-15 04:19:02,105 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The sentence suggests an improvement in the underlying core inflation trend, which may lead the Central Bank to consider tightening monetary policy, hence a hawkish stance."
+}
+2025-04-15 04:19:02,105 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence provides mixed signals on economic activity, with a sustained rise in export orders and a partial deceleration in domestic orders, making it difficult to infer a clear direction for monetary policy."
+}
+2025-04-15 04:19:02,105 - together_inference - INFO - Processing batch 22/30 with 5 sentences.
+2025-04-15 04:19:02,105 - together_inference - INFO - Processing batch 22/30
+2025-04-15 04:19:02,958 - together_inference - INFO - Completed batch 22/30
+2025-04-15 04:19:02,962 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests that the upward trend in employment is maintained, implying a positive economic outlook, which is consistent with a dovish stance that favors accommodative monetary policy."
+}
+2025-04-15 04:19:02,962 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence discusses energy sub-index and products, which is unrelated to the Central Bank of Turkey's monetary policy stance."
+}
+2025-04-15 04:19:02,962 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The committee's statement about economic activity losing momentum suggests a potential need for accommodative monetary policy, which is a dovish stance."
+}
+2025-04-15 04:19:02,962 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The sentence implies that the Central Bank of Turkey is concerned about potential price fluctuations and growth weakening, suggesting a cautious and restrictive monetary policy stance."
+}
+2025-04-15 04:19:02,962 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies potential market volatility and weakening portfolio flows, suggesting a cautious tone that aligns with a hawkish monetary policy stance."
+}
+2025-04-15 04:19:02,962 - together_inference - INFO - Processing batch 23/30 with 5 sentences.
+2025-04-15 04:19:02,963 - together_inference - INFO - Processing batch 23/30
+2025-04-15 04:19:04,805 - together_inference - INFO - Completed batch 23/30
+2025-04-15 04:19:04,806 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The increase in annual inflation suggests that the Central Bank of Turkey may need to tighten its monetary policy to combat rising prices."
+}
+2025-04-15 04:19:04,806 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies that the Central Bank of Turkey may need to tighten its monetary policy to combat rising inflation and a depreciating currency."
+}
+2025-04-15 04:19:04,806 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies a positive outlook on the economy, mentioning a 'gradual recovery' and 'partial improvement in financial conditions', which suggests a dovish stance, accommodating of growth."
+}
+2025-04-15 04:19:04,806 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence does not mention the Central Bank of Turkey's monetary policy or any related decisions, making it irrelevant to classify its stance."
+}
+2025-04-15 04:19:04,806 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies a slow growth in economic activity, which may prompt the Central Bank to adopt an accommodative monetary policy stance."
+}
+2025-04-15 04:19:04,806 - together_inference - INFO - Processing batch 24/30 with 5 sentences.
+2025-04-15 04:19:04,806 - together_inference - INFO - Processing batch 24/30
+2025-04-15 04:19:05,929 - together_inference - INFO - Completed batch 24/30
+
+[ModelResponse(id='nqAcuAe-4yUbBN-930a04027d162009', created=1744705142, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests that the upward trend in employment is maintained, implying a positive economic outlook, which is consistent with a dovish stance that favors accommodative monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=53, prompt_tokens=183, total_tokens=236, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcuAg-4yUbBN-930a04028b6be61b', created=1744705142, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence discusses energy sub-index and products, which is unrelated to the Central Bank of Turkey\'s monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=191, total_tokens=228, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcuAo-4yUbBN-930a04028a5905c3', created=1744705142, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The committee\'s statement about economic activity losing momentum suggests a potential need for accommodative monetary policy, which is a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=185, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcuAw-4yUbBN-930a0402881c9c3d', created=1744705142, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The sentence implies that the Central Bank of Turkey is concerned about potential price fluctuations and growth weakening, suggesting a cautious and restrictive monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=179, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcuAe-4yUbBN-930a04028dadfc18', created=1744705142, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies potential market volatility and weakening portfolio flows, suggesting a cautious tone that aligns with a hawkish monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=194, total_tokens=239, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcuRT-4yUbBN-930a0407da102009', created=1744705143, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The increase in annual inflation suggests that the Central Bank of Turkey may need to tighten its monetary policy to combat rising prices."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=185, total_tokens=228, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcuRQ-4yUbBN-930a0407de9ee61b', created=1744705143, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies that the Central Bank of Turkey may need to tighten its monetary policy to combat rising inflation and a depreciating currency."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=183, total_tokens=228, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcuRW-4yUbBN-930a0407dbcb9c3d', created=1744705143, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies a positive outlook on the economy, mentioning a \'gradual recovery\' and \'partial improvement in financial conditions\', which suggests a dovish stance, accommodating of growth."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=56, prompt_tokens=201, total_tokens=257, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcuRV-4yUbBN-930a0407da4cfc18', created=1744705143, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence does not mention the Central Bank of Turkey\'s monetary policy or any related decisions, making it irrelevant to classify its stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=208, total_tokens=248, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcuRa-4yUbBN-930a0407debc05c3', created=1744705143, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies a slow growth in economic activity, which may prompt the Central Bank to adopt an accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=183, total_tokens=228, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcuyG-4yUbBN-930a04136cdd2009', created=1744705144, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence only reports on price increases in specific food items without providing any information about the Central Bank\'s monetary policy stance or decisions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=198, total_tokens=237, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcuyZ-4yUbBN-930a04136f65e61b', created=1744705144, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The sentence suggests that inflationary pressures are rising, which may prompt the Central Bank of Turkey to tighten its monetary policy, hence a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=171, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcuyM-4yUbBN-930a041368af05c3', created=1744705144, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies that despite some positive developments, there are still concerns about inflation, which suggests a cautious or restrictive monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=178, total_tokens=223, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcuyF-4yUbBN-930a04136c029c3d', created=1744705144, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence suggests a strong domestic economy and improving external demand, implying that the Central Bank of Turkey may need to tighten its monetary policy to prevent overheating."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=192, total_tokens=242, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcuzb-4yUbBN-930a04136da6fc18', created=1744705144, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence only reports mixed changes in inflation rates across subcategories, without providing a clear direction or trend that would influence the Central Bank\'s monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=175, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 04:19:05,929 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence only reports on price increases in specific food items without providing any information about the Central Bank's monetary policy stance or decisions."
+}
+2025-04-15 04:19:05,929 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The sentence suggests that inflationary pressures are rising, which may prompt the Central Bank of Turkey to tighten its monetary policy, hence a hawkish stance."
+}
+2025-04-15 04:19:05,929 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies that despite some positive developments, there are still concerns about inflation, which suggests a cautious or restrictive monetary policy stance."
+}
+2025-04-15 04:19:05,929 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence suggests a strong domestic economy and improving external demand, implying that the Central Bank of Turkey may need to tighten its monetary policy to prevent overheating."
+}
+2025-04-15 04:19:05,929 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence only reports mixed changes in inflation rates across subcategories, without providing a clear direction or trend that would influence the Central Bank's monetary policy stance."
+}
+2025-04-15 04:19:05,929 - together_inference - INFO - Processing batch 25/30 with 5 sentences.
+2025-04-15 04:19:05,929 - together_inference - INFO - Processing batch 25/30
+2025-04-15 04:19:06,781 - together_inference - INFO - Completed batch 25/30
+2025-04-15 04:19:06,788 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence discusses the effectiveness of transmission mechanisms without expressing a clear opinion on the direction of monetary policy, making it a neutral statement."
+}
+2025-04-15 04:19:06,788 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence does not indicate a clear direction for monetary policy, only highlighting the uncertainty surrounding inflation forecasts due to the pandemic."
+}
+2025-04-15 04:19:06,788 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies a strong commitment to fighting inflation and taking necessary measures to achieve price stability, indicating a hawkish stance."
+}
+2025-04-15 04:19:06,788 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence highlights a worsening employment and investment stance, which suggests a need for accommodative monetary policy, hence a dovish stance."
+}
+2025-04-15 04:19:06,788 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies that the committee is concerned about rising inflation risks, which suggests a more hawkish stance to combat inflationary pressures."
+}
+2025-04-15 04:19:06,788 - together_inference - INFO - Processing batch 26/30 with 5 sentences.
+2025-04-15 04:19:06,788 - together_inference - INFO - Processing batch 26/30
+2025-04-15 04:19:07,876 - together_inference - INFO - Completed batch 26/30
+2025-04-15 04:19:07,881 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence highlights rising prices and inflationary pressures, suggesting a need for tighter monetary policy, which is a hawkish stance."
+}
+2025-04-15 04:19:07,881 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests a decrease in inflation, which implies a more accommodative monetary policy stance, hence dovish."
+}
+2025-04-15 04:19:07,881 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies that the Central Bank of Turkey has taken tightening measures to achieve the targeted level of financial tightness, indicating a hawkish stance."
+}
+2025-04-15 04:19:07,881 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence lists advanced economies but does not provide any information about the Central Bank of Turkey's monetary policy stance."
+}
+2025-04-15 04:19:07,881 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies that prices are increasing due to exchange rate pass-through effects and other factors, which may lead the Central Bank of Turkey to tighten its monetary policy to combat inflation."
+}
+2025-04-15 04:19:07,881 - together_inference - INFO - Processing batch 27/30 with 5 sentences.
+2025-04-15 04:19:07,881 - together_inference - INFO - Processing batch 27/30
+2025-04-15 04:19:08,758 - together_inference - INFO - Completed batch 27/30
+
+[ModelResponse(id='nqAcvJs-4yUbBN-930a041a6bdc2009', created=1744705146, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence discusses the effectiveness of transmission mechanisms without expressing a clear opinion on the direction of monetary policy, making it a neutral statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=185, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcvJq-4yUbBN-930a041a6eeb05c3', created=1744705146, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence does not indicate a clear direction for monetary policy, only highlighting the uncertainty surrounding inflation forecasts due to the pandemic."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=180, total_tokens=222, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcvJr-4yUbBN-930a041a6ecce61b', created=1744705146, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies a strong commitment to fighting inflation and taking necessary measures to achieve price stability, indicating a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=181, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcvJX-4yUbBN-930a041a6c7afc18', created=1744705146, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence highlights a worsening employment and investment stance, which suggests a need for accommodative monetary policy, hence a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=186, total_tokens=232, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcvJm-4yUbBN-930a041a69969c3d', created=1744705146, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies that the committee is concerned about rising inflation risks, which suggests a more hawkish stance to combat inflationary pressures."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=203, total_tokens=248, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcvZa-4yUbBN-930a041fd9562009', created=1744705146, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence highlights rising prices and inflationary pressures, suggesting a need for tighter monetary policy, which is a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=196, total_tokens=240, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcvZV-4yUbBN-930a041fdaa8e61b', created=1744705146, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests a decrease in inflation, which implies a more accommodative monetary policy stance, hence dovish."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=181, total_tokens=223, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcvZa-4yUbBN-930a041fd8ecfc18', created=1744705146, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies that the Central Bank of Turkey has taken tightening measures to achieve the targeted level of financial tightness, indicating a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=192, total_tokens=240, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcvZe-4yUbBN-930a041fdba305c3', created=1744705146, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence lists advanced economies but does not provide any information about the Central Bank of Turkey\'s monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=201, total_tokens=237, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcvZc-4yUbBN-930a041fddcc9c3d', created=1744705146, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies that prices are increasing due to exchange rate pass-through effects and other factors, which may lead the Central Bank of Turkey to tighten its monetary policy to combat inflation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=54, prompt_tokens=205, total_tokens=259, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcvtC-4yUbBN-930a04269822e61b', created=1744705147, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence provides information about employment trends in different sectors, but it does not contain any explicit hints about the Central Bank of Turkey\'s monetary policy stance or interest rate decisions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=184, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcvtt-4yUbBN-930a042698632009', created=1744705148, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies a slowdown in economic activity, which may lead the Central Bank to adopt an accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=179, total_tokens=223, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcvtN-4yUbBN-930a04269b9c9c3d', created=1744705147, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The sentence implies that inflation remains high, which may prompt the Central Bank of Turkey to maintain or increase interest rates to combat inflationary pressures."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=175, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcvt9-4yUbBN-930a0426986dfc18', created=1744705147, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "dovish",\n"justification": "The sentence highlights a positive aspect of the economy, which may suggest that the Central Bank of Turkey may not need to tighten its monetary policy, leading to a dovish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=186, total_tokens=236, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcvtH-4yUbBN-930a0426997005c3', created=1744705147, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies a focus on price stability and liraization, suggesting a tightening of monetary policy to combat inflation, which is a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=201, total_tokens=250, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 04:19:08,759 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence provides information about employment trends in different sectors, but it does not contain any explicit hints about the Central Bank of Turkey's monetary policy stance or interest rate decisions."
+}
+2025-04-15 04:19:08,759 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies a slowdown in economic activity, which may lead the Central Bank to adopt an accommodative monetary policy stance."
+}
+2025-04-15 04:19:08,759 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The sentence implies that inflation remains high, which may prompt the Central Bank of Turkey to maintain or increase interest rates to combat inflationary pressures."
+}
+2025-04-15 04:19:08,759 - together_inference - INFO - Response: {
+"label": "dovish",
+"justification": "The sentence highlights a positive aspect of the economy, which may suggest that the Central Bank of Turkey may not need to tighten its monetary policy, leading to a dovish stance."
+}
+2025-04-15 04:19:08,759 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies a focus on price stability and liraization, suggesting a tightening of monetary policy to combat inflation, which is a hawkish stance."
+}
+2025-04-15 04:19:08,759 - together_inference - INFO - Processing batch 28/30 with 5 sentences.
+2025-04-15 04:19:08,759 - together_inference - INFO - Processing batch 28/30
+2025-04-15 04:19:10,851 - together_inference - INFO - Completed batch 28/30
+2025-04-15 04:19:10,859 - together_inference - INFO - Response: {
+"label": "hawkish",
+"justification": "The high five-year ahead inflation expectation of 9.03% suggests that the Central Bank of Turkey may need to tighten its monetary policy to combat inflation, which is a hawkish stance."
+}
+2025-04-15 04:19:10,859 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence indicates a relatively flat annual inflation with a slight increase in trends, suggesting a stable inflation environment that does not warrant a change in monetary policy stance."
+}
+2025-04-15 04:19:10,859 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence indicates a tight monetary policy stance will be maintained, suggesting a hawkish approach to combat inflation."
+}
+2025-04-15 04:19:10,859 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies that producer prices are increasing strongly, which may lead to inflationary pressures, prompting the Central Bank to adopt a hawkish stance to combat inflation."
+}
+2025-04-15 04:19:10,859 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence does not convey any clear signal about the Central Bank's stance on interest rates or inflation, instead, it provides a neutral outlook on industrial production."
+}
+2025-04-15 04:19:10,859 - together_inference - INFO - Processing batch 29/30 with 5 sentences.
+2025-04-15 04:19:10,859 - together_inference - INFO - Processing batch 29/30
+2025-04-15 04:19:11,894 - together_inference - INFO - Completed batch 29/30
+2025-04-15 04:19:11,898 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence suggests a deceleration in price increases, implying a decrease in inflationary pressures, which is a dovish signal for monetary policy."
+}
+2025-04-15 04:19:11,898 - together_inference - INFO - Response: {
+"label": "dovish",
+"justification": "The sentence reports positive economic indicators, which may suggest a more optimistic outlook, leading the Central Bank to adopt a dovish stance and potentially ease monetary policy."
+}
+2025-04-15 04:19:11,898 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence does not provide any information about the Central Bank of Turkey's monetary policy stance or decisions, but rather reports on employment data."
+}
+2025-04-15 04:19:11,898 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence implies that despite some positive trends, there are still concerns about inflation, which suggests a cautious or hawkish stance from the Central Bank."
+}
+2025-04-15 04:19:11,898 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence is neutral as it neither hints at tightening nor easing monetary policy, instead focusing on the dependence of economic recovery on the normalization process."
+}
+2025-04-15 04:19:11,898 - together_inference - INFO - Processing batch 30/30 with 5 sentences.
+2025-04-15 04:19:11,898 - together_inference - INFO - Processing batch 30/30
+2025-04-15 04:19:13,152 - together_inference - INFO - Completed batch 30/30
+
+[ModelResponse(id='nqAcw9Z-4yUbBN-930a042c1ed62009', created=1744705148, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "hawkish",\n"justification": "The high five-year ahead inflation expectation of 9.03% suggests that the Central Bank of Turkey may need to tighten its monetary policy to combat inflation, which is a hawkish stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=52, prompt_tokens=182, total_tokens=234, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcw9L-4yUbBN-930a042c1c2ee61b', created=1744705148, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence indicates a relatively flat annual inflation with a slight increase in trends, suggesting a stable inflation environment that does not warrant a change in monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=184, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcw9J-4yUbBN-930a042c1cd6fc18', created=1744705148, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence indicates a tight monetary policy stance will be maintained, suggesting a hawkish approach to combat inflation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=209, total_tokens=249, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcw9V-4yUbBN-930a042c1ff59c3d', created=1744705148, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies that producer prices are increasing strongly, which may lead to inflationary pressures, prompting the Central Bank to adopt a hawkish stance to combat inflation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=51, prompt_tokens=180, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcw9Z-4yUbBN-930a042c1db405c3', created=1744705148, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence does not convey any clear signal about the Central Bank\'s stance on interest rates or inflation, instead, it provides a neutral outlook on industrial production."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=187, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcwmk-4yUbBN-930a04394bee2009', created=1744705150, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence suggests a deceleration in price increases, implying a decrease in inflationary pressures, which is a dovish signal for monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=199, total_tokens=248, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcwme-4yUbBN-930a043948e1e61b', created=1744705150, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "dovish",\n"justification": "The sentence reports positive economic indicators, which may suggest a more optimistic outlook, leading the Central Bank to adopt a dovish stance and potentially ease monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=184, total_tokens=230, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcwmq-4yUbBN-930a0439497905c3', created=1744705150, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence does not provide any information about the Central Bank of Turkey\'s monetary policy stance or decisions, but rather reports on employment data."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=178, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcwmd-4yUbBN-930a04394a06fc18', created=1744705150, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence implies that despite some positive trends, there are still concerns about inflation, which suggests a cautious or hawkish stance from the Central Bank."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=179, total_tokens=227, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcwn8-4yUbBN-930a04394a5b9c3d', created=1744705151, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence is neutral as it neither hints at tightening nor easing monetary policy, instead focusing on the dependence of economic recovery on the normalization process."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=189, total_tokens=235, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcx5Q-4yUbBN-930a043faa712009', created=1744705152, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "hawkish",\n"justification": "The sentence highlights upside risks to inflation, implying that the Central Bank of Turkey may need to tighten its monetary policy to combat potential inflationary pressures."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=185, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcx5S-4yUbBN-930a043fbee8e61b', created=1744705152, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "dovish",\n"justification": "The sentence suggests a decrease in inflation, which could lead to a more accommodative monetary policy stance, hence dovish."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=176, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcx5a-4yUbBN-930a043fbf279c3d', created=1744705152, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "dovish",\n"justification": "The sentence implies an expectation of loan growth and improving financial conditions, suggesting an accommodative monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=190, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcx67-4yUbBN-930a043fbfdf05c3', created=1744705152, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "neutral",\n"justification": "The sentence focuses on the importance of credit growth for financial stability, without indicating a clear bias towards tightening or loosening monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=192, total_tokens=236, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcx5S-4yUbBN-930a043fb856fc18', created=1744705152, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence discusses inflation trends in a specific sector, but does not provide any clear indication of the Central Bank\'s stance or action, making it neutral."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=192, total_tokens=235, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 04:19:13,157 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "hawkish",
+"justification": "The sentence highlights upside risks to inflation, implying that the Central Bank of Turkey may need to tighten its monetary policy to combat potential inflationary pressures."
+}
+2025-04-15 04:19:13,157 - together_inference - INFO - Response: {
+"label": "dovish",
+"justification": "The sentence suggests a decrease in inflation, which could lead to a more accommodative monetary policy stance, hence dovish."
+}
+2025-04-15 04:19:13,157 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "dovish",
+"justification": "The sentence implies an expectation of loan growth and improving financial conditions, suggesting an accommodative monetary policy stance."
+}
+2025-04-15 04:19:13,157 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "neutral",
+"justification": "The sentence focuses on the importance of credit growth for financial stability, without indicating a clear bias towards tightening or loosening monetary policy."
+}
+2025-04-15 04:19:13,157 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence discusses inflation trends in a specific sector, but does not provide any clear indication of the Central Bank's stance or action, making it neutral."
+}
+2025-04-15 04:19:13,159 - together_inference - INFO - Inference completed. Returning DataFrame with 150 rows.
+2025-04-15 04:19:13,159 - together_inference - INFO - Time taken for inference: 37.036442041397095
+2025-04-15 04:19:13,166 - together_inference - INFO - Inference completed for stance. Results saved to /Users/hp/Desktop/global-central-banks/llm_inference_output/central_bank_republic_of_turkey/stance_together_ai/meta-llama/Llama-3-70b-chat-hf_20250415_944601.csv
+

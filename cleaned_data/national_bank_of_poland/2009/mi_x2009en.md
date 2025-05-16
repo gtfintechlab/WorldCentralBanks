@@ -1,0 +1,178 @@
+N a t i o n a l B a n k o f P o l a n d
+
+M o n e t a r y P o l i c y C o u n c i l
+
+# MINUTES OF THE MONETARY POLICY COUNCIL DECISION-MAKING MEETING HELD ON 28 OCTOBER 2009
+
+During the meeting the Monetary Policy Council discussed the outlook for future inflation
+developments in the context of the past, current and, primarily, anticipated economic situation.
+
+The discussion at the meeting focused on the outlook for economic growth in the world and in the
+Polish economy, on current inflationary processes in Poland and the situation in the credit market.
+The Council discussed the influence of these factors on future inflation in Poland against the
+background of the October projection of inflation and GDP.
+
+While assessing the global economic situation, some members of the Council emphasised that the
+improvement in economic climate in the euro-area economy was relatively small and the forecast
+economic growth in the region remained considerably below potential. Those members also pointed
+out that the improved economic climate in the United States and in China was to a large extent
+rooted in the stimulus packages, and that the prospective gradual removal of such measures kept up
+the uncertainty about the sustainability of global economic recovery. In particular, those members
+stressed the uncertainty surrounding private consumption recovery in the United States amid the
+still deteriorating situation in the US labour market. Moreover, some Council members assessed
+that the drop in private consumption in the United States connected, among others, with
+households’ limited possibilities of taking out loans, including mortgage loans incurred to finance
+consumption, will not be offset by a rise in household consumption in emerging countries, even if
+the revived growth in these economies was sustained. In this context, those members pointed to the
+risk of slow economic growth persisting worldwide.
+
+Other Council members assessed that the recovery in emerging economies, including, in particular,
+Asian countries, may be an important factor conducive to an economic revival all over the world.
+Those members indicated that the accelerated growth in emerging economies will be feeding
+through into the world economy mainly through the rise in those countries’ demand for investment
+goods, exported, to a large extent, by the developed countries of Western Europe. In the opinion of
+those Council members, the current recovery in Asia may be marking the beginning of these
+economies’ return to the potential growth path which may run at a relatively high level due to the
+ongoing process of real convergence in these economies.
+
+While discussing the outlook for economic growth in Poland, some Council members assessed that
+the Polish economy had already entered the phase of recovery, although some of them emphasised
+that this recovery may prove relatively slow. At the same time it was pointed out that the October
+projection forecast only a slight acceleration of growth in 2010. It was emphasised that the
+relatively low GDP growth may be the result of a drop in real disposable income of households
+connected with a rise in unemployment and a decline in real wages as well as more difficult access
+to credit. Some Council members assessed that the latest macroeconomic data, including those on
+exports, output and retail sales, did not indicate unambiguously the beginning of a sustainable
+recovery in the Polish economy.
+
+00 919 Warszawa Świętokrzy ska 11/21 phone no (22) 826 99 55 fax no (22) 826 37 51
+
+
+-----
+
+While discussing current inflation developments, it was pointed out that, despite the fact that in
+September 2009 inflation had fallen to 3.4%, i.e. below the upper limit for deviations from the
+inflation target (3.5%), it might nevertheless continue at a heightened level in the near future. This
+high level of inflation would be driven primarily by the positive base effect connected with a strong
+drop in fuel prices at the end of 2008. Some members of the Council pointed to the continuation of
+the relatively high level of core inflation, including the persistently high growth of prices of
+services. It was pointed out that Poland was one of the three EU countries with highest inflation.
+Other Council members argued that the difference in the levels of inflation in Poland and in other
+EU countries was connected with a smaller scale of economic activity weakening in Poland and
+with the process of price convergence of the Polish economy to price levels recorded in developed
+Western European economies.
+
+While discussing the outlook for inflation in Poland, the Council addressed the projection and the
+short-term inflation forecasts of the NBP which foresee inflation declining below the inflation target
+of 2.5% in the middle of 2010. In the opinion of some members of the Council this course of future
+inflation will follow from weaker consumption demand, persistently low wage pressure and the
+appreciation of nominal zloty exchange rate so far. Those members also pointed out that the
+October projection indicated a higher risk of inflation declining in 2010 below the lower limit for
+deviations from the inflation target of the NBP (1.5%) than the June projection.
+
+Other Council members indicated that the discrepancy between the short-term forecasts of core
+inflation, food and energy prices and their forecasts in the October projection pointed to a
+significant uncertainty as to the path of inflation in the coming quarters. In particular, some Council
+members assessed that the growth of food prices in the nearest future may prove higher than in the
+October projection. Those members additionally pointed to recently observed oil-price rises in the
+world markets and to the uncertainty about natural gas prices in Poland. Moreover, some Council
+members argued that the recovery in emerging economies, where economic growth raises the
+demand for raw materials, may be conducive to a resurge in the prices of agricultural and energy
+commodities in the world markets, especially in a situation where no limits exist on open
+investment positions in some forward commodity markets. In the opinion of those Council
+members, this may lead to higher inflation around the world and in Poland. At the meeting the
+Council also discussed the risk of increases of administered prices in 2010, including the prices
+decided by local authorities, resulting from the unfavourable situation of the public finance sector.
+
+While addressing the outlook for inflation in 2011, some members of the Council pointed out that,
+in line with the October projection the probabilities of inflation running below and above the
+inflation target were similar towards the end of the projection horizon. Moreover, some Council
+members argued that, following a drop to a low level foreseen in the middle of 2010, inflation
+would be steadily increasing till the end of the projection horizon. Other Council members, on the
+other hand, emphasised that for the most part of the projection horizon the probability of inflation
+running below the target was higher than the probability of its running above the target. Those
+members indicated that 2011 inflation being higher in the October projection than in the June
+projection was partially a result of a positive base effect connected with a deeper decline in food
+prices forecast for 2010. They also emphasised the issue of the optimal forecast horizon in central
+banks pursuing inflation targeting and stressed that the limited projection horizon increased the
+uncertainty about the durability of inflation changes in the final period of the forecast horizon.
+
+While discussing the future exchange rate and its impact on inflation in Poland, it was pointed out
+that the projection assumed a gradual depreciation of the zloty exchange rate, which was connected
+with a decreasing real interest rate disparity, the persistently high budget deficit and growing public
+debt. Some Council members, however, pointed to the possibility of zloty exchange rate
+appreciation, which could be supported by Poland’s relatively favourable economic situation as
+compared to other EU countries and the continuously high surplus liquidity in the global financial
+
+
+-----
+
+markets. Moreover, in the opinion of those Council members, should the recovery in emerging
+markets come faster than in developed economies, emerging economies’ currencies, including the
+zloty, could be expected to appreciate. Those members further emphasised that the potential zloty
+appreciation would be conducive to lower economic growth and lower inflation in the Polish
+economy than those accounted for in the October projection.
+
+Other Council members, however, assessed that an appreciation of the zloty exchange rate
+significantly exceeding the appreciation of the equilibrium exchange rate was unlikely in case the
+growth of the Polish economy remained close to the October projection of GDP. Those members
+pointed out that the zloty could depreciate due to a possible increase in the risk premium, which in
+turn might be driven by an unfavourable situation of the public finance sector, a lack of structural
+reforms in the Polish economy and Poland’s postponed adoption of the euro.
+
+While analysing the situation in the credit market, some members of the Council assessed that it
+was still deteriorating, which was, among others, indicated by a further decline in the growth of
+credit to households and very low growth of credit to enterprises. Other members of the Council,
+however, pointed to the fact that in September 2009 the value of granted loans in month-on-month
+terms had risen for the first time in five months, both in the case of loans to households and to
+enterprises.
+
+Moreover, some Council members emphasised that the slow growth of loans to enterprises was
+connected with their relatively good financial results and with their curbing their investment
+activity, and any recovery in lending to the enterprise sector might come only once the outlook for
+growth in the Polish economy significantly improved. Other Council members argued that reduced
+lending was, on the one hand, connected with households being more cautious while incurring
+liabilities amid slowing economic growth and rising unemployment, and, on the other hand, with an
+increased credit risk perceived by banks as indicated, among others, by the tightening of loan terms
+in the segment of consumer loans introduced in 2009 Q3 as well as planned for the future.
+
+While discussing real interest rates in the context of the credit market situation, some Council
+members indicated that real interest rates remaining at a relatively low level for too long in a
+country undergoing real convergence may be increasing the risk of a credit boom in the medium
+term. Those members pointed out that real interest rates were currently lower than the equilibrium
+interest rate for the Polish economy. At the same time, those members suggested that the expected
+inflation decrease should translate into an increase in real interest rates, which in turn should be
+conducive to a rise in household saving following a strong decline in 2009 Q1, as well as to curbing
+the risk of excessive lending growth.
+
+While considering the decision on interest rates, the Council concluded that the information on the
+economic situation released since the last meeting warranted keeping the interest rates unchanged at
+the current meeting. Some members of the Council were of the opinion that in the conditions of
+continuing uncertainty about the recovery in the world economy and about the outlook for
+economic growth in Poland, as well as in the light of the October inflation projection predicting
+inflation to be below the NBP’s inflation target for the most part of the projection horizon, it was
+justified to assess that in the medium term the probability of inflation running below the inflation
+target was higher than the probability of inflation overshooting the target. Other members of the
+Council argued that the recovery in the world and Polish economies combined with the risk of
+commodity price increases in the world markets and administered price rises in Poland, as well as
+the balanced probabilities of inflation running above or below the inflation target in the final period
+of the October projection, warranted the assessment that the probabilities of inflation in the medium
+term running below or above the inflation target were balanced. The majority of Council members
+judged the probability of inflation running below or above the inflation target to be balanced in the
+medium term. In the assessment of some Council members balanced risks to future inflation should
+indicate that the interest rates in the coming months would remain unchanged, which does not rule
+
+
+-----
+
+out the possibility of their adjustment in case of developments that would significantly affect the
+outlook for inflation and economic growth.
+
+The Council kept the interest rates unchanged: the reference rate at 3.50%, the lombard rate at
+5.00%, the deposit rate at 2.00% and the rediscount rate at 3.75%.
+
+_Publication date: 19 November 2009_
+
+
+-----
+

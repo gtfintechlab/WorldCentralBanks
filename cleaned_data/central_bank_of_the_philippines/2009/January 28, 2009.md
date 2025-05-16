@@ -1,0 +1,371 @@
+# 2
+
+
+**HIGHLIGHTS OF THE MEETING OF THE MONETARY BOARD ON**
+
+**MONETARY POLICY ISSUES HELD ON 29 JANUARY 2009[1]**
+
+
+**I.** **Monetary Policy Decision**
+
+The Monetary Board decided to:
+
+a) Reduce the BSP’s policy rates by 50 basis points to 5.0
+percent for the overnight RRP (borrowing) rate and 7.0 percent
+for the overnight RP (lending) rate;
+
+b) Reduce accordingly the current interest rates on term RRPs,
+RPs, and SDAs; and
+
+c) Maintain the current reserve requirement ratios.
+
+The policy decision to reduce policy rates was arrived at in the
+process of balancing the BSP’s concern over price stability and its resolve to
+undertake policy actions that will ensure the soundness and stability of the
+financial system.
+
+**II.** **Key Considerations in the Formulation of the Monetary Policy**
+**Stance**
+
+   - The Monetary Board discussed the deteriorating global conditions in
+the context of the policy actions required of monetary authorities.
+The members gave particular attention to the developments in
+Asian equity markets, where risk-averse investors have generally
+fled. In view of these developments, the Board noted that there was
+a need for stronger policy responses, particularly in the form of
+fiscal stimulus and financing packages as well as macro-prudential
+reforms.
+
+1 The discussions presented herein reflect the assessment made by the Monetary Board based on the
+information available at the time of the policy meeting. The sets of economic information were provided by
+the technical secretariat of the Advisory Committee (AC). The Advisory Committee is composed of the
+Governor of the BSP as Chairman and four members, namely: the Deputy Governor for the Monetary
+Stability Sector, the Deputy Governor for the Supervision and Examination Sector, the Managing Director
+of the Monetary Policy Sub-Sector, and the Managing Director of the Treasury Department. The highlights
+of the discussions on the 29 January 2008 meeting were approved by the Monetary Board during its
+regular meeting held on 19 February 2009. The next meeting of the Monetary Board on monetary policy
+issues is scheduled on 5 March 2009.
+
+**Page 1 of 7**
+
+
+-----
+
+# 2
+
+
+
+- Given the current global conditions, the Board reduced policy rates
+on the basis of the following key considerations:
+
+� The inflation outlook has become more favorable. The BSP's
+latest baseline forecasts indicate that inflation would continue
+to decelerate and settle within the target range for 2009 and
+2010;
+
+�  Inflationary pressures have continued to ease as indicated by
+the following:
+
+1. Second-round effects from earlier commodity
+price spikes appear to have peaked;
+2. The balance of risks has tilted on the downside
+due to the softening of commodity prices; and
+3. Base effects have been coming down;
+
+�  Inflation expectations remain well anchored. The results of
+the initial monthly survey of private sector
+economists/analysts, the latest Consumer Expectations
+Survey (CES), Business Expectations Survey (BES) and the
+January Asia Pacific Consensus Forecasts showed lower
+expected inflation relative to the previous surveys. Meanwhile,
+core inflation, which is associated with inflation expectations
+and demand pressures, has slowed down in December.
+
+� The macroeconomic environment of lower interest rates can
+provide a boost to credit and investment activity. In general,
+monetary easing could help promote an orderly functioning of
+financial markets and could help shore up market confidence,
+which is the most pressing concern in this crisis.
+
+� There is greater scope for monetary policy easing to
+complement the government’s economic sustainability plan.
+This could further increase the potential for the economy to
+grow more robustly compared to a situation that is both
+without monetary easing and fiscal stimulus.
+
+- The Board recognized the need for a more decisive action during a
+financial crisis. With the global economy entering a pronounced
+slowdown, a sharp fall in aggregate demand is inevitable. Weak
+economic activity ultimately fuels financial system stress, resulting in
+a negative feedback loop that could intensify the impact of the
+economic slowdown. Therefore, in times when the risks of financial
+disruptions are high, there is greater risk of underestimating the
+threats to growth. The Board therefore agreed that policy should
+support a macroeconomic environment that will continue to broadly
+
+**Page 2 of 7**
+
+
+-----
+
+# 2
+
+
+improve consumer confidence and promote investment spending via
+monetary policy easing.
+
+   - The Board was of the view that the current macroeconomic
+environment also calls for a rapid adjustment in the policy settings
+rather than the gradualist approach commonly pursued during
+normal times, particularly given the escalating downside risks to
+external demand. The effects of the unfolding global financial crisis
+are already reaching the real sector through the trade channel.
+Thus, given the downside risks and the heightened uncertainty on
+the duration of the global downturn, additional policy easing could
+help stimulate domestic demand and encourage investment.
+
+   - The members noted that despite the positive impact of a 50-basispoint cut on liquidity, the BSP’s econometric estimates indicate that
+this move will not push inflation beyond the target range for both
+2009 and 2010.
+
+   - Nevertheless, the Board was aware that the upside risks to inflation
+stemming from the volatility in the exchange rate and oil prices
+remain. Although the peso has recovered somewhat, higher risk
+aversion and the slowdown in global growth affected dollar inflows
+adversely, and may lead to a peso depreciation. Meanwhile, oil
+prices remain vulnerable due to production cutbacks and supply
+disruptions.
+
+**III.** **Recent Developments in Economic Indicators**
+
+The Monetary Board’s decision took into account the recent
+developments in various economic indicators:
+
+**A. Domestic price conditions**
+
+  - Headline inflation dropped further in December to 8.0 percent year-onyear from 9.9 percent in November.
+
+**B.  Inflation Expectations**
+
+  - Recent surveys showed significantly-improved inflation expectations:
+
+� The latest BES for Q4 2008 indicated a lower proportion of
+respondents that anticipate inflation to move up in Q4 2008.
+� Results of the latest CES for Q4 2008 showed lower inflation
+expectations for the next 12 months.
+� The Asia Pacific Consensus Forecasts showed lower inflation
+expectations for the Philippines as of January 2009 relative to
+the previous month.
+
+**Page 3 of 7**
+
+
+-----
+
+# 2
+
+
+� Results of the BSP’s initial monthly (from quarterly) survey of
+private sector economists/analysts showed inflation is
+expected to fall within the target range for 2009 and 2010.
+
+**C. Inflation Outlook**
+
+  - Emerging inflation forecasts indicate that inflation would settle within
+the 2009 and 2010 targets.
+
+  - On the downside, latest projections for global and domestic
+agricultural production generally suggest an improvement in the
+supply and demand balance for food.
+
+  - Meanwhile, upside risks to inflation include: volatility in world oil prices
+and the exchange rate, near-term risks to electricity rates, and
+additional wage increases.
+
+**D.  Demand conditions**
+
+Latest data showed a moderation in demand conditions amid the
+global economic downturn and previously elevated prices (particularly
+higher fuel and food costs) which had slowed down the demand for
+commodities and services.
+
+  - GDP posted a modest growth of 4.5 percent in Q4 2008 compared to
+6.4 percent in the previous year and 5.0 percent in the previous
+quarter.
+
+  - Merchandise imports declined anew by 31.5 percent in November
+2008.
+
+  - Export growth was still negative at 11.4 percent in November,
+reflecting weaker foreign demand.
+
+  - Selected demand indicators moderated:
+
+� Sales of passenger cars, commercial vehicles, and trucks and
+buses declined in December, as restraints in supply and the
+spillover effect of the US economic slowdown influenced the
+decisions of prospective clients.
+
+� Energy sales decelerated in December, pulled down by the
+negative growth in the industrial sector.
+
+� Average capacity utilization in manufacturing declined marginally.
+
+� MISSI figures indicate slower manufacturing activity in November
+2008.
+
+**Page 4 of 7**
+
+
+-----
+
+# 2
+
+
+� The increase in land and rental values has generally moderated
+compared to 2007.
+
+**E.  Supply-side indicators**
+
+Developments in Agriculture
+
+  - Average retail prices of rice increased anew in the second week of
+January 2009.
+
+  - Meanwhile, the International Rice Research Institute (IRRI) warned
+that rice prices could remain highly volatile in 2009.
+
+Oil Price Developments
+
+  - Dubai crude oil prices continued to ease in December due to the
+significant deterioration in oil demand as the global economic climate
+continued to worsen. However, oil prices increased in January, driven
+by the war in Gaza and the gas disputes between Russia and Ukraine.
+
+  - Prices in the futures market continued to fall on account of the weaker
+global demand for oil.
+
+  - Oil companies raised the prices of gasoline products recently, but
+reduced the prices of kerosene and diesel further on 24 January 2009.
+
+  - In the transport sector, another provisional reduction for jeepney and
+bus fares nationwide was implemented starting 15 December 2008 up
+to 15 March 2009.
+
+Developments in the Utilities Sector
+
+  - The Energy Regulatory Commission (ERC) dismissed the petition of
+the National Power Corporation (NPC) to increase basic rates in
+Luzon. However, NPC rates in Luzon increased beginning January
+2009 due to the new Generation Rate Adjustment Mechanism
+(GRAM) and the Incremental Currency Exchange Rate Adjustment
+(ICERA) approvals.
+
+  - Meanwhile, the planned increase in water rates for 1 January 2009
+was deferred.
+
+**F. Financial Market Developments**
+
+  - Domestic financial markets remain heavily influenced by the
+deteriorating global financial market conditions.
+
+**Page 5 of 7**
+
+
+-----
+
+# 2
+
+
+Interest Rate and Interest Rate Differentials
+
+  - The positive differential between the BSP policy rate and the US
+target federal funds rate increased in December, but risk-adjusted
+differentials continued to be negative as of 14 January 2009.
+Meanwhile, the differential between the domestic and foreign interest
+rates tightened, given the larger decline in domestic rates during the
+period. Real lending rates turned positive for the first time since March
+2008 as inflation declined steadily beginning September, reaching 8.0
+percent by December.
+
+Stock Market
+
+  - Stock trading remained weak in January 2009, as concerns over the
+deepening and prolonged US economic slowdown pushed risk-averse
+investors to remain on the sidelines.
+
+Foreign Exchange
+
+  - The peso strengthened from the accumulation of overseas Filipinos’
+remittances during the long holiday season, as well as the upswing in
+market confidence sustained by the easing inflation outlook for 2009.
+
+  - However, other regional currencies (except the Japanese Yen),
+continued to depreciate in January 2009 relative to their end-2008
+close.
+
+Global Bond and Credit Default Swap Spreads
+
+  - For the period 22-26 January, emerging market bond spreads
+generally tightened from this month’s peak (15 January) as global
+gains in stocks rekindled demand somewhat for riskier emerging
+market assets.
+
+  - The cost of protecting the country’s debt from default increased as the
+Philippine five-year credit default swaps (CDS) spread went up in
+January 2009 from the end-2008 level. Against neighboring
+economies, the Philippine CDS spread has remained below
+Indonesia’s level, but was higher than those of Malaysia and Thailand.
+
+**G. Domestic Liquidity and Credit Conditions**
+
+  - Domestic liquidity sustained its strong growth in November due to the
+robust expansion in both net domestic assets (NDA) and net foreign
+assets (NFA).
+
+**Page 6 of 7**
+
+
+-----
+
+# 2
+
+
+
+  - Meanwhile, bank lending growth was relatively lower in November.
+
+  - The equity raised in the Philippine Stock Exchange in 2008 was lower
+than the level reached in 2007, while corporate bond issuances
+increased significantly in 2008.
+
+**H.  Fiscal developments**
+
+  - The fiscal deficit in January-November 2008 reversed the previous
+year’s surplus for the same period.
+
+**I.  External developments**
+
+  - Aggregate demand worldwide fell sharply in December as economies
+experienced large falls in real and financial wealth levels.
+
+  - Inflationary pressures have clearly subsided globally due to the
+significant declines in commodity prices and decelerating global
+demand:
+
+1. The US economy is deteriorating sharply;
+
+2. Euro area indicators point to a marked deterioration in
+economic activity;
+
+3. Sluggish domestic demand and a further slowdown in exports
+characterize the Japanese economy; and
+
+4. Economic activity decelerated sharply in emerging Asia, as
+reflected in the overall weakening in domestic demand and
+deteriorating consumer and business confidence.
+
+**Page 7 of 7**
+
+
+-----
+

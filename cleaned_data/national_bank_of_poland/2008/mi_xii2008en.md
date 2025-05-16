@@ -1,0 +1,177 @@
+**N** **a** **t** **i** **o** **n** **a** **l** **B** **a** **n** **k** **o** **f** **P** **o** **l** **a** **n** **d**
+
+M o n e t a r y P o l i c y C o u n c i l
+
+# MINUTES OF THE MONETARY POLICY COUNCIL DECISION-MAKING MEETING HELD ON 23 DECEMBER 2008
+
+During the meeting the Monetary Policy Council discussed the outlook for inflation in the context
+of the past, current and, primarily, anticipated economic situation.
+
+The discussion at the meeting focused on: the outlook for economic growth and inflation in Poland,
+credit market conditions and zloty exchange rate developments.
+
+While addressing the situation in the external environment of the Polish economy, a further
+deterioration in the outlook for global economic growth, and in particular, the deepening recession
+in the United States and the euro area, was noted. It was emphasised that the developments in the
+global economy were conducive to faster than previously expected decline in inflation in many
+economies, inter alia, as a result of the fall in commodity prices, including oil prices. It was pointed
+out that those factors urged many central banks, in particular banks of countries that are in
+recession, to further considerable easing of the monetary policy.
+
+The Council paid a lot of attention to the outlook for economic growth in Poland. It was emphasised
+that unfavourable developments in the external environment of the Polish economy brought about
+stronger than previously expected decline in activity in the Polish economy which was corroborated
+by weaker than anticipated November data on industrial and construction output. Among major
+channels through which the world crisis affected the Polish economy were listed: the decline in
+external demand, deteriorating agents’ expectations as to the future economic situation of the
+country and tightening of banks’ lending policy. It was pointed out that the coming quarters might
+be expected to bring about a strong drop in corporate investment being largely the result of
+economic slowdown and deterioration in the outlook for sales in the domestic and foreign markets
+as well as a more difficult access of enterprises to loans both in Polish zloty and foreign currencies.
+Considerable weakening of investment demand will also be driven by such factors as deteriorating
+financial results of enterprises, limited possibilities of business financing through the capital market
+and a probable decline in the inflow of foreign direct investment to Poland. It was also stressed that
+as a result of the tightening of banks’ lending policy, small and medium-sized enterprises might
+face problems with the absorption of EU funds for investment projects due to the need to contribute
+own funds. It was emphasised that GDP data for 2008 Q3 pointed to a considerably stronger than
+anticipated fall in investment growth. At the same time, it was pointed out that the annual
+investment growth in the enterprise sector in 2008 Q3 was negative, and investment growth in the
+economy resulted from the continued relatively high growth in investment expenditure of the public
+finance sector and in housing investment. It was assessed that in 2008 Q4 the investment
+contribution to GDP growth could be close to zero and in the first half of 2009 it might turn
+negative.
+
+While discussing the future economic situation it was assessed that the slowdown in economic
+growth would also be driven by a decline in consumption and export growth, and GDP growth in
+2008 Q4 and in subsequent quarters would most probably be lower than anticipated in the NBP’s
+October projection. It was pointed out that the decline in the growth of Polish exports might be
+stronger than the one recorded in the previous periods of economic slowdown in the external
+
+00 919 Warszawa ulica Świętokrzyska 11/21 telefon (22) 826 99 55 fax (22) 826 37 51
+
+
+-----
+
+environment of the Polish economy due to the fact that in the past few years, the corporate links
+between Polish and foreign companies intensified and the share of highly processed goods sensitive
+to business cycle fluctuations in the Polish export production increased. Moreover, it was argued
+that contrary to previous expectations the consumption demand might also weaken considerably
+which was suggested by worse than expected November data on retail sales. The decline in private
+consumption growth will be driven by the anticipated deterioration of the labour market situation
+indicated by the November data on the declining wage growth and falling employment in the
+enterprise sector and increasing unemployment as well as tightening of household lending criteria.
+It was argued that limited access to credit would have a stronger impact on consumption demand
+than in the previous periods of the economic slowdown as the past few years had been marked by
+growing importance of credit in financing household consumption. Moreover, deterioration in the
+housing market situation related, among other things, to the tightening of conditions and criteria of
+granting mortgage loans, will contribute to the decline in demand for home furnishing goods and
+services. Among factors having a negative impact on consumption demand were also listed:
+deteriorating consumer sentiment and decreasing purchasing power of households’ incomes driven
+by increases in administered prices.
+
+While discussing the outlook for inflation it was assessed that in the time to come the growth in
+consumer prices would continue to decline and would be within the tolerance range for deviations
+from the inflation target, thus running below the level forecast in the NBP’s October inflation
+projection. Lower than forecast inflation in the near term will be mainly driven by lower than
+assumed commodity prices in the global markets, including oil and gas prices. In the medium term,
+the lowering of inflationary pressure will be driven by: stronger than previously expected decline in
+the global and domestic economic growth, low inflation in the external environment of the Polish
+economy translating into declining growth in the prices of import goods and faster than anticipated
+in the projection weakening of wage pressure connected with falling labour demand and increased
+labour supply, inter alia, as a result of intensified return of Poles from the economic migration.
+Moreover, some members of the Council indicated that amidst the economic slowdown the
+previously observed increase in unit labour costs would translate into prices only to a limited extent.
+Attention was also paid to the stronger than expected decline in CPI inflation in November. Among
+factors curbing the decline in inflation, in turn, were listed: further rise in administered prices,
+increases in excise tax on certain products and depreciation of the zloty exchange rate observed in
+the past few months. Yet, some members of the Council pointed out that the impact of the exchange
+rate weakening on prices amidst economic slowdown would probably be limited.
+
+While addressing the exchange rate developments, it was stressed that the considerable zloty
+depreciation against the euro and the US dollar and increased exchange rate volatility observed in
+the past few months resulted mainly from the increase in risk aversion in the global financial
+markets leading to capital outflow from the emerging markets. Some members of the Council
+argued that the appreciation of the zloty exchange rate in the first half of 2008 and its subsequent
+depreciation could be reinforced by Polish enterprises concluding structured foreign exchange
+contracts. In this context, it was pointed out that the exchange rate depreciation in the second half of
+2008 contributed to the deterioration of the financial situation of certain enterprises which might
+additionally limit the investment of these enterprises. Some members of the Council pointed out
+that the exchange rate depreciation resulted in increasing the value of public debt denominated in
+foreign currencies and, consequently, the relation of debt to GDP which, due to statutory
+restrictions, might make it necessary to limit the expenditure of the public finance sector in the
+coming years. Yet, other members of the Council pointed out that the share of debt denominated in
+foreign currencies in the total public debt was considerably lower than the share of debt in Polish
+zloty. On the other hand, as the favourable consequence of the zloty exchange rate depreciation it
+was noted that it was increasing the competitiveness of Polish products on foreign markets which
+
+
+-----
+
+would limit the impact of recession in countries being Poland’s major trading partners on the
+growth of Polish exports.
+
+While analysing the situation in the credit market it was pointed out that the tightening of banks’
+lending policy and continued increased level of market interest rates as compared with the NBP
+rates were related to liquidity disturbances in the banking system being the result of the crisis in the
+global financial markets. It was argued that commercial banks’ operations aimed at increasing the
+liquidity – reduction of lending and offering of high interest rates on deposits – would contribute to
+limiting the domestic demand in the time to come. It was also pointed out that too high interest rates
+on deposits might result in deteriorating financial results of banks and, consequently, constitute a
+factor limiting future lending. It was pointed out that this effect was not yet observed in the
+monetary data showing that loans continued to grow relatively fast in November. Some members of
+the Council argued that the continued growth in corporate loans in November might be driven by
+the fact that enterprises, fearing the further tightening of banks’ lending policy, tried to use the
+available credit lines.
+
+The Council also discussed the actions of the NBP and the government that could counteract the
+reduction of banks’ lending. It was argued that this objective would be supported by the government
+loan guarantee system, concerning in particular corporate loans, including loans taken for projects
+financed with UE funds. It was pointed out that due to liquidity problems faced by banks possible
+lowering of the NBP interest rates might not fully translate into reductions of market interest rates.
+In the opinion of some discussants this was an argument speaking in favour of considerable
+decreases in the NBP interest rates. Other members of the Council argued that even strong
+decreases in the interest rates would not increase loan availability or reduce credit costs since those
+depend on banks’ liquidity situation and households’ and entrepreneurs’ expectations as to the
+future situation of the Polish economy.
+
+While discussing the decision on interest rates, the Council assessed that the signs of stronger and
+faster than expected decline in the global and Polish economic activity combined with considerable
+lowering of the inflationary pressure in the medium term speak for decreasing the NBP interest
+rates. Some members of the Council expressed the opinion that easing of the monetary policy
+should be implemented gradually, inter alia, due to the high uncertainty about the outlook for the
+global and Polish economy and about the impact of cuts in the NBP interest rates on market interest
+rates and domestic demand. They argued that too strong a lowering of the NBP interest rates might
+negatively affect the expectations of the financial market participants as regards the outlook for the
+Polish economy, thus driving further exchange rate depreciation. Some members of the Council
+assessed, however, that in the current situation the impact of the interest rate disparity on the
+exchange rate was limited. The majority of the Council members assessed that the scale of
+economic slowdown in Poland and the increased credit cost resulting from market interest rates
+continuing well above the level of the NBP reference rate combined with the marked weakening of
+the inflationary pressure justified a considerable easing of the monetary policy at the December
+meeting. Those members argued that insufficient response of the monetary policy to the
+unfavourable developments in the Polish economy might contribute to intensifying those
+developments and, as a result – through deteriorating expectations of the financial market
+participants – be conducive to the weakening and increased volatility of the zloty exchange rate.
+They assessed that a more significant lowering of the NBP interest rates would counteract the
+reduction of bank lending and, consequently, the excessive weakening of domestic demand, and
+that it would also reduce the cost of credit, including the cost of servicing the previously contracted
+loans, which could additionally reduce the share of the so-called bad debts, thus contributing to
+increased stability of the financial system. They also pointed out that maintaining the public finance
+discipline despite the economic slowdown declared by representatives of the government
+constituted an additional factor favouring the easing of the monetary policy. The Council also
+discussed the scale of possible further lowering of the NBP interest rates.
+
+
+-----
+
+A motion to lower the NBP interest rates by 50 basis points and a motion to lower the NBP interest
+rates by 75 basis points were put forward. The motion to lower the NBP interest rates by 75 basis
+points was passed, therefore the motion to lower the NBP interest rates by 50 basis points was not
+put to voting. The Council decided to lower the NBP interest rates to the level: the reference rate to
+5.00%, the lombard rate to 6.50%, the deposit rate to 3.50% and the rediscount rate to 5.25%.
+
+_Publication date: 22 January 2009_
+
+
+-----
+

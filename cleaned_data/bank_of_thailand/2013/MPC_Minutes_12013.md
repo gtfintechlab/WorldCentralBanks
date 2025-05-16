@@ -1,0 +1,130 @@
+**Edited Minutes of the Monetary Policy Committee Meeting**
+
+**Bank of Thailand**
+
+**9 January 2013**
+
+**Publication Date: 23 January 2013**
+
+**Members Present**
+
+Prasarn Trairatvorakul (Chairman), Pongpen Ruengvirayudh (Vice Chairman), Tongurai Limpiti,
+Ampon Kittiampon, Siri Ganjarerndee, Narongchai Akrasanee, and Aswin Kongsiri.
+
+**The Financial Markets**
+
+**The global financial market sentiment improved after the US “fiscal cliff” was averted.**
+Consequently, most major currencies appreciated against the US dollar except the yen which
+depreciated due to expectation that the newly elected government would implement
+additional monetary stimulus measures. Meanwhile, both equity and bond inflows into the
+region accelerated on the back of improving global economic outlook. The Thai Baht
+strengthened rapidly following the fiscal cliff agreement, but overall movement remained in
+line with regional trend.
+
+**Short-term money market rates stabilised close to the policy interest rate, reflecting market**
+expectation that the MPC would hold the policy interest rate at this meeting. Government bond
+yields of all maturities edged higher after the last meeting, in line with investors’ improving
+assessment of economic outlook.
+
+**The International Economy**
+
+**The global economy overall continued to recover gradually, with signs of improving outlook**
+**from the previous meeting.** **The US** **economy gained more traction from sustained**
+improvement in the labour and housing markets as well as businesses’ greater willingness to
+resume investment after the resolution of fiscal policy impasse. Nonetheless, uncertainties
+arising from debt ceiling and sequestration which need to be finalised by February 2013
+remained key risks to the economy and could affect short-term confidence. The Chinese and
+**most Asian economies continued to expand well with domestic demand being the main growth**
+driver. Nonetheless, there was a view that a potential escalation of the territorial dispute
+between China and Japan might pose a risk to the region’s growth momentum. The eurozone
+**economies continued to be in recession, but were projected to recover gradually this year led**
+by core members’ economies particularly Germany. Progress in the resolution to Greece’s
+sovereign debt problem also helped reduce the tail risks significantly. The Japanese economy
+
+
+-----
+
+remained weak, both in terms of exports and domestic demand, while the new government’s
+stimulus policies were expected to have only a limited impact in accelerating the economic
+recovery.
+
+**Inflationary pressure in many parts of the world remained subdued. Most central banks**
+consequently decided to keep their policy interest rates unchanged after easing previously,
+while awaiting greater clarity on the domestic and international developments.
+
+**The Domestic Economy**
+
+**The economy expanded in the fourth quarter by more than previously assessed largely from**
+**stronger-than-expected domestic demand, on the back of both private consumption and**
+investment. In addition to fundamental factors, the outlook for domestic demand is further
+supported by greater subscriptions to the first-car tax rebate program and accelerating
+production by car manufacturers, as well as a personal income tax cut in 2013. Exports have
+**probably passed their trough, with incipient signs of a recovery emerging across major export**
+goods and markets, consistent with higher exports elsewhere in the region. Meanwhile growth
+in the service and tourism sectors remained robust, supported in part by strong tourist arrivals.
+
+**The overall impact of the first minimum wage hike on businesses’ profit margins,**
+**employment, and product prices has not been significant, mainly due to 1) adjustment efforts**
+made by firms including substituting machinery for labour, 2) the currently tight labour market,
+and flexible labour movements, and 3) highly competitive goods market, which limited the
+scope for price increases. Although, based on these considerations, the effect of the second
+**minimum wage increase was expected to be similarly limited, the MPC would nevertheless**
+monitor the situation closely.
+
+**The MPC judged that growth momentum in the fourth quarter was stronger than expected**
+**and domestic demand outlook should continue to be strong, supported by a number of**
+**favourable factors. As a result, growth projections for 2012 and 2013 have been revised**
+**upward to 5.9 percent and 4.9 percent, respectively. In line with an expected gradual recovery**
+of the global economy, the export sector should lend more support to growth in the latter half
+of 2013 alongside domestic demand. While tail risk has declined significantly, overall downside
+risks to the global economy still outweigh the upside risks. Inflation pressure was expected to
+**remain subdued, similar to the previous meeting.**
+
+**Monetary Policy Considerations**
+
+The MPC agreed that the accommodative monetary policy stance throughout 2012 had played
+a significant role in supporting post-flood recovery and helped cushion the Thai economy from
+the global economic headwinds. Given that the global economic recovery was still ongoing with
+
+
+-----
+
+lingering uncertainties, and inflation was expected to stay within the target range, **an**
+**accommodative monetary policy stance remained appropriate in supporting an ongoing**
+**economic expansion.**
+
+Key conclusions reached during policy consideration were as follows:
+
+**1)** **The overall global economy showed signs of stabilization led by improving prospects in**
+
+the US and China, while Asian economies expanded on the back of strong domestic demand.
+Although the eurozone debt crisis and the US fiscal cliff remained major hurdles to global
+economic recovery, tail risks have declined significantly thanks to progress in policy resolution.
+**2)** **The Thai economy continued to expand, supported by robust private consumption and**
+
+**investment as well as fiscal stimulus measures, which were expected to help sustain growth**
+momentum up to the first half of 2013. Exports showed incipient signs of a broad-based
+recovery in most product and market segments.
+**3)** **The current monetary conditions remained sufficiently accommodative to** **mitigate**
+
+**global economic risks, with real interest rates continuing to be in negative territory, and private**
+credits expanding robustly. However, the high pace of credit growth, particularly for certain
+types of household loans, could raise household debt and lead to a build-up of financial
+imbalances.
+
+**The MPC thus voted unanimously to maintain the policy rate at 2.75 percent per annum.**
+
+Some members noted that although the current policy rate was appropriate for the prevailing
+macroeconomic conditions, there was a need to remain vigilant regarding risks to economic
+outlook and financial stability. In particular, persistently high credit growth, rising household
+debt, volatile capital flows in the midst of continued monetary policy easing in major
+economies, and growing public debt could potentially undermine financial stability going
+forward.
+
+Monetary Policy Group
+
+23 January 2013
+
+
+-----
+

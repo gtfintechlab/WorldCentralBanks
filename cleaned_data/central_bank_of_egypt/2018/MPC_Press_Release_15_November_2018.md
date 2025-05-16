@@ -1,0 +1,49 @@
+# Central Bank of Egypt
+
+**Press Release**
+
+November 15, 2018
+
+**The Monetary Policy Committee (MPC) decided to keep the Central Bank of Egypt’s (CBE) overnight**
+**deposit rate, overnight lending rate, and the rate of the main operation unchanged at 16.75 percent,**
+**17.75 percent, and 17.25 percent, respectively. The discount rate was also kept unchanged at 17.25**
+**percent.**
+
+Headline inflation rose to 16.0 percent and 17.7 percent in September and October 2018, respectively,
+affected by inflation of select fresh vegetables. This comes after fiscal consolidation measures led
+headline inflation to rise from the twenty-five-month low of 11.4 percent in May 2018. Nevertheless,
+excluding regulated and volatile food items, core inflation continued to decline to average 8.7 percent
+between July and October 2018.
+
+Meanwhile, annual real GDP growth stabilized at 5.4 percent in 2018 Q2, after rising for six consecutive
+quarters. The positive contribution of private domestic demand and net exports declined, while that of
+public domestic demand increased.
+
+Moreover, the pass-through to domestic inflation from global financial market developments remained
+contained due to domestic policy measures that support improving macroeconomic fundamentals.
+International oil prices recently declined yet remain subject to volatility due to potential supply-side
+factors.
+
+As headline inflation for October 2018 has been affected by a higher-than-forecasted increase in the
+prices of fresh vegetables, there is an upside risk of a slight deviation from the inflation target
+announced in May 2017, which records 13 percent (±3 percent) on average during 2018 Q4.
+
+However, monetary policy tools are utilized to anchor inflation expectations, contain demand-side
+pressures and second-round effects of supply shocks. Given the contained underlying inflationary
+pressures and the transitory nature of the supply shock related to select fresh vegetables, the MPC
+decided to keep key policy rates unchanged.
+
+Current policy rates remain in line with achieving single digit inflation as soon as the effects of fiscal
+consolidation measures dissipate. The Ministry of Finance is targeting to achieve a primary surplus of 2.0
+percent of GDP in fiscal year 2018/19, up from a preliminary 0.2 percent in the previous year.
+
+The MPC closely monitors all economic developments and will not hesitate to adjust its stance to
+achieve its mandate of price stability over the medium term.
+
+**Monetary Policy Sector**
+Phone: +20227701315
+E-mail: monetary.policy@cbe.org.eg
+
+
+-----
+

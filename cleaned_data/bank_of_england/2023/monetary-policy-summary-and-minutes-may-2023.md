@@ -1,0 +1,374 @@
+# Monetary Policy Summary and
+
+ minutes of the Monetary Policy
+
+ Committee meeting ending on 
+
+ 10 May 2023 
+
+### 11 May 2023
+
+
+-----
+
+These are the minutes of the Monetary Policy Committee meeting ending on 10 May 2023.
+
+[They are available at https://www.bankofengland.co.uk/monetary-policy-summary-and-](https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2023/may-2023)
+**minutes/2023/may-2023.**
+
+The Bank of England Act 1998 gives the Bank of England operational responsibility for
+setting monetary policy to meet the Government’s inflation target. Operational decisions are
+taken by the Bank’s Monetary Policy Committee. The minutes of the Committee meeting
+ending on 21 June will be published on 22 June 2023.
+
+
+-----
+
+## Monetary Policy Summary, May 2023 
+
+The Bank of England’s Monetary Policy Committee (MPC) sets monetary policy to meet the
+2% inflation target, and in a way that helps to sustain growth and employment. At its meeting
+ending on 10 May 2023, the MPC voted by a majority of 7–2 to increase Bank Rate by 0.25
+percentage points, to 4.5%. Two members preferred to maintain Bank Rate at 4.25%.
+
+The Committee’s updated projections for activity and inflation are set out in the
+accompanying May Monetary Policy Report. They are conditioned on a market-implied path
+for Bank Rate that peaks at around 4¾% in 2023 Q4 before ending the forecast period at just
+over 3½%.
+
+There has been upside news to the near-term outlook for global activity, with UK-weighted
+world GDP now expected to grow at a moderate pace throughout the forecast period. Risks
+remain but, absent a further shock, there is likely to be only a small impact on GDP from the
+tightening of credit conditions related to recent global banking sector developments. Headline
+inflation has been falling in the United States and euro area, although core inflation measures
+remain elevated.
+
+UK GDP is expected to be flat over the first half of this year, although underlying output,
+excluding the estimated impact of strikes and an extra bank holiday, is projected to grow
+modestly. Economic activity has been less weak than expected in February, and the
+Committee now judges that the path of demand is likely to be materially stronger than
+expected in the February Report, albeit still subdued by historical standards. The improved
+outlook reflects stronger global growth, lower energy prices, the fiscal support in the Spring
+Budget, and the possibility that a tight labour market leads to lower precautionary saving by
+households.
+
+Although there are indications that the labour market has started to loosen, it is expected to
+remain tighter than in the February Report in the near term. The unemployment rate is now
+projected to remain below 4% until the end of 2024, before rising over the second half of the
+forecast period to around 4½%.
+
+CPI inflation was 10.2% in 2023 Q1, higher than expected at the time of the February and
+March MPC meetings, with the upside surprise concentrated in core goods and food prices.
+Although still elevated, nominal private sector wage growth and services CPI inflation have
+been close to expectations.
+
+CPI inflation is expected to fall sharply from April, in part as large rises in the price level one
+year ago drop out of the annual comparison. In addition, the extension in the Spring Budget
+of the Energy Price Guarantee and declines in wholesale energy prices will both lower the
+
+
+-----
+
+contribution from household energy bills to CPI inflation. However, food price inflation is likely
+to fall back more slowly than previously expected. Alongside news in other goods prices, this
+explains why the Committee’s modal expectation for CPI inflation now falls back more slowly
+than in the February Report.
+
+In the MPC’s latest modal projection conditioned on market interest rates, CPI inflation
+declines to a little above 1% at the two and three-year horizons, materially below the 2%
+target. This reflects the emergence of an increasing degree of economic slack and declining
+external pressures that are expected to reduce CPI inflation. However, there remain
+considerable uncertainties around the pace at which CPI inflation will return sustainably to
+the 2% target. The Committee continues to judge that the risks around the inflation forecast
+are skewed significantly to the upside, reflecting the possibility that the second-round effects
+of external cost shocks on inflation in wages and domestic prices may take longer to unwind
+than they did to emerge. The mean CPI inflation profile, which incorporates this risk, is at or
+just below the 2% target in the medium term.
+
+The MPC’s remit is clear that the inflation target applies at all times, reflecting the primacy of
+price stability in the UK monetary policy framework. The framework recognises that there will
+be occasions when inflation will depart from the target as a result of shocks and
+disturbances. The economy has been subject to a sequence of very large and overlapping
+shocks. Monetary policy will ensure that, as the adjustment to these shocks continues, CPI
+inflation will return to the 2% target sustainably in the medium term. Monetary policy is also
+acting to ensure that longer-term inflation expectations are anchored at the 2% target.
+
+The Committee has voted to increase Bank Rate by 0.25 percentage points, to 4.5%, at this
+meeting. In doing so the MPC is continuing to address the risk of more persistent strength in
+domestic price and wage setting, as represented by the upward skew in the projected
+distribution for CPI inflation.
+
+The pace at which domestic inflationary pressures ease will depend on the evolution of the
+economy, including the impact of the significant increases in Bank Rate so far. Uncertainties
+around the global financial and economic outlook remain elevated.
+
+The MPC will continue to monitor closely indications of persistent inflationary pressures,
+including the tightness of labour market conditions and the behaviour of wage growth and
+services price inflation. If there were to be evidence of more persistent pressures, then
+further tightening in monetary policy would be required.
+
+The MPC will adjust Bank Rate as necessary to return inflation to the 2% target sustainably
+in the medium term, in line with its remit.
+
+
+-----
+
+## Minutes of the Monetary Policy Committee
+
+ meeting ending on 10 May 2023
+
+1. Before turning to its immediate policy decision, the Committee discussed: the
+international economy; monetary and financial conditions; demand and output; and supply,
+costs and prices. The latest data on these topics were set out in the accompanying May 2023
+[Monetary Policy Report, available at https://www.bankofengland.co.uk/monetary-policy-](https://www.bankofengland.co.uk/monetary-policy-report/2023/may-2023)
+**report/2023/may-2023.**
+
+2. The latest international economic data suggested GDP growth had been stronger than
+the February 2023 Monetary Policy Report forecast across the United Kingdom’s main
+trading partners. The Committee noted that this had reflected different factors across regions.
+For instance, activity in China, particularly in the service sector, had surprised to the upside
+following the end of its zero-Covid policy. The euro-area economy had been more resilient
+than expected to the previous sharp rise in energy prices, while exports had been supported
+by stronger growth in China. In the United States, a robust labour market and higher post-tax
+income, following an increase in income tax thresholds that had come into effect from
+January, had been reflected in stronger-than-expected household consumption. In absolute
+terms, global output growth was nevertheless expected to remain somewhat weaker than its
+pre-pandemic average. The Committee also noted that headline inflation, while remaining
+elevated, had been falling in the United States and euro area, but core inflation measures
+had been flatter at high rates.
+
+3. In addition to the latest developments in monetary and financial conditions, the
+Committee discussed the divergence in movements in UK and US market interest rates since
+the failure of Silicon Valley Bank (SVB). While short-term interest rates in the United Kingdom
+had risen back to similar levels to those seen before the failure of SVB, those in the United
+States had remained at around the lower levels reached at the time of SVB’s failure. Market
+contacts had noted that this could, in part, be attributed to both UK-specific factors, such as
+CPI inflation having been higher than expected, and US-specific factors, where US credit
+conditions were expected to be somewhat tighter given stresses experienced by mediumsized US banks.
+
+4. Following further signs of improvement in official estimates of UK activity and business
+surveys, Bank staff had increased their estimate of underlying quarterly GDP growth to
+around 0.2% during the first half of the year. The Committee discussed the potential factors
+behind the recent upside news in demand. While high energy and other tradable goods
+prices had depressed activity, these external shocks were beginning to abate and to a
+greater degree than assumed in previous forecasts that had been conditioned on higher
+
+
+-----
+
+prevailing commodities futures prices. Businesses and households also appeared to have
+been more resilient to the shocks that had crystallised, supported by fiscal policy. For
+households, spending had been further supported by the strength of the labour market and
+continuing employment growth, which had boosted incomes and may have reduced the
+extent of precautionary saving.
+
+5. The Committee discussed how domestic inflationary pressures were evolving. Indicators
+of tightness, such as the vacancies-to-unemployment ratio and reported recruitment
+difficulties, continued to point to a loosening in the labour market, albeit they remained high
+by historical standards. Annual private sector regular pay growth had been close to
+expectations in recent months, consistent with an easing in higher-frequency pay growth
+data. But there continued to be a risk that pay growth could plateau at rates above those
+consistent with meeting the 2% inflation target sustainably in the medium term, if the labour
+market were to remain tight while households’ real incomes were still weak and short-term
+inflation expectations were elevated. Similarly, businesses might rebuild, and perhaps
+expand, their margins if demand were to remain firm.
+
+6. Twelve-month CPI inflation had remained just above 10% in March, higher than
+expected in preceding forecasts. Although services CPI inflation had been in line with
+expectations, there had been material upside news within food and core goods prices. Food
+price inflation had reached a new historical high of close to 20%, and this component of the
+CPI basket was particularly salient for households and hence potentially for their inflation
+expectations more broadly. Contacts of the Bank’s Agents were expecting an easing in cost
+pressures associated with lower commodity prices and broader improvements in supply
+conditions to be passed on to consumer goods prices, but this would take some time to work
+through supply chains. The Committee judged that that process would be slower for food
+prices than had previously been anticipated.
+
+### The immediate policy decision
+
+7. The MPC sets monetary policy to meet the 2% inflation target, and in a way that helps to
+sustain growth and employment.
+
+8. Recent UK and global economic developments reinforced the MPC’s view at the time of
+its March meeting that economic activity had been more resilient than expected at the time of
+the February Report. Bank staff now expected underlying UK GDP to grow by around 0.2% in
+both 2023 Q1 and Q2, compared to expectations in the February Report of negative growth.
+There were indications that the labour market had started to loosen. The vacancies-tounemployment ratio had continued to fall, contacts of the Bank’s Agents had reported that
+recruitment difficulties had eased and staff availability had increased in the latest KPMG/REC
+UK Report on Jobs. Nonetheless, the labour market was tighter than had been expected in
+February. Employment growth had been 0.5% in the three months to February, and was
+
+
+-----
+
+expected to be around 0.2% in 2023 Q2, both stronger than projected in the February Report.
+The unemployment rate was projected to be flat at 3.8% in Q2, compared to a projection of
+4.1% in February.
+
+9. Twelve-month CPI inflation had been higher than expected in 2023 Q1, at 10.2%,
+reflecting upside news in food and other goods price inflation, while services CPI inflation had
+been in line with expectations. Annual private sector regular pay growth had been 6.9% in the
+three months to February, close to the February Report forecast. The KPMG/REC permanent
+staff salaries index, which had tended to lead the ONS measure of private sector pay growth,
+had flattened in recent months, following a marked fall since last summer. Indicators of
+household and business UK inflation expectations had fallen back slightly, but most were still
+at elevated levels.
+
+10. As set out in the accompanying May Monetary Policy Report, the MPC’s updated
+projections showed that CPI inflation was expected to fall sharply from April, in part as large
+price rises one year ago dropped out of the annual comparison. In addition, the extension in
+the Spring Budget of the Energy Price Guarantee and declines in wholesale energy prices
+would both lower the contribution from household energy bills to CPI inflation. However,
+updated staff analysis and reports from the Agents’ contacts suggested that food price
+inflation was likely to fall back more slowly than previously expected. Alongside news in other
+goods prices, this explained why the Committee’s modal expectation for CPI inflation now fell
+back more slowly than in the February Report.
+
+11. Economic activity had been less weak than expected in February, and the Committee
+now judged that the path of demand was likely to be materially stronger than in the February
+Report, albeit still subdued by historical standards. The improved outlook reflected stronger
+global growth, lower energy prices, the fiscal support in the Spring Budget, and the possibility
+that a tight labour market would lead to lower precautionary saving by households. Given the
+lags in monetary policy transmission, the increases in Bank Rate since December 2021 were
+expected to have an increasing impact on the economy in the coming quarters. The
+unemployment rate was now projected to remain below 4% until the end of 2024, before
+rising over the second half of the forecast period to around 4½%.
+
+12. In the MPC’s latest modal projection conditioned on market interest rates, CPI inflation
+declined to a little above 1% at the two and three-year horizons, materially below the 2%
+target. This reflected the emergence of an increasing degree of economic slack and declining
+external pressures that were expected to reduce CPI inflation.
+
+13. However, there were considerable uncertainties around the pace at which CPI inflation
+would return sustainably to the 2% target. The Committee continued to judge that the risks to
+the inflation forecast were skewed significantly to the upside. Staff analysis had explored a
+range of channels that could be associated with more persistence in wage or price setting in
+
+
+-----
+
+the current environment. The Committee discussed the possibility that the second-round
+effects of external cost shocks on inflation in wages and domestic prices could take longer to
+unwind than they had to emerge. These risks were inherently difficult to quantify precisely,
+which had motivated the Committee’s choice to include them in the skew rather than the
+modal projection. The mean CPI inflation profile, which incorporated this risk, was at or just
+below the 2% target in the medium term.
+
+14. The Bank of England’s Financial Policy Committee (FPC) had continued to brief the MPC
+about recent banking sector developments. The FPC continued to judge that the UK banking
+system was resilient, maintaining robust capital and strong liquidity positions. It was resilient
+to the current economic outlook, and had the capacity to support the economy in a period of
+higher interest rates even if economic conditions were worse than forecast. The FPC was
+monitoring developments in other jurisdictions closely in light of the risk that indirect spillovers
+from overseas banks impacted the wider UK financial system.
+
+15. The impact of recent global banking sector developments on domestic credit conditions
+and hence UK GDP was expected to be small. The MPC would continue to monitor closely
+any effects on the credit conditions faced by households and businesses.
+
+16. The MPC’s remit was clear that the inflation target applied at all times, reflecting the
+primacy of price stability in the UK monetary policy framework. The framework recognised
+that there would be occasions when inflation would depart from the target as a result of
+shocks and disturbances. The economy had been subject to a sequence of very large and
+overlapping shocks. Monetary policy would ensure that, as the adjustment to these shocks
+continued, CPI inflation returned to the 2% target sustainably in the medium term. Monetary
+policy was also acting to ensure that longer-term inflation expectations were anchored at the
+2% target.
+
+17. Seven members judged that a 0.25 percentage point increase in Bank Rate, to 4.5%,
+was warranted at this meeting. It was important to continue to address the risk of more
+persistent strength in domestic price and wage setting, as represented by the upward skew in
+the projected distribution for CPI inflation. CPI inflation had been stronger than expected,
+owing to higher food and other goods prices, although services CPI inflation and wage
+growth, while still elevated, had been close to expectations. There were indications that the
+labour market had begun to loosen, but the path of unemployment was projected to be lower
+than in February. GDP growth had also been stronger than expected, and was expected to
+be higher over much of the forecast period than in February. For these members, there had
+been repeated surprises about the resilience of demand, while the labour market had
+remained tight. These were circumstances in which domestic price pressures risked
+becoming more persistent. In the May Report projections, CPI inflation was projected to take
+longer to return to the 2% target, conditioned on a higher path for Bank Rate. There remained
+a risk that the second-round effects of external cost shocks on inflation in wages and
+
+
+-----
+
+domestic prices could take longer to unwind than they had to emerge. A 0.25 percentage
+point increase in Bank Rate would better manage the upside risks to the inflation outlook, in
+the context of a more prolonged return of inflation to target and materially stronger projected
+demand.
+
+18. Two members preferred to leave Bank Rate unchanged at 4.25% at this meeting. As the
+effects of the energy price shock and other cost-push shocks unwound, headline CPI inflation
+should fall sharply over 2023, which would also reduce associated persistence in domestic
+price setting. At the same time, the lags in the effects of monetary policy meant that sizeable
+impacts from past rate increases were still to come through. That implied the current setting
+of Bank Rate would be likely to reduce inflation to well below target in the medium term. As
+the policy setting had become increasingly restrictive, this would bring forward the point at
+which recent rate increases would need to be reversed.
+
+19. The pace at which domestic inflationary pressures eased would depend on the evolution
+of the economy, including the impact of the significant increases in Bank Rate so far.
+Uncertainties around the global financial and economic outlook remained elevated.
+
+20. The MPC would continue to monitor closely indications of persistent inflationary
+pressures, including the tightness of labour market conditions and the behaviour of wage
+growth and services price inflation. If there were to be evidence of more persistent pressures,
+then further tightening in monetary policy would be required.
+
+21. The MPC would adjust Bank Rate as necessary to return inflation to the 2% target
+sustainably in the medium term, in line with its remit.
+
+22. The Chair invited the Committee to vote on the proposition that:
+
+Bank Rate should be increased by 0.25 percentage points, to 4.5%.
+
+23. Seven members (Andrew Bailey, Ben Broadbent, Jon Cunliffe, Jonathan Haskel,
+Catherine L Mann, Huw Pill and Dave Ramsden) voted in favour of the proposition. Two
+members (Swati Dhingra and Silvana Tenreyro) voted against the proposition, preferring to
+maintain Bank Rate at 4.25%.
+
+### Operational considerations
+
+24. On 10 May 2023, the total stock of assets held for monetary policy purposes was £816
+billion, comprising £813 billion of UK government bond purchases and £2.7 billion of sterling
+non‐financial investment‐grade corporate bond purchases.
+
+25. In February 2022, the MPC had voted to unwind fully the stock of sterling non-financial
+investment-grade corporate bond purchases no earlier than towards the end of 2023. In
+
+
+-----
+
+December 2022, the Committee had noted that it was content with the initial rate of reduction
+in the stock which, if sustained, would permit an earlier unwind of the portfolio than originally
+anticipated.
+
+26. Consistent with those indications, corporate bond sales had continued to progress and
+had been absorbed smoothly by the market. The sales programme was expected to conclude
+in coming weeks after which a small number of very short maturity bonds would continue to
+be held, as announced by the Bank at the outset of the sales programme, maturing fully by 5
+April 2024.
+
+27. The following members of the Committee were present:
+
+Andrew Bailey, Chair
+Ben Broadbent
+Jon Cunliffe
+Swati Dhingra
+Jonathan Haskel
+Catherine L Mann
+Huw Pill
+Dave Ramsden
+Silvana Tenreyro
+
+James Bowler was present as the Treasury representative.
+
+28. As permitted under the Bank of England Act 1998, as amended by the Bank of England
+and Financial Services Act 2016, David Roberts was also present on 2 and 4 May, as an
+observer for the purpose of exercising oversight functions in his role as a member of the
+Bank’s Court of Directors.
+
+
+-----
+

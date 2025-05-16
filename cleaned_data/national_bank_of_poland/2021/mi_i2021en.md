@@ -1,0 +1,191 @@
+# Minutes of the Monetary Policy Council decision making 
+
+ meeting held on 13 January 2021
+
+During the discussion the Council members pointed out that in 2020 Q4 – as COVID
+19 infections increased and sanitary restrictions were tightened again in some countries –
+the global recovery had slowed down. The pace of the global economic recovery had been
+negatively affected primarily by deteriorating situation in the services sector, while
+industrial activity had continued to grow. It was observed that despite weakened
+economic conditions, GDP growth in some economies had probably been positive in 2020
+Q4. However, it was judged that the euro area economy had probably again plunged into
+recession in that period. It was pointed out that GDP growth in the euro area had been
+dragged down mainly by a downturn in the services sector. In turn, economic growth in
+the region had been boosted by relatively robust external demand, which had supported
+industrial activity in the euro area.
+
+The Council members observed that the epidemic situation in Europe remained
+
+difficult. In some countries, the number of new infections remained elevated, and a new
+rise in infections was observed in a number of economies. This was causing the authorities
+in many European countries to extend or tighten existing restrictions. Some Council
+members expressed the opinion that under the circumstances, despite the fact that
+vaccinations had started in many countries, uncertainty about the further course of the
+pandemic and its impact on global economic conditions had risen. Referring to the
+economic outlook in the euro area, the Council members judged that a possible resurgence
+in global COVID-19 infections might hurt not only the services sector, but also exports,
+and consequently have an adverse impact on the region’s GDP. That would reduce the
+chance that inflation in the euro area would rise from its current very low levels.
+
+It was indicated that under such circumstances the ECB and other major central banks
+
+– the Federal Reserve, Bank of Japan and Riksbank – had recently continued their
+monetary policy easing, primarily through increasing the scale of asset purchases or
+extending the announced duration of their operation. At the same time, those banks had
+continued to communicate that they would maintain interest rates at a very low level over
+the next few years.
+
+In view of the further easing of monetary policy by the major central banks and the
+
+improved sentiment in the international financial markets following the launch of
+COVID-19 vaccinations, the prices of some financial assets, including those of emerging
+economies, had risen. This was accompanied by an increase in the prices of some
+commodities in the global markets, including the prices of oil.
+
+When referring to the Polish economy, it was pointed out that the rise in COVID-19
+
+infections and the tightening of the epidemic restrictions in 2020 Q4 had had a negative
+effect on economic activity. It was observed that there had been a marked slump in
+
+
+-----
+
+business conditions in the services sector, as indicated by a t fall in retail sales in October
+and November and the declining expenditure on services settled by payment cards.
+Certain Council members emphasised that although the slowdown in activity was
+registered only in some sectors, those sectors made a substantial contribution to GDP. At
+the same time, it was observed that the situation in the industrial sector remained
+favourable, as indicated by sustained industrial output growth. It was judged that the
+progressive increase in production showed that Polish companies had adapted their
+operations to the restrictions and requirements related to the pandemic. It was pointed out
+that output had risen particularly robustly in sections where a significant part of the
+products were exported. It was judged that rising exports were the main factor supporting
+economic activity in 2020 Q4. It was observed that current forecasts suggested that annual
+GDP growth in 2020 Q4 was still negative and probably lower than in the previous quarter.
+
+While discussing the situation in the labour market, it was pointed out that the
+
+November data suggested a stabilisation of average employment and the annual growth
+of average wage in the corporate sector. It was also observed that the registered
+unemployment rate remained stable.
+
+The Council members judged that current forecasts suggested a rebound in economic
+
+activity in 2021, although uncertainty about its scale and pace had increased. The main
+source of this uncertainty was the further development of the pandemic and its impact on
+the economic situation at home and abroad. It was observed that the economic policy
+measures taken so far, including the easing of NBP’s monetary policy, would have a
+positive impact on the economic situation.
+
+At the same time, the majority of the Council members believed that the economic
+
+recovery in 2021 would be gradual. It was stated that the heightened uncertainty and
+weaker sentiment of economic agents than before the pandemic would result in a
+substantial decline in investment. The majority of the Council members were of the
+opinion that, in view of the increased likelihood of a new surge in COVID-19 infections
+and an extension of the restrictions in Poland and abroad, there was a higher risk that GDP
+growth in the coming quarters would be weaker than previously expected. These
+members judged that under these conditions the financial situation of part of companies
+might deteriorate further, resulting in higher unemployment and slower wage growth.
+Furthermore, the majority of the Council members observed that in the case of a
+synchronised surge in the pandemic across many countries, external demand might
+decline, with a negative impact on domestic activity.
+
+The Council members pointed out that the development of zloty exchange rate against
+
+the major currencies would be a factor affecting domestic economic conditions and prices
+in 2021. It was observed that amid a negative shock, exchange rate adjustments were an
+important mechanism of shock absorption, as evidenced by Poland’s experience during
+the global financial crisis. The majority of the Council reiterated that the lack of a visible
+and more durable zloty exchange rate adjustment might reduce the pace of economic
+recovery. In this context it was highlighted that in 2020, despite the major shock related to
+
+
+-----
+
+the COVID-19 pandemic and the easing of NBP’ monetary policy, zloty real effective
+exchange rate had remained stable. The majority of the Council members also emphasised
+that the risk of a slower and weaker recovery in domestic activity and – as a result of an
+excessive slowdown in price growth - was boosted by pressure on the zloty to appreciate
+observed since the end of October 2020 and related to the further monetary policy easing
+by the major central banks. The majority of the Council members judged that the foreign
+exchange interventions conducted since December 2020 had curbed the risk of a
+procyclical strengthening of the zloty and amplified the impact of NBP’s monetary policy
+easing on the economy.
+
+Certain Council members were of the opinion that the positive effect of zloty
+
+depreciation on export activity might currently be smaller than in the past. They judged
+that the impact of zloty exchange rate movements on the financial performance of
+companies was limited by the significant import intensity of goods exports and the fact
+that many Polish companies operate as part of global value chains.
+
+When referring to inflation, the Council members pointed out that consumer price
+
+growth had declined significantly in December 2020 and was running close to 2.5%. It was
+observed that the decrease in inflation resulted partly from a marked decline in core
+inflation, and partly from the slower growth in the prices of food and non-alcoholic
+beverages.
+
+The majority of Council members assessed that inflation in 2021 would run at a level
+
+consistent with the NBP inflation target. These members emphasised that this year’s
+inflation would continue to be boosted by regulatory factors, which act as negative supply
+shocks, including a further rise in electricity prices for households and waste disposal
+charges. It was observed that since 2021 Q2 annual price growth would also be increased
+by base effects related to the waning of the impact of the 2020 decline in oil prices.
+
+Certain Council members judged that inflation in 2021 would be slightly higher than
+
+the current forecasts suggest. These members were of the opinion that inflation would be
+pushed up by the satisfaction of deferred consumer demand and – following an
+improvement in sales prospects – the adjustment of prices of goods and services to the
+earlier rise in production costs.
+
+The Council members observed that the deposits of both households and non
+financial companies had risen sharply in 2020. They judged that the rise in funds deposited
+in banks despite an economic slump had been caused by the continued heightened
+uncertainty about the future economic situation, discouraging consumer and investment
+spending. Moreover, the increase in corporate deposits had resulted from the fact that
+many companies had received considerable state aid funds. The majority of the Council
+members expressed the opinion that in such conditions the demand for credit – especially
+working capital credit – from enterprises was strongly limited.
+
+While discussing monetary policy, the Council members were of the opinion that the
+
+present meeting should keep interest rates unchanged and continue to pursue NBP’s
+remaining measures.
+
+
+-----
+
+The majority of the Council members judged that if economic recovery progressed in
+
+2021 and price growth was in line with the inflation target, it would also be advisable to
+keep interest rates unchanged in the subsequent quarters. At the same time, in the opinion
+of these Council members, if the economic conditions and outlook were to deteriorate
+significantly, e.g. due to a new surge in the pandemic, further monetary policy easing
+might be justified, including by a reduction in the interest rate.
+
+Certain Council members believed that, should further easing of monetary conditions
+
+be necessary, a further cut in NBP interest rates would not be advisable and instead the
+additional measures aimed at supporting corporate lending should be implemented.
+
+It was observed that NBP’s monetary policy mitigated the negative economic impact
+
+of the pandemic, supported economic activity and stabilised inflation at the level
+consistent with NBP’s medium-term inflation target. Due to its positive impact on the
+financial situation of debtors, it was also conducive to the strengthening of financial
+system stability.
+
+The Council decided to keep the NBP interest rates unchanged: the reference rate at
+
+0.10%, the lombard rate at 0.50%, the deposit rate at 0.00%, the rediscount rate at 0.11%,
+and the discount rate at 0.12%.
+
+Publication date: 5 February 2021
+
+
+-----
+

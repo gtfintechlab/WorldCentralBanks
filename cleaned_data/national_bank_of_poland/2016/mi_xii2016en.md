@@ -1,0 +1,190 @@
+# Minutes of the Monetary Policy Council decision-making meeting held on 7 December 2016
+
+Members of the Monetary Policy Council discussed monetary policy against the
+
+background of macroeconomic developments in Poland and abroad.
+
+The Council reviewed the developments abroad which affect economic conditions in
+
+Poland. It was recognised that global economic growth remained moderate with
+uncertainty about its outlook. It was emphasised that in the euro area GDP growth was
+stable, yet conditions were diverse across countries. It was highlighted that in Germany
+economic growth had eased in 2016 Q3 on the back of lower investment in machinery
+and equipment and slowdown in exports. It was assessed that the latter had resulted
+from Germany’s major trading partners, i.e. other European countries and China,
+growing slower than in previous years. It was noted that, in line with available forecasts,
+economic conditions in Germany should improve in 2016 Q4 and economic growth in
+euro area would remain stable in the coming quarters. It was noted that sentiment in
+manufacturing had improved over recent months. Certain Council members, however,
+remarked that this improvement might not translate into an actual rebound in corporate
+investment activity. In the opinion of certain Council members, investment growth in the
+euro area might be dampened in particular by political uncertainty in several Western
+European countries.
+
+While discussing developments in other economies, attention was drawn to good
+
+economic conditions in the United States. It was stressed that in 2016 Q3 growth in the
+United States accelerated more than initially estimated, and labour market conditions in
+this country were still favourable.
+
+While discussing price developments abroad, it was emphasised that price growth in
+
+the environment of the Polish economy was still very low, albeit gradually increasing. It
+was highlighted that oil prices had risen since the previous Council meeting as OPEC
+members and some other major oil exporters had decided to reduce their output. Some
+Council members assessed that oil prices should not grow in the coming quarters due to
+high oil supply, boosted by a renewed increase in oil production in the United States,
+and Iran striving to regain its market share.
+
+Referring to monetary policy abroad, it was pointed out that the European Central
+
+Bank had kept interest rates close to zero, including the deposit rate below zero, and had
+continued financial asset purchases. It was assessed that the Federal Reserve was likely
+to increase its interest rates soon. It was emphasised that the prospect of monetary
+tightening in the United States, along with expected fiscal stimulus in this country, had
+translated into an appreciation of the US dollar and a rise in government bond yields in
+the United States, and, in effect, in other countries. It was also noted that many emerging
+market currencies, including the Polish zloty, had depreciated, with the scale of the latter
+
+1/4
+
+
+-----
+
+being increased by a rise in political uncertainty in Europe around the referendum in
+Italy.
+
+While discussing developments in Poland’s real economy, it was noted that GDP
+
+growth had eased in 2016 Q3. It was stressed that the slowdown, like elsewhere in
+Central and Eastern Europe, had been caused mainly by a fall in investment related to
+temporarily lower absorption of EU funds after the expiration of the previous EU
+financial framework. As underlined by the majority of the Council members, investment
+growth was also contained by uncertainty among businesses. It was highlighted that
+lower GDP growth in 2016 Q3 had also resulted from exports growing at a weaker pace
+than in the previous quarter. Slower increase in Polish exports was probably attributable
+to muted economic growth in Poland’s major trading partners, and, as underlined by
+certain Council members, sluggish growth of global trade. It was estimated that the
+annual GDP growth rate would probably remain subdued also in 2016 Q4. Apart from
+weak investment activity signalled by the recent data, the lower GDP growth rate would
+also result from a statistical base effect associated with strong economic growth a year
+before.
+
+It was emphasised that domestic economic growth was still supported by an
+
+increasing pace of consumer demand growth, which in 2016 Q3 had been the fastest in
+eight years. Some Council members pointed to a steady increase in housing investment
+expenditures associated with rising demand for residential real estate. It was assessed
+that the acceleration in household expenditures resulted mainly from ongoing
+improvement in the labour market. It was indicated that the unemployment rate was the
+lowest in decades, while employment continued to rise and wages were growing faster
+than in previous years. Certain Council members noted that, despite improving labour
+market conditions, the unemployment rate was still strongly diversified across regions. It
+was highlighted that growth in household expenditures was also supported by child
+benefit payments. Certain Council members remarked, however, that some of the
+additional income gained by households from child benefits could be spent on imported
+goods, leading to acceleration in imports and thereby to lower contribution of net
+exports to GDP growth. These Council members emphasised, however, that this effect
+could be alleviated by higher demand for services, which are characterised with lower
+import intensity.
+
+The majority of the Council members assessed that the currently observed slowdown
+
+in GDP growth was temporary, and that in 2017 economic growth should accelerate. In
+the opinion of the Council members, the acceleration in GDP growth should be driven
+by a further increase in consumption growth and a rebound in investment activity amid
+gradually strengthening absorption of EU funds. In this context, surveys were cited that
+suggested an increase in corporate investment plans. Certain Council members indicated
+that economic growth in the coming quarters should also be supported by a faster
+increase in exports, driven by stronger growth in the environment of the Polish economy
+and the depreciation of the zloty. Certain Council members also expressed an opinion
+
+2/4
+
+
+-----
+
+that a shortage of qualified staff might prove a barrier to growth for Polish companies in
+some regions. According to certain Council members, it could not be ruled out that
+subdued economic growth would continue until mid-2017. According to these Council
+members, GDP growth might still be contained by waning impact of child benefits
+starting from as soon as 2017 Q2 and the fact that investment cycle for infrastructure
+projects might be a few quarters long. These Council members also pointed to a risk of
+prolonged low export growth stemming from unfavourable developments in global
+trade, connected i.a. with a possible increase in protectionism.
+
+Referring to the outlook for economic growth over the longer run, certain Council
+
+members highlighted government infrastructure projects, which would prop up the
+production capacity of the Polish economy. These members also pointed to a recent
+decline in migration preference among Polish citizens. Other Council members indicated
+a need to boost the labour force participation rate and promote the inflow of foreign
+workers, which should mitigate the adverse developments associated with population
+ageing.
+
+When analysing price developments in Poland, it was stressed that annual growth in
+
+prices of consumer goods and services had been rising steadily and that deflation had
+ended in November. It was pointed out that producer price growth had also been
+accelerating. It was assessed that the increase in price growth had resulted mainly from
+dissipating effects of the earlier sharp fall in global commodity prices. Additional factor
+behind the rise in price growth cited during the meeting was the ongoing wage growth,
+whose pace was faster than in the previous quarters. However, it was noted that price
+growth in Poland was contained by low inflation abroad, negative output gap in the
+domestic economy and low inflation expectations.
+
+The Council members assessed that in the coming quarters price growth would
+
+continue to gradually increase, propped up by waned effects of the earlier fall in
+commodity prices and the expected gradual acceleration in economic growth. Some
+Council members also drew attention to intensifying wage pressure indicated by
+companies, which, along with an increase in the minimum wage in 2017, might boost
+nominal wage growth. The Council members were of the opinion that price growth, in
+spite of the acceleration, would most likely remain low in 2017. Attention was drawn to
+the likely stabilization of commodity prices in the coming quarters and limited
+inflationary pressure at home resulting from significant import intensity of the currently
+observed growth in consumer demand.
+
+While discussing the level of the NBP interest rates, the Council members judged that
+
+they should remain unchanged. The Council members confirmed their assessment that
+the stabilisation of the interest rates helped to keep the Polish economy on a sustainable
+growth path and maintain macroeconomic stability. The majority of the Council
+members assessed that an argument for keeping the interest rates unchanged was in
+particular the gradual increase in price growth. As a result, despite the nominal interest
+rates being kept unchanged, their level will decline markedly in real terms. In the
+
+3/4
+
+
+-----
+
+opinion of the Council, an additional argument for the stabilisation of the NBP interest
+rates was uncertainty regarding domestic and external conditions for monetary policy.
+
+The Council members pointed out that in light of information available at the time of
+
+the meeting, stabilisation of the NBP interest rates in the following quarters was the most
+likely scenario. This notwithstanding, they indicated that should inflationary pressure
+appear, creating a risk of exceeding the inflation target in the medium term, it could be
+appropriate to raise the interest rates. Certain Council members did not rule out a
+possibility of a decrease in the interest rates in the event of deepening and protracted
+economic slowdown. Other Council members, however, assessed that the level of the
+NBP interest rates was currently not a factor curbing economic growth in Poland. For
+this reason, in the opinion of these Council members, a reduction in the NBP interest
+rates would have no significant impact on economic activity, however, it could lead to
+imbalances in the financial and real estate markets as well as to lower household saving
+rate.
+
+The Council decided to keep the NBP interest rates unchanged: the reference rate at
+
+1.50%, the lombard rate at 2.50%, the deposit rate at 0.50% and the rediscount rate at
+1.75%.
+
+Publication date: 22 December 2016
+
+4/4
+
+
+-----
+

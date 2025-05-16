@@ -1,0 +1,766 @@
+# Monetary Policy Summary and minutes of the Monetary
+
+ Policy Committee meeting ending on 13 January 2016 
+
+## Publication date: 14 January 2016
+
+These are the minutes of the Monetary Policy Committee meeting ending on 13 January 2016.
+
+They are available at http://www.bankofengland.co.uk/publications/Pages/news/2016/001.aspx
+
+The Bank of England Act 1998 gives the Bank of England operational responsibility for setting monetary policy
+
+to meet the Government’s inflation target. Operational decisions are taken by the Bank’s Monetary Policy
+
+Committee. The minutes of the Committee meeting ending on 3 February will be published on 4 February 2016.
+
+
+-----
+
+**Monetary Policy Summary, January 2016**
+
+The Bank of England’s Monetary Policy Committee (MPC) sets monetary policy in order to meet the 2% inflation
+
+target and in a way that helps to sustain growth and employment. At its meeting ending on 13 January 2016,
+
+the MPC voted by a majority of 8-1 to maintain Bank Rate at 0.5%. The Committee voted unanimously to
+
+maintain the stock of purchased assets financed by the issuance of central bank reserves at £375 billion, and so
+
+to re-invest the £8.4 billion of cash flows associated with the redemption of the January 2016 gilt held in the
+
+Asset Purchase Facility.
+
+Twelve-month CPI inflation rose to 0.1% in November and is likely to rise modestly further in the coming months
+
+as some of the large falls in energy and food prices a year earlier drop out of the annual comparison. But the
+
+40% decline in dollar oil prices means that the increase in inflation is now expected to be slightly more gradual
+
+in the near term than forecast in the Committee’s November Inflation Report projections. Although a large part
+
+of the current deviation of CPI inflation from the 2% target reflects unusually large drags from energy and food
+
+prices, core inflation also remains relatively subdued – a consequence of the past appreciation of sterling, weak
+
+global inflation and restrained domestic cost growth.
+
+The outlook for inflation in the medium term reflects the balance between the persistence of the dampening
+
+influence of factors such as the past appreciation of sterling and subdued world export prices, and prospective
+
+further increases in domestic cost growth. The MPC’s objective is to return inflation to the target sustainably,
+
+without an overshoot once those persistent disinflationary forces have waned. Given that, the MPC intends to
+
+set monetary policy to ensure that growth is sufficient to absorb remaining spare capacity in a manner that
+
+returns inflation to the target in around two years and keeps it there in the absence of further shocks.
+
+The MPC set out its most recent detailed assessment of the economic outlook in the November 2015
+
+_Inflation Report. At that time, the Committee’s central view was that, if Bank Rate were to follow the gently_
+
+rising path implied by the prevailing market yields, CPI inflation would slightly exceed the 2% target in two years’
+
+time and then rise further above it, reflecting modest excess demand. The MPC judged that the risks to this
+
+projection lay a little to the downside in the first two years, reflecting global factors.
+
+Since then, the data regarding international activity have evolved broadly as expected. Recent volatility in
+
+financial markets has underlined the downside risks to global growth, primarily emanating from emerging
+
+markets. Although the most recent declines in oil prices will depress global inflation in the near term, given they
+
+appear primarily to reflect developments on the supply side of the market, these conditions should in time
+
+provide net support to spending in the United Kingdom and its major trading partners.
+
+
+-----
+
+Domestically, the most recent data suggest that, after faster growth over the previous two years, output growth
+
+was steady during 2015 at rates a little below pre-crisis norms. Although indicators of private domestic
+
+spending appear healthy, business surveys imply that the near-term outlook for aggregate activity is slightly
+
+weaker than in the MPC’s November central projection. Productivity growth appears to have recovered
+
+somewhat over 2015, but the underlying supply capacity of the economy, and therefore the degree of
+
+inflationary pressure resulting from a given pace of demand growth, remain difficult to judge. Despite continued
+
+reductions in the rate of unemployment, pay growth remains restrained and appears to have dipped slightly in
+
+the most recent data. Overall, while domestic cost growth over the past year has been below that necessary for
+
+inflation to return sustainably to the 2% target, its pace can be expected to increase over time.
+
+As in previous months, there is a range of views among MPC members about the balance of risks to inflation
+
+relative to the target in the medium term. At the Committee’s meeting ending on 13 January, eight members
+
+judged it appropriate to leave the stance of monetary policy unchanged at present. Ian McCafferty preferred to
+
+increase Bank Rate by 25 basis points, given his view that the path of domestic costs was more likely to lead to
+
+inflation exceeding the target in the medium term than was embodied in the Committee’s collective November
+
+projections.
+
+All members agreed that, given the likely persistence of the headwinds weighing on the economy, when
+
+Bank Rate does begin to rise, it is expected to do so only gradually and to a level lower than in recent cycles.
+
+This guidance is an expectation, not a promise. The actual path that Bank Rate will follow over the next few
+
+years will depend on the economic circumstances.
+
+
+-----
+
+-----
+
+### Minutes of the Monetary Policy Committee meeting ending on 13 January 2016
+
+1 Before turning to its immediate policy decision, the Committee discussed financial market developments;
+
+the international economy; money, credit, demand and output; and supply, costs and prices.
+
+**Financial markets**
+
+2 Overseas monetary policy had remained a key theme in financial markets since the Committee’s previous
+
+meeting, with continuing reaction to the ECB’s loosening decision at the start of December, the US FOMC’s
+
+decision to tighten policy mid-month and perceptions of a shift in China’s exchange rate policy. In addition,
+
+there had been volatility in market prices related to concerns about the extent of the slowdown in China and the
+
+potential impact of lower oil prices.
+
+3 The FOMC had raised the target range for the federal funds rate by 25bps on 16 December. Although this
+
+had been widely anticipated, market expectations of what the accompanying FOMC communications might
+
+signal about the future path for monetary policy had been more diffuse, and so there had been a risk of a
+
+significant market reaction. The Committee noted that the announcement had been met with a positive reaction
+
+in US equity markets and, at the same time, a muted immediate reaction in other financial markets. There
+
+remained a divergence between the FOMC’s modal projections for official rates and the mean of market
+
+expectations embodied in the yield curve.
+
+4 The sterling effective exchange rate index (ERI) had fallen by around 3% since the fifteen-day average
+
+starting point used in the November Inflation Report projections. This appeared in part to be a reaction to the
+
+ECB policy decision on 3 December 2015. Since the start of 2016, however, some market contacts had
+
+additionally cited the forthcoming UK referendum regarding EU membership as a possible explanation for the
+
+depreciation of sterling. Option-implied sterling volatilities had risen and there had been an increase in the price
+
+of protection against the risk of sterling depreciation compared with the price of protection against an
+
+appreciation.
+
+5 UK short rates had fallen slightly on the month. The three-year instantaneous forward OIS rate stood at
+
+1.1% compared with 1.3% at the time of the Committee’s previous meeting, and the fifteen-day average of 1.3%
+
+used in the November Inflation Report. The majority of economists responding to the latest Reuters poll
+
+expected Bank Rate to rise in 2016 Q2, although since that survey had been conducted a number of
+
+economists had shifted their expectations to later in the year.
+
+6 The increases in corporate bond spreads that had been evident since the summer had continued. The
+
+largest movements had been in US dollar high-yield markets, but there had also been a steady rise in US dollar,
+
+euro and sterling investment-grade bond spreads. To some extent, this appeared to reflect the impact of
+
+declines in the prices of energy and other commodities on companies operating in those sectors. An additional
+
+factor may have been relatively strong investment-grade corporate issuance, particularly at longer maturities,
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 13 January 2016** 1
+
+
+-----
+
+and perhaps a general reduction in risk appetite. It was too soon to judge the potential significance of these
+
+moves, and they warranted continued monitoring.
+
+7 Global equity prices had fallen since the November Inflation Report. This had partly reflected the decline
+
+in oil prices, with energy stocks falling by more than broader indices. Risk appetite generally appeared to have
+
+lessened, in part due to concerns about activity in some emerging market economies and exacerbated by
+
+geopolitical tensions in the Middle East. Circuit breakers introduced by the Chinese authorities to contain
+
+volatility in their equity markets were tripped twice in their first week of operation, resulting in their suspension.
+
+As in summer 2015, the movements in Chinese equity markets appeared to have had knock-on effects to
+
+advanced economies’ financial markets, with UK, US and European equity indices all falling over the month.
+
+8 The Chinese authorities had published a new trade-weighted Renminbi exchange rate index made up of
+
+thirteen currencies, which some market participants had interpreted as the authorities’ new target variable for
+
+the Renminbi. It had depreciated by around 1.5% over the month, leaving it broadly unchanged from the end of
+
+2014. The recent depreciation appeared to have brought concerns about the underlying strength of the Chinese
+
+economy into focus and triggered flows into lower-risk assets. These had pushed down on advanced economy
+
+government bond yields, and caused the US dollar and yen to appreciate against emerging market currencies.
+
+**The international economy**
+
+9 There had been few significant data releases regarding international activity since the Committee’s
+
+previous meeting, and the outlook for UK-weighted world growth had remained broadly consistent with the
+
+assumptions underlying the November Inflation Report projections. There had, however, been a further sharp
+
+fall in the oil price and, after reviewing the data, it was on this that the Committee focussed its discussion.
+
+10 In the euro area, the estimate of 0.3% GDP growth in Q3 had not been revised in the second release.
+
+The composite output purchasing managers’ index (PMI) had increased slightly in December. At the national
+
+level, the German and Italian PMIs had increased and the French and Spanish measures had fallen. Euro-area
+
+industrial production had declined in November. Bank staff continued to expect that euro-area GDP growth in
+
+2015 would exceed that in 2014 by around half a percentage point. Inflation in the euro area had remained
+
+weak, however, with both headline and core inflation in the twelve months to December unchanged relative to
+
+November at 0.2% and 0.9% respectively according to the flash release.
+
+11 In the United States, the third estimate of Q3 GDP had been revised down slightly reflecting weaker stock
+
+building, but it had remained at 0.5% to one decimal place. The US composite PMI output index had been 54.0
+
+in December, lower than in November but above the earlier flash estimate. Bank staff expected 0.3% growth in
+
+Q4, weaker than the 0.7% assumed at the time of the November Inflation Report, reflecting soft data on
+
+inventories and investment. Headline personal consumer expenditure (PCE) inflation in the twelve months to
+
+November had been 0.4%, compared with 0.2% in October. Core PCE inflation had remained stable at 1.3%.
+
+Employment growth in the US had remained robust: non-farm payrolls had increased by 292,000 and the
+
+unemployment rate had been unchanged at 5% in December.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 13 January 2016** 2
+
+
+-----
+
+12 Indicators of Chinese economic activity had softened a little in Q4, pointing to quarterly GDP growth of
+
+around 1.5%, consistent with the November Inflation Report assumptions. Import values had continued to
+
+decline, falling around 8% on a year ago in December. Consistent with that, information on advanced
+
+economies’ exports to China suggested they had weakened. It was unclear to what extent this reflected the
+
+rebalancing of the Chinese economy away from manufacturing and towards services, or was associated with a
+
+more general reduction in aggregate activity.
+
+13 The oil price had fallen further: the Brent spot price had declined by $11 per barrel since the Committee’s
+
+previous meeting and by $19 per barrel relative to the starting point of the conditioning assumption incorporated
+
+in the November Inflation Report, falls of 28% and 40% respectively. Looking back over the period since the
+
+local peak in oil prices in June 2014, the spot oil price had fallen by three quarters and futures prices for Brent
+
+delivery in January 2018 had fallen from $97 in June 2014 to $43. The Committee discussed the likely factors
+
+behind the latest fall in the oil price. Recent developments had seemed to reflect predominantly news about oil
+
+supply and included: the absence of a reduction in the OPEC official production ceiling at the OPEC meeting in
+
+early December; and, over the longer period since June 2014, sustained growth in US production and robust
+
+OPEC supply. Overall, inventory levels had continued to rise. Demand side factors were, however, also part of
+
+the story, particularly in relation to emerging market economies. Although the most recent declines in oil prices
+
+would depress global inflation in the near term, given they appeared primarily to reflect developments on the
+
+supply side of the market, those conditions should in time provide net support to spending in the United
+
+Kingdom and its major trading partners.
+
+**Money, credit, demand and output**
+
+14 The Quarterly National Accounts data for Q3 had contained downward revisions to GDP over the past two
+
+years. The Committee reviewed these revisions and the latest activity indicators before focusing its discussion
+
+on credit growth and the housing market.
+
+15 Revisions back to 2014 by the ONS had lowered the level of GDP by 0.3% in 2015 Q3. They reflected a
+
+combination of lower estimated construction output during 2014 and weaker services output, particularly
+
+financial services, in Q2 and Q3 of 2015. While growth in business-facing services had weakened by more than
+
+previously estimated, growth in consumer-facing services had remained steady. Overall, the data suggested
+
+that, after faster growth over the previous two years, output growth had been steady during 2015 at rates a little
+
+below pre-crisis norms.
+
+16 This month’s survey data had painted a mixed picture. While the composite Markit/CIPS output index
+
+had been broadly unchanged in December, the expectations series had fallen further below its historical
+
+average. The quarterly BCC survey had suggested a slowing across both services and manufacturing in Q4,
+
+albeit from elevated levels. The GfK/EC measure of consumer confidence had risen in December, with all the
+
+balances in the headline index increasing on the month and remaining well above their historical averages.
+
+The Bank’s Agents’ early discussions with contacts indicated that retail sales over the Christmas period had
+
+been stronger than a year earlier in volume terms, if little changed by value. Surveys of investment intentions
+
+had remained above average.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 13 January 2016** 3
+
+
+-----
+
+17 Reflecting both the revised official data and the latest surveys, and despite the prospective boost to GDP
+
+from the latest oil price falls, Bank staff had lowered their central projections for GDP growth in Q4 and Q1 by
+
+0.1 percentage points to 0.5% in each quarter. Taken with the revisions to the data, that implied that the level of
+
+GDP was now expected to be around ½% lower in 2016 Q1 than at the time of the November Inflation Report.
+
+The Committee would consider the full implications of the latest official and survey data during the preparation
+
+of its February Report.
+
+18 Domestic credit conditions had eased substantially in recent years, with average spreads on new bank
+
+borrowing falling by almost 200 basis points since mid-2012 and by 70 basis points over the past two years.
+
+Credit growth to households and companies had picked up somewhat but remained below historical averages.
+
+The increase in total credit growth had appeared weaker than its historical relationship with interest rates would
+
+have suggested. This was likely to reflect a number of factors. For instance, underlying demand for credit by
+
+households was probably weaker than before the crisis as households reviewed the levels of debt with which
+
+they felt comfortable. And some companies had perhaps become more averse to some forms of external
+
+borrowing as a result of having experienced restricted credit availability during the financial crisis. It remained to
+
+be seen how persistent these forces would prove.
+
+19 The housing market was a case in point. Secured borrowing costs had fallen materially over the past two
+
+years, especially for higher loan to value (LTV) mortgages. Quoted rates on 90% LTV two-year fixed rate
+
+mortgages, for example, had fallen by around 150 basis points. Mortgage credit growth had risen by less than
+
+such an improvement in conditions would have suggested in the past. More generally, activity in the housing
+
+market had remained relatively subdued compared with historical norms, with mortgage approvals and housing
+
+transactions in November at 54% and 68% of their pre-crisis peaks respectively. Higher transaction costs may
+
+have been a factor contributing to lower turnover.
+
+20 Against that backdrop, the Committee discussed the possible impact on the housing market of the
+
+restrictions on mortgage interest relief for higher-rate taxpayers announced in July, and the three percentage
+
+point increase in stamp duty announced in the Autumn Statement. The duty was payable on the purchase of
+
+additional properties, such as buy-to-let properties, costing more than £40,000. Both changes were likely to
+
+reduce demand for buy-to-let properties, which in the latest data accounted for around 18% of the flow of
+
+mortgages extended. The magnitude of the impact on house prices was likely to depend on how far other
+
+buyers – including first-time buyers – could to some degree offset reduced housing demand from buy-to-let
+
+investors. These measures were likely to exert a dampening effect on the housing market, although its likely
+
+extent remained unclear.
+
+**Supply, costs and prices**
+
+21 Twelve-month CPI inflation had increased from -0.1% in October to 0.1% in November, in line with the
+
+expectation of Bank staff. CPI excluding energy, food, beverages and tobacco had risen by 1.2% in the year to
+
+November, compared with 1.1% in October. Bank staff’s composite measure of core inflation had increased by
+
+a similar amount to 1.1%.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 13 January 2016** 4
+
+
+-----
+
+22 Since the time of the November Inflation Report, the most significant developments influencing the
+
+near-term outlook for inflation had been the declines in the prices of oil and wholesale gas. These would
+
+moderate the extent to which annual CPI inflation was likely to rise over the coming months as a result of the
+
+earlier large declines in energy prices – in late-2014 and early-2015 – dropping out of the annual comparison.
+
+Consequently, Bank staff’s updated projection was for CPI inflation to increase slightly more gradually than the
+
+path described in the November Report, rising to ½% or so by the early months of 2016 and remaining around
+
+that level for several months. Thereafter, if global energy prices were to remain around current levels, inflation
+
+could be expected to pick up materially further in the second half of 2016 and early 2017. In contrast to the
+
+recent movements in energy prices, the depreciation of sterling over the previous two months would add
+
+somewhat to imported cost pressures relative to the assumptions underpinning the November projections.
+
+The Committee would fully assess the outlook for inflation in the medium term, which was of most relevance for
+
+setting monetary policy, as a part of the preparation of its February Inflation Report.
+
+23 Developments in the labour market remained a key indicator of medium-term inflationary pressure, with
+
+different signals being sent by recent data on wages and employment. The annual growth of whole-economy
+
+average weekly earnings had declined to 2.4% in the three months to October from 3.0% in the three months to
+
+September. Within that, regular pay growth and pay growth within the private sector had also fallen back.
+
+A noticeable reduction in annual AWE growth had been expected in the fourth quarter, as an arithmetic
+
+consequence of the relatively strong monthly increases in wages in late-summer and early-autumn 2014 falling
+
+out of the annual calculation. But the recent easing had been significantly more pronounced than the
+
+Committee had anticipated at the time of the November Inflation Report. The likely explanations for the
+
+moderation of wage growth remained much as they had appeared at the time of the Committee’s previous
+
+meeting, including the potential impacts of: the decline in the average number of hours worked per week over
+
+the past year; shifts in the composition of the workforce towards lower paid roles; and the low level of
+
+consumer price inflation, which might have begun feeding into pay negotiations. During the month, the 2015 Q4
+
+Deloitte survey of Chief Financial Officers had shown that just over half of respondents now expected CPI
+
+inflation to be less than 1.5% in two years’ time. The Citigroup measure of households’ expectations of inflation
+
+one year ahead had edged up in December and measures of expectations of inflation implied by financial
+
+market instruments remained broadly unchanged.
+
+24 The data regarding employment had been more robust than the pay figures. In the three months to
+
+October, the LFS unemployment rate had declined to 5.2%, a touch lower than had been expected at the time
+
+of the Committee’s November projections. Employment growth had recovered strongly since the middle of 2015
+
+and stood at over 200,000 in the three months to October compared with the previous three months, well above
+
+estimated growth in the labour force. Business surveys, taken as a whole, had suggested mildly slowing
+
+employment growth since the start of 2015, although they remained consistent with relatively robust hiring
+
+intentions and, in any event, were poorly correlated with short-term movements in the official employment data.
+
+Although the increase in the number of people employed had exceeded the assumptions underlying the
+
+November Inflation Report projections, the average number of hours worked per week had continued to edge
+
+down – notwithstanding a small increase in the most recent data – so that the most recent estimate of the total
+
+number of hours worked in the economy had been in line with the Committee’s expectation.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 13 January 2016** 5
+
+
+-----
+
+25 Softer estimates of recent output growth, along with stronger-than-expected employment figures, implied
+
+that productivity growth, measured as the change in output per worker, had probably been a little weaker than
+
+anticipated. Indeed, it seemed possible that output per worker would be roughly flat in the fourth quarter and
+
+might have risen by only around ½% in 2015 as a whole. To some degree, however, this was not surprising
+
+given the decline in the average number of hours worked per week. The increase in hourly productivity over
+
+2015 had been healthier, at around 1½%, and broadly in line with the Committee’s forecasting assumption that
+
+productivity would over time recover to a little under its historical average rate of around 2% per annum.
+
+26 Weaker-than-expected output per worker would act partly to offset the impact of lower pay growth on
+
+firms’ unit costs, but still leaving them a little below the level anticipated at the time of the November Inflation
+
+_Report. In the year to 2015 Q3, a measure of total unit labour costs based on the MPC’s backcast estimate of_
+
+GDP had grown by 1.6%. Growth of unit wage costs had been somewhat stronger over the same period, at
+
+2.3%, though both rates were likely to have eased back slightly in the fourth quarter of last year.
+
+27 The Committee had a preliminary discussion of how labour costs, and so inflationary pressure, might
+
+evolve in response to the slightly weaker outlook for output that seemed apparent from the recent official data
+
+and business surveys. It would depend crucially upon what had caused output growth to moderate. If it were
+
+predominantly a result of softening demand, then, in time, employment growth might be expected to weaken
+
+and with it pay pressure and inflation. But if it were a result of supply growth being weaker than expected –
+
+perhaps because the underlying trend in productivity remained persistently weaker than before the crisis – then
+
+labour demand and inflationary pressure might be broadly unaffected. The Committee would monitor
+
+employment and productivity growth closely over the coming quarters.
+
+**The immediate policy decision**
+
+28 The Committee set monetary policy to meet the 2% inflation target, and in a way that helped sustain
+
+growth and employment. At 0.1% in November, CPI inflation remained well below the target, primarily as a
+
+consequence of unusually low contributions from energy, food, and other imported goods prices, but also
+
+reflecting the weakness of domestic cost growth. Measures of core inflation had edged up in the past two
+
+months, but remained on average only a little above 1%.
+
+29 In broad terms, the outlook was similar to how it had appeared at the time of the Committee’s November
+
+_Inflation Report. As spare capacity had diminished, it was likely that domestic costs would continue to rise._
+
+Consequently, inflation was expected to increase to around the target once the persistent impact of lower
+
+energy and food prices, subdued world export prices and the past appreciation of sterling had dissipated.
+
+30 The MPC’s objective was to return inflation to the target sustainably, without an overshoot once those
+
+persistent disinflationary forces had waned. Given that, the MPC intended to set monetary policy to ensure that
+
+growth would be sufficient to absorb remaining spare capacity in a manner that returned inflation to the target in
+
+around two years and kept it there in the absence of further shocks. In pursuit of that objective, the Committee
+
+considered how recent developments had affected the balance of risks to the broad outlook described above.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 13 January 2016** 6
+
+
+-----
+
+31 Internationally, dollar oil prices had fallen 40% since the November Inflation Report, implying that the
+
+expected increase in UK CPI inflation around the turn of the year would probably be a little more modest than
+
+previously assumed. Judging with any precision the wider impact of the fall in oil prices, for example on UK and
+
+global activity, was more difficult. This was partly because the most obvious recent benchmark – the large
+
+decline in oil prices in the second half of 2014 – had been accompanied by a material softening in global growth
+
+prospects, making its independent impact on activity though lowering production costs and supporting real
+
+wages difficult to identify. Although the most recent declines in oil prices would depress global inflation in the
+
+near term, given they appeared primarily to reflect developments on the supply side of the market, these
+
+conditions should in time provide some net support to spending in the United Kingdom and its major trading
+
+partners.
+
+32 The other main international developments had been in financial markets. There had been some volatility,
+
+particularly in equity prices, that appeared linked to concerns about the underlying strength of the Chinese
+
+economy. This had triggered flows into lower-risk assets, lowering government bond yields in the advanced
+
+economies. The continued increase in corporate bond yields, particularly in the United States, also seemed
+
+consistent with some decline in risk appetite, although there were also likely to be other, more idiosyncratic
+
+factors at play. For instance, the corporate bond and equity prices of firms in the energy sector had been
+
+significantly affected by the reduction in global oil prices. The Committee noted that the widely anticipated
+
+increase in official interest rates in the United States had been met with a positive reaction in US equity markets
+
+and, at the same time, a muted immediate reaction in other financial markets. While movements in policy rates
+
+overseas were not in themselves of direct significance to the setting of UK monetary policy, there had inevitably
+
+been a possibility that the first change in US official rates for seven years could have induced a period of market
+
+volatility.
+
+33 Sterling had depreciated by around 3% since the time of the November Inflation Report. The Committee’s
+
+best collective judgement at that time had been that protracted pass-through of lower import prices was likely to
+
+result in a drag to CPI inflation throughout much of the forecast period. The recent depreciation of sterling, if
+
+sustained, would lessen that drag to some degree.
+
+34 Domestically, the most recent data suggested that, after faster growth over the previous two years, output
+
+growth had been steady during 2015 at rates a little below pre-crisis norms. Continued quarterly growth at rates
+
+of around ½% were likely around the turn of the year, a little weaker than the near-term outlook described in the
+
+Committee’s November Inflation Report. Most indicators regarding private domestic demand – for instance the
+
+official consumer spending and business investment data, along with survey evidence on firms’ investment
+
+intentions and household confidence – had remained healthy.
+
+35 Whether the more restrained outlook for activity growth in the near term implied a weakening of
+
+inflationary pressure was unclear. That would depend on how demand evolved relative to the economy’s supply
+
+capacity, including whether productivity growth would remain persistently lower than before the crisis –
+
+notwithstanding encouraging improvements in UK output per hour worked over the past year. The
+
+unemployment rate, an indicator of the amount of spare capacity in the economy, had fallen by a little more than
+
+expected by the Committee in November, and several other metrics were consistent with a degree of tightness
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 13 January 2016** 7
+
+
+-----
+
+in the labour market comparable to the pre-crisis period. Against that, it was notable that wage growth
+
+appeared to have dipped somewhat in the most recent months’ AWE data. Annual regular pay growth in the
+
+private sector had increased from around 1% in mid-2014 to over 3% in spring 2015, but had moderated to
+
+2.3% in the latest data for the three months to October. It was possible that this had been related to a decline in
+
+the average number of hours worked per week over the past year, shifts in the composition of employment
+
+growth towards lower paid roles, and the influence of the current low level of consumer price inflation on wage
+
+setting. Overall, while domestic cost growth over the past year had been below that necessary for inflation to
+
+return sustainably to the 2% target, it remained likely to increase over time.
+
+36 As in previous months, there remained a range of views among MPC members about the balance of risks
+
+to inflation relative to the target in the medium term, stemming from the outlook for both the external
+
+environment as well as the prospective strength of UK output and domestic cost growth. The Committee would
+
+undertake a detailed assessment of the outlook for activity and inflation at home and abroad in the preparation
+
+of its February Inflation Report over the next few weeks.
+
+37 At this meeting, eight members of the Committee continued to judge that leaving the stance of monetary
+
+policy unchanged would best balance the risks around achieving the MPC’s objective of returning inflation
+
+sustainably to the target in around two years’ time. For one member, however, the risks to domestic cost
+
+growth remained to the upside, and, given the recent depreciation of sterling, were less likely to be offset by the
+
+drag from earlier sterling appreciation. Together, these were sufficient to justify an immediate increase in
+
+Bank Rate. As well as reducing the risk of inflation exceeding the target, this member believed that an
+
+immediate start to policy normalisation would facilitate a more gradual path for policy tightening over time, a
+
+desirable policy aim in itself.
+
+38 All members agreed that the likely persistence of the headwinds restraining economic growth following the
+
+financial crisis meant that, when Bank Rate did begin to rise, it was expected to do so only gradually and to a
+
+level lower than in recent cycles. Such guidance, however, was an expectation and not a promise: the path
+
+that Bank Rate would actually follow over the next few years would depend on the economic circumstances.
+
+39 The Governor invited the Committee to vote on the propositions that:
+
+Bank Rate should be maintained at 0.5%;
+
+The Bank of England should maintain the stock of purchased assets financed by the issuance of central bank
+
+reserves at £375 billion.
+
+Regarding Bank Rate, eight members of the Committee (the Governor, Ben Broadbent, Jon Cunliffe,
+
+Nemat Shafik, Kristin Forbes, Andrew Haldane, Gertjan Vlieghe and Martin Weale) voted in favour of the
+
+proposition. Ian McCafferty voted against the proposition, preferring to increase Bank Rate by 25 basis points.
+
+Regarding the stock of purchased assets, the Committee voted unanimously in favour of the proposition.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 13 January 2016** 8
+
+
+-----
+
+40 Consistent with the Committee’s forward guidance, and as described in a market notice accompanying
+
+these minutes, the Committee agreed to re-invest the £8.4 billion of cash flows associated with the redemption
+
+of the January 2016 gilt held by the asset purchase facility.
+
+41 The following members of the Committee were present:
+
+Mark Carney, Governor
+Ben Broadbent, Deputy Governor responsible for monetary policy
+Jon Cunliffe, Deputy Governor responsible for financial stability
+Nemat Shafik, Deputy Governor responsible for markets and banking
+Kristin Forbes
+Andrew Haldane
+Ian McCafferty
+Gertjan Vlieghe
+Martin Weale
+
+Dave Ramsden was present as the Treasury representative.
+
+As permitted under the Bank of England Act 1998, as amended by the Financial Services Act 2012, Anthony
+
+Habgood was also present as an observer in his role as a member of the Oversight Committee of Court.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 13 January 2016** 9
+
+
+-----
+

@@ -1,0 +1,536 @@
+### Publication date: 23 May 2007
+
+## MINUTES OF
+# MONETARY POLICY COMMITTEE MEETING
+## 9 & 10 MAY 2007
+
+##### These are the minutes of the Monetary Policy Committee meeting held on  9 & 10 May 2007.
+
+ They are also available on the Internet http://www.bankofengland.co.uk/publications/minutes/mpc/pdf/2007/mpc0705.pdf
+
+ The Bank of England Act 1998 gives the Bank of England operational responsibility  for setting interest rates to meet the Government’s inflation target. Operational  decisions are taken by the Bank’s Monetary Policy Committee. The Committee meets  on a regular monthly basis and minutes of its meetings are released on the  Wednesday of the second week after the meeting takes place. Accordingly, the  minutes of the Committee meeting held on 6 and 7 June will be published on  20 June 2007.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 9-10 MAY 2007
+
+1 Before turning to its immediate policy decision, and against the background of its latest
+
+projections for output and inflation, the Committee discussed financial markets developments; the
+
+international economy; money, credit, demand and output; and costs and prices.
+
+2 On 17 April, the Office for National Statistics had published data showing that CPI inflation in the
+
+12 months to March had been 3.1%. As this was more than one percentage point higher than the
+
+Committee’s target, the Governor had written an open letter to the Chancellor, as required by the remit
+
+for the Committee. The purpose of the letter was to explain why inflation had risen above target and
+
+what the Committee proposed to do in response. The Governor’s letter referred to the Committee’s
+
+central expectation that inflation would fall back to around the 2% target over the course of the year.
+
+The Governor’s letter and the Chancellor’s reply were both published at 10.30am, one hour after the
+
+CPI data.
+
+**Financial markets**
+
+3 The market reaction to the publication of the CPI data had been a rise in UK short-term interest
+
+rates of up to 10 basis points. But, by the end of the day, forward rates beyond the end of 2008 had
+
+returned to around their opening levels. Over the month as a whole, short-term interest rates had risen
+
+by around 10 basis points. A rise in Bank Rate of 25 basis points had been fully priced-in for the May
+
+meeting and a further rise was implied for later in 2007.
+
+4 Short-term interest rates in the euro area had also risen steadily on the month and market
+
+expectations were consistent with two further rate rises in 2007. US short-term rates had risen by
+
+around 15 basis points early in April, after stronger-than-expected non-farm payrolls data, but had been
+
+volatile thereafter. Markets had previously been pricing in a possible cut in US rates in 2007 and this
+
+expectation appeared to have diminished. Movements in long-term interest rates had been modest, with
+
+UK and euro-area rates slightly higher on the month and US and Japanese rates slightly lower.
+
+
+-----
+
+2
+
+5 In foreign exchange markets, the sterling effective exchange rate index (ERI) had appreciated by
+
+around ½% on the release of the CPI data but, by the time of the May MPC meeting, was a little lower
+
+than at the April meeting. The ERI had fallen by around 2% since the February Inflation Report and
+
+was back to around its level at the start of the year. This was despite the weakness of the dollar against
+
+which sterling had recorded a 25-year high on 17 April.
+
+6 Equity prices had risen by 3-5% on the month in the United Kingdom, the United States and the
+
+euro area and had largely reversed their sharp falls in late February and early March. It was perhaps
+
+puzzling that US equity prices had been so strong given the mixed news about the US economy but
+
+there had been positive news on corporate earnings recently, perhaps in part boosted by the weakening
+
+currency raising the dollar value of overseas earnings. Spreads on sub-investment grade corporate
+
+bonds had narrowed.
+
+**The international economy**
+
+7 There had been little news on the euro area during the previous month, but what data there had
+
+been continued to be consistent with robust growth. Retail sales had been flat in the first quarter,
+
+although this was probably a temporary reaction to the VAT increase in Germany. The Purchasing
+
+Managers Indices for both manufacturing and services remained at relatively high levels, although the
+
+latter had declined slightly in April. The early estimate of euro-area CPI had suggested a fall in the
+
+inflation rate to 1.8% in April.
+
+8 The recent US data had been mixed. GDP growth in the first quarter had been estimated at just
+
+0.3%. Within the expenditure components, consumption growth had been strong at 0.9%. But non
+residential investment had grown by only 0.5% and government expenditure growth had slowed. There
+
+had also been a large negative contribution from residential investment, which had fallen by 4.6%, and
+
+a smaller negative contribution from net trade. The Institute for Supply Management (ISM) indices for
+
+April had risen strongly for both manufacturing and services, consistent with the possibility of
+
+somewhat firmer GDP growth in the second quarter. But downside risks to consumption were signalled
+
+by subdued housing activity, rising petrol prices and slowing employment growth.
+
+
+-----
+
+3
+
+9 Slower growth in the US did not seem to have spilled over into the rest of the world. Indeed,
+
+Asian countries such as China and India continued to have high growth rates. Early estimates of
+
+Japanese industrial production had fallen in the first quarter but the overall outlook remained robust.
+
+Asset prices were buoyant in many financial markets. With signs of higher inflation in a number of
+
+emerging market economies there was, perhaps, rather less sign of disinflationary pressure than hitherto.
+
+10 Oil prices had fallen on the month but the 15-day average of sterling spot oil prices used as the
+
+starting point for the May Inflation Report forecast was some 17% higher than the corresponding
+
+starting point for the February Report. Industrial metal prices had also risen strongly. In contrast, the
+
+prices of basic foodstuffs had decelerated sharply in recent months.
+
+**Money, credit, demand and output**
+
+11 The ONS’ provisional estimate of Q1 GDP growth had been 0.7%, with service sector output
+
+having grown by 0.8%, energy output by 1.4% and manufacturing having contracted by 0.3%. In
+
+contrast, business surveys and reports from the Bank’s regional Agents had suggested somewhat
+
+stronger activity in manufacturing and indicators of capacity pressures had remained elevated. The CBI
+
+_Industrial Trends Survey had recorded the lowest proportion of manufacturers citing a lack of orders or_
+
+sales as a constraint on output since 1989.
+
+12 The Committee considered a number of possible explanations for the divergence between the
+
+ONS data and other evidence on manufacturing. Based on past experience, it was likely that the
+
+provisional Q1 GDP estimates would be revised up. It was also possible that the surveys and the
+
+Bank’s Agents might be over-optimistic because they did not pick up small or failing firms.
+
+13 The CIPS/RBS surveys for April had been consistent with robust output growth in the second
+
+quarter. The services business activity index had fallen a little but the balance for incoming new
+
+business had been slightly stronger: both indices remained above their averages since the survey was
+
+introduced 11 years previously. The manufacturing output survey balance also rose to above its average
+
+level.
+
+14 Demand indicators had been consistent with firm consumption growth, with retail sales volumes
+
+in the first quarter over 4% higher than a year earlier, although quarterly growth had been only 0.4%. In
+
+
+-----
+
+4
+
+the second quarter, the CBI Distributive Trades Survey for April showed the highest balance of retailers
+
+reporting an increase in sales since May 2004 with stocks falling to their lowest since the series began.
+
+The British Retail Consortium data for April had been less strong although still consistent with steady
+
+consumption growth.
+
+15 Housing market data had been mixed. The average of the lenders’ house price indices had risen
+
+by 1% in April, although some of the March activity data – such as loan approvals and site visitors –
+
+had weakened. It was possible that the housing market was cooling slightly and that house price
+
+inflation would slow. The Committee noted that the 75 basis points rise in Bank Rate since mid-2006
+
+had not been reflected fully in the average effective mortgage rate, which had only increased by about
+
+half of the change in Bank Rate. This may have partly reflected the high and rising proportion of fixed
+
+rate mortgages over the past few years, which now accounted for over 50% by value of the stock of
+
+mortgages outstanding. Unsecured lending growth – including credit cards – had continued to slow,
+
+while growth in secured lending had been rising. That might be one explanation as to why the spread
+
+between unsecured and secured lending had narrowed as Bank Rate had risen.
+
+16 Investment intentions appeared to be a bit weaker for manufacturing and a bit stronger for
+
+services according to both the CBI and BCC surveys. Capital goods orders – usually a reasonable
+
+leading indicator of business investment – had picked up in the latest CBI Industrial Trends Survey but
+
+had fallen sharply in the April CIPS/RBS survey.
+
+17 The BCC, CIPS/RBS and CBI surveys had all recorded slightly weaker export balances although
+
+the implied growth of exports remained reasonably firm, despite sterling’s appreciation over the
+
+previous year.
+
+18 Broad money, as measured by M4, continued to grow at around 13% in the 12 months to March.
+
+Household M4 growth was steady at just over 8%, while ‘other financial companies’ broad money
+
+holdings were still rising at nearly 25%. Credit growth also remained strong with M4 lending
+
+(excluding securitisations) growing at 14½% in the 12 months to March, with lending to individuals
+
+growing at just over 10%. The growing household debt burden and hence rising income gearing, meant
+
+that there was an increasing potential impact on household income if interest rates had to rise
+
+significantly from current levels.
+
+
+-----
+
+5
+
+**Costs and prices**
+
+19 Employment had fallen by 47,000 in the three months to February on the Labour Force Survey
+
+measure, with a fall in employees only partly offset by rising self-employment. The employment rate
+
+was at its lowest level for over two years at 59.9%. But declining participation rates had left the
+
+unemployment rate constant at 5.5%. The continued weakness in employment was a bit puzzling after
+
+five consecutive quarters of firm output growth. The Committee considered a number of possible
+
+explanations.
+
+20 The data might be inaccurate – either output growth having been weaker than reported or
+
+employment growth stronger. An over-recording of GDP growth seemed less likely given the
+
+supporting strength of the business surveys. Data inaccuracies might arise just from sampling error or
+
+they could arise from systematic misreporting. An example of the latter would be migrant workers
+
+displacing domestic workers but not being picked up in the ONS surveys. Another possible explanation
+
+could be that the data were accurate, but public sector employment might be falling so that the
+
+behaviour of private sector employment would then be more consistent with that of output. There were
+
+insufficient data yet on the split between public and private sectors for the first quarter to check this
+
+hypothesis, although public sector employment had fallen back slightly in the fourth quarter of 2006.
+
+21 Another way to square the output and employment data would be if firms were not taking on as
+
+much labour – whether because of regulatory burdens, a mis-match between skills required and those
+
+available, or because of genuine productivity improvements. It was not clear what might have
+
+happened recently to generate any of these outcomes, but the observed increase in average hours
+
+worked would be consistent with the first two of these explanations for why employment growth was so
+
+muted. Measured productivity growth in the private sector had been picking up but this might just
+
+reflect a normal cyclical recovery. Another possibility was that there was more slack in the economy
+
+and demand pressures had been over-estimated.
+
+22 With a third of the pay settlements expected in the first quarter now known, the level of
+
+settlements remained little changed from the fourth quarter. For January, the mean level was 3.3%,
+
+broadly in line with November and December. For February, the latest estimate was 3.5% and the
+
+initial estimate based on just a few awards for March was 3.1%. Annual regular pay growth had eased
+
+
+-----
+
+6
+
+back to 3.6% in the three months to February, although higher bonuses (linked mainly to the financial
+
+services sector) had boosted overall average earnings growth to 4.6%.
+
+23 Manufacturing input and output price inflation had both picked up a little in the 12 months to
+
+March: even excluding food, drink, tobacco and petroleum products, output price inflation had risen
+
+from 2.7% to 2.9%. Survey measures of pricing in manufacturing also remained elevated although
+
+different surveys gave a mixed indication of recent changes. The picture was somewhat clearer in
+
+services, with falls in the CIPS/RBS and BCC prices balances. The Bank’s regional Agents had
+
+reported that retailers expected price increases over the next 12 months to be relatively subdued but
+
+would seek to raise margins by cutting costs and by switching to higher margin items.
+
+24 CPI inflation in March was 3.1%, with an unexpectedly strong upside contribution from
+
+household goods prices in general and furniture in particular. The ONS had commented that this may
+
+have been in anticipation of prospective discounting in the sales over the Easter period, in which case it
+
+would unwind subsequently. In line with pre-release arrangements, an advance estimate of CPI
+
+inflation of 2.8% in April had been provided to the Governor ahead of publication. This was consistent
+
+with the Committee’s central expectation that CPI was likely to fall back during 2007 as the sharp rises
+
+in retail gas and electricity prices during 2006 dropped out of the 12-month inflation rate and announced
+
+cuts were phased in.
+
+25 Only one survey of the public’s inflation expectations had been conducted since the release of the
+
+CPI data: the Citigroup/YouGov survey had suggested that inflation expectations for the year ahead
+
+were unchanged at 2½%.
+
+**The May GDP growth and inflation projections**
+
+26 The Committee reached its policy decision in the light of the projections to be published in the
+
+_Inflation Report on Wednesday 16 May._
+
+27 Conditional on market participants’ expected path of interest rates, the Committee’s central
+
+projection was for UK GDP to continue to grow steadily at a rate close to its average over the past
+
+decade. Growth was projected to be a little above that average in the early part of the projection –
+
+consistent with indications from business surveys – and to edge down over the forecast period, as
+
+
+-----
+
+7
+
+business investment and government spending growth slowed. The profile was similar to that in the
+
+February Inflation Report.
+
+28 The risks around that central forecast for GDP were judged to be broadly balanced. On the
+
+upside, domestic demand growth could be faster, perhaps supported by buoyant asset prices and,
+
+associated with that, low long-term interest rates. And growth in the euro area or Asia might exceed
+
+expectations. Key downside risks included the interaction of higher short-term interest rates with the
+
+growing domestic debt burden and the possibility of slower growth in the United States triggering a
+
+global slowdown.
+
+29 The Committee’s central projection was for CPI inflation to drop back in the first half of the
+
+forecast period, dipping below the 2% target as the effect of lower domestic energy price inflation fed
+
+through. Inflation was then projected to edge back up to target later in the forecast period, as the effects
+
+of the energy price cuts fell out of the annual comparison. The May projection was similar to that
+
+published in February, although the trough in inflation occurred a little later, reflecting in part stronger
+
+upwards pressure in the near term from the higher oil price and the lower value of sterling.
+
+30 There remained an unusual degree of uncertainty about the outlook for inflation, particularly in
+
+the near term. The main risks included: the impact of stronger demand growth on companies’ prices;
+
+the evolution of inflation expectations; prospects for energy and import prices; and the degree of spare
+
+capacity in the economy. Taken together, the risks were judged to be balanced in the near term, and
+
+weighted to the upside in the medium term. There was a range of views on the Committee about both
+
+the central projection and the balance of risks.
+
+**The immediate policy decision**
+
+31 The Committee judged that there had been little news in financial markets over the month. The
+
+main event had been the CPI data and the subsequent exchange of letters between the Governor and the
+
+Chancellor. Financial markets and economic commentators now had a strong expectation that interest
+
+rates would be raised by 25 basis points at the May meeting. Sterling had been little changed on the
+
+month but was about 2% lower than the starting point for the February forecast.
+
+
+-----
+
+8
+
+32 The Committee considered that there had also been relatively little news about the international
+
+environment over the month. Compared with the February Inflation Report, the US economy seemed a
+
+little weaker than previously expected whereas the euro area seemed a little stronger. Japan appeared to
+
+be reasonably firm and the other large Asian nations were growing strongly. Overall the global
+
+economy continued to grow robustly. It was beginning to appear that there might be less disinflationary
+
+pressure in the global economy than hitherto.
+
+33 Oil and industrial metals prices had risen significantly since the February Inflation Report. The
+
+Committee noted that the volatile movements in these prices, and their corresponding effects on the
+
+economy, in the short run, made it much more difficult to look further ahead to assess medium-term
+
+inflationary pressures.
+
+34 Domestic demand and output growth had continued to be robust, although the ONS data on
+
+manufacturing provided a somewhat weaker picture than the business surveys and the reports of the
+
+Bank’s regional Agents. Growth in the first half of 2007 was likely to be at, or a little above, its ten
+year average. Most housing activity indicators had shown some signs of slowing, though the most
+
+recent house price data had remained strong. The full impact of the increases in Bank Rate since
+
+August 2006 had not yet been passed through to average mortgage rates. Capacity utilisation measures
+
+remained elevated, suggesting little spare capacity within firms. Overall, current indicators of UK
+
+output growth were consistent with the Committee’s previous projections.
+
+35 The weakness of employment growth in the face of robust output growth was a puzzle. The
+
+Committee had discussed a range of possible explanations and different members placed different
+
+weights on the various possibilities. Nevertheless the Committee judged that there was probably still a
+
+degree of slack in the labour market and, consistent with that, there had been little evidence to suggest
+
+that pay growth had increased following the temporary increase in CPI inflation. Surveys suggested
+
+that inflation expectations, although still a little above the 2% target, did not appear to have become
+
+dislodged. Despite the high CPI inflation number for March, and some signs of rising producer price
+
+inflation, it remained most likely that inflation would fall back to around the target during the course of
+
+the year. Although the inflation outturns since the August 2006 Inflation Report had been close to the
+
+Committee’s forecast, there had possibly been more underlying inflationary pressure than expected.
+
+
+-----
+
+9
+
+36 The challenge for the Committee was to look through the near-term movements in CPI inflation
+
+so as to judge the inflationary pressures over the medium term, where there was more than usual
+
+uncertainty. The Committee’s medium-term forecast was consistent with some immediate rise in
+
+interest rates. For some members, the question was whether Bank Rate should be increased by 25 basis
+
+points or whether there was a case for a rise of 50 basis points – given the upside risks to inflation over
+
+the medium term and the buoyant outlook for growth and demand.
+
+37 The May Inflation Report forecast was conditioned on the market’s expectations of interest rates –
+
+which implied an immediate increase of 25 basis points with a high probability of another rise later in
+
+the year. If the Committee had been reasonably confident about the need for another interest rate rise
+
+soon, then a strong case could have been made for an increase of 50 basis points this month. But those
+
+members who had considered voting for 50 basis points preferred to wait for more data to assess the
+
+impact of past increases in Bank Rate. Some members argued that, given the uncertainties around both
+
+the outlook for inflation and the impact of interest rate changes, it was better to move cautiously. Other
+
+members were concerned that any excessive movement in rates could create downside risks to growth
+
+and so to the medium-term outlook for inflation. The Committee agreed that, should the economy
+
+continue to develop broadly in line with the central expectation, Bank Rate could be raised further as
+
+necessary.
+
+38 The Governor invited the Committee to vote on the proposition that Bank Rate should be
+
+increased by 25 basis points to 5.5%. The Committee voted unanimously in favour of the proposition.
+
+39 The following members of the Committee were present:
+
+Mervyn King, Governor
+Rachel Lomax, Deputy Governor responsible for monetary policy
+John Gieve, Deputy Governor responsible for financial stability
+Kate Barker
+Charles Bean
+Tim Besley
+David Blanchflower
+Andrew Sentance
+Paul Tucker
+
+Jon Cunliffe was present as the Treasury representative.
+
+
+-----
+

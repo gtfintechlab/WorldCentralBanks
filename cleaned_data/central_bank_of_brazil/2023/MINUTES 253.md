@@ -1,0 +1,422 @@
+# 253[rd]
+
+##### Minutes of the Meeting of the
+
+### Monetary Policy Committee — Copom
+
+#### March 21-22, 2023
+
+
+# 253[rd]
+
+##### Minutes of the Meeting of the
+
+### Monetary Policy Committee — Copom
+
+#### March 21-22, 2023
+
+
+-----
+
+##### 253 Meeting
+ COPOM
+
+###### March 21-22
+
+
+**Date:** March 21-22, 2023
+
+**Place:** BCB Headquarters’ meeting rooms on the 8[th] floor (3/21 and 3/22 on the morning)
+
+and 20[th] floor (3/22 on the afternoon) – Brasilia – DF – Brazil
+
+**Starting and ending** March 21: 10:05 AM – 11:34 AM; 2:10 PM – 5:24 PM
+
+**times:** March 22: 10:05 AM – 11:05 AM; 2:33 PM – 6:30 PM
+
+**In attendance:**
+
+**_Copom Members_** Roberto de Oliveira Campos Neto – Governor
+
+Bruno Serra Fernandes
+Carolina de Assis Barros
+Diogo Abry Guillen
+Fernanda Magalhães Rumenos Guardado
+Maurício Costa de Moura
+Otávio Ribeiro Damaso
+Paulo Sérgio Neves de Souza
+Renato Dias de Brito Gomes
+
+**_Department Heads in_** Alan da Silva Andrade Mendes – Department of Foreign Reserves
+**_charge of technical_** André de Oliveira Amante – Open Market Operations Department
+**_presentations_** Euler Pereira Gonçalves de Mello – Research Department (also present on the afternoon of
+
+(attending on 3/21 and 3/22)
+and on the morning of Fabia Aparecida de Carvalho – Department of International Affairs
+3/22): Ricardo Sabbadini – _Department of Economics_
+
+Rogério Antônio Lucca – Department of Banking Operations and Payments System
+
+**_Other participants_** Antônio Geraldo Filho – Head of Division at the BCB’s Internal Auditing
+(attending on 3/21 and Arnildo da Silva Correa – Head of the Office of Economic Advisor
+on the morning of 3/22): Cristiano de Oliveira Lopes Cozer – General Counsel
+
+Edson Broxado de França Teixeira – Head of the Deputy Governor for Supervision’s Office
+Eduardo José Araújo Lima – Head of the Deputy Governor for Economic Policy’s Office
+Fernando Alberto G. Sampaio de Cavalcante Rocha – Head of the Department of Statistics
+Gilneu Francisco Astolfi Vivan – Head of the Financial System Monitoring Department
+
+Isabela Ribeiro Damaso Maia – Head of the _Sustainability and International Portfolio Investors_
+_Unit_
+
+Julio Cesar Costa Pinto – Head of the Deputy Governor for Monetary Policy’s Office
+Kathleen Krause – Head of the Prudential and Foreign Exchange Regulation Department
+Laura Soledad Cutruffo Comparini – Deputy Head of the Department of Economics
+Leonardo Martins Nogueira – Executive Secretary
+Luís Guilherme Siciliano Pontes – Deputy Head of the International Reserves Department
+Mariane Santiago de Souza – Head of the Governor’s Office
+Mauro Zanatta – Press Office Advisor
+
+Olavo Lins Romano Pereira – [Deputy Head of the Department of International Affairs]
+Ricardo José de Souza Oliveira – Coordinator at the BCB’s Internal Auditing
+
+The Copom members analyzed the recent performance and prospects for the Brazilian and
+international economies, under the monetary policy framework, whose objective is to comply with
+the inflation targets established by the National Monetary Council. This document represents
+Copom's best effort to provide an English version of its policy meeting minutes. In case of
+inconsistency, the Portuguese version prevails.
+
+2 bcb.gov.br
+
+
+-----
+
+##### 253 Meeting
+ COPOM
+
+###### March 21-22
+
+
+**A)** **Update of economic outlook and Copom’s scenario[1]**
+
+1. Since the previous meeting of the Monetary Policy Committee (Copom), the global
+environment has deteriorated. The episodes involving banks in the United States and
+Europe have increased the uncertainty and the volatility in markets and require
+monitoring. Major economies have emphasized the principle of separation of objectives
+and instruments in the conduct of monetary and macroprudential policies.
+
+2. At the same time, recent data on global activity and inflation remain resilient and the
+process of monetary policy tightening in major economies continues to advance. The
+external environment continues to be marked by the prospect of global growth below
+potential, but the easing of the Covid policy in China, a milder winter in Europe and the
+possibility of a gradual US growth slowdown soften the ongoing global economic
+slowdown resulting from the tightening of financial conditions in the major economies.
+Conversely, the impact on financial conditions and consequently on global growth of
+the recent episodes involving the banking system in major economies is still uncertain
+but has a negative bias. Recent inflation readings point to some stabilization of core
+inflation in several countries at levels above their targets and reinforce the inertial
+nature of the current inflationary process. The inflationary environment remains
+challenging and the low degree of labor market slack in some economies, coupled with
+persistently high current inflation with a high degree of diffusion, suggests that
+inflationary pressures, particularly in the services sector, should last longer.
+
+3. The process of normalization of monetary policy continues towards contractionary
+rates synchronized across countries. In several emerging economies, tightening cycles
+come to a halt or suggest they are nearing an end. In any case, most monetary
+authorities signal a prolonged period of high interest rates is necessary to fight
+inflationary pressures, which calls for greater caution in the conduct of economic
+policies also by emerging countries.
+
+4. Turning to the Brazilian economy, the set of indicators released since the previous
+meeting still corroborates the scenario of slowdown in the growth expected by the
+Committee. A moderation is observed in the coincident indicators of activity and the
+credit market has also shown deceleration at the margin. The labor market, which
+surprised positively throughout 2022, continues to show signs of moderation, with
+relative stability in the unemployment rate, stemming from declines in the employed
+population and in the workforce.
+
+5. Consumer inflation remains high. The inflation of the components more sensitive to
+the economic cycle and the monetary policy, which present greater inflationary inertia,
+remain above the range compatible with meeting the inflation target. Inflation
+expectations for 2023 and 2024 collected by the Focus survey are around 6.0% and
+4.1%, respectively.
+
+**B)** **Scenarios and risk analysis**
+
+6. In the reference scenario, the interest rate path is extracted from the Focus survey,
+and the exchange rate starts at USD/BRL 5.25[2] and evolves according to the purchasing
+power parity (PPP). The Committee assumes that oil prices follow approximately the
+futures market curve for the following six months and then start increasing 2% per year
+onwards. Moreover, the energy flag is assumed to be “yellow” in December 2023 and
+2024. In this scenario, Copom’s inflation projections stand at 5.8% for 2023 and 3.6%
+for 2024. Inflation projections for administered prices are 10.2% for 2023 and 5.3% for
+2024. The Committee decided again to emphasize the six-quarter horizon ahead. On
+
+1 Unless explicitly stated otherwise, this update takes into account changes that occurred since the February
+Copom meeting (252[nd] meeting).
+2 Value obtained according to the usual procedure of rounding the average USD/BRL exchange rate observed
+on the five business days ending on the last day of the week before the Copom meeting.
+
+3 bcb.gov.br
+
+
+-----
+
+##### 253 Meeting
+ COPOM
+
+###### March 21-22
+
+
+this horizon, which refers to the third quarter of 2024, the 12-month inflation projection
+stands at 3.8%. The Committee judges that the uncertainty in its assumptions and
+projections is higher than usual.
+
+7. The Committee analyzed an alternative scenario with stable interest rates over the
+entire relevant horizon. In this scenario, inflation projections stand at 5.7% for 2023,
+3.3% for the third quarter of 2024, and 3.0% for 2024.
+
+8. The Committee again assessed the possibility of incorporating some increase in its
+estimate for the neutral interest rate, towards the movement observed in expectations
+for longer terms extracted from the Focus survey. The real neutral interest rate is the
+rate in which, in the absence of impact from other factors, the inflation rate remains
+stable, and the output grows according to its potential, reflecting productivity gains and
+changes in the structural fundamentals of the economy. At this point, the Committee
+decided to keep the neutral interest rate at 4% but evaluated alternative scenarios and
+identified that the impacts of an increase in the neutral rate on its projections grow over
+time and become more relevant as of the second half of 2024.
+
+9. In assessing the factors that could lead to unfold an alternative scenario
+characterized by a higher neutral interest rate, emphasis was placed on the possible
+adoption of expansionary parafiscal policies, which can increase the neutral rate and
+reduce the power of monetary policy, as previously remarked by the Committee.
+
+10. The Committee continues to assess that the global disinflation process, especially
+regarding underlying inflation indicators, is challenging and may be slower than what is
+usually observed, as inflation is widespread in the services segment. In this context, the
+reduction of inflationary pressures continues to require the commitment and
+determination of central banks with the control of inflation through a more prolonged
+tightening of financial conditions. Such determination, with a likely impact upon asset
+prices in the short term, contributes to a more credible and lasting global disinflationary
+process.
+
+11. Since the previous Copom meeting, some regional banks were liquidated in the US
+and two large Swiss banks were merged, raising concerns about the banking system in
+the major economies. The Committee will continue to closely monitor this situation,
+analyzing possible contagion channels, but assesses that the direct impact on the
+domestic financial system and other emerging countries is, so far, limited, with no
+changes in the stability or efficiency of those financial systems.
+
+12. The scenario, therefore, looks even more challenging for the conduct of monetary
+policy, with increased risks both around the inflationary scenario and in relation to
+financial stability. On the one hand, there are the episodes involving the banking sector
+and the consequent need to provide liquidity. On the other hand, global growth and
+inflation data remain resilient, requiring commitment and determination from the
+monetary authorities. The Committee believes that the best contribution of monetary
+policy continues to be in combating inflationary pressures and smoothing out economic
+fluctuations. In addition, some members emphasized that they do not see a dilemma in
+the conduct of monetary policy between its objective of inflation control and the
+objective of financial stability. The Committee stressed how the two objectives have
+specific instruments.
+
+13. Brazilian activity data continue to indicate a more moderate pace of growth at the
+margin, and employment data suggest moderation. It was pointed out that after a
+period of strong recovery in the last two years, a process of deceleration of growth has
+begun in the durable goods sector, which had been particularly buoyant in the
+pandemic, and which is more sensitive to interest rate policy. The deceleration spread
+to the non-durable goods sector and, subsequently, to the services sector, although in
+a milder way. Copom continues to evaluate that the economic slowdown underway is
+necessary to guarantee the convergence of inflation to its targets, particularly after a
+prolonged period of inflation above the target. Finally, it was noted that the economic
+
+4 bcb.gov.br
+
+
+-----
+
+##### 253 Meeting
+ COPOM
+
+###### March 21-22
+
+
+growth outlook has not changed significantly in the recent period.
+
+14. As expected, given the greater lag in relation to the economic cycle, only recently
+has the labor market shown evidence of a moderate slowdown, compatible with the
+Committee's expectation of a moderation in the pace of economic activity. Some
+members have observed that there is a movement towards a partial recomposition of
+recent losses in real wages. This movement is expected and has been accompanied by
+a deceleration in nominal gains, which is expected to intensify ahead.
+
+15. The Committee believes that the disinflation dynamics continues to be
+characterized by a process with two distinct stages. In the first stage, already
+completed, there is a greater speed of disinflation, with a greater effect on
+administered prices and an indirect effect on market prices through less inertia. In the
+second stage, which is currently observed, the speed of disinflation is slower and core
+inflation – which is more affected by the aggregate demand and the interest rate policy
+– is reduced at a slower pace, responding to the output gap and inflation expectations.
+It is thus observed an inflationary dynamic driven by excess demand initially in goods,
+and which has currently shifted to the services sector, and which therefore requires
+moderation of economic activity for monetary policy channels to act. Such a process
+demands serenity and patience in the conduct of monetary policy for the convergence
+of inflation to its targets.
+
+16. The further deterioration of inflation expectations in the Focus survey, especially at
+longer maturities, was much debated. It has been pointed out that the behavior of
+expectations is a fundamental aspect of the inflationary process since it affects the
+setting of present and future prices and wages. As higher inflation is projected ahead,
+companies and workers start to incorporate such future inflation in the adjustments of
+prices and wages. Thus, there is a greater rise in prices in the current period, and the
+inflationary process is fed by these expectations. It was also highlighted that the
+anchoring of expectations is a key factor for price stability. Therefore, and following the
+best international practice, the Committee incorporates expectations in its decision-
+making process, analyzing and including them as one of the factors affecting its
+inflation projections.
+
+17. Additional tightening of credit conditions was observed in some modalities. Some
+members believe that this movement is in line with what is expected, considering the
+interest rates rise undertaken until the middle of the second half of 2022. For these
+members, an increase in delinquency and a slowdown in credit granting should still be
+expected, but in line with what was observed in previous monetary policy tightening
+cycles. Other members, in contrast, assess that in the most recent period the tightening
+of credit granting was more intense than expected, but focused on some specific
+markets. The Committee believes that the BCB has the appropriate and necessary
+liquidity instruments linked to macroprudential policy to address localized relevant
+frictions in the system, should they occur. Furthermore, it reinforced that monetary
+policy is more appropriate to act in a counter-cyclical manner on the aggregate demand.
+
+18. The Committee also discussed the impacts of the fiscal scenario on inflation. In this
+regard, the Copom emphasized again that the net effect of the fiscal policy conduct on
+inflation is highly dependent on the current macroeconomic and financial conditions.
+Copom evaluated that the Ministry of Finance's commitment to the implementation of
+the fiscal package, which is already identified in fiscal statistics and the reinstatement
+of fuel taxes, smooths the fiscal stimuli on demand, reducing the upside risk on inflation
+in the short-term. Furthermore, the Committee will continue monitoring the
+elaboration, discussion, and implementation of the fiscal framework that will be
+presented by the Government and voted by the National Congress. Copom emphasized
+that there is no mechanical relationship between the convergence of inflation and the
+presentation of the fiscal framework, since the former remains conditional on the
+reaction of inflation expectations, the public debt projections, and the asset prices.
+Nevertheless, the Committee stresses that the materialization of a scenario with a solid
+
+5 bcb.gov.br
+
+
+-----
+
+##### 253 Meeting
+ COPOM
+
+###### March 21-22
+
+
+and credible fiscal framework might result in a more benign disinflationary process
+through its effect on the expectations channel, by reducing inflation expectations, the
+economic uncertainty, and the risk premium on domestic assets.
+
+19. The Committee emphasizes that risks to its scenarios remain in both directions.
+Among the upside risks for the inflationary scenario and inflation expectations, it should
+be emphasized (i) a greater persistence of global inflationary pressures; (ii) the
+uncertainty about the fiscal framework and its impacts on the expected path of the
+public debt; and (iii) a larger or more persistent deanchoring of long-term inflation
+expectations. Among the downside risks, it should be noted (i) an additional reduction
+in the prices of international commodities measured in local currency; (ii) a greater than
+projected deceleration of global economic activity, particularly due to adverse
+conditions in the global financial system; and (iii) a slowdown in domestic credit
+granting larger than what would be compatible with the current stance of monetary
+policy.
+
+20. On the one hand, the recent reinstatement of fuel taxes has reduced the
+uncertainty of the fiscal results in the short term. On the other hand, the current
+scenario, marked by high volatility in financial markets and deanchored long-term
+inflation expectations from the targets, requires further attention when conducting
+monetary policy. The Committee judges that the deanchoring of long-term inflation
+expectations raises the cost of the disinflation that is needed to reach the targets
+established by the National Monetary Council. In this scenario, Copom reaffirms its
+commitment to set monetary policy to meet the targets.
+
+**C)** **Discussion about the conduct of monetary policy**
+
+21. Copom discussed the conduct of monetary policy, considering the set of projections
+evaluated, as well as the balance of risks for inflation.
+
+22. The Committee decided again to emphasize the six-quarter-ahead horizon in its
+projections but anticipates that for the next quarter the Committee will again use the
+usual calendar-year horizon, since the six-quarter horizon ahead will coincide with the
+2024 calendar year, so there will be no more direct effect from the tax changes on the
+usual horizon.
+
+23. Copom started the debate by evaluating whether the previously outlined strategy
+of stable interest rates would be enough to ensure the convergence of inflation
+towards to its targets. To this end, the Committee has continued its process of analyzing
+the main determinants of the inflation path and how they have behaved in the most
+recent period. No significant change occurred in the prospective scenario for the output
+gap, but a deeper debate took place about the effects of a possible greater-than-
+projected credit tightening on economic activity. As for services inflation and inflation
+cores, increased resilience and lower speed are observed in the recent releases, in line
+with the non-linear process already anticipated by Copom. In addition, inflation
+expectations followed a deanchoring process, partially related to the questioning about
+a likely change in future inflation targets. The Committee evaluates that the credibility
+of pursued targets is a fundamental component of the inflation targeting regime and
+contributes to the proper functioning of the expectations channel, making the
+disinflation quicker and less costly. In this regard, decisions that induce a reanchoring
+of expectations would reduce the disinflationary cost and uncertainties associated with
+this process.
+
+24. The changes in the Copom’s inflation projections have been primarily affected by
+changes in expectations, as in its previous meeting. Finally, in the balance of risks, most
+of the debate was, on the one hand, between a greater deanchoring of inflation
+expectations in longer terms and, on the other hand, a more abrupt reduction in the
+domestic or global credit granting affecting the economic activity. Copom emphasized
+
+6 bcb.gov.br
+
+
+-----
+
+##### 253 Meeting
+ COPOM
+
+###### March 21-22
+
+
+that the monetary policy conduct, at this moment, requires serenity and patience to
+incorporate the inherent delays in the inflation control through interest rates and,
+therefore, to reach the goals in the relevant monetary policy horizon.
+
+25. Lastly, the Committee reinforced that the harmony between monetary and fiscal
+policies reduces distortions and uncertainty, facilitates the disinflationary process, and
+fosters full employment over time. In this regard, the Committee reinforces the
+importance that public and private credit granting remains at competitive interest rates
+sensitive to the Selic.
+
+**D)** **Monetary policy decision**
+
+26. Considering the assessed scenarios, the balance of risks, and the broad array of
+available information, the Copom decided to maintain the Selic rate at 13.75% p.a. The
+Committee judges that this decision is consistent with the strategy for inflation
+convergence to a level around its target throughout the relevant horizon for monetary
+policy, which includes 2023 and, to a larger degree, 2024. Without compromising its
+fundamental objective of ensuring price stability, this decision also implies smoothing
+economic fluctuations and fostering full employment.
+
+27. Taking into account the uncertainty of the scenarios, the Committee remains
+vigilant, assessing if the strategy of maintaining the Selic rate for a long period will be
+enough to ensure the convergence of inflation. The Committee emphasizes that it will
+persist until the disinflationary process consolidates and inflation expectations anchor
+around its targets, which have shown additional deterioration, especially at longer
+horizons. The Committee reinforces that future monetary policy steps can be adjusted
+and will not hesitate to resume the tightening cycle if the disinflationary process does
+not proceed as expected.
+
+28. The following members of the Committee voted for this decision: Roberto de
+Oliveira Campos Neto (Governor), Bruno Serra Fernandes, Carolina de Assis Barros,
+Diogo Abry Guillen, Fernanda Magalhães Rumenos Guardado, Maurício Costa de Moura,
+Otávio Ribeiro Damaso, Paulo Sérgio Neves de Souza, and Renato Dias de Brito Gomes.
+
+7 bcb.gov.br
+
+
+-----
+

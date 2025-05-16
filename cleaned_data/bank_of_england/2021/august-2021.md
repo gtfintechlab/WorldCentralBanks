@@ -1,0 +1,1058 @@
+# Monetary Policy Summary and minutes of the Monetary
+
+ Policy Committee meeting ending on 4 August 2021
+
+## Publication date: 5 August 2021
+
+These are the minutes of the Monetary Policy Committee meeting ending on 4 August 2021.
+
+[They are available at https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2021/august-](https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2021/august-2021)
+
+2021.
+
+The Bank of England Act 1998 gives the Bank of England operational responsibility for setting monetary policy
+
+to meet the Government’s inflation target. Operational decisions are taken by the Bank’s Monetary Policy
+
+Committee. The minutes of the Committee meeting ending on 22 September will be published on 23
+
+September 2021.
+
+
+-----
+
+### Monetary Policy Summary, August 2021
+
+The Bank of England’s Monetary Policy Committee (MPC) sets monetary policy to meet the 2% inflation target,
+
+and in a way that helps to sustain growth and employment. At its meeting ending on 4 August 2021, the
+
+Committee judged that the existing stance of monetary policy remained appropriate. The MPC voted
+
+unanimously to maintain Bank Rate at 0.1%. The Committee voted unanimously for the Bank of England to
+
+maintain the stock of sterling non-financial investment-grade corporate bond purchases, financed by the
+
+issuance of central bank reserves, at £20 billion. The Committee voted by a majority of 7-1 for the Bank of
+
+England to continue with its existing programme of UK government bond purchases, financed by the issuance
+
+of central bank reserves, maintaining the target for the stock of these government bond purchases at £875
+
+billion and so the total target stock of asset purchases at £895 billion.
+
+The Committee’s updated projections for activity and inflation are set out in the accompanying August Monetary
+
+_Policy Report. They assume that, despite the spread of the Delta variant, the impact of Covid on the UK_
+
+economy fades further over time. They are also conditioned on the market path for interest rates.
+
+Global GDP growth is estimated to have risen sharply in 2021 Q2, as Covid vaccination programmes gathered
+
+pace and restrictions were eased further. Partly reflecting the spread of the Delta variant, global growth in Q3 is
+
+expected to expand at a slower pace than anticipated in the May Report. Global price pressures have
+
+continued to build, reflecting the speed and unevenness of the recovery in activity, and disruptions to supply
+
+chains.
+
+UK GDP is expected to have risen by 5% in 2021 Q2, leaving it around 4% below its pre-pandemic level and
+
+slightly stronger than expected in the May Report. After the MPC’s previous meeting, the number of Covid
+
+cases continued to rise but has subsequently shown signs of falling back, although there has been a sharp
+
+increase in the number of people being asked to self-isolate temporarily. The majority of remaining domestic
+
+Covid restrictions have now been lifted. Faster indicators of household spending have been broadly flat, at
+
+close to pre-Covid levels, but the housing market has remained strong. GDP is expected to grow by around 3%
+
+in Q3, somewhat weaker than expected in the May Report, with a small negative impact from recent
+
+developments in the pandemic. UK GDP is projected to recover further over the remainder of the year, reaching
+
+its pre-pandemic level in 2021 Q4, with demand growth boosted by a waning impact from Covid. Further out,
+
+the pace of GDP growth is expected to slow towards more normal rates, partly reflecting the gradual tightening
+
+in the stance of announced fiscal policy.
+
+
+-----
+
+The Labour Force Survey unemployment rate was 4.8% in the three months to May, 1 percentage point higher
+
+than at the end of 2019. The inactivity rate was also 1 percentage point above its level at the end of 2019. The
+
+number of full and part-time furloughed jobs has continued to decline as demand has recovered, but remained
+
+at around 2 million at the end of June. The stock of vacancies has increased further, as have indicators of
+
+recruitment difficulties. There appear to have been difficulties in matching available jobs and workers. These
+
+frictions are for a period reducing effective supply in the economy. Overall, the MPC judges that spare capacity
+
+has been eroded over the past couple of quarters, as demand has outstripped growth in effective supply.
+
+Frictions in the labour market are judged likely to dissipate over the forecast period, boosting growth in effective
+
+supply capacity. There is uncertainty around these judgements, including how the economy will adjust to the
+
+end of the furlough scheme.
+
+Private sector regular pay in the three months to May was over 7% higher than a year earlier, and annual
+
+growth is projected to have peaked at around 8½% in 2021 Q2. Adjusted for the impact of the furlough scheme,
+
+the changing composition of employment during the pandemic and annual base effects, underlying pay growth
+
+appears to continue to be around pre-Covid rates.
+
+Twelve-month CPI inflation rose to 2.5% in June, above the MPC’s 2% target and 0.8 percentage points higher
+
+than expected in the May Report. Core CPI inflation has also risen further, to 2.3%, as building global input cost
+
+pressures have been passed through to some consumer goods prices and, to a lesser degree, the reopening of
+
+the economy has led to a pickup in some consumer services and goods prices. CPI inflation is projected to rise
+
+temporarily in the near term, to 4% in 2021 Q4, owing largely to developments in energy and other goods
+
+prices, before falling back to close to the 2% target.
+
+The Committee’s central expectation is that current elevated global and domestic cost pressures will prove
+
+transitory. Nonetheless, the economy is projected to experience a more pronounced period of above-target
+
+inflation in the near term than expected in the May Report. And, alongside temporary constraints on supply, the
+
+rapid recovery in demand has eroded spare capacity such that the economy is projected to have a margin of
+
+excess demand for a period. In the medium term, conditioned on the market path for interest rates, inflation is
+
+projected to fall back to close to the 2% target, and demand and supply are expected to return broadly to
+
+balance.
+
+The MPC has had policy guidance in place specifying that it does not intend to tighten monetary policy at least
+
+until there is clear evidence that significant progress is being made in eliminating spare capacity and achieving
+
+the 2% inflation target sustainably. Some members of the Committee judge that, although considerable
+
+progress has been made in achieving the conditions of that guidance, the conditions are not yet met fully. The
+
+other members judge that the conditions of the guidance have been met fully, but note that the guidance made
+
+clear that these have only ever been necessary not sufficient conditions for any future tightening in monetary
+
+policy.
+
+
+-----
+
+All members confirm that in judging the appropriate stance of monetary policy, the Committee will, as always,
+
+focus on the medium-term prospects for inflation, including medium-term inflation expectations, rather than
+
+factors that are likely to be transient. In particular, the Committee will not put undue weight on capacity
+
+pressures that are frictional in nature and likely to be temporary. The Committee will be monitoring closely the
+
+incoming evidence regarding developments in the labour market, and particularly unemployment, wider
+
+measures of slack and underlying wage pressures. In addition, there remain two-sided risks around the central
+
+path for inflation in the medium term. Risk management considerations continue to have some force.
+
+The Committee judges that, should the economy evolve broadly in line with the central projections in the August
+
+_Monetary Policy_ _Report, some modest tightening of monetary policy over the forecast period is likely to be_
+
+necessary to be consistent with meeting the inflation target sustainably in the medium term.
+
+At this meeting, the Committee judged that the existing stance of monetary policy remained appropriate.
+
+
+-----
+
+### Minutes of the Monetary Policy Committee meeting ending on 4 August 2021
+
+1 Before turning to its immediate policy decision, and against the backdrop of its latest economic
+
+projections, the Committee discussed: the international economy; monetary and financial conditions; demand
+
+and output; and supply, costs and prices.
+
+**The international economy**
+
+2 UK-weighted global GDP growth was estimated to have risen sharply in 2021 Q2, as Covid vaccination
+
+programmes had gathered pace and restrictions had eased further. Growth in Q2 was likely to have been
+
+somewhat stronger than projected in the May Monetary Policy Report. Partly reflecting the spread of the Delta
+
+variant, global GDP in Q3 was expected to expand at a slower pace than had been anticipated in the May
+
+_Report._
+
+3 Global price pressures had continued to build, reflecting the speed and unevenness of the recovery in
+
+global activity, supply chain disruptions, and some shortages of inputs. Some of these factors were likely to be
+
+transitory and could subsequently unwind. There had been further sharp increases in manufacturing output
+
+prices and non-oil commodity prices had also risen a little recently. The Brent oil spot price had fallen slightly
+
+since the MPC’s previous meeting, however, to around $72 per barrel, with the increased production announced
+
+by OPEC+ members on 18 July having pushed down somewhat on prices. Shipping costs had increased
+
+further, although disruption at major Chinese ports had been easing and global containerised trade flows had
+
+continued to rise.
+
+4 These factors had combined with strong demand for certain goods and services to push consumer price
+
+inflation higher in many advanced and emerging market economies (EMEs) in recent months. In the United
+
+States, core PCE inflation had ticked up to 3.5% in June, while the headline measure had remained unchanged
+
+at 4.0%. In the euro area, headline HICP inflation had increased somewhat in July, to 2.2%, although the core
+
+measure had fallen a little to 0.7%. Headline inflation in these regions was expected to fall somewhat in coming
+
+quarters, as some of the previous rises had reflected factors that were likely to be temporary, such as the
+
+contribution of energy prices and sector-specific supply and demand mismatches. In China, by contrast,
+
+consumer price inflation had remained subdued, although producer price inflation had picked up sharply.
+
+5 According to the preliminary flash estimate, euro-area GDP had grown by 2.0% in 2021 Q2, following a
+
+slight fall in Q1. This Q2 outturn was stronger than expected at the time of the MPC’s previous meeting,
+
+although it still left the level of GDP around 3% lower than immediately before the pandemic, in 2019 Q4. Led
+
+by the service sector, the euro-area composite output PMI had risen further in July, to 60.2, and the European
+
+Commission’s business confidence survey balances had also picked up again. The euro-area unemployment
+
+rate had fallen by 0.3 percentage points to 7.7% in June. Recent news on the spread of the Delta variant was
+
+likely to push down on GDP growth in Q3 compared with previous assumptions.
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 4 August 2021** 1
+
+
+-----
+
+6 According to the advance estimate, US GDP had increased by 1.6% in 2021 Q2. This was slightly weaker
+
+than expected at the time of the MPC’s previous meeting, but it had been sufficient to raise the level of GDP
+
+back above its pre-Covid peak. Within this, household spending had continued to grow robustly, with services
+
+consumption having accelerated but goods consumption growth having slowed. In the labour market, the
+
+unemployment rate was little changed at 5.9% in June, but inactivity had remained persistently high, and there
+
+were signs of elevated mismatch, with a high level of vacancies despite unemployment remaining well above its
+
+pre-Covid rate. Recent news on the spread of the Delta variant was likely to weigh on GDP growth in Q3,
+
+although mobility indices and internet searches related to social spending suggested that the impact on US
+
+economic activity was likely to be smaller than in other major advanced economies.
+
+7 In China, GDP growth had picked up to 1.3% in 2021 Q2, in line with expectations at the time of the
+
+MPC’s previous meeting, following a relatively weak expansion of 0.4% in Q1. Covid-related restrictions
+
+imposed in Guangdong province in May and June appeared to have had a fairly limited impact on aggregate
+
+economic activity. Monthly data for June had suggested some rebalancing towards private domestic demand,
+
+with retail sales and manufacturing investment strengthening, albeit with property investment moderating.
+
+8 In a number of large EMEs, there had been a sharp increase in Covid cases recently. The latest business
+
+surveys had nevertheless pointed to a mixed picture across countries, with manufacturing PMIs for July
+
+recovering in India and Turkey, but falling sharply in South Africa and Indonesia. The rollout of vaccines in
+
+EMEs continued to have been generally more limited than in many advanced economies. Given this, aggregate
+
+growth in large EMEs appeared likely to slow somewhat in the third quarter, and the economic impact from the
+
+spread of the Delta variant was expected to be more persistent than in advanced economies.
+
+9 The Committee discussed any lessons that could be learned from the economic experience of countries
+
+that had taken earlier steps to relax Covid restrictions than the United Kingdom, such as Australia, New Zealand
+
+and Israel. None of these countries provided an exact parallel to the United Kingdom’s situation, and each had
+
+had different experiences of the virus and policy responses. There were nevertheless some noteworthy
+
+features. Household savings had tended to decline from elevated rates after restrictions were lifted, but had not
+
+fallen materially below their pre-Covid levels, suggesting that there had been no rapid run-down of involuntarily
+
+accumulated savings. There had been only a gradual normalisation in the composition of consumer demand,
+
+with demand for durable goods remaining high as demand for services recovered. Governments in Australia
+
+and New Zealand appeared to have been able to withdraw support from the labour market without a sharp
+
+increase in unemployment.
+
+**Monetary and financial conditions**
+
+10 Advanced-economy longer-term government bond yields had fallen since the MPC’s previous meeting,
+
+reversing some of the increases seen earlier in the year. The main drivers of these movements appeared to
+
+have been increased concerns about Covid-related risks to the global growth outlook. The falls in yields had
+
+been accounted for primarily by real rates, with inflation compensation components having been broadly stable.
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 4 August 2021** 2
+
+
+-----
+
+11 Market-implied measures of advanced-economy policy rates had fallen a little since the MPC’s previous
+
+meeting. At its meeting on 22 July, the ECB Governing Council had left its key policy interest rates and the
+
+scale and pace of its asset purchase programmes unchanged. The Governing Council had earlier published its
+
+new monetary policy strategy, on 8 July, which had included the adoption of a symmetric 2% inflation target
+
+over the medium term. The conclusions of the strategy review had been largely in line with market
+
+expectations. At its 28 July meeting, the Federal Open Market Committee had left unchanged its target range
+
+for the federal funds rate and the pace of asset purchases.
+
+12 The market-implied path for Bank Rate that underpinned the August Monetary Policy _Report projections_
+
+rose to around 0.5% at the MPC’s three-year forecast horizon, little changed from the May Report.
+
+13 Movements in risky asset prices since the MPC’s previous meeting had been mixed. US equity prices had
+
+increased, but in the United Kingdom and euro area, they had been little changed. Although the fall in
+
+government bond yields had supported equity prices, equity risk premia had risen in all regions, possibly
+
+reflecting a perceived increase in the risk posed by Covid to the economic outlook. Equity prices related to
+
+companies in industries that had been most exposed to Covid, such as airlines, had continued to underperform
+
+headline indices.
+
+14 The sterling effective exchange rate had been broadly stable since the previous MPC meeting.
+
+15 Credit supply conditions for households had loosened since the Committee’s previous meeting,
+
+particularly for mortgage lending, for which much of the tightening that had occurred since the onset of the
+
+pandemic had unwound. Spreads on fixed-term mortgages had continued to fall. Net secured lending to
+
+households had risen to an all-time high of £17.9 billion in June. This strength was in large part due to an
+
+elevated number of property transactions completing before the tapering in July of the temporary stamp duty
+
+threshold in England and Northern Ireland, and the removal of the similar tax change in Wales. The net flow of
+
+consumer credit had continued to be slightly positive in June, having edged up gradually over the previous few
+
+months.
+
+16 While credit conditions for small and medium-sized enterprises had tightened in 2021 Q2 with the ending
+
+of some government lending schemes, conditions for the corporate sector overall had been little changed, and
+
+were looser than expected in the May Report.
+
+**Demand and output**
+
+17 UK GDP was estimated to have risen by 0.8% in May, slightly weaker than had been expected by Bank
+
+staff immediately prior to the release. Within this, consumer-facing services output had increased by around 5%
+
+on the month, reflecting the reopening of indoor hospitality and non-self-contained accommodation. Private
+
+business-to-business services, construction and manufacturing output in May had been weaker than expected,
+
+however. In particular, there had been some evidence of global supply chain disruptions weighing on UK
+
+activity, with a shortage of semiconductor microchips leading to a sharp fall in car production. For the second
+
+quarter as a whole, Bank staff continued to expect GDP to have been slightly stronger than forecast at the time
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 4 August 2021** 3
+
+
+-----
+
+of the May Monetary Policy Report. The August Report projections incorporated 2021 Q2 quarterly growth of
+
+5%, which would have left GDP around 4% below its level in 2019 Q4, prior to the pandemic.
+
+18 After the MPC’s previous meeting, the number of Covid cases had continued to increase but had
+
+subsequently shown signs of falling back, although there had been a sharp increase in the number of people
+
+asked to self-isolate temporarily through various channels. The number of hospitalisations of Covid patients
+
+and, in particular, deaths within 28 days of testing positive for Covid had risen to a lesser degree than during
+
+previous waves of the pandemic. The vaccination programme had continued. The majority of remaining
+
+domestic Covid restrictions had been lifted in England on 19 July, and were planned to be relaxed to a similar
+
+degree in Wales on 7 August and in Scotland on 9 August. Restrictions in Northern Ireland had been lifted
+
+progressively in late July.
+
+19 Having picked up strongly in April and May, immediately following the reopening of the economy, faster
+
+indicators of household spending, such as CHAPS payments data, had been broadly flat in June and July, at
+
+levels close to those immediately before the pandemic. Measures of consumer confidence had also stabilised.
+
+Official retail sales volumes had risen by 0.5% in June, following a 1.3% fall in May, and leaving the level of
+
+sales around 9% above its 2019 Q4 level. Private new car registrations had risen slightly in June, to around
+
+their pre-pandemic levels.
+
+20 Residential property transactions had picked up significantly in June, to 198,000 from 114,000 in May, as
+
+buyers had completed transactions before the tapering in July of the temporary stamp duty threshold in England
+
+and Northern Ireland, and the removal of the similar tax change in Wales. The number of mortgage approvals
+
+for house purchase had fallen slightly in June, however, to 81,300. The UK house price index had risen by
+
+0.5% in May, taking the inflation rate in the three months to May compared to the same period a year earlier to
+
+around 10%. Timelier indicators had suggested some ongoing strength in house price inflation in the near term,
+
+with surveys and intelligence from the Bank’s Agents continuing to point to demand running ahead of supply.
+
+21 The ONS Business Insights and Conditions Survey suggested that the share of UK companies open for
+
+trading had increased slightly further since the MPC’s previous meeting, although that share appeared to have
+
+stabilised at around 90% in the most recent data. There had been tentative signs that rising Covid cases and
+
+the number of individuals self-isolating had affected workplace mobility in some areas. Evidence from both
+
+manufacturing and services PMI surveys suggested that there remained substantial backlogs of work. The
+
+Bank’s Agents had also reported constraints on output from frictions in both global and domestic supply chains,
+
+shortages of heavy goods vehicle delivery drivers and restrictions in labour supply. Official trade data for May
+
+had continued to show that goods imports from the European Union had been weaker than imports from non
+EU countries.
+
+22 Companies’ expectations of the near-term impact of Covid on business investment had been at similar
+
+levels in the July Decision Maker Panel survey as in the May survey that the Committee had had available at its
+
+previous meeting. Firms expected investment in 2021 Q3 to be around 6% lower than it would otherwise have
+
+been, and around 3% lower in 2021 Q4. Agency contacts had reported that companies in several sectors were
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 4 August 2021** 4
+
+
+-----
+
+expecting to resume investment projects that had been put on hold during the pandemic, particularly in sectors
+
+in which demand was outpacing capacity.
+
+23 Overall, GDP was expected to grow by around 3% in 2021 Q3 in the August Report projection, compared
+
+with just over 4% in the May Report. Despite the upside news in activity anticipated for the second quarter, this
+
+meant that the level of GDP was projected to be slightly lower in the third quarter than at the time of the May
+
+_Report, with a small negative impact expected from recent developments in the pandemic._
+
+24 The Committee discussed the risks around the near-term outlook for GDP. The impact of the Delta
+
+variant could, against a counterfactual of stronger growth, already be having a larger negative impact on activity
+
+than the Committee was assuming, including via voluntary social distancing. If the recent moderation in Covid
+
+cases persisted then that could lead to stronger-than-expected growth further out, however. And it was not
+
+clear to what extent voluntary social distancing was affecting spending at an aggregate level if consumption
+
+could now be substituted away more easily from activities considered riskier from a health perspective. But
+
+some levelling off in many indicators of spending had occurred before the latest pickup in cases and so it was
+
+also possible that the flattening in consumer spending over recent months had simply reflected an easing of the
+
+initial release of pent-up demand. This had also been observed in countries that had reopened earlier than the
+
+United Kingdom.
+
+**Supply, costs and prices**
+
+25 The Labour Force Survey (LFS) unemployment rate had fallen from 5.2% in 2020 Q4 to 4.8% in the three
+
+months to May, although it had remained 1 percentage point higher than at the end of 2019. The LFS inactivity
+
+rate was also around 1 percentage point higher than it had been before the pandemic. LFS responses since the
+
+beginning of 2020 had been reweighted using population weights informed by HMRC payrolls data. The revised
+
+LFS estimates were now consistent with a broadly stable population aged 16 and over, and had shown a slightly
+
+steeper decrease in the employment rate relative to earlier estimates for the period. HMRC payroll figures had
+
+continued to show a much steeper decline in the number of employees during 2020 than implied by the LFS, but
+
+had also shown a sharper recovery since the turn of the year. The HMRC series had increased by around a
+
+further 350,000 between May and June, although it was still around 200,000 lower than in February 2020.
+
+26 The number of jobs furloughed under the Coronavirus Job Retention Scheme (CJRS) had fallen by
+
+around 600,000 during June, to just under 1.9 million by the end of the month, equivalent to around 8% of
+
+private sector jobs. The latest data from the ONS Business Insights and Conditions Survey, scaled to match the
+
+administrative estimates, had suggested that around 6% of private sector jobs were furloughed in the first half of
+
+July, of which 55% of these jobs were held by employees on a flexible form of furlough that allowed them to
+
+have undertaken some work with their employer. The proportion of salary for furloughed hours covered by the
+
+government had been tapered from 80% to 70% in July and to 60% from 1 August, with employers required to
+
+top up to 80%.
+
+27 The increases in unemployment, inactivity and the number of jobs furloughed since the onset of the
+
+pandemic suggested a material amount of labour market slack. Other indicators pointed to the labour market
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 4 August 2021** 5
+
+
+-----
+
+having been tighter, however. The stock of vacancies had increased further in June, to almost 20% above its
+
+2019 average, such that the single-month ratio of vacancies to unemployment had returned to its level in early
+
+2020. The latest Bank’s Agents’ score for recruitment difficulties had also risen sharply to close to its pre
+pandemic level, and the index of staff availability in the REC Report on Jobs had reached a record low in June.
+
+The speed and scale of the recovery in labour demand had contributed to increasing recruitment difficulties. In
+
+addition, there appeared to have been difficulties in matching available jobs and workers, perhaps reflecting
+
+disparities across geographical areas. In recent weeks, some of the Agents’ contacts had also reported a
+
+significant number of employees self-isolating for a period, contributing to temporary labour shortages.
+
+28 Private sector regular Average Weekly Earnings (AWE) had risen by 7.2% in the three months to May on
+
+a year earlier, and the annual rate was projected to have peaked at around 8½% in 2021 Q2 in the August
+
+_Monetary Policy Report forecast. Annual AWE growth rates had been boosted by base effects, reflecting the_
+
+marked drop in pay in 2020 Q2. The recent strength had also reflected significant compositional effects, with
+
+the jobs lost during the pandemic skewed towards lower-paid roles. Adjusted for the effects of the CJRS and
+
+changes in composition, Bank staff estimated that private sector regular pay had risen by an annualised rate of
+
+2¾% since 2019 Q4, including 4% annualised growth in the first half of this year, the latter of which was around
+
+the rates seen prior to the pandemic. There was a lot of uncertainty around these estimates, however. The
+
+Agents had also reported a pickup in pay settlements, and signs of pay pressures emerging more broadly, with
+
+a number of contacts reviewing pay structures or giving targeted pay increases or bonuses.
+
+29 Twelve-month CPI inflation had risen from 2.1% in May to 2.5% in June, 0.8 percentage points higher than
+
+projected in the May Report. Similarly, core CPI inflation, excluding food, beverages, tobacco and energy, had
+
+risen from 2.0% to 2.3%. The bulk of the news had been in core goods components, such as cars and clothing
+
+and footwear, with some additional upside news in services, and catering prices in particular, and to a lesser
+
+degree energy prices. Goods prices had increased globally, reflecting strong demand for goods and supply
+
+shortages. Some of the recent strength in CPI inflation might have also been related to the initial reopening of
+
+some sectors of the economy.
+
+30 CPI inflation was projected to rise further in the near term, to around 4% in 2021 Q4. Almost half of the
+
+projected increase was accounted for by higher energy price inflation. At the same time, core CPI inflation was
+
+projected to rise to around 3%. The Agents’ contacts had reported further increases in the costs of a wide
+
+range of materials and commodities, and higher-than-usual freight and warehousing costs, with such costs
+
+having been passed through to consumer prices to a greater extent than earlier in the year. Price and cost
+
+indicators, such as the manufacturing input and output PMIs, had remained high since the MPC’s June meeting,
+
+and in some cases had strengthened further, posing a potential upside risk to the short-term inflation forecast
+
+alongside increasing labour cost pressures. UK import prices had picked up less strongly than these other cost
+
+measures would suggest, however, albeit by more than might have been expected given developments in world
+
+export prices and the sterling exchange rate. To the extent that CPI inflation had been boosted initially by the
+
+lifting of restrictions, there was the potential for such inflationary pressures to moderate as demand settled
+
+down.
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 4 August 2021** 6
+
+
+-----
+
+31 Companies’ expectations of inflation one and two years ahead had increased, according to a range of
+
+business surveys, including the latest Deloitte CFO and CBI surveys and the July Decision Maker Panel. One
+year ahead financial market and professional forecasters’ inflation expectations had also risen in 2021 Q2, and
+
+the Citi/YouGov measure of household one-year ahead inflation expectations had risen in July, having fallen a
+
+little in Q2. Short-term household measures tended to be correlated with inflation outturns, so it was possible
+
+that they would increase somewhat further alongside the expected rise in CPI inflation over the coming months.
+
+Medium-term measures of inflation expectations were expected to be more stable in the face of a temporary
+
+shock to inflation. The Citi/YouGov five-year ahead measure of inflation expectations had remained unchanged
+
+in July. Medium-term financial market measures of UK inflation compensation, such as the five-year inflation
+
+swap rate, five years forward, had been broadly stable since the MPC’s previous meeting, at a little above their
+
+average levels over the previous decade.
+
+**The immediate policy decision**
+
+32 The MPC sets monetary policy to meet the 2% inflation target, and in a way that helps to sustain growth
+
+and employment.
+
+33 The Committee reviewed recent developments against the backdrop of its latest economic projections as
+
+set out in the accompanying August Monetary Policy Report. Those projections assumed that, despite the
+
+spread of the Delta variant, the impact of Covid on the UK economy faded further over time. They were also
+
+conditioned on the market path for interest rates.
+
+34 Global GDP growth was estimated to have risen sharply in 2021 Q2, as Covid vaccination programmes
+
+had gathered pace and restrictions had been eased further. Partly reflecting the spread of the Delta variant,
+
+global GDP in Q3 was expected to expand at a slower pace than had been anticipated in the May Report. In
+
+the August Report projections, UK-weighted world GDP continued to rise robustly in the near term, as the
+
+impact of Covid continued to wane, supported by vaccination programmes. The pace of the expansion in global
+
+GDP slowed over 2022, with growth returning to around pre-Covid rates in the latter years of the forecast
+
+period.
+
+35 Global price pressures had continued to build, reflecting the speed and unevenness of the recovery in
+
+activity, and disruptions to supply chains. These developments had been reflected in world export price
+
+inflation, which had picked up sharply. Such trends could persist for a period, particularly if supply chains were
+
+vulnerable to further Covid-related disruptions. The strength in global inflationary pressures was expected to be
+
+transitory in the Committee’s central projections, however. And it was possible that price pressures could prove
+
+to be weaker than expected in the medium term, as previous periods of elevated tradable goods prices had
+
+often been followed by periods of relatively low inflation, possibly because supply had adjusted only with a lag.
+
+36 Advanced-economy longer-term government bond yields had fallen since the MPC’s previous meeting,
+
+possibly reflecting concerns about Covid-related risks to global growth. The falls in yields had been accounted
+
+for primarily by real rates, with inflation compensation components having been broadly stable. Movements in
+
+risky asset prices globally had been mixed. Credit supply conditions for UK households had loosened,
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 4 August 2021** 7
+
+
+-----
+
+particularly for mortgage lending, for which much of the tightening that had occurred since the onset of the
+
+pandemic had unwound.
+
+37 As of 4 August 2021, the total stock of assets held in the Asset Purchase Facility had reached £845 billion,
+
+including £100 billion of the £150 billion programme of UK government bond purchases announced on 5
+
+November 2020.
+
+38 UK GDP was expected to have risen by 5% in 2021 Q2, leaving it around 4% below its pre-pandemic level
+
+and slightly stronger than expected in the May Report.
+
+39 After the MPC’s previous meeting, the number of Covid cases in the United Kingdom had continued to rise
+
+but had subsequently shown signs of falling back, although there had been a sharp increase in the number of
+
+people being asked to self-isolate temporarily. The majority of remaining domestic Covid restrictions had now
+
+been lifted.
+
+40 Faster indicators of household spending had been broadly flat, at close to pre-Covid levels, but the
+
+housing market had remained strong. There was some evidence of constraints on output from frictions in
+
+supply chains, and restrictions in labour supply. GDP was expected to grow by around 3% in 2021 Q3,
+
+somewhat weaker than expected in the May Report, with a small negative impact from recent developments in
+
+the pandemic. In the near term, the risks to GDP were judged to be skewed to the downside of the central
+
+forecast, as there could be an impact on UK and global activity from a renewed rise in Covid cases, especially if
+
+any new variants of the virus emerged for which vaccine efficacy was significantly lower.
+
+41 UK GDP was projected to recover further over the remainder of the year, reaching its pre-pandemic level
+
+in 2021 Q4, with demand growth boosted by a waning impact from Covid. Further out, the pace of GDP growth
+
+was expected to slow towards more normal rates. Over the forecast period, consumption was supported by
+
+households running down around 10% of the additional savings they had accumulated in aggregate while
+
+spending on some activities had been restricted. Fiscal policy was estimated to continue to support UK demand
+
+in the near term, with the policy stance tightening gradually over time in line with government announcements.
+
+42 The Labour Force Survey unemployment rate had been 4.8% in the three months to May, 1 percentage
+
+point higher than at the end of 2019. The inactivity rate had also been 1 percentage point above its level at the
+
+end of 2019. The number of full and part-time furloughed jobs had continued to decline as demand had
+
+recovered, but had remained at around 2 million at the end of June. The stock of vacancies had increased
+
+further, as had indicators of recruitment difficulties. There appeared to have been difficulties in matching
+
+available jobs and workers. These frictions were for a period reducing effective supply in the economy,
+
+suggesting that the unemployment rate consistent with stabilising wage growth at rates in line with meeting the
+
+inflation target was at present higher than prior to the pandemic. Overall, the MPC judged that spare capacity
+
+had been eroded over the past couple of quarters, as demand had outstripped growth in effective supply.
+
+Frictions in the labour market were judged likely to dissipate over the forecast period, boosting growth in
+
+effective supply capacity. There was uncertainty around these judgements, including how the economy would
+
+adjust to the end of the furlough scheme.
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 4 August 2021** 8
+
+
+-----
+
+43 In the near term, excess demand was projected to emerge in the August Report projections, as the pickup
+
+in demand was projected to continue to be a little more rapid than that of supply. Over 2022, however, as
+
+supply growth slowed by a little less than demand growth, excess demand was eroded. Demand and supply
+
+returned broadly to balance in the third year of the forecast period.
+
+44 There were two-sided risks around the MPC’s assumptions about the degree to which the economy would
+
+need to adjust in the medium term in response to the pandemic, and hence its projections for supply growth.
+
+One possibility was that the composition of demand would normalise and that any sectoral re-adjustment on the
+
+supply side might be relatively quick. Alternatively, a larger reallocation of labour within or across sectors or
+
+geographic areas might be required, resulting in more persistent mismatches between supply and demand.
+
+45 Private sector regular pay in the three months to May had been over 7% higher than a year earlier, and
+
+annual growth was projected to have peaked at around 8½% in 2021 Q2. Adjusted for the impact of the
+
+furlough scheme, the changing composition of employment during the pandemic and annual base effects,
+
+underlying pay growth appeared to continue to be around pre-Covid rates.
+
+46 Twelve-month CPI inflation had risen to 2.5% in June, above the MPC’s 2% target and 0.8 percentage
+
+points higher than had been expected in the May Report. Core CPI inflation had also risen further, to 2.3%, as
+
+building global input cost pressures had been passed through to some consumer goods prices and, to a lesser
+
+degree, the reopening of the economy had led to a pickup in some consumer services and goods prices.
+
+47 CPI inflation was projected to rise temporarily in the near term, to 4% in 2021 Q4, 1.5 percentage points
+
+higher than had been expected in the May Report, and owing largely to developments in energy and other
+
+goods prices. Above-target inflation was expected to be transitory in the August Report projections, as
+
+commodity prices were assumed to stabilise, supply shortages were assumed to ease and global demand to
+
+rebalance away from goods and back towards services. As a result, CPI inflation was expected to fall back and
+
+was projected to return to close to the 2% target in the medium term.
+
+48 There were two-sided risks around this central path for inflation. On the downside, for example, there
+
+could be larger-than-expected supply responses in commodity and other global markets, pushing down on
+
+future input prices and import costs. On the upside, current elevated inflationary pressures could potentially
+
+lead to some second-round effects on consumer prices. Taking together the evidence from financial market
+
+measures and surveys of households, businesses and professional forecasters, the Committee judged that UK
+
+inflation expectations remained well anchored. The Committee would continue to monitor the risk that domestic
+
+and global demand and cost pressures could affect medium-term inflation expectations.
+
+49 The Committee turned to its immediate policy decision.
+
+50 The Committee’s central expectation was that current elevated global and domestic cost pressures would
+
+prove transitory. Nonetheless, the economy was projected to experience a more pronounced period of above
+target inflation in the near term than had been expected in the May Report. And, alongside temporary
+
+constraints on supply, the rapid recovery in demand had eroded spare capacity such that the economy was
+
+projected to have a margin of excess demand for a period. In the medium term, conditioned on the market path
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 4 August 2021** 9
+
+
+-----
+
+for interest rates, inflation was projected to fall back to close to the 2% target, and demand and supply were
+
+expected to return broadly to balance.
+
+51 The MPC had, since the second half of 2020, had policy guidance in place specifying that it did not intend
+
+to tighten monetary policy at least until there was clear evidence that significant progress was being made in
+
+eliminating spare capacity and achieving the 2% inflation target sustainably. The Committee discussed whether
+
+the conditions of that guidance had now been met, taking account of both the August Report projections and
+
+recent developments in economic data.
+
+52 Some members of the Committee judged that, although considerable progress had been made in
+
+achieving the conditions of the MPC’s existing policy guidance, the conditions were not yet met fully. In
+
+particular, they judged that it was not sufficiently clear that the economy was on a path to meet the inflation
+
+target sustainably, given the remaining downside risks from Covid, and the judgement of these members that
+
+GDP and employment were materially below their medium-term potential.
+
+53 The other members of the Committee judged that the conditions of the existing policy guidance had been
+
+met fully, as demonstrated by developments in economic data and the latest central projections for spare
+
+capacity and CPI inflation in the August Report, but noted that the guidance had made clear that these had only
+
+ever been necessary not sufficient conditions for any future tightening in monetary policy.
+
+54 All members confirmed that in judging the appropriate stance of monetary policy, the Committee would, as
+
+always, focus on the medium-term prospects for inflation, including medium-term inflation expectations, rather
+
+than factors that were likely to be transient. In particular, the Committee would not put undue weight on
+
+capacity pressures that were frictional in nature and likely to be temporary. The Committee would be monitoring
+
+closely the incoming evidence regarding developments in the labour market, and particularly unemployment,
+
+wider measures of slack and underlying wage pressures. In addition, there remained two-sided risks around the
+
+central path for inflation in the medium term. Risk management considerations continued to have some force.
+
+55 At this meeting, most members of the Committee judged that the existing stance of monetary policy, which
+
+included the previously announced £150 billion increase in the target stock of purchased assets, remained
+
+appropriate.
+
+56 For one member, the economic outlook warranted a reduction in the scale of monetary policy stimulus at
+
+this MPC meeting. This member preferred to stop the current asset purchase programme as soon as practical
+
+after this meeting rather than continue it until around the end of the year, as currently planned. This member
+
+judged that, with the existing policy stance, inflation was likely to remain above the 2% target two and three
+
+years ahead. This reflected the prospect of a larger and more persistent level of excess demand in the United
+
+Kingdom and a greater impact from global cost pressures than in the central forecast in the August Report.
+
+Moreover, continuing with asset purchases when CPI inflation was 4% and the output gap was closed, as was
+
+likely to be the situation later this year, might cause medium-term inflation expectations to drift higher. A modest
+
+tightening of monetary policy at this meeting would mitigate these risks, which otherwise might ultimately
+
+necessitate a more abrupt subsequent tightening in policy and hence a greater adjustment in growth and
+
+employment.
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 4 August 2021** 10
+
+
+-----
+
+57 The Committee judged that, should the economy evolve broadly in line with the central projections in the
+
+August Monetary Policy Report, some modest tightening of monetary policy over the forecast period was likely
+
+to be necessary to be consistent with meeting the inflation target sustainably in the medium term.
+
+58 The Chair invited the Committee to vote on the propositions that:
+
+Bank Rate should be maintained at 0.1%;
+
+The Bank of England should maintain the stock of sterling non-financial investment-grade corporate bond
+
+purchases, financed by the issuance of central bank reserves, at £20 billion;
+
+The Bank of England should continue with its existing programme of UK government bond purchases,
+
+financed by the issuance of central bank reserves, maintaining the target for the stock of these purchases
+
+at £875 billion.
+
+The Committee voted unanimously in favour of the first and second propositions.
+
+Seven members (Andrew Bailey, Ben Broadbent, Jon Cunliffe, Jonathan Haskel, Dave Ramsden, Silvana
+
+Tenreyro and Gertjan Vlieghe) voted in favour of the third proposition. One member (Michael Saunders) voted
+
+against this proposition, preferring to reduce the target for the stock of UK government bond purchases from
+
+£875 billion to £830 billion.
+
+**Operational considerations**
+
+59 The existing programme of £150 billion of UK government bond purchases had started in January and its
+
+completion was expected by around the end of 2021. Further details of the planned operational approach to gilt
+
+purchases between the August and December MPC meetings were set out in the Market Notice accompanying
+
+these minutes. Should market functioning worsen materially, the Bank of England stood ready to increase the
+
+pace of purchases to ensure the effective transmission of monetary policy.
+
+60 In addition, and as also described in the Market Notice accompanying these minutes, the Committee
+
+agreed to reinvest £16.6 billion of cash flows associated with the redemptions of the September 2021 gilt held
+
+by the Asset Purchase Facility.
+
+61 The Committee would keep the asset purchase programme under review. If needed, there was scope for
+
+the Bank of England to re-evaluate the existing technical parameters of the gilt purchase programme.
+
+**The MPC’s monetary policy toolkit**
+
+62 In its February 2021 minutes, the Committee had requested that the PRA should engage with PRA
+regulated firms to ensure they commenced preparations in order to be ready to implement a negative Bank Rate
+
+at any point after six months. The MPC had also requested that Bank staff should commence internal technical
+
+preparations to deliver the option of a tiered system of reserve remuneration that could be ready to be
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 4 August 2021** 11
+
+
+-----
+
+implemented, should it be judged appropriate, alongside a negative Bank Rate. As the Committee had stressed
+
+in February, these preparations should not be interpreted as a signal that the setting of a negative Bank Rate
+
+was imminent, or in prospect at some specific time. At its August meeting, the Committee had been briefed that
+
+technical preparations internally and by PRA-regulated firms had progressed sufficiently that a negative Bank
+
+Rate could be implemented by the system as a whole, with or without tiered reserve account remuneration, if
+
+warranted.
+
+63 In Box A of the accompanying August Monetary Policy Report, the Committee had set out its updated
+
+strategy for the mix of its monetary policy tools and its intended approach to using the instruments in its toolkit to
+
+deliver any tightening in the overall stance of policy, should that be required. The path of Bank Rate and the
+
+stock of purchased assets over the next few years would depend on economic developments. The overall
+
+stance of monetary policy would, as always, be set to meet the 2% inflation target, and in a way that helped
+
+sustain growth and employment.
+
+64 Finally, on behalf of the Committee, the Chair expressed his appreciation to Gertjan Vlieghe for his
+
+contributions to the work of the MPC since becoming a member in 2015.
+
+65 The following members of the Committee were present:
+
+Andrew Bailey, Chair
+Ben Broadbent
+Jon Cunliffe
+Jonathan Haskel
+Dave Ramsden
+Michael Saunders
+Silvana Tenreyro
+Gertjan Vlieghe
+
+Clare Lombardelli was present as the Treasury representative.
+
+As permitted under the Bank of England Act 1998, as amended by the Bank of England and Financial Services
+
+Act 2016, Bradley Fried was also present on 2 August, as an observer, for the purpose of exercising oversight
+
+functions in his role as a member of the Bank’s Court of Directors.
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 4 August 2021** 12
+
+
+-----
+

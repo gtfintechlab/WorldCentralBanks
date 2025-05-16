@@ -1,0 +1,94 @@
+# Press Release MONETARY PROGRAM FOR NOVEMBER 2006
+ CENTRAL BANK MAINTAINS REFERENCE RATE AT 4.50%
+
+1. The Board of the Central Bank approved to maintain the reference interest
+rate for the interbank market at 4.50 percent, considering that::
+
+a. Inflation continues to be at the lower band of the announced target range
+(1.5 – 2.5 percent), as a result of which the estimated evolution of inflation
+described in the Inflation Report of September stands. Thus, in the 20062007 forecast horizon, inflation would temporarily settle at the lower band
+of the target range –due to the reversal of the increase in the price of
+some food products–, converging gradually to 2.5 percent.
+
+b. The risks described in our previous Inflation Report persist. A higher
+growth of domestic demand –should it not be coupled by the growth of
+investment or productivity– would generate upward pressures on inflation.
+In this context, the Central Bank will continue to evaluate all relevant
+macroeconomic information to guarantee that the necessary measures
+are in place to maintain inflation within the target range (1.5 percent – 3.5
+percent) in the medium term.
+
+2. This decision has been made taking into account the following
+information:
+
+a. The Consumer Price Index of Metropolitan Lima (CPI) increased
+0.04 percent in October. In this way, the CPI inflation rate over the last
+twelve months was 1.89 percent, within the target range announced for
+inflation. On the other hand, core inflation was 0.06 percent,
+accumulating a last-12-month change of 1.45 percent.
+
+b. Maintaining the dynamic performance it has exhibited so far this year,
+economic activity is estimated to have grown 8.7 percent in the third
+quarter, driven by domestic demand, which is estimated to have grown
+10.5 percent in the same period. Private consumption, on the other
+hand, would have grown 6.3 percent in the third quarter, while private
+investment would have grown 16.5 percent. These evolutions have
+taken place in a favorable context supported by consumer and business
+confidence.
+
+c. The average interest rate in the interbank market was 4.50 percent in
+October (similar to the reference rate), while the 90-day corporate prime
+rate in soles decreased to 5.31 percent, posting 3 bps. less than in
+September.
+
+
+-----
+
+d. The country risk indicator recorded 150 bps. at the close of October, a
+lower level than the one posted at the close of September (171 bps). On
+the other hand, the yield on the 20-year sovereign decreased for the fifth
+consecutive month, falling from 7.4 to 6.9 percent in October.
+
+e. Moreover, in October, the nominal average exchange rate decreased
+0.3 percent with respect to September, and the real exchange rate
+declined 0.2 percent. The nominal exchange closed at S/. 3.24 per
+dollar.
+
+During the month of October, banks’ net forward sales of foreign
+currency decreased by US$ 526 million; net sales of foreign currency to
+banks on the spot market amounted to US$ 152 million; and banks
+exchange position decreased by US$ 25 million. In this scenario, the
+BCRP intervened in the exchange market purchasing US$ 696 million,
+of which US$ 120 million were sold to the Public Treasury.
+
+3. The Board of the BCRP approved the following interest rates for active
+and passive operations of both the BCRP and the financial system:
+
+a. For direct repo and rediscount operations, the rate continues to be 5.25
+percent.
+b. For overnight deposits, the rate continues to be 3.75 percent.
+
+Likewise, the interest rates for the following operations in dollars between the
+Central Bank and the financial system are established as follows:
+
+a. Rediscount operations: 1-month LIBOR plus one percentage point.
+
+b. Overnight deposits: overnight LIBOR minus 3/8 of a percentage point.
+
+c. Swap: the commission continues to be at a level that implies a minimum
+annual effective cost of 5.25 percent.
+
+d. Reserve requirements in foreign deposits subject to payment: the rate
+continues to be 2.5 percent.
+
+4. In addition to this, the Board decided to initiate the required procedures
+to increase the maximum limit of investments abroad from 10.5 percent
+to 12.0 percent for Private Administrators of Pension Funds
+(Administradoras Privadas de Fondos de Pensiones).
+
+5. The Board will approve the following Monetary Program (for the month of
+December 2006) in its meeting of December 7, 2006.
+
+
+-----
+

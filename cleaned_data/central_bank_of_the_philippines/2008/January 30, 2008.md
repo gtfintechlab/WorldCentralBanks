@@ -1,0 +1,513 @@
+# 2
+
+
+**HIGHLIGHTS OF THE MEETING OF THE MONETARY BOARD ON**
+
+**MONETARY POLICY ISSUES HELD ON 31 JANUARY 2008***
+
+
+The Advisory Committee[1] submitted the following recommendations
+for the consideration of the Monetary Board:
+
+� Adjust the current monetary policy settings as follows:
+
+(a) Adjust the BSP’s policy interest rates downward by 25 basis points to
+5.00 percent for the overnight RRP (borrowing) rate and 7.00 percent
+for the overnight RP (lending) rate;
+
+(b) Adjust the current interest rates on term RRPs, RPs, and SDAs
+accordingly; and
+
+(c) Maintain the current reserve requirement ratios
+
+Further easing of the monetary policy stance was recommended
+based on the following assessments:
+
+(a) A generally benign inflation path over the policy horizon;
+
+(b) The balance of risks to the inflation outlook has remained
+manageable, both on the supply and demand side;
+
+(c) A modest cut can help reassure financial markets that the BSP is
+confident of the inflation outlook, enabling the BSP to digest
+information on the outcome of recent moves as well as global
+developments; and
+
+(d) It will help support domestic demand in the face of a slowdown in
+global growth.
+
+- The discussion presented herein reflects the assessment made by the Monetary Board based on the
+information available at the time of the policy meeting. The highlights of the discussions of the 31 January
+2008 meeting were approved by the Monetary Board during its regular meeting held on 14 February 2008.
+1 The Advisory Committee is composed of the Governor of the BSP as Chairman and four members,
+namely: the Deputy Governor for the Monetary Stability Sector, the Deputy Governor for Supervision and
+Examination Sector, the Managing Director of the Treasury Department, and the Managing Director of the
+Monetary Policy Sub-sector. Effective 21 January 2008, the Director of the Department of Economic
+Research is no longer a member of the Advisory Committee but continues to serve as Head of the
+Technical Secretariat.
+
+**Page 1 of 10**
+
+
+-----
+
+# 2
+
+
+The Monetary Board then proceeded to review the recent
+developments and the key considerations in the formulation of the BSP’s
+monetary policy stance.
+
+**Review of Recent Developments**
+
+**A. Domestic price conditions**
+
+? Headline inflation increased to 3.9 percent in December from 3.2
+percent in November. Inflation pressures in December were traced
+mainly to supply shocks, including increases in the prices of food, fuel,
+light and water, and energy-related services. Inflation averaged 2.8
+percent for 2007, well below the 4.0-5.0 percent target range for the
+year and was the lowest annual average in 21 years.
+
+? Core inflation, which excludes selected food and energy products, was
+also higher in December. The official core inflation measure published
+by the National Statistics Office (NSO) rose to 2.6 percent in
+December from 2.3 percent in November.
+
+**B. Demand conditions**
+
+? Gross Domestic Product (GDP) increased by 6.6 percent in Q3 2007.
+While this was slower than the 7.1- and 7.5-percent growth posted in
+the first two quarters, this was faster compared to the 5.1 percent
+growth in the comparable period last year. GDP growth was boosted
+by household spending and capital investments on the expenditure
+side, and by the services sector from the production side.
+
+? Year-to-date GDP growth was 7.1 percent, higher than the upper end
+of the Government’s full-year growth target of 6.1-6.7 percent.
+
+? A new upward phase of the business cycle has begun in Q1 2007 as
+validated by actual GDP growth of 7.1 percent. The upward business
+cycle path continued up to Q3 2007 as expected, with GDP growing
+by 6.6. percent, higher than the 5.1-percent growth in the same period
+in 2006.
+
+? Based on the Balance of Payments (BOP) data, imports of goods rose
+by 8.7 percent year-on-year to US$15.0 billion in Q3 2007. Although
+still slightly lower than the levels posted in the same quarter last year
+at 9.6 percent, the imports growth in Q3 2007 was higher compared
+to the 4.4 percent growth in the previous quarter.
+
+? Total exports of goods based on the BOP increased marginally by 1.6
+percent in Q3 2007 to US$12.5 billion. This was a slowdown from the
+quarter- and year-ago growth of 4.8 percent and 17.1 percent,
+
+**Page 2 of 10**
+
+
+-----
+
+# 2
+
+
+respectively. The weak export earnings for the period can be traced
+to the slowdown in manufactures exports particularly of key products
+such as electronics and garments which account for almost 70 percent
+of total export revenues.
+
+? Selected indicators of demand continued to indicate a broad
+strengthening trend.
+
+� The latest report from Colliers showed that land values in Q3 2007
+rose by 24.2 percent year-on-year for the Makati Central Business
+District (CBD) and 17.9 percent year-on-year for Ortigas Center.
+
+� Passenger car sales grew although at a slower pace of 4.3 percent
+year-on-year in December, compared to the 14.8 percent growth in
+the same period last year and the previous month’s sales growth
+of 9.0 percent. Year-to-date sales, likewise, went up by 7.2
+percent, slightly lower than the 7.9 percent growth in the
+comparable period last year.
+
+� Commercial vehicles sales growth accelerated by 31.3 percent
+year-on-year in December compared to 22.2 percent in November.
+Year-to-date growth of commercial vehicles also rose by 26.1
+percent.
+
+� The sales of trucks and buses further decreased by 11.3 percent
+year-on-year in December, relative to the 9.6 percent decline in
+the previous month, and reversing the 36.1 percent growth
+registered in the same period last year. Year-to-date sales rose by
+13.6 percent in December, reflecting a slight slowdown from the
+16.4 percent growth registered in the same period last year.
+
+� Energy sales of Meralco increased although at a slower pace of
+1.0 percent year-on-year in November relative to the 3.8 percent
+increase in the same month last year and 10.9 percent in October.
+Nonetheless, year-to-date energy sales rose by 5.0 percent,
+higher than 0.9 percent posted in the comparable period last year.
+
+� Retail sales recorded significant expansion during the period
+January-August at P88.5 billion, reflecting a 40.5 percent growth
+against the 27.9 percent recorded in the same period of the
+previous year.
+
+� Appliance sales increased by 13.3 percent year-on-year in
+December, a turnaround from the 2.9 percent decline registered in
+the same month last year and higher than the 12.5 percent growth
+in November. Sales rose by 9.7 percent in 2007, reversing the 7.3
+percent decline recorded in 2006.
+
+**Page 3 of 10**
+
+
+-----
+
+# 2
+
+
+� Average capacity utilization in manufacturing sustained a gradual
+uptrend since early 2007 as it increased slightly in October to 80.5
+percent from a revised rate of 80.4 percent in September, based
+on the NSO’s Monthly Integrated Survey of Selected Industries
+(MISSI).
+
+� MISSI data showed a slight improvement in manufacturing activity
+in October. The value of production index (VAPI) managed to grow
+although at a slow rate of 0.4 percent in October, up from the
+decline in September of 1.0 percent (revised) year-on-year. On a
+seasonally-adjusted basis, however, the month-on-month VAPI
+declined at a slower rate of 0.6 percent from a 1.8 percent decline
+in September. Meanwhile, the volume of production index
+continued to fall year-on-year in October but at a slower 1.7
+percent when compared to the 2.7 percent (revised) decline in
+September 2007.
+
+? Q4 2007 Business Expectations Survey results showed that business
+confidence is still high, as the confidence index (CI) rose quarter-onquarter by more than seven index points to 48.0 percent.
+
+? Q4 2007 Consumer Expectations Survey results showed consumer
+confidence has weakened after strengthening during the past two
+quarters. The nationwide CI for Q4 declined quarter-on-quarter by
+10.0 index points to settle at -33.6 percent. Consumers’ apprehension
+may have partly reflected the concerns regarding uncertainty on the
+orderly conduct and outcome of the _barangay election, political noise,_
+and threats of terrorism during the survey period (October 2007).
+
+? Based on the preliminary results of the October 2007 Labor Force
+Survey, the unemployment rate declined to 6.3 percent in October
+2007 from 7.3 percent in October 2006.
+
+? The National Wage and Productivity Commission has completed the
+round of wage and COLA adjustments in all regions in 2007,
+increasing the minimum compensation of workers by an average of
+around 3.3 percent nationwide. Meanwhile, the proposal for the P125
+daily wage hike for private sector employees and the Salary
+Standardization Law (SSL) III for government workers remained
+pending in Congress.
+
+**Page 4 of 10**
+
+
+-----
+
+# 2
+
+
+**C. Supply-side indicators**
+
+Developments in Agriculture
+
+? Agriculture, fishery and forestry (AFF) output grew by 5.6 percent in
+Q3 2007 from 3.6 percent in the same period a year ago. Growth in
+AFF during the period, which accounted for 17.3 percent of total GDP,
+was driven by the fishery, corn and palay subsectors. Meanwhile, the
+Department of Agriculture is pushing for a concerted effort by all
+sectors to sustain the growth momentum of the farm sector in 2008
+onwards in the face of the recent tightening in global supply and
+surging prices of commodities.
+
+? Based on the recent equatorial Pacific sea surface temperature trends
+and the latest global climate forecasts, the La Niña episode of
+moderate strength, which started last August 2007, has persisted over
+the central and eastern equatorial Pacific.
+
+? Meanwhile, retail prices of commercial rice increased anew in
+December. Special and ordinary rice prices nationwide and in areas
+outside Metro Manila rose due to limited stock of rice caused by rains
+in certain areas during the month.
+
+? Effective 19 November 2007, the NFA granted an additional P0.50 per
+kilogram price increase on palay sold to the agency as La Niña
+incentive for individual farmers and farmer cooperatives during the
+agency's procurement operations until March 31, 2008. This is in line
+with the agency’s commitment to provide better income for rice
+farmers and a stable supply of affordable and quality rice for
+consumers.
+
+? Meanwhile, international rice prices have continued to strengthen
+since January 2007.  International prices for all major cereals likewise
+remained high and some registered considerable gains in the
+October-November season from the September-August season.
+
+? The prices of poultry products generally increased in December. The
+price of chicken increased by P5 - P10 per kilogram in December
+following the surge in demand during the season.
+
+Oil Price Developments
+
+? International spot prices were higher as of 24 January 2008 on
+continued geopolitical risks while futures prices fell in reaction to the
+recent developments in the US economy which pointed to lower global
+demand for oil. In the domestic scene, the Department of Energy
+
+**Page 5 of 10**
+
+
+-----
+
+# 2
+
+
+approved the reduction of tariff on imported oil products effective 1
+February 2008; major players will cut diesel prices as a result.
+
+? In the transport sector, petitions for fare increases remained pending
+with the Land Transportation Franchising and Regulatory Board.
+
+Developments in the Utilities Sector
+
+? In addition to the higher generation charge passed on to consumers in
+January, electricity rates in Metro Manila are expected to go up over
+the near term. The increase will come from the Energy Regulatory
+Commission’s (ERC) approval of Meralco’s petition to recoup its
+under-recoveries during the period when the Automatic Generation
+Rate Adjustment was suspended and the implementation of
+Meralco’s new distribution charge under the performance-based rate
+application. The effect of these increases on electricity costs will be
+slightly tempered by the ERC’s final order on the 7th Incremental
+Currency Exchange Rate Adjustment (ICERA) which will lower the
+ICERA charge for Luzon starting February. For Visayas and
+Mindanao, ICERA charges were maintained.
+
+? For water rates, the Metropolitan Waterworks and Sewerage System
+has approved the rate increase of Manila Water Company, Inc.
+starting January 2008 as a result of rate rebasing. Meanwhile,
+Maynilad rates were reduced as the increase in its basic charge was
+more than offset by the higher discount resulting from the foreign
+currency differential adjustment charge.
+
+**D. Financial Market Developments**
+
+Interest Rates
+
+? During the 21 January 2008 auction, the average rates increased by
+1.6 basis points for the 182-day T-bill while average rates for the 364day T-bills both declined by 30.9 basis points, to reach 4.675 percent
+and 5.271 percent, respectively. Meanwhile, the average bid rate for
+the 91-day T-bill at 3.673 percent was broadly equal to 3.672 percent,
+the average bid rate during the 3 December 2007 auction. The
+Auction Committee made a full award of P2.0 billion and P3.0 billion,
+respectively, for the 182- and 364-day T-bills; and a partial award of
+P960.0 million for the 91-day T-bill.
+
+? As of 23 January, the yields for secondary GS continued to decline
+and the yield curve flattened. Relative to the 28 December level,
+secondary rates declined across all tenors (except for the 20-year and
+25-year tenors) following the 75 basis points emergency rate cut by
+
+**Page 6 of 10**
+
+
+-----
+
+# 2
+
+
+the US Fed and on expectations that the BSP will make a similar
+move.
+
+Stock Market
+
+? The stock market performance in 2007 was generally upbeat. The
+average composite index surged to 3,442.9 index points in 2007, which
+was 42.7 percent higher than the level posted in 2006. However, trading
+at the Philippine Stock Exchange became volatile in the last two months
+of 2007 partly due to the impact of recent developments in both the
+international and domestic front. The market’s volatility resumed in
+January 2008 on renewed concerns over the possibility of a US recession
+after reports showed the biggest drop in the US manufacturing sector
+after ten months of expansion coupled with an increase in the US
+unemployment rate. Share prices rebounded on 23 January 2008
+following the US Fed’s 75-basis-point emergency cut in its target for the
+federal funds rate on 22 January 2008.
+
+Foreign Exchange
+
+? The peso appreciated by 3.6 percent in December 2007 to average
+P41.67/US$1 relative to November 2007. This was sustained in 2008
+when the peso reached its highest level since February 2000 on 15
+January to average P40.52/US$1, buoyed by strong inflows of
+remittances due to the holiday season. The steady stream of foreign
+portfolio and direct investments to the country, reflecting favorable
+investor sentiment, as well as export earnings also provided support to
+the peso.
+
+? Year-to-date movements on 22 January 2008 saw the Philippine peso
+depreciating by 0.8 percent while the Japanese yen appreciated by
+5.9 percent against the US dollar. Nonetheless, market optimism
+returned after an unexpected cut by 75 basis points in the US Federal
+Reserve’s (US Fed) benchmark interest on 22 January 2008.
+
+Global Bond and Credit Default Spreads
+
+? Debt spreads peaked over concerns of a global economic slowdown.
+From end-2007 to the first three weeks of January 2008, debt spreads
+widened with new record-high oil prices and gloomy US data. Reports
+showed that the price of Brent crude oil breached the historic milestone of
+US$100 a barrel on 3 January while news of an increase in the US
+unemployment rate and the biggest drop in the US manufacturing activity
+in ten months increased worries that a global slowdown might be on the
+way.
+
+**Page 7 of 10**
+
+
+-----
+
+# 2
+
+
+**E. Domestic Liquidity and Credit Conditions**
+
+? Domestic liquidity grew by 9.0 percent year-on-year in December,
+broadly similar to the previous month’s growth of 9.1 percent. This
+was lower than the 22.7 percent expansion recorded during the same
+month a year ago. With the December growth, M3 expansion
+averaged 17.4 percent in 2007.
+
+? Growth in outstanding loans of commercial banks, thrift banks, and
+rural banks (net of RRPs) grew by 6.9 percent year-on-year in
+November. This was higher compared to the 4.4 percent growth
+registered in the same month a year ago but lower than the 7.7
+percent expansion posted last month. Gross of RRP placements with
+the BSP, bank lending growth accelerated by 7.1 percent year-on-year
+in November from 3.8 percent in October, as banks’ placements with
+the BSP’s reverse repurchase (RRP) facility rose
+
+? Capital-raising activities by PSE-listed companies reached P89.8
+billion in 2007, 57.0 percent higher than the levels reached in the
+previous year.
+
+? As of end-November 2007, the stock of bank loans outstanding rose
+by P115.9 billion relative to the end-December 2006 level. As of
+2007, issuances of equity capital and bonds by the private sector
+including banks totaled P167.8 billion. Excluding issuances by banks,
+the total amount of equity and bonds issued in 2007 reached P117.5
+billion.
+
+**F. Fiscal developments**
+
+? The National Government’s fiscal position posted a P54.1 billion
+surplus in November compared to a deficit of P2.1 billion for the same
+period last year. This brought the year-to-date (January-November)
+fiscal position to a surplus of P12.6 billion; a reversal of the P58.3
+billion deficit in the same period last year. The surplus was due mainly
+to the net proceeds from the sale of PNOC-EDC amounting to P47.0
+billion.
+
+? For the first eleven months, revenue collections grew by 18.3 percent
+to P1,044.3 billion compared to P882.4 billion for the same period last
+year.
+
+**Page 8 of 10**
+
+
+-----
+
+# 2
+
+
+**G. External developments**
+
+? Global economic activity is expected to have moderated in 2007 and
+to slow down further in 2008. The IMF estimates global growth in 2007
+to be at 4.9 percent, lower than the 5.0 percent growth in 2006, with
+mature economies (United States, Euro area, and Japan) leading the
+slowdown at 2.2 percent from 2.9 percent in the previous year. For
+2008, the IMF projects global growth to be at 4.1 percent.
+
+? Emerging markets and developing countries sustained strong
+domestic demand in 2007, cushioning them from the global economic
+slowdown. However, an export-led slowdown in global economic
+activity in 2008 could leave them vulnerable.
+
+? Meanwhile, global energy and food price increases drove up headline
+inflation in developed as well as emerging market economies in recent
+months.
+
+? During their unscheduled meeting in January, the Federal Reserve
+made an emergency move to cut the target for the federal funds rate
+by 75 basis points, making it the first emergency rate reduction since
+2001. The target for the federal funds rate now stands at 3.5 percent
+from 4.25 percent. The move came as stock markets worldwide from
+Asia to Europe experienced steep declines on fears of an imminent
+US recession.
+
+**II. Key Considerations in the Formulation of the Monetary Policy Stance**
+
+? The Monetary Board considered the continuing benign inflation
+outlook across a range of possible scenarios. Inflation is expected to
+remain within target in 2008 and 2009 and could support another
+modest cut in policy rates for the January policy meeting. Current
+forecasts indicate that in the absence of unforeseen shocks, average
+inflation would remain within the 4.0 percent ± 1.0 percentage point
+target for 2008 on average and settle within the 3.5 ± 1.0 percentage
+point target for 2009.
+
+? Given the benign inflation outlook, a modest reduction in policy rates
+will help support domestic demand should global growth slow down.
+Demand indicators continue to show modest strengthening, indicating
+limited price pressures going forward. Inflation expectations remain
+well anchored and liquidity growth has been decelerating for the last
+seven months up to November. Core inflation, a measure of the
+underlying trend in consumer prices, remained lower than headline
+inflation in December.
+
+**Page 9 of 10**
+
+
+-----
+
+# 2
+
+
+? The Monetary Board noted that the volatility in world oil prices and
+higher commodity prices remain the key risks to the inflation outlook.
+The firm peso, however, is expected to temper the impact of higher
+import costs on domestic prices. Slower economic activity in the US
+as well as globally could also moderate price pressures coming from
+imported oil and food. In addition, the reduction of the oil import tariff
+effective February is expected to reduce pump prices of petroleum
+products.
+
+? The monetary authorities remain steadfast in their commitment to
+maintain price stability and will continue to closely monitor evolving
+monetary and financial conditions, particularly the risks associated
+with the inflation outlook and potential second-round effects on
+domestic prices.
+
+**III. Monetary Policy Decision**
+
+? After considering the balance of risks to the inflation outlook and the
+evidence that has become available since its previous meeting on
+monetary policy, the Monetary Board approved the recommendations
+of the Advisory Committee.
+
+The next meeting of the Monetary Board on the monetary policy
+stance is scheduled on 13 March 2008.
+
+**Page 10 of 10**
+
+
+-----
+

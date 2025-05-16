@@ -1,0 +1,967 @@
+# Monetary Policy Summary and minutes of the Monetary
+
+ Policy Committee meeting ending on 17 March 2021
+
+## Publication date: 18 March 2021
+
+These are the minutes of the Monetary Policy Committee meeting ending on 17 March 2021.
+
+[They are available at https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2021/march-](https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2021/march-2021)
+
+2021.
+
+The Bank of England Act 1998 gives the Bank of England operational responsibility for setting monetary policy
+
+to meet the Government’s inflation target. Operational decisions are taken by the Bank’s Monetary Policy
+
+Committee. The minutes of the Committee meeting ending on 5 May will be published on 6 May 2021.
+
+
+-----
+
+### Monetary Policy Summary, March 2021
+
+The Bank of England’s Monetary Policy Committee (MPC) sets monetary policy to meet the 2% inflation target,
+
+and in a way that helps to sustain growth and employment. At its meeting ending on 17 March 2021, the
+
+Committee judged that the existing stance of monetary policy remains appropriate. The MPC voted
+
+unanimously to maintain Bank Rate at 0.1%. The Committee voted unanimously for the Bank of England to
+
+maintain the stock of sterling non-financial investment-grade corporate bond purchases, financed by the
+
+issuance of central bank reserves, at £20 billion. The Committee voted unanimously for the Bank of England to
+
+continue with its existing programme of UK government bond purchases, financed by the issuance of central
+
+bank reserves, maintaining the target for the stock of these government bond purchases at £875 billion and so
+
+the total target stock of asset purchases at £895 billion.
+
+The MPC’s central projections in the February Monetary Policy Report assumed that Covid-related restrictions
+
+and people’s health concerns would weigh on activity in the near term, but that the vaccination programme
+
+would lead to those easing, such that UK GDP was projected to recover strongly over 2021 towards pre-Covid
+
+levels. At the time of the Report, a further increase in unemployment had been projected over the next couple
+
+of quarters. CPI inflation was expected to return towards the 2% target in the spring and, conditioned on the
+
+market path for interest rates, it was projected to be close to 2% over the second and third years of the forecast
+
+period.
+
+Since the time of that forecast, developments in global GDP growth have been a little stronger than anticipated,
+
+and the substantial new US fiscal stimulus package should provide significant additional support to the outlook.
+
+In part reflecting this and alongside positive news on some vaccination programmes, advanced economy
+
+longer-term government bond yields have risen rapidly to levels similar to those seen shortly before the
+
+pandemic. For the most part this has reflected higher real yields. Risky asset prices have remained resilient.
+
+In the United Kingdom, the sterling effective exchange rate has appreciated and mortgage credit conditions
+
+have eased a little. An aggregate measure of UK financial conditions has been broadly unchanged since the
+
+February Report.
+
+The rates of Covid infections and hospitalisations have fallen markedly across the United Kingdom and the
+
+vaccination programme is proceeding at a rapid pace. Plans for the easing of restrictions on activity have been
+
+announced and envisage that restrictions could be lifted somewhat more rapidly than was assumed in the
+
+February Report. Budget 2021, published in March, contained a number of significant new policy
+
+announcements, including the extension of the Coronavirus Job Retention Scheme and other measures to
+
+support the economy in the near term which had not been reflected in the February Report.
+
+UK GDP fell by 2.9% in January. This was less weak than expected, due mainly to developments in public
+
+sector output, but still leaves GDP around 10% below its 2019 Q4 level. The news in recent plans for the
+
+easing of restrictions on activity may be consistent with a slightly stronger outlook for consumption growth in
+
+2021 Q2 than was anticipated in the February Report, although it is less clear that this represents news to the
+
+MPC’s medium-term forecast.
+
+
+-----
+
+The LFS unemployment rate rose to 5.1% in the three months to December, but it is likely that labour market
+
+slack has remained higher than implied by this measure. The extension of the Government’s employment
+
+support schemes is likely to mean that the near-term rise in the LFS unemployment rate will be more moderate
+
+than suggested by the MPC’s February Report projections, which had been constructed on the basis of existing
+
+government policy at that time.
+
+Twelve-month CPI inflation rose slightly to 0.7% in January. The weakness of recent outturns has largely
+
+reflected the direct and indirect effects of Covid on the economy, in particular the decline in oil prices seen in
+
+early 2020. As has been the case in recent MPC projections, CPI inflation is expected to return swiftly to
+
+around the 2% target in the spring, as the effects of those earlier falls in oil prices drop out of the annual
+
+comparison, and reflecting more recent increases in energy prices. These developments should have few direct
+
+implications for inflation over the medium term, however. Inflation expectations remain well anchored.
+
+There is judged to be a material degree of spare capacity at present. The outlook for the economy, and
+
+particularly the relative movement in demand and supply during the recovery from the pandemic, remains
+
+unusually uncertain. It continues to depend on the evolution of the pandemic, measures taken to protect public
+
+health, and how households, businesses and financial markets respond to these developments.
+
+The MPC will continue to monitor the situation closely. If the outlook for inflation weakens, the Committee
+
+stands ready to take whatever additional action is necessary to achieve its remit. The Committee does not
+
+intend to tighten monetary policy at least until there is clear evidence that significant progress is being made in
+
+eliminating spare capacity and achieving the 2% inflation target sustainably.
+
+At this meeting, the Committee judged that the existing stance of monetary policy remains appropriate.
+
+
+-----
+
+### Minutes of the Monetary Policy Committee meeting ending on 17 March 2021
+
+1 Before turning to its immediate policy decision, the Committee discussed: the international economy;
+
+monetary and financial conditions; demand, output, money and credit; and supply, costs and prices.
+
+**The international economy**
+
+2 UK-weighted global GDP growth had been stronger in 2020 Q4 than had been expected in the February
+
+_Monetary Policy Report. This had been driven by upside news in the euro area and emerging markets, and_
+
+appeared to reflect in part a smaller impact on activity of Covid-related restrictions compared with during the first
+
+wave of the pandemic last spring. This weaker relationship between economic activity and a given level of
+
+restrictions was expected to have continued, and, consequently, global growth was also likely to be stronger in
+
+the first quarter of this year than had been expected in the February Report. Covid vaccination programmes
+
+had progressed, albeit at different speeds in different countries. The substantial new US fiscal stimulus
+
+package should provide significant additional support to global activity.
+
+3 According to the final release, euro-area GDP had fallen by 0.7% in 2020 Q4, less weak than had been
+
+incorporated into the February Report, leaving the level of GDP around 5% lower than in 2019 Q4. Restrictions
+
+had generally remained in place in many countries amid high numbers of Covid cases at the start of the year.
+
+After a subsequent decline, infections in the euro area were rising again, with quite sharp increases in some
+
+countries and the possibility of a tightening of restrictions. The rate of vaccinations in the euro area was
+
+expected to pick up in the second quarter. Unemployment had remained unchanged at 8.1% in January, as
+
+government employment support schemes had continued. Mobility indices had ticked up a little as the first
+
+quarter had progressed, and services activity and manufacturing output PMIs had risen to 45.7 and 57.6
+
+respectively in February. Euro-area industrial production had risen in January. Overall, euro-area GDP was
+
+expected to contract again in the first quarter, although probably by less than had been incorporated in the
+
+February Report.
+
+4 US GDP had grown by 1.0% in 2020 Q4 according to the Second Estimate. This had left the level of US
+
+output around 2½% lower than in 2019 Q4. The number of new Covid cases had declined markedly from the
+
+January peak and some counties had started lifting restrictions. The vaccination programme was progressing
+
+rapidly. US mobility indices had been increasing over recent weeks and remained at the higher end of the
+
+range across advanced economies, although they had remained significantly lower than in early 2020. The
+
+unemployment rate had edged lower to 6.2% in February. The ISM non-manufacturing PMI had fallen to 55.3 in
+
+February, while the ISM manufacturing PMI had increased to 60.8, both continuing to suggest positive growth in
+
+2021 Q1. Other indicators such as real personal consumption had pointed to first quarter GDP growth being a
+
+little stronger than had been expected at the time of the February Report.
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 17 March 2021** 1
+
+
+-----
+
+5 The fiscal stimulus package, worth $1.9 trillion or nearly 10% of US annual GDP, was almost double what
+
+had been assumed in the February Report and also considerably higher than market expectations at the time of
+
+the MPC’s previous meeting. It was set to provide significant additional support to the US economy, with the
+
+peak impact on economic growth likely to occur in the second half of this year. Households were to receive a
+
+substantial proportion of the funds, both through direct payments and an extension of enhanced unemployment
+
+benefits. The package also included additional health spending and an extension of business support schemes.
+
+6 After a strong recovery in the second half of last year, China's GDP growth appeared to have moderated
+
+in 2021 Q1, broadly in line with what had been expected at the time of the February Report. This had in part
+
+reflected growth slowing towards trend. Following a rise in Covid cases, it had also reflected the temporary
+
+imposition of some restrictions ahead of the Lunar New Year celebrations, which had curtailed travel plans and
+
+had reduced consumption. Official Chinese manufacturing and non-manufacturing PMIs had fallen in February.
+
+By contrast, industrial production had accelerated further in January and February, with some factories
+
+remaining open during the holiday period, while retail sales had been in line with a somewhat softer
+
+consumption picture. Chinese trade flows had also remained strong, supporting global trade.
+
+7 In other emerging market economies, GDP growth in 2020 Q4 had been stronger than had been assumed
+
+in the February Report, with activity in several of these countries catching up to around pre-Covid GDP levels.
+
+Activity indicators pointed to the recovery continuing into the first quarter, although there was significant
+
+variation across countries and sectors, with manufacturing PMIs generally stronger than services PMIs. The
+
+number of new Covid cases had moderated in several, though not all, countries.
+
+8 The Brent spot oil price had risen further to $68 per barrel, around $13 higher than at the time of the
+
+February Report and similar to its level in January 2020, before the pandemic had taken hold. The rise was
+
+likely to have reflected supply factors, including Saudi Arabia’s cut in oil production, but also growing confidence
+
+about future demand. Non-oil commodity prices had risen on average by around 5% since the February Report,
+
+to levels well above those seen in the months prior to the start of the pandemic. Following a sharp rise that had
+
+started in November 2020, container shipping costs had stabilised, albeit at a high level, with tentative evidence
+
+that container availability had improved somewhat. Given the increases in commodity prices and some shipping
+
+costs over past months, global manufacturing input price PMIs had also risen sharply, and some of this increase
+
+had been reflected in manufacturing output price PMIs.
+
+9 In the euro area, the twelve-month headline HICP inflation rate had remained at 0.9% in February, while
+
+the core inflation rate had decreased slightly to 1.1%. As had been the case with the UK inflation data, the
+
+pandemic had led Eurostat to make unusually large changes in their annual update of the weights used to
+
+calculate HICP. In the euro area, this had pushed up inflation temporarily at the start of the year, alongside
+
+higher energy prices and other transient factors. In the United States, annual headline and core PCE inflation
+
+had edged up in January, both to 1.5%, and energy and base effects were expected to push inflation higher in
+
+the near term.
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 17 March 2021** 2
+
+
+-----
+
+**Monetary and financial conditions**
+
+10 Since the MPC’s February meeting, advanced economy longer-term government bond yields had risen
+
+significantly. For the most part this had reflected higher real yields. The upward movement in yields appeared
+
+to have been driven by positive news on global economic growth, including on some vaccination programmes
+
+and vaccine effectiveness, as well as the size of the US fiscal support package. There had been a high degree
+
+of comovement between yields across different economies. The increases had taken longer-term government
+
+bond yields to levels similar to those that had been seen shortly before the pandemic. Following a period of
+
+increases from low levels, US measures of medium-term inflation compensation had stabilised.
+
+11 Reflecting the same fundamental drivers, market-implied measures of advanced economy policy rates had
+
+also risen, although these measures did not point to an increase in policy rates for some time. Consistent with
+
+international movements, the near-term market-implied path for Bank Rate had increased since the February
+
+MPC meeting, and that curve no longer implied a future reduction in Bank Rate. At its meeting on 11 March, the
+
+ECB Governing Council had left its key policy interest rates and the scale of its asset purchase programmes
+
+unchanged, while indicating that purchases under the Pandemic Emergency Purchase Programme in the next
+
+quarter would be conducted at a significantly higher pace than during the first months of this year.
+
+12 Risky asset prices had continued to increase since the Committee’s previous meeting. Advanced
+
+economy equity prices were higher, and corporate bond spreads had narrowed.
+
+13 The sterling effective exchange rate index had appreciated by around 3% since the February MPC
+
+meeting.
+
+14 Mortgage credit conditions had eased a little since the MPC’s February meeting. Mortgage spreads had
+
+fallen and product availability had increased further, although conditions had remained significantly tighter than
+
+at the beginning of 2020. In addition, as part of Budget 2021, the government had announced a new Help to
+
+Buy Mortgage Guarantee scheme, intended to support the availability of mortgages at loan-to-value ratios
+
+between 91% and 95%.
+
+15 Indicators of corporate credit conditions had remained stable, and government schemes had continued to
+
+provide support. At Budget 2021, the government had announced a new Recovery Loan Scheme to replace the
+
+current set of government-guaranteed lending schemes that would close for applications at the end of March.
+
+**Demand, output, money and credit**
+
+16 Since the MPC’s previous meeting, the number of new Covid cases had fallen markedly across the United
+
+Kingdom and the vaccination programme was proceeding at a rapid pace. A Roadmap out of lockdown for
+
+England had been announced on 22 February, with face-to-face education resuming in schools and colleges on
+
+8 March. Further steps over coming months, depending on the evolution of the pandemic, included the opening
+
+of non-essential retail and outdoor hospitality no earlier than 12 April, and the opening of indoor hospitality,
+
+entertainment and non self-contained accommodation no earlier than 17 May. In Scotland, restrictions were
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 17 March 2021** 3
+
+
+-----
+
+being relaxed gradually, with the previous five-level tier system returning no earlier than 26 April. Restrictions
+
+had started to be eased in Wales too, with all shops being able to open from 12 April. In Northern Ireland, some
+
+restrictions would start to be lifted gradually from 1 and 12 April. Overall, these plans envisaged that restrictions
+
+on economic activity could be eased somewhat more rapidly than had been assumed in the February Monetary
+
+_Policy Report._
+
+17 According to the ONS’s first quarterly estimate, UK GDP had risen by 1.0% in 2020 Q4, leaving the level
+
+of real activity around 8% lower than it had been in 2019 Q4, and a little stronger than the expectation in the
+
+February Report. Household consumption had declined very slightly, by 0.2%, while business investment had
+
+risen by 1.3%. That had left these components of GDP around 9% and 10% below their levels in 2019 Q4
+
+respectively. Total government expenditure had grown strongly in 2020 Q4, by 6.3%.
+
+18 According to the latest monthly GDP estimate, output had fallen by 2.9% in January, a smaller fall than
+
+Bank staff expectations and the external consensus forecast. The measured volume of government output in
+
+January had been reduced by sharp falls in education output as schools had closed again. There had,
+
+nevertheless, been upside news from health output largely reflecting the introduction of the measurement of test
+
+and trace activities, as well as the vaccination programme, into the national accounts. Broadly in line with staff
+
+expectations, there had been widespread declines in output across private services and consumer-facing
+
+services in particular, reflecting the reimposition of lockdown restrictions, while manufacturing output had
+
+contracted for the first time since April 2020.
+
+19 Faster indicators of private sector activity, including the latest waves of the ONS Business Impact of
+
+Covid-19 Survey, were broadly consistent with the fall in private sector output in 2021 Q1 that had been
+
+expected in the February Report, as the lockdown weighed on economic activity. Workplace, recreational and
+
+retail mobility had remained weaker in the United Kingdom than in other advanced economies, partly reflecting
+
+the relative stringency of restrictions.
+
+20 Indicators of consumption for the first quarter had been mixed. Retail sales volumes had fallen by around
+
+8% in January, although these data had not been a good guide to the retail goods components of household
+
+spending in the national accounts over recent quarters. Respondents to the latest Bank of England/Ipsos MORI
+
+household survey had reported an increase in income expectations. The share of households in that survey
+
+that said they would spend more than usual after restrictions eased had edged up to 15%, while 40% had said
+
+that they would spend less than usual. Consumer confidence had picked up recently, although it was difficult to
+
+judge whether that represented news for the MPC’s forecast, which had already incorporated a recovery in
+
+spending as the health outlook improved. Nevertheless, the news in recent plans for the easing of restrictions
+
+on activity might be consistent with a slightly stronger outlook for consumption growth in 2021 Q2 than had been
+
+anticipated in the February Report, although it was less clear that this represented news to the MPC’s medium
+term forecast.
+
+21 The net flow of consumer credit had become more negative in January, driven by a contraction in gross
+
+credit card lending, and consistent with the weakness of consumption following the reimposition of lockdown
+
+restrictions. In contrast, household secured net borrowing had been £5.2 billion in January, in line with the
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 17 March 2021** 4
+
+
+-----
+
+strength of recent months, and accompanied by continued strength in gross lending for house purchase. The
+
+number of approvals for house purchase had remained high in January, at 99,000. At Budget 2021, the
+
+temporary increase in the Stamp Duty threshold in England and Northern Ireland had been extended. There
+
+had been a weakening in many leading indicators of housing demand over previous months, although the most
+
+recent surveys had suggested some recovery.
+
+22 Measures of business confidence, including the expectations components of PMIs, had picked up over
+
+recent months, but, as with their household counterparts, that might not represent news to the MPC’s
+
+projections. Companies’ expectations for the level of business investment over the coming year in the February
+
+Decision Maker Panel had been broadly unchanged. At Budget 2021, the government had introduced an
+
+enhanced deduction for qualifying plant and machinery investment from corporate taxes, to last until March
+
+2023. This would temporarily raise incentives for companies to increase, and potentially bring forward, their
+
+investment plans. For eligible retail, hospitality and leisure properties, the Budget had included an extension of
+
+the 100% business rates holiday until the end of June, followed by 66% business rates relief for the period from
+
+1 July 2021 to 31 March 2022. There had also been announcements of additional grants for qualifying
+
+businesses.
+
+23 UK trade in goods volumes had fallen substantially in January, with exports and imports excluding non
+monetary gold declining by around 19% and 21% on the month respectively. UK goods exports to the
+
+European Union had fallen by 44%, compared with a 7% rise in goods exports to non-EU economies. The
+
+equivalent figures for imports to the United Kingdom from the European Union and from non-EU economies had
+
+been -28% and -13% respectively. A number of factors were likely to be driving these developments, including
+
+stockpiling around the end of the UK-EU transition period, some disruption as new trading arrangements had
+
+been introduced, and the impact of renewed Covid-related restrictions on trade flows and particularly the
+
+demand for imports. The January data on UK exports to the European Union were more uncertain than usual,
+
+owing to a shift to a new reporting system. Trade was expected to have recovered somewhat in February, as
+
+inventories built up before the end of the transition period were used up.
+
+**Supply, costs and prices**
+
+24 The Labour Force Survey (LFS) unemployment rate had risen slightly to 5.1% in the three months to
+
+December, in line with expectations in the February Monetary Policy Report. LFS employment had fallen by
+
+0.4% in the three months to December, compared with an expectation that it would remain flat. The counterpart
+
+to lower employment had been a slightly higher rate of inactivity. There had, however, been some stabilisation
+
+in HMRC payrolls data around the turn of the year and in other more timely indicators, such as PMI employment
+
+balances in February. The number of potential redundancies identified through HR1 notifications had continued
+
+to be relatively muted through the first quarter. The stock of vacancies had ticked up in recent weeks, although
+
+it had remained well below pre-Covid levels.
+
+25 Taking a longer view, there had remained a disparity between the LFS estimate of employees, which had
+
+remained fairly flat since the start of the pandemic, and other indicators such as HMRC payrolls data that had
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 17 March 2021** 5
+
+
+-----
+
+pointed to falls since 2020 Q1. Although the reasons behind the divergence were still difficult to pin down
+
+precisely, it had probably reflected a mix of measurement challenges in the LFS, some reported reclassification
+
+from the self-employed to employees specific to the LFS, and a drop in the UK population through lower net
+
+inward migration.
+
+26 HMRC administrative data had indicated that 4.7 million private sector jobs had been furloughed at the
+
+end of January, higher than in 2020 Q4, but lower than during the first phase of the pandemic last spring.
+
+Timelier data from the ONS’s Business Impact of Coronavirus Survey for February had pointed to a continued
+
+high uptake of furlough. Overall, these data were broadly in line with expectations at the time of the February
+
+_Report. At Budget 2021, the Government had announced the extension of the Coronavirus Job Retention_
+
+Scheme (CJRS) until the end of September 2021. The proportion of salary covered by the government would
+
+be tapered to 70% in July, and then to 60% in August and September, with employers topping up to 80%.
+
+There would also be two further rounds of the Self-Employed Income Support Scheme grants, covering
+
+February to April and May to September 2021.
+
+27 Regular Average Weekly Earnings (AWE) growth had risen in line with expectations, at 4.1% for the whole
+
+economy and 4.0% for the private sector in the three months to December on a year earlier. However, bonuses
+
+had surprised to the upside, such that whole economy total pay growth had been slightly higher than forecast at
+
+the time of the February Report. There remained challenges in interpreting pay data, including the likely
+
+influence of compositional effects, as lower paid workers had been more likely to have lost their jobs during the
+
+pandemic. These challenges would be likely to affect the AWE data for some months to come.
+
+28 The Committee discussed developments in, and the prospects for, spare capacity in the economy. The
+
+starting level of the output gap was very uncertain, not least given the large falls in both demand and supply that
+
+had occurred since the start of the pandemic. It was likely that spare capacity had widened by more than
+
+implied by the LFS unemployment rate. For example, there had been increased flows into inactivity that could
+
+lead to higher unemployment as the lockdown eased and people sought work more actively. Furloughed
+
+employees looking for new jobs might also have been a source of downward pressure on wages not captured
+
+by the unemployment rate. On the other hand, it was possible that the strength of wage growth suggested a
+
+more limited degree of slack in the labour market.
+
+29 Looking ahead, the expected easing of Covid restrictions made it likely that there would be increases in
+
+both supply and demand over the coming months. The announced extension to the CJRS was likely to mean
+
+that the near-term rise in the LFS unemployment rate would be more moderate than suggested by the MPC’s
+
+February Report projections. Measures of spare capacity within firms had widened relative to pre-Covid levels,
+
+although there was uncertainty about their interpretation given the mandated lockdowns, and there had been an
+
+unusual dispersion across sectors. The nature of the recovery across sectors would be important for the
+
+prospects for aggregate spare capacity.
+
+30 Twelve-month CPI inflation had risen slightly in January to 0.7%. Core CPI inflation, excluding food,
+
+beverages, tobacco and energy, had been unchanged at 1.4%. The weakness of recent outturns largely
+
+reflected the direct and indirect effects of Covid on the economy, in particular the decline in oil prices that had
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 17 March 2021** 6
+
+
+-----
+
+occurred in early 2020. It was likely that the February inflation outturn, published after the March MPC meeting,
+
+would prompt another exchange of letters between the Governor and the Chancellor of the Exchequer,
+
+alongside the release of the May minutes.
+
+31 Thereafter, Bank staff expected CPI inflation to return swiftly to around the 2% target in the spring. Higher
+
+energy price inflation was expected to contribute the majority of the rise in CPI inflation, as the effects of earlier
+
+falls in oil prices dropped out of the annual comparison, and reflecting more recent increases in energy prices.
+
+A recovery in inflation, as temporary drags on the twelve-month rate were removed, had been a feature of
+
+recent Reports. The core CPI inflation rate was expected to fall temporarily in July, reflecting base effects from
+
+the same period last year.
+
+32 There had been further upside news to the short-term inflation outlook since the February Report given
+
+recent increases in oil prices and an increase in the Ofgem price cap. This upside news was only partly offset
+
+by the extension of the reduced VAT rate for hospitality, holiday accommodation and attractions, and the
+
+freezing of fuel and alcohol duties announced in the Budget. The January release had included an update to
+
+CPI weights, which was in line with Bank staff’s expectations at the time of the February Report, and was also
+
+likely to push down inflation in the summer. These developments should have few direct implications for
+
+inflation over the medium term.
+
+33 Pricing surveys for goods and services appeared broadly consistent with the expected recovery in CPI
+
+inflation to around the 2% target over the coming months. Some indicators of costs had shown particularly
+
+pronounced increases. Manufacturing input and output price PMIs had been historically high in February, with
+
+firms reporting transport disruption and raw material shortages. Agents’ contacts had also reported a significant
+
+increase in raw materials costs, although so far there had been limited pass-through of higher costs to
+
+intermediate or consumer prices.
+
+34 There had been little news on household or business inflation expectations since the previous MPC
+
+meeting. One-year and five-year ahead household inflation expectations as measured by the February
+
+Bank/Kantar survey had remained unchanged at levels similar to those that had been seen over recent years.
+
+**The immediate policy decision**
+
+35 The MPC sets monetary policy to meet the 2% inflation target, and in a way that helps to sustain growth
+
+and employment.
+
+36 The MPC’s central projections in the February Monetary Policy Report had assumed that Covid-related
+
+restrictions and people’s health concerns would weigh on activity in the near term, but that the vaccination
+
+programme would lead to those easing, such that UK GDP had been projected to recover strongly over 2021
+
+towards pre-Covid levels. At the time of the Report, a further increase in unemployment had been projected
+
+over the next couple of quarters. CPI inflation had been expected to return towards the 2% target in the spring
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 17 March 2021** 7
+
+
+-----
+
+and, conditioned on the market path for interest rates, it had been projected to be close to 2% over the second
+
+and third years of the forecast period.
+
+37 The Committee reviewed recent developments, including the extent to which they had been in line with the
+
+projections in the February Report.
+
+38 Recent developments in global GDP growth had been a little stronger than had been anticipated. This
+
+had been driven by upside news in the euro area and emerging markets, and appeared to reflect in part a
+
+smaller impact on activity of Covid-related restrictions compared with during the initial period of restrictions in
+
+the first half of 2020. New Covid cases appeared to be rising again in the euro area as a whole, with the
+
+possibility of a tightening of restrictions in some countries. The vaccination programme had been progressing
+
+rapidly in the United States but more slowly in the euro area.
+
+39 The substantial new US fiscal stimulus package should provide significant additional support to the
+
+economy. The package was almost double what had been assumed in the February Report, and would largely
+
+take the form of committed spending and fixed transfers to households. Given its scale, the effects from that
+
+package would not just boost demand in the United States, but would have spillover effects for demand across
+
+the world including in the United Kingdom.
+
+40 In part reflecting this and alongside positive news on some vaccination programmes, advanced economy
+
+longer-term government bond yields had risen rapidly to levels similar to those that had been seen shortly
+
+before the pandemic. For the most part this had reflected higher real yields. Risky asset prices had remained
+
+resilient. In the United Kingdom, the sterling effective exchange rate had appreciated and mortgage credit
+
+conditions had eased a little. An aggregate measure of UK financial conditions had been broadly unchanged
+
+since the February Report. The Committee would as usual assess and incorporate developments in financial
+
+conditions as part of its forecast process leading up to the publication of the May Report.
+
+41 As of 17 March 2021, the total stock of assets held in the Asset Purchase Facility had reached £785
+
+billion, a net increase of £40 billion as part of the £150 billion programme of UK government bond purchases
+
+announced on 5 November 2020.
+
+42 Since the MPC’s previous meeting, the rates of Covid infections and hospitalisations had fallen markedly
+
+across the United Kingdom and the vaccination programme was proceeding at a rapid pace. Plans for the
+
+easing of restrictions on activity had been announced and envisaged that restrictions could be lifted somewhat
+
+more rapidly than had been assumed in the February Report.
+
+43 _Budget 2021, published in March, had contained a number of significant new policy announcements._
+
+There would be a material fiscal loosening in the near term, including: the extensions of the Coronavirus Job
+
+Retention Scheme, the reduced VAT rate for hospitality, holiday accommodation and attractions, and the
+
+increase in the stamp duty threshold; and the announcements of a capital allowance super-deduction, other
+
+forms of immediate business and household support, the Recovery Loan Scheme, and a new Help to Buy
+
+Mortgage Guarantee scheme. Some medium-term tightening measures had also been announced, such as an
+
+increase in the main rate of Corporation Tax from 19% to 25% from April 2023, the freezing of income tax
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 17 March 2021** 8
+
+
+-----
+
+personal allowances and thresholds from April 2022, and further reductions in overall departmental spending
+
+plans in addition to those in Spending Review 2020. The MPC would be able to make a fuller assessment of
+
+the impact of these measures, and the overall effects of fiscal policy, on growth, unemployment and inflation
+
+over the forecast period as part of its May Report process.
+
+44 UK GDP had fallen by 2.9% in January. This had been less weak than expected, due mainly to
+
+developments in public sector output, but still left GDP around 10% below its 2019 Q4 level. The news in recent
+
+plans for the easing of restrictions on activity might be consistent with a slightly stronger outlook for
+
+consumption growth in 2021 Q2 than had been anticipated in the February Report, although it was less clear
+
+that this represented news to the MPC’s medium-term forecast. Consumer confidence had picked up and there
+
+were some early indications of rising spending intentions in some previously restricted forms of expenditure.
+
+Set against that, households’ overall reported propensities to spend had so far only nudged up. Looking ahead,
+
+the Committee would monitor closely the extent to which voluntary social distancing reduced as restrictions
+
+were lifted and the vaccination programme progressed further, and the implications of that for spending.
+
+45 UK trade in goods volumes had fallen substantially in January for a number of reasons, although they
+
+were expected to have recovered somewhat in February.
+
+46 The LFS unemployment rate had risen to 5.1% in the three months to December, but it was likely that
+
+labour market slack had remained higher than implied by this measure. The extension of the Government’s
+
+employment support schemes, beyond the point at which most restrictions on activity might be lifted, was likely
+
+to mean that the near-term rise in the LFS unemployment rate would be more moderate than had been
+
+suggested by the MPC’s February Report projections, which had been constructed on the basis of existing
+
+government policy at that time. As support from those schemes would still be available when the economic
+
+recovery was expected to be proceeding strongly, the risk of currently furloughed workers not being reintegrated
+
+smoothly into the labour force was reduced. Some recent indicators also suggested that there had already
+
+been a stabilisation in employment trends.
+
+47 Twelve-month CPI inflation had risen slightly to 0.7% in January, while core CPI inflation had been
+
+unchanged at 1.4%. The weakness of recent CPI outturns had largely reflected the direct and indirect effects of
+
+Covid on the economy, in particular the decline in oil prices seen in early 2020. As had been the case in recent
+
+MPC projections, CPI inflation was expected to return swiftly to around the 2% target in the spring, as the
+
+effects of those earlier falls in oil prices dropped out of the annual comparison, and reflecting more recent
+
+increases in energy prices. The announcements in Budget 2021 on the extension of the VAT reduction for
+
+hospitality, holiday accommodation and attractions, and the freezing of some duties, constituted small downside
+
+news for the short-term inflation outlook, but were more than offset by the energy price news since the February
+
+_Report. These developments should have few direct implications for inflation over the medium term, however._
+
+48 Pricing surveys for goods and services appeared broadly consistent with the expected recovery in CPI
+
+inflation over the coming months, although it would be important to monitor whether recent increases in input
+
+costs were being passed through to intermediate or consumer prices, particularly once demand started to pick
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 17 March 2021** 9
+
+
+-----
+
+up. Inflation expectations remained well anchored, across a wide range of financial market, professional
+
+forecaster, household and corporate measures.
+
+49 The Committee turned to its immediate policy decision.
+
+50 There was judged to be a material degree of spare capacity at present. The outlook for the economy, and
+
+particularly the relative movement in demand and supply during the recovery from the pandemic, remained
+
+unusually uncertain. It continued to depend on the evolution of the pandemic, measures taken to protect public
+
+health, and how households, businesses and financial markets responded to these developments.
+
+51 Since the MPC’s previous meeting, the news on near-term economic activity had been positive, although
+
+the extent to which that news changed the medium-term outlook was less clear. Different MPC members
+
+placed different weights on the balance of risks around the outlook. On the upside, for example, receding fears
+
+of infection, further progress in the vaccination programme, the extension of government support schemes, and
+
+less voluntary social distancing could allow households to resume more normal spending behaviour and start to
+
+run down a greater proportion of their accumulated savings than had previously been anticipated, boosting jobs
+
+and investment. On the downside, households and businesses could continue to exercise caution in their
+
+consumption and investment decisions, while delays in vaccination programmes globally or the emergence of
+
+vaccine-resistant variants of the virus could trigger a renewed rise in infections and further periods of restrictions
+
+on economic activity in the future.
+
+52 Alongside demand developments, the outlook for inflation would depend critically on the path of supply.
+
+Many of the adverse effects on potential output from the pandemic were likely to be temporary, with the same
+
+factors that would raise output in coming quarters also being likely to lift supply, as they had done in the
+
+opposite direction over the past year. There was a range of views across MPC members on the degree of
+
+spare capacity in the economy currently, whether demand would outstrip supply during the recovery from the
+
+pandemic, and how the assessment of supply should take into account the unique nature of the economic shock
+
+from the pandemic. Further discussion of these issues would be an important part of the Committee’s forecast
+
+process ahead of the May Report.
+
+53 At its November 2020 meeting, the Committee had agreed a £150 billion increase in the target stock of
+
+purchased UK government bonds, and this purchase programme had continued. As the Committee had
+
+previously said, risk management considerations had implied that policy should lean strongly against downside
+
+risks to the outlook, to support the economy and to help to ensure that weakness in the economy was not
+
+amplified by a tightening in monetary conditions that could slow the return of inflation to the target. These
+
+considerations still applied.
+
+54 At this meeting, all members of the Committee judged that the existing stance of monetary policy
+
+remained appropriate.
+
+55 The MPC would continue to monitor the situation closely. If the outlook for inflation weakened, the
+
+Committee stood ready to take whatever additional action was necessary to achieve its remit. The Committee
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 17 March 2021** 10
+
+
+-----
+
+did not intend to tighten monetary policy at least until there was clear evidence that significant progress was
+
+being made in eliminating spare capacity and achieving the 2% inflation target sustainably.
+
+56 The Governor invited the Committee to vote on the propositions that:
+
+Bank Rate should be maintained at 0.1%;
+
+The Bank of England should maintain the stock of sterling non-financial investment-grade corporate bond
+
+purchases, financed by the issuance of central bank reserves, at £20 billion;
+
+The Bank of England should continue with its existing programme of UK government bond purchases,
+
+financed by the issuance of central bank reserves, maintaining the target for the stock of these purchases
+
+at £875 billion.
+
+The Committee voted unanimously in favour of all of the propositions.
+
+57 The existing programme of £150 billion of UK government bond purchases had started in January and the
+
+Committee continued to expect it to be completed by around the end of 2021. The Committee continued to
+
+envisage that the pace of purchases could remain at around its current level initially, with flexibility to slow the
+
+pace of purchases later. Further details of the planned operational approach to gilt purchases between the
+
+March and May MPC meetings were set out in the Market Notice accompanying these minutes. Should market
+
+functioning worsen materially, the Bank of England stood ready to increase the pace of purchases to ensure the
+
+effective transmission of monetary policy.
+
+58 The Committee would keep the asset purchase programme under review. If needed, there was scope for
+
+the Bank of England to re-evaluate the existing technical parameters of the gilt purchase programme.
+
+59 The MPC’s Remit had been updated at Budget 2021, setting out that the economic strategy of the
+
+Government included supporting the transition to a net zero emissions economy. In the coming months, the
+
+Bank of England would provide more information about its proposed approach to adjusting the Corporate Bond
+
+Purchase Scheme to account for the climate impact of the issuers of the bonds it held, with a view to adapting
+
+its approach by the time of the next scheduled round of reinvestment operations in 2021 Q4.
+
+60 The following members of the Committee were present:
+
+Andrew Bailey, Chair
+Ben Broadbent
+Jon Cunliffe
+Andrew Haldane
+Jonathan Haskel
+Dave Ramsden
+Michael Saunders
+Silvana Tenreyro
+Gertjan Vlieghe
+
+Clare Lombardelli was present as the Treasury representative.
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 17 March 2021** 11
+
+
+-----
+
+61 As permitted under the Bank of England Act 1998, as amended by the Bank of England and Financial
+
+Services Act 2016, Brad Fried was present on 10 and 15 March, as an observer for the purpose of exercising
+
+oversight functions in his role as a member of the Bank’s Court of Directors.
+
+**Bank of England Minutes of the Monetary Policy Committee meeting ending on 17 March 2021** 12
+
+
+-----
+

@@ -1,0 +1,205 @@
+# MONETARY POLICY MEETING
+
+### October 2023
+
+**[INF*RES*AS]**
+
+
+-----
+
+## MONETARY POLICY MEETING
+
+##### Minutes of monetary policy meeting No. 301, held on 25-26 October 2023.
+
+Present: Rosanna Costa, Governor; Pablo García, Vice-Governor; Alberto Naudon, Board member; Luis
+Felipe Céspedes, Board member; Stepanka Novy, Board member.
+
+Present the Finance Minister, Mario Marcel.
+
+Also present: Juan Pablo Araya, Legal Counsel and Attestor; Elías Albagli, Monetary Policy Division Director;
+Ricardo Consiglio, Financial Markets Division Director; Rosario Celedón, Financial Policy Division Director;
+Gloria Peña, Statistics and Data Division Director; Michel Moure, Institutional Affairs Division Director; Diego
+Ballivián, Corporate Risk Division Director; Markus Kirchner, Macroeconomic Analysis Manager; Enrique
+Orellana, Monetary Policy Strategy and Communication Manager; Lucas Bertinatto, acting International
+Analysis Manager; Sofía Bauducco, Economic Research Manager; Felipe Musa, Market Operations Manager;
+Juan Carlos Piantini, Strategic Business Manager; Miguel Fuentes, Financial Stability Manager; Silvana
+Celedón, Communications Manager; Andrés Sansone, Advisor to the Finance Minister; Erika Arraño, Senior
+Economist; Marlys Pabst, Secretary General.
+
+#### 1. Background
+
+**The international scenario**
+
+On the external front, the main development had been the tightening and volatility of global financial
+conditions. This was associated with, among other factors, the dynamic performance of the U.S. economy.
+with its implications for the future evolution of U.S. inflation and a scenario of looming doubts about
+— —
+the country’s fiscal performance. Another factor had to do with geopolitical conditions. This contrasted with
+the situation in the rest of the world, where an important group of economies remained weak in both their
+actual and expected performance, including China.
+
+In this context, U.S. long-term interest rates had risen significantly, which had been transmitted to the rest
+of the economies. In fact, 10-year US Treasury rates had risen by nearly 70 basis points (bp) since the last
+meeting, to decade-long highs. This increase was largely explained by a decompression of term premia,
+associated partly with a market reassessment of the U.S. fiscal outlook.
+
+
+-----
+
+In addition, the Federal Reserve (Fed) had strengthened its message of prolonged monetary tightening and
+did not rule out further hikes in the federal funds rate. The outlook for monetary policy in developed and
+emerging economies had also tightened. All these factors combined had led to a global appreciation of the
+dollar and a negative correction in stock markets.
+
+Commodity prices had shown mixed movements. The recent escalation of global geopolitical risks, together
+with the announcements of OPEC+ production cuts, had increased the volatility of the oil price, which was
+trading at around US$87 per barrel in the days prior to the meeting (Brent-WTI average). Copper had fallen
+to US$3.6 per pound, in line with the global appreciation of the dollar. Food prices had continued their
+downward trend, although the rise in certain production costs and the effects of the El Niño phenomenon
+posed upside risks.
+
+**The domestic scenario**
+
+Inflation had continued to decline. Compared to expectations in the last Monetary Policy (MP) Report, a
+faster fall was observed in core inflation ─which excludes volatiles─, particularly in its goods component.
+This was partially offset by volatile inflation, which had surprised slightly upwards since then. In September,
+total and core CPI had reached annual variations of 5.1% and 6.6%, respectively. As for two-year inflation
+expectations, in both the Economic Expectations Survey (EES) and the Financial Traders Survey (FTS) they
+remained at 3%.
+
+Activity continued to evolve in line with forecasts in the central scenario of the September MP Report. In
+August, the seasonally-adjusted total and non-mining Imacec had fallen compared to previous month,
+due to one-off factors that had affected educational services. On the demand side, data on retail sales,
+imports of construction materials and capital goods, among others, again showed weak consumption and
+investment. In any case, some related indicators had performed somewhat better than expected.
+
+The labor market had weakened further, mirroring the evolution of the business cycle. The unemployment
+rate had risen to 9% in the moving quarter ending in August. Real wage growth remained at around 2.5%
+per year. All this occurred within the context of still pessimistic household and business confidence.
+
+The local financial market had reacted to the movements of its global peers. Long-term interest rates in
+the fixed-income segment had increased, while the IPSA accumulated losses. The peso had depreciated
+by around 9% from the previous meeting. Regarding credit, the third quarter Bank Lending Survey (BLS)
+reflected that credit demand continued to deteriorate in some segments, consistently with the deceleration
+of credit flows in several portfolios, especially toward firms. The BLS reported no significant change in
+supply conditions. Interest rates on commercial loans —more closely related to monetary policy decisions—
+showed decreases, while housing interest rates —linked to long-term rates— were on the rise.
+
+
+-----
+
+For this meeting, the median of both the EES and the FTS showed an expected reduction in the monetary
+policy rate (MPR) of 75bp. MPR expectations for the end of this year stood at 8% in the case of the EES and
+at 8.25% according to the FTS. Financial asset prices also revealed an 8.25% inflation expectation.
+
+#### 2. Background analysis and discussion
+
+Locally, it was noted that the information at hand showed that the macroeconomic scenario was evolving in
+line with expectations. About activity, there were occasional and transitory deviations, while the sectors most
+related to consumption continued to show signs of stabilization. At the same time, the CPI accumulated
+a somewhat smaller-than-expected increase, mainly in the non-volatile goods component. This difference
+could be linked to the exchange rate appreciation of previous quarters, whose effects still dominated over
+those of the most recent depreciation. However, these trends were expected to change in the months
+ahead.
+
+There was agreement that the most relevant economic development was the tightening of international
+financial conditions. The discussion focused on how this situation would impact the Chilean economy. It
+was noted that, among other factors, this would depend on the persistence and possible intensification
+of these phenomena, which, in turn, would be related to their origin. With respect to the latter, some
+hypotheses were brought up. One of them was the possible effects of a more complex inflationary problem
+in the U.S., where monetary and fiscal policy issues could be intertwined. Whatever the case, higher real
+interest rates and inflation premiums were to be expected, both of which, to a greater or lesser extent,
+were being observed in the data. Other hypothesis to explain the rise in real rates was the decompression
+of term premia. There was ample evidence that a combination of regulatory, economic and financial factors
+had meant that, since the Global Financial Crisis, demand for government securities had increased. For this
+reason, investors were willing to pay a higher premium than usual to hold these instruments, which had
+caused rates to fall sharply in the U.S. The question was whether this phenomenon was slowing and thus
+pushing up long-term rates. A third hypothesis pointed to deeper factors, related to the global savingsinvestment balance, which could be affecting the neutral or more structural levels of long-term rates.
+
+There was also consensus that each of these hypotheses would have different consequences for the global
+macroeconomic scenario and for Chile in particular, so their relevance and effects should be carefully
+analyzed. In any case, it seemed reasonable to think that long-term interest rates would remain high for
+quite some time. In this context, everything seemed to indicate that financial conditions for Chile would
+remain stressed for a prolonged period and that the risks of disruptions in global financial markets would
+also be higher than usual.
+
+The impact that external phenomena were having on the local financial market was underscored. Among
+other things, the increase in the cost of medium and long-term financing for all types of agents, the fall
+
+
+-----
+
+of the stock market and the depreciation of the peso drew special attention. Regarding the latter, it was
+mentioned that the increase in the peso/dollar parity exceeded what was observed in other comparable
+economies, without there being a single hypothesis regarding the reasons for this sharper reaction of the
+Chilean peso. It was mentioned that there could be risk factors associated with the expected trajectories
+of monetary policy in Chile and the U.S. and the reduced presence of some important players in the forex
+market. Meanwhile, it was not obvious that the reserve replenishment program and the process of reducing
+the NDF position were affecting the level of the exchange rate in a relevant way, although, given the volatile
+external conditions, it was indicated that some effect on the functioning of the exchange rate market
+could not be ruled out. In this context, a precautionary attitude would be advisable. With respect to the
+financial considerations of the peso depreciation, it was noted that the available information showed that
+the exchange rate mismatches were being well managed by private agents.
+
+#### 3. Analysis of monetary policy options
+
+All five Board members recalled that the monetary policy strategy defined at the previous meeting
+indicated that: (i) if the central scenario were to materialize, in the short term the MPR would be reduced
+further; (ii) the magnitude and timing of the MPR cut process would take into account the evolution of
+the macroeconomic scenario and its implications for the path of inflation; (iii) the Board would act with
+flexibility in case macroeconomic conditions so required. In this context, the Board evaluated lowering the
+MPR by either 50bp or 75bp.
+
+They all coincided that the local activity and inflation scenario showed little change with respect to forecast,
+although the non-volatile component had fallen somewhat faster than projected. Regarding external
+developments, in the immediate future, an inflationary impact was to be expected due to the price rise of
+some commodities and the higher exchange rate. However, if the tightness of external financial conditions
+persists, the medium-term effects on activity and inflation would be negative.
+
+There was agreement that the recent behavior of the exchange rate, marked by greater sensitivity to news
+and greater volatility, reflected several elements. On the one hand, Chile was further ahead than other
+economies in the inflationary convergence process and, consequently, the prospects were that the MPR
+reduction process would continue. It was added that the Fed had increased its hawkish tone. This change
+in the rate differential was generating uncertainty in a market where some medium and long-term investors
+were less present. All this was reflected in an increase in the exchange premium and the sensitivity of the
+exchange rate. In that context, an additional degree of prudence could help reduce the possibility of facing
+short-term financial stress.
+
+In any case, the Board considered that was essential to have more clarity on the evolution of recent
+macro-financial developments, to deepen their understanding of the underlying factors of inflation and its
+
+
+-----
+
+persistence, as well as their possible contractionary impact. All the Board members agreed that at this point
+it was complex to assess the balance of these impacts, precisely because they were unfolding and were
+accompanied by higher-than-usual volatility.
+
+In this context, and with inflation still not completing its convergence process, all the Board members agreed
+that it was necessary to continue with the cycle of MPR cuts, although this time around it was advisable to
+do so at a somewhat slower speed, which was well represented by a 50bp reduction. There was consensus
+that the December MP Report, where the complete macroeconomic scenario would be reviewed, would be
+the appropriate occasion to give guidelines on how the process of lowering the MPR would go on.
+
+Finally, the Board emphasized that the objective of monetary policy was the inflation, and its instrument
+was the MPR. It was reiterated that this not mean that the exchange rate did not have an important role in
+the inflation targeting framework, since it was a relevant price in the economy, whose movements could
+have significant effects and which also provided valuable information on how things were going in the
+macroeconomic and financial scenario. It was added that, in no case would this imply that monetary policy
+or the reserve hoarding policy would target an exchange rate level. Although on some very special occasions
+massive exchange rate intervention measures had been implemented, this was not the case at this point.
+
+#### 4. Monetary policy decision
+
+Governor Costa, Vice-Governor García and Board members Naudon, Céspedes and Novy voted for lowering
+the monetary policy interest rate by 50 basis points, to 9%.
+
+
+-----
+
+**MONETARY POLICY MEETING**
+OCTOBER 2023
+
+
+-----
+

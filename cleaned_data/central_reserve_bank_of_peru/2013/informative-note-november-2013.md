@@ -1,0 +1,46 @@
+# MONETARY PROGRAM FOR NOVEMBER 2013
+ BCRP LOWERED THE REFERENCE INTEREST RATE TO 4.0%
+
+1. The Board of the Central Reserve Bank of Peru approved to lower the monetary policy
+reference rate to 4.0 percent.
+
+The new level of the reference rate is compatible with an inflation forecast of 2.0 percent in
+the 2014-2015 forecast horizon and also takes into account that: i) economic growth in the
+country is slowing down to rates below the economy’s potential level of growth; ii) recent
+indicators show a lower growth in the world economy; iii) inflation expectations have declined
+and remain anchored within the target range, and iv) the supply factors that affected inflation
+transitorily are reversing.
+
+This decision is preventive and does not imply a sequence of reductions in the reference
+interest rate.
+
+2. Inflation in October showed a rate of 0.04 percent (3.04 percent in the last 12 months).
+Inflation without food and energy registered a rate of 0.13 percent (2.76 percent in the last 12
+months) and core inflation showed a rate of 0.23 percent (3.69 percent in the last 12
+months).
+
+Inflation is expected to remain within the upper band of the target range in the following
+months due to the lagging effect of the supply shocks and to converge thereafter to the 2
+percent target in 2014.
+
+3. Current and advanced indicators of activity show a weakening in the level of economic
+activity reflecting the lower growth recorded by our exports as a result of both the economic
+slowdown of our main trading partners and lower export prices.
+
+4. The Board oversees the inflation forecasts and inflation determinants and, if necessary, will
+implement additional easing measures in the BCRP monetary policy instruments.
+
+5. The Board of the Central Bank also approved to reduce the annual interest rates on lending
+and deposit operations in domestic currency (not included in auctions) between the BCRP
+and the financial system, as described below:
+
+a. Overnight deposits: 3.20 percent.
+b. Direct repo and rediscount operations: 4.80 percent.
+c. Swaps: a commission equivalent to a minimum annual effective cost of 4.80 percent.
+
+6. The Monetary Program for December will be approved on the Board’s meeting to be held on
+December 12, 2013.
+
+
+-----
+

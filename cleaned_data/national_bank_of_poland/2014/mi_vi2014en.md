@@ -1,0 +1,124 @@
+# Minutes from the Monetary Policy Council Decision Making Meeting held on 3 June 2014
+
+At its meeting, members of the Monetary Policy Council discussed the current and
+
+future monetary policy decisions in the context of macroeconomic developments in
+Poland and abroad.
+
+While discussing external developments, Council members indicated that growth in
+
+global activity remained moderate, but economic conditions varied across countries.
+Some Council members emphasized that recent data on activity in the major economies
+had been weaker than expected. In particular, in the United States GDP unexpectedly fell
+in the first quarter, albeit probably only temporarily. In the euro area, GDP growth was
+low, and some economic indicators pointed to a slowdown in recovery in the
+manufacturing sector in May 2014.
+
+During discussion of the euro area, some Council members pointed to a dispersion in
+
+economic growth rates within the region. In Italy GDP declined in 2014 Q1, and in
+France output did not change. At the same time, in Germany – Poland’s main trading
+partner – economic growth accelerated. A few Council members cited downside risks for
+German exports: still relatively low economic growth in China and economic slowdown
+in Russia. Some Council members also emphasized that the weakening of the Polish
+trade with Russia and Ukraine, recorded already in 2013, had intensified in the first
+months of 2014.
+
+While discussing monetary policy abroad, Council members pointed out that the
+
+ECB had hinted it might ease its monetary policy at the June meeting. Some Council
+members emphasized that although the Federal Reserve was slowly reducing the scale of
+quantitative easing, monetary policy was still highly expansionary also in the United
+States. They also indicated that monetary policy in Central and Eastern Europe remained
+accommodative, and the National Bank of Hungary (MNB) had recently decreased its
+base rate to 2.4%. A few Council members emphasized that even though monetary
+policy of many central banks had been expansionary in recent years, inflation remained
+low worldwide.
+
+When discussing inflation developments abroad, Council members pointed out that
+
+inflation in the euro area was still low, not only owing to a fall in food and energy price
+index, but also due to low core inflation. It was noted that inflation in the euro area
+remained well below the ECB’s definition of price stability. In this context, the opinion
+was expressed that persistence of low inflation impeded deleveraging in the euro area
+member states most severely affected by the debt crisis. It was also highlighted that
+inflation in Central and Eastern Europe had also declined in recent months to only
+slightly above zero, or even reaching negative levels. It was pointed out that a decline in
+
+
+-----
+
+CPI inflation in Central and Eastern Europe over recent months was – like in the euro
+area – accompanied by a fall in core inflation.
+
+Referring to the economic conditions in Poland, Council members indicated that GDP
+
+growth in 2014 Q1 had been close to the March projection and confirmed a gradual
+recovery of the Polish economy. Attention was paid to the favourable composition of
+GDP growth. In particular, there was an acceleration in domestic demand, especially
+investment demand, while foreign trade continued to record a surplus. However, some
+Council members pointed out that some indicators of activity in manufacturing sector
+had levelled off due to weakening in orders, employment and output sub-indices. In the
+opinion of these Council members, a decline in some economic indicators may reflect
+risks to further recovery of the Polish economy.
+
+A few Council members noted that investment in Poland remained weak in relation
+
+to GDP compared to other countries in Central and Eastern Europe. They also indicated
+that the share of private investment was low compared to other EU member states. In
+this context, it was noted that corporate lending, including for investments, had
+rebounded.
+
+Council members highlighted that the recovery in economic activity was translating
+
+into an improvement in the labour market conditions. Employment in the Polish
+economy is slowly rising, and unemployment is falling. It was emphasized that – in spite
+of a gradual recovery in the labour market – wage pressure remained limited, owing to a
+concurrent rise in labour force participation.
+
+While discussing inflation developments, Council members pointed out that inflation
+
+had decreased in April, remaining markedly below the inflation target and considerably
+below the March projection. A fall in inflation in April was due to a decline in core
+inflation and falling food price growth. Some Council members indicated that a decline
+in inflation in recent months was driven by a fall in prices of an increasing number of
+goods. A few Council members also drew attention to continued fall in producer prices,
+decline in retail sales prices and further decrease in import prices.
+
+With regard to expected inflation developments in months ahead, Council members
+
+pointed out that according to several short-term forecasts, inflation was likely to remain
+below the March projection. Some Council members also emphasized that – according to
+available forecasts – the probability of a temporary fall in inflation below zero in summer
+had risen. It was also noted that long-term breakeven inflation expectations had fallen. A
+few Council members, however, were of the opinion that – if the current pace of
+economic growth continued – a revival in demand pressure would be conducive to
+higher inflation. They also argued that due to reduced oil production in some countries,
+oil prices could rise in the coming period.
+
+The Council decided that the NBP interest rates should remain unchanged at the
+
+current meeting. The Council maintained its assessment that the NBP interest rates
+should be kept unchanged until the end of 2014 Q3. While discussing future decisions,
+the majority of Council members pointed out that the expected inflation was lower than
+
+
+-----
+
+in the March projection, while uncertainty had risen, particularly with respect to the pace
+of economic recovery in the coming quarters and the outlook for monetary policy
+abroad. Given this, Council members observed that a more comprehensive assessment of
+the monetary policy perspectives and potential adjustment of interest rates would be
+possible after the Council got acquainted with incoming information, including the July
+NBP projection.
+
+The Council left the key NBP interest rates unchanged at the following levels:
+
+reference rate at 2.50%, lombard rate at 4.00%, deposit rate at 1.00%, rediscount rate at
+2.75%.
+
+Publication date: 20 June 2014
+
+
+-----
+

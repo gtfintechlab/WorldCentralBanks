@@ -1,0 +1,126 @@
+N a t i o n a l B a n k o f P o l a n d
+
+M o n e t a r y P o l i c y C o u n c i l
+
+# MINUTES OF THE MONETARY POLICY DECISION-MAKING
+
+ MEETING HELD ON 6 JULY 2011 
+
+At the meeting, the Monetary Policy Council analysed the situation in the external environment of
+the Polish economy, the outlook for economic growth and inflation in Poland, including the
+prospects for inflation returning to the target, and discussed the current and future decisions on the
+NBP interest rates.
+
+While addressing the external conditions of economic growth and inflation in Poland, the Council
+pointed to heightened uncertainty surrounding the outlook for the global economy, including the
+recent signs of a weakening economic growth in the United States and the prolonged public finance
+crisis in some euro area countries. In particular, attention was paid to mounting concerns about the
+stability of the economic situation in Greece and the related rise in risk aversion in the international
+financial markets.
+
+It was emphasized that the debt crisis might – by increasing uncertainty in the euro area – lead to a
+decline in economic growth in this region, which would translate into slower GDP growth in
+Poland. However, some members of the Council argued that activity growth in Poland might be
+relatively fast even in the case of a moderate GDP growth abroad. In turn, other Council members
+were of the opinion that increased risk aversion in the international financial markets related to the
+fiscal problems of Greece was more likely to affect Polish economy through a depreciation in the
+zloty exchange rate, which would support a heightened inflation in the country.
+
+While discussing the economic growth in Poland in the coming quarters, it was emphasized that
+GDP growth would most probably weaken gradually, which was also in line with the NBP’s July
+projection. In this context, a slight weakening of the upward trend in industrial output in the past
+few months and a decline in the PMI anticipating a slowdown in the manufacturing sector in 2011
+Q3 were pointed to. The expected decline in GDP growth would be – in the opinion of members of
+the Council – partly connected with fiscal tightening. Some members of the Council emphasized
+that a rise in current inflation, through its curbing effect on the growth of households’ real
+disposable income, might also lead to a slowdown in economic growth. Other members of the
+Council, however, pointed to a drop in households’ deposits last month, which might be indicative
+of a lower propensity to save. At the same time, it was indicated that it was difficult to assess, on
+the basis of one month’s data, whether this situation would be a lasting phenomenon. Moreover, it
+was pointed out that interest rate increases implemented earlier this year might also act towards
+slower economic growth, albeit with a lag. Some members of the Council remarked, in turn, that
+interest rate increases had not so far hindered the growth in corporate loans and a rapid increase in
+housing loans.
+
+While addressing the outlook for maintaining the current rate of GDP growth in Poland in
+subsequent years, members of the Council emphasized the related high uncertainty, mainly with
+respect to investment. More specifically, it was unclear, in their opinion, to what extent the decline
+in public investment might be offset by rising corporate investment. Some members of the Council
+pointed out that the expected decline in public investment would reduce the crowding out effect on
+private investment by mitigating the upward pressure on cost of materials and construction works. It
+was also added that the rise in corporate investment would be fuelled by a relatively high capacity
+
+0 0-919 Warszawa u l Ś wi ę to krzys ka 1 1 /2 1 tel (22 ) 653 2 8 88 fax (22) 653 1 3 28
+
+
+-----
+
+utilization at present. At the same time, other members of the Council indicated that reduced public
+investment, resulting in lower demand growth in the economy, might stem private investment.
+While addressing the developments in demand in subsequent years, it was pointed out that the
+heightened current inflation would boost public expenditure in 2012 as a consequence of indexation
+of old-age and disability pensions and social benefits.
+
+While discussing inflation, it was indicated that price growth in Poland was largely affected by
+external factors. In this context, some members of the Council pointed to a high risk of external
+factors continuing to push up inflation in Poland. Some members of the Council emphasized that
+the recently observed halting in commodity price growth in the global markets might be temporary,
+considering the prospects of persistently high global demand for commodities amidst limited
+possibilities of increasing their supply and a considerable liquidity surplus in the financial markets.
+In their opinion, commodity prices might, in the longer run, continue on an upward trend. Some
+members of the Council pointed to the possibility of other countries, including in particular the
+United States, further easing their monetary and fiscal policy with a view to stimulate economic
+growth, despite rising inflation. Among other potential external sources of inflation, the announced
+tax reduction in Germany was mentioned, which would boost demand pressure in this economy,
+and persistently high inflation in China.
+
+While addressing current inflation in Poland, in particular the fact that it is presently running above
+the target, some members of the Council were of the opinion that this was due not only to the
+external supply shocks but also to the heightened domestic inflationary pressure. This followed, in
+their opinion, from the fact that both the level and the rate of growth of inflation in Poland exceeded
+those observed in many other countries which had also experienced external supply shocks.
+
+While discussing the outlook for inflation in Poland in 2011, it was emphasized that although May
+2011 saw a marked rise in CPI inflation (partly as a result of a change in GUS quotation of seasonal
+goods prices), and inflation expectations of individuals remained at a heightened level, the available
+forecasts suggested that the coming months should see a gradual fall in inflation. Yet, some
+members of the Council pointed out that, notwithstanding the above, inflation would remain –
+according to the same forecasts – significantly above the target.
+
+It was emphasized that due to lags in the monetary policy transmission mechanism, the mediumterm outlook for inflation was of key importance. It was pointed out that, in line with the July
+projection based on the NECMOD model, the years 2012-2013 would see inflation lowering close
+to the target. This would be driven by a weaker GDP growth, a slow-down in the growth of global
+commodity prices and the statistical base effect. At the same time, some members of the Council
+indicated the risk of persistence of external sources of inflation and the possibility of a faster GDP
+growth in Poland than suggested by the projection, which would translate into higher price growth.
+Some members of the Council emphasized that the persistence of a relatively high core inflation
+within the projection horizon constituted a risk to CPI inflation subsiding close to the target.
+According to those members of the Council, a strong deceleration in the growth of food and energy
+prices expected within the projection horizon is very unlikely.
+
+While discussing the NBP interest rates, the majority of Council members agreed that the interest
+rates should be kept unchanged at the current meeting. Some members of the Council assessed that
+the NBP interest rate increases implemented since the beginning of 2011 should enable inflation to
+return to the target in the medium term as indicated by the July projection of inflation and GDP. It
+was emphasized that all the available inflation forecasts anticipate its decline within one year. At
+the same time, the majority of Council members did not rule out the possibility of further interest
+rate increases in the future, should the prospects of inflation returning to the target deteriorate, and
+the risk of the so-called second round effects rise.
+
+
+-----
+
+Some members of the Council indicated, however, that the May 2011 inflation, significantly
+exceeding expectations, and the fact that it is anticipated to decline only slightly by the end of 2011,
+coupled with the deepening of the negative real interest rate in Poland amidst a relatively fast
+economic growth, justified increasing the NBP interest rates at the current meeting.
+
+A motion to raise the NBP interest rates by 25 basis points was put forward at the meeting. The
+motion was rejected. The Council kept the interest rates unchanged: reference rate at 4.50%,
+lombard rate at 6.00%, deposit rate at 3.00% and rediscount rate at 4.75%.
+
+_Publication date: 25 August 2011_
+
+
+-----
+

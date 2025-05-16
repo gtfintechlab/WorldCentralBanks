@@ -1,0 +1,1118 @@
+### Publication date: 17 March 2004
+
+## MINUTES OF
+# MONETARY POLICY COMMITTEE MEETING
+
+## 3 and 4 March 2004
+
+##### These are the minutes of the Monetary Policy Committee meeting held on 3 and 4 March 2004.
+
+ They are also available on the Internet
+
+(http://www.bankofengland.co.uk/mpc/mpc0403.pdf).
+
+##### The Bank of England Act 1998 gives the Bank of England operational responsibility for setting interest rates to meet the Government’s inflation target. Operational decisions are taken by the Bank’s Monetary Policy Committee. The Committee meets on a regular monthly basis and minutes of its meetings are released on the Wednesday of the second week after the meeting takes place. Accordingly, the minutes of the Committee meeting held on 7 and 8 April will be published on 21 April 2004.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 3-4 MARCH 2004
+
+1 Before turning to its immediate policy decision, the Committee discussed developments in
+
+financial markets; the world economy; money, credit, demand and output; the labour market, costs
+
+and prices; and some other considerations.
+
+**Financial markets**
+
+2 Yield curves had moved little over the month. Short-term interest rates were a little lower in the
+
+United States and in the euro area, and barely changed in the United Kingdom (having risen a little in
+
+the previous few days). Longer-term nominal rates had been uniformly lower at maturities out to ten
+
+years until a day or two before the meeting. Those lower rates were associated mainly with lower real
+
+interest rates rather than with changes in expected inflation.
+
+3 Equity prices had increased in all the major markets. The FTSE All-Share index was 3% higher
+
+on the month, rising more than most major international equity markets in common currency terms.
+
+That and the interest rate movements seemed to be consistent with the pattern of economic news over
+
+the past month, which had been rather more positive (relative to expectations) in the United Kingdom
+
+than in the United States or the euro area.
+
+4 The main financial market development, however, had been the appreciation of sterling: its
+
+effective rate was more than 2% higher on the month. That took the effective rate to about 5% above
+
+its level at the turn of the year, returning it to the range in which it had been trading at the beginning of
+
+2003. Its movements did not, on this occasion, seem simply to reflect movements in US dollar
+
+exchange rates: sterling was stronger against a wide range of currencies. Given the similarity of yield
+
+curve movements, relative interest rates could account for only a small proportion of sterling’s recent
+
+appreciation – which ruled out a purely cyclical explanation. A UK-specific explanation therefore
+
+seemed to be required.
+
+5 A range of possible explanations for the strength of sterling was discussed. One was that market
+
+participants had revised their assessment of the equilibrium real sterling exchange rate, interpreting the
+
+recent data on UK demand (with consumption growth, in particular, stronger than previously thought)
+
+as reflecting a permanent strengthening relative to other countries But it was not clear what might
+
+
+-----
+
+2
+
+have triggered that reassessment. Another was that there might have been changes in expected
+
+inflation, either in the United Kingdom or abroad. But there was little evidence for that proposition. A
+
+further possibility was that portfolio flows from dollars into sterling, associated with changes in the
+
+risk premium on sterling-denominated assets, may have represented efforts by investors – including
+
+some Asian central banks – to diversify their portfolios.
+
+**The world economy**
+
+6 In UK-weighted terms, the month’s news on world activity was perhaps mildly on the downside.
+
+Though fourth-quarter GDP growth in the United States was, at 1%, the same as in the advance release
+
+and confirmed the continuing recovery there, the 0.3% outturn for the euro area was weaker than the
+
+Committee had been expecting. Growth in Japan, by contrast, was again stronger than expected and
+
+growth elsewhere in Asia remained robust.
+
+7 In the United States, the labour market had become the key uncertainty about the sustainability
+
+of the recovery. Investment was continuing to increase and this improvement seemed firmly based;
+
+production had increased by 0.8% in January; and business surveys remained quite strong. But non
+farm payrolls, although they had increased in each of the past five months, were growing only
+
+modestly, and less rapidly than the working age population. This recovery in employment was very
+
+subdued by comparison with previous cycles. Consumer confidence had fallen sharply in February,
+
+apparently because of pessimism about labour market prospects. A lack of sustained employment
+
+gains could prove a threat to consumption growth – despite the support to spending from recent tax
+
+cuts – and that in turn could slow the recovery. However, the employment components of the ISM
+
+surveys were considerably stronger than at their low points in 2001 and 2002. Recent rapid rates of
+
+productivity growth must in part have been cyclical and, as those short-term gains were exhausted, it
+
+was reasonable to assume that employment growth would pick up to more normal levels so long as
+
+demand growth was sustained.
+
+8 Fourth-quarter growth in the euro area was, at 0.3% on the flash estimate, rather softer than had
+
+been expected. On the limited information so far available, it seemed that the relative weakness was
+
+mainly accounted for by a more negative net trade position. The latter could simply represent a more
+rapid-than-expected unwinding of the unexpectedly strong net trade outturn in the third quarter, and so
+
+to that extent did not imply weaker prospects for 2004 and beyond. The euro-area manufacturing PMI
+
+and industrial confidence indicators were unchanged in February, though the pan-German IFO index
+
+
+-----
+
+3
+
+fell for the first time since last April and the euro-area services PMI was also weaker. But taken
+
+together, the survey indicators still pointed to stronger growth in the first quarter of this year; and
+
+consumer confidence had strengthened. In Germany, investment growth in the fourth quarter was the
+
+strongest for over four years. Interpretation of these data was complicated by the prospective cut in
+
+subsidies to housing investment. Some of the recent growth might therefore represent housing
+
+investment that had been brought forward.
+
+9 The news from Asia, by contrast, was rather stronger than expected. Fourth-quarter growth in
+
+Japan was reported to have been 1.7%, substantially above the figure included in the Committee’s
+
+February projections. While there might be doubts about this figure, it was noteworthy that nominal
+
+GDP had increased by 0.7% and that the all-activity index had been 1.2% higher. GDP growth had
+
+generally also picked up elsewhere in Asia.
+
+10 The co-incident recoveries in the main economic blocs and continuing strong growth in China
+
+gave rise to the possibility that worldwide inflation could pick up too, as it had done in similar
+
+circumstances in the late 1960s and early 1970s. Commodity prices were rising: oil spot and futures
+
+prices were higher, metals prices had risen by almost 10% on the month and non-food agricultural
+
+prices had also risen. But while the increases over recent months were quite marked in US dollar
+
+terms, this partly reflected the weakness of the dollar. In any case, commodity prices were probably
+
+rather less important as a proximate indicator of inflation in the industrial countries than they had been
+
+thirty years ago, as output was less commodity-intensive and monetary policies were better focused.
+
+So a repeat of that earlier inflationary episode seemed unlikely.
+
+**Money, credit, demand and output**
+
+11 In the United Kingdom, overall GDP growth in the fourth quarter was unrevised, in the second
+
+release, at 0.9% at market prices and 0.8% at basic prices. Surveys remained strong, though less
+
+consistently so than a month ago, and still suggested growth of over 1% in the first quarter of 2004.
+
+Revisions to earlier data had raised the estimated level of GDP at basic prices by around 0.3% by the
+
+fourth quarter, with much of this revision falling in the first half of the year. Interpreted mechanically,
+
+this implied an equal reduction in spare capacity. But the Committee’s view on capacity was based on
+
+a wider range of considerations; other information on capacity, and the fact that past inflation was
+
+unchanged, argued against such an interpretation. This month’s special survey of capacity utilisation
+
+by the Bank’s regional Agents indicated few pressure points; indeed, it suggested that there might be
+
+
+-----
+
+4
+
+rather more scope for average hours of work to increase, should the need arise, than had been allowed
+
+for in the Committee’s February projections.
+
+12 The back revisions had also changed the estimated composition of demand. Investment was now
+
+estimated to have been 1.0% higher than previously thought, by the third quarter of 2003, and final
+
+domestic demand 0.5% higher. The revised investment data suggested a less erratic, and potentially
+
+more sustainable, return to investment growth during 2004. This and the recent weakness in
+
+inventories, which was likely to prove temporary, suggested a rather stronger outlook for demand in
+
+the coming quarters.
+
+13 The estimated level of consumption had also been revised up, by 0.5% by the third quarter.
+
+Consumption was now estimated to have grown by around 1% in each of the past three quarters. That
+
+rapid pace of growth seemed set to continue into the first quarter of 2004. Retail sales had grown by
+
+0.6% in January, following 0.8% growth in December. Early indications were that spending growth
+
+would remain quite strong into February. There was no sign of weakening in consumer confidence;
+
+and though the latest CBI Distributive Trades survey pointed to a modest slowing in growth on the
+
+month, the three-month average was at its highest since June 2002. The housing market too remained
+
+strong, with house price inflation (on the main lenders’ indices) higher in the three months to February
+
+than in the three months to November. Evidence from the RICS survey was rather more mixed, with a
+
+small fall in the price expectations balance but an increase in the ratio of sales to stocks – a good
+
+indicator of near-term price developments.
+
+14 Total lending to individuals was growing at some 14% on an annual basis. Loan approvals for
+
+house purchase had again fallen a little, but new purchasers would continue to underpin borrowing
+
+growth, as they replaced existing owners whose housing-related debt had been taken on when house
+
+prices were much lower. The income gearing implied by current and prospective indebtedness, if
+
+interest rates followed the trajectory implied by market forward rates, would reach levels last seen in
+
+the early 1990s within two or three years. A key difference, however, was that this increase could be
+
+anticipated, as it was not the result of unexpected policy changes but simply reflected the expected
+
+increase in the stock of debt and the interest rate path expected by the market to be consistent with
+
+achieving the inflation target. Nevertheless, households might not have taken the prospective
+
+increases in interest rates fully into account.
+
+
+-----
+
+5
+
+15 The continued strength of consumption growth was unexpected. Real post-tax wages per head
+
+had been growing quite modestly over the past year, indeed on some measures they had actually fallen
+
+in the second quarter of 2003; but employment was growing and non-wage components had made a
+
+strong contribution to household income growth in the second and third quarters of 2003. Changes in
+
+tax credits had been implemented in recent quarters, and take-up had exceeded expectations; that and
+
+the new pension credit, which was introduced in October 2003, would continue to be a factor in
+
+households’ spending decisions for a while yet. It was possible that these fiscal changes had
+
+particularly benefited households with a high marginal propensity to consume, and so were having a
+
+greater effect on consumption growth than had previously been allowed for in the Committee’s
+
+projections.
+
+16 The strength of the housing market was less easy to explain. It was understandable that secured
+
+lending should be growing rapidly: new borrowers needed to finance increasingly large mortgages;
+
+lenders had been competing aggressively for market share; and refinancing was more common than in
+
+previous upswings, and was associated with top-up lending. In addition, the incomes of those likely to
+
+become owner-occupiers had grown faster than average incomes, so the increase in aggregate
+
+measures of income gearing might overstate increases at household level. But it was still surprising
+
+that prices were continuing to increase so strongly. It was possible that some of this strength simply
+
+reflected the balance between demand for and supply of housing. Another possible explanation was
+
+that investment demand for houses had increased: residential property might have become more
+
+attractive simply as an asset, particularly to hold as an investment for retirement income, given the
+
+disappointing performance of the equity market over several recent years and of with-profits life
+
+policies, even though the demand for housing services might not have increased.
+
+17 Against these stronger aspects of the UK demand picture, it was important to recognise that the
+
+higher level of sterling would weaken the United Kingdom’s net trade position.
+
+**The labour market, costs and prices**
+
+18 There was little sign of inflationary pressures in either the labour market or in goods markets.
+
+The employment rate was a little lower in the fourth quarter than in the third, but so too was
+
+unemployment; and, over the year as a whole, total hours worked were little changed while numbers
+
+employed had increased. The CIPS surveys of employment suggested rather stronger recent
+
+employment growth and were not easy to reconcile with the official data – not least because they
+
+
+-----
+
+6
+
+excluded the public sector, which accounted for a substantial part of recent employment growth. Part
+
+of the explanation might lie in the fact that the surveys related only to employees and, even on the
+
+official data, employee numbers had fallen less fast in the second half of 2003 than in the first. The
+
+surveys might also under-record the losses of jobs in firms which had closed (though that would
+
+suggest higher inflows into unemployment – and inflows had in fact been falling steadily).
+
+Conversely, the Labour Force Survey might under-record employment of workers who had recently
+
+arrived in the United Kingdom from overseas.
+
+19 The news on pay was mixed. Earnings growth in the public sector was slowing quite quickly,
+
+and by more than could easily be accounted for by the effects on the data of previous delayed pay
+
+settlements; and recent pay awards in the public sector were lower than a year earlier. But in the
+
+private sector, earnings growth had picked up in the second half of the year and pay settlements
+
+continued to move higher. Bonuses, however, had been surprisingly weak in December – the first
+
+month of what had been expected to be a rather more buoyant season for financial sector bonuses. It
+
+was too early to tell whether this was simply a matter of timing, such that the expected bonuses would
+
+be paid in the coming months, or reflected more widespread weakness in the sector’s bonus payments
+
+than many had been expecting. Despite weakness in the insurance industry, the overall performance of
+
+the financial sector over the past year had been strong. There were also indications that some
+
+December bonuses had been paid in a way which exploited a tax loophole that had since been closed,
+
+so the payroll-based data might not fully reflect the bonuses actually paid.
+
+20 CPI inflation was 1.4% in the year to January 2004, in line with the Committee’s expectations.
+
+It was expected to remain at about this rate for the next three months. Services price inflation had
+
+eased a little but remained robust, while goods price inflation – though rising – was still weak. As in
+
+some other countries, goods price inflation at the retail level was weaker than the corresponding output
+
+price inflation. In the United Kingdom’s case, marked recent variations in the gap between these two
+
+measures was in part accounted for by changes in seasonal food prices, and by unusual movements in
+
+the price of cars associated with the Competition Commission investigation during 1999 and 2000.
+
+But a pronounced gap remained, even after discounting these factors. It might reflect a squeeze on
+
+distributors’ and retailers’ margins.
+
+
+-----
+
+7
+
+**Other considerations**
+
+21 In the Reuters survey of economists, only one of the 45 sampled this month expected that the
+
+repo rate would be increased; the mean probability attached to an increase was 21%.
+
+22 The Committee noted that the Chancellor’s annual Budget statement would be made on
+
+17 March.
+
+**The immediate policy decision**
+
+23 The latest data on the world economy suggested that activity was no stronger, and perhaps a little
+
+weaker than had been expected a month ago, with the US recovery broadly on track but the latest euro
+area data somewhat softer than anticipated. Growth in Asia remained robust. The main news on the
+
+month for the UK economy was, on the one hand, the marked appreciation of sterling, which would
+
+weaken the prospects for net trade; and, on the other, the stronger recent picture of domestic demand
+
+provided by the latest estimates of GDP, together with the continued strength of retail sales growth and
+
+buoyancy of the housing market. It seemed unlikely that upward revisions to the estimated level of
+
+GDP at basic prices contained much news about the degree of spare capacity. Overall, the prospect
+
+remained one of a steady pickup in CPI inflation towards target, as the gap between actual and
+
+potential output closed.
+
+24 Against this background, there were several arguments for raising the repo rate this month, to
+
+which members gave different weights. First, UK final domestic demand in general, and consumption
+
+in particular, were growing more strongly than previously thought and seemed likely to continue to do
+
+so, at least in the near term. That would reinforce the expected gradual build-up in inflationary
+
+pressure. The Committee’s February central projections had envisaged that consumption growth
+
+would slow markedly in the first half of this year and would continue at a more modest pace thereafter.
+
+The revised data for 2003 and the latest information on retail sales, combined with the continued
+
+buoyancy of the housing market and the steady recovery in the equities market, made that slowing
+
+seem a less likely near-term prospect. Second, for some members, the pickup in house price inflation
+
+and the continued rapid accumulation of debt by households increased their concerns that, without
+
+policy action, households’ financial position could become unsustainable and so increase the
+
+probability of an eventual abrupt adjustment process, complicating the achievement of the inflation
+
+target. On that view, an increase in the repo rate now might reduce such risks. One member judged
+
+
+-----
+
+8
+
+that an immediate rise might have a greater impact on household behaviour and delay might entail a
+
+larger increase in the repo rate at a later date. Third, it was arguable that policy should discount the
+
+impact of sterling’s appreciation directly on sterling import prices and so on the UK price level. The
+
+balance of news about domestically generated inflation since February was arguably to the upside.
+
+25 There was, however, a good case for making no change to the repo rate this month, although for
+
+some members the decision was finely balanced. The news on the month would not materially raise
+
+the Committee’s February central projection for inflation (though the upside risks, especially to
+
+consumption growth, had probably increased). That projection had implied that, in the absence of
+
+shocks, a gradual rise in the repo rate would be necessary over the forecast horizon to keep CPI
+
+inflation at target in the medium term. The projection based on the market yield curve had been
+
+consistent with below-target inflation throughout the forecast period. Against that background, to raise
+
+the repo rate at this month’s meeting would be a surprise, which might prompt an unwarranted re
+evaluation of the Committee’s strategy by market participants and might as a result generate further
+
+upward pressure on sterling. Inflationary pressures could be expected to build over the forecast
+
+horizon, but they had not yet done so sufficiently to warrant a further increase in the repo rate.
+
+26 The Governor invited members to vote on the proposition that the repo rate should be maintained
+
+at 4.0%. The Committee voted unanimously in favour of the proposition.
+
+27 The following members of the Committee were present:
+
+Mervyn King, Governor
+Rachel Lomax, Deputy Governor responsible for monetary policy
+Andrew Large, Deputy Governor responsible for financial stability
+Kate Barker
+Charles Bean
+Marian Bell
+Richard Lambert
+Stephen Nickell
+Paul Tucker
+
+Jon Cunliffe was present as the Treasury representative.
+
+
+-----
+
+#### ANNEX: SUMMARY OF DATA PRESENTED BY BANK STAFF
+
+A1 This Annex summarises the analysis presented by Bank staff to the Monetary Policy Committee
+
+on 27 February 2004, in advance of its meeting on 3-4 March. At the start of the Committee meeting
+
+itself, members were made aware of the information that had subsequently become available, and that
+
+information is included in this Annex.
+
+**I** **Financial markets**
+
+A2 Between the previous Committee meeting, on 4 February, and 3 March short-term interest rates
+
+in the United Kingdom had risen out to twelve months, but had been broadly unchanged at longer
+
+maturities. The central market expectation had been that UK official rates would not be changed at the
+
+March meeting. In the United States and the euro area, short-term rates had fallen.
+
+A3 UK nominal forward rates had been largely unchanged at short maturities, but had risen at longer
+
+maturities. In the euro area and the United States, nominal forward rates had fallen at all but the
+
+longest maturities, with rates in the United States falling more. Breaking down the change in UK
+
+nominal forward rates into changes in real forwards and RPI inflation forwards, using prices of
+
+conventional and index-linked gilts, forward real rates had fallen by around 4 basis points across the
+
+curve. Forward RPI inflation expectations had risen slightly at shorter horizons, but by more at longer
+
+horizons. The inflation forward curve had been flatter and almost entirely within a 2.7%-2.85% range
+
+for RPI inflation.
+
+A4 Information from the Treasury survey taken between 2 and 13 February and the Consensus
+
+surveys taken on 9 February had suggested that annual CPI inflation was expected to be below target
+
+in 2004-05 and at target in 2006.
+
+A5 The sterling effective exchange rate had risen by 2.4%, to 105.9, only part of which could be
+
+accounted for by movements in relative interest rates. Sterling had fallen by 0.2% against the US
+
+dollar, but appreciated against all the other currencies in the ERI including by 2.9% against the euro.
+
+The US dollar had risen by 4.3% against the yen and 3.0% against the euro. The US dollar ERI had
+
+risen by 2.6% over the month. Consensus surveys on 9 February had indicated that not all of sterling’s
+
+appreciation was expected to persist over the next year, and that the US dollar was expected to fall
+
+
+-----
+
+2
+
+slightly over the same horizon. This was consistent with the picture from the Merrill Lynch Fund
+
+Managers’ survey on 11 February. Dollar/yen implied volatilities derived from six-month option
+
+prices had fallen after the February G7 meeting, and dollar/yen risk reversals from twelve month
+
+options suggested that the perceived risk of further US dollar depreciation against the yen (beyond that
+
+suggested by forward exchange rates) had decreased over the month. Sterling risk reversals against the
+
+US dollar and the euro had remained close to neutral.
+
+A6 The FTSE All-Share index had risen by 3.2% and the FTSE 100, FTSE 250 and FTSE SmallCap
+
+indices had risen by 2.9%, 5.1% and 3.8% respectively. Within the All-Share index, only the
+
+consumer goods sub-index had fallen on the month. International markets had also risen: the DJ
+
+EuroStoxx index by 3.8%, the S&P 500 by 2.2% and the Topix by 9.1%. Uncertainty about future
+
+movements in equity indices, as measured by the three-month implied volatility from option prices,
+
+had remained low. Spreads of yields on ten-year investment-grade corporate bonds over government
+
+bonds had risen slightly in the United States, had fallen slightly in the euro area and had been broadly
+
+unchanged in the United Kingdom. There had been fewer profit warnings in the United Kingdom and
+
+the United States during February than in January.
+
+**II** **The international environment**
+
+A7 According to the preliminary estimate, US GDP had risen by 1.0% on the quarter in 2003 Q4,
+
+unchanged from the advance estimate. Within this total, consumption growth had been revised up, to
+
+0.7%, from 0.6%; private investment growth had been revised up, to 2.2%, from 2.0%; and the
+
+growth of government spending had been unchanged from the advance estimate, at 0.2%. The net
+
+trade contribution to quarterly GDP growth had been revised down, to –0.1 percentage points, from a
+
+zero contribution in the advance estimate; stocks had contributed 0.2 percentage points. Non-farm
+
+business sector labour productivity had risen by 0.7% on the quarter, following a rise of 2.3% in 2003
+
+Q3. Unit labour costs had fallen by 0.3%, after falling by 1.5% in the previous quarter.
+
+A8 US industrial production had risen by 0.8% in January compared with the previous month,
+
+following no growth in December. New orders for non-defence capital goods had risen by 1.5%. The
+
+Institute for Supply Management (ISM) manufacturing index had fallen to 61.4 in February, from
+
+63.6 in January. The ISM non-manufacturing index had fallen to 60.8, from 65.7.
+
+
+-----
+
+3
+
+A9 US non-farm payrolls had increased by 112,000 on the month in January, following a rise of
+
+16,000 in December. Real consumption in the United States had increased by 0.1% in January,
+
+following a rise of 0.3% in December; real personal disposable income had increased by 0.5%,
+
+following a rise of 0.1% in the previous month. The saving rate had risen to 1.8% in January, from
+
+1.4% in December.
+
+A10 Nominal retail sales had fallen by 0.3% on the month in January, following growth of 0.2% in
+
+December. But retail sales excluding sales of automobiles had risen by 0.9% in January, following a
+
+rise of 0.2% in December. The Conference Board measure of consumer confidence had fallen to
+
+87.3 in February, from 96.4 in January. The expectations subcomponent had fallen to 96.8, from
+
+107.8, and the present situation index had fallen to 73.1, from 79.4. The University of Michigan
+
+headline index of consumer confidence had fallen to 94.4, from 103.8, reflecting falls in both the
+
+current conditions index and in the expectations index.
+
+A11 Annual headline consumer price inflation in the United States had been 1.9% in January,
+
+unchanged on December. Annual core consumer price inflation (which excludes food and energy
+
+prices) had been 1.1%, also unchanged.
+
+A12 According to the flash estimate, euro-area GDP had increased by 0.3% on the quarter in 2003
+
+Q4, following an increase of 0.4% on the quarter in 2003 Q3.
+
+A13 German GDP had increased by 0.2% on the quarter in 2003 Q4, following growth of 0.2% in
+
+2003 Q3. Within total German GDP, private consumption had fallen by 0.4%, following a fall of
+
+0.3% in 2003 Q3. Total investment had grown by 1.7%, after a fall of 0.5% in 2003 Q3. Government
+
+consumption had fallen by 0.2%, after rising by 0.7%. Net trade had reduced quarterly GDP growth
+
+by 0.7 percentage points, while inventories had added 0.9 percentage points. French GDP had
+
+increased by 0.5% on the quarter in 2003 Q4, following an increase of 0.4% in 2003 Q3. Private
+
+consumption had increased by 0.3%, total investment had increased by 0.7% and government
+
+consumption had risen by 1.0%. Net trade had reduced quarterly GDP growth by 0.3 percentage
+
+points, while inventories had added 0.2 percentage points. Italian GDP had been unchanged on the
+
+quarter in 2003 Q4; Spanish GDP had increased by 0.7%; Dutch GDP had increased by 0.3%; and
+
+Finnish GDP had increased by 0.1%.
+
+
+-----
+
+4
+
+A14 Industrial production in the euro area had increased by 0.2% on the month in December,
+
+following a decline of 0.1% in November. According to the Eurostat release, industrial production had
+
+risen by 0.5% in Germany and by 0.3% in France, but had fallen by 0.2% in Italy. The purchasing
+
+managers' index for the manufacturing sector in the euro area had been 52.5 in February, unchanged
+
+from the previous month. The purchasing managers’ index for the euro-area service sector had fallen
+
+to 56.2 in February, from 57.3 in January. According to the European Commission survey, the euro
+area business confidence indicator had been unchanged in February compared with the previous
+
+month, at –6. The euro-area consumer confidence indicator had increased to –14 in February, from
+
+–15 in January. The IFO institute had released a new German IFO index (with a consistent back run of
+
+data to January 1991) covering the whole of Germany, as it had judged that the West and East German
+
+business cycles had now largely converged. The index had fallen to 96.4 in February, from 97.5 in
+
+January.
+
+A15 Annual inflation in the euro area, as measured by the harmonised index of consumer prices
+
+(HICP), had fallen to 1.9% in January, from 2.0% in December. Annual core inflation (excluding
+
+energy, food, alcohol and tobacco) had risen to 1.7% in January, from 1.6% to December. According
+
+to the Eurostat flash estimate, euro-area annual HICP inflation had fallen to 1.6% in February.
+
+According to the preliminary estimate, German annual HICP inflation had fallen to 0.9% in February,
+
+from 1.3% in January.
+
+A16 According to the preliminary estimate, Japanese real GDP had risen by 1.7% in 2003 Q4,
+
+compared with a 0.6% increase in the previous quarter. Within the total, private consumption had
+
+increased by 0.8%, business investment had increased by 5.1% and real government consumption had
+
+risen by 0.5%. Net trade had contributed 0.4 percentage points to quarterly growth and inventories had
+
+made a zero contribution.
+
+A17 Industrial production in Japan had risen by 3.4% in January on a month earlier, following a fall
+
+of 0.8% in December. Japanese core domestic private machinery orders (excluding volatile orders)
+
+had risen by 11.3% on the quarter in 2003 Q4, after rising by 2.6% in 2003 Q3. Growth in Japanese
+
+nominal retail sales had been 1.3% in the year to January, compared with a fall of 0.6% in December.
+
+The workers’ household survey had reported a 3.3% increase in real spending in the year to January,
+
+compared with 1.1% growth in the year to December. Annual growth in export volumes had been
+
+
+-----
+
+5
+
+13.4% in January, up from 13.0% in December. Annual growth in import volumes had slowed to
+
+5.6% in January, from 9.2% in December.
+
+A18 Since the Committee’s previous meeting, the spot price of Brent crude oil had increased by
+
+$3.77 per barrel to $33.10, and The Economist dollar non-oil commodity price index had risen by
+
+5.1% over the same period.
+
+**III** **Money and credit**
+
+A19 The annual growth rate of notes and coin (adjusted for special factors) had fallen to 6.9% in
+
+February, from 7.4% in January. The annual growth rate of M4 had increased to 8.3% in January,
+
+compared with 6.9% in December. The annual growth rate of M4 lending (excluding the effects of
+
+securitisations) had risen to 12.6% in January, from 11.5% in December. Within M4 lending, reverse
+
+repos had made a positive contribution of £3.7 billion. Excluding other financial corporations (OFCs),
+
+annual M4 growth had been unchanged at 8.5%, while annual M4 lending growth (excluding the
+
+effects of securitisations) had risen by 0.5 percentage points, to 12.6%.
+
+A20 The annual growth rate of households’ M4 had decreased in January by 0.4 percentage points, to
+
+8.1%. The annual growth rate of M4 lending to households (excluding the effects of securitisations)
+
+had increased by 0.1 percentage points, to 13.9%. Within total net lending to individuals − a measure
+
+that includes borrowing from a broader set of institutions than just banks and building societies −
+
+annual secured lending growth had been unchanged, at 14.4%, in January. Annual unsecured lending
+
+growth had risen to 12.7%, from 12.4% in December. The annual rate of growth of credit card lending
+
+had fallen to 17.2%, from 17.6% in December, and the annual rate of growth of other unsecured
+
+lending had risen to 10.7%, from 10.2% in December.
+
+A21 The pass-through from the repo rate rise to quoted standard variable rate (SVR) mortgage rates
+
+had been almost complete: the average rate had risen by 22 basis points since the MPC meeting in
+
+February. Quoted savings rates, by contrast, had not yet risen by a significant amount. After taking
+
+into account a pre-announced increase, the average time deposit rate had risen by 4 basis points. The
+
+average rate on instant access deposits had risen by 2 basis points. Credit card rates had fallen by
+
+15 basis points, while rates on personal loans of £10,000 had decreased by 4 basis points. According
+
+
+-----
+
+6
+
+to the latest data from the Council of Mortgage Lenders, the share of fixed-rate mortgages in new
+
+mortgage business had fallen to 26% in January, from 28% in December.
+
+A22 The number of loan approvals for house purchase had fallen to 110,000 in January, from
+
+118,000 in December. Housing transaction completions, measured by land transaction returns
+
+(formerly known as particulars delivered), had fallen by 16.0% in the three months to January
+
+compared with the same period a year earlier. According to the Royal Institution of Chartered
+
+Surveyors, unsold stocks of properties had fallen to 60 per surveyor in January, from 62 per surveyor
+
+in December. The number of sales per surveyor had been stable in January, at 32.
+
+A23 The annual rate of growth of private non-financial corporations’ (PNFCs’) M4 had increased to
+
+10.2% in January, from 8.6% in December. The annual rate of growth of M4 lending to PNFCs
+
+(excluding the effects of securitisations) had increased to 8.4% in January, from 6.8% in December.
+
+The flow of total external finance, which includes capital market issues and foreign-currency
+
+borrowing, in addition to sterling borrowing from UK banks and building societies, had been strong at
+
+£4.9 billion in January. The strength had reflected borrowing from banks rather than capital issues.
+
+**IV** **Demand and output**
+
+A24 Quarterly growth of GDP at constant market prices had been unrevised in the Output, Income
+
+and Expenditure release for 2003 Q4, at 0.9%. But there had been revisions to data since the start of
+
+2003, such that the annual growth rate in Q4 was revised up by 0.3 percentage points, to 2.8%.
+
+Following upward revisions through 2003, annual growth of GDP at constant basic prices had been
+
+estimated at 2.3% in Q4.
+
+A25 On the output side of the accounts, quarterly service sector output growth had been unrevised in
+
+2003 Q4, at 1.0%. Within the service sector, output of the business services and finance sector had
+
+risen by 1.4%, output of the transport, storage and communications sector by 0.9% and output of the
+
+distribution, hotels and catering sector by 0.5%. Quarterly production sector output growth had been
+
+revised down by 0.1 percentage points, to –0.1% in 2003 Q4. Within that, manufacturing output had
+
+been estimated to have grown by 0.2% on the quarter. Construction output had been estimated to have
+
+risen by 1.6% in Q4, following a rise of 2.0% in Q3.
+
+
+-----
+
+7
+
+A26 On the expenditure side of the accounts, real household consumption (including that of non
+profit-making institutions serving households) had grown by 1.1% in Q4. Real government
+
+consumption had risen by 1.9%, and whole-economy investment by 1.6%. Within whole-economy
+
+investment, business investment had risen by 1.3% on the quarter, reflecting increases in both private
+
+services and private manufacturing investment.
+
+A27 Final domestic demand had risen by 1.4% in 2003 Q4. The change in inventories (including the
+
+statistical alignment adjustment) had reduced quarterly GDP growth by 0.3 percentage points:
+
+domestic demand had risen by 1.1% on the quarter.
+
+A28 Total exports had risen by 1.8% in Q4, while total imports had risen by 2.2%. Overall net trade
+
+had reduced quarterly GDP growth by 0.2 percentage points. Adjusting for the effects of missing
+
+trader intra-community (MTIC) VAT fraud, export and import growth had been estimated at 1.9% and
+
+2.4% respectively.
+
+A29 Turning to indicators of expenditure in 2004 Q1, retail sales had risen by 0.6% on the month in
+
+January, following growth of 0.8% in December. Over the three months to January 2004, retail sales
+
+had grown by 1.7%, the strongest growth in retail sales over this period for four years. The retailers’
+
+sales balance in the Confederation of British Industry (CBI) Distributive Trades survey had pointed to
+
+a fall in annual retail sales volumes growth in February: the balance had fallen to +26, from +38 in
+
+January.
+
+A30 The Nationwide and Halifax house price indices had risen by 3.1% and 1.6% respectively on the
+
+month in February. The annual growth rates had risen to 17.1% and 17.9% respectively. The headline
+
+GfK consumer confidence measure had fallen back to –2 in February, from 0 in January. This had
+
+been driven primarily by a seasonal fall in the balance of respondents thinking it was a good time to
+
+make a major purchase.
+
+A31 Turning to indicators of output in 2004 Q1, the Chartered Institute of Purchasing and Supply
+
+(CIPS) services activity index had fallen slightly, to 59.5 in February. The incoming new business
+
+index had risen slightly, to 60.6, the highest balance since May 1997.
+
+
+-----
+
+8
+
+A32 The CIPS manufacturing output index had fallen by 2.1 points in February, to 55.9. The new
+
+orders index had also fallen, to 53.7 in February, from January’s four-year high of 60.2. The total
+
+orders balance in the February CBI Monthly Trends Enquiry had picked up to –15 in February, from
+
+–18 in January. The volume of output balance had fallen by 7 points, to +14 in February, but had
+
+remained high relative to its average since 1990 of +5.
+
+A33 The Bank’s regional Agents had conducted a survey of around 230 firms into recent
+
+developments in supply capacity. Most respondents had replied that they had adequate or a little more
+
+than adequate capacity both in plant and machinery and in labour to meet current demand. The
+
+majority of respondents had suggested that they would be able to increase their output without
+
+increasing the size of their workforce and had indicated that they were not currently experiencing
+
+recruitment difficulties.
+
+A34 Sectoral analysis of the survey responses had suggested that firms in the manufacturing and
+
+‘hotels and catering’ industries had more than adequate plant and machinery to meet current demand,
+
+while firms in the ‘other services’ and construction industries had an adequate stock of plant and
+
+machinery. Firms in the ‘hotels and catering’ and construction industries had reported some
+
+recruitment difficulties, while those in the ‘other services’ and manufacturing industries had reported
+
+normal recruitment conditions.
+
+**V** **The labour market**
+
+A35 According to the Labour Force Survey (LFS), employment had increased by 5,000 in 2003 Q4
+
+compared with Q3. The working-age employment rate had fallen by 0.1 percentage points, both on the
+
+quarter and on the year, to 74.5%. The 16+ employment rate had fallen by 0.1 percentage points on
+
+the quarter, to 59.8%, but had been unchanged on the year. Total hours worked had fallen by 0.5% on
+
+the quarter, but were up by 0.1% on a year earlier. Average hours had fallen by 0.5% on the quarter
+
+and by 0.4% on a year earlier.
+
+A36 The overall CIPS employment survey for February had continued to suggest robust employment
+
+growth, and all three sector indices had remained above the ‘no change’ level of 50.
+
+
+-----
+
+9
+
+A37 The LFS measure of unemployment had fallen by 21,000 in 2003 Q4, and had been 55,000 lower
+
+than a year earlier. The unemployment rate had fallen to 4.9%, 0.1 percentage points lower on the
+
+quarter and 0.2 percentage points below its rate a year earlier. The claimant count unemployment rate
+
+had fallen by 0.1 percentage points in January. Both inflows and outflows to the claimant count had
+
+also fallen on the month, by 4,000 and 5,600 respectively.
+
+A38 Working-age inactivity had risen by 74,000 in 2003 Q4. The working-age inactivity rate had
+
+increased by 0.2 percentage points on the quarter and by 0.3 percentage points on the year, to 21.5%.
+
+The level of 16+ inactivity had risen by 87,000 in 2003 Q4. The 16+ inactivity rate had increased by
+
+0.1 percentage points on the quarter and by 0.2 percentage points on the year, to 37.1%.
+
+A39 Whole-economy average earnings had increased by 3.4% in 2003 Q4 over the same period a
+
+year earlier, down 0.2 percentage points from the 2003 Q3 figure. Average annual earnings growth in
+
+the public sector had been 4.4%, down 1.2 percentage points from the 2003 Q3 figure; and in the
+
+private sector, annual earnings growth had been 3.2%, up 0.1 percentage points from the 2003 Q3
+
+figure. After excluding bonuses, the annual growth of average earnings in the economy as a whole had
+
+been 3.6% in the fourth quarter, down 0.1 percentage points from the 2003 Q3 figure. Financial sector
+
+bonuses appeared to have made a substantial negative contribution to earnings growth in December.
+
+A40 According to the settlements information available to the Bank, the whole-economy twelve
+month average earnings index (AEI)-weighted mean settlement had been 3.2% in the year to January,
+
+unchanged on the year to December. The twelve-month sample-weighted mean settlement had
+
+increased in the private sector by 0.1 percentage points, to 3.2%, while that in the public sector had
+
+been unchanged, at 3.4%.
+
+**VI** **Prices**
+
+A41 Sterling oil prices had fallen by around 3% in February.
+
+A42 Manufacturing input prices had fallen by 1.0% in January. Partly owing to base effects, the
+
+annual inflation rate had fallen to 0.0%, from 1.9% in December. But the CIPS manufacturing survey
+
+had pointed to rises in input prices since then: the input price balance had risen to 60.6 in February,
+
+from 60.2 in January.
+
+
+-----
+
+10
+
+A43 Manufacturing output prices excluding duties (PPIY) had been unchanged in January, while the
+
+annual inflation rate had fallen to 1.4%, from 1.7% in December. Survey data had pointed to a small
+
+fall in output prices since then: the balance on expected output prices from the CBI Monthly Trends
+
+Enquiry had fallen to –2 in February, from +1 in January.
+
+A44 The ONS’s experimental corporate services price index (CSPI) had been rebased and revised. It
+
+suggested that annual corporate services price inflation had fallen to 2.9% in Q4, from 3.1% in Q3.
+
+The CIPS services survey had pointed to rising output prices in February: the average prices charged
+
+index rose to 52.4, from 50.7 in January.
+
+A45 According to the ONS’s Output, Income and Expenditure release, the annual inflation rate of the
+
+GDP deflator at market prices had fallen to 2.8% in Q4, from 3.1% in Q3. Within this, the annual rate
+
+of inflation of the household consumption deflator had risen by 0.2 percentage points, to 1.8%. The
+
+annual inflation rate of the government consumption deflator had fallen to 7.8%, from 8.2% in Q3.
+
+The annual inflation rates of the imports and exports deflators had been 1.7% and 1.5% respectively.
+
+A46 Annual CPI inflation had risen to 1.4% in January, from 1.3% in December. Within this, annual
+
+goods price inflation had been unchanged at 0.0%, while annual services price inflation had risen by
+
+0.3 percentage points, to 3.1%. Annual RPIX inflation had fallen to 2.4%, from 2.6% in December.
+
+Annual RPI and RPIY inflation had both fallen in January, to 2.6% and 2.0% respectively.
+
+**VII Reports by the Bank’s Agents**
+
+A47 The Bank's regional Agents reported that contacts in the manufacturing sector had generally not
+
+been quite as confident in the strength of the recovery as most business surveys had recently
+
+suggested. While it appeared that manufacturing output had continued to increase, the recovery had
+
+been patchy, with some contacts concerned about the dollar’s depreciation. That was reducing
+
+domestic manufacturers’ cost competitiveness against both US and Asian suppliers that priced in
+
+dollars. By contrast, the Agents had reported a more broadly based, and much stronger, recovery in
+
+the service sector that had been more in tune with the results from recent business surveys.
+
+A48 Investment had picked up, especially in the service sector. Capital spending on information
+
+technology (IT) had begun to revive, after several years during which many contacts had placed a
+
+moratorium on IT spending. The recovery in manufacturing investment had been rather more muted.
+
+
+-----
+
+11
+
+That had, in part, been the result of exchange rate uncertainty, which had affected confidence in the
+
+profitability of new manufacturing capacity in the United Kingdom.
+
+A49 The Agents reported that inflationary pressure from material costs had increased. The
+
+expansion of the Chinese economy in particular had increased world demand for many commodities
+
+and metals, which in some cases had not been fully matched by increased supply. For example, global
+
+capacity shortages in the steel industry had been a contributory factor behind sharply rising prices
+
+recently. Contacts reported that they had only limited scope to pass on these higher material costs to
+
+customers, resulting in some decline in their profit margins.
+
+
+-----
+

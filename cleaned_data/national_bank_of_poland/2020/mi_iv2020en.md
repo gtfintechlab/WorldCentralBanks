@@ -1,0 +1,178 @@
+# Minutes of the Monetary Policy Council decision-making
+
+ meeting held on 8 April 2020
+
+While discussing the current economic situation, the Council members drew attention
+
+to the fact that the COVID-19 pandemic and the measures taken to contain its spread had
+contributed to a significant fall of the economic activity in many countries. This was
+accompanied by a sharp deterioration in business sentiment, indicating a collapse in
+services activity and a sharp downturn in industry. In addition, the situation in the
+labour market had deteriorated. Therefore, incoming data indicated that the scale of the
+negative economic impact of the pandemic was probably greater than earlier estimates.
+As a result, GDP forecasts around the world – including at Poland's main economic
+partners – had been revised sharply downwards. At the same time, in China – after
+probable containment of the epidemic and easing of the restrictions – the first signs of a
+recovery in economic activity had appeared.
+
+The deterioration in the global economic outlook has kept risk aversion elevated in
+
+the global financial markets. This was reflected in increased price volatility of many
+assets, as well as a tightening of financing conditions. At the same time, since the
+beginning of the year global oil prices have declined significantly. It was pointed out that
+this was driven by the fall in current and forecast demand for this commodity amid a
+sharp contraction of economic activity, in the absence of an agreement on reducing oil
+production between Saudi Arabia and Russia. Certain Council members judged that in
+the coming months oil prices might rise, while remaining lower than in the previous
+years. The expected weakening of global demand had also contributed to the fall in the
+prices of some food commodities.
+
+The Council members judged that the scale of the negative economic effects of the
+
+pandemic in many countries might be limited by the fiscal measures adopted. It was
+pointed out that the launch of fiscal programmes was mainly aimed at mitigating the
+impact of COVID-19 on the financial situation of enterprises and – as a result – on the
+level of employment and household income. It was underlined that effective measures in
+this area were key for the ability of economies to restore activity quickly after the
+resolution of the current disruptions.
+
+The fiscal measures introduced in many economies were accompanied by a
+
+significant easing of monetary conditions. Many central banks had cut interest rates,
+increased liquidity in the banking sector, and were conducting asset purchases. It was
+emphasised that monetary policy easing was being carried out quickly and on a large
+scale.
+
+The Council members expressed the opinion that the measures taken by the
+
+governments and central banks would contribute to an improvement in the mediumterm economic outlook. At the same time, they emphasised that it was difficult to
+estimate the scale of their positive impact on economic growth, which, along with the
+
+
+-----
+
+limited capacity to predict the further course of the pandemic, caused significant
+uncertainty about GDP growth in the coming quarters.
+
+In Poland the economic conditions in the first months of the year were relatively
+
+good. However, the Council members judged that the measures taken to limit the spread
+of the epidemic – although necessary from the point of view of public health protection –
+were contributing to a fall in economic activity, the scale of which could be very
+significant in the short term. It was emphasised that the fall in economic activity would
+be accompanied by a deterioration in the situation in the labour market and a reduction
+in household disposable income. It was also underlined that the health threat associated
+with COVID-19 along with the negative economic effects of the epidemic had led to a
+slump in consumer and business sentiment. It was judged that after the resolution of the
+disruptions associated with the pandemic, there would probably be a gradual
+improvement in the economic situation in the medium term. At the same time, it was
+pointed out that the pace and scale of the recovery were subject to considerable
+uncertainty. They would depend on the long-term impact of the disruptions on the
+income and sentiment of businesses. It was indicated that should the weakened
+sentiment persist, it could lower significantly the propensity of enterprises to invest and
+households to consume, adversely affecting GDP growth and inflation.
+
+It was emphasised that the negative impact of the epidemic on economic growth
+
+would be mitigated by the stimulus packages introduced in Poland and many other
+countries. It was judged that the strong macroeconomic fundamentals of the Polish
+economy, related to the low level of internal and external debt and high competitiveness,
+would have a positive impact on the medium-term economic outlook. It was underlined
+that the maintenance of price competitiveness of Polish exports, and also their
+geographical and sectoral diversity, would support the restoration of Polish foreign sales
+after the fading of the pandemic, which would take place amid intensified competition in
+international markets.
+
+It was pointed out that in the coming months inflation would most likely decline
+
+significantly. Slower price growth would be supported by the expected fall in global
+economic activity and weakening of domestic demand. Inflation would also be lowered
+by lower commodity prices in the global markets. Taking this into account, the majority
+of the Council judged that – despite the easing of NBP's monetary policy in the recent
+period – the risk of inflation falling below NBP's inflation target over the monetary
+policy transmission horizon remained. Certain Council members expressed the opinion
+that the fall in economic activity might be accompanied by an increase in price growth in
+the medium term.
+
+The majority of the Council members judged that, taking into account the significant
+
+deterioration in the economic outlook and the increased risk of a fall in inflation below
+the NBP target in the medium term, NBP interest rates should be cut once again at the
+current meeting. These Council members pointed out that the decision would directly
+lead to a further reduction in instalments on loans with a variable interest rate taken out
+
+
+-----
+
+by enterprises and households. The reduction in debt servicing costs would therefore
+mitigate the negative impact of the COVID-19 restrictions on the financial situation of
+enterprises and households and would reduce the risk of their insolvency. As a result,
+the interest rate cut would contribute to limiting the secondary effects of the COVID-19
+epidemic – such as an increase in unemployment and a sharp fall in consumer demand –
+thus improving the country's medium-term outlook and strengthening the stability of
+the financial system. It was emphasised that this effect would be strengthened by the
+positive impact of the interest rate cut on business sentiment after the pandemic had
+ended. Mitigation of the negative impact of the pandemic on economic activity would
+also be supported by a decline – as a result of the decrease in interest rates – in yields on
+Treasury bonds and the costs of public debt servicing, which would provide more room
+for the necessary fiscal stimulus. The majority of the Council members pointed out that
+an interest rate cut, supporting the economic growth with all of the indicated channels,
+would reduce the risk of a fall in inflation below the NBP inflation target over the
+monetary policy transmission horizon.
+
+A view was expressed that although the monetary policy should be eased at the
+
+current meeting, it should be made more expansionary through direct influence on the
+longer end of yield curve, rather than by reference rate cut.
+
+The Council members underlined that in order to strengthen the easing of monetary
+
+conditions in the economy, NBP should continue to carry out the purchase of Treasury
+securities, while extending the range of purchased assets to include debt securities
+guaranteed by the State Treasury. Purchase operations will be carried out in the
+secondary market as part of the structural open market operations. The aim of these
+operations will be to change the long-term liquidity structure in the banking sector,
+maintain liquidity in the secondary market of the purchased securities and strengthen
+the impact of the NBP interest rate cuts on the economy, that is, strengthen the monetary
+transmission mechanism. The timing and scale of the operations will depend on the
+market conditions.
+
+NBP will also offer bill discount credit intended to refinance corporate loans granted
+
+by banks.
+
+It was pointed out that all the measures taken by NBP were aimed at reducing the
+
+negative economic consequences of the pandemic and creating the conditions for a rapid
+recovery in economic activity after the current disruptions had ceased. As a result, these
+measures support the maintenance of macroeconomic and financial stability, while also
+reducing the risk of inflation falling below the NBP inflation target in the medium term.
+
+At the meeting a motion was submitted to lower the NBP interest rates by 0.5
+
+percentage points, i.e. the reference rate to 0.50%, the lombard rate to 1.00%, the deposit
+rate to 0.00%, the rediscount rate to 0.55%, and the discount rate to 0.60%. The motion
+passed.
+
+
+-----
+
+At the meeting a motion was submitted to extend the purchase of assets by including
+
+securities guaranteed by the State Treasury and Treasury securities with a maturity not
+exceeding 1 year. The motion passed.
+
+At the meeting a motion was also submitted to introduce repo operations with over
+
+two-year maturity and interest of 0.25%. The motion did not pass.
+
+The Council set the NBP interest rates as follows: the reference rate at 0.50%, the
+
+lombard rate at 1.00%, the deposit rate at 0.00%, the rediscount rate at 0.55%, and the
+discount rate at 0.60%.
+
+Publication date: 1 June 2020
+
+
+-----
+

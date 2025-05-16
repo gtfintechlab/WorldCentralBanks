@@ -1,0 +1,124 @@
+**Edited Minutes of the Monetary Policy Committee Meeting**
+
+**Bank of Thailand**
+
+**25 July 2012**
+
+**Publication Date: 8 August 2012**
+
+**Members Present**
+
+Prasarn Trairatvorakul (Chairman and Governor), Suchada Kirakul (Vice Chairman and Deputy
+Governor, Monetary Stability), Sorasit Soontornkes (Deputy Governor, Corporate Support
+Services), Ampon Kittiampon, Siri Ganjarerndee, Narongchai Akrasanee, and Aswin Kongsiri.
+
+**Financial Markets**
+
+**Global economic uncertainty continued to dampen investor confidence, fueling demand for**
+safe-haven assets and pushing government bond yields in major economies to exceptionally
+low levels. In contrast, bond yields in crisis-affected eurozone economies edged higher.
+Capital flows to emerging economies were volatile, as they were sensitive to shifting investor
+sentiment. As a result, volatility in regional equity and bond markets increased, while regional
+currencies including the Thai baht depreciated against major currencies such as the US dollar
+and the Japanese yen.
+
+**Heightened volatility in global financial markets did not significantly affect the Thai financial**
+**market,** with both domestic and foreign currency liquidity remaining sufficient. Although
+foreign currency liquidity tightened in some periods as concerns over global economic
+conditions intensified, overall market adjustment was orderly. Money market rates and short**term bond yields stabilized in line with the policy rate, reflecting market expectations that**
+**the MPC would keep the policy rate unchanged in this meeting. Driven by a strong post-flood**
+economic recovery, foreign investment in equity and bond markets increased, pushing
+medium- and long-term government bond yields lower.
+
+**International Economy**
+
+**Risks to the global economy increased relative to the previous meeting reflecting: (1) the high**
+**degree of uncertainty surrounding the European sovereign debt crisis which was likely to be**
+**protracted given deep underlying structural problems** whose resolution would encounter
+numerous practical challenges. For example, parliamentary approval from every member
+country would be needed before the single supervisory mechanism can be established. (2) The
+**fragile recovery of the U.S. economy, as reflected by lower than expected employment and**
+consumption figures, and uncertainty over whether or not key fiscal stimulus measures
+scheduled to expire at the end of this year would be extended.
+
+
+-----
+
+**The slowing global economy weighed on Asian and Chinese exports, which were anticipated**
+**to be weaker than previously assessed. Some MPC members viewed the moderation in export**
+growth as suggestive of Asia’s limited capacity to act as the main driving force for the global
+economy going forward.
+
+**As global price pressure softened in line with weaker global demand, a few central banks,**
+such as in South Korea, China, as well as the eurozone, eased policy with a view to containing
+downside risks to growth.
+
+**The Domestic Economy**
+
+**The Thai economy continued to recover from the floods and the level of activity had returned**
+**to normal. Domestic demand was supported by accommodative financial conditions, strong**
+private credit growth, good employment opportunities and government stimulus measures.
+These factors should continue to sustain private consumption and investment expenditures
+going forward. Nonetheless, a few MPC members viewed that constraints on the supply of key
+inputs, particularly shortages of labour in some industries, would limit growth of the country’s
+production capacity in the long run.
+
+**While the MPC projected economic growth to be close to potential with continued expansion**
+**of domestic demand, the slowdown in the global economy would detract from Thai export**
+**growth to a greater extent than previously anticipated.** Relative to the previous meeting,
+export growth for 2012 was revised downward from 8.3 percent to 7 percent, while projected
+GDP growth was lowered from 6.0 percent to 5.7 percent in 2012 and from 5.4 percent to 5.0
+percent in 2013. Price pressure moderated in tandem with the softer economic outlook, and
+inflation was projected to return to the mid-point of the target sooner than previously
+assessed.
+
+**The MPC deliberated on the recent rapid growth in private credit. While a major driving**
+factor was attributed to credit extension by government specialised financial institutions,
+commercial bank loans had also expanded at a fairly high rate. This was viewed as reflective of
+the upcycle in private investment, as well as accommodative loan supply conditions. Although
+there were currently no clear signs of excessive credit growth, with the level of non-performing
+loans still at a low level, the committee would continue to closely monitor the expansion of
+loans by both commercial banks and specialised financial institutions.
+
+**Monetary Policy Considerations**
+
+**The MPC viewed that the outlook for global economic growth had weakened with heightened**
+**risks compared to the previous assessment, and anticipated that the impact on Asian and Thai**
+economies would become more evident in the period ahead. Meanwhile, domestic demand
+
+
+-----
+
+expanded close to potential and inflationary pressure subsided. **With the balance of risks**
+**skewed more towards growth rather than inflation, monetary policy could play a role in**
+**supporting economic activity if necessary. However, members differed somewhat in their**
+assessment of the balance of risks.
+
+**Two members viewed that a reduction of the policy rate by 0.25 percent per annum** **was**
+**warranted as the weakening global economy could act as a drag on the Thai economy through**
+its larger than expected impact on the export sector. Moreover, there was the risk that the
+support from fiscal stimulus measures could be delayed and their impact more muted than
+currently assumed. Further easing of monetary policy at an early stage would thus help to
+shore up confidence and sustain private investment growth.
+
+**Five members assessed that the current policy rate of 3.0 percent per annum was**
+**appropriate,** viewing the prevailing macroeconomic policy mix as suitably supportive of
+domestic economic growth and already providing a degree of cushioning against global
+economic risks. This assessment was supported by an overall economic picture in which growth
+was close to potential, inflation projected to remain within target, and monetary conditions
+accommodative with low real interest rates and robust credit growth. In addition, given the
+structural nature of the problems besetting the global economy, comprehensive solution would
+take time. As such, the option for monetary stimulus should be retained until there was greater
+clarity on the impact of the global economy on Thai economy.
+
+**The MPC therefore voted 5 to 2 to maintain the policy rate at 3 percent per annum. The MPC**
+would remain vigilant in monitoring developments in the global economy and domestic
+demand conditions, and stood ready to take appropriate policy actions.
+
+Monetary Policy Group
+
+8 August 2012
+
+
+-----
+

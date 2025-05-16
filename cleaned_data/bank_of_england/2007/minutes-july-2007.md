@@ -1,0 +1,552 @@
+### Publication date: 18 July 2007
+
+## MINUTES OF
+# MONETARY POLICY COMMITTEE MEETING
+## 4 AND 5 JULY 2007
+
+##### These are the minutes of the Monetary Policy Committee meeting held on  4 & 5 July 2007.
+
+ They are also available on the Internet http://www.bankofengland.co.uk/publications/minutes/mpc/pdf/2007/mpc0707.pdf
+
+ The Bank of England Act 1998 gives the Bank of England operational responsibility  for setting interest rates to meet the Government’s inflation target. Operational  decisions are taken by the Bank’s Monetary Policy Committee. The Committee meets  on a regular monthly basis and minutes of its meetings are released on the  Wednesday of the second week after the meeting takes place. Accordingly, the  minutes of the Committee meeting held on 1 and 2 August will be published on  15 August 2007.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 4-5 JULY 2007
+
+1 Before turning to its immediate policy decision, the Committee discussed developments in
+
+financial markets; the international economy; money, credit, demand and output; and supply, costs
+
+and prices.
+
+**Financial markets**
+
+2 Market interest rates had increased markedly over the two months since the May Inflation
+
+_Report. Short-term sterling rates a year ahead had risen by around 50 basis points. Short-term rates in_
+
+the euro area and the United States had risen by a broadly similar amount by mid-June, but since then
+
+had fallen back. The different path of UK rates in part reflected the Minutes published on 20 June,
+
+since when market expectations of a rate rise at the July meeting had firmed. In the most recent
+
+Reuters survey of 70 City economists, 56 had expected a rise in Bank Rate at the July meeting. The
+
+sterling effective exchange rate had risen by around 0.5% on the month, broadly consistent with
+
+changes in relative interest rates.
+
+3 Longer-term interest rates had also risen further in the United Kingdom, the euro area and the
+
+United States. Nominal 10-year forward rates had increased by 15-20 basis points since the June MPC
+
+meeting and by some 30-40 basis points since the May Inflation Report. Implied volatilities from
+
+options on 10-year US Treasuries had also risen, with the skew moving sharply to the upside. These
+
+changes in nominal yields and volatilities had probably reflected revised views of market participants
+
+about the risks to the outlook for the US economy. The change in nominal yields internationally had
+
+been partly accounted for by a shift in real interest rates, with 10-year real forwards having risen by
+
+10-15 basis points on the month and by 20-25 basis points since the May Inflation Report.
+
+4 Implied inflation forward rates had also been increasing: 10-year UK inflation forwards were
+
+some 10 basis points higher than at the time of the May Inflation Report and some 60 basis points
+
+higher than two years previously, a rather greater rise than in the United States and the euro area. The
+
+Committee discussed whether that necessarily indicated a rise in long-term expected inflation. The
+
+inflation risk premium might have increased to reflect a perceived rise in the future volatility of
+
+inflation. There might also be increased uncertainty about the difference between the CPI and the
+
+
+-----
+
+2
+
+inflation reference for index-linked bonds, the RPI. An alternative explanation was that the rise in
+
+inflation forward rates reflected extraordinarily strong demand from pension funds for index-linked
+
+bonds. This could have been consistent with a change in the value of the hedge against inflation
+
+provided by index-linked bonds, rather than any change in views about the expected level of inflation.
+
+There was little anecdotal information from long-term investment institutions that their inflation
+
+expectations had risen.
+
+5 Equity prices had been quite volatile internationally and most major indices had ended the
+
+month slightly above their levels at the time of the June meeting. Investment-grade corporate bond
+
+spreads were little changed but spreads on some riskier assets had widened: dollar-denominated
+
+sub-investment grade bond spreads had increased by around 50 basis points. There had been renewed
+
+concerns about the US sub-prime mortgage sector and the associated difficulties of some hedge funds.
+
+Risk premia on a range of assets had been unusually compressed for some years. If these returned
+
+towards previous levels, that could pose a downside risk to many asset prices, which could have
+
+implications for consumption and investment.
+
+**The international economy**
+
+6 The world economy had continued to develop broadly in line with the Committee’s central
+
+projections in the May Inflation Report. In the euro area, the Purchasing Managers Indices for June
+
+were slightly stronger for both services and manufacturing. Retail sales had fallen by 0.5% in May,
+
+but unemployment had fallen further and an improving labour market was likely to support future
+
+consumption growth. Monthly indicators had suggested that Q2 GDP growth would be at least as
+
+strong as the Committee’s May projection.
+
+7 In the United States, Q1 GDP growth had been 0.2%. The indicators for the second quarter had
+
+been mixed, although GDP growth was still likely to be broadly consistent with the May Inflation
+
+_Report. Consumption had risen just 0.1% in May and the latest monthly data for orders and shipments_
+
+of non-defence capital goods (excluding aircraft) had fallen following two strong months. Overall,
+
+Q2 business investment was likely to show firm growth. The Institute of Supply Management
+
+manufacturing index had picked up in June, and manufacturing appeared to have recovered from a
+
+period of slower growth at the turn of the year.
+
+
+-----
+
+3
+
+8 In Asia, Japanese Q1 GDP growth had been revised up to 0.8% and Chinese indicators also
+
+pointed to further strong growth. Growth had also been robust in the Middle East and in other
+
+oil-producing countries.
+
+9 Euro-area inflation remained steady at 1.9% and, although headline US CPI inflation had edged
+
+up to 2.7%, the Federal Reserve’s preferred core inflation measure, based on the personal consumption
+
+expenditures deflator, had fallen to 1.9%. Spot oil prices had risen by around 4% on the month.
+
+10 Given robust external demand in recent years, the Committee discussed why export growth had
+
+not been stronger. One possibility was that it reflected the changing composition of world trade.
+
+Global growth could have boosted intra-Asian trade, for example. And growth in the euro area had
+
+been unusually investment intensive with the United Kingdom not being a significant exporter of
+
+capital goods. However, the United Kingdom should have benefited from growth in demand for
+
+associated financial services. Another consideration was the appreciation of sterling, which had
+
+accompanied the strong global growth. This should have dampened demand for UK exports, though
+
+neither business surveys nor the Agents’ reports had indicated that manufacturing firms saw the level
+
+of the exchange rate as a major constraint on export orders.
+
+11 In contrast to the National Accounts, business surveys and the reports of the Bank’s regional
+
+Agents suggested rather faster export growth. It was possible that the National Accounts data had
+
+underestimated export growth, either because of the uncertainty associated with fraudulent activity or
+
+because the United Kingdom was a major exporter of services, the values and volumes of which were
+
+naturally much harder to measure accurately.
+
+**Money, credit, demand and output**
+
+12 The Quarterly National Accounts had contained fewer and smaller substantive revisions than
+
+normal at this time of year, as the full reconciliation and updating exercise had been postponed for a
+
+year, given other priorities at the Office for National Statistics. There had been some upward revisions
+
+to the level of GDP, although Q1 growth was unchanged at 0.7%. The four-quarter growth rate for
+
+GDP had been revised up a little to 3.0% and for private sector output to 3.7%. The composition of
+
+growth had been little changed.
+
+
+-----
+
+4
+
+13 Investment growth in the first quarter had been revised up and consumption growth had been
+
+revised down a little. With household real post-tax income falling sharply, the estimated saving ratio
+
+had fallen to 2.1%, its lowest level since 1960. The decline in income mostly reflected a fall in
+
+employers’ special contributions into pension funds so the impact on consumption was likely to be
+
+limited.
+
+14 The latest indicators for the second quarter suggested that total output growth was likely to be
+
+robust. In the CIPS/NTC services survey for June, the activity index had been slightly higher; the new
+
+orders balance had also risen and the 12-month-ahead business expectations index had bounced back
+
+after having fallen in May. The May Index of Production had been provided to the Committee ahead
+
+of publication. Industrial production had grown by 0.6% and manufacturing by 0.4%. The CIPS/NTC
+
+measure of manufacturing output had been slightly lower in June and the new orders balance had
+
+fallen back, although both indices had continued to indicate reasonable growth. The June CBI
+
+_Monthly Trends balances for new orders and expected output had both risen._
+
+15 Consumption growth in the second quarter was likely to be strong, although in large part this
+
+reflected weak data in the earlier part of the year. There were some preliminary indications that
+
+consumption might be softening. Retail sales had risen by 0.4% in May but the CBI Distributive
+
+_Trades Survey had suggested that sales had fallen back in June. The Bank’s regional Agents had also_
+
+recorded a slight weakening in the growth of both retail sales and consumer services. But both of
+
+these indicators continued to point to firm growth. The latest information provided to the Bank by
+
+lenders had suggested that the demand for unsecured lending by the household sector had been little
+
+changed in the second quarter, although the supply of credit had tightened. Only about one third of the
+
+one percentage point increase in Bank Rate appeared to have passed through, as measured by the
+
+effective mortgage rate. So there was likely to be an increase in interest payments by households over
+
+the next few quarters as fixed rate mortgages were re-set.
+
+16 In the housing market, the average of the lenders’ price indices had risen by 2% in the second
+
+quarter and the Royal Institution of Chartered Surveyors survey preview had suggested less upwards
+
+pressure on prices and fewer new buyer enquiries. There had been some increase in mortgage
+
+approvals in May, although this might have been a temporary boost related to the anticipated
+
+introduction of Home Information Packs. The picture varied by region, but taking the indicators
+
+
+-----
+
+5
+
+together, it appeared that there had been a modest softening in both the volume of transactions and
+
+house price increases over recent months.
+
+17 Money growth continued to be robust. Information supplied by the lending institutions – before
+
+the recent credit market moves – had suggested continuing strong demand for loans by the corporate
+
+sector. In part, this had been driven by mergers and acquisition activity and by commercial real estate
+
+companies. In contrast to households, credit conditions for corporates – especially for large companies
+
+and for non-bank financial institutions – had appeared to ease, with lower fees, narrower spreads,
+
+larger credit lines and lighter covenants. These credit conditions were likely to have been supportive
+
+of robust investment growth and the associated growth of the financial services sector.
+
+**Supply, costs and prices**
+
+18 Earnings growth excluding bonuses was unchanged at 3.6% in the three months to April.
+
+Employment had fallen slightly in the three months to April, compared with the previous three months,
+
+with annual growth at its lowest since 1994. Some of this probably reflected a fall in public sector
+
+employment. Inactivity had also risen further in the three months to April. There continued to be a
+
+puzzle in the contrast between strong output growth and relatively weak employment with rising
+
+inactivity. Committee members discussed a number of potential explanations.
+
+19 One possible explanation was that there had been a structural increase – either temporary or
+
+more persistent – in the level of unemployment. Although earnings growth had been subdued, it might
+
+not have been weak enough to generate continued growth in employment, given a slower warranted
+
+growth rate in the real consumption wage. A number of factors could have reduced growth in the
+
+warranted real consumption wage: the relative increase in energy prices; rising non-wage labour
+
+costs; and higher effective tax rates. There could have been resistance by employees to the required
+
+downward adjustment to the real consumption wage, possibly reinforced by the effect of the National
+
+Minimum Wage or the impact of the benefits system. There were some anecdotal reports of increasing
+
+mismatch between the skills demanded by firms and those of the available workforce. Such mismatch
+
+could also affect the equilibrium level of unemployment.
+
+20 A second possible explanation was that actual employment was higher than being recorded.
+
+Anecdotal evidence from businesses suggested that migrants’ willingness to undertake unskilled,
+
+
+-----
+
+6
+
+low-paid jobs meant there had been disproportionate employment growth for migrant workers. It was
+
+possible that the labour market statistics were less likely to capture fully such migrants, in which case
+
+the true growth in employment would be understated.
+
+21 A third possibility was that output growth was insufficient to induce firms to increase
+
+employment. It could be that there was more slack in the economy than output indicators had
+
+suggested, either because the demand data were misleading or because potential output was higher
+
+than appreciated. If this explanation were correct, weak employment growth would not have reflected
+
+any inflexibility in real or nominal wages, nor any significant displacement by migrant workers. Some
+
+of those who had been looking for work would have been discouraged by the pay rates offered and the
+
+lack of jobs, and would now be recorded as inactive. This explanation would also be consistent with
+
+the growth of part-time working and the fall in the number of employees in full-time employment over
+
+the past year.
+
+22 Price indicators had given mixed signals on the month. Manufacturing input prices had risen
+
+sharply in May, driven by crude oil prices. The CIPS/NTC survey input price balances for June had
+
+risen further in both services and manufacturing. Manufacturing output price inflation had fallen in
+
+May, the CIPS/NTC output price balance for June was broadly unchanged and the expected price
+
+balance in the CBI Monthly Trends survey had reversed its rise in May. Both survey balances
+
+remained well above their ten-year averages. The Bank’s regional Agents had reported that firms were
+
+looking to restore margins to their levels before the recent energy price shocks. In the services sector,
+
+the CIPS/NTC output price balance rose slightly, but remained only a little above its average over the
+
+past decade.
+
+23 CPI inflation had fallen to 2.5% in May, broadly as projected in the May Inflation Report.
+
+**The immediate policy decision**
+
+24 The Committee’s central projection in the May Inflation Report had been for CPI inflation to fall
+
+back to below the 2.0% target over the next year, before edging up to settle around 2.0% over the
+
+remainder of the forecast period. That projection had been conditioned on an interest rate path implied
+
+by financial markets which assumed one further 25 basis point rise in Bank Rate, to 5.75%, during
+
+2007. The balance of risks to the outlook for inflation in the medium term had been judged to be on
+
+
+-----
+
+7
+
+the upside. The main risks had been identified as: the impact of stronger demand growth on
+
+companies’ prices; the evolution of inflation expectations; prospects for energy and import prices;
+
+and the degree of spare capacity in the economy.
+
+25 Since May, the international environment had continued to be robust. Downside risks to the
+
+outlook for the United States had not crystallised and this may have been why dollar market interest
+
+rates had gone up.
+
+26 UK output growth continued to be strong. The level of output had been revised up in the latest
+
+Quarterly National Accounts and reports on business activity from surveys of the Bank’s regional
+
+Agents remained robust. Indicators of capacity utilisation in business surveys were above normal.
+
+There had been some monthly indicators suggesting a softening in the housing market and some
+
+preliminary indications that consumer spending was expected to slow, although this was not yet
+
+confirmed by the data. Despite the slowing in unsecured borrowing growth, total personal credit
+
+continued to grow strongly and hence the stock of household debt was increasing.
+
+27 Committee members had differing views about possible explanations for the weakness of the
+
+labour market data relative to the strong output data. For most members the most likely explanations
+
+were either an under-recording of employment or a structural increase in unemployment. For one
+
+member, the weakness in employment had little or nothing to do with structural factors, but reflected
+
+weakness in aggregate demand.
+
+28 Since the May Inflation Report, the CPI inflation data had fallen back broadly as projected.
+
+Energy prices remained volatile, but there was little clear evidence of producer prices either
+
+accelerating or slowing. Although some survey indicators of pricing pressures were elevated, there
+
+had been no significant change in inflation expectations this month.
+
+29 For some members, a change in Bank Rate was not warranted this month, although there were
+
+differing views about the likelihood of Bank Rate needing to be increased further at some juncture.
+
+The labour market data had continued to surprise on the downside, with weak employment growth and
+
+subdued earnings growth. And indicators of capacity utilisation, although somewhat above normal,
+
+were not unusually elevated. So it was not clear that the economy as a whole was operating
+
+substantially above its non-inflationary capacity. Demand growth appeared to be strong but might
+
+
+-----
+
+8
+
+have been offset by stronger supply growth, for example reflecting higher migration. Bank Rate had
+
+been increased four times since August 2006, most recently in May 2007, and the exchange rate had
+
+appreciated. The full effects of this significant tightening had yet to be felt. For example, most of the
+
+consequent rise in mortgage rates had yet to be passed through to households. When that happened, it
+
+was possible that demand would start to slow, possibly quite sharply.
+
+30 For these members, the major uncertainties about the impact of higher interest rates, especially
+
+given the high level of the stock of household debt pointed to a gradual approach to any further
+
+tightening in policy. The process of producing the August Inflation Report would provide a better
+
+platform for assessing the current stance of policy and the medium-term outlook for growth and
+
+inflation, and the associated risks.
+
+31 For a majority of members there was a strong case for an immediate rise in Bank Rate of 25
+
+basis points. There was a range of views about the weights to place on different factors. It was most
+
+likely that the weak labour market data reflected a structural increase, possibly temporary, in
+
+unemployment rather than a cyclical weakness in demand. The pressure on capacity utilisation within
+
+firms seemed clear from survey evidence and was confirmed by the anecdotal evidence from
+
+businesses in the regions. Corporate activity generally seemed to be buoyant, with strong growth in
+
+associated business and financial services. Money and credit growth had remained strong. Although
+
+there remained a risk of a slowdown in the housing market and in consumer spending, the data
+
+available for the second quarter had not suggested that this would be any greater than anticipated at the
+
+time of the May Inflation Report. There was also a growing risk from import price pressures, against
+
+the background of a strong global economy. If goods prices inflation continued at its current rate, then
+
+domestic services inflation would need to be lower than it had been in recent years, to be consistent
+
+with the inflation target. In this context, monetary policy was probably only just on the restrictive side.
+
+The shift in market rates had tightened monetary conditions further, but the change in Bank Rate over
+
+the previous year had largely been a withdrawal of an accommodative policy stance and it was not so
+
+surprising that demand growth had not yet slowed in response. It was not clear that data over the
+
+coming months would make the analysis any easier, in part because weather effects would make
+
+seasonal adjustment more difficult than normal. However, the August Inflation Report would be a key
+
+mechanism for re-assessing the medium-term outlook and communicating the Committee’s view of the
+
+risks.
+
+
+-----
+
+9
+
+32 For some of these members there were downside risks which suggested caution, but these had
+
+not intensified over the month. The May Inflation Report had been consistent with a further rise in
+
+Bank Rate in 2007, with the balance of risks having been judged to be to the upside. Against that
+
+background, for these members, the news since the May Report had now been sufficient to shift the
+
+balance in favour of a move this month, without a clear presumption that further increases would be
+
+necessary.
+
+33 For other members, the data suggested that the overall balance of risks was more firmly to the
+
+upside and any delay in raising Bank Rate this month would run the risk that rates would eventually
+
+have to go higher than otherwise would have been necessary, although no immediate judgement was
+
+being made about the future path of rates.
+
+34 The Governor invited the Committee to vote on the proposition that Bank Rate should be
+
+increased by 25 basis points to 5.75%. Six members of the Committee (the Governor, John Gieve,
+
+Kate Barker, Tim Besley, Andrew Sentance and Paul Tucker) voted in favour of the proposition.
+
+Rachel Lomax, Charles Bean and David Blanchflower voted against, preferring to maintain Bank Rate
+
+at 5.5%.
+
+35 The following members of the Committee were present:
+
+Mervyn King, Governor
+Rachel Lomax, Deputy Governor responsible for monetary policy
+John Gieve, Deputy Governor responsible for financial stability
+Kate Barker
+Charles Bean
+Tim Besley
+David Blanchflower
+Andrew Sentance
+Paul Tucker
+
+Dave Ramsden was present as the Treasury representative.
+
+
+-----
+

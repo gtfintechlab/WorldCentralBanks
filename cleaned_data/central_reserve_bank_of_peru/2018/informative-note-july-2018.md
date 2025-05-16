@@ -1,0 +1,49 @@
+#   MONETARY PROGRAM FOR JULY 2018
+ BCRP MAINTAINED THE POLICY INTEREST RATE AT 2.75%
+
+1. The Board of the Central Reserve Bank of Peru approved to maintain the monetary policy
+interest rate at 2.75 percent. This decision takes into account the following factors:
+
+i. In June, the YoY rate of inflation was within the inflation target range. The monthly rate of
+inflation reflects in part the rise in the excise tax. On the other hand, indicators of trend
+have risen compared to May, but continue to be close to the midpoint of the target range;
+ii. The expected YoY rate of inflation registered 2.28 percent in June;
+iii. Indicators of economic activity show clear signs of a greater dynamism, although GDP
+remains below its potential level of growth, and
+iv. Greater risk and increased financial volatility, both associated with recent commercial
+tensions, could affect global economic activity.
+
+2. The YoY inflation rate is projected to remain within the target range in July and to gradually
+converge to 2.0 percent by the end of the year. The Board considers that it is appropriate to
+maintain an expansionary policy stance until it is certain that this convergence will take place
+when inflation expectations are anchored in a context in which the level of economic activity
+is close to its potential level of growth.
+
+3. Recent indicators of inflation and activity reflect the following:
+
+i. Inflation in June showed a rate of 0.33 percent, as a result of which the YoY inflation rate
+rose from 0.93 percent in May to 1.43 percent in June 2018. Inflation without food and
+energy recorded a rate of 0.28 percent, as a result of which the YoY rate rose from 2.0
+percent in May to 2.23 in June, within the target range.
+ii. Indicators of business expectations continue to be on the optimistic side, although they
+showed lower levels than in the previous month. Moreover, a recovery is observed in
+several indicators of economic activity, consumption, and investment.
+
+4. The Board of the Central Bank also approved to maintain the annual interest rates on lending
+and deposit operations in domestic currency (not included in auctions) between BCRP and
+the financial system, as specified below:
+
+i. Overnight deposits: 1.50 percent.
+ii. Direct repos and rediscount operations: i) 3.30 percent for the first 15 operations
+carried out by a financial institution in the last 12 months, and ii) the interest rate set
+by the Committee of Monetary and Foreign Exchange Operations for additional
+operations to the 15 first operations carried out in the last 12 months.
+iii. Swaps: a commission equivalent to a minimum annual effective cost of 3.30 percent.
+
+5. The Board will approve the Monetary Program for August on its Meeting of August 9, 2018.
+
+Lima, July 12, 2018
+
+
+-----
+

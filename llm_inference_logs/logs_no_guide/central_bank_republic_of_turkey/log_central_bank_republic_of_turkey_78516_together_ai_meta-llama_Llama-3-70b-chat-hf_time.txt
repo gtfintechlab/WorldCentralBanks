@@ -1,0 +1,1081 @@
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.0.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/hp/Desktop/global-central-banks/src/llm_benchmarking/inference.py", line 9, in <module>
+    from datasets import load_dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/__init__.py", line 17, in <module>
+    from .arrow_dataset import Dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/arrow_dataset.py", line 59, in <module>
+    import pandas as pd
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/__init__.py", line 49, in <module>
+    from pandas.core.api import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/api.py", line 28, in <module>
+    from pandas.core.arrays import Categorical
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/__init__.py", line 1, in <module>
+    from pandas.core.arrays.arrow import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/__init__.py", line 5, in <module>
+    from pandas.core.arrays.arrow.array import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/array.py", line 50, in <module>
+    from pandas.core import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/ops/__init__.py", line 8, in <module>
+    from pandas.core.ops.array_ops import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/ops/array_ops.py", line 56, in <module>
+    from pandas.core.computation import expressions
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/computation/expressions.py", line 21, in <module>
+    from pandas.core.computation.check import NUMEXPR_INSTALLED
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/computation/check.py", line 5, in <module>
+    ne = import_optional_dependency("numexpr", errors="warn")
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/compat/_optional.py", line 135, in import_optional_dependency
+    module = importlib.import_module(name)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/numexpr/__init__.py", line 24, in <module>
+    from numexpr.interpreter import MAX_THREADS, use_vml, __BLOCK_SIZE1__
+AttributeError: _ARRAY_API not found
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.0.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/hp/Desktop/global-central-banks/src/llm_benchmarking/inference.py", line 9, in <module>
+    from datasets import load_dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/__init__.py", line 17, in <module>
+    from .arrow_dataset import Dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/arrow_dataset.py", line 59, in <module>
+    import pandas as pd
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/__init__.py", line 49, in <module>
+    from pandas.core.api import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/api.py", line 28, in <module>
+    from pandas.core.arrays import Categorical
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/__init__.py", line 1, in <module>
+    from pandas.core.arrays.arrow import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/__init__.py", line 5, in <module>
+    from pandas.core.arrays.arrow.array import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/array.py", line 64, in <module>
+    from pandas.core.arrays.masked import BaseMaskedArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/masked.py", line 60, in <module>
+    from pandas.core import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/nanops.py", line 52, in <module>
+    bn = import_optional_dependency("bottleneck", errors="warn")
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/compat/_optional.py", line 135, in import_optional_dependency
+    module = importlib.import_module(name)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/bottleneck/__init__.py", line 7, in <module>
+    from .move import (move_argmax, move_argmin, move_max, move_mean, move_median,
+Traceback (most recent call last):
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/numpy/core/_multiarray_umath.py", line 44, in __getattr__
+    raise ImportError(msg)
+ImportError: 
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.0.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+
+2025-04-15 04:17:58,042 - together_inference - INFO - Starting inference on 2025-04-15
+2025-04-15 04:17:58,042 - together_inference - INFO - Loading dataset...
+2025-04-15 04:17:59,168 - together_inference - INFO - Loaded 150 sentences from the dataset.
+2025-04-15 04:17:59,168 - together_inference - INFO - Using model: together_ai/meta-llama/Llama-3-70b-chat-hf
+2025-04-15 04:17:59,168 - together_inference - INFO - Using seed: 78516
+2025-04-15 04:17:59,168 - together_inference - INFO - Processing 150 documents in 30 batches.
+2025-04-15 04:17:59,168 - together_inference - INFO - Processing batch 1/30 with 5 sentences.
+2025-04-15 04:17:59,168 - together_inference - INFO - Processing batch 1/30
+2025-04-15 04:18:00,397 - together_inference - INFO - Completed batch 1/30
+2025-04-15 04:18:00,402 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions a 'solid growth outlook', which implies a future-oriented perspective."
+}
+2025-04-15 04:18:00,402 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence discusses the outlook for 2019, which implies a future time frame, making it forward-looking."
+}
+2025-04-15 04:18:00,402 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes past events and their effects on inflation, without providing any information or hints about future monetary policy decisions or expectations."
+}
+2025-04-15 04:18:00,402 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only discusses past data and trends, without making any statements or implications about future events or policies."
+}
+2025-04-15 04:18:00,402 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports past data on consumer prices and inflation, without providing any information or hints about future monetary policy decisions or expectations."
+}
+2025-04-15 04:18:00,402 - together_inference - INFO - Processing batch 2/30 with 5 sentences.
+2025-04-15 04:18:00,403 - together_inference - INFO - Processing batch 2/30
+2025-04-15 04:18:01,859 - together_inference - INFO - Completed batch 2/30
+2025-04-15 04:18:01,859 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence implies future actions to be taken by the Central Bank of Turkey to achieve price stability, making it forward-looking."
+}
+2025-04-15 04:18:01,859 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes the current situation and the effects of past policy measures, without making any statements about future actions or expectations."
+}
+2025-04-15 04:18:01,859 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports past data and does not provide any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:01,859 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions the committee's future actions and plans, indicating a forward-looking perspective."
+}
+2025-04-15 04:18:01,859 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence reports a past event (employment data as of September) without providing any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:01,859 - together_inference - INFO - Processing batch 3/30 with 5 sentences.
+2025-04-15 04:18:01,859 - together_inference - INFO - Processing batch 3/30
+2025-04-15 04:18:02,798 - together_inference - INFO - Completed batch 3/30
+Running inference for Central Bank of Turkey
+[ModelResponse(id='nqAcaVU-4yUbBN-930a0279ba893ae8', created=1744705079, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions a \'solid growth outlook\', which implies a future-oriented perspective."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=178, total_tokens=213, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcaW7-4yUbBN-930a0279ce0cd640', created=1744705079, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence discusses the outlook for 2019, which implies a future time frame, making it forward-looking."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=175, total_tokens=216, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcaVL-4yUbBN-930a0279b8aa823c', created=1744705079, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes past events and their effects on inflation, without providing any information or hints about future monetary policy decisions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=194, total_tokens=239, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcaVT-4yUbBN-930a0279cdf882a4', created=1744705079, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only discusses past data and trends, without making any statements or implications about future events or policies."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=184, total_tokens=225, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcaV5-4yUbBN-930a0279be4ad6a7', created=1744705079, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports past data on consumer prices and inflation, without providing any information or hints about future monetary policy decisions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=189, total_tokens=235, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcarJ-4yUbBN-930a02814f356fdf', created=1744705080, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence implies future actions to be taken by the Central Bank of Turkey to achieve price stability, making it forward-looking."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=175, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcapc-4yUbBN-930a0280c97ed640', created=1744705080, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes the current situation and the effects of past policy measures, without making any statements about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=197, total_tokens=241, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcatj-4yUbBN-930a02811bded62c', created=1744705080, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports past data and does not provide any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=207, total_tokens=247, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcar2-4yUbBN-930a02812ce105c4', created=1744705080, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions the committee\'s future actions and plans, indicating a forward-looking perspective."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=211, total_tokens=247, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcarM-4yUbBN-930a02814c3b878b', created=1744705080, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence reports a past event (employment data as of September) without providing any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=171, total_tokens=216, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcbFv-4yUbBN-930a0289f95bd640', created=1744705081, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports a current or past fact about the commodity price index, without providing any information or hint about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=179, total_tokens=226, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcbGD-4yUbBN-930a0289fa26d62c', created=1744705081, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "not forward looking",\n"justification": "The sentence only describes current or past events (high price hikes) and does not provide any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=193, total_tokens=235, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcbG3-4yUbBN-930a0289fb4c05c4', created=1744705081, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "not forward looking",\n"justification": "The sentence only describes past events and trends, without making any statements or predictions about future actions or outcomes."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=182, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcbG7-4yUbBN-930a0289fca26fdf', created=1744705081, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence reports past data on annual inflation rates, without providing any information or hints about future expectations or actions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=176, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcbG3-4yUbBN-930a0289f9c1878b', created=1744705081, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions \'tendencies\' and \'recovering\', which imply a sense of future direction or improvement, making it forward-looking."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=177, total_tokens=223, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 04:18:02,803 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports a current or past fact about the commodity price index, without providing any information or hint about future actions or expectations."
+}
+2025-04-15 04:18:02,803 - together_inference - INFO - Response: {
+"label": "not forward looking",
+"justification": "The sentence only describes current or past events (high price hikes) and does not provide any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:02,803 - together_inference - INFO - Response: {
+"label": "not forward looking",
+"justification": "The sentence only describes past events and trends, without making any statements or predictions about future actions or outcomes."
+}
+2025-04-15 04:18:02,803 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence reports past data on annual inflation rates, without providing any information or hints about future expectations or actions."
+}
+2025-04-15 04:18:02,803 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions 'tendencies' and 'recovering', which imply a sense of future direction or improvement, making it forward-looking."
+}
+2025-04-15 04:18:02,803 - together_inference - INFO - Processing batch 4/30 with 5 sentences.
+2025-04-15 04:18:02,803 - together_inference - INFO - Processing batch 4/30
+2025-04-15 04:18:03,818 - together_inference - INFO - Completed batch 4/30
+2025-04-15 04:18:03,818 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only describes the current situation and past events, without making any statements about future expectations or predictions."
+}
+2025-04-15 04:18:03,818 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports past events and does not contain any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:03,818 - together_inference - INFO - Response: {
+"label": "not forward looking",
+"justification": "The sentence describes past events, specifically a decline in global energy and non-energy commodity prices, without providing any information about future expectations or predictions."
+}
+2025-04-15 04:18:03,818 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes past events and their impact on the economy, without providing any information about future expectations or plans."
+}
+2025-04-15 04:18:03,818 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes a past event (non-farm employment in the July period) and does not provide any information about future expectations or plans."
+}
+2025-04-15 04:18:03,818 - together_inference - INFO - Processing batch 5/30 with 5 sentences.
+2025-04-15 04:18:03,818 - together_inference - INFO - Processing batch 5/30
+2025-04-15 04:18:04,697 - together_inference - INFO - Completed batch 5/30
+2025-04-15 04:18:04,705 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions preserving growth momentum and a positive trend in employment, indicating a focus on future economic outcomes."
+}
+2025-04-15 04:18:04,705 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports past data on energy prices and inflation, without providing any information or hints about future expectations or policy decisions."
+}
+2025-04-15 04:18:04,705 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports a past event (unemployment rate remaining unchanged) without providing any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:04,705 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence is providing historical information about past meetings and policy rate changes, without making any statements about future actions or expectations."
+}
+2025-04-15 04:18:04,705 - together_inference - INFO - Response: {
+"label": "not forward looking",
+"justification": "The sentence describes a past event (restored relations with Russia) and its impact on exports, without providing any information about future expectations or plans."
+}
+2025-04-15 04:18:04,705 - together_inference - INFO - Processing batch 6/30 with 5 sentences.
+2025-04-15 04:18:04,705 - together_inference - INFO - Processing batch 6/30
+2025-04-15 04:18:06,152 - together_inference - INFO - Completed batch 6/30
+
+[ModelResponse(id='nqAcbYE-4yUbBN-930a028fdb20d640', created=1744705082, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only describes the current situation and past events, without making any statements about future expectations or predictions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=198, total_tokens=239, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcbYB-4yUbBN-930a028fdbe7d62c', created=1744705082, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports past events and does not contain any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=178, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcbYF-4yUbBN-930a028fd84505c4', created=1744705082, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "not forward looking",\n"justification": "The sentence describes past events, specifically a decline in global energy and non-energy commodity prices, without providing any information about future expectations or predictions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=170, total_tokens=213, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcbYH-4yUbBN-930a028fdd9a878b', created=1744705082, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes past events and their impact on the economy, without providing any information about future expectations or plans."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=179, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcbYF-4yUbBN-930a028fd8186fdf', created=1744705082, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes a past event (non-farm employment in the July period) and does not provide any information about future expectations or plans."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=172, total_tokens=220, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcbqa-4yUbBN-930a02962e62d640', created=1744705083, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions preserving growth momentum and a positive trend in employment, indicating a focus on future economic outcomes."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=185, total_tokens=225, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcbqo-4yUbBN-930a02963dbcd62c', created=1744705083, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports past data on energy prices and inflation, without providing any information or hints about future expectations or policy decisions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=189, total_tokens=234, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcbqk-4yUbBN-930a029639d1878b', created=1744705083, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports a past event (unemployment rate remaining unchanged) without providing any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=175, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcbqm-4yUbBN-930a02963c026fdf', created=1744705083, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence is providing historical information about past meetings and policy rate changes, without making any statements about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=188, total_tokens=232, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcbqk-4yUbBN-930a02963cfc05c4', created=1744705083, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "not forward looking",\n"justification": "The sentence describes a past event (restored relations with Russia) and its impact on exports, without providing any information about future expectations or plans."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=173, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcc79-4yUbBN-930a029bdf9ad640', created=1744705084, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only discusses past events and trends, without providing any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=183, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcc7E-4yUbBN-930a029bde70d62c', created=1744705084, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only discusses past data and does not provide any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=174, total_tokens=214, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcc7J-4yUbBN-930a029bd8d505c4', created=1744705084, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes a current situation (inflationary effects persisting) without making any statements about future expectations or actions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=169, total_tokens=213, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcc7E-4yUbBN-930a029bdef26fdf', created=1744705084, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports on past events, specifically the third quarter, without providing any information or hints about future expectations or actions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=180, total_tokens=225, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcc7S-4yUbBN-930a029bdd81878b', created=1744705084, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only describes past events and does not contain any information or hints about future expectations or actions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=180, total_tokens=220, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 04:18:06,152 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only discusses past events and trends, without providing any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:06,152 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only discusses past data and does not provide any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:06,152 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes a current situation (inflationary effects persisting) without making any statements about future expectations or actions."
+}
+2025-04-15 04:18:06,152 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports on past events, specifically the third quarter, without providing any information or hints about future expectations or actions."
+}
+2025-04-15 04:18:06,152 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only describes past events and does not contain any information or hints about future expectations or actions."
+}
+2025-04-15 04:18:06,152 - together_inference - INFO - Processing batch 7/30 with 5 sentences.
+2025-04-15 04:18:06,152 - together_inference - INFO - Processing batch 7/30
+2025-04-15 04:18:07,155 - together_inference - INFO - Completed batch 7/30
+2025-04-15 04:18:07,155 - together_inference - INFO - Response: {
+"label": "not forward looking",
+"justification": "The sentence only reports past data on employment rates, without providing any information or hints about future expectations or trends."
+}
+2025-04-15 04:18:07,155 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports a past decision and does not provide any information about future actions or expectations."
+}
+2025-04-15 04:18:07,155 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence discusses potential risks to the inflation outlook, which implies a focus on future events and their potential impact on inflation."
+}
+2025-04-15 04:18:07,155 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports past events and does not provide any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:07,155 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only describes past developments in food prices, without providing any indication or forecast about future trends or actions."
+}
+2025-04-15 04:18:07,155 - together_inference - INFO - Processing batch 8/30 with 5 sentences.
+2025-04-15 04:18:07,155 - together_inference - INFO - Processing batch 8/30
+2025-04-15 04:18:08,110 - together_inference - INFO - Completed batch 8/30
+2025-04-15 04:18:08,114 - together_inference - INFO - Response: {
+"label": "forward looking",
+"justification": "The sentence implies that the current sales data may lead to an improvement in investments in the future, making it forward-looking."
+}
+2025-04-15 04:18:08,114 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes a current process and its supporting factors, without making any statements about future actions or expectations."
+}
+2025-04-15 04:18:08,114 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only discusses past data and does not provide any information or hints about future expectations or actions."
+}
+2025-04-15 04:18:08,114 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence discusses the impact of current events on future export growth, indicating a forward-looking perspective."
+}
+2025-04-15 04:18:08,114 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only describes the current state of global energy prices and their recent past, without making any statements about future expectations or predictions."
+}
+2025-04-15 04:18:08,114 - together_inference - INFO - Processing batch 9/30 with 5 sentences.
+2025-04-15 04:18:08,114 - together_inference - INFO - Processing batch 9/30
+2025-04-15 04:18:09,382 - together_inference - INFO - Completed batch 9/30
+
+[ModelResponse(id='nqAccXs-4yUbBN-930a02a4ce7bd640', created=1744705086, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "not forward looking",\n"justification": "The sentence only reports past data on employment rates, without providing any information or hints about future expectations or trends."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=172, total_tokens=209, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAccXt-4yUbBN-930a02a4cc94d62c', created=1744705086, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports a past decision and does not provide any information about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=172, total_tokens=211, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAccbV-4yUbBN-930a02a4cfe005c4', created=1744705086, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence discusses potential risks to the inflation outlook, which implies a focus on future events and their potential impact on inflation."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=190, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAccYD-4yUbBN-930a02a4cbcd6fdf', created=1744705086, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports past events and does not provide any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=189, total_tokens=229, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAccXx-4yUbBN-930a02a4cb10878b', created=1744705086, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only describes past developments in food prices, without providing any indication or forecast about future trends or actions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=182, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAccqC-4yUbBN-930a02ab0993d640', created=1744705087, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "forward looking",\n"justification": "The sentence implies that the current sales data may lead to an improvement in investments in the future, making it forward-looking."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=174, total_tokens=212, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAccqD-4yUbBN-930a02ab0ddbd62c', created=1744705087, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes a current process and its supporting factors, without making any statements about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=179, total_tokens=220, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAccqF-4yUbBN-930a02ab1f0d878b', created=1744705087, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only discusses past data and does not provide any information or hints about future expectations or actions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=190, total_tokens=230, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAccqH-4yUbBN-930a02ab0f216fdf', created=1744705087, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence discusses the impact of current events on future export growth, indicating a forward-looking perspective."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=183, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAccqG-4yUbBN-930a02ab1cc905c4', created=1744705087, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only describes the current state of global energy prices and their recent past, without making any statements about future expectations or predictions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=180, total_tokens=226, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcd7m-4yUbBN-930a02b11eb2d62c', created=1744705088, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports a past decision and does not provide any information about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=179, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcd7r-4yUbBN-930a02b11c5dd640', created=1744705088, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports on past events (outflows in July) without providing any information or hints about future expectations or actions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=185, total_tokens=230, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcd7q-4yUbBN-930a02b1199305c4', created=1744705088, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports on past data, comparing the current month\'s price increase to the previous month\'s, without providing any information or hints about future expectations or actions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=53, prompt_tokens=174, total_tokens=227, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcd81-4yUbBN-930a02b11a9d6fdf', created=1744705088, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence reports on past data, specifically industrial production in the January-February period, without providing any information or hints about future expectations or actions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=178, total_tokens=227, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcd7s-4yUbBN-930a02b11b1e878b', created=1744705088, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "not forward looking",\n"justification": "The sentence only describes past events and does not contain any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=182, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 04:18:09,386 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports a past decision and does not provide any information about future actions or expectations."
+}
+2025-04-15 04:18:09,386 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports on past events (outflows in July) without providing any information or hints about future expectations or actions."
+}
+2025-04-15 04:18:09,387 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports on past data, comparing the current month's price increase to the previous month's, without providing any information or hints about future expectations or actions."
+}
+2025-04-15 04:18:09,387 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence reports on past data, specifically industrial production in the January-February period, without providing any information or hints about future expectations or actions."
+}
+2025-04-15 04:18:09,387 - together_inference - INFO - Response: {
+"label": "not forward looking",
+"justification": "The sentence only describes past events and does not contain any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:09,387 - together_inference - INFO - Processing batch 10/30 with 5 sentences.
+2025-04-15 04:18:09,387 - together_inference - INFO - Processing batch 10/30
+2025-04-15 04:18:10,624 - together_inference - INFO - Completed batch 10/30
+2025-04-15 04:18:10,628 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes the current impact of past events (lagged effects of strong credit impulse during the pandemic) on the current account balance, without making any predictions or statements about future events or trends."
+}
+2025-04-15 04:18:10,628 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions an expected improvement in the third quarter, which implies a future time frame and therefore is forward-looking."
+}
+2025-04-15 04:18:10,628 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions future events, such as the economic rebound in the second quarter of the year, which indicates a forward-looking perspective."
+}
+2025-04-15 04:18:10,628 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence discusses the current and past effects of certain factors on inflation, without making any statements about future actions or expectations."
+}
+2025-04-15 04:18:10,628 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports past events, describing the change in annual inflation without making any predictions or statements about future actions or expectations."
+}
+2025-04-15 04:18:10,628 - together_inference - INFO - Processing batch 11/30 with 5 sentences.
+2025-04-15 04:18:10,628 - together_inference - INFO - Processing batch 11/30
+2025-04-15 04:18:11,856 - together_inference - INFO - Completed batch 11/30
+2025-04-15 04:18:11,861 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes a past decision made by the committee, without providing any information about future actions or expectations."
+}
+2025-04-15 04:18:11,861 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only discusses past events and trends, without making any statements or predictions about future actions or outcomes."
+}
+2025-04-15 04:18:11,861 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence discusses potential future outcomes and consequences of certain actions, indicating a forward-looking perspective."
+}
+2025-04-15 04:18:11,861 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence discusses potential future events, such as accelerated inflation and tightening, which are conditional on certain circumstances, indicating a forward-looking perspective."
+}
+2025-04-15 04:18:11,861 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only discusses past events and their effects, without mentioning any future expectations or predictions."
+}
+2025-04-15 04:18:11,861 - together_inference - INFO - Processing batch 12/30 with 5 sentences.
+2025-04-15 04:18:11,861 - together_inference - INFO - Processing batch 12/30
+2025-04-15 04:18:13,746 - together_inference - INFO - Completed batch 12/30
+
+[ModelResponse(id='nqAcdVx-4yUbBN-930a02b90a57d640', created=1744705089, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes the current impact of past events (lagged effects of strong credit impulse during the pandemic) on the current account balance, without making any predictions or statements about future events or trends."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=59, prompt_tokens=184, total_tokens=243, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcdVq-4yUbBN-930a02b90a20d62c', created=1744705089, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions an expected improvement in the third quarter, which implies a future time frame and therefore is forward-looking."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=177, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcdVk-4yUbBN-930a02b9092d05c4', created=1744705089, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions future events, such as the economic rebound in the second quarter of the year, which indicates a forward-looking perspective."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=187, total_tokens=232, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcdVm-4yUbBN-930a02b90f986fdf', created=1744705089, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence discusses the current and past effects of certain factors on inflation, without making any statements about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=187, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcdVu-4yUbBN-930a02b9086d878b', created=1744705089, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports past events, describing the change in annual inflation without making any predictions or statements about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=173, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcds7-4yUbBN-930a02c0bf0fd640', created=1744705090, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes a past decision made by the committee, without providing any information about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=177, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcdsF-4yUbBN-930a02c0ccd6d62c', created=1744705090, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only discusses past events and trends, without making any statements or predictions about future actions or outcomes."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=191, total_tokens=232, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcdsD-4yUbBN-930a02c0cdad878b', created=1744705090, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence discusses potential future outcomes and consequences of certain actions, indicating a forward-looking perspective."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=203, total_tokens=240, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcds6-4yUbBN-930a02c0cc426fdf', created=1744705090, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence discusses potential future events, such as accelerated inflation and tightening, which are conditional on certain circumstances, indicating a forward-looking perspective."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=188, total_tokens=234, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcds7-4yUbBN-930a02c0c85305c4', created=1744705090, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only discusses past events and their effects, without mentioning any future expectations or predictions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=199, total_tokens=237, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAceER-4yUbBN-930a02c87da8d640', created=1744705091, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions \'downside risks\' which implies a potential future impact on demand and inflation, making it forward-looking."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=180, total_tokens=223, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAceER-4yUbBN-930a02c87ed605c4', created=1744705091, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only describes past events and their effects on prices, without providing any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=185, total_tokens=229, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAceEP-4yUbBN-930a02c8783ed62c', created=1744705091, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes a past event (economic activity in the first quarter of the year) and does not provide any information about future expectations or plans."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=179, total_tokens=228, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAceEV-4yUbBN-930a02c878566fdf', created=1744705091, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence implies a future action (completing the simplification) within a certain time frame, making it forward-looking."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=174, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAceEW-4yUbBN-930a02c87ab6878b', created=1744705091, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions \'upcoming months\', which indicates a focus on future events and risks, making it forward-looking."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=190, total_tokens=232, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 04:18:13,750 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions 'downside risks' which implies a potential future impact on demand and inflation, making it forward-looking."
+}
+2025-04-15 04:18:13,750 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only describes past events and their effects on prices, without providing any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:13,750 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes a past event (economic activity in the first quarter of the year) and does not provide any information about future expectations or plans."
+}
+2025-04-15 04:18:13,750 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence implies a future action (completing the simplification) within a certain time frame, making it forward-looking."
+}
+2025-04-15 04:18:13,750 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions 'upcoming months', which indicates a focus on future events and risks, making it forward-looking."
+}
+2025-04-15 04:18:13,750 - together_inference - INFO - Processing batch 13/30 with 5 sentences.
+2025-04-15 04:18:13,750 - together_inference - INFO - Processing batch 13/30
+2025-04-15 04:18:14,841 - together_inference - INFO - Completed batch 13/30
+2025-04-15 04:18:14,841 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports past data and trends, without making any statements or predictions about future events or actions."
+}
+2025-04-15 04:18:14,841 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence reports past data on inflation rates, providing a historical account without any indication of future expectations or projections."
+}
+2025-04-15 04:18:14,841 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions future events, such as achieving a medium-term 5 percent target and a permanent fall in inflation, indicating a forward-looking perspective."
+}
+2025-04-15 04:18:14,841 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports past data and does not provide any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:14,841 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only discusses past data from 2015, without making any statements or implications about future economic activity or policy decisions."
+}
+2025-04-15 04:18:14,841 - together_inference - INFO - Processing batch 14/30 with 5 sentences.
+2025-04-15 04:18:14,841 - together_inference - INFO - Processing batch 14/30
+2025-04-15 04:18:16,382 - together_inference - INFO - Completed batch 14/30
+2025-04-15 04:18:16,382 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports on past price changes without providing any information or hints about future expectations or policy decisions."
+}
+2025-04-15 04:18:16,382 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes the current situation and its effects on consumer inflation, without making any statements about future expectations or predictions."
+}
+2025-04-15 04:18:16,382 - together_inference - INFO - Response: {
+"label": "not forward looking",
+"justification": "The sentence describes past events and trends, focusing on the drivers of annual growth, without providing any information or hints about future expectations or policies."
+}
+2025-04-15 04:18:16,382 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only describes past events, comparing the current month to the previous month, without providing any information about future expectations or plans."
+}
+2025-04-15 04:18:16,382 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes the current state of consumption spending and investments, without providing any information about future expectations or predictions."
+}
+2025-04-15 04:18:16,382 - together_inference - INFO - Processing batch 15/30 with 5 sentences.
+2025-04-15 04:18:16,382 - together_inference - INFO - Processing batch 15/30
+2025-04-15 04:18:17,278 - together_inference - INFO - Completed batch 15/30
+
+[ModelResponse(id='nqAceny-4yUbBN-930a02d44a94878b', created=1744705093, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports past data and trends, without making any statements or predictions about future events or actions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=215, total_tokens=256, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAceo5-4yUbBN-930a02d449b8d640', created=1744705093, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence reports past data on inflation rates, providing a historical account without any indication of future expectations or projections."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=189, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcenv-4yUbBN-930a02d44954d62c', created=1744705093, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions future events, such as achieving a medium-term 5 percent target and a permanent fall in inflation, indicating a forward-looking perspective."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=208, total_tokens=256, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAceo2-4yUbBN-930a02d44ffe05c4', created=1744705093, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports past data and does not provide any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=190, total_tokens=230, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAceoE-4yUbBN-930a02d44e796fdf', created=1744705093, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only discusses past data from 2015, without making any statements or implications about future economic activity or policy decisions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=176, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcf7i-4yUbBN-930a02db1d13d640', created=1744705094, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports on past price changes without providing any information or hints about future expectations or policy decisions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=181, total_tokens=222, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcf7v-4yUbBN-930a02db2b8ed62c', created=1744705094, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes the current situation and its effects on consumer inflation, without making any statements about future expectations or predictions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=190, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcf7v-4yUbBN-930a02db2f06878b', created=1744705094, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "not forward looking",\n"justification": "The sentence describes past events and trends, focusing on the drivers of annual growth, without providing any information or hints about future expectations or policies."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=190, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcf7t-4yUbBN-930a02db2a536fdf', created=1744705094, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only describes past events, comparing the current month to the previous month, without providing any information about future expectations or plans."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=171, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcf7u-4yUbBN-930a02db2da705c4', created=1744705094, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes the current state of consumption spending and investments, without providing any information about future expectations or predictions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=169, total_tokens=211, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcfaQ-4yUbBN-930a02e4ce3dd640', created=1744705096, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports on past events and does not contain any language indicating future expectations or projections."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=179, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcfaZ-4yUbBN-930a02e4cdec05c4', created=1744705096, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence reports past data on inflation rates, providing a historical account without any indication of future expectations or projections."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=194, total_tokens=236, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcfaX-4yUbBN-930a02e4cb54d62c', created=1744705096, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes a past event (price increase in March) and does not provide any information about future expectations or plans."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=172, total_tokens=216, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcfab-4yUbBN-930a02e4c81b6fdf', created=1744705096, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions \'upcoming period\', which implies a future time frame, making it forward-looking."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=171, total_tokens=210, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcfbR-4yUbBN-930a02e4cf1d878b', created=1744705096, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes the current state of industrial production, without making any statements about future expectations or predictions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=175, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 04:18:17,284 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports on past events and does not contain any language indicating future expectations or projections."
+}
+2025-04-15 04:18:17,284 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence reports past data on inflation rates, providing a historical account without any indication of future expectations or projections."
+}
+2025-04-15 04:18:17,284 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes a past event (price increase in March) and does not provide any information about future expectations or plans."
+}
+2025-04-15 04:18:17,284 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions 'upcoming period', which implies a future time frame, making it forward-looking."
+}
+2025-04-15 04:18:17,284 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes the current state of industrial production, without making any statements about future expectations or predictions."
+}
+2025-04-15 04:18:17,284 - together_inference - INFO - Processing batch 16/30 with 5 sentences.
+2025-04-15 04:18:17,284 - together_inference - INFO - Processing batch 16/30
+2025-04-15 04:18:18,617 - together_inference - INFO - Completed batch 16/30
+2025-04-15 04:18:18,621 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes a past decision made by the Central Bank of Turkey, without providing any information about future actions or expectations."
+}
+2025-04-15 04:18:18,621 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes past events and trends, without providing any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:18,621 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence discusses past events and inflation rates in a specific quarter, without providing any information or hints about future monetary policy decisions or economic trends."
+}
+2025-04-15 04:18:18,621 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence discusses past events and trends, specifically employment gains during a specific period in the past, without making any statements about future expectations or predictions."
+}
+2025-04-15 04:18:18,621 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes past events and does not contain any language indicating future expectations or predictions."
+}
+2025-04-15 04:18:18,621 - together_inference - INFO - Processing batch 17/30 with 5 sentences.
+2025-04-15 04:18:18,621 - together_inference - INFO - Processing batch 17/30
+2025-04-15 04:18:19,832 - together_inference - INFO - Completed batch 17/30
+2025-04-15 04:18:19,832 - together_inference - INFO - Response: {
+"label": "not forward looking",
+"justification": "The sentence only explains the past production drop without providing any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:19,832 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence is forward-looking because it mentions an expected future event, specifically the fall in natural gas prices, which will occur following a seasonal decline in natural gas consumption."
+}
+2025-04-15 04:18:19,832 - together_inference - INFO - Response: {
+"label": "not forward looking",
+"justification": "The sentence discusses past events (mid-July incidents and extended religious holidays) and their implications, without providing any information or insights about future actions or expectations."
+}
+2025-04-15 04:18:19,832 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes a past event (the rise in inflation) and its cause, without providing any information about future expectations or actions."
+}
+2025-04-15 04:18:19,832 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes current conditions and their impact on inflation, without providing any indication of future expectations or predictions."
+}
+2025-04-15 04:18:19,832 - together_inference - INFO - Processing batch 18/30 with 5 sentences.
+2025-04-15 04:18:19,832 - together_inference - INFO - Processing batch 18/30
+2025-04-15 04:18:20,935 - together_inference - INFO - Completed batch 18/30
+
+[ModelResponse(id='nqAcfr3-4yUbBN-930a02ea6820d640', created=1744705097, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes a past decision made by the Central Bank of Turkey, without providing any information about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=191, total_tokens=235, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcfr9-4yUbBN-930a02ea6c87d62c', created=1744705097, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes past events and trends, without providing any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=180, total_tokens=220, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcfrG-4yUbBN-930a02ea6a8405c4', created=1744705097, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence discusses past events and inflation rates in a specific quarter, without providing any information or hints about future monetary policy decisions or economic trends."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=184, total_tokens=232, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcfrD-4yUbBN-930a02ea6b186fdf', created=1744705097, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence discusses past events and trends, specifically employment gains during a specific period in the past, without making any statements about future expectations or predictions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=180, total_tokens=229, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcfr5-4yUbBN-930a02ea6b3f878b', created=1744705097, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes past events and does not contain any language indicating future expectations or predictions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=177, total_tokens=214, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcgEw-4yUbBN-930a02f2bdb6d640', created=1744705098, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "not forward looking",\n"justification": "The sentence only explains the past production drop without providing any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=186, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcgF2-4yUbBN-930a02f2b880d62c', created=1744705098, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence is forward-looking because it mentions an expected future event, specifically the fall in natural gas prices, which will occur following a seasonal decline in natural gas consumption."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=52, prompt_tokens=192, total_tokens=244, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcgEx-4yUbBN-930a02f2b8a305c4', created=1744705098, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "not forward looking",\n"justification": "The sentence discusses past events (mid-July incidents and extended religious holidays) and their implications, without providing any information or insights about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=183, total_tokens=229, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcgEz-4yUbBN-930a02f2bf5b6fdf', created=1744705098, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes a past event (the rise in inflation) and its cause, without providing any information about future expectations or actions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=169, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcgFA-4yUbBN-930a02f2b8fe878b', created=1744705098, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes current conditions and their impact on inflation, without providing any indication of future expectations or predictions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=181, total_tokens=222, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcgdS-4yUbBN-930a02fa6cf8d62c', created=1744705100, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports past data and does not provide any information or hints about future economic trends or policy decisions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=195, total_tokens=237, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcgby-4yUbBN-930a02fa6d44d640', created=1744705099, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions monitoring the impacts of developments as a risk factor, implying a focus on potential future effects."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=178, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcgc4-4yUbBN-930a02fa6ed805c4', created=1744705099, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions future outcomes such as \'achieving lower sovereign risk\', \'lower long-term interest rates\', and \'stronger economic recovery\', indicating a forward-looking perspective."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=53, prompt_tokens=188, total_tokens=241, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcgc7-4yUbBN-930a02fa6e25878b', created=1744705099, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only describes the current situation and does not provide any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=174, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcgc4-4yUbBN-930a02fa6b4b6fdf', created=1744705099, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only discusses past trends and observations, without making any statements about future expectations or predictions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=210, total_tokens=249, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 04:18:20,939 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports past data and does not provide any information or hints about future economic trends or policy decisions."
+}
+2025-04-15 04:18:20,939 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions monitoring the impacts of developments as a risk factor, implying a focus on potential future effects."
+}
+2025-04-15 04:18:20,939 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions future outcomes such as 'achieving lower sovereign risk', 'lower long-term interest rates', and 'stronger economic recovery', indicating a forward-looking perspective."
+}
+2025-04-15 04:18:20,939 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only describes the current situation and does not provide any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:20,939 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only discusses past trends and observations, without making any statements about future expectations or predictions."
+}
+2025-04-15 04:18:20,940 - together_inference - INFO - Processing batch 19/30 with 5 sentences.
+2025-04-15 04:18:20,940 - together_inference - INFO - Processing batch 19/30
+2025-04-15 04:18:22,175 - together_inference - INFO - Completed batch 19/30
+2025-04-15 04:18:22,179 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence reports a past event (industrial production increase as of January) without providing any information about future expectations or plans."
+}
+2025-04-15 04:18:22,179 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports past data and does not provide any information or hints about future expectations or plans."
+}
+2025-04-15 04:18:22,179 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes past events and trends in industrial production growth, without providing any information or hints about future expectations or actions."
+}
+2025-04-15 04:18:22,179 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions the committee's goal to reach a 5 percent inflation target in the medium term, which implies a future-oriented perspective."
+}
+2025-04-15 04:18:22,179 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes past developments and their impact on current core inflation indicators, without providing any information about future expectations or actions."
+}
+2025-04-15 04:18:22,179 - together_inference - INFO - Processing batch 20/30 with 5 sentences.
+2025-04-15 04:18:22,179 - together_inference - INFO - Processing batch 20/30
+2025-04-15 04:18:23,200 - together_inference - INFO - Completed batch 20/30
+2025-04-15 04:18:23,205 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes past events and does not contain any language indicating future expectations or predictions."
+}
+2025-04-15 04:18:23,205 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions a 24-month-ahead inflation expectation, which implies a forecast or prediction about the future, making it forward-looking."
+}
+2025-04-15 04:18:23,205 - together_inference - INFO - Response: {
+"label": "not forward looking",
+"justification": "The sentence describes past events, specifically price increases that have already occurred, without providing any information about future expectations or predictions."
+}
+2025-04-15 04:18:23,205 - together_inference - INFO - Response: {
+"label": "not forward looking",
+"justification": "The sentence describes a past event (services inflation going up) and its cause (normalization process), without providing any information about future expectations or plans."
+}
+2025-04-15 04:18:23,205 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only describes the current state of economic activity, without providing any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:23,205 - together_inference - INFO - Processing batch 21/30 with 5 sentences.
+2025-04-15 04:18:23,205 - together_inference - INFO - Processing batch 21/30
+2025-04-15 04:18:24,191 - together_inference - INFO - Completed batch 21/30
+
+[ModelResponse(id='nqAcgvw-4yUbBN-930a030129ead640', created=1744705101, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence reports a past event (industrial production increase as of January) without providing any information about future expectations or plans."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=173, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcgvt-4yUbBN-930a030139bfd62c', created=1744705101, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports past data and does not provide any information or hints about future expectations or plans."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=195, total_tokens=235, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcgvz-4yUbBN-930a03013c4f05c4', created=1744705101, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes past events and trends in industrial production growth, without providing any information or hints about future expectations or actions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=175, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcgvv-4yUbBN-930a03013f456fdf', created=1744705101, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions the committee\'s goal to reach a 5 percent inflation target in the medium term, which implies a future-oriented perspective."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=209, total_tokens=255, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcgvv-4yUbBN-930a03013a95878b', created=1744705101, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes past developments and their impact on current core inflation indicators, without providing any information about future expectations or actions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=175, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAchJD-4yUbBN-930a0308ef09d640', created=1744705102, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes past events and does not contain any language indicating future expectations or predictions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=178, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAchJB-4yUbBN-930a0308ffecd62c', created=1744705102, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions a 24-month-ahead inflation expectation, which implies a forecast or prediction about the future, making it forward-looking."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=169, total_tokens=214, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAchJJ-4yUbBN-930a0308ffcf878b', created=1744705102, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "not forward looking",\n"justification": "The sentence describes past events, specifically price increases that have already occurred, without providing any information about future expectations or predictions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=171, total_tokens=210, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAchJF-4yUbBN-930a0308fc266fdf', created=1744705102, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "not forward looking",\n"justification": "The sentence describes a past event (services inflation going up) and its cause (normalization process), without providing any information about future expectations or plans."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=170, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAchJM-4yUbBN-930a0308fadd05c4', created=1744705102, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only describes the current state of economic activity, without providing any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=168, total_tokens=211, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAchc6-4yUbBN-930a030f5accd62c', created=1744705103, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions monitoring inflation expectations and maintaining a cautious stance until there is a significant improvement in the inflation outlook, indicating a focus on future developments."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=199, total_tokens=247, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAchbt-4yUbBN-930a030f5912d640', created=1744705103, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes the past effects of the Central Bank\'s measures, without mentioning any future expectations or plans."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=197, total_tokens=238, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAchc8-4yUbBN-930a030f6fa305c4', created=1744705103, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions the \'upcoming period\', indicating that it is discussing future expectations and events."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=188, total_tokens=226, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAchbx-4yUbBN-930a030f6f8f6fdf', created=1744705103, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes past events and does not contain any language indicating future expectations or predictions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=176, total_tokens=213, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAchcG-4yUbBN-930a030f6cf4878b', created=1744705103, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions that the regulations will \'continue to strengthen\' and \'improve\' the transmission mechanism and funding composition, implying future actions and effects."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=207, total_tokens=256, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 04:18:24,196 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions monitoring inflation expectations and maintaining a cautious stance until there is a significant improvement in the inflation outlook, indicating a focus on future developments."
+}
+2025-04-15 04:18:24,196 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes the past effects of the Central Bank's measures, without mentioning any future expectations or plans."
+}
+2025-04-15 04:18:24,196 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions the 'upcoming period', indicating that it is discussing future expectations and events."
+}
+2025-04-15 04:18:24,196 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes past events and does not contain any language indicating future expectations or predictions."
+}
+2025-04-15 04:18:24,196 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions that the regulations will 'continue to strengthen' and 'improve' the transmission mechanism and funding composition, implying future actions and effects."
+}
+2025-04-15 04:18:24,196 - together_inference - INFO - Processing batch 22/30 with 5 sentences.
+2025-04-15 04:18:24,196 - together_inference - INFO - Processing batch 22/30
+2025-04-15 04:18:25,433 - together_inference - INFO - Completed batch 22/30
+2025-04-15 04:18:25,433 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions monitoring the interaction of risks with inflation outlook, which implies a focus on future developments and potential impacts."
+}
+2025-04-15 04:18:25,433 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence discusses the importance of credit growth and targeted fund use for financial stability, which is a general statement without any explicit reference to future actions or expectations."
+}
+2025-04-15 04:18:25,433 - together_inference - INFO - Response: {
+"label": "not forward looking",
+"justification": "The sentence is comparing the current month to the previous month, which is a retrospective analysis and does not provide any information about future expectations or plans."
+}
+2025-04-15 04:18:25,433 - together_inference - INFO - Response: {
+"label": "not forward looking",
+"justification": "The sentence only discusses past data and does not provide any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:25,433 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only describes the current state of inflation and core indicators, without providing any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:25,433 - together_inference - INFO - Processing batch 23/30 with 5 sentences.
+2025-04-15 04:18:25,433 - together_inference - INFO - Processing batch 23/30
+2025-04-15 04:18:26,837 - together_inference - INFO - Completed batch 23/30
+2025-04-15 04:18:26,841 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports past data on services prices and inflation, without providing any information or hints about future expectations or policy directions."
+}
+2025-04-15 04:18:26,841 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only describes past events and does not provide any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:26,841 - together_inference - INFO - Response: {
+"label": "not forward looking",
+"justification": "The sentence only discusses past events and does not provide any information or hints about future expectations or actions."
+}
+2025-04-15 04:18:26,841 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes actions taken in the past (since August) and their intended effects, without mentioning any future plans or expectations."
+}
+2025-04-15 04:18:26,841 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes a past event (economic activity in the first quarter) and does not provide any information about future expectations or plans."
+}
+2025-04-15 04:18:26,841 - together_inference - INFO - Processing batch 24/30 with 5 sentences.
+2025-04-15 04:18:26,841 - together_inference - INFO - Processing batch 24/30
+2025-04-15 04:18:27,718 - together_inference - INFO - Completed batch 24/30
+
+[ModelResponse(id='nqAchuM-4yUbBN-930a03158a71d640', created=1744705104, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions monitoring the interaction of risks with inflation outlook, which implies a focus on future developments and potential impacts."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=181, total_tokens=223, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAchuG-4yUbBN-930a03158c87d62c', created=1744705104, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence discusses the importance of credit growth and targeted fund use for financial stability, which is a general statement without any explicit reference to future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=51, prompt_tokens=186, total_tokens=237, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAchu4-4yUbBN-930a03158c6805c4', created=1744705104, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "not forward looking",\n"justification": "The sentence is comparing the current month to the previous month, which is a retrospective analysis and does not provide any information about future expectations or plans."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=179, total_tokens=223, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAchu3-4yUbBN-930a03158ae06fdf', created=1744705104, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "not forward looking",\n"justification": "The sentence only discusses past data and does not provide any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=183, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAchu5-4yUbBN-930a031599c6878b', created=1744705104, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only describes the current state of inflation and core indicators, without providing any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=175, total_tokens=220, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAciGE-4yUbBN-930a031d4d8dd640', created=1744705105, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports past data on services prices and inflation, without providing any information or hints about future expectations or policy directions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=184, total_tokens=229, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAciGY-4yUbBN-930a031d4af605c4', created=1744705105, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only describes past events and does not provide any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=182, total_tokens=222, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAciGG-4yUbBN-930a031d4ea8d62c', created=1744705105, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "not forward looking",\n"justification": "The sentence only discusses past events and does not provide any information or hints about future expectations or actions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=173, total_tokens=208, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAciGP-4yUbBN-930a031d4ec66fdf', created=1744705105, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes actions taken in the past (since August) and their intended effects, without mentioning any future plans or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=193, total_tokens=238, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAciGV-4yUbBN-930a031d4fae878b', created=1744705105, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes a past event (economic activity in the first quarter) and does not provide any information about future expectations or plans."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=176, total_tokens=222, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcigU-4yUbBN-930a03260b4cd640', created=1744705106, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes a current or past trend in Turkish lira deposits and does not contain any language indicating future expectations or predictions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=180, total_tokens=225, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcigm-4yUbBN-930a03261c05d62c', created=1744705106, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "not forward looking",\n"justification": "The sentence describes a past event (nonfarm employment being up) and does not provide any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=170, total_tokens=212, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcige-4yUbBN-930a03261deb878b', created=1744705106, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports past economic data, providing no information or hints about future monetary policy decisions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=193, total_tokens=234, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcige-4yUbBN-930a03261b7a6fdf', created=1744705106, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions expectations for the future, which implies a forward-looking perspective."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=174, total_tokens=208, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcigh-4yUbBN-930a03261c2005c4', created=1744705106, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "not forward looking",\n"justification": "The sentence only reports past sales data without providing any information or hints about future expectations or trends."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=177, total_tokens=211, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 04:18:27,722 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes a current or past trend in Turkish lira deposits and does not contain any language indicating future expectations or predictions."
+}
+2025-04-15 04:18:27,722 - together_inference - INFO - Response: {
+"label": "not forward looking",
+"justification": "The sentence describes a past event (nonfarm employment being up) and does not provide any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:27,722 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports past economic data, providing no information or hints about future monetary policy decisions or expectations."
+}
+2025-04-15 04:18:27,722 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions expectations for the future, which implies a forward-looking perspective."
+}
+2025-04-15 04:18:27,722 - together_inference - INFO - Response: {
+"label": "not forward looking",
+"justification": "The sentence only reports past sales data without providing any information or hints about future expectations or trends."
+}
+2025-04-15 04:18:27,722 - together_inference - INFO - Processing batch 25/30 with 5 sentences.
+2025-04-15 04:18:27,722 - together_inference - INFO - Processing batch 25/30
+2025-04-15 04:18:28,671 - together_inference - INFO - Completed batch 25/30
+2025-04-15 04:18:28,677 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions 'expectations for future orders' and 'domestic demand is expected to increase', which indicates a forward-looking perspective."
+}
+2025-04-15 04:18:28,678 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes a past event (annual inflation decrease) without providing any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:28,678 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only describes past events and does not provide any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:28,678 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions risks to growth in 2017, which implies a future time frame and therefore is forward-looking."
+}
+2025-04-15 04:18:28,678 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions a future month (May) and predicts the impact of the energy group on consumer inflation, indicating a forward-looking statement."
+}
+2025-04-15 04:18:28,678 - together_inference - INFO - Processing batch 26/30 with 5 sentences.
+2025-04-15 04:18:28,678 - together_inference - INFO - Processing batch 26/30
+2025-04-15 04:18:29,691 - together_inference - INFO - Completed batch 26/30
+2025-04-15 04:18:29,698 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence uses the phrase 'are expected to accelerate' which indicates a future expectation, making it forward-looking."
+}
+2025-04-15 04:18:29,698 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only discusses past events and their impact on energy prices, without making any statements about future expectations or predictions."
+}
+2025-04-15 04:18:29,698 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports past data on consumption goods imports, without providing any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:29,698 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions an expectation about the future trend of inflation, indicating a forward-looking statement."
+}
+2025-04-15 04:18:29,698 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only discusses past events and does not provide any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:29,698 - together_inference - INFO - Processing batch 27/30 with 5 sentences.
+2025-04-15 04:18:29,698 - together_inference - INFO - Processing batch 27/30
+2025-04-15 04:18:30,619 - together_inference - INFO - Completed batch 27/30
+
+[ModelResponse(id='nqAciwn-4yUbBN-930a032b9ba3d640', created=1744705107, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions \'expectations for future orders\' and \'domestic demand is expected to increase\', which indicates a forward-looking perspective."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=189, total_tokens=235, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAciwo-4yUbBN-930a032b9c92d62c', created=1744705107, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes a past event (annual inflation decrease) without providing any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=171, total_tokens=214, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAciwp-4yUbBN-930a032b9eb56fdf', created=1744705107, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only describes past events and does not provide any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=185, total_tokens=225, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAciwy-4yUbBN-930a032b9a0e05c4', created=1744705107, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions risks to growth in 2017, which implies a future time frame and therefore is forward-looking."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=202, total_tokens=244, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAciwz-4yUbBN-930a032b99ea878b', created=1744705107, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions a future month (May) and predicts the impact of the energy group on consumer inflation, indicating a forward-looking statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=170, total_tokens=216, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcjHp-4yUbBN-930a0331ade7d62c', created=1744705108, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence uses the phrase \'are expected to accelerate\' which indicates a future expectation, making it forward-looking."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=206, total_tokens=247, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcjEs-4yUbBN-930a0331ac89d640', created=1744705108, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only discusses past events and their impact on energy prices, without making any statements about future expectations or predictions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=207, total_tokens=250, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcjEj-4yUbBN-930a0331af4605c4', created=1744705108, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports past data on consumption goods imports, without providing any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=177, total_tokens=220, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcjEu-4yUbBN-930a0331a9af6fdf', created=1744705108, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions an expectation about the future trend of inflation, indicating a forward-looking statement."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=189, total_tokens=226, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcjEd-4yUbBN-930a0331ade9878b', created=1744705108, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only discusses past events and does not provide any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=200, total_tokens=240, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAcjXi-4yUbBN-930a0337ee24d640', created=1744705109, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes a past event (the meeting) and its focus, without mentioning any future plans or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=172, total_tokens=214, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcjY3-4yUbBN-930a0337ff62d62c', created=1744705109, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "not forward looking",\n"justification": "The sentence only describes a current or past situation, without providing any information or hints about future actions, decisions, or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=169, total_tokens=209, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcjXx-4yUbBN-930a0337fce36fdf', created=1744705109, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports past data and does not provide any information or hints about future expectations or actions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=174, total_tokens=214, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcjXx-4yUbBN-930a0337fa02878b', created=1744705109, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence reports past data on inflation rates, providing a historical account without any indication of future expectations or projections."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=188, total_tokens=230, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcjY7-4yUbBN-930a0337fc9005c4', created=1744705109, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence reports past data on annual inflation, providing a historical account rather than making a statement about future expectations or policy intentions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=179, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 04:18:30,619 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes a past event (the meeting) and its focus, without mentioning any future plans or expectations."
+}
+2025-04-15 04:18:30,619 - together_inference - INFO - Response: {
+"label": "not forward looking",
+"justification": "The sentence only describes a current or past situation, without providing any information or hints about future actions, decisions, or expectations."
+}
+2025-04-15 04:18:30,619 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports past data and does not provide any information or hints about future expectations or actions."
+}
+2025-04-15 04:18:30,619 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence reports past data on inflation rates, providing a historical account without any indication of future expectations or projections."
+}
+2025-04-15 04:18:30,619 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence reports past data on annual inflation, providing a historical account rather than making a statement about future expectations or policy intentions."
+}
+2025-04-15 04:18:30,620 - together_inference - INFO - Processing batch 28/30 with 5 sentences.
+2025-04-15 04:18:30,620 - together_inference - INFO - Processing batch 28/30
+2025-04-15 04:18:31,581 - together_inference - INFO - Completed batch 28/30
+2025-04-15 04:18:31,582 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes a past event (the current account balance ceasing to improve) and does not contain any language indicating future expectations or predictions."
+}
+2025-04-15 04:18:31,582 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence discusses past events and trends, specifically mentioning the first quarter of the year and the last decade, without providing any information or insights about future expectations or plans."
+}
+2025-04-15 04:18:31,582 - together_inference - INFO - Response: {
+"label": "not forward looking",
+"justification": "The sentence only reports current inflation rates without providing any information or hints about future monetary policy decisions or economic prospects."
+}
+2025-04-15 04:18:31,582 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only discusses past events and their causes, without making any statements about future expectations or predictions."
+}
+2025-04-15 04:18:31,582 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports on past indicators for March and April, without providing any information or hints about future economic activity or policy decisions."
+}
+2025-04-15 04:18:31,582 - together_inference - INFO - Processing batch 29/30 with 5 sentences.
+2025-04-15 04:18:31,582 - together_inference - INFO - Processing batch 29/30
+2025-04-15 04:18:32,507 - together_inference - INFO - Completed batch 29/30
+2025-04-15 04:18:32,511 - together_inference - INFO - Response: {
+"label": "not forward looking",
+"justification": "The sentence only discusses past events and does not provide any information or hints about future actions or expectations."
+}
+2025-04-15 04:18:32,511 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence provides specific inflation rate projections for future time periods, including end-2018, end-2019, end-2020, and the medium term, which indicates a forward-looking perspective."
+}
+2025-04-15 04:18:32,511 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes the current state of domestic and external demand, without making any statements about future expectations or predictions."
+}
+2025-04-15 04:18:32,511 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence reports past data on inflation rates, without providing any information or hints about future monetary policy decisions or expectations."
+}
+2025-04-15 04:18:32,511 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence is forward-looking because it expresses an expectation about a future event, specifically a quarterly fall in economic activity in the third quarter."
+}
+2025-04-15 04:18:32,511 - together_inference - INFO - Processing batch 30/30 with 5 sentences.
+2025-04-15 04:18:32,511 - together_inference - INFO - Processing batch 30/30
+2025-04-15 04:18:33,540 - together_inference - INFO - Completed batch 30/30
+
+[ModelResponse(id='nqAcjoh-4yUbBN-930a033dbebdd640', created=1744705110, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes a past event (the current account balance ceasing to improve) and does not contain any language indicating future expectations or predictions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=177, total_tokens=225, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcjoo-4yUbBN-930a033dbfb6d62c', created=1744705110, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence discusses past events and trends, specifically mentioning the first quarter of the year and the last decade, without providing any information or insights about future expectations or plans."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=53, prompt_tokens=193, total_tokens=246, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcjov-4yUbBN-930a033db8d705c4', created=1744705110, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "not forward looking",\n"justification": "The sentence only reports current inflation rates without providing any information or hints about future monetary policy decisions or economic prospects."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=189, total_tokens=226, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcjox-4yUbBN-930a033dbfb36fdf', created=1744705110, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only discusses past events and their causes, without making any statements about future expectations or predictions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=185, total_tokens=225, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAcjpS-4yUbBN-930a033dbd95878b', created=1744705110, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports on past indicators for March and April, without providing any information or hints about future economic activity or policy decisions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=171, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAck6J-4yUbBN-930a0343b80fd640', created=1744705111, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "not forward looking",\n"justification": "The sentence only discusses past events and does not provide any information or hints about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=186, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAck6P-4yUbBN-930a0343b932d62c', created=1744705111, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence provides specific inflation rate projections for future time periods, including end-2018, end-2019, end-2020, and the medium term, which indicates a forward-looking perspective."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=59, prompt_tokens=213, total_tokens=272, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAck6q-4yUbBN-930a0343dd9105c4', created=1744705111, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes the current state of domestic and external demand, without making any statements about future expectations or predictions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=174, total_tokens=216, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAck6g-4yUbBN-930a0343bb026fdf', created=1744705111, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence reports past data on inflation rates, without providing any information or hints about future monetary policy decisions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=184, total_tokens=227, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAck6f-4yUbBN-930a0343d982878b', created=1744705111, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence is forward-looking because it expresses an expectation about a future event, specifically a quarterly fall in economic activity in the third quarter."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=173, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]
+[ModelResponse(id='nqAckNQ-4yUbBN-930a0349897bd640', created=1744705112, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence describes a past event (decline in inflation) and its contributing factors, without providing any information about future expectations or plans."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=172, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAckNM-4yUbBN-930a03498b7dd62c', created=1744705112, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only reports past data and does not provide any information or hints about future expectations or actions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=179, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAckNX-4yUbBN-930a03498a0605c4', created=1744705112, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "forward looking",\n"justification": "The sentence mentions the possibility of future actions by central banks, indicating a forward-looking perspective."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=185, total_tokens=222, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAckNR-4yUbBN-930a03498e216fdf', created=1744705112, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence is describing the current state of lending rates and their alignment with the targeted level of financial tightness, without providing any information about future actions or expectations."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=52, prompt_tokens=186, total_tokens=238, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[]), ModelResponse(id='nqAckNS-4yUbBN-930a03498d33878b', created=1744705112, model='together_ai/meta-llama/Llama-3-70b-chat-hf', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='Here is the output:\n\n{\n"label": "not forward looking",\n"justification": "The sentence only describes past events and does not contain any language indicating future expectations or predictions."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=175, total_tokens=213, completion_tokens_details=None, prompt_tokens_details=None), service_tier=None, prompt=[])]2025-04-15 04:18:33,545 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence describes a past event (decline in inflation) and its contributing factors, without providing any information about future expectations or plans."
+}
+2025-04-15 04:18:33,545 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only reports past data and does not provide any information or hints about future expectations or actions."
+}
+2025-04-15 04:18:33,545 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "forward looking",
+"justification": "The sentence mentions the possibility of future actions by central banks, indicating a forward-looking perspective."
+}
+2025-04-15 04:18:33,545 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence is describing the current state of lending rates and their alignment with the targeted level of financial tightness, without providing any information about future actions or expectations."
+}
+2025-04-15 04:18:33,545 - together_inference - INFO - Response: Here is the output:
+
+{
+"label": "not forward looking",
+"justification": "The sentence only describes past events and does not contain any language indicating future expectations or predictions."
+}
+2025-04-15 04:18:33,547 - together_inference - INFO - Inference completed. Returning DataFrame with 150 rows.
+2025-04-15 04:18:33,548 - together_inference - INFO - Time taken for inference: 35.50603795051575
+2025-04-15 04:18:33,554 - together_inference - INFO - Inference completed for time. Results saved to /Users/hp/Desktop/global-central-banks/llm_inference_output/central_bank_republic_of_turkey/time_together_ai/meta-llama/Llama-3-70b-chat-hf_20250415_78516.csv
+

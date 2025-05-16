@@ -1,0 +1,56 @@
+# Central Bank of Egypt 
+
+**Press Release**
+
+**November 27, 2014**
+
+**_In its meeting held on November 27, 2014, the Monetary Policy Committee (MPC)_**
+**_decided to keep the overnight deposit rate, overnight lending rate, and the rate of_**
+**_the CBE's main operation unchanged at 9.25 percent, 10.25 percent, and 9.75_**
+**_percent, respectively. The discount rate was also kept unchanged at 9.75 percent._**
+
+Headline CPI inched up by 1.71 percent (m/m) in October 2014, following an increase of 1.23
+percent (m/m) in September. This brings the annual rate to 11.84 percent in October, after
+recording 11.12 percent in September. The monthly developments in October came on the
+back of increases in public and private education fees, which usually coincide with the
+beginning of the school year. In the meantime while prices of fresh vegetables inched-up,
+prices of other food items continued to decelerate supported by the decline in international
+prices, notwithstanding the seasonal pick-up in September due to Eid Al-Adha. On the other
+hand, core CPI increased by 0.55 percent (m/m) in October, compared to 0.84 percent
+(m/m) in September. The annual rate eased to 8.47 percent in October from 9.15 percent in
+September, partly reflecting the decline in food prices and a favorable base effect. Upside
+risks from imported inflation continue to be contained on the back of lower international
+food price forecasts in light of global developments.
+
+Meanwhile, real GDP picked up significantly in 2013/2014 Q4, growing by 3.70 percent
+compared to 2.50 percent, 1.44 percent and 1.04 percent recorded in Q3, Q2 and Q1,
+respectively. This brought the annual growth rate for the whole FY2013/2014 to 2.2 percent
+following a similarly sluggish growth rate of 2.1 percent during FY2012/2013. The expansion
+in economic activity during 2013/2014 Q4 came on the back of the acceleration in
+manufacturing and real estate activities, along with a moderate growth in the construction
+sector. This occurred despite the continued contraction witnessed in the tourism and
+petroleum sectors. In the meantime, investment continues to be below historical levels
+despite the relative improvement witnessed in the annual growth rate during 2013/2014 Q3
+and Q4, following six quarters of contraction. Looking ahead, while investments in domestic
+mega projects such as the Suez Canal are expected to contribute to economic growth, the
+downside risks that surround the global recovery on the back of challenges facing the Euro
+Area and the softening growth in emerging markets could pose downside risks to domestic
+GDP.
+
+At this juncture, the MPC judges that the key CBE rates are currently appropriate given the
+balance of risks surrounding the inflation and GDP outlooks.
+
+The MPC will continue to closely monitor all economic developments and will not hesitate to
+adjust the key CBE rates to ensure price stability over the medium-term.
+
+Dr. Rania Al-Mashat
+
+Sub Governor, Monetary Policy
+
+Telephone number: 27701315
+
+E-mail address: monetary.policy@cbe.org.eg
+
+
+-----
+

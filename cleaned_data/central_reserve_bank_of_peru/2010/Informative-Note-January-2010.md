@@ -1,0 +1,45 @@
+# MONETARY PROGRAM FOR JANUARY 2010
+ BCRP MAINTAINS THE REFERENCE INTEREST RATE AT 1.25%
+
+1. The Board of the Central Reserve Bank of Peru approved to maintain the monetary
+policy reference interest rate at 1.25 percent.
+
+This decision is based on the sustained reduction of annual inflation and on the
+continuous reduction of inflation expectations.
+
+2. Inflation in December recorded a rate of 0.3 percent due to seasonal factors and to the
+rise of fuel prices on December 3. As a result of this, annual inflation recorded 0.25
+percent –rate below the target–, in line with the Central Bank forecasts. This result was
+mainly influenced by the reversal of the increase observed in the prices of food and fuels
+last year. Core inflation, which isolates transitory changes in inflation, recorded 2.35
+percent (within the target range). Advanced indicators of economic activity show clear
+signs of a recovery of the dynamism of production, but no signals of inflationary
+pressures in the short term. Unless important changes were to be observed in inflation
+forecasts and in inflation determinants, no new adjustments of the reference rate are
+foreseen.
+
+3. The Board also approved to maintain the following annual interest rates on active and
+passive operations in domestic currency (not included in auctions) between the BCRP
+and the financial system as described below:
+
+a. Direct repo and rediscount operations: 2.05 percent.
+b. Overnight deposits: 0.45 percent.
+c. Swap: a commission equivalent to a minimum annual effective cost of 2.05
+percent.
+
+# 4. In 2010, the Board will approve the Monetary Program for each month on the sessions to
+be held on the following dates:
+
+February 11 March 11 April 8 May 6
+June 10 July 8 August 5 September 9
+October 7 November 11 December 9
+
+5. The BCRP will publish its Inflation Report on the following dates:
+
+March 26 June 18 September 17 December 17
+
+Lima, January 7, 2010.
+
+
+-----
+

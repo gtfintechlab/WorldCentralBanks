@@ -1,0 +1,133 @@
+**N** **a** **t** **i** **o** **n** **a** **l** **B** **a** **n** **k** **o** **f** **P** **o** **l** **a** **n** **d**
+
+M o n e t a r y P o l i c y C o u n c i l
+
+# MINUTES OF THE MONETARY POLICY DECISION TAKING
+ MEETING HELD ON 9 JANUARY 2013
+
+At its meeting, the Monetary Policy Council discussed the current and future monetary policy
+decisions against the background of the domestic and external macroeconomic conditions.
+
+While analysing the external conditions, it was pointed out that the global economic conditions
+remained weak. Yet, the uncertainty about the short-term global economic outlook had abated,
+mainly due to a partial agreement on the scale of fiscal tightening in 2013 in the US, development
+of institutional reforms in the euro area and further monetary policy easing by main central banks.
+These factors had also contributed to an improvement in financial market sentiment. At the same
+time, attention was drawn to protracted recession and continued fiscal tightening in a majority of the
+euro area member states. It was also indicated that the attempts to reduce general government sector
+imbalances might curb GDP growth and trigger a further rise in the unemployment rate in some
+euro area countries in the short term. A few members of the Council argued, however, that in 2013
+Germany, Poland’s main trading partner, was likely to experience higher GDP growth compared
+with other euro area countries. Yet, other Council members judged that although some
+improvement in the global economic conditions might be expected in the coming quarters,
+economic growth abroad would remain relatively weak.
+
+While addressing economic conditions in Poland, the Council members agreed that the incoming
+data confirmed further weakening in economic activity in 2012 Q4. It was emphasised that the
+slowdown was driven by both external and internal factors. It was pointed out that the economic
+growth in 2012 Q4 was most probably below the November projection.
+
+In the opinion of some Council members, the incoming data, including retail sales data, suggested
+that the consumption growth could be close to zero in 2012 Q4. While analysing factors behind a
+slowdown in consumption growth, the Council members pointed to a decline in real disposable
+income, driven, in particular, by deteriorating labour market conditions. It was emphasised that the
+slowdown in consumer spending growth was accompanied with a decline in the savings rate to its
+historical low.
+
+While addressing investment activity, the opinion was expressed that investment growth had
+probably remained negative in 2012 Q4. Attention was drawn to considerable cuts in public
+investment expenditure, in particular of local governments, at the end of 2012, related to the
+necessity of reduction in fiscal imbalances. As regards corporate investment, a few Council
+members pointed out that in the previous years, strong investment growth had been supported by
+excessively optimistic sentiment in corporate sector and EU funds inflow.
+
+While discussing the recent developments in the banking sector, a few Council members pointed to
+still tight lending conditions and slowing deposit growth. Against this background, they also
+indicated that, following interest rate cuts by the NBP at the previous Council meetings, the interest
+on deposits fell significantly stronger compared with the interest on loans.
+
+While addressing the Polish economic outlook, the Council members pointed out that GDP growth
+would stay low in the coming quarters. Consumption would be still adversely affected with slow
+growth in disposable income of households, driven by the deteriorating labour market conditions,
+and a higher effective personal income tax rate as of 2013. As regards the labour market conditions,
+some Council members expected further deterioration, which would be likely reflected in a further
+
+0 0-919 War szawa u l Święto krzys ka 1 1 /2 1 phon e (+4 8) 2 2 653 2 8 88 fax (+4 8) 2 2 653 1 3 28
+
+
+-----
+
+rise in the unemployment rate. A few Council members pointed out that the rise in the disability
+pension contribution in 2012 and a relatively high relation between the minimum and the average
+wage might dampen the labour demand. Moreover, consumption will be adversely affected with
+limited room for a further decline in savings rate. While analysing the investment outlook, the
+Council members assessed that, in particular, a further decline in the estimated value of newly
+launched investment projects suggested that the investment growth would stay negative in the
+coming quarters. It was pointed out that a decline in investments of central government and of local
+governments co-financed with the EU funds would also be conducive to a fall in investment
+expenditure. At the same time, it was assessed that economic growth would further be supported
+mainly by net exports. Therefore, demand prospects in the euro area posed a risk to Polish
+economic outlook. Some Council members were of the opinion that economic growth in Poland
+might increase along with the likely rebound in economic activity abroad in the second half of
+2013.
+
+While addressing inflation developments in the Polish economy, the Council members pointed out
+that the CPI inflation had declined notably in recent months and had been close to the NBP target in
+November. It was emphasised that the decline in CPI inflation had been largely driven by slower
+growth in the commodity prices, including food and energy, which previously had contributed to
+faster price growth. Core inflation had also declined, indicating no demand pressure. Against this
+background, attention was paid to a downward revision in inflation expectations of both households
+and corporates. At the same time, the majority of the Council members believed that in the coming
+months inflation would decline further and then stabilize below the inflation target for at least one
+year. In the opinion of the Council members, the decline in inflation would be driven by both
+decreases in energy prices as of January 2013, negative output gap and lack of wage pressure in the
+economy. At the same time, some Council members pointed at uncertainty about inflation
+developments in the longer term. This uncertainty was driven, in particular, by possible
+considerable changes in commodity prices in the global markets as well as in utility prices.
+Moreover, a few Council members pointed out that although in 2013 a further decline in core
+inflation could be expected, it would probably stay elevated considering this business cycle stage.
+
+While discussing the NBP interest rates, as at previous meetings, it was assessed that at the current
+meeting the NBP interest rates should continue to be lowered, which should support economic
+activity and reduce the risk of inflation falling below the target in the medium term. Yet, the
+Council members differed in their opinion as to the scale of cuts in NBP interest rate, both at the
+present meeting and during the entire cycle.
+
+The majority of the Council members indicated that the incoming data – confirming the previously
+anticipated decline in inflation and protracted economic slowdown – did not justify a greater scale
+of cuts in the NBP interest rates at the current meeting. In the opinion of these Council members,
+also the risks related to growth in prices, in particular for commodities, advocated for maintaining
+the current scale of interest rate cuts. A few Council members also indicated that a sharp decrease in
+interest rates might lead to further decline in the propensity to save.
+
+On the other hand, in the opinion of a few Council members, as the inflation was likely to stay
+below the NBP inflation target in the coming quarters, the NBP interest rates should be lowered
+more – or even far more – at the current meeting. These members pointed out that in particular the
+length of lags in the transmission mechanism would justify a relatively prompt monetary policy
+easing.
+
+While referring to future decisions, the majority of the Council members did not rule out further
+monetary policy easing, should the incoming data, including the 2012 GDP data, confirm a
+protracted economic slowdown and should the risk of increase in inflationary pressure remain
+limited. In turn, other Council members declared that the already effected interest rate cuts were
+sufficient to limit the risk of inflation running significantly below the target in the medium term,
+
+
+-----
+
+and that the impact of potential further cuts in the NBP rates on economic activity would be small.
+At the same time, in the opinion of a few of these Council members, further monetary policy easing
+could, in the longer term, trigger a growth in imbalances in the Polish economy.
+
+At the meeting, a motion was submitted to lower the NBP basic interest rates by 1.25 percentage
+points. The motion did not pass. A motion was also submitted to lower the NBP basic interest rates
+by 0.50 percentage points. The motion did not pass. At the meeting, a motion was also submitted to
+lower the NBP basic interest rates by 0.25 percentage points. The motion passed. The Council
+decided to decrease the NBP basic interest rates by 0.25 percentage points to the following levels:
+reference rate to 4.00%, lombard rate to 5.50%, deposit rate to 2.50% and rediscount rate to 4.25%.
+
+_Publication date: 24 January 2013_
+
+
+-----
+

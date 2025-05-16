@@ -1,0 +1,165 @@
+BANK OF ISRAEL
+
+Office of the Spokesperson and Economic Information
+
+January 17, 2022
+
+# Report on the Bank of Israel’s discussions prior to deciding
+ on the interest rate
+
+## The discussions took place on January 2 and 3, 2022.
+
+ General
+
+The Monetary Committee sets the interest rate in a process that includes two
+discussions––the first in a broad forum, and the second in a narrower one.
+
+In the broad-forum discussion, the relevant background economic conditions are
+presented, including the real and financial-monetary developments in Israel’s economy,
+and developments in the global economy. Participants in this discussion include the
+members of the Monetary Committee, senior representatives from the various
+departments of the Bank, and economists from the economic departments (Research
+and Markets), who prepare and present the material for discussion.
+
+In the narrow forum—which consists of the Monetary Committee and a representative
+of the Markets Department—the Research and the Markets Departments present their
+views of the main considerations that should guide the setting of the monetary policy.
+An open discussion on monetary policy follows, which ends with a vote on the level of
+the interest rate. According to Section 18(c) of the Bank of Israel Law, 5770–2010, the
+decision on the interest rate is reached by majority vote of the members of the Monetary
+Committee who participate in the voting.
+
+A summary view of the economic situation available at the time of the Committee’s
+discussion is presented in the [notice regarding the interest rate decision, which was](https://www.boi.org.il/en/NewsAndPublications/PressReleases/Pages/3-1-22.aspx)
+[published on January 3, and in the data file that accompanied the notice.](https://www.boi.org.il/en/NewsAndPublications/PressReleases/Documents/2022-1-Presentation%20for%20Jan%203%202022%20int%20rate.pptx)
+
+
+-----
+
+## THE NARROW-FORUM DISCUSSION
+
+The members of the Monetary Committee participating in the discussion decide on the
+appropriate rate of interest. After the discussion, it was decided to keep the interest rate
+unchanged at 0.1 percent. The decision was unanimous
+
+The discussion focused on the state of morbidity and the risks to activity deriving from
+it, inflation in Israel, which is low in international comparison, the improvement in
+employment indices, the increase in home prices, and the exchange rate.
+
+## Main points of discussion
+
+The Committee discussed the spread of the Omicron variant of COVID-19 in Israel and
+worldwide. The Committee members noted the high infection coefficient and the sharp
+increase in the rate of morbidity in Israel. They discussed the uncertainty regarding the
+fifth wave of infection, and in particular its impact on activity. The Committee members
+assessed that the fifth wave is expected to be different than the previous waves, in terms
+of both the number of infected and the extent of severe illness. The Committee members
+were of the view that even if additional limitations are not imposed in Israel, there could
+be a slowdown in economic activity due to the sharp increase in the number of
+confirmed cases and people in isolation. With that, their assessment was that compared
+to previous waves, the economy has learned to adjust and to continue carrying out
+activity alongside the coronavirus—which is expected to assist the economy in dealing
+with the current wave of infection.
+
+There was a discussion dealing with inflation. In many countries, inflation rates
+increased to a level higher than the central bank’s targets, and assessments were revised
+regarding how transitory the inflation is. Therefore, central banks continued with the
+monetary tightening process. Inflation in Israel stabilized in recent months and
+remained low compared to most OECD countries. It is in the bottom decile of the OECD
+country distribution. In the past 12 months, the inflation rate in Israel was 2.4 percent,
+and net of energy, fruit and vegetables it is near the midpoint of the target range (2.1
+percent). The Committee discussed the main forces impacting on inflation in Israel,
+including the development of global prices of commodities and energy, the exchange
+rate, wages and rents, as well as assessments regarding their development in the future,
+and in particular regarding the continued difficulties in production and supply chains.
+In accordance with the various forecasts, in 2022 the inflation rate is expected to
+moderate. As far as the coming years, the expectations and forecasts are all within the
+price stability target range, and they do not reflect expectations of an acceleration. The
+Committee’s assessment was that the current situation allows it more patience in
+conducting monetary policy while continuing to examine and analyze all the
+developments. The Committee continued to assess that in this stage there is no concern
+of an outbreak of inflation.
+
+
+-----
+
+The Committee discussed data on activity and the labor market. The Committee noted
+that economic activity continues to function adequately and that labor market data
+continue to indicate an improving trend: a decline in the broad unemployment rate and
+an increase in the adjusted employment rate. Alongside this, the number of job
+vacancies continues to be at a high level. The Committee assessed that the data from
+the labor market point to tightening. However, it emphasized that there is a need to
+continue to examine and accompany the recovery process, particularly against the
+background of the outbreak of the fifth wave. One of the Committee members noted
+that a more severe negative impact is liable to occur in the proximity industries. The
+Committee noted that net of the effects of the composition of employees, in most
+industries wage increases did not deviate from the trend that characterized them before
+the crisis, but there is some acceleration in the pace of wage increases in some industries
+seen in the most recent data. The aggregate balance of the Business Tendency Survey
+is at a positive and high level and continued to increase in November. At the same time,
+there was an increase in the share of companies in the manufacturing and construction
+industries that reported constraints on equipment and raw materials. These
+developments occurred against the background of continued difficulties in production
+and supply chains worldwide. The Committee discussed the assessments that the supply
+chain difficulties will remain for a longer time than previously assessed. In addition,
+they discussed analyses presented to them regarding the differential impact of the shekel
+appreciation on activity and employment, in the various industries.
+
+The Committee noted that the pace of home price increases continued to accelerate, and
+discussed the relation between home prices and rents. Home prices increased in the past
+12 months by 10.3 percent, a considerably high rate compared to the average pace in
+recent years. Mortgage volume continued to be high. Alongside these there was some
+increase in the most recent data on the pace of rent price increases, but it remained
+relatively moderate. The Committee was of the view that the solution to home price
+increases is expanding supply and providing certainty that the scope of construction
+will be high for a prolonged time.
+
+Since the previous interest rate decision, the exchange rate has been volatile. Compared
+with the beginning of the period, the shekel weakened by 0.7 percent against the dollar,
+by 0.2 percent in terms of the effective exchange rate, and by 1 percent against the euro.
+The Committee members noted that the most recent data showed an increase in the
+implied volatility of the shekel-dollar options. In addition, they referred to the various
+forces that acted in the past year and led to the appreciation of the shekel. The
+Committee members discussed the assessments regarding the future development of
+those forces. The Committee noted that the program to purchase $30 billion that was
+operated in 2021 was a plan that was appropriate for special times, and that the Bank
+will continue to act in the foreign exchange market as needed and taking economic
+activity into account.
+
+All six members of the Monetary Committee were of the opinion that the interest rate
+should be kept unchanged at 0.1 percent. They claimed that the low level of the interest
+rate supports the continued recovery of economic activity. The Committee noted that
+
+
+-----
+
+the Israeli economy’s process of recovery from the crisis continues. However, there are
+still challenges to economic activity. Therefore, the Committee decided to continue to
+conduct accommodative monetary policy for a prolonged time, in accordance with the
+pace of growth and employment and in the path of inflation. This is all in order to
+continue to support the attaining of the policy targets and the economy’s recovery from
+the crisis, and to ensure the continued orderly functioning of the financial markets.
+
+**Participants in the narrow-forum discussion:**
+
+**Members of the Monetary Committee:**
+Prof. Amir Yaron, Governor of the Bank and Chairperson
+Mr. Andrew Abir, Deputy Governor of the Bank of Israel
+Prof. Naomi Feldman
+Prof. Moshe Hazan
+Prof. Zvi Hercowitz
+Prof. Michel Strawczynski
+
+**Other participants in the narrow-forum discussion:**
+Mr. Uri Barazani, Spokesperson of the Bank
+Dr. Golan Benita, Chief of Staff to the Governor
+Mr. Tal Biber, Head of the Markets Division, Markets Department
+Mr. Gilad Brand, Research Department
+Mr. Ari Kutai, Research Department
+Mr. Arad May, Monetary Committee Secretariat
+Ms. Dana Orfaig, Research Department
+Mr. Daniel Shlomiuk, Bank Spokesperson’s Office
+
+
+-----
+

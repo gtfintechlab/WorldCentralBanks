@@ -1,0 +1,136 @@
+# Minutes of the Monetary Policy Meeting of the Monetary Policy Committee 
+
+ Bank of Thailand
+
+ 13 July 2011
+
+ Publication date: 27 July 2011
+
+**Members Present**
+
+Prasarn Trairatvorakul (Chairman and Governor), Atchana Waiquamdee (Vice Chairman and Deputy
+Governor, Monetary Stability), Suchada Kirakul (Deputy Governor, Corporate Support Services),
+Ampon Kittiampon, Praipol Koomsup, Siri Ganjarerndee, Krirk-krai Jirapaet.
+
+**Financial Markets**
+
+**Transmission from the policy rate to commercial bank rates continued to be effective.**
+Commercial banks raised interest rates immediately following the policy rate hike from the previous
+MPC meeting (1 June 2011). Regarding interest rate expectations prior to this meeting, continued
+increases in short-term money market rates and the short-end of the government yield curve showed
+that the market had already priced in a policy rate hike. This was consistent with survey results in
+which all market participants forecast a rate hike of 0.25 percentage points.
+
+**The baht depreciated relative to the US dollar in June due to foreign investors decreasing their**
+investments in the Thai equity and bond markets as risk in global financial markets rose from
+concerns over sovereign debt problems in the euro area, increased uncertainty over the US recovery,
+and a wait-and-see attitude of investors **pending the election results. Nevertheless, the baht**
+**appreciated after the election concluded smoothly and market concerns over the sovereign debt**
+problem in Greece lessened. The movement of the baht was consistent with that of most regional
+currencies in the same period. The **euro depreciated amid concerns over sovereign debt that posed a**
+key risk to financial markets.
+
+**The International Economy**
+
+**Advanced economies (G3) expanded more slowly than expected in the first half of the year but**
+**were expected to retain their momentum in the latter half of the year despite some uncertainty.**
+**The US economy continued to experience structural problems in the labor and real estate markets.**
+However, the surge in oil prices which impaired consumers’ purchasing power and the supply
+disruption in the automobile sector stemming from natural disaster in Japan were expected to abate in
+the second half of the year. In addition, expansionary fiscal and monetary policies would support
+economic recovery of the US in the periods ahead. The Japanese economy recovered faster than
+expected due to production and domestic consumption. The euro area continued to expand on the
+back of growth in core member countries, especially Germany, but sovereign debt problems remained
+a key risk to financial market confidence, euro area expansion, and global economic growth. Some
+MPC members viewed that solving the euro area sovereign debt problems would prove to be
+challenging; planned privatization as well as debt restructuring and roll-over will be difficult to
+implement. As a result, the current lending program for Greece by advanced countries may only serve
+
+
+-----
+
+to delay eventual and necessary correction. In addition, some members noted that the euro area
+sovereign debt problems have yet to show any discernible impact on the real economy that may
+eventually spill over into Thailand’s economy and exports. Meanwhile, the Asian economy expanded
+robustly from both domestic and external demand.
+
+**Risks to inflation remained elevated especially in Asia. Although headline inflation began to**
+decelerate, price pressure continued to rise as reflected in the increase in core inflation and inflation
+forecasts that exceeded the target for many countries. Consequently, many countries continued to hike
+policy rates to contain inflation which may moderate Asia’s economic growth going forward.
+
+**The Domestic Economy**
+
+**The Thai economy expanded in the second quarter of this year from domestic demand,**
+supported by favorable farm income and employment conditions. Manufacturing production slowed
+from the previous quarter due to supply disruption in vehicle parts that subsequently led to a decline
+in the exports of automobiles and automobile parts. Nonetheless, overall exports continued its strong
+growth. The supply disruption problem was quickly resolved as anticipated in the previous MPC
+meeting. Manufacturing and exports were therefore expected to rebound in the second half of the
+year. Going forward, demand was expected to be robust from (1) an upward trend in domestic and
+foreign purchase orders, (2) continued expansion in planned private investment, (3) favorable credit
+conditions especially from lending by government-owned specialized financial institutions and (4)
+augmented fiscal spending after the formation of a new government.
+
+Despite a slowdown in the rise of prepared food costs, continued upward adjustments in the prices
+**of prepared foods together with high energy prices resulted in inflationary pressure remaining**
+**at an elevated level. The government’s extension of cost-of-living alleviation measures may slow the**
+rise of measured inflation but once the measures expire, inflation may accelerate. In addition, the
+economic policy of the new government, such as the minimum wage increase, will add to inflationary
+pressure. Although the minimum wage bill is relatively small compared to total costs of businesses,
+increasing the minimum wage at a rate greater than productivity growth under strong economic
+expansion may result in greater pass-through to average wage and overall prices, thus adversely
+affecting business outlook and inflation expectations.
+
+Many members viewed that the real minimum wage in recent history had not changed significantly.
+**Increasing the nominal minimum wage to levels commensurate with the rising cost of living**
+**would therefore be appropriate. However, an abrupt one-time increase in the minimum wage**
+**nationwide at a rate faster than labor productivity growth would be a challenge in view of the**
+**burden of adjustment imposed on the business sector. The MPC assessed that there is considerable**
+uncertainty over the potential additional fiscal spending, particularly in 2012. However, fiscal
+prudence would require that the government should (1) gradually phase in its spending over time; (2)
+prioritize its projects; (3) target those with the greatest needs; and (4) place emphasis on investment to
+improve productive capacity that would ensure a sustainable increase in growth and standard of
+living. Simultaneously, tax reform should be implemented to increase government revenue in line
+with rising expenditure.
+
+
+-----
+
+**Monetary Policy Considerations**
+
+**Members viewed the increased price pressure from higher prepared food and oil prices amid**
+**strong economic growth and continued fiscal stimulus to be the key factor in assessing the risks**
+**to growth and inflation and the monetary policy decision.**
+
+Members assessed that the global economy still retained its growth momentum. The stabilization of
+oil prices at high levels and sovereign debt problems in the euro area continued to be key risks in the
+second half of the year. The Thai economy expanded from both domestic and external demand. Price
+**pressure remained a key risk due to continued increase in prepared food and energy prices and a**
+narrowing output gap which may result in persistently greater pass-through from production costs to
+inflation. The extension of the cost-of-living alleviation measures may slow the rise in measured
+inflation figures but other measures such as the prospective increases in the minimum wage and fiscal
+spending amid continued economic growth will likely add to inflationary pressure and may heighten
+inflation expectations.
+
+**Members discussed the risks to the Thai economy going forward such as spillovers from the**
+Greek debt problem to other euro area economies and the uncertain US economic outlook. Upon
+**evaluation, members judged that the risks to inflation outweighed the risks to growth especially**
+in light of continued fiscal stimulus which may add to inflationary pressure. As a result, a continued
+increase in the policy rate would be needed to contain inflation, particularly as it is demand-driven.
+Nevertheless, given the global economy’s current sensitivity to various risk factors and fiscal policy
+uncertainty due to the change in government, the MPC decided not to alter the pace of policy rate
+adjustments and would closely monitor the global economic recovery, progress in resolving the euro
+area sovereign debt problems, and fiscal policy formulation of the new government.
+
+**The MPC therefore decided unanimously to raise the policy interest rate by 0.25 percentage**
+points, from 3.00 to 3.25 per cent per annum, effective immediately to maintain economic stability
+and anchor inflation expectations.
+
+Monetary Policy Group
+
+27 July 2011
+
+
+-----
+

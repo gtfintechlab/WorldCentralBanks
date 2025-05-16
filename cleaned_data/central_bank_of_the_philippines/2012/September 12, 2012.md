@@ -1,0 +1,253 @@
+HIGHLIGHTS OF THE MEETING OF THE MONETARY BOARD ON MONETARY POLICY ISSUES
+
+HELD ON 13 SEPTEMBER 2012[1]
+
+
+I. Monetary Policy Decision
+
+The Monetary Board (MB) decided to:
+
+a) Maintain the BSP’s policy interest rates at 3.75 percent for the overnight RRP
+(borrowing) rate and 5.75 percent for the overnight RP (lending) rate;
+
+b) Maintain the current interest rates on term RRPs, RPs and SDAs; and
+
+c) Maintain the current reserve requirement ratios.
+
+II. Key Considerations in the Formulation of the Monetary Policy Stance
+
+  - The MB’s decision was based on its assessment that the inflation environment
+remained benign. While inflation forecasts have risen slightly due to the higher August
+inflation and recent increases in global oil and other commodity prices, the future
+inflation path remained well within the target. Market expectations of inflation were
+also at levels broadly consistent with the inflation target.
+
+  - The MB decided to keep policy rates unchanged as the risks surrounding the inflation
+outlook were seen to be broadly balanced. Weak global economic prospects continued
+to temper the inflation outlook, as a possible easing in global demand could contribute
+to moderate international commodity prices. The sustained stability of the peso against
+the US dollar could also temper inflationary pressures in the future.
+
+  - Nonetheless, the MB was mindful of potential upside risks to the inflation outlook,
+including pending electricity rate adjustments and expectations of higher international
+prices for some grains due to adverse weather conditions abroad. Moreover, underlying
+demand-side pressures continued to be firm, supported by ample domestic liquidity
+and brisk credit activity.
+
+  - On balance, the MB was of the view that prevailing monetary policy settings remained
+appropriate. This is supported by the manageable inflation outlook and robust domestic
+growth, especially as the cumulative 75-basis-point reduction in policy rates and other
+operational adjustments earlier in the year continued to work their way through the
+economy.
+
+1 The discussions presented reflect the assessment made by the Monetary Board based on the information available at the
+time of the policy meeting. A comprehensive set of economic information was provided by the Technical Secretariat of the
+Advisory Committee (AC). The AC is composed of the Governor of the BSP as Chairman and four members, namely: the Deputy
+Governor of the Monetary Stability Sector, the Deputy Governor of the Supervision and Examination Sector, the Assistant
+Governor of the Monetary Policy Sub-Sector, and the Assistant Governor of the Treasury Department. The highlights of the
+discussions on the 13 September 2012 meeting were approved by the Monetary Board during its regular meeting held on
+27 September 2012. The next meeting of the Monetary Board on monetary policy issues is scheduled on 19 October 2012.
+
+
+-----
+
+III.   Recent Developments and Inflation Outlook
+
+The MB considered the following developments in coming up with its policy decision:
+
+A. Domestic price conditions
+
+  - Year-on-year headline inflation accelerated in August, driven mainly by higher inflation
+for food, electricity, fuel and transport. Other indicators such as year-on-year core
+inflation and seasonally-adjusted month-on-month (m-o-m) headline inflation also
+reflected an uptrend. By contrast, seasonally-adjusted m-o-m core inflation slowed
+down in August.
+
+  - The uptick in inflation was due mainly to higher food, electricity, fuel, and transport
+prices. Tight domestic supply conditions, triggered by the recent weather-related
+production disruptions led to higher retail prices of food, particularly vegetables, fish,
+sugar, fruits, rice, and meat. Likewise, the increase in the prices of electricity, gas, and
+other fuels (due, in turn, to higher LPG and kerosene prices) and the upward
+adjustment in electricity charges as a result of the scheduled maintenance shutdown of
+the Malampaya pipeline contributed to the rise in inflation. The series of upward price
+adjustments in gasoline and diesel also pushed transport inflation higher.
+
+B.  Inflation expectations
+
+  - Inflation expectations based on the BSP private sector forecast and AP Consensus
+surveys were generally higher but remained within the 3-5 percent target range over
+the policy horizon. Results of the August survey from the BSP survey of private sector
+economists showed higher inflation forecasts for 2012 to 2014 compared to July.
+
+C. Inflation outlook
+
+  - Although the forecast inflation path for 2012-2013 is slightly higher compared to the
+forecast path in the previous round, the latest baseline forecasts indicate that inflation
+could settle within the government-announced target range of 3-5 percent for 20122013. Higher-than-projected actual inflation in August and the increase in oil prices led
+to the slight upward shift in forecast inflation path for 2012-2013. The latest forecasts
+also incorporated the estimated impact of the recent petition for jeepney fare increase.
+Meanwhile, the emerging inflation forecast for 2014 shows average headline inflation
+settling within the 3-5 percent target range.
+
+  - The risks to future inflation appear to be broadly balanced. Downside risk to inflation
+outlook continues to persist owing to lingering concerns over the strength of the global
+economy and its implication on the pace of economic activity. Meanwhile, additional
+petitions for electricity rate adjustments as well as upside pressures on non-oil
+commodity prices in the international market constitute the upside risks to inflation.
+
+
+-----
+
+D.  Demand conditions
+
+  - The Philippine economy posted a higher-than-expected growth of 5.9 percent in Q2
+2012. While slower than the 6.3 percent growth (revised) recorded in Q1 2012, this is
+an improvement from the 3.6 percent growth in the same period in 2011 and well
+above the long-run average growth rate of GDP. Fiscal policy support through early
+release of allotments to government agencies and higher infrastructure spending
+contributed to growth in the second quarter.
+
+  - Looking ahead to the succeeding quarters, results of the Q3 2012 consumer
+expectations survey showed higher confidence index for the third and fourth quarters
+and the year ahead. Meanwhile, business confidence was lower in Q3 2012 amid
+concerns over the impact of recent weather disturbances but reached an all-time high
+for Q4 2012. Some leading indicators for the second semester also indicated robust
+domestic demand in July: PMI readings for manufacturing, services, and retail and
+wholesale sectors remained above 50 while volume sales of automobiles and electricity
+consumption continued to grow.
+
+E.  Supply-side indicators
+
+Developments in Agriculture
+
+  - The growth in agriculture, hunting, forestry and fishing slowed to 0.7 percent in Q2
+2012 from a growth of 8.3 percent in the same period a year ago. The expansion in the
+production of palay, poultry, coconut, corn and rubber was pulled down by the
+contraction in the production of sugarcane, fishing and livestock sub-sectors.
+
+  - Meanwhile, the Bureau of Agricultural Statistics projects palay and corn production to
+continue to expand in Q3 and Q4 2012. Typhoon Gener and the strong monsoon rains
+appear to have marginal effect on domestic rice and corn production based on staff
+estimates.
+
+  - On the international front, after three consecutive months of decline, the Food and
+Agriculture Organization (FAO) food price index (FPI) rose by 12 points to 212.8 points
+in July 2012, albeit still well below the peak of 238 points recorded in February 2011.
+The sharp rebound was driven largely by the rise in grain and sugar prices as well as
+increases in oils/fats prices. Nevertheless, the FAO FPI was broadly steady at 212.6
+points in August as international prices of cereals and oils/fats changed little but sugar
+prices fell sharply, compensating for rising meat and dairy prices.
+
+Oil and Transport Price Developments
+
+  - After increasing in July, oil prices further advanced in August on account of falling crude
+oil stockpiles in the US amid tensions in the Middle East and on expectations of a
+favorable resolution to the European debt crisis. High international prices of oil were
+reflected in the four rounds of increases in the domestic pump prices of petroleum
+products in August.
+
+
+-----
+
+    - On 30 August 2012, several transport groups filed for an additional P2.00 in minimum
+jeepney fare before the Land Transportation Franchising and Regulatory Board (LTFRB).
+The transport groups also filed for an immediate implementation of a P0.50 provisional
+jeepney fare hike while public hearing for their petition is ongoing.
+
+Developments in the Utilities Sector
+
+    - In August, the generation charge of Meralco increased following the upward adjustment
+in the charges from the Wholesale Electricity Spot Market as natural gas-fired power
+plants utilized more expensive liquid condensate fuel following the scheduled
+maintenance shutdown of the Malampaya pipeline in July. Likewise, the generation cost
+from independent power producers (IPPs) increased with the series of power outages at
+the Quezon Power Philippines, Ltd. The higher generation charges from the WESM and
+other IPPs offset the cheaper wet-season rates from the National Power Corporation.
+
+F. Financial market developments
+
+    - The PSEi moved sideways in August and closed 3.0 percent lower than the end-July level
+but still higher by 17.8 percent year-to-date. Investors continued to trade cautiously
+over concerns that the current rise in global oil prices due to geopolitical tensions will
+pose a further risk to the global economy as major economies, including the US and
+China, are already contending with the slower growth and fallout from the European
+debt crisis. Markets were also anticipating news of additional stimulus from the US Fed
+and the ECB while investors weighed the economic impact of the enhanced monsoon
+rains that affected Metro Manila and surrounding provinces in early August.
+
+    - In August, the peso slightly depreciated by 0.4 percent relative to the previous month
+following the release of weak global economic data. The strength of the US dollar also
+pressured the peso to revisit 42-levels given less chances of more US stimulus
+measures. On the local front, lower-than-expected growth in Philippine exports and
+slower growth of Overseas Filipinos’ remittances in June weighed on the peso.
+
+    - Debt spreads eased to new lows for the year in August. Sentiment improved on
+expectations the ECB may resume buying government bonds to bring down cropping
+borrowing costs of indebted Euro zone members such as Spain and Italy. Expectations
+of China and US taking stimulus steps improved risk appetite for emerging market
+bonds, tightening spreads to its narrowest in the past four months. However, worries
+over China’s growth and unclear signs of stimulus measures by the ECB and US Fed
+contributed in the slight expansion of spreads by end of August.
+
+G. Domestic liquidity and credit conditions
+
+    - Domestic liquidity or M3 grew faster in July at 8.7 percent year-on-year from
+7.1 percent in June. Money supply growth continued to be driven by the sustained
+expansion of net foreign assets (NFA). Meanwhile, net domestic assets (NDA)
+decelerated due to the faster expansion of the net other items account owing to higher
+placements of eligible counterparties in the BSP SDA facility. Claims on the private
+sector accelerated during the month, consistent with the sustained increase of bank
+lending in July.
+
+
+-----
+
+    - The growth of outstanding loans of commercial banks, net of banks’ reverse repurchase
+(RRP) placements with the BSP, grew at a faster pace of 16.0 percent in July from the
+previous month’s expansion of 14.9 percent. Loans for production activities—which
+comprised more than four-fifths of banks’ aggregate loan portfolio—grew by 16.4
+percent in July from 15.1 percent a month earlier. Meanwhile, the growth of consumer
+loans eased slightly to 15.4 percent from 15.8 percent in June due mainly to the
+slowdown in auto loans.
+
+    - Corporates continued to tap capital markets for financing. Corporate bond issuances for
+the period January-July 2012 reached P199.3 billion, 29 percent higher than the 2011
+level of P154.9 billion. Likewise, the total equity raised in the Philippine Stock Exchange
+(PSE) during the same period amounted to P91.1 billion, 49 percent higher than the
+year-ago level.
+
+H.  Fiscal developments
+
+    - The fiscal deficit in the period January-July 2012 was P73.7 billion, P30.0 billion higher
+than the deficit incurred during the same period last year. This represented
+40.2 percent of the P183.3 billion programmed deficit for Q1-Q3 2012. Revenue
+collections increased by 12.1 percent while expenditure was higher by 15.1 percent.
+
+I.  External developments
+
+    - Recent developments in the global economy suggest that growth is likely to remain
+weak. The JP Morgan Global All-Industry Output Index fell anew to 51.1 in August from
+51.7 in July as the growth in the manufacturing sector activity declined due to weaker
+levels of new orders and falling international trade flows. Meanwhile, the services
+sector continued to expand modestly.
+
+    - The US economic recovery cools amid increasingly cautious business and consumer
+sentiments. Advance estimates showed that real GDP grew slower in Q2 2012
+compared to Q1 2012. The deceleration primarily reflected the slowdown in personal
+consumption expenditure and residential and nonresidential fixed investments, which
+was offset partly by the smaller decrease in federal government spending and by the
+acceleration in exports.
+
+    - Prospects in the euro area remain bleak. The economic contraction in the euro area
+continued to deepen, as GDP fell by 0.4 percent y-o-y and by 0.2 percent q-o-q in Q2
+2012. The composite PMI for the euro area was little changed at 46.3 in August from
+46.5 in July, reflecting the continued decline in new work intakes in the manufacturing
+and service sectors across the region.
+
+    - Economic activity remains sluggish in China. Real GDP growth eased to 7.8 percent
+y-o-y in Q2 2012 from 8.1 percent in the previous quarter while the manufacturing PMI
+remained below the 50-percent growth threshold in August.
+
+
+-----
+

@@ -1,0 +1,47 @@
+**BANCO CENTRAL DE RESERVA DEL PERÚ**
+
+**_Press release_**
+
+# MONETARY PROGRAM APPROVED BY THE BOARD OF THE BANK FOR NOVEMBER 2002
+
+1. In October, the daily average balance of the banks’ current account was **S/. 188**
+**million, within the range announced for that month (S/. 180 million to S/. 200**
+million). The interbank interest rate in domestic currency diminished from 5,6
+percent in September to 4,6 percent in October, into a context of decreasing
+regional financial uncertainty.
+
+2. The Board of the Bank assessed the monetary policy stance for November and
+established the following:
+
+a. The targeted range for the banks’ current account balance held at the Central
+Bank will be **S/. 170 million to S/. 190 million on a daily average basis,**
+considering the greater funds in vault of the previous month.
+b. For monetary regulation credits and temporary purchase of CDBCRP and
+Treasury bonds out of auction, the effective interest rate remains as **the**
+**weighted average of the interbank interest rates, or 4,75 percent,**
+**whichever is highest.**
+c. For overnight deposits in domestic currency held by banks at the Central
+Bank, the effective interest rate remains at 3,0 percent.
+d. For foreign exchange temporary purchase operations (swap operations), the
+commission is kept to an implicit effective annual cost of 4,75 percent.
+
+3. The following interest rates will be used in foreign-currency operations:
+
+a. The effective annual rate for monetary regulation credits will be the 1-month
+LIBOR plus one percentage point.
+b. For overnight deposits held by banks at the Central Bank, the rate is
+equivalent to the average obtained by the Central Bank for similar deposits
+abroad.
+
+5. The previous framework is consistent with the current annual inflation forecast (2,5
+percent with a ±1 percentage point).
+
+6. If justified by financial conditions, the values mentioned above could be modified
+in order to ensure the attainment of the objective to preserve monetary stability,
+which mean avoiding inflationary or deflationary pressures.
+
+Lima, November 8, 2002
+
+
+-----
+

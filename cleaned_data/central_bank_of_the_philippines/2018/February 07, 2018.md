@@ -1,0 +1,208 @@
+**HIGHLIGHTS OF THE MEETING OF THE MONETARY BOARD ON THE MONETARY POLICY**
+
+**STANCE HELD ON 8 FEBRUARY 2018[1]**
+
+**I.** **Monetary Policy Decision**
+
+The Monetary Board decided to:
+
+a) maintain the overnight RRP (borrowing) rate at 3.0 percent; and
+
+b) maintain the current overnight deposit and overnight lending rates.
+
+**II.** **Key Considerations in the Formulation of the Monetary Policy Stance**
+
+  - The Monetary Board’s (MB) decision is based on its assessment that while latest baseline
+forecasts show higher inflation outturns for 2018, the inflation path is expected to moderate
+and settle within the inflation target range of 3.0 percent ± 1.0 percentage point in 2019. The
+MB also noted that prospects for domestic activity continue to be firm on the back of robust
+domestic demand, manageable growth in credit and liquidity, and a sustained recovery in
+global economic growth. The higher inflation in January is also due to better enforcement of
+tax laws on tobacco as well as temporary increases in prices of selected food items, such as
+fish and vegetables.
+
+  - Nevertheless, the MB observed that the risks to the inflation outlook remain weighted toward
+the upside owing mainly to price pressures emanating from possible further increases in global
+oil prices. At the same time, the MB saw that inflation expectations continue to be anchored
+within the inflation target band over the policy horizon. The BSP is watchful against any signs
+of second-round effects and inflation becoming broader based.
+
+  - Given these considerations, the MB reiterated that it remains committed to the BSP’s price
+stability objective and will continue to closely monitor the evolving conditions for prices and
+output for any threats to the inflation target. The MB stands ready to take appropriate
+measures as necessary to ensure that the monetary policy stance continues to support price
+and financial stability.
+
+1 The discussions herein reflect the assessment made by the Monetary Board based on a comprehensive set of economic information available at
+the time of the policy meeting. The highlights of the discussions during the 8 February 2018 monetary policy meeting were approved by the
+Monetary Board during its regular meeting held on 1 March 2018. The next meeting of the Monetary Board on the monetary policy stance is
+
+h d l d 22 M h 2018
+
+
+-----
+
+**III.   Recent Developments and Inflation Outlook**
+
+The MB considered the following developments in deciding on the monetary policy stance:
+
+**A. Domestic price conditions**
+
+  - Headline inflation for January 2018 accelerated to 4.0 percent from 3.3 percent in the previous
+month. The higher inflation outturn was at the high end of the Government’s target range of
+3.0 percent ± 1.0 percentage point for 2018. The uptick in headline inflation for January was
+traced mainly to higher prices of food and non-alcoholic beverages, alcoholic beverages and
+tobacco items, and domestic petroleum products.
+
+  - Food inflation went up as most food commodities, particularly corn, meat, and milk, cheese,
+and eggs, posted higher prices during the month. Likewise, weather-related production
+disruptions pushed up prices of rice, fish, and vegetables in many regions. Non-alcoholic
+beverages and alcoholic beverages and tobacco inflation rose as a result of the
+implementation of the Tax Reform for Acceleration and Inclusion (TRAIN) Law and better tax
+enforcement. Transport inflation also increased due to adjustments in gasoline and diesel
+prices, largely influenced by higher international prices of crude oil and the excise tax on
+petroleum as prescribed by the TRAIN Law.
+
+  - Official core inflation—which excludes certain volatile food and energy items to better capture
+underlying price pressures—accelerated to 3.9 percent in January from 3.0 percent in the
+previous month. Alternative measures also increased in January but remained close to or
+below 3.0 percent.
+
+**B.  Inflation expectations**
+
+  - Inflation expectations—based on private sector economist forecasts surveyed by the BSP—
+continued to be in line with the BSP’s within-target inflation outlook. Results of the BSP’s
+survey of private sector economists for December 2017 showed that the mean inflation
+forecasts were slightly higher for 2018 at 3.6 percent (from 3.5 percent in the November 2017
+survey) and for 2019 at 3.5 percent (from 3.4 percent).
+
+**C.  Inflation outlook**
+
+  - The latest baseline forecasts show that inflation could likely exceed the high end of the
+government’s target range of 3.0 percent ± 1.0 percentage point in 2018 before settling above
+the midpoint of the target range in 2019. The forecast for 2018-2019 are higher compared to
+the previous forecast round due to the implementation of the first package of the
+government’s Tax Reform for Acceleration and Inclusion (TRAIN) program and higher global
+crude oil prices. The impact of TRAIN law was included as risks to the inflation outlook in the
+previous forecast round, but is now directly incorporated in the latest baseline forecasts.
+
+  - The risks to future inflation remain on the upside. The potential second-round impact of the
+fiscal reform program, pending petitions for adjustments in transport fares and electricity
+rates, and faster-than-expected monetary policy normalization in the US are the main upside
+risks to inflation. Meanwhile, the slower global economic growth due to policy uncertainty in
+advanced economies and geopolitical tensions along with the proposed reform in the rice
+industry involving the replacement of quantitative restrictions with tariffs and the deregulation
+of rice imports continue to be the main downside risks to inflation.
+
+
+-----
+
+**D. Demand conditions**
+
+  - The economy grew by 6.6 percent in the fourth quarter of 2017, slower than the revised third
+quarter growth of 7.0 percent, but unchanged compared to the same period in 2016. On the
+expenditure side, growth continued to be supported by private consumption as well as higher
+public spending and stronger exports. On the production side, the industry and services
+sectors continue to be the primary drivers of growth. This brings full-year 2017 growth to 6.7
+percent, which is slightly slower than the 6.9 percent growth registered in 2016, but within the
+6.5 – 7.5 percent GDP growth target of the government. This represents the sixth consecutive
+year of above 6.0 percent annual GDP expansion.
+
+  - Domestic growth fundamentals are expected to remain solid and within potential. Prospects
+for the domestic economy continue to remain favorable supported by the positive outlook of
+businesses and consumers. Private capital formation should likewise contribute to economic
+growth with construction and investments in durable equipment expected to remain solid as
+the government’s projects and other infrastructure programs get underway.
+
+**E.  Supply-side indicators**
+
+Developments in Agriculture
+
+  - The latest Rice and Corn Situation Outlook Report (January 2018) of the PSA projected possible
+year-on-year increases in _palay output in Q1 2018. Palay production is projected to grow by_
+5.7 percent while corn is seen to post a 5.1-percent expansion. Prospects are favorable for
+_palay output given expectations of sufficient water supply and good weather conditions during_
+the cropping period in Q1 2018. Historical La Niña episodes in the Philippines have tended to
+result in higher total agricultural, _palay, and corn production relative to production during_
+neutral conditions
+
+  - Weather forecast models (as of January 2018) of the International Research Institute for
+Climate and Society – Climate Prediction Center predicted an increasing chance of La Niña
+weather conditions up to April 2018. This is consistent with PAGASA’s latest climate advisory,
+wherein a weak La Niña condition could last until March 2018, with the possibility of either
+extending or transitioning to a neutral condition in April 2018.
+
+Oil Price Developments
+
+  - Global crude oil prices averaged higher in January 2018, at around USS$65 per barrel
+following the extension of the Organization of the Petroleum Exporting Countries’-led
+production cut agreement, geopolitical tensions, and unplanned supply outages. Nevertheless,
+crude oil prices are expected to ease over the near term as a result of expectations of a
+resumption of shale oil production in the US.
+
+Developments in the Utilities Sector
+
+  - The overall electricity rate decreased in January 2018 due mainly to lower generation charge.
+The lower charge from the Wholesale Electricity Spot Market (WESM) was due to lower spot
+prices resulting from a reduction in power demand in the Luzon grid. At the same time, the
+decrease in Power Supply Agreement (PSA) charges was brought about by a reduction in
+capacity fees as a result of the annual reconciliation of outage allowances done at the end of
+each year under the PSAs approved by the ERC. The decline in charges from the WESM and
+
+
+-----
+
+PSA largely offset the increase in charges from the Independent Power Producers which was
+due to lower average plant dispatch.
+
+**F. Financial market developments**
+
+  - The Philippine Stock Exchange index (PSEi) rose to 8,910.48 index points as of 30 January 2018
+from the end-December 2017 level of 8,558.42 index points amid expectations of an above
+7-percent growth for 2018 following the enactment of the TRAIN law, expectations that the
+next tax reform package will cut corporate income tax rates, and optimism over the entry of a
+third player in the telecommunications sector.Meanwhile, the peso depreciated against the US
+dollar in January 2018 amid intact expectations of three more Fed interest rate increases this
+year, higher Philippine trade deficit, and slower-than-expected Q4 2017 Philippine economic
+growth.
+
+**G. Domestic liquidity and credit conditions**
+
+  - Prevailing credit and liquidity conditions continued to support the appropriateness of present
+monetary policy settings. Domestic liquidity increased by 14.0 percent (from 14.8 percent)
+while bank lending growth decelerated to 19.2 percent (from 19.9 percent) in November 2017.
+
+  - In January, the offered volume for the 7-day TDF was kept at P40 billion and zero for the 28day tenor. However, the return of liquidity at the end of the holiday season and NG
+disbursements resulted in oversubscription in the 7-day TDF, bringing down the WAIR to
+2.7785 percent on 31 January 2018. The return of the 28-day TDF should gradually lock in the
+oversubscriptions.
+
+**H.  Fiscal developments**
+
+  - Fiscal spending remains on track as NG expenditures (excluding interest payments) increased
+by 10.0 percent year-on-year from January-November 2017. The NG also recorded a fiscal
+deficit of P243.5 billion for the period January – November 2017, higher by 4.0 percent
+compared to the P235.2-billion deficit posted in the previous year.
+
+**I.  External developments**
+
+  - The global economy continued its broad-based recovery in 2017 and is expected to sustain its
+momentum in 2018-2019. In its January 2018 World Economic Outlook (WEO) Update, the IMF
+noted that global economic activity rose by 3.7 percent in 2017 from 3.2 percent in 2016 due
+to faster growth in Europe and Asia. Furthermore, growth forecasts were raised by
+0.2 percentage point to 3.9 percent for both 2018 and 2019.
+
+The upward revision to the global economic outlook could be attributed to favorable global
+financial conditions as well as the positive prospects due to the tax reform program in the US,
+which could carry positive spillovers to its major trading partners. The IMF maintains its view
+that the risks to the growth outlook as being broadly balanced in the near term, but remains
+skewed to the downside over the medium term. In the near term, the confidence in the global
+economy’s momentum and easy financial conditions could result in upside surprises to growth.
+On the downside, a correction in financial markets, which have registered a sustained rise in
+asset prices with low volatility, could lead to tighter global financial conditions. In addition, a
+modest response of investments to the US tax reform program could result in more subdued
+external trade conditions for its major trading partners.
+
+
+-----
+

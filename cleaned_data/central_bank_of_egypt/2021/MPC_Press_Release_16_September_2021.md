@@ -1,0 +1,56 @@
+**Press Release**
+
+September 16[th], 2021
+
+**The Monetary Policy Committee (MPC) decided to keep the Central Bank of Egypt’s (CBE)**
+**overnight deposit rate, overnight lending rate, and the rate of the main operation unchanged**
+**at 8.25 percent, 9.25 percent, and 8.75 percent, respectively. The discount rate was also kept**
+**unchanged at 8.75 percent.**
+
+Annual headline urban inflation increased to 5.7 percent in August 2021 from 5.4 percent in July
+2021, after having accelerated from 4.9 percent in June 2021. Meanwhile, annual core inflation
+slightly declined to 4.5 percent in August 2021 from 4.6 percent in July 2021, after having
+increased from 3.8 percent in June 2021. Annual headline inflation rates were affected by
+unfavorable base effects during July 2021 and August 2021 as August 2020 and July 2020
+reflected the impact of the COVID-19 outbreak and its resulting containment measures on
+inventory levels and consumption patterns. Accordingly, the acceleration in August 2021 and July
+2021 was mainly driven by higher annual contribution of food items. Annual food inflation
+increased for the fourth consecutive month to 6.6 percent in August 2021 from 4.8 percent in
+July 2021. Meanwhile, slightly offsetting this acceleration, is the decline in annual non-food
+inflation to 5.3 percent in August 2021 from 5.7 percent in July 2021, which is the lowest recorded
+level since April 2014.
+
+Real GDP growth recorded a preliminary figure of 7.7 percent in 2021 Q2, reflecting the sustained
+recovery of economic activity; as it continues to gather pace and rebound from last year’s trough
+at negative 1.7 percent. The aforementioned development reflects a strong favorable base effect
+compared to the corresponding quarter’s shrunken base during the peak of the pandemic last
+year. In addition, this implies that growth in fiscal year 2020/21 registered 3.3 percent, an upward
+revision from the 2.8 percent that was estimated previously and compared to 3.6 percent in the
+previous fiscal year. Moreover, leading indicators point towards a sustained strong pick-up across
+most sectors. Meanwhile, the unemployment rate stabilized at 7.3 percent in 2021 Q2 compared
+to 7.4 percent in 2021 Q1.
+
+Global economic activity continues to recover from the COVID-19 pandemic, although growth
+remains uneven across regions, as the pace of vaccinations varies across countries. Additionally,
+prospects of global economic recovery remain contingent on the efficacy of vaccines and the
+ability of countries to contain the spread of the virus, in light of the emergence of newer variants.
+Global financial conditions continue to be accommodative. Compared to the last MPC, median
+forecasts for Brent oil prices are broadly stable, while international prices for food and some
+other commodities remain at multi-year highs.
+
+
+-----
+
+Against this background, the MPC decided that keeping policy rates unchanged remains
+consistent with achieving the inflation target of 7 percent (±2 percentage points) on average in
+2022 Q4 and price stability over the medium term.
+
+The MPC closely monitors all economic developments and will not hesitate to utilize all available
+tools to support the recovery of economic activity, within its price stability mandate.
+
+**Monetary Policy Sector**
+E-Mail: monetary.policy@cbe.org.eg
+
+
+-----
+

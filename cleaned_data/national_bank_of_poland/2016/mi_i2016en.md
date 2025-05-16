@@ -1,0 +1,192 @@
+# Minutes of the Monetary Policy Council decision-making meeting held on 14 January 2016
+
+At the meeting, members of the Monetary Policy Council discussed monetary policy
+
+against the background of current and future macroeconomic developments in Poland
+and abroad.
+
+When discussing the economic situation abroad, Council members pointed to the
+
+sustained recovery in the euro area and in the United States. At the same time, it was noted
+that euro area economic activity growth remained moderate, and price growth in this
+currency area was still close to zero. It was observed that economic conditions in the
+United States continued to be favourable, although GDP growth would probably rise only
+slightly this year. At the same time it was emphasised that given the steady output growth
+in this economy since 2010, core inflation was markedly higher than consumer price
+growth, and the unemployment rate was running relatively low. Council members
+highlighted, that under these circumstances, monetary policy stances of the ECB and the
+Federal Reserve diverged further. The Federal Reserve had raised policy interest rates
+after keeping them close to zero for seven years. In this context, some Council members
+expressed the opinion that any further tightening of monetary policy by the Federal
+Reserve would be only gradual and contingent upon the incoming information on the
+economic conditions. In contrast, the ECB had eased the monetary policy again by
+extending the period for its asset purchases and decreasing the deposit rate. However, the
+extent of the easing was smaller than expected by the financial markets.
+
+While discussing economic conditions in emerging economies, Council members
+
+judged that these continued to be weak. Council members pointed to the continued
+recession and the persistently high inflation in Russia and Brazil. It was assessed that
+economic conditions in these countries were likely to deteriorate even further. While
+discussing the situation in China, Council members stressed that the recently released data
+had not been conclusive: while some of it had indicated stabilisation of economic activity
+growth, there had also been signs of an even deeper slump. Certain Council members held
+the view that economic growth in China might decelerate further, and high debt levels of
+economic agents in this country posed a risk of a sharp weakening of growth. Other
+Council members pointed out that China's economic policy would continue to aim for
+maintaining the stability of economic growth and financial system, which should mitigate
+the impact of any further weakening of the Chinese economy. Council members assessed
+that the economic outlook for China continued to be the main source of uncertainty for the
+global economy.
+
+The Council also pointed to developments in commodity prices, including oil prices,
+
+as another major source of uncertainty about the global economic outlook. It was stressed
+that in the recent period the price of this commodity had plunged to a very low level,
+which would dampen global consumer price growth in the subsequent quarters. At the
+
+1/4
+
+
+-----
+
+same time, it was underlined that amidst the mounting conflict between two major oil
+producers, i.e. Saudi Arabia and Iran, heightened uncertainty prevailed as to the expected
+output level, and hence also future prices of this commodity.
+
+Council members emphasised the fact that sharp declines in oil prices, changes in the
+
+expectations about the future decisions of major central banks and continued concerns
+about economic activity in China had recently boosted asset price volatility in the financial
+markets. It was observed that some of these factors had increased investors risk aversion.
+This was reflected in declining asset prices and weakening currencies of emerging
+economies, including Poland.
+
+While discussing the situation in Poland's real economy, Council members pointed to
+
+the continued stable economic activity growth. Retail sales data were judged to indicate
+sustained consumer demand expansion, at a rate close to that observed in the previous
+quarters. Consumption growth continues to be supported by rising employment and
+robust consumer sentiment. With regard to investment, it was observed that its growth
+was being fuelled by the high degree of capacity utilisation in companies amidst stable
+industrial output growth. At the same time, it was pointed out that firms' propensity to
+invest may be undermined by heightened uncertainty about the domestic and external
+environment of their activity. Certain Council members believed that consumption and
+investment growth remained merely moderate.
+
+Council members pointed out that GDP growth in the following quarters would be
+
+supported by further decline in oil prices. At the same time, it was underlined that lower
+prices of this commodity would have an adverse impact on some businesses, especially
+mining sector companies and firms whose production was aimed at oil net exporting
+countries.
+
+With reference to the situation in the labour market, sustained employment growth
+
+and declining unemployment were highlighted. Certain Council members observed that
+improving labour market conditions had not yet generated any tangible increase in
+nominal wage growth in the economy. At the same time, wage growth had recently
+accelerated somewhat in the corporate sector, and the share of firms planning pay rises
+had increased, which may signal a gradual rise in wage pressure in the economy, which if it materialised - would support the return of consumer price growth towards the
+inflation target.
+
+Council members discussed fiscal policy in the context of the 2016 Draft Budget Act.
+
+Most members judged that the fiscal policy as set out in the Draft Budget Act did not entail
+an increase in public finance imbalance in 2016. At the same time, members deemed that
+due to lags in monetary policy transmission, the shape of the 2017 fiscal policy was of key
+importance for the current interest rates decisions. In this context, it was pointed out that
+one-off revenues will make an important source of financing of the new budget
+expenditure in 2016. Thus, in order to keep the deficit at a moderate level in 2017, new,
+stable sources of budget revenue would have to be found. Some Council members
+assessed that the increased spending on social benefits – including the introduction of the
+
+2/4
+
+
+-----
+
+Family 500+ programme – might stimulate consumption growth. Referring to the impact
+of the imposition of tax on financial institutions, these members expressed the view that it
+could lead to an increase in cost of obtaining credit and a slowdown in lending. With
+reference to the sales tax to be imposed on stores, Council members stated that in the
+absence of detailed information on this tax, it was difficult to evaluate its consequences;
+however, it could possibly add to price growth. Certain Council members expressed the
+opinion that the changes in fiscal policy may diminish the resilience of the Polish economy
+to external shocks, thus narrowing down the margin for a possible monetary policy easing.
+
+When analysing the situation in the credit market, Council members pointed out that
+
+stable, moderate credit growth had been sustained. At the same time, some Council
+members underlined that lending growth in the following quarters might be hampered,
+on the one hand, by the lowering of the ceiling on the LtV ratio for mortgage loans,
+resulting from Recommendation S, and, on the other hand, by a possible rise in the
+borrowing cost after the imposition of the bank tax.
+
+While discussing inflation developments in Poland, members of the Council indicated
+
+that the scale of consumer price deflation in December declined only slightly. Council
+members assessed that in the coming quarters CPI would continue to rise slowly, yet, due
+to a further fall in commodity prices, growth of consumer goods and services prices was
+likely to be significantly lower than previously estimated. It was pointed out that price
+growth would be supported by the closing of the output gap, amidst the recovery in the
+euro area and the robust domestic labour market. Council members also pointed out that
+the continued deflation did not yet have any adverse effect on decisions of economic
+agents. Some Council members expressed the opinion that it was necessary to closely
+monitor the impact of negative price growth on decisions of economic agents, in particular
+on financial situation of enterprises.
+
+While discussing interest rates, the Council decided that they should be kept
+
+unchanged. It was assessed that the available data and forecasts suggested that the current
+level of interest rates helped to keep the Polish economy on a sustainable growth path and
+to maintain macroeconomic stability. It was argued that in the coming quarters price
+growth would slowly pick up. It was also noted that the likely slowdown in CPI growth
+as compared to the previous expectations was driven by declining oil prices in the global
+commodity markets, a factor beyond the influence of the domestic monetary policy. It was
+further noted that given the lags in the transmission mechanism of monetary policy,
+current decisions on interest rates would not affect price growth until the negative impact
+of declining energy commodity prices on inflation had already diminished. However, in
+the medium term CPI growth would be supported by steady growth in domestic economic
+activity. At the same time the rise in price growth may be driven up by the imposition of
+the sales tax on stores.
+
+Some members of the Council emphasized that one of the arguments in favour of
+
+stabilization of interest rates was the continued uncertainty about the external and
+domestic determinants of monetary policy. It was also pointed out that this uncertainty
+
+3/4
+
+
+-----
+
+was reflected in movements of the prices of Polish assets and the zloty. Certain Council
+members were of the opinion that in these conditions the decisions on interest rates should
+take into account their impact on the financial markets. Moreover, some Council members
+assessed that when deciding about the level of interest rates they should factor in their
+impact on the financial sector stability. In this context, those members pointed out that
+interest rate cuts could have a negative impact on the performance of the banking sector,
+a factor which could not be downplayed given the increased financial burden imposed on
+the sector.
+
+Certain members of the Council were of the opinion that in the coming months it might
+
+be justified to consider interest rate hikes. They argued that this would leave more room
+for monetary policy response to severe external shocks. In contrast, other Council
+members were of the opinion that it might be justified to cut the interest rates in the coming
+months. Those members pointed to a merely modest – in their opinion – growth in
+domestic demand and a relatively high level of real interest rates, as well as forecasted low
+price growth.
+
+The Council decided to keep the NBP interest rates unchanged: the reference rate at
+
+1.50%, the lombard rate at 2.50%, the deposit rate at 0.50% and the rediscount rate at 1.75%.
+
+Publication date: 28 January 2016
+
+4/4
+
+
+-----
+

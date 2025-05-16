@@ -1,0 +1,66 @@
+# gyp
+
+**Press Release**
+
+**December 24, 2015**
+
+**_In its meeting held on December 24, 2015, the Monetary Policy Committee (MPC) decided to_**
+**_raise the overnight deposit rate, overnight lending rate, and the rate of the CBE's main_**
+**_operation by 50 bps to 9.25 percent, 10.25 percent, and 9.75 percent, respectively. The_**
+**_discount rate was also raised to 9.75 percent._**
+
+During the Coordinating Council meeting on December 17, the government and the CBE have
+decided to collaborate on designing a macroeconomic framework, aimed at achieving
+macroeconomic stability that will contribute positively to economic growth and job creation.
+The next meeting is scheduled on January 10, 2016. The key elements of the framework include
+but are not limited to:
+
+  - Narrowing the country’s fiscal deficit to sustainable levels in order to alleviate the
+pressure on domestic liquidity, avail greater resources to the private sector to increase
+production, and hence reduce the consequent inflationary pressures from money
+creation.
+
+  - Maintaining price stability by avoiding double digit inflation rates over the mediumterm.
+
+  - Reducing the country’s trade deficit by initiating a strategy aimed at encouraging local
+production to meet domestic market needs and enhance imports substitutions.
+
+  - Stepping up the structural economic reform agenda to raise the economy’s potential
+output, by addressing the impediments that challenge increasing investments.
+
+In connection to the latest inflation outturn, inflationary pressures have been slowly building up
+as evident in the increase in non-food prices, which have contributed to headline and core
+inflation rates. Annual headline CPI jumped to 11.08 percent in November from 9.70 percent in
+October, partly on the back of unfavorable base effect from last year, while core inflation
+increased to 7.44 percent from 6.26 percent in October. Looking ahead, while upside risks to
+the inflation outlook are mitigated by contained imported inflation, in light of broad-based
+declines in international commodity prices, underlying domestic inflationary pressures could
+push up inflation expectations.
+
+On the other hand, real GDP grew robustly by 4.2 percent in 2014/15 after recording 2.2
+percent (y/y) growth in 2013/14. The main contributors to growth were the manufacturing,
+construction, real estate and tourism sectors, while the extractions sector remained weak. In
+the meantime, strong investment growth more than compensated for the negative
+contribution of net exports. Looking ahead, while investments in domestic mega projects are
+expected to continue to contribute to economic growth, the downside risks and uncertainty
+that surround the global economy on the back of softening growth in emerging markets and
+
+
+-----
+
+In view of the above and given the balance of risks surrounding the inflation and GDP outlooks,
+the MPC judges that a rate hike is warranted to address inflationary pressures and anchor
+inflation expectations.
+
+The MPC reiterates its price stability mandate and will continue to closely monitor all economic
+developments, particularly fiscal policy and its effect on the inflation outlook, and will not
+hesitate to adjust the key CBE rates to ensure price stability over the medium-term.
+
+Dr. Rania Al-Mashat
+Sub Governor, Monetary Policy
+Telephone number: 0227701315
+[Email: monetary.policy@cbe.org.eg](mailto:monetary.policy@cbe.org.eg)
+
+
+-----
+

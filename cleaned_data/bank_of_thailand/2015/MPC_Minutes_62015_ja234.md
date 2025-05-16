@@ -1,0 +1,132 @@
+**Edited Minutes of the Monetary Policy Committee Meeting**
+
+**Bank of Thailand**
+
+**16 September 2015**
+
+**Publication Date: 30 September 2015**
+
+**Members Present**
+
+Prasarn Trairatvorakul (Chairman), Pongpen Ruengvirayudh (Vice Chairman), Paiboon
+Kittisrikangwan, Jamlong Atikul, Porametee Vimolsiri, Veerathai Santiprabhob, and Sethaput
+Suthiwart-Narueput.
+
+**The International Economy**
+
+**The global economy recovered at a slower pace than previously assessed, due mainly to a**
+**slowdown in the Chinese and Asian economies, and was subject to higher risks stemming**
+**from heightened volatility in China’s financial markets and uncertainty regarding the timing**
+**of Fed’s rate hike. The Chinese economy was projected to expand more slowly, particularly in**
+industrial production that was highly linked with global supply chain and international trade.
+Nevertheless, the slowdown was expected to be gradual, as the economy continued to receive
+support from the service sector, fiscal stimulus and currency depreciation. **Exports of other**
+**Asian economies were expected to be affected by softening demand from China and the**
+weaker Yuan, although the depreciation of Asian currencies should partially offset these
+impacts, including from competition in third markets. Meanwhile, domestic demand of Asian
+economies weakened in line with dampening consumer confidence. By contrast, G3 economies
+showed signs of continued expansion. Although China’s slowdown might delay the recovery,
+the effect was expected to be marginal, especially for the US economy which was supported by
+improvements in the labor market and consumer confidence. Nevertheless, subdued price
+outlook and increasingly volatile global financial markets reinforced market expectations that
+the Fed would not raise the policy rate in September.
+
+**The Financial Markets**
+
+**Volatility in the Thai financial markets heightened in line with the global movements. Foreign**
+investors reduced their holdings of Asian stocks and bonds amid growing concerns over China’s
+slowdown. As a result, **the baht weakened against the US dollar, which was generally in line**
+with regional peers. The sell-off by foreign investors also contributed to a decline in domestic
+**stock market indices and a rise in Thai government bond yields. Nevertheless, the Committee**
+were of the view that heightened volatility in the global financial markets was likely to have
+limited impact on the Thai economy, as external stability remained sound and there was
+sufficient cushion against increased volatility. Indicators of external resiliency include persistent
+current account surplus, low external debt to GDP ratio, and adequate international reserves.
+However, the Committee will continue to monitor developments in the financial markets which
+could adversely affect investor confidence and cross-border capital flows.
+
+
+-----
+
+**The Thai Economy**
+
+**From the second quarter to July 2015, the Thai economy gradually recovered, with softer-**
+**than-expected growth momentum as risks were skewed towards the downside. Growth**
+**projections for the year 2015 and 2016 were therefore revised down to 2.7 and 3.7 percent,**
+**respectively. Most members were concerned about the ongoing sluggish trend in the export of**
+goods, which was further weighed down by Chinese and Asian economic slowdown. This not
+only affected export volumes, but also contributed to a decline in the prices of commodity and
+electronic products, of which China was the world’s major consumer. Moreover, the recovery
+of the export sector would continue to be impeded by a shift in the global trade structure and
+loss of competitiveness of some products, though the depreciation of the baht should partly
+help increase liquidity of businesses. In addition, farm income was likely to decline further,
+particularly as rubber prices kept pace with the lower-than-expected crude oil price. At the
+same time, sluggish household income prospect was likely to hamper consumer confidence and
+consumption, with further repercussions on private investment. Nonetheless, the economy
+should receive some support from continued improvement in tourism, accelerated
+disbursement of public investment expenditure, and recent fiscal stimulus measures. In the
+periods ahead, the Committee were of the view that the economy might be affected by the
+negative factors by more than what was reflected in the baseline projection. Exports, in
+particular, could be hit more severely by China’s slowdown, while private investment seemed
+to lack positive factors to drive its momentum going forward. These scenarios were
+incorporated into the downside risks to the projection.
+
+Inflationary pressure declined due mainly to lower-than-expected crude oil prices.
+Consequently, headline inflation was projected to stay in negative territory for the rest of 2015,
+before turning positive in the first quarter of 2016, later than previously assessed. **Headline**
+**inflation projections for 2015 and 2016 were revised down to -0.9 and 1.2 percent,**
+**respectively. In the Committee’s assessment, however, deflationary risks remained contained**
+as core inflation was still positive, with the prices of most non-energy items stable or trending
+upwards. In line with that, the projection of core inflation in 2015 remained close to the
+**previous assessment at 1.0 percent while that of 2016 was slightly below the previous**
+**assessment at 0.8 percent. Furthermore, inflation expectations stayed close to the target,**
+albeit with the short-term indicator declining slightly. Nevertheless, the Committee saw the
+need to monitor the development of global crude oil prices, as they might decline further from
+current baseline assumption due to higher-than-expected excess supply.
+
+**Risks to overall financial stability increased somewhat, as the slow economic recovery**
+hampered wealth and debt-servicing ability of households and businesses, especially small
+businesses, although it was unlikely to have systemic implications. Risks in the real estate sector
+increased as excess supply rose while short-term speculative demand in the condominium
+market picked up slightly. Nevertheless, risks to financial stability remained contained as the
+majority of developers were large in size, with strong financial position and sound risk
+management practices. In addition, most buyers engaging in speculative activities did not rely
+on debt financing, but rather reallocated their savings to higher-yielding assets. However, the
+Committee deemed it necessary to continue monitoring the impacts of slow economic recovery
+
+
+-----
+
+on private sector’s debt-servicing ability and excess supply in the real estate sector, which could
+potentially contribute to financial system fragility in the period ahead.
+
+**Monetary Policy Deliberation**
+
+**In deliberating monetary policy, the Committee were of the view that the Thai economy**
+**remained subject to negative factors, particularly on the external front. The momentum of**
+domestic recovery was therefore weakened, while risks remained skewed to the downside.
+Meanwhile, global financial markets became more volatile as a result of developments in
+China’s financial markets and uncertainty regarding the timing of Fed’s rate hike. In this light,
+the Committee placed emphasis on considering the different global financial market scenarios
+and possible consequences on domestic economy.
+
+**The Committee agreed that monetary policy at this juncture should give due weight to**
+**maintaining financial stability, and therefore voted unanimously to keep the policy rate**
+**unchanged at 1.50 percent per annum. Most members were of the view that overall monetary**
+conditions, including the exchange rate, continued to remain conducive to the ongoing
+economic recovery and therefore supported the decision to keep rate on hold at this meeting.
+Moreover, further reduction in the policy rate during this period was likely to have a marginal
+impact on the economic recovery, while contributing to financial stability risks. Going forward,
+**the Committee were in agreement that the Thai economy would continue to face downside**
+**risks and therefore warranted the need for adequate and ongoing support from monetary**
+**policy. In this regard, the Committee would closely monitor Thailand’s economic and financial**
+developments and stand ready to utilize an appropriate mix of available policy tools in order to
+support the economic recovery, while maintaining economic and financial stability.
+
+Monetary Policy Group
+
+30 September 2015
+
+
+-----
+

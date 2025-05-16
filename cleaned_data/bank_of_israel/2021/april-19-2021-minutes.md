@@ -1,0 +1,205 @@
+**BANK OF ISRAEL**
+
+### Office of the Spokesperson and Economic Information
+
+May 3, 2021
+
+# Report on the Bank of Israel’s discussions prior to deciding
+ on the interest rate
+
+## The discussions took place on April 18 and 19, 2021.
+
+ General
+
+The Monetary Committee sets the interest rate in a process that includes two
+discussions––the first in a broad forum, and the second in a narrower one.
+
+In the broad-forum discussion, the relevant background economic conditions are
+presented, including the real and financial-monetary developments in Israel’s economy,
+and developments in the global economy. Participants in this discussion include the
+members of the Monetary Committee, senior representatives from the various
+departments of the Bank, and economists from the economic departments (Research
+and Markets), who prepare and present the material for discussion.
+
+In the narrow forum—which consists of the Monetary Committee and a representative
+of the Markets Department—the Research and the Markets Departments present their
+views of the main considerations that should guide the setting of the monetary policy.
+An open discussion on monetary policy follows, which ends with a vote on the level of
+the interest rate. According to Section 18(c) of the Bank of Israel Law, 5770–2010, the
+decision on the interest rate is reached by majority vote of the members of the Monetary
+Committee who participate in the voting.
+
+A summary view of the economic situation available at the time of the Committee’s
+discussion is presented in the [notice regarding the interest rate decision, which was](https://www.boi.org.il/en/NewsAndPublications/PressReleases/Pages/19-04-21.aspx)
+[published on April 19, and in the data file that accompanied the notice.](https://www.boi.org.il/en/NewsAndPublications/PressReleases/Documents/English%20data%20file%2019.4.21.pptx)
+
+Page 1 of 5
+
+
+-----
+
+## THE NARROW-FORUM DISCUSSION
+
+The members of the Monetary Committee participating in the discussion decide on the
+appropriate rate of interest. After the discussion, it was decided to keep the interest rate
+unchanged at 0.1 percent. Five Committee members supported the proposal to keep the
+interest rate unchanged, and one Committee member supported the proposal to reduce
+it to 0 percent.
+
+The discussion focused on the expected path of inflation and the monetary policy
+required in that regard; as well as the state of the labor market—where there is a high
+rate of broad unemployment at the same time as considerable difficulty for employers
+to recruit workers; the high growth rates expected against the background of the notable
+easings in coronavirus limitations, together with the expected lengthy recovery until the
+economy matches the level of GDP and employment that would have been expected
+had the crisis not occurred; the stabilization of the exchange rate; the decline in financial
+market spreads and an easing in the financing constraints in the credit market; and the
+improvement of the global economy, particularly the US.
+
+## Main points of discussion
+
+The Committee discussed the increase in the inflation environment reflected in the year
+over year inflation rate entering positive territory, CPI readings for February and March
+being higher than expected, as well as in rising inflation expectations. The Committee
+discussed the question of whether the recent rise in prices is only a transitory correction
+to the low price levels during the course of the crisis. The Committee was of the opinion
+that it is too early to determine that, and that developments in inflation should continue
+to be followed going forward, but it assessed the probability of an outbreak of inflation
+to be low. The various indices of inflation expectations have been on an upward trend
+for several months, reflecting the expectation that inflation will return to the lower part
+of the target range in the coming months. The increase in inflation expectations could
+be explained by the upward trend of actual inflation, the economic recovery in Israel
+and the improvement in the global economy as well as the rise in inflation expectations
+worldwide, the increase in global commodity prices, the accommodative monetary
+policy, as well as the stabilization of the exchange rate in view of the Bank of Israel’s
+intervention policy.
+
+Since the last interest rate decision, the exchange rate has been stable—the shekel
+appreciated by 1 percent in terms of the effective exchange rate and against the euro,
+and weakened by 0.4 percent against the dollar. At the end of 2020 and in the beginning
+of 2021 there was a sharp appreciation due to the strengthening of foreign currency
+flows into the economy. This was against the background of the increase in direct
+
+Bank of Israel—Minutes of interest rate discussion on April 18–19, 2021. Page **2** Of **5**
+
+
+-----
+
+investments in Israel, foreign-exchange sales by institutional investors against their
+capital market profits, an increase in investment by nonresident entities in Israeli
+government bonds, and the growth in the current account surplus, part of which was
+impacted by transitory factors. The Monetary Committee’s decision on the purchase
+program for 2021 at an unprecedented scope of $30 billion supports the continued exit
+from the crisis and the return of inflation to within the target range. The Committee
+declared that it will continue to comply with the program as announced and will even
+expand it to the extent necessary, in accordance with the economy’s conditions and
+development.
+
+According to the forecast by the Research Department—which this time presented only
+one scenario—GDP is expected to grow by 6.3 percent in 2021 and by 5 percent in
+2022. These rates are faster than the pre-coronavirus crisis growth rates and reduce to
+a large extent the output gap created at the GDP level due to the contraction in 2020.
+This forecast reflects the optimism due to the decline in morbidity, the reduction of
+limitations and the relatively rapid opening of the economy, as well as the pace of
+expansion of activity, which are made possible by the high effectiveness of the
+vaccinations. The current forecast for the level of GDP is slightly higher than in the
+scenario of rapid vaccinations that the Department published in January. The main
+factor that contributed to the higher forecast is the higher level of activity at the end of
+2020. As a result, despite the 2021 growth forecast not changing, the level of GDP at
+the end of 2021 is expected to be higher than what was expected in the previous forecast,
+and this is true for the GDP level in 2022 as well. At the same time, the level of GDP
+at the end of 2022 is still expected to be slightly lower (a gap of about 1.4 percent)
+compared with its expected level had the crisis not occurred.
+
+The Committee expressed concern over the state of the labor market, and the slow
+recovery expected in it, as in 2022 as well the broad unemployment rate is expected to
+be 6 percent, higher than its level just before the crisis. The return of the unemployment
+rate to its low levels of just before the crisis is expected to take a long time. The
+government’s policy regarding employment could also have an impact in this regard.
+The Committee noted that the broad unemployment rate is high, yet at the same time
+employers have considerable difficulty in recruiting workers, as seen in the Business
+Tendency Survey conducted by the Central Bureau of Statistics as well as in the record
+number of job vacancies. With the recent opening of industries that were closed for a
+prolonged period of time, such as the restaurants and leisure industries, an adjustment
+process is expected between demand for work and the supply of work, which can last
+for some time. At the same time, the Committee noted the concern that government
+policy does not create enough incentives for workers to return to the labor market.
+
+The increase in the pace of vaccinations worldwide is aiding the global economic
+recovery. The International Monetary Fund revised its growth forecast upward for all
+
+Bank of Israel—Minutes of interest rate discussion on April 18–19, 2021. Page **3** Of **5**
+
+
+-----
+
+the major regions. World trade continues to grow and its level is higher than before the
+crisis. The inflation rate increased in all major regions, but core indices remained lower
+than central bank targets. Monetary policy at the major central banks continues to be
+very accommodative. The US is showing signs of significant economic recovery, as a
+result of the rapid distribution of vaccines, a reduction in restrictions, and the launch of
+a fiscal program at a significant scope of 8.5 percent of GDP, alongside a planned tax
+reform that, if implemented, is expected to have a global impact. In contrast, in Europe
+there is an increase in morbidity that has led the major countries in the eurozone to
+announce a renewal of the lockdown policy.
+
+Most Committee members assessed the current extent of monetary accommodation,
+through its various tools, to be sufficient for now, particularly in view of the additional
+tools being adopted. The Committee will design its policy so that it will continue to
+provide macroeconomic support for exiting the economic crisis, and to ensure that the
+credit market continues to function with low and stable interest rates and that the supply
+of credit remains adequate. In February and March, for the first time since the crisis
+began, the average level of the difficulty reported by companies in recruiting workers
+declined, and returned to the levels observed just before the crisis in all industries,
+except for the hotels industry, among other reasons due to the policy steps taken by the
+Bank of Israel and the Ministry of Finance.
+
+Five of the Committee members were of the opinion that the interest rate should be left
+unchanged at 0.1 percent. These five Committee members thought that the low level of
+the interest rate supports a recovery of economic activity and a gradual return of
+inflation to the target range, particularly in view of the Bank of Israel using additional
+tools in the credit market and in the foreign exchange market. One Committee member
+voted in favor of reducing the interest rate to 0 percent. He believed that an interest rate
+lower than 0.1 percent is more appropriate due to the intensity of the crisis and the
+unusually intense impact on the employment level.
+
+The Committee noted that the opening of the economy and the return to normal life in
+Israel are expected to support continued rapid growth in the coming year. However,
+there are still challenges to economic activity—in view of the health risks in Israel and
+abroad—and the adverse impact on the economy, and particularly on the labor market,
+is expected to be prolonged. The Committee will therefore continue to conduct very
+accommodative monetary policy for a prolonged time, using a range of tools as
+necessary, including the interest rate tool, in order to continue to support the attainment
+of the policy targets and the recovery of the economy from the crisis, and to ensure the
+continued orderly functioning of the financial markets.
+
+Bank of Israel—Minutes of interest rate discussion on April 18–19, 2021. Page **4** Of **5**
+
+
+-----
+
+**Participants in the narrow-forum discussion:**
+
+**Members of the Monetary Committee:**
+Prof. Amir Yaron, Governor of the Bank and Chairperson
+Mr. Andrew Abir, Deputy Governor of the Bank of Israel
+Prof. Reuben Gronau
+Prof. Moshe Hazan
+Prof. Zvi Hercowitz
+Prof. Michel Strawczynski
+
+**Other participants in the narrow-forum discussion:**
+Ms. Dana Orfaig, Research Department
+Mr. Tal Biber, Head of the Markets Division, Markets Department
+Dr. Golan Benita, Chief of Staff to the Governor
+Mr. Uri Barazani, Spokesperson of the Bank
+Mr. Arad May, Secretariat of the Monetary Committee
+Ms. Shulamit Nir, Research Department
+Mr. Yoav Soffer, Advisor to the Governor
+Mr. Daniel Shlomiuk, Spokesperson’s Office
+
+Bank of Israel—Minutes of interest rate discussion on April 18–19, 2021. Page **5** Of **5**
+
+
+-----
+

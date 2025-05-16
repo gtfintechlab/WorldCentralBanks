@@ -1,0 +1,207 @@
+**HIGHLIGHTS OF THE MEETING OF THE MONETARY BOARD ON THE MONETARY POLICY**
+
+
+**STANCE HELD ON 9 NOVEMBER 2017[1]**
+
+**I.** **Monetary Policy Decision**
+
+The Monetary Board decided to:
+
+a) Maintain the overnight RRP (borrowing) rate at 3.0 percent;
+
+b) Maintain the current overnight deposit and overnight lending rates; and
+
+c) Maintain the current reserve requirement ratios.
+
+**II.** **Key Considerations in the Formulation of the Monetary Policy Stance**
+
+  - The Monetary Board’s (MB) decision to keep monetary policy settings unchanged was
+
+based on its assessment that the outlook for the inflation environment remains
+manageable. While inflation has trended higher due mainly to higher utility rates and fuel
+prices, latest forecasts continue to show the future inflation path staying within the
+Government’s 3 percent ± 1 percentage point target range for 2018-2019. Inflation
+expectations also remain anchored close to the midpoint of the inflation target range over
+the policy horizon.
+
+  - The MB also recognized the balance of risks to the inflation outlook continues to lean
+
+toward the upside due to possible higher crude oil prices. The proposed tax reform
+program of the National Government (NG) may exert potential transitory pressures on
+prices, although various social safety nets and the resulting improvement in output and
+productivity are also expected to temper the impact on inflation over the medium term.
+On the other hand, the proposed reform in the rice industry involving the replacement of
+quantitative restrictions with tariffs and the deregulation of rice imports could temper
+inflation.
+
+  - At the same time, geopolitical tensions and lingering uncertainty over macroeconomic
+
+policies in advanced economies posed downside risks to near-term prospects for global
+economic growth. Nonetheless, the outlook for domestic economic activity remained
+firm, supported by positive consumer and business sentiment and ample liquidity.
+Moreover, while credit continues to expand in line with output growth, the Monetary
+Board remains watchful over evolving liquidity and credit conditions and their potential
+implications for price and financial stability.
+
+1 The discussions herein reflect the assessment made by the Monetary Board based on a comprehensive set of economic information available at
+the time of the policy meeting. The highlights of the discussions during the 9 November 2017 monetary policy meeting were approved by the
+Monetary Board during its regular meeting held on 28 November 2017. The next meeting of the Monetary Board on the monetary policy stance is
+
+h d l d 14 D b 2017
+
+
+-----
+
+**III.   Recent Developments and Inflation Outlook**
+
+The MB considered the following developments in deciding on the monetary policy stance:
+
+**A. Domestic price conditions**
+
+  - The year-to-date actual inflation of 3.2 percent (as of October 2017) is within the
+
+Government’s inflation target range of 3.0 percent ± 1.0 percentage point for the year.
+October headline inflation rose to 3.5 percent from 3.4 percent in the previous month on
+faster price increases for selected food and non-food commodities. The higher October
+inflation was driven by increases in non-food items such as electricity, domestic petroleum
+products, and air and sea passenger fares. Likewise, food inflation went up as prices of
+corn, meat, and vegetables rose, offsetting the price slowdowns for rice, fish and fruit.
+
+  - Core inflation—which excludes certain volatile food and energy items to better capture
+
+underlying price pressures—eased to 3.2 percent in October from 3.3 percent in the
+previous month. Meanwhile, alternative measures of core inflation remained below
+3 percent in October.
+
+**B.  Inflation expectations**
+
+  - Inflation expectations—based on private sector economist forecasts surveyed by the
+
+BSP—continued to be in line with the BSP’s within-target inflation outlook. Preliminary
+results of the BSP’s October 2017 survey of private sector economists showed higher
+expectation for 2017 at 3.2 percent (from 3.1 percent) while mean inflation forecasts for
+2018 and 2019 remained steady at 3.4 percent.
+
+**C.  Inflation outlook**
+
+  - Average inflation was projected to settle slightly above the midpoint of the NG’s target
+
+range of 3.0 percent ± 1.0 percentage point in 2017-2019. The latest average baseline
+inflation forecasts for 2017-2019 were higher compared to the previous forecast round
+due to the sharp rise in global crude oil prices, slightly higher domestic liquidity growth,
+depreciation of the peso, and marginally higher-than-projected September 2017 inflation.
+
+  - The risks to future inflation remained weighted toward the upside. The impact of the
+
+government’s fiscal reform program and pending petitions for adjustments in transport
+fares and electricity rates are the main upside risks to inflation. Meanwhile, the slower
+global economic growth due to policy uncertainty in advanced economies and geopolitical
+tensions continues to be the main downside risk to inflation.
+
+**D. Demand conditions**
+
+  - High frequency indicators supported the continued positive outlook for domestic demand.
+
+Capacity utilization of the manufacturing sector has remained above 80 percent while
+Purchasing Managers Index (PMI) readings have been consistently above the 50-percent
+expansion threshold. Increased fiscal spending is likewise expected to boost domestic
+activity and support the growth momentum. GDP in Q3 2017 is forecasted to grow close to
+the low end of the NG’s target.
+
+
+-----
+
+**E.  Supply-side indicators**
+
+Developments in Agriculture
+
+ - According to the National Food Authority (NFA), the country’s total rice inventory as of
+
+end-September 2017 stood at 2,078.6 thousand metric tons (TMT), estimated to last for
+about 66 days.
+
+ - The MB noted the staff’s estimates that inflation could decline over the medium term with
+
+import tariffication. The estimates are based on the current version of the House Bill (as of
+11 October 2017, pending before the House Committee on Agriculture and Food)
+amending R.A. 8178.
+
+ - Weather forecast models (as of October 2017) of the International Research Institute for
+
+Climate and Society – Climate Prediction Center predicted an increasing chance of La Niña
+weather conditions in Q4 2017 – Q1 2018.
+
+Oil Price Developments
+
+ - Global crude oil prices were higher in October 2017, hovering at mid-US$50 per barrel due
+
+to supply-side factors, including declining US commercial crude oil inventories, market
+expectations of an OPEC cut extension, and geopolitical events in the Middle East resulting
+in supply outages. The prices of domestic petroleum products were adjusted upward in
+October 2017, generally tracking the movement of international oil prices.
+
+Developments in the Utilities Sector
+
+ - The overall electricity rate slightly increased in October due mainly to higher generation
+
+charge brought about by the completion of the installment of the refund from overrecovery on pass-through charges from January 2014 to December 2016. At the same
+time, generation charges from Power Supply Agreements (PSAs) and Independent Power
+Producers (IPPs) registered increases due to higher fuel prices and lower average plants
+dispatch, respectively, offsetting the decline in the cost of power from the Wholesale
+Electricity Spot Market (WESM).
+
+**F. Financial market developments**
+
+ - The Philippine Stock Exchange index (PSEi) rallied, closing at 8,521.81 index points as of
+
+7 November 2017, amid (i) expected enactment of the NG’s tax reform package designed
+to help finance public infrastructure programs; (ii) positive investor sentiment over
+domestic Q3 2017 earnings and end of the drawn-out conflict in Marawi City; and
+(iii) higher-than-expected US manufacturing and services PMIs recorded in September.
+
+ - Meanwhile, the peso depreciated on a year-to-date basis in October 2017 up to the first
+
+week of November 2017 amid strong corporate demand and expectations of the US Fed
+turning more hawkish.
+
+
+-----
+
+**G. Domestic liquidity and credit conditions**
+
+ - Prevailing credit and liquidity conditions continued to support the appropriateness of
+
+present monetary policy settings. Domestic liquidity increased by 14.5 percent while bank
+lending grew faster by 21.1 percent in September 2017. M3 growth eased compared to the
+previous month as borrowings by the NG grew at a slower pace while net foreign assets of
+the BSP declined relative to the previous month. Meanwhile, bank lending registered
+faster expansion in September 2017 amid increased lending to the production sectors.
+
+**H.  Fiscal developments**
+
+ - Fiscal spending remains on track as NG expenditures (excluding interest payments)
+
+increased by 10.0 percent year-on-year in January-August 2017. The NG also recorded a
+fiscal deficit of P176.2 billion for the period January – August 2017, higher by 27.0 percent
+compared to the P138.4-billion deficit posted in the previous year.
+
+**I.  External developments**
+
+ - Economic activity in the US, euro area, and Japan grew at a faster pace, while output
+
+growth in India and China decelerated. Meanwhile, the IMF raised its global economic
+growth projections for 2017 and 2018 taking into account the stronger-than-expected
+expansion in advanced economies for 2017 and expectations of robust economic activity in
+China and in emerging Europe for 2017 and 2018.
+
+ - The US Fed kept its policy rate unchanged during its 31 October - 1 November 2017
+
+Federal Open Market Committee (FOMC) meeting to support further strengthening in the
+labor market and sustained return to 2-percent inflation. The FOMC noted that inflation is
+expected to stabilize around the 2-percent target over the medium term. Meanwhile, on
+2 November 2017, the Bank of England increased its Bank Rate by 25 bps to 0.5 percent to
+return inflation to the target amid falling unemployment.
+
+
+-----
+

@@ -1,0 +1,273 @@
+# Monetary Policy Meeting[1]/
+
+#### OCTOBER 2019
+
+CENTRAL BANK OF CHILE
+
+#### [INF*RES*AS]
+
+1/ This is a translation of a document originally written in Spanish. In case of discrepancy or difference
+in interpretation, the Spanish original prevails. Both versions are available at www.bcentral.cl
+
+
+-----
+
+## MINUTES OF THE MONETARY POLICY MEETING
+
+#### Monetary Policy Meeting No. 268, held on 22–23 October 2019.
+
+Present: Mario Marcel, Governor; Joaquín Vial, Vice-Governor; Pablo García,
+Board member; Rosanna Costa, Board member; Alberto Naudon, Board member.
+
+Present the Finance Minister, Felipe Larraín.
+
+Also present: Alejandro Zurbuchen, General Manager; Juan Pablo Araya, General
+Counsel and Attestor; Elías Albagli, Monetary Policy Division Director; Beltrán
+de Ramón, Financial Markets Division Director; Solange Berstein, Financial
+Policy Division Director; Gloria Peña, Statistics Division Director; Michel Moure,
+Institutional Affairs Division Director; Miguel Fuentes, Macroeconomic Analysis
+Manager; Enrique Orellana, Strategy and Communication of Monetary Policy
+Manager; Diego Gianelli, International Analysis Manager; Andrés Fernández,
+Economic Research Manager; Juan Carlos Piantini, International Markets
+Manager; Claudia Sotz, acting Domestic Markets Manager; Rodrigo Alfaro,
+Financial Stability Manager; Francisco Ruiz, Macroeconomic Statistics Manager;
+Felipe Lozano, Communications Manager; Hermann González, Advisor to the
+Finance Minister; Tatiana Vargas, Senior Economist; María del Pilar Cruz, Senior
+Economist; Marlys Pabst, Secretary General.
+
+#### 1. Analysis of the technical teams
+
+**The international scenario**
+
+The external scenario had evolved in line with forecasts in the September
+Monetary Policy Report. Regarding trade, despite preliminary agreements
+reached by China and the United States, there were still important issues
+unresolved, with new tariffs imposed by the latter on Europe, plus growing
+political unrest in the US. In the United Kingdom, some doubts about Brexit
+had been rekindled in the days before the Meeting, while in the Middle East
+several flanks of instability remained. Hand in hand with idiosyncratic factors,
+the situation continued to be complex in Latin America, where more countries
+reported internal political conflicts.
+
+The overall picture remained marked by deteriorating manufacturing,
+international trade and investment activity, and growth projections had
+
+
+been adjusted downwards for several countries. In the developed world,
+manufacturing production had surprised in the major economies, most showing
+setbacks in annual terms, while business expectations saw no progress going
+forward. In the US, there was also some weakening of a number of consumptionrelated indicators that had previously proven more resilient. The same was true
+of some labor market indicators, which in any case continued to show signs
+of being tight. In the Eurozone, Germany again stood out among the most
+hurt, with further worsening exports data. The UK was stagnant in productive
+investment, amid generalized falls in different confidence indicators.
+
+In China, third-quarter GDP growth (6% annually) had disappointed as once
+again it reached its lowest figure of several decades. Towards the end of the
+period there was some improvement in manufacturing output, retail sales, and
+credit, among others, which contrasted with the negative surprise of its external
+sector. The breakdown of the latter showed that the redirection of shipments
+had failed to compensate for the decreased activity with the United States.
+Political uncertainty was the tonic in Latin America, with falling confidence
+indicators in several countries. Argentina was in the run-up to elections. The
+situation had become much more complex in Ecuador—where the persistence
+of its fiscal deficit stood out—and Peru, whose investment prospects had fallen
+sharply. Monthly activity and manufacturing production in Mexico continued
+to post negative annual expansion rates. Meanwhile, in Brazil and Colombia
+the outlook was somewhat more encouraging, both with ongoing reforms that
+could result in greater dynamism going forward.
+
+In this context, an important number of monetary authorities around the world
+had continued to increase their stimulus, with reductions in the benchmark rates
+in several countries together with unconventional measures. Worth noting were
+the policy rate cut applied by the US Federal Reserve, which had also announced
+the end of the adjustment of its balance sheet, and the set of measures adopted
+by the European Central Bank, which included revisiting quantitative easing.
+All this in the midst of still-contained inflation numbers in most economies.
+
+There was still some volatility on the financial front. Thus, beyond some
+fluctuations, long-term interest rates and stock market indices posted slight
+increases with respect to the previous Meeting, while the bulk of currencies
+showed limited appreciations against the dollar. As for commodities, the price
+of copper had remained virtually flat since the September Meeting, combining
+inventory depletions and reduced imports globally. In the case of oil, apart from
+a sharp transitory increase resulting from the attack on an important refinery, its
+international price had tended to decline, within a context of weaker demand
+and higher inventory build-up.
+
+
+-----
+
+**The domestic scenario**
+
+Prior to the social upheaval that shook the country, local financial markets
+had been influenced by the more expansionary stance of monetary policy
+and developments abroad. Compared with September, beyond some ups and
+downs, the exchange rate had decreased and the stock market indices had risen.
+Interest rates in the fixed-income market, both real and nominal, had shown
+mixed behavior since the previous Meeting, with decreases in UF-denominated
+instruments, particularly at 2 and 5 years, and increases in the last week, in
+line with the international scenario and due to pension system affiliates shifting
+to riskier funds at the local level. Regarding financing conditions, there were
+interest rate reductions in all portfolios and increases in the real annual variation
+of commercial and mortgage loans. The Bank Credit Survey of the third quarter
+reported an unchanged supply, as well as a more dynamic demand in the housing
+segment and weaker demand among construction companies.
+
+As for local activity, the third-quarter data at hand was in line with forecasts in
+the last Report’s baseline scenario, with annual economic growth outperforming
+that of the first half of the year. This was consistent with the fading out of some
+supply factors that had temporarily affected the performance of some sectors in
+the first half (e.g. mining), and with the lower comparison base of the second
+half of 2018. Thus, in the July-August two-month period, the mining Imacec
+had increased its annual expansion to 3.2% and the non-mining index, to 3.5%.
+
+On the expenditure side, investment remained dynamic, especially in
+mining, which continued to boost activity in other sectors, such as business
+services and construction. This contrasted with the deterioration of business
+expectations (IMCE) and capital goods imports. Private consumption kept
+growing moderately, in a context where the wage bill reflected no big changes
+and continued to outgrow consumption; consumer confidence had worsened
+further, imports of consumer goods had declined and the growth of private
+salaried employment was bounded. Exports remained weak, partly because
+of the poor performance of some trading partners and the impact of the trade
+war. In this context, growth expectations in the Economic Expectations Survey
+(EES) contained minor changes since the September Report. In particular, the
+October EES anticipated a GDP increase of 2.5%, 3% and 3.3% for 2019, 2020
+and 2021, respectively.
+
+The Business Perceptions Report, for which data had been collected up to
+October 18, reported that the business performance of most respondents had
+been similar to or somewhat better than the previous quarter, with results that
+were mostly in line with expectations. By sectors, the better performances
+
+
+continued to be seen in those having contracts with major mining projects, the
+salmon sector, those engaged in the construction of homes under UF3,000 or
+with a housing subsidy, and some services. Meanwhile, trade had continued
+to see stagnating sales, as had companies linked to the forestry sector. Beyond
+exchange rate movements, cost pressures had remained contained. In any
+case, many respondents drew attention to the increases in the prices of fuel
+and electricity. Selling prices had remained constant or had risen less than
+expected, a situation they expected to continue over the foreseeable future, in
+particular because in their opinion demand was still precarious. Investments
+remained concentrated mostly in process automation to increase efficiency
+and/or mitigate higher payroll costs. In the labor market, workforce remained
+abundant, but most respondents did not foresee big changes in their staffing.
+Financial conditions had improved in terms of rates. In any case, the banks
+noted that the demand for loans, beyond refinancing and/or portfolio repurchase
+motives, remained bounded.
+
+Headline inflation had remained around 2% annually since the September
+Meeting. The components of core inflation (CPIEFE) continued with their
+behavior of previous months. The services CPIEFE was still low, while the
+goods CPIEFE had risen further. Among the more volatile items, it was worth
+noting the decline in some foodstuffs’ inflation, which was below its historic
+standards, and that of fuels. As for the inflation outlook, various indicators
+showed increases, most notably one year ahead.
+
+Expectations for the monetary policy rate (MPR) were for a 25 bp (basis point)
+cut at this Meeting. Going forward, the October EES did not foresee any new
+falls, while the Financial Brokers Survey and the information implicit in the
+financial asset prices anticipated another 25 bp cut between the end of this
+year and early 2020.
+
+Regarding the effects of the events occurring in the country since 18 October,
+it was evident that they would have negative consequences on short-term
+activity, but there was more uncertainty regarding their medium-term effects,
+so it was necessary to evaluate, among many factors, the magnitude and speed
+of reconstruction works, the impact on expectations and the effects of the
+measures announced by the government. Until the time of the Meeting, the
+effects on local financial markets had been limited. Most affected were the
+stock market, which had reversed part of its previous increases, and the risk
+premiums, which showed minor increases. The peso had depreciated from
+around $715 to 725 per dollar —near its price at the September Meeting.
+With respect to the inflation outlook, after the announcements canceling the
+increases in electricity rates and public transport fares, inflation expectations
+
+
+-----
+
+implicit in market prices had undone earlier increases. In the case of the MPR
+expectations, financial prices showed that the 1.5% rate expectation had been
+prolonged until the first quarter of 2021.
+
+#### 2. Background analysis and discussion
+
+It was noted that the overall figures of the domestic macroeconomic scenario
+had performed in line with forecasts in the September Report. For example,
+there was greater annual growth in activity in July and August, while private
+consumption and its fundamentals, as well as services inflation, continued
+to be weak, leading to persistent risks in this area. In the external scenario,
+manufacturing, investment and trade activity continued to fall, validating the
+cuts in the growth projections for the major economies. Likewise, the discussion
+on the space for and effectiveness of a more expansionary monetary policy in
+those economies had intensified, as had the viability of a timely action coming
+from the Treasury.
+
+About the social turmoil affecting the country, all the Board members agreed
+that undoubtedly the social and political disorders of recent days would have
+implications on the evolution of the economy in the short and medium term.
+In the immediate future, it was clear that the partial paralysis of the country
+for several days, the destruction of public and private infrastructure and the
+greater sensitivity of some important sectors, such as trade and transport,
+would have a significant impact on activity, which would negatively change the
+growth prospects for the year. However, the short-term effects on inflation were
+difficult to assess and would depend largely on how long the interruptions in
+the production and distribution of goods and services would last.
+
+There was consensus among the Board members that in the medium term the
+effects would also be seen in productive activity, expectations, consumption,
+investment, fiscal policy and financial indicators. However, the net effect that all
+these factors combined would have on inflation was not obvious. In particular,
+it could depend not only on the dynamics of some relevant prices, but also on
+the evolution of actual activity and potential growth. The Board agreed that it
+was therefore premature to size up the response that would be required from
+monetary policy. For example, some calibration was needed of the effects on
+business and household confidence, and how the investment and consumption
+plans of the various players would be affected. It would also require calibrating
+and knowing the ultimate size of the fiscal policy response to this scenario.
+
+All the Board members stressed that so far the markets’ reaction had been limited.
+
+
+They mentioned the fall in the stock market, which could be explained by the
+fact that adverse effects on short-term economic activity resulted in reduced
+the companies’ expected profits and provided fewer incentives for longer-term
+investment. In any case, there was agreement that greater volatility in the future
+could not be ruled out and the Bank should be prepared to address anomalous
+situations.
+
+#### 3. Analysis of monetary policy options
+
+All the Board members agreed that the evolution of the macroeconomic scenario
+confirmed the assessment made in the September Report. It implied that the
+convergence of inflation to the target required a greater monetary stimulus, part
+of which had already been added with the MPR cut at the previous Meeting.
+Unequivocally, recent events would negatively affect activity in the short term,
+but their effects on inflation in the short and medium term were not entirely
+evident. Some Board members said that the possible negative effect on demand
+would dominate in the evolution of inflation, while in the opinion of other
+Board members the effects on the productive capacity and the potential impact
+on demand of some proposals should not be ruled out, therefore the impact
+on inflation in the medium term was still uncertain.
+
+In view of the above, all five Board members agreed that the option of reducing
+the policy rate by 25 bp clearly prevailed over all other alternatives. On the
+one hand, it was consistent with the evaluation of the data and the message
+delivered in the September Report. On the other, it was consistent with market
+expectations, which had correctly internalized the Board’s message.
+
+#### 4. Monetary policy decision
+
+Governor Marcel, Vice-Governor Vial and Board members García, Costa, and
+Naudon voted for lowering the MPR by 25bp, to 1.75%. They reasoned that this
+option clearly dominated, as it was not possible for the moment to anticipate the
+effects that the social situation would have on the medium-term macroeconomic
+scenario. Thus, a communication could be achieved that would not alter the
+current interest rate structure and would emphasize the need to evaluate the
+effects of the recent events before making any decision.
+
+
+-----
+

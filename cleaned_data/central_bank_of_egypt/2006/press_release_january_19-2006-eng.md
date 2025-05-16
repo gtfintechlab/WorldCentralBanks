@@ -1,0 +1,32 @@
+# Central Bank of Egypt
+
+**Press Release**
+**January 19, 2006**
+
+**_The Central Bank of Egypt decided to reduce its overnight deposit rate by 50 basis_**
+**_points to 8.25 percent per annum and cut the discount rate by one percent._**
+
+In its monthly meeting held on January 19, 2006, the Monetary Policy Committee
+(MPC) decided to reduce the overnight deposit rate to 8.25 percent from 8.75 percent and
+the overnight lending rate to 10.25 percent from 10.75 percent. This was coupled with
+another decision to cut the discount rate to 9 percent from 10 percent.
+
+This decision was based on an assessment of recent economic developments, in particular
+the consistently declining inflation rates and easing inflationary pressures. In addition, the
+recent economic developments reveal that the pick up in economic growth has
+accelerated in late 2004/05 and early 2005/06. However, this acceleration has not been
+inflationary.
+
+The MPC will continue to closely monitor all economic developments, especially the
+factors underlying inflation, and will not hesitate to adjust the key CBE rates in either
+direction, if necessary, to ensure price stability over the medium-term.
+
+The Central Bank of Egypt
+Contact person
+Name: Mr. Tarek Amer - Deputy Governor
+Telephone number: 3918270-3921012
+e-mail address: tarekamer@cbe.org.eg
+
+
+-----
+

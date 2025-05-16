@@ -1,0 +1,518 @@
+### Publication date: 19 November 2008
+
+## MINUTES OF THE 
+# MONETARY POLICY COMMITTEE MEETING
+## 5 AND 6 NOVEMBER 2008
+
+##### These are the minutes of the Monetary Policy Committee meeting held on  5 and 6 November 2008.
+
+ They are also available on the Internet http://www.bankofengland.co.uk/publications/minutes/mpc/pdf/2008/mpc0811.pdf
+
+ The Bank of England Act 1998 gives the Bank of England operational responsibility  for setting interest rates to meet the Government’s inflation target. Operational  decisions are taken by the Bank’s Monetary Policy Committee. The Committee meets  on a regular monthly basis and minutes of its meetings are released on the  Wednesday of the second week after the meeting takes place. Accordingly, the  minutes of the Committee meeting to be held on 3 and 4 December will be published on  17 December 2008.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 5-6 NOVEMBER 2008
+
+1 Before turning to its immediate policy decision, and against the background of its latest
+
+projections for output and inflation, the Committee discussed financial market developments; the
+
+international economy; money, credit, demand and output; and costs and prices.
+
+**Financial markets**
+
+2 The packages introduced in the United Kingdom and overseas to stabilise the banking sector had
+
+succeeded in preventing very short-term money markets from completely seizing up and had also
+
+provided reassurance about the solvency and functioning of the banking system. That was evident in
+
+lower bank credit default swap premia. But the spread of LIBOR over expected policy rates had
+
+remained elevated and was still substantially wider than it had been two months ago. Recovery in the
+
+money markets was likely to be gradual.
+
+3 UK and international equity prices had fallen substantially during the past two months, and had
+
+also been extremely volatile. Spreads on sterling-denominated investment grade corporate bonds had
+
+widened by over 200 basis points since the September MPC meeting – the largest two-month increase
+
+in the MPC’s history. These falls in asset prices had partly reflected downward revisions to forecasts
+
+of growth in the world economy, and a higher price for risk. Equity price falls had been particularly
+
+marked in emerging market economies, reflecting increasing evidence of contagion from the
+
+slowdown in developed economies.
+
+4 Sterling had fallen by around 6% on the month, accounted for in large part by a decline against
+
+the dollar and yen. Movements in interest rate differentials did not account for sterling’s decline this
+
+month. The appreciation of the dollar and yen was possibly a result of US and Japanese investors
+
+seeking to reduce risk and repatriating money to invest in safer domestic assets. There could also have
+
+been a rise in the risk premium associated with holding sterling assets, given the increasing uncertainty
+
+about the United Kingdom’s near-term growth prospects.
+
+
+-----
+
+2
+
+5 Expectations of Bank Rate over the next 18 months, derived from financial markets, had fallen
+
+further during the past month. The market appeared to be factoring in a Bank Rate reduction at the
+
+November meeting of 50-100 basis points. The Committee’s projections that were to be published in
+
+the November Inflation Report were based on the assumption that Bank Rate followed a path for
+
+market yields that had prevailed in the days leading up to the November decision. That path fell from
+
+an average of 4% in the fourth quarter of 2008 to 2¾% in the second half of 2009, before picking up
+
+again to around 4% in 2011.
+
+**The international economy**
+
+6 Global economic conditions had deteriorated further. In the United States, GDP had fallen by
+
+0.1% in 2008 Q3. More timely activity indicators were pointing to a further contraction in 2008 Q4.
+
+The indices for manufacturing and non-manufacturing activity from the Institute for Supply
+
+Management had fallen to low levels in October. The further tightening in credit conditions for both
+
+companies and households, reported by the Federal Reserve’s October Senior Loan Officer Survey,
+
+also pointed to slowing activity.
+
+7 The euro-area activity indicators had weakened. In the European Commission’s business
+
+confidence survey for October, the services balance had been the lowest since it was introduced in
+
+1995 and the manufacturing balance had reached a twelve-year low. Both the services and
+
+manufacturing Purchasing Managers Indices had fallen sharply. Taken together with earlier surveys,
+
+these data were pointing to a very subdued outturn for euro-area economic activity in the second half
+
+of 2008.
+
+8 The financial crisis was having a growing impact on emerging market economies. The ability to
+
+withstand it varied greatly between economies. Some were better placed macroeconomically, with
+
+current account surpluses, strong external balance sheets and the scope to expand fiscal policy in order
+
+to boost domestic demand. But countries with large external financing requirements and limited
+
+foreign assets might have to adjust domestic demand sharply. The problems had already become
+
+sufficient for some to seek IMF financial support. The direct trade effects for the United Kingdom
+
+economy of a slowdown in the more vulnerable emerging markets should be relatively limited, as they
+
+accounted for only a small fraction of UK exports. But there could be indirect impacts, as these
+
+
+-----
+
+3
+
+economies accounted for rather more of world output. Moreover, some UK banks would be affected
+
+by an emerging market slowdown at a time when the banking sector was already fragile.
+
+9 Global economic prospects had been marked down by many forecasters. For example, those
+
+surveyed by Consensus Economics had, on average, revised down their projections for world activity
+
+growth in 2009 by more over the past two months than they had between January and August.
+
+10 Commodity prices had continued to fall, with oil prices down by a quarter in dollar terms since
+
+the October MPC, and by more than a half since their peak in early July. And The Economist non-oil
+
+commodity index had also fallen sharply, reflecting the prospect of continued moderation in demand.
+
+Weak demand had also pushed down on energy prices, though supply factors were less supportive of
+
+sustained price falls. OPEC had implemented production cuts, signalling that prices were below its
+
+desired level.
+
+**Money, credit, demand and output**
+
+11 A substantial tightening of money and credit conditions had taken place. Once allowance had
+
+been made for transactions within the financial sector that were unlikely to be related to spending on
+
+goods and services, the twelve-month growth rate of real broad money in the United Kingdom had
+
+fallen close to zero in September, the lowest rate since September 1980. Annual growth in secured
+
+lending to individuals had fallen to around 5% in September. There was anecdotal evidence that the
+
+supply of trade credit, and companies’ working capital more generally, were being curtailed.
+
+12 Output growth had slowed very sharply. According to the ONS’s preliminary estimate, GDP
+
+had contracted by 0.5% in 2008 Q3. The near-term outlook for GDP had deteriorated substantially in
+
+recent months. Many survey balances for economic activity were at record lows. Together with the
+
+reports from the Bank’s regional Agents, they were consistent with a further contraction in output in
+
+2008 Q4.
+
+13 A squeeze on real income growth and the tightening in credit conditions had weakened consumer
+
+spending. On top of that, households were probably trying to increase their precautionary savings – as
+
+uncertainty about future incomes increased – and to rebuild their net asset positions. The slowdown in
+
+consumption had been most evident in the demand for consumer services and durables. The Bank’s
+
+
+-----
+
+4
+
+regional Agents had reported that spending on consumer services had weakened further in Q3. Private
+
+car registrations had fallen by around 22% in the year to Q3 – the largest fall since the series began in
+
+1993. And according to the GfK NOP consumer confidence survey, the balance of households saying
+
+that now was a good time to make a major purchase had declined sharply in October to its lowest level
+
+since the series began in 1988. The CBI Distributive Trades Survey in October was consistent with
+
+low retail sales growth.
+
+14 The housing market had shown no sign of recovery in October. House prices, according to the
+
+average of the main lenders’ indices, had fallen by 1.8% in October, and on the same measure were
+
+almost 15% below the October 2007 peak. Lower house prices had made house-building less
+
+profitable: dwellings investment had contracted by around 8% in the year to 2008 Q2. Timely
+
+indicators, such as new construction orders, were pointing to further falls.
+
+15 Companies’ investment intentions had fallen sharply. An average of the CBI and BCC surveys
+
+had fallen for five successive quarters, with the most recent fall the largest on record. Much of the
+
+decline appeared to reflect greater concerns about the demand outlook. But the surveys, together with
+
+the Bank’s regional Agents, also suggested that the cost and availability of external finance had begun
+
+to have a pronounced impact on investment plans. It was also possible that companies were scaling
+
+back their spending in order to bolster their short-term financial positions.
+
+16 Export growth had slowed in 2008 Q2. And the latest export surveys had weakened markedly in
+
+the third quarter, with the downturn in activity across the global economy more than offsetting the
+
+impact of a weaker pound.
+
+**Costs and prices**
+
+17 CPI inflation had risen to 5.2% in September from 4.7% in August. A large part of that increase
+
+was accounted for by gas and electricity prices as a number of tariff increases by major suppliers
+
+continued to affect the index.
+
+18 Indicators of near-term inflation expectations had fallen back sharply. The Citigroup/YouGov
+
+survey of households’ median inflation expectations over the next year had declined by 1.5 percentage
+
+points in October – the largest drop in its short history. Households’ expectations of near-term
+
+
+-----
+
+5
+
+inflation expectations had fallen back, even though CPI inflation had continued to rise. The
+
+Citigroup/YouGov measure of household expectations for five-to-ten years ahead had fallen to its
+
+lowest level since the survey began in November 2005. Breakeven inflation rates were particularly
+
+difficult to interpret at the moment, in light of recent market volatility. But the five-year breakeven
+
+rate had been 0.9 percentage points lower in the fifteen working days to 5 November than in the run-up
+
+to the MPC’s September meeting, its largest fall over a comparable period since late 1993.
+
+19 Labour market conditions had deteriorated markedly in recent months. According to the Labour
+
+Force Survey, employment had fallen by 0.4% in the three months to August compared with the
+
+previous three months. Unemployment had risen by 190,000 since its low point at the end of 2007.
+
+20 Against the backdrop of rising inflation and a weakening labour market, pay growth had
+
+remained subdued. The three-month mean of wage settlements had been broadly unchanged in
+
+September relative to the previous two months. Growth in the Average Earnings Index had been 3.4%
+
+in the three months to August, 0.1 percentage points lower than in July. The equivalent measure for
+
+Average Weekly Earnings had also fallen back in August.
+
+21 The deflator for imported goods had fallen by 3.3% in August, which had brought the twelve
+month rate of change down to 13%. That fall was largely due to energy prices. There were further
+
+falls in producer input and output prices in September, and surveys suggested that the downward
+
+pressure on these prices would continue.
+
+**The November GDP growth and inflation projections**
+
+22 The Committee reached its policy decision in the light of the projections to be published in the
+
+_Inflation Report on Wednesday 12 November. The projections were conditioned on the assumption_
+
+that Bank Rate followed a path implied by market yields prevailing prior to the MPC’s November
+
+decision.
+
+23 In the Committee’s central projection, a pronounced slowdown in domestic demand pushed the
+
+economy into recession at the start of the forecast period, reflecting a sharp tightening in the supply of
+
+money and credit, subdued real income growth and falls in asset prices. The projection nevertheless
+
+embodied a substantial degree of stimulus from: the assumed reductions in Bank Rate; a gradual
+
+
+-----
+
+6
+
+expansion in credit supply as the effects of the authorities’ recapitalisation programme took hold;
+
+lower world energy and food prices; and the lower level of sterling. As a result, GDP began to
+
+recover in the second half of 2009, rising somewhat above its historical average growth rate by the end
+
+of the forecast period. The central projection for GDP growth over the next two years was
+
+substantially weaker than in the August Report.
+
+24 The central projection for CPI inflation was for it to fall back sharply from its current high level
+
+in the near term, as the contribution from energy and food prices declined steeply. Further out,
+
+inflation fell well below the 2% target, reflecting a larger margin of spare capacity and the waning
+
+impact on import prices from the lower level of sterling. In the light of the substantial amount of news
+
+since the August Report, the downward revision to the CPI projection was the largest since the MPC
+
+was established.
+
+25 The prospects for economic growth and inflation were judged to be unusually uncertain,
+
+reflecting the exceptional economic and financial factors affecting the outlook. The biggest risks to
+
+inflation stemmed from the uncertain depth and persistence of the slowdown in demand. There were
+
+also marked uncertainties over: the extent to which the slowdown in demand resulted in a growing
+
+margin of spare capacity despite slowing supply growth, and the degree to which it fed through into
+
+easing price pressures; the prospects for world commodity prices; and the likely scale and pace of
+
+pass-through of a lower exchange rate. The risks around the central projections for both GDP growth
+
+and inflation in the fan charts were broadly balanced. But the heightened level of uncertainty meant
+
+that the Committee had more confidence in the broad shapes of the fan charts than in the precise
+
+calibrations. There was a range of views among the Committee on both the central projection and the
+
+balance of risks.
+
+**The immediate policy decision**
+
+26 The past two months had seen a substantial downward shift in the prospects for inflation in the
+
+United Kingdom. Three factors had transformed the outlook: the intensification of the financial
+
+turmoil into the worst banking crisis since the outbreak of the First World War; a further and marked
+
+decline in the short-run indicators for activity at home and abroad; and the sharp falls in commodity
+
+prices and in measures of inflation expectations.
+
+
+-----
+
+7
+
+27 Since mid-September, the global banking system had experienced its most serious disruption for
+
+almost a century. As a consequence, money and credit conditions had tightened sharply. While the
+
+measures taken on bank capital, funding and liquidity in several countries had begun to ease the
+
+situation, the availability of credit to households and businesses was likely to remain restricted for
+
+some time. Equity prices had fallen substantially in many countries.
+
+28 Near-term demand prospects had deteriorated markedly. In the United Kingdom, output had
+
+fallen sharply in the third quarter. Business surveys and reports by the Bank’s regional Agents pointed
+
+to a continued severe contraction in the near term. Consumer spending had faltered in the face of a
+
+squeeze on household budgets and tighter credit. Residential investment had fallen sharply and the
+
+prospects for business investment had weakened. Economic conditions had also deteriorated in both
+
+advanced and emerging market economies.
+
+29 CPI inflation had risen to 5.2% in September. The substantial rise since the beginning of the
+
+year largely reflected the impact of higher energy and food prices. But commodity prices had fallen
+
+sharply since mid-summer, with oil prices down by more than a half. Inflation should consequently
+
+soon drop back, as the contribution from retail energy and food prices declined, notwithstanding the
+
+fall in sterling. Pay growth had remained subdued. And measures of inflation expectations had fallen
+
+back.
+
+30 As a result of these three factors, the Committee had revised down substantially its projected
+
+outlook for inflation. The projection in the Inflation Report implied that a much lower level of Bank
+
+Rate was likely to be required in order to meet the inflation target in the medium term.
+
+31 There was a strong case for an immediate reduction in Bank Rate of at least 100 basis points.
+
+The upside risks to inflation from rising commodity prices and elevated inflation expectations had
+
+diminished markedly in recent weeks. That allowed the Committee to react aggressively to the
+
+downside risks to inflation from the deteriorating demand outlook. The credit tightening and its
+
+impact on the world economy had become much more acute, underlining the case for a substantial
+
+monetary loosening. Although some surprise was inevitable, the Committee should be prepared to
+
+react decisively in these circumstances.
+
+
+-----
+
+8
+
+32 The problems affecting the banking sector had probably reduced the impact of reductions in
+
+Bank Rate on activity. This reinforced the need for a substantial reduction in Bank Rate.
+
+33 The projections in the Inflation Report implied that a very significant reduction in Bank Rate –
+
+possibly in excess of 200 basis points – might be required in order to meet the inflation target in the
+
+medium term. However, a number of arguments were discussed for not moving Bank Rate by the full
+
+extent implied by those projections.
+
+34 First, the projections had used the normal convention that they were based on the Government’s
+
+most recent published tax and spending plans. The Government had already announced its intention to
+
+bring forward some planned spending commitments. Moreover, the changing composition of output
+
+would lead to a fall in effective tax rates from those assumed in the projections. Consequently, it
+
+would make sense for the Committee to reassess the required scale of monetary easing after the
+
+Chancellor’s Pre-Budget Report.
+
+35 Second, although the banking measures that had been introduced around the world had restored
+
+a degree of stability to the banking system, it was unclear how the supply of broad money and credit to
+
+the wider economy would respond. The Committee would be able to form a clearer view in the
+
+months ahead on how these measures were working and hence the degree of monetary policy stimulus
+
+that would ultimately be needed.
+
+36 Third, a key concern was the degree of surprise to financial markets. Too large a surprise could
+
+pose upside risks to the inflation target if the resulting depreciation of sterling was excessive. There
+
+was a risk that such a move might be misinterpreted as a change in the Committee’s reaction function,
+
+which would damage the credibility of the inflation target. That suggested leaving some of the
+
+required monetary loosening until after the Committee had had an opportunity to explain its change of
+
+view on the outlook for inflation in the November Inflation Report, and to assess the market reaction to
+
+both the Report and the decision.
+
+37 Fourth, some members thought there was an argument for leaving some of the required policy
+
+loosening to the months ahead to support confidence as the economy weakened.
+
+
+-----
+
+9
+
+
+38 On balance, the Committee judged that an immediate reduction in Bank Rate of 1.5 percentage
+
+points to 3% was necessary to meet the 2% target for inflation in the medium term. At future
+
+meetings, the Committee would be able to reassess the developments in the economy taking into
+
+account the potential impact of any fiscal announcement, as well as the reaction of the exchange rate
+
+and financial markets more generally to the November interest rate decision and to the publication of
+
+the November Inflation Report.
+
+39 The Governor invited the Committee to vote on the proposition that Bank Rate should be
+
+reduced by 1.5 percentage points to 3.0%. The Committee voted unanimously in favour of the
+
+proposition.
+
+40 The following members of the Committee were present:
+
+Mervyn King, Governor
+Charles Bean, Deputy Governor responsible for monetary policy
+John Gieve, Deputy Governor responsible for financial stability
+Kate Barker
+Tim Besley
+David Blanchflower
+Spencer Dale
+Andrew Sentance
+Paul Tucker
+
+Dave Ramsden was present as the Treasury representative.
+
+
+-----
+

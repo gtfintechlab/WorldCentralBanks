@@ -1,0 +1,1073 @@
+### Publication date: 22 November 2000
+
+## MINUTES OF
+# MONETARY POLICY COMMITTEE MEETING
+
+## 8 and 9 November 2000
+
+#### These are the minutes of the Monetary Policy Committee meeting held on 8 and 9 November 2000.
+
+ They are also available on the Internet
+
+(http://www.bankofengland.co.uk/mpc/mpc0011.pdf).
+
+#### The Bank of England Act 1998 gives the Bank of England operational responsibility for setting interest rates to meet the Government’s inflation target. Operational decisions are taken by the Bank’s Monetary Policy Committee. The Committee meets on a regular monthly basis and minutes of its meetings are released on the Wednesday of the second week after the meeting takes place. Accordingly, the minutes of the Committee meeting held on 6 and 7 December will be published on 20 December 2000.
+
+
+-----
+
+**MINUTES OF THE MEETING OF THE MONETARY POLICY COMMITTEE**
+**HELD ON 8-9 NOVEMBER 2000**
+
+1 Before turning to its immediate policy decision, the Committee discussed the world economy;
+
+money, credit and asset prices; demand and output; labour market conditions; and prices and costs; and
+
+then reviewed the November projections for output and inflation.  The Committee had been briefed by
+
+Treasury officials on the Government’s Pre-Budget Report in the week before its meeting.
+
+**The world economy**
+
+2 While world output growth had been faster than expected in the first half of the year, it now
+
+seemed to be slowing. In the United States, there had been a sharp fall in recorded growth between Q2
+
+and Q3. Investment growth had slowed, including in the information, communications and technology
+
+(ICT) sector. This might signal a wider re-evaluation of the prospects for ICT-based business and, if it
+
+persisted, might affect the growth of productive capacity. Looking ahead, a number of factors would
+
+prospectively restrain growth: the stronger dollar, tighter credit conditions, softer equity prices and the
+
+rise in oil prices, as well as the earlier increases in official interest rates. A sustained slowdown
+
+therefore looked more likely now than when the Committee had produced its August projections. The
+
+implications for US inflation were, however, less clear. On the one hand, slowing growth and
+
+moderating oil prices would help to restrain inflation; core CPI inflation had fallen slightly to 2.5% in
+
+September. On the other hand, tight conditions in labour and product markets were evidenced by an
+
+acceleration over recent months in earnings and producer prices; and it was possible that, even with
+
+somewhat slower growth, the level of aggregate demand would be above the economy’s productive
+
+capacity. Some members thought that the degree to which equity prices fell in anticipation of lower
+
+corporate profits would be a key determinant of the relative supply-demand balance and inflation.
+
+3 In the euro area, the annual rate of output growth had been close to 4% in Q2. The Committee
+
+noted the misperception that the area’s economic performance had been weak: the annual rate of
+
+growth had, in fact, been faster than in the United Kingdom in every quarter since the monetary union
+
+was established. There were, though, now signs of a slowdown. For example, recent data on orders,
+
+retail sales and consumer confidence had been weak. Partly on account of the euro’s continued
+
+depreciation the rise in oil prices had had a larger impact on inflation in the euro area than elsewhere
+
+
+-----
+
+in the industrialised world. The HICP measure of inflation had risen from 2.3% in August to 2.8% in
+
+September, materially above the ECB’s 2% ceiling, although core inflation was 1.4%.
+
+4 In Japan, recovery had been supported by business investment, associated with improving
+
+corporate profitability, but the outlook remained subdued on account of persistently weak consumer
+
+confidence and continuing financial sector fragility. The Bank of Japan had recently said that the risks
+
+were mainly on the downside.
+
+5 The Committee judged that, more generally, the balance of risks to world economic growth was
+
+clearly on the downside. Much would depend on developments in the United States; it was noted that
+
+the Committee’s central projection for US growth in 2001 was now above the consensus forecast.
+
+Slowing growth was welcome, as was October’s correction in equity prices, which had been associated
+
+with revised expectations of corporate earnings growth, especially in the ‘new economy’ sectors, and
+
+with an analysis of the effects of increased leverage. It was not yet clear, however, how much of the
+
+economy was being affected by tighter credit conditions. It was possible that there would be
+
+exaggerated revisions to perceptions of the underlying supply-side performance of the economy,
+
+affecting asset prices and the dollar, if productivity growth fell in the short term as the economy
+
+slowed. While the course of the economy so far seemed consistent with a ‘soft landing’, it was noted
+
+that it could be difficult to distinguish from the beginnings of a ‘hard landing’.
+
+6 There was also somewhat greater fragility amongst emerging market economies. Credit spreads
+
+had been rising, especially in Argentina; Korea was in the midst of a difficult restructuring of the
+
+corporate sector; and Asian equity markets had fallen by about 30% since the beginning of the year
+
+notwithstanding the recovery in industrial production. Prospective emerging market economy growth
+
+was also vulnerable to slowdown in the US economy.
+
+**Money, credit and asset prices**
+
+7 In the United Kingdom, annual M4 and M4 lending growth had remained strong, even after
+
+excluding deposit and loan transactions with Other Financial Corporations.
+
+8 Although growth in household sector borrowing had slowed slightly between Q2 and Q3, it was
+
+
+-----
+
+mortgage borrowing over the past year. Part of this might be accounted for by mortgage equity
+
+withdrawal, and it would need to be watched. House prices had risen by around 15% during 1999, and
+
+intensified competitive conditions in the retail banking industry – leading to lower spreads and some
+
+new, flexible loan products – were making it easier for households to unlock such increases in wealth.
+
+That might help to explain stronger-than-expected consumer spending over recent quarters. It might
+
+also lend support to expectations that consumption growth would slow, given that house price inflation
+
+was now more subdued.
+
+9 The interpretation of developments in the corporate sector’s financial position was less clear.
+
+Both deposits and borrowing had been growing rapidly since the summer. While the telecom sector
+
+had accounted for some of the increased borrowing, this was not the whole story. The non-financial
+
+corporate sector was running a deficit of around 1½% of GDP. While considerably below the levels
+
+seen in the 1980s, this was a bigger deficit than during most of the 1990s. Corporate sector liquidity
+
+nevertheless seemed strong: the stock of corporate deposits was near historical highs as a proportion of
+
+the stock of borrowing. It seemed that, in aggregate, firms were borrowing in part to acquire financial
+
+assets. It was possible that mergers and acquisitions were having a material effect on the data, but
+
+further analysis was needed. In the meantime, it was hard to draw any conclusions about the
+
+implications for demand.
+
+10 Sterling’s effective exchange rate index had fallen 1% over the month, falling against the dollar
+
+and rising against the euro. It had been volatile during the month, having spiked up to about 111
+
+before easing back to around 107 by the time of the meeting. The Committee thought that the most
+
+recent levels were more relevant to an assessment of the inflation outlook, and so to policy, than the
+
+15-day moving average (109.3) which, by convention, was typically used as the starting point in its
+
+_Inflation Report projections. It therefore agreed that the November projections should use the five-day_
+
+average (107.5) as the starting point, which was about one and a half per cent above the level implied
+
+in August’s central projection. It would be important to explain in the Inflation Report the reason for
+
+the change in presentation in this instance and to show the difference it made to the projections.
+
+11 Most members of the Committee continued to regard the balance of risks to sterling as lying on
+
+the downside. In the short term, there was added uncertainty about exchange rates generally given the
+
+delayed conclusion of the US Presidential election.
+
+
+-----
+
+**Demand and output**
+
+12 On preliminary ONS data, output growth had slowed from 0.9% in Q2 to 0.7% in Q3.
+
+Forward-looking business surveys had generally weakened slightly.
+
+13 The Committee’s inflation and output projections assumed that private sector demand growth
+
+would slow considerably. This would be necessary if inflation were to remain in line with the 2½%
+
+target, given the planned increase in government spending. The outlook for consumption, accounting
+
+for roughly 80% of private sector spending, was therefore especially important. The backward
+looking data and forward-looking indicators presented different pictures. On the one hand, retail sales
+
+had risen by 0.6% in September and by 1.3% between Q2 and Q3, faster than for a while; and the
+
+Bank’s regional Agents reported contacts as seeing steady sales growth. On the other hand, equity
+
+prices and house prices had been broadly flat; survey measures of consumer confidence were weaker
+
+than in the summer, although they had recovered from the petrol crisis-induced fall in September; and
+
+the CBI Distributive Trades and British Retail Consortium surveys were weaker. In addition, the
+
+Committee projected that unemployment would soon stop falling, which could affect confidence. In
+
+the near term, it was possible that the transport problems and floods, although localised, would affect
+
+aggregate household spending for a while and make the monthly data hard to interpret.
+
+14 Investment growth – particularly in the services sector – had been slower than for some time in Q1
+
+and Q2. Although the Q3 data were not yet available, some members thought that the outlook had
+
+become weaker over the past month or so. On the one hand, equity prices had not risen much in recent
+
+months, the market for initial public offerings was currently more difficult, and credit conditions had
+
+recently tightened somewhat as measured by the spread of corporate bond yields over swap rates
+
+(although by less than in the United States). On the other hand, corporate sector borrowing remained
+
+strong, as did surveys of service sector investment intentions. On balance, the Committee decided to
+
+incorporate into its central projections a slightly lower profile for investment growth than in August.
+
+15 The Treasury representative updated the Committee on the Government’s Pre-Budget Report,
+
+which was published during the Committee’s Wednesday afternoon session. Nothing material to the
+
+Committee’s projections had changed since the Committee had been briefed the previous week.
+
+Higher planned spending was financed by higher-than-previously-expected revenue, and there was
+
+
+-----
+
+imply a higher effective tax rate than in the past. The changes to fuel duties would temporarily reduce
+
+inflation, other things being equal, in the short term. The various measures on which the Government
+
+was consulting were, by convention, not taken into account in the projections because they were not
+
+yet definite. It was noted that if implemented they too would temporarily reduce measured inflation
+
+slightly, although there would be some partly offsetting demand effects to take into account.
+
+**Labour market conditions**
+
+16 Employment had risen by around 80,000 in the three months to August compared with the
+
+previous three months; part-time work rose slightly more than this, and full-time employment fell
+
+slightly. Average hours worked had also risen. Unemployment had fallen by around 100,000, largely
+
+accounted for by a fall in the short-term unemployed. Vacancies had risen, and the British Chambers
+
+of Commerce, Recruitment and Employment Confederation and CBI surveys were all suggesting
+
+increasing recruitment difficulties and skill shortages, as were contacts of the Bank’s regional Agents.
+
+17 The continued tightening in the labour market had not, though, been reflected in headline (three
+month moving average) earnings growth, which had remained at 3.9%, much lower than earlier in the
+
+year and below the Committee’s August projection. The key components had, however, been volatile.
+
+The twelve-month rate of private sector earnings growth had risen from 3.9% in July to 4.3% in
+
+August. Private sector services earnings growth had increased by one percentage point to 4.7%, in part
+
+reflecting a smaller negative contribution from bonuses than in recent months. The whole economy
+
+measure of growth in regular pay (ie excluding bonuses, and not seasonally adjusted) had eased
+
+slightly from around 4.4% in Q2 to a revised 4.2% in July and 4.3% in August; manufacturing had
+
+fallen by 0.8 percentage points to 3.6% but private services had risen by 0.7 percentage points to 4.9%.
+
+The twelve-month average of settlements had remained at 3.0% in September.
+
+18 Given their month-to-month volatility, there was not much evidence in these data of accumulating
+
+labour cost pressures. Staff analysis of the 2000 New Earnings Survey suggested that earnings growth
+
+in the year to April 2000 was broadly in line with the Average Earnings Index figure for the same
+
+period. While the Bank’s regional Agents were reporting increased concerns amongst their contacts
+
+about the coming pay round, some members pointed to the recent Pay Prospects survey produced by
+
+Industrial Relations Services, which suggested that the median settlement in the next pay round was
+
+
+-----
+
+expected to remain at 3% and that the mean pay settlement was expected to edge up only modestly
+
+from 3.1% to 3.4%.
+
+19 One possible explanation for the benign earnings outturns, for which there was anecdotal
+
+evidence, was that companies were not bidding up wages to attract workers, on the grounds that they
+
+did not believe that they could pass on increased costs to their customers and so could not profitably
+
+increase output; instead they were choosing not to expand output to satisfy potential demand. That
+
+might be explained by intensified competition in product markets and a more stable monetary
+
+environment. If this were the explanation, it could not be guaranteed to persist. In the view of some
+
+members, it represented suppressed inflation.
+
+20 An alternative possible explanation also placed weight on intensified competition in product
+
+markets, but emphasised that it might have reduced the rate of unemployment consistent with stable
+
+inflation. More generally, it was possible that the sustainable rate of unemployment had, for a variety
+
+of reasons, improved by more than the Committee had already allowed for in its recent forecasts. A
+
+further adjustment had been made by the Committee in the latest Inflation Report projections.
+
+**Prices and costs**
+
+21 RPIX inflation had risen by 0.3 percentage points to 2.2% in September. This was not accounted
+
+for entirely by petrol prices, posing the question as to whether the increase provided news about price
+
+pressures or was simply noise. However, the provisional estimate for October, which was available to
+
+the Committee for its Thursday session, was for it to drop back. Taken at face value, this did not
+
+suggest that retail price inflation was increasing. It was likely, though, that RPIX inflation would be
+
+more volatile than usual during the next few months, reflecting commodity price changes and the
+
+unusual weather conditions.
+
+22 At its October meeting the Committee had noted the rise in inflation expectations between the
+
+second and third quarters suggested by the Basix survey of the general public and trade unions. More
+
+recent data from the series would not be available until the Committee’s January meeting. But it was
+
+noted that the GfK survey measure of consumer confidence, which contained some information on
+
+inflation expectations, had fallen back in October, lending support to the view that the sharp rise in
+
+
+-----
+
+**The November GDP growth and inflation projections**
+
+23 The Committee agreed the projections to be published in the Inflation Report on Thursday
+
+16 November.
+
+24 On the assumption of an official repo rate of 6% over the next two years, the central projection
+
+was for GDP growth to slow to around 2½% by early next year and to remain at about that rate. On
+
+the central projection, RPIX inflation rose gradually to around target at the two-year horizon, when it
+
+was still rising gently.
+
+25 As in previous forecasts, there was a range of views about the most likely outlook for inflation,
+
+but views were closer than in recent quarters. The effects of the main differences in assumptions about
+
+the supply-side performance of the economy and the outlook for earnings were presented in Table 6.B
+
+of the November Inflation Report.
+
+26 The Committee agreed that the uncertainty surrounding the central projections had risen since
+
+August, reflecting increased uncertainty about the world economic outlook, oil prices, the pace at
+
+which private sector demand was decelerating, and supply-side developments, including earnings
+
+growth. The balance of risks to output growth was judged to be slightly on the downside, reflecting
+
+the risks to world economic activity. The risks to inflation were broadly balanced.
+
+**The immediate policy decision**
+
+27 Taken as a whole, the recent news confirmed the picture of a slowing economy, and was regarded
+
+as broadly consistent with both the August and the November projections. During the forecast period,
+
+output was projected to grow in line with the economy’s productive capacity, and inflation was
+
+projected as most likely to lie in a narrow range around the 2½% target.  The outlook judged most
+
+likely was, therefore, very favourable.  Members agreed that the central projection was consistent with
+
+maintaining the repo rate at 6%.
+
+28 The outlook was, though, more uncertain than in recent quarters, and members varied in the
+
+weight they placed on particular risks around the best collective projection.
+
+
+-----
+
+29 Upside risks to inflation from the labour market were stressed by a number of members. Skill
+
+shortages were high and apparently rising. Recruitment intentions, as measured in surveys, remained
+
+strong. If they were realised, total hours worked might continue to grow at the recent rate of around
+
+0.8% per year. In that case, if hourly productivity were to grow in a range of, say, 2.0% to 2.5%,
+
+output growth in a range of 2¾ % to 3¼ % (or around ¾% per quarter) would be implied. In fact, the
+
+central projection was for growth to slow and for unemployment to begin rising soon, so those would
+
+be crucial indicators going forward, as would be the coming round of pay settlements. A second key
+
+upside risk to inflation was the possibility of sterling’s exchange rate falling by more than assumed in
+
+the central projection. These two risks were not independent. Sterling’s appreciation over the past few
+
+years had increased households’ spending power and so had helped to dampen pay pressures. A
+
+depreciating exchange rate would, conversely, tend to intensify pay pressures. To the extent that
+
+productivity growth increased, that would help to offset any such pressures, but there was a risk that,
+
+as in the past, cost pressures would eventually feed through into higher prices.  A third upside risk was
+
+that private sector final demand would not slow as sharply or as soon as assumed in the central
+
+projection, although it was possible that the effects on aggregate demand could be offset by a larger
+than-expected negative contribution from net trade.
+
+30 On the downside, members generally thought it possible that the international outlook could prove
+
+weaker than currently expected, given tighter credit conditions, the apparent slowdown in investment
+
+in the US, and fragility amongst some emerging market economies. Domestically, some members
+
+thought that the supply-side performance of the economy might prove to be better than assumed, either
+
+because the recent earnings figures suggested that the rate of unemployment consistent with stable
+
+inflation was lower than assumed or because the recent improvement in hourly productivity growth
+
+might be sustained. Some members pointed to the possibility that GDP growth might have been
+
+increasingly understated in recent years because of the possible mis-measurement of the ICT sector.
+
+This might have had the effect, in their view, of imparting an upward bias to the inflation forecast. In
+
+addition, fiscal policy could turn out tighter than planned, given the higher-than-expected tax yield and
+
+the possibility of continued underspending by Departments. The fiscal measures on which the
+
+Government was consulting would, if and when implemented, temporarily reduce inflation. On one
+
+view, a more rapid slowdown in output growth was implied by various leading indicators and by a
+
+measure of monetary conditions that incorporated the continued effect of the rise of the exchange rate
+
+in recent years. With the economy at (or perhaps past) a turning point in the growth cycle, it was
+
+
+-----
+
+household expectations and business confidence, which sometimes occurred rather sharply at such
+
+junctures. In particular, investment, in the UK and elsewhere, could fall sharply if demand –
+
+particularly for ‘high-tech’ products – grew less strongly than had been expected. A repo rate of 6%
+
+probably remained slightly contractionary. That was appropriate for the moment but the downside
+
+risks needed to be watched carefully.
+
+31 The Governor invited members to vote on the proposition that the Bank’s repo rate be maintained
+
+at 6.0%. The Committee voted unanimously in favour of the proposition.
+
+The following members of the Committee were present:
+
+Eddie George, Governor
+Mervyn King, Deputy Governor responsible for monetary policy
+David Clementi, Deputy Governor responsible for financial stability
+Christopher Allsopp
+Charles Bean
+DeAnne Julius
+Stephen Nickell
+Ian Plenderleith
+Sushil Wadhwani
+
+Gus O’Donnell was present as the Treasury representative.
+
+
+-----
+
+**ANNEX: SUMMARY OF DATA PRESENTED BY BANK STAFF**
+
+A1 This Annex summarises the analysis presented by Bank staff to the Monetary Policy Committee
+
+on 3 November in advance of its meeting on 8-9 November 2000. At the start of the Committee
+
+meeting itself, members were made aware of information that had subsequently become available, and
+
+that information is included in this Annex.
+
+**I** **The international environment**
+
+A2 Based on the advance estimate, US GDP in Q3 had risen by 0.7% compared with the previous
+
+quarter, with quarterly consumption growth picking up to 1.1%.  Investment growth had slowed, and
+
+the level of government spending had fallen, following strong growth in both components in Q2.
+
+Investment growth in information technology (IT) equipment had slowed, but investment in residential
+
+and non-IT equipment had also contributed to the slower overall rate. Consumer confidence had fallen
+
+sharply in October, possibly reflecting the pattern of US equity prices (volatility in equity prices had
+
+increased − particularly in the technology-based NASDAQ index − and the Wilshire 5000 index, a
+
+broad measure of equity prices, had been around 6% lower on average in October compared with the
+
+previous month). However, new home sales had risen sharply in September, and mortgage rates had
+
+fallen, improving the outlook for the housing market. There had been evidence that credit conditions
+
+for corporate borrowers had tightened, both for bank lending and in the bond market. Productivity had
+
+risen in Q3 by 0.9% compared with the previous quarter, a lower growth rate than in Q2, but the annual
+
+rate had remained at historically high levels. Employment growth had eased further in October, but the
+
+unemployment rate had remained at 3.9%.
+
+A3 In the euro area, quarterly GDP growth in Q2 had been revised down from 0.9% to 0.8%.
+
+Industrial production had slowed in July and August, although business confidence remained high. In
+
+contrast, slowing retail sales had been coupled with a fall in consumer confidence in September;
+
+consumer confidence had been unchanged in October. The unemployment rate in the euro area had
+
+fallen from 9.1% to 9.0% in September. In Germany, the IFO index had fallen to 98.0 in September
+
+from 98.9 in August. Manufacturing orders in Germany had been 4.5% lower in September, following
+
+a 2.1% rise in August. The growth in orders had been consistently above industrial production for more
+
+
+-----
+
+expenditure had appeared to slow in Q3 on the basis of July and August data, but employment growth
+
+and consumer confidence had remained robust.
+
+A4 In Japan, industrial production had declined sharply in September, but overall quarterly growth
+
+in Q3 had been stronger, at 1.6%, than in the previous quarter. The tertiary activity index had risen by
+
+1.1% in August. Strong growth in private machinery orders in August (up 24.3% on a year ago) had
+
+pointed to a recovery in private fixed investment in Q3. In the household sector, nominal wages had
+
+been 0.9% higher than a year ago in September, but retail sales values had declined by 1.7% over the
+
+same period.
+
+A5 The Brent crude spot oil price had risen by over $1 per barrel since the previous meeting, to
+
+more than $31 per barrel. Options contracts suggested that the probability of the oil price rising further
+
+had increased earlier in the month, but had since returned to a level similar to that at the October
+
+meeting. Industrial commodity prices had risen on the month.
+
+A6 Higher oil prices had contributed to increases in headline CPI measures in both the United States
+
+and the euro area. Excluding energy prices and food, the core inflation rate in the United States had
+
+fallen to 2.5% in September, whereas the euro-area rate had risen to 1.4%. The headline HICP inflation
+
+rate in the euro area had risen to 2.8% in September from 2.3% in August. The German CPI data for
+
+October had showed the headline annual rate falling from 2.5% to 2.3%, suggesting that euro-area
+
+inflation may have eased in October. However, rising German import prices in September and higher
+
+euro-area producer price inflation in August and September had pointed to inflationary pressures in the
+
+pipeline.
+
+A7 Wage pressures in the United States had stabilised in Q3 with the Employment Cost Index
+
+growing by 0.9%.
+
+A8 Market expectations of US official interest rates had eased during the month, with a reduction
+
+early in 2001 now implied. In the euro area, market expectations had been stronger, with the expected
+
+further 25 basis point increase in rates brought forward into 2000.
+
+A9 In the emerging market economies, credit conditions had tightened during the month. Bond
+
+
+-----
+
+production in Asia had been 16.1% higher in September than a year ago. However, the strength of
+
+several of the larger Asian economies had been accounted for by net trade, leading to a downside risk if
+
+the United States, one of their larger export markets, were to slow substantially.
+
+**II** **Monetary and financial conditions**
+
+A10 The twelve-month growth rate of notes and coin had fallen back in October, from 8.8% to 8.0%.
+
+The fall was thought largely to reflect the impact of the petrol supply disruption, which had led banks to
+
+build up, and then unwind, precautionary cash holdings in September. Underlying narrow money
+
+growth had clearly picked up since the summer.
+
+A11 The twelve-month growth rate of M4 had risen to 9.1% in September. Excluding OFCs, twelve
+month growth had picked up to 7.7%. M4 lending excluding securitisations had also strengthened in
+
+September to a twelve-month growth rate of 13.3%; excluding OFCs, M4 lending growth had picked up
+
+to 11.9%.
+
+A12 The twelve-month growth rate of households’ M4 had increased to 6.3%.  Much of the pick-up
+
+had occurred in interest-bearing time deposits, which have a lower weighting in households’ Divisia
+
+than in households’ M4. As a result, the pick-up in the Divisia measure had been more subdued: the
+
+twelve-month growth rate had risen to 5.7%. Growth in households’ M4 lending excluding
+
+securitisations had eased to 9.9% in September.
+
+A13 The twelve-month growth rate of PNFC’s deposits had fallen back to 13.6% in September, as
+
+some of August’s special factors unwound, but was still exceptionally strong. The twelve-month
+
+growth rate of M4 lending to PNFCs excluding securitisations had picked up to 17.5% in September.
+
+Little of this strength had reflected borrowing by telecommunications companies, which appeared to
+
+have borrowed primarily through issuing securities in the market.
+
+A14 The twelve-month growth rates of OFCs’ M4 and M4 lending (excluding securitisations) had
+
+picked up to 14.0% and 18.2% respectively in September. The industrial breakdown of OFCs’ deposits
+
+had suggested that institutional investors had been making a strong positive contribution to growth this
+
+year, although, up to Q2, insurance companies and pension funds’ (ICPFs) holdings of money as a share
+
+
+-----
+
+of financial assets had remained below the 1990s average. So it was unlikely that the recent strength in
+
+ICPFs’ deposits had wider implications for asset prices.
+
+A15 Nominal interest rates had fallen significantly, particularly at shorter maturities. This had been
+
+consistent with the emergence of a market view that rates were at their peak.  Longer-term nominal
+
+interest rates had also fallen on the month. Corporate bond rates had changed little on the month,
+
+implying a rise in spreads over swap rates.  Corporate bond issuance had fallen back in October,
+
+following a strong September when demand and issuance may have been boosted by speculation about
+
+changes to the Minimum Funding Requirement.
+
+A16 Quoted retail rates data had indicated a fall in two-year fixed secured rates in October, and to a
+
+lesser extent in two-year discounted variable rates. But unsecured rates, particularly on personal loans,
+
+had picked up on the month. Since the last repo rate change in February, swap rates had eased
+
+significantly, which had facilitated lower rates on fixed-rate loans.  Even so, there had been anecdotal
+
+evidence of a substantial shift by borrowers towards discounted and variable rates and away from fixed
+rate borrowing.
+
+A17 Survey-based measures of inflation expectations had changed little on the month. Inflation
+
+expectations derived from index-linked gilts had fallen slightly.
+
+A18 The FTSE All-Share index had risen by around 2.1% since the October MPC meeting. Over the
+
+month, UK equity price movements had been rather volatile, a pattern that had been observed in other
+
+international equity markets.
+
+A19 The sterling effective exchange rate index had depreciated by 0.9% to 107.0 since the October
+
+MPC meeting to a level 1.0% above the August Inflation Report central forecast. Over the month,
+
+sterling had weakened against the dollar and the yen, but appreciated against the euro. Consensus long
+term forecasts of the sterling-dollar and sterling-euro exchange rates had both risen since June’s survey.
+
+**III** **Demand and output**
+
+A20 The Office for National Statistics’ preliminary estimate of GDP growth in 2000 Q3 had shown
+
+
+-----
+
+higher than a year earlier. Within services, the distribution, hotels and catering sector had grown by
+
+0.7%. Industrial production had grown by 0.6% in Q3, and manufacturing output had grown by 0.6% in
+
+the same period.
+
+A21 The total deficit on trade in goods and services had narrowed in August to £1.4 billion from £2.1
+
+billion. In the three months to August, total goods export volumes had grown by 2.5%, and total goods
+
+import volumes by 3.4%. Total non-EU goods export volumes had fallen by 3.3% in September, and
+
+total non-EU goods import volumes had risen by 0.7%.
+
+A22 Retail sales had grown by 0.6% in September and by 1.3% in Q3. The retail sales balance in the
+
+Confederation of British Industry (CBI) survey of distributive trades had fallen to zero in October from
+
++14 in September. The British Retail Consortium (BRC) had recorded a decline in annual growth of
+
+total sales values to 4.1% in October from 5.4% in September. Conversely, the GfK consumer
+
+confidence index had risen to +0.5 in October from -4.8 in September. The MORI index had increased
+
+to -13 in October, from -17 in September.
+
+A23 The Nationwide house price index had risen by 0.9% in October and was flat in the three months
+
+to October compared with the three months to July. The Halifax index had fallen by 0.4% on the month
+
+in October but had risen by 1.9% on a three-month basis. The House Builders’ Federation (HBF) house
+
+price survey had been virtually unchanged in September at +13. HBF net reservations had risen to -20
+
+in September, from -24 in August. Particulars delivered fell to 112,000 in September, the lowest level
+
+since December 1998.
+
+A24 Public sector net borrowing in September had been -£0.1 billion, compared with -£0.6 billion in
+
+September 1999. Net borrowing had been -£4.2 billion in the financial year to September, compared
+
+with £1.6 billion in the same period last year.
+
+A25 Survey evidence on stocks in Q3 had been mixed. The October CBI industrial trends survey had
+
+indicated rising stocks balances, as had the CBI distributive trades survey in Q3. However, the
+
+Chartered Institute of Purchasing and Supply (CIPS) manufacturing survey had indicated a fall in stocks
+
+in Q3.
+
+
+-----
+
+A26 Survey data on services output were somewhat weaker. Although the CIPS services activity
+
+index had risen in October, the British Chambers of Commerce (BCC) survey had reported a fall in
+
+orders to the service sector, and the Dun & Bradstreet and Institute of Directors surveys had pointed to
+
+weaker sales and optimism. BCC survey data for the service sector had shown that the balance of
+
+investment intentions remained unchanged at +21 in Q3.
+
+A27 The CIPS and BCC surveys had shown a rise in manufacturing orders in Q3.  However, the CBI
+
+survey had shown a fall. Other surveys, such as those by Dun & Bradstreet and the Institute of
+
+Directors, had suggested slowing manufacturing activity in Q4. Both the BCC and the CBI quarterly
+
+surveys had shown a pick-up in manufacturing investment intentions in Q3. The BCC survey had
+
+reported that the balance of investment intentions in manufacturing had increased to +16 in Q3 from
+
++12 in Q2. The October CBI survey had reported a balance of -18, up from -21 in July.
+
+**IV** **Labour market**
+
+A28 Labour Force Survey (LFS) employment had grown by 80,000 (0.3%) in June to August
+
+compared with the previous three months. This growth had been more than accounted for by growth in
+
+part-time employment (up by 91,000). This had increased the part-time share by 0.3 percentage points,
+
+to 25.1%.
+
+A29 The CIPS survey had indicated further expansion in construction and services employment in
+
+October, while reductions in manufacturing employment had still outnumbered increases. Measures of
+
+employment intentions from the Q3 BCC and CBI (Industrial Trends) surveys had suggested steady
+
+employment growth in the coming months, with employment intentions in services in particular
+
+remaining strong.
+
+A30 Average hours had risen by 0.3% from June to August compared with the previous three months
+
+(but were 0.6% down on a year earlier). Average full-time hours had increased by 0.5% while average
+
+part-time hours had fallen by 0.3%. Total hours worked had increased by 0.7% in June to August
+
+compared to the previous three months.
+
+A31 LFS-measured unemployment had fallen by 100,000 in June to August, to 5.3% (down 0.3
+
+
+-----
+
+short-term unemployment (down 90,000). Claimant unemployment had fallen by 58,200 over the three
+
+months to August, and by a further 16,400 in September. The working age inactivity rate in the three
+
+months to August had been 21.0%, up 0.1 percentage points from March to May.
+
+A32 Turning to surveys of labour shortages and recruitment difficulties, the BCC survey for Q3 had
+
+shown that recruitment difficulties had again picked up and the Recruitment and Employment
+
+Confederation (REC) had reported a continued intensification of shortages of agency staff in October.
+
+Shortages of skilled labour in manufacturing had worsened over the past year and in Q3 had returned to
+
+levels last seen in 1997, according to the CBI survey. Shortages of unskilled labour in manufacturing
+
+had remained subdued.
+
+A33 The Bank’s regional Agents had conducted a survey of 188 employers on recruitment difficulties
+
+and staff turnover. Only 28% of respondents had reported that recruitment difficulties were no greater
+
+this year than last year, and many of these explained that recruitment had been problematic for more
+
+than a year. Only 3% of firms had expected any improvement in the recruiting situation over the next
+
+six months. Staff turnover had been stable over the past year for nearly 50% of respondents, but 40% of
+
+firms had reported that turnover had increased.
+
+A34 Headline annual earnings growth, as measured by the Average Earnings Index (AEI), had been
+
+unchanged at 3.9% in August. Headline earnings growth in manufacturing had fallen by 0.4 percentage
+
+points to 4.2%, while private services headline earnings growth had increased by 0.3 percentage points
+
+to 3.9%. Actual whole-economy earnings growth in the year to August 2000 had risen by 0.3
+
+percentage points above that in the year to July, to 4.1%. The sharpest increase had been in private
+
+services, up 1.0 percentage point to 4.7%, but this series had been volatile with little apparent trend in
+
+recent months. In manufacturing, there had been a marked slowdown in the pace of earnings growth
+
+since June. The recent pattern of bonus contributions had mainly reflected those paid in private
+
+services. Bonuses had made only a small negative contribution of 0.2 percentage points (not seasonally
+
+adjusted) in August, substantially smaller than in the previous few months.
+
+A35 Results for the 2000 New Earnings Survey (NES) had suggested that earnings of those included
+
+in this PAYE-based sample had grown by 2.0% in the year to April 2000, well below the figure of 4.6%
+
+annual earnings growth recorded by the AEI for the same period. However, the NES survey did not
+
+
+-----
+
+have a fixed population and the proportion of manual workers in the 2000 sample had not matched that
+
+in the previous year’s survey.
+
+A36 Little new data on pay settlements had become available in September, because only a small
+
+fraction of companies normally reached settlements in the month. The Bank’s twelve-month AEI
+weighted mean had been unchanged at 3.0% in September. Public and private sector means had also
+
+been unchanged.
+
+**V** **Prices and costs**
+
+A37 The Bank’s oil-inclusive commodity price index had risen by 5.8% in September, the largest
+
+monthly rise since May. This had raised the annual inflation rate from 16.8% to 21.7%. The monthly
+
+increase had reflected significant rises in the prices of all components of the index except domestic
+
+food. The fuels component of the index had risen by 9.7%, largely accounted for by the rise of around
+
+12% (in sterling terms) in the average price of oil in September. The oil price had since fallen back by
+
+around 4% (in sterling terms) in October. The Bank’s oil-exclusive commodity price index had risen by
+
+2.3% in September, and by 8.8% over the past year, the highest annual growth rate since April 1995.
+
+A38 Manufacturing input prices had risen by 2.8% in September, taking the annual inflation rate
+
+from 11.9% in August to 14.3%, its highest since June. On a quarterly basis, this meant that
+
+manufacturing input prices had risen by 4.6% in 2000 Q3, the largest rise since the start of the series in
+
+1987. The large monthly rise had mainly reflected the sharp increase in the price of oil in September.
+
+There had also been rises in the prices of metals and of imported food. Input prices excluding food,
+
+drink, tobacco and petroleum had risen by 0.5% in September, taking the annual rate of inflation to
+
+4.3%, the highest since November 1995. The CIPS manufacturing survey input price index had fallen
+
+from 56.2 in September to 55.5 in October, the lowest since September 1999. Output prices excluding
+
+excise duties (PPIY) had risen by 0.2% in September, leaving the annual inflation rate unchanged at
+
+1.7%. October’s CBI Quarterly Industrial Trends survey output price balance had risen to -12 from -15
+
+in the previous quarter.
+
+A39 RPIX inflation had risen to 2.2% in September, up from 1.9% in the previous month. This had
+
+largely reflected higher contributions from petrol prices and household goods prices. RPI inflation had
+
+
+-----
+
+risen from 3.0% to 3.3% in September.  RPIY inflation had risen to 2.0% in September, up from 1.5%
+
+in the previous month, while HICP inflation had increased from 0.6% to 1.0% over the same period.
+
+**VI** **Reports by the Bank’s Agents**
+
+A40 The Agents reported that manufacturing output growth had recently picked up further. The pick
+up had been mostly accounted for by continued improvements in export demand, but domestic orders
+
+had also strengthened more recently in some regions. However, many contacts (particularly in
+
+traditional manufacturing sectors) had remained concerned about margin pressure as a result of overseas
+
+competition, particularly from continental Europe. Reflecting these concerns, investment intentions in
+
+the sector had continued to deteriorate in most regions – there had been increased reports of project
+
+deferrals.
+
+A41 Service sector growth had recently eased slightly overall, as consumer services activity
+
+continued to slow. Although some Agents had noted a recovery in tourism-related activity late in the
+
+summer, this had been more than offset by the negative impact of the petrol disruption in mid
+September – business that was unlikely to be recouped. Most areas of business services had continued
+
+to record strong growth.
+
+A42 There had been evidence of a further slowing in residential construction growth (mostly in the
+
+southern regions) in recent months. Offsetting this, growth in commercial and public construction
+
+appeared to have strengthened.
+
+A43 The Agents suggested that there had been little change in underlying retail sales growth recently.
+
+Despite announcements of price cuts by several manufacturers in recent months, there had been little
+
+pick-up in new car sales, even during the new registration period.
+
+A44 Input price inflation had picked up further recently according to the Agents.  Contacts continued
+
+to cite industrial gas and oil-related products as recording the most significant price increases. In
+
+particular, many firms had noticed the impact of these increases through fuel surcharges on transport
+
+and distribution costs. There had also been early reports of higher import prices from dollar
+denominated markets as a result of the depreciation of the sterling. These cost increases had remained
+
+
+-----
+
+difficult to pass through to output prices. However, many contacts had suggested that continued
+
+productivity improvements had helped to ease margin pressure in some cases.
+
+A45 After remaining broadly stable since the beginning of the year, the Agents suggested that skill
+
+shortages had intensified recently. There had been evidence that shortages had spread out from the
+
+southern regions to many other areas of the country. In addition, while in earlier periods the shortages
+
+had been limited to specific professional skills, there had been signs that shortages of semi-skilled and
+
+unskilled workers (eg cleaning staff) had also increased.
+
+**VII** **Market intelligence**
+
+A46 Since the October MPC meeting, interest rates implied by short sterling futures and two-week
+
+gilt forward curves had fallen by 20 basis points. Although the degree of uncertainty about the level of
+
+future short-term interest rates implied by options remained at low levels, the expected skew had
+
+become increasingly negative and was now at a level not seen during the past four years. Market
+
+contacts had suggested that some participants were beginning to believe that rates had peaked. Such a
+
+view had been reinforced by the most recent Reuters poll of private sector economists, in which none
+
+had a central expectation of a rise in official interest rates at the November MPC meeting.
+
+A47 Although the sterling trade-weighted exchange rate had ended the month a little lower than at the
+
+time of the last MPC meeting, during the period it had averaged around 110, above the August Inflation
+
+_Report forecast of 106. Some market participants had suggested that, earlier in the month, sterling had_
+
+benefited from some ‘safe haven’ flows during the month, when uncertainty about the situation in the
+
+Middle East was at its height. Implied correlations derived from one-month foreign exchange options
+
+showed that the market increasingly expected sterling to move together with the euro against the dollar.
+
+That said, the implied correlation between sterling and the dollar had remained high.
+
+A48 During the month, the euro had reached record lows against both the dollar and yen, before
+
+recovering following the release of US GDP for Q3. These exchange rate movements were difficult to
+
+explain solely by reference to changes in interest rates. The ECB had bought euros on both 3 and 6
+
+November. Expected volatility, derived from one-month foreign exchange options, had remained close
+
+to historical highs for the euro-dollar exchange rate, while one-month risk reversals had recently shown
+
+
+-----
+
+was consistent with market participants expecting greater two-way risk in the euro-dollar exchange rate.
+
+Market contacts had noted that capital had continued to flow out from the euro area, although some
+
+indicators had tentatively suggested that those flows might be slowing.
+
+
+-----
+

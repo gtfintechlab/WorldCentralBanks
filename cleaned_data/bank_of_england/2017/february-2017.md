@@ -1,0 +1,773 @@
+# Monetary Policy Summary and minutes of the Monetary
+
+ Policy Committee meeting ending on 1 February 2017
+
+## Publication date: 2 February 2017
+
+These are the minutes of the Monetary Policy Committee meeting ending on 1 February 2017.
+
+They are available at http://www.bankofengland.co.uk/publications/Pages/news/2017/001.aspx
+
+The Bank of England Act 1998 gives the Bank of England operational responsibility for setting monetary policy
+
+to meet the Government’s inflation target. Operational decisions are taken by the Bank’s Monetary Policy
+
+Committee. The minutes of the Committee meeting ending 15 March will be published on 16 March 2017.
+
+
+-----
+
+### Monetary Policy Summary, February 2017
+
+The Bank of England’s Monetary Policy Committee (MPC) sets monetary policy to meet the 2% inflation target,
+
+and in a way that helps to sustain growth and employment. At its meeting ending on 1 February 2017, the
+
+Committee voted unanimously to maintain Bank Rate at 0.25%. The Committee voted unanimously to continue
+
+with the programme of sterling non-financial investment-grade corporate bond purchases, financed by the
+
+issuance of central bank reserves, totalling up to £10 billion. The Committee also voted unanimously to
+
+maintain the stock of UK government bond purchases, financed by the issuance of central bank reserves, at
+
+£435 billion.
+
+As the MPC had observed at the time of the UK’s referendum on membership of the EU, the appropriate path
+
+for monetary policy depends on the evolution of demand, potential supply, the exchange rate, and therefore
+
+inflation. The Committee’s latest economic projections are contained in the February Inflation Report. The
+
+MPC has increased its central expectation for growth in 2017 to 2.0% and expects growth of 1.6% in 2018 and
+
+1.7% in 2019. The upgraded outlook over the forecast period reflects the fiscal stimulus announced in the
+
+Chancellor’s Autumn Statement, firmer momentum in global activity, higher global equity prices and more
+
+supportive credit conditions, particularly for households. Domestic demand has been stronger than expected
+
+over the past few months, and there have been relatively few signs of the slowdown in consumer spending that
+
+the Committee had anticipated following the referendum. Nevertheless, continued moderation in pay growth
+
+and higher import prices following sterling’s depreciation are likely to mean materially weaker household real
+
+income growth over the coming few years. As a consequence, real consumer spending is likely to slow.
+
+In preparing the February Report, the MPC undertook its scheduled regular assessment of aggregate supply
+side conditions. Pay growth, although edging up, has remained persistently subdued by historical standards –
+
+strikingly so in light of the decline in the rate of unemployment to below 5%. This is likely to have reflected
+
+somewhat stronger labour supply than previously assumed and, therefore, the presence of a greater margin of
+
+slack in the labour market, restraining wage increases. This updated assessment means that the stronger path
+
+for demand in the February projection is roughly matched by higher supply capacity. Combined with the 3%
+
+appreciation of sterling and a somewhat higher yield curve over the past three months, that results in a
+
+projected path of inflation that is similar to the one expected in November, despite the stronger growth outlook.
+
+The value of sterling remains 18% below its peak in November 2015, reflecting investors’ perceptions that a
+
+lower real exchange rate will be required following the UK’s withdrawal from the EU. Over the next few years, a
+
+consequence of weaker sterling is that the higher imported costs resulting from it will boost consumer prices and
+
+cause inflation to overshoot the 2% target. This effect is already becoming evident in the data. CPI inflation
+
+rose to 1.6% in December and further substantial increases are very likely over the coming months. In the
+
+central projection, conditioned on market yields that are somewhat higher than in November, inflation is
+
+expected to increase to 2.8% in the first half of 2018, before falling back gradually to 2.4% in three years’ time.
+
+Inflation is judged likely to return to close to the target over the subsequent year. Measures of inflation
+
+
+-----
+
+compensation derived from financial markets have stabilised at around average historical levels, having
+
+increased during late 2016 as concerns about a period of unusually low inflation faded.
+
+Monetary policy cannot prevent either the real adjustment that is necessary as the UK moves towards its new
+
+international trading arrangements or the weaker real income growth that is likely to accompany it over the next
+
+few years. Attempting to offset fully the effect of weaker sterling on inflation would be achievable only at the
+
+cost of higher unemployment and, in all likelihood, even weaker income growth. For this reason, the MPC’s
+
+remit specifies that in such exceptional circumstances the Committee must balance the trade-off between the
+
+speed with which it intends to return inflation to the target and the support that monetary policy provides to jobs
+
+and activity. At its February meeting, the MPC continued to judge that it remained appropriate to seek to return
+
+inflation to the target over a somewhat longer period than usual, and that the current stance of monetary policy
+
+remained appropriate to balance the demands of the Committee’s remit.
+
+As the Committee has previously noted, however, there are limits to the extent that above-target inflation can be
+
+tolerated. The continuing suitability of the current policy stance depends on the trade-off between above-target
+
+inflation and slack in the economy. The projections described in the Inflation Report depend in good part on
+
+three main judgements: that the lower level of sterling continues to boost consumer prices broadly as expected,
+
+and without adverse consequences for expectations of inflation further ahead; that regular pay growth does
+
+indeed remain modest, consistent with the Committee’s updated assessment of the remaining degree of slack in
+
+the labour market; and that the hitherto resilient rates of household spending growth slow as real income gains
+
+weaken. In judging the appropriate policy stance, the Committee will be monitoring closely the incoming
+
+evidence regarding these and other factors. For instance, if spending growth slows more abruptly than
+
+expected, there is scope for monetary policy to be loosened. If, on the other hand, pay growth picks up by more
+
+than anticipated, monetary policy may need to be tightened to a greater degree than the gently rising path
+
+implied by market yields. Monetary policy can respond, in either direction, to changes to the economic outlook
+
+as they unfold to ensure a sustainable return of inflation to the 2% target.
+
+
+-----
+
+### Minutes of the Monetary Policy Committee meeting ending on 1 February 2017
+
+1 Before turning to its immediate policy decision, and against the backdrop of its latest projections for output
+
+and inflation, the Committee discussed financial market developments; the international economy; money,
+
+credit, demand and output; and supply, costs and prices.
+
+**Financial markets**
+
+2 The period since the November Inflation Report had seen a generalised rise in equity prices, lower
+
+corporate bond spreads and pronounced increases in government bond yields. In the period since the
+
+Committee’s December meeting, however, there had been no strong patterns in international asset price
+
+movements. The US dollar and long-term US interest rates had retraced some of the increases that had
+
+followed the US election. Overall, long-term interest rates in the United States, United Kingdom and Germany
+
+had been little changed. Short-term interest rates had risen across the three economies. Equity prices in the
+
+United States, the euro area and the United Kingdom had risen somewhat, while corporate bond spreads had
+
+been broadly unchanged, as had been the dollar price of oil.
+
+3 The sterling Exchange Rate Index had again been sensitive to shifting perceptions of the likely terms on
+
+which the United Kingdom would withdraw from the European Union. Sterling had fallen by 1.8% since the
+
+Committee’s previous meeting, although the conditioning path used in the February Inflation Report was still
+
+around 3% higher than it had been at the time of the November Report. For much of the period since the
+
+November Report it had appeared that sterling money market rates had been relatively insensitive to economic
+
+data releases. Market intelligence had suggested that investors considered the outlook for the UK’s exit from
+
+the EU to be a more important driver of monetary policy than short-term movements in activity. In the days
+
+running up to this MPC meeting, however, short-term sterling interest rates had risen. Measures of inflation
+
+compensation had been stable, providing some reassurance that the increases seen during late 2016 reflected
+
+reduced concerns about an extended period of unusually low inflation rather than an emerging expectation of a
+
+lengthy period of high inflation.
+
+**The international economy**
+
+4 Since the Committee’s previous meeting, there had been further signs that near-term global growth
+
+momentum had strengthened. Combined with the increases in commodity prices seen in recent months, this
+
+had started to translate into higher inflation in some countries, and market-implied inflation expectations had
+
+risen in the United States and the euro area, although they remained at relatively low levels by historical
+
+standards.
+
+5 In the United States, the advance estimate for GDP growth in 2016 Q4 had been 0.5%. This was weaker
+
+than growth in the third quarter, which had been revised up again, to 0.9%. But growth in Q3 had been boosted
+
+by an erratically strong contribution from exports, and the underlying momentum appeared robust. Looking
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 1 February 2017** 1
+
+
+-----
+
+ahead, the outlook for growth would crucially depend on the size and composition of any fiscal stimulus package
+
+and on the policies of the new administration more broadly. The US economy looked to have been operating
+
+with little slack, with the unemployment rate below the FOMC’s median estimate of the equilibrium rate. Twelve
+month headline PCE inflation had picked up to 1.5% in Q4, from 1.0% in Q3, although core PCE inflation had
+
+been unchanged at 1.7%.
+
+6 In the euro area, GDP growth had been 0.5% in 2016 Q4, up from 0.4% in the previous quarter. High
+frequency indicators had also pointed to stronger, broad-based momentum in the near term, leading Bank staff
+
+to revise up their expectation for growth in 2017 Q1, to 0.5%. Inflation had also picked up: headline HICP
+
+inflation had risen to 1.8% in January, up from 1.1% in December, and, although that had largely reflected a
+
+lessening drag from past falls in oil prices, core inflation had also edged higher in recent months, reaching 0.9%.
+
+Nevertheless, considerable slack remained in the euro-area economy, and core inflation had remained
+
+subdued. Against this background, the ECB Governing Council had left policy unchanged, in line with
+
+expectations.
+
+7 The official estimate of Q4 GDP growth in China had been 1.7%, such that growth for the calendar year
+
+2016 had been 6.7%, comfortably within the authorities’ growth target range of 6.5% to 7%. The renminbi had
+
+been little changed against the US dollar for the past couple of months, although there had been a further fall in
+
+foreign exchange reserves in December, albeit at a modest pace, suggesting continued capital outflows.
+
+Although domestic credit growth had remained buoyant, financial conditions had tightened somewhat across a
+
+range of metrics, and house price inflation had eased marginally following a tightening of macroprudential
+
+measures in October.
+
+8 The picture in other emerging market economies had been mixed. Capital inflows to non-China emerging
+
+markets had resumed in January, after the considerable market volatility and capital outflows following the
+
+US election. Surveys had suggested a deteriorating near-term outlook for both services and manufacturing
+
+across several major emerging markets, most notably in India and Mexico, while rising commodity prices had
+
+provided some support to commodity exporters.
+
+**Money, credit, demand and output**
+
+9 The domestic economy had continued to grow steadily and at a solid pace, displaying greater momentum
+
+than the Committee had expected. The preliminary estimate of GDP growth for 2016 Q4 had been 0.6%, the
+
+same rate of growth as had been registered in the previous two quarters, and 0.2 percentage points higher than
+
+expected at the time of the November 2016 Inflation Report. This, together with improvements in business
+
+survey output and expectations indicators, had led Bank staff to raise their GDP growth nowcast for 2017 Q1 to
+
+0.5%, also 0.2 percentage points higher than in November. The Committee noted that retail sales were
+
+estimated to have fallen by nearly 2% in December, the weakest monthly growth rate since April 2012, and that
+
+this could be a sign that household demand was softening, perhaps in response to rising inflation. However,
+
+these data tended to be volatile, and it was too soon to draw any strong conclusions.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 1 February 2017** 2
+
+
+-----
+
+10 Other demand indicators had remained solid. Housing market data had been stronger than expected:
+
+house price inflation had picked up a little in December and mortgage approvals had been a touch higher than
+
+expected in November. The latest RICS survey had pointed to continuing growth in activity and prices, albeit at
+
+a slightly slower pace. Having fallen somewhat in 2016 Q3, business investment intentions had largely
+
+stabilised at close to their historical averages in Q4. Export surveys had continued to suggest some boost
+
+following the post-EU referendum fall in sterling. Overall, there had been little evidence to indicate a material
+
+slowing in activity in the near term.
+
+11 The evolution of demand during 2017 would depend partly on how consumers responded to slowing
+
+growth in real income, given rising consumer price inflation. The Committee discussed the extent to which
+
+demand and supply conditions in consumer credit markets might affect the speed and size of any adjustment in
+
+spending. Viewed in aggregate terms, including mortgage borrowing, the household balance sheet position did
+
+not look especially stretched, at least in relation to the recent past. At 134%, the household debt to income ratio
+
+was 16 percentage points lower than its peak in 2008. Since that peak, nominal household credit growth had
+
+averaged only 2% per year, and even over the past year had been only marginally faster than growth in
+
+household income, at 4%.
+
+12 Within that, however, consumer credit growth had averaged 5.4% per year since 2012, and currently
+
+stood at 10.6%. Car finance through Personal Contract Purchase arrangements had grown particularly strongly
+
+in recent years, and personal loans and credit card borrowing had also accelerated. The high rate of
+
+employment, supportive monetary policy and the associated strength in household consumption were likely to
+
+have bolstered credit demand. But increased competition between lenders had provided further impetus for
+
+these increases. Both price and non-price terms had become more favourable to borrowers; for example,
+
+interest rate spreads on personal loans had fallen substantially, and there had been a marked lengthening in the
+
+periods for which borrowers were able to access 0% interest on credit card balance transfers.
+
+13 The empirical evidence suggested that any link between consumer credit and household spending had
+
+recently been modest. In arithmetic terms, the flow of consumer credit during the four quarters to 2016 Q3 had
+
+amounted to just 1.5% of the level of consumption. Econometric analysis suggested that the read-across from
+
+consumer credit spreads to household consumption was small, although these estimates were imprecise.
+
+Also, in the latest survey conducted by NMG on behalf of the Bank, respondents had indicated only a small
+
+propensity to increase their spending in the face of an easing in mortgage credit conditions. Although it was
+
+possible that greater credit availability would help to sustain consumption growth in the event of a real income
+
+squeeze, the extent of the latter was probably the more important determinant of the outlook for household
+
+demand.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 1 February 2017** 3
+
+
+-----
+
+**Supply, costs and prices**
+
+14 Twelve-month CPI inflation had risen from 1.2% in November to 1.6% in December 2016, fractionally
+
+stronger than Bank staff’s expectation at the time of the November Inflation Report. Much of the increase in CPI
+
+inflation during 2016 had been a result of the dissipating drag from earlier declines in food, energy and other
+
+imported prices. More recently, however, there were signs that the anticipated boost to CPI inflation from the
+
+depreciation of sterling since late 2015, and particularly following the UK’s referendum on EU membership, was
+
+beginning to occur. Food prices, having fallen for much of the past three years, had begun to increase, despite
+
+continued downward pressure on prices from strong competition in the supermarket sector. Excluding food and
+
+energy, the prices of goods more generally had increased by 0.6% in the year to December, the highest rate
+
+since late 2014.
+
+15 Although the precise extent and speed of pass-through from sterling’s depreciation to final consumer
+
+prices was uncertain, it was highly probable that CPI inflation was set to rise markedly to above the target over
+
+the coming months. In the February Inflation Report projections, the Committee’s central expectation was for
+
+CPI inflation to rise to, or slightly above, the 2% target in the data for February and to 2.8% in the first half of
+
+2018, before falling back to 2.4% in three years’ time. The overshoot was entirely accounted for by the lagged
+
+effects of sterling’s depreciation. Inflation was judged likely to return to close to the target over the subsequent
+
+year.
+
+16 Regular pay in the private sector had increased by 3.0% in the three months to November relative to a
+
+year earlier, a little stronger than anticipated at the time of the previous Inflation Report. More broadly, and as
+
+the Committee had discussed on a number of occasions, including at the previous MPC meeting, pay growth
+
+had repeatedly disappointed expectations of a sustained recovery over several years. Part of that was likely to
+
+have been connected to the persistent weakness of productivity growth, to which real wage growth ought to be
+
+linked in the medium term. More recently, pay may have been depressed by low rates of headline consumer
+
+price inflation. However, even after accounting for these factors and their typical relationship with pay growth,
+
+wages had been subdued. This had been all the more striking now that the rate of unemployment had fallen
+
+back to pre-crisis levels in a way that historically would have been associated with somewhat greater pay
+
+pressure.
+
+17 One candidate explanation for the residual weakness of pay was a decline in the equilibrium
+
+unemployment rate – that is, the rate of unemployment at which prospective employers would find it more
+
+difficult to recruit suitable staff, thus leading them to increase wage offers. There were a number of possible
+
+reasons why such a shift might have occurred, including increases in more flexible forms of work, demographic
+
+trends and changes in the tax and benefit system. The Committee considered this possibility in the context of
+
+its scheduled annual assessment of supply-side conditions and the staff analysis that had been prepared for it.
+
+There were several methods of producing estimates of the equilibrium unemployment rate, including: simple
+
+statistical models; more sophisticated statistical filters that exploited information from reduced-form wage
+
+Phillips curve relationships; and structural ‘search and matching’ models of the labour market. These structural
+
+search and matching models included one that had been developed by Bank staff in order to allow analysis of
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 1 February 2017** 4
+
+
+-----
+
+the effects of compositional changes in the workforce over time, including the trend increase in average
+
+educational attainment among the workforce.
+
+18 The degree of uncertainty over any estimate of the equilibrium unemployment rate was considerable.
+
+Taken as a whole, the analysis suggested that a lower rate was more likely than the Committee’s previous
+
+assumption of around 5%, although there was a range of views about the exact extent of the decline. The
+
+Committee agreed to reduce the estimate of the equilibrium unemployment rate to 4½%. This would imply a
+
+somewhat greater, although still relatively modest, degree of slack in the labour market than had previously
+
+been assumed. And, other things equal, this suggested that there would be a little less impetus to wage growth
+
+over the next three years than forecast at the time of the Committee’s November projections. In the
+
+Committee’s updated February forecasts the annual increase in whole economy average weekly earnings was
+
+expected to rise from 2.8% in the three months to November 2016 only to a little under 3½% in three years’
+
+time.
+
+19 The Committee discussed a number of risks to this outlook. Given the uncertainties involved, it was
+
+possible that the Committee’s updated estimates of the equilibrium unemployment rate were wrong and
+
+therefore that the resulting degree of pay pressure would be different from that assumed in the February
+
+forecasts. The pickup in headline inflation could make it harder for companies to moderate wage demands. In
+
+addition to that, a possible risk to the upside stemmed from the recent strength of corporate profitability in some
+
+sectors. If these profits fed into higher bonus payments, total pay growth could be more rapid than forecast,
+
+although bonus payments were probably less relevant to future inflationary pressure than changes in regular
+
+pay. In the other direction, the Bank’s Agents had recently conducted their regular annual pay survey. The
+
+average expectation of business contacts was for a basic pay settlement of 2.2% in 2017, down from 2.7% in
+
+2016, with economic uncertainty and the inability to pass on cost increases to output prices cited as the most
+
+common factors likely to weigh on pay awards. Other elements of labour costs were expected to rise more
+
+rapidly than before over the year ahead.
+
+20 The path for wages would also be influenced by the extent to which households’ and companies’
+
+expectations of inflation over the next few years responded to the brisk increase in headline CPI inflation likely
+
+during the next few months. The YouGov/Citigroup measure of household expectations of inflation one year
+
+ahead had risen to 2.6% in January. The comparable measure of expectations five to ten years ahead had
+
+been stable at 3.0% in January, however, having previously increased from 2.8% in November. The GfK
+
+measure of household expectations, which had risen sharply in November, had stabilised in the December and
+
+January surveys. The CBI survey of distributive trade firms indicated that a sizeable increase in inflation
+
+expectations one year ahead had occurred around the turn of the year. Overall, however, inflation expectations
+
+were now around average historical levels.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 1 February 2017** 5
+
+
+-----
+
+**The immediate policy decision**
+
+21 The MPC set monetary policy to meet the 2% inflation target, and in a way that helped sustain growth and
+
+employment. In pursuing that objective, the main challenges for the Committee had remained assessing how
+
+the economic outlook had changed following the UK’s decision to withdraw from the EU, and identifying the
+
+appropriate policy response to that changed outlook, including to the substantial depreciation of sterling that had
+
+been associated with the decision.
+
+22 The sterling Exchange Rate Index had been volatile for a number of months, and stood 18% lower than its
+
+peak in November 2015. The depreciation appeared to have reflected investors’ perceptions that a lower real
+
+exchange rate would be required following the UK’s withdrawal from the EU. Where the exchange rate would
+
+ultimately settle depended on the precise nature of the UK’s eventual trading arrangements both with the EU
+
+and with other countries. Although more detail on the UK Government’s intentions had been set out in the
+
+Prime Minister’s speech on the matter in January, it was inevitable that a large number of uncertainties
+
+remained. As more information about the likely shape of the UK’s future arrangements was revealed, further
+
+movements in the sterling exchange rate were to be expected.
+
+23 The transition to new international trading arrangements, and the movements in the sterling real exchange
+
+rate that might accompany it, were long-term structural economic adjustments over which monetary policy had
+
+very little or no influence. It was nevertheless essential to take account of such adjustments in the setting of
+
+monetary policy because of the impact they had on activity and inflation in the nearer term. In particular, the
+
+increase in import prices that had occurred over the past year was likely to lead both to a reduction in real
+
+income and therefore activity growth, and to a marked increase in CPI inflation to a rate significantly above the
+
+2% target. The MPC’s remit specified that in such exceptional circumstances the Committee must balance the
+
+trade-off between the speed with which it intended to return inflation to the target and the support that monetary
+
+policy provided to jobs and activity.
+
+24 The MPC had previously noted that the appropriate path of monetary policy following the EU referendum
+
+would depend on the evolution of demand, supply, the exchange rate and therefore inflation. The Committee
+
+had considered how the outlook for these factors had changed over recent months in the preparation of its
+
+February Inflation Report.
+
+25 Demand indicators had been stronger than expected at the time of the November Inflation Report, and the
+
+Committee had increased its central expectation for growth in 2017 to 2.0% and expected growth of 1.6% in
+
+2018 and 1.7% in 2019. The upward revision in the near term partly reflected stronger than expected growth at
+
+the end of 2016, as well as firmer prospects for the beginning of 2017. In particular, there had been few signs of
+
+a slowdown in consumer spending ahead of the prospective squeeze on household real income, other than
+
+weakness in December’s retail sales data that might prove erratic. Further ahead, over the three years of the
+
+forecast, the upgraded demand outlook since November reflected a number of factors. The most significant had
+
+been the fiscal stimulus announced by the Chancellor in his Autumn Statement at the end of 2016. Also
+
+important had been the firmer momentum in global activity evident in the recent data, higher global equity prices
+
+and an easing in credit conditions. Over the three years of the forecast, cumulative demand growth was
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 1 February 2017** 6
+
+
+-----
+
+expected to be around 1 percentage point stronger than in the November projections. That was despite a
+
+higher market-based conditioning path for Bank Rate, which increased to 0.7% in three years’ time compared
+
+with 0.4% at the time of the November projections. The path for Bank Rate expected by market participants had
+
+risen further since the Committee’s updated forecasts had been finalised and the exchange rate had
+
+appreciated further.
+
+26 Regarding potential supply, the Committee had undertaken its scheduled regular assessment of
+
+aggregate supply-side conditions in the preparation of the February projections. The weight of evidence had
+
+suggested that the sustainable unemployment rate was somewhat lower than the Committee had previously
+
+assumed. That would help explain the persistent weakness of wage growth seen over the past few years,
+
+relative to what might have been expected after accounting for the likely influence on pay of low productivity
+
+growth, low headline inflation and the fact that the actual unemployment rate had fallen back to below 5%. This
+
+judgement also implied somewhat weaker pay pressures over the future, and therefore a slightly smaller boost
+
+to forecast CPI inflation from a recovery in domestic cost growth than assumed at the time of the November
+
+_Inflation Report._
+
+27 Combined with the effect of the 3% appreciation of sterling over the past few months, this judgement left
+
+the February central projection for inflation roughly unchanged compared to the November forecast, despite a
+
+stronger growth projection. CPI inflation was expected to increase to 2.8% in the first half of 2018 before falling
+
+back to 2.4% in three years’ time, with the overshoot entirely accounted for by the lagged effects of sterling’s
+
+depreciation. Inflation was judged likely to return to close to the target over the following year. The Committee
+
+discussed the appropriate response of monetary policy to this outlook.
+
+28 On one argument, the absence so far of a discernible slowdown in household spending growth in the
+
+seven months since the referendum provided reassurance that an abrupt slowdown – for instance in response
+
+to heightened economic uncertainty – was less likely. The more time that passed without a noticeable reduction
+
+in economic growth, the more difficult it would become to tolerate the extent of the inflation overshoot embodied
+
+in the February projections. Moreover, there were potential upside risks to the projections set out in the
+
+February Report. For instance, the impact of the depreciation of sterling on CPI inflation might be larger than
+
+assumed, or persist for longer than expected. And it was possible that wage growth would react more
+
+aggressively than assumed to the sharp increases in CPI inflation that were in prospect – particularly if the
+
+Committee had overestimated the decline in the sustainable rate of unemployment.
+
+29 On another argument, however, in spite of the stronger outlook for demand, the Committee’s judgement
+
+regarding the sustainable rate of unemployment meant that the expected margin of slack in the economy, and
+
+therefore the balance between that and inflationary pressure, was very similar to that embodied in the
+
+November projections. Although there were relatively few signs of a slowdown in consumer spending so far, a
+
+slowdown was highly likely given the scale of the depreciation of sterling and the consequent effect that higher
+
+import prices would have on real income growth. And, just as there were potential upside risks to the
+
+projections, there were also potential downside risks. The central projection for consumer spending was reliant
+
+on a further decline in the household saving rate as spending reacted only gradually to the likely erosion of real
+
+incomes. It was possible that households’ reactions to weaker income growth would be more pronounced than
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 1 February 2017** 7
+
+
+-----
+
+this, for example given the number of households that were credit constrained or that simply adjusted spending
+
+in line with current income. More generally, the potential for uncertainty over future trading arrangements to
+
+interrupt economic decision making would likely remain for some time.
+
+30 Different members of the Committee placed different weights on these arguments and the risks
+
+surrounding the projections set out in the February Inflation Report. Nevertheless, at this meeting, all members
+
+agreed that it remained appropriate to maintain the stance of monetary policy. All members also agreed that,
+
+while the Committee needed to continue balancing the prospect of a period of above-target inflation with the
+
+support that monetary policy gave for activity and employment, there were limits to the degree to which
+
+above-target inflation could be tolerated. For some members, the risks around the trade-off embodied in the
+
+central projection meant they had moved a little closer to those limits.
+
+31 The continuing suitability of the current policy stance depended on the trade-off between above-target
+
+inflation and slack in the economy. The projections described in the Inflation Report depended in good part on
+
+three main judgements: that the lower level of sterling would continue to boost consumer prices broadly as
+
+expected, and without adverse consequences for expectations of inflation further ahead; that regular pay growth
+
+would indeed remain modest, consistent with the Committee’s updated assessment of the remaining degree of
+
+slack in the labour market; and that the hitherto resilient rates of household spending growth would slow as real
+
+income gains weaken. In judging the appropriate policy stance, the Committee would monitor closely the
+
+incoming evidence regarding these and other factors. For instance, if spending growth were to slow more
+
+abruptly than expected, there was scope for monetary policy to be loosened. If, on the other hand, pay growth
+
+were to pick up by more than anticipated, monetary policy might need to be tightened to a greater degree than
+
+the gently rising path implied by market yields. Monetary policy could respond, in either direction, to changes to
+
+the economic outlook as they unfolded to ensure a sustainable return of inflation to the 2% target.
+
+32 The Governor invited the Committee to vote on the propositions that:
+
+Bank Rate be maintained at 0.25%;
+
+The Bank of England continue with the programme of sterling non-financial investment-grade corporate
+
+bond purchases totalling up to £10 billion, financed by the issuance of central bank reserves;
+
+The Bank of England maintain the stock of UK government bond purchases, financed by the issuance of
+
+central bank reserves, at £435 billion.
+
+33 The Committee voted unanimously in favour of all three propositions.
+
+34 Consistent with the Committee’s decision to maintain the total stock of UK government bond purchases at
+
+£435 billion, and as described in a Market Notice accompanying these minutes, the Committee agreed to
+
+re-invest the £11.6 billion of cash flows associated with the redemption of the January 2017 gilt held by the
+
+Asset Purchase Facility.
+
+35 Finally, on behalf of the Committee the Governor thanked Minouche Shafik for her contribution as a
+
+member of the Committee and for establishing the role of Deputy Governor responsible for markets and
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 1 February 2017** 8
+
+
+-----
+
+banking. Her many contributions – including new monetary policy facilities, a new risk management framework,
+
+the Fair and Effective Markets Review, contributions to the work of the G20 and the launch of the RTGS
+
+Strategy Review – had demonstrated the best of the Bank of England.
+
+36 The following members of the Committee were present:
+
+Mark Carney, Governor
+Ben Broadbent, Deputy Governor responsible for monetary policy
+Jon Cunliffe, Deputy Governor responsible for financial stability
+Nemat Shafik, Deputy Governor responsible for markets and banking
+Kristin Forbes
+Andrew Haldane
+Ian McCafferty
+Michael Saunders
+Gertjan Vlieghe
+
+Dave Ramsden was present as the Treasury representative.
+
+As permitted under the Bank of England Act 1998, as amended by the Bank of England and Financial Services
+
+Act 2016, Anthony Habgood was also present on 26 and 30 January, and Dorothy Thompson on 26 January, as
+
+observers for the purposes of exercising oversight functions in their roles as members of the Bank’s Court of
+
+Directors.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 1 February 2017** 9
+
+
+-----
+

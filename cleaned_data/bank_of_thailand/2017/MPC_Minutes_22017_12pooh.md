@@ -1,0 +1,155 @@
+**Edited Minutes of the Monetary Policy Committee Meeting (No. 2/2017)**
+
+**29 March 2017, Bank of Thailand**
+
+**Publication Date: 12 April 2017**
+
+**Members Present**
+
+Veerathai Santiprabhob (Chairman), Mathee Supapongse (Vice Chairman), Paiboon
+Kittisrikangwan, Jamlong Atikul, Porametee Vimolsiri, Sethaput Suthiwart-Narueput, and
+Apichai Boontherawara
+
+**The Global Economy**
+
+**The overall growth outlook for Thailand’s trading partner economies improved. G3**
+**economies continued to gain traction as reflected in manufacturing production and private**
+consumption. The US economy, in particular, saw continued strengthening of labor market
+conditions towards full employment as well as a firmer recovery in investment. These
+developments led market participants to anticipate that the Federal Reserve (Fed) would
+continue to raise the federal funds rate this year. Asian economies continued to recover on
+the back of exports which benefited from the global demand recovery. Against this backdrop
+of continued improvements in the outlook for global growth and headline inflation in many
+countries, market participants came to expect that further monetary policy easing by most
+central banks might be less likely in the period ahead.
+
+**The global economic recovery still faced many risks.** The Committee assessed that risks
+associated with the implementation of US economic policies increased from the previous
+meeting, particularly those regarding shifts in US investment and trade policies as well as the
+new administration’s stance of foreign trade agreements and potential trade retaliations
+from US key trading partners. If such trade policies were to be carried out by the US, its trading
+partners including Thailand could be affected through both trade and confidence channels.
+Meanwhile, there remained risks stemming from financial stability concerns in China, political
+developments in Europe, and problems faced by the European banking sector. The
+Committee viewed that these risks were largely unchanged but would continue to monitor
+their development closely.
+
+**The Financial Markets**
+
+**Financial markets remained highly volatile** as market participants shifted their focus to
+monetary policy normalization by the Fed while US economic policies remained uncertain.
+Changes in market expectations of the Fed’s monetary policy normalization path led to
+increased capital flow volatility in both emerging market bonds and equities, including those
+of Thailand. On the whole, the baht appreciated against the US dollar in line with movements
+of regional currencies. However, the extent of the baht’s appreciation was greater than those
+of trading partner currencies, partly due to Thailand’s relatively stronger external position as
+reflected particularly in the country’s large current account surplus, and thus the Nominal
+**Effective Exchange Rate (NEER)** appreciated from the level seen at the prior meeting.
+Meanwhile, Thai government bond yields registered around the same levels as the previous
+meeting, and the Stock Exchange of Thailand (SET) Index was down slightly due to the fall in
+prices of energy stocks.
+
+**It was expected that capital flow and exchange rate volatilities would likely remain elevated**
+**in the period ahead, and that the baht could move in either direction,** depending on the
+actual implementation of US fiscal stimulus as well as the anticipated pace of the Fed’s
+
+
+-----
+
+monetary policy normalization. In addition, the Committee discussed the gradual relaxation
+of exchange controls that could help create more balanced capital flows. Moreover, in light
+of highly volatile capital flows, the use of market-based instruments might help reduce capital
+flow volatility to some extent, which would facilitate orderly exchange rate adjustments. At
+the same time, the private sector was encouraged to give more consideration to exchange
+rate risk management going forward.
+
+**Domestic Economic Conditions**
+
+**Thailand’s growth outlook improved, driven mainly by the continued expansion in external**
+demand which led to a firmer recovery in **merchandise exports. Meanwhile,** **tourism**
+continued to recover and public expenditure, especially infrastructure investment, remained
+an important growth driver. On the other hand, domestic demand continued to recover at a
+gradual pace and did not gain much so far from the recovery of exports. Private consumption
+was supported by higher income and improved confidence but weighed down by household
+debt which remained elevated despite having leveled off. Private investment growth was still
+concentrated in export-related sectors, consistent with the expansion of business credit by
+commercial banks that also concentrated in these sectors.
+
+**The Committee assessed that the Thai economy would expand at a faster pace this year**
+**than previously projected. The growth forecast for 2017 was revised up from 3.2 percent to**
+3.4 percent on account of a better export outlook. It was anticipated that the Thai economy
+**would continue to expand** at 3.6 percent in 2018, driven by both exports and domestic
+spending. Notwithstanding, Thailand’s economic growth would proceed amid a large degree
+of uncertainties on the external front, especially those pertaining to the direction of economic
+and trade policies of the US which the Committee would continue to monitor closely.
+
+In the Committee’s view, headline inflation was expected to gradually rise. Nevertheless,
+headline inflation might fluctuate in the near term due to the base effect of higher fresh food
+prices during the drought last year, and could face greater downside risks given that global oil
+prices might be lower than the current assessment due to higher than expected excess global
+oil supply. Meanwhile, demand-pull inflationary pressures remained low. In this light, the
+Committee revised down the average headline and core inflation forecasts for 2017 slightly
+to 1.2 percent and 0.7 percent respectively. **Headline and core inflation in 2018 was**
+**projected to continue trending upward, averaging at 1.9 percent and 1.0 percent**
+respectively, consistent with the projected increase in oil prices alongside the global
+economic recovery and the expected rise in demand-pull inflationary pressures as the Thai
+economy continues to expand. Going forward, the Committee anticipated headline inflation
+to gradually rise and return to the midpoint of the target, consistent with the public’s
+medium-term inflation expectations that remained close to the midpoint of the target.
+
+**The Committee viewed that financial stability remained sound with sufficient cushion**
+against economic and financial volatilities on both domestic and external fronts. However,
+there were pockets of risks that still warranted close monitoring such as the deterioration in
+the quality of loans extended to households and businesses, especially small-and-mediumsized enterprises (SMEs), as well as the search-for-yield behavior that might lead to
+underpricing of risks. On the development of risks related to recent defaults of unrated bonds
+issued by certain companies, the event appeared to have limited impacts on financial
+conditions, as most unrated bond issuers that did not default were still able to roll over their
+debt or to obtain financing from alternative sources. Costs of financing through unrated
+bonds also appeared to be more varied depending on the financial health of the issuers, which
+
+
+-----
+
+reflected increased market ability to distinguish risks across different issuers. Nevertheless,
+the Committee would continue to closely monitor developments of unrated bonds and other
+parts of the financial system for signs of risk underpricing.
+
+**The Policy Decision**
+
+In deliberating their policy decision, the Committee assessed that Thailand’s growth outlook
+improved, and that headline inflation would continue to gradual rise and return to the
+midpoint of the target in the future period. However, the growth observed so far still had
+some vulnerabilities, and was concentrated largely in export-related economic activities
+which would remain subject to a large degree of risks. Headline inflation faced increased
+downside risks from developments in global oil prices, while demand-pull inflationary
+pressures also remained low. Overall financial conditions remained accommodative despite
+having tightened somewhat, partly because the baht appreciated against major trading
+partner currencies which might not be as beneficial to the economy as it could be. Hence, the
+**Committee decided to keep the policy rate unchanged at 1.50 percent at this meeting in**
+**order to maintain accommodative financial conditions which would facilitate the**
+**continuation of economic growth.**
+
+Given that economic growth in the period ahead remained susceptible to risks, the
+Committee saw the need for concrete structural reforms that would uplift the
+competitiveness of Thai businesses and help cushion the impacts of adverse shocks to the
+economy. Additionally, although financial stability remained sound, some committee
+members viewed that imbalances in the financial system could continue to accumulate under
+the prolonged low interest rate environment. This was particularly seen in the recent increase
+in lending and borrowing through channels other than commercial banks and specialized
+financial institutions due partly to different regulatory standards across different types of
+financial institutions. In this regard, close coordination between regulatory bodies would be
+critical in closing such gaps as well as in monitoring and addressing risks in an appropriate and
+timely manner.
+
+**Going forward, the Committee concurred that sufficiently accommodative monetary policy**
+**remained necessary given that economic growth was still in the early stages and not yet**
+**broad-based.** The Committee would stand ready to utilize an appropriate mix of available
+policy tools in order to support economic growth and ensure financial stability.
+
+Monetary Policy Group
+
+12 April 2017
+
+
+-----
+

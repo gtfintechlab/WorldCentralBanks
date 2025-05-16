@@ -1,0 +1,130 @@
+# MONETARY POLICY MEETING
+
+### JUNE 2021
+
+**[INF*RES*AS]**
+
+
+-----
+
+## MONETARY POLICY MEETING
+
+##### Monetary policy meeting No. 282, held on Tuesday 8 June 2021.
+
+Present: Mario Marcel, Governor; Joaquín Vial, Vice-Governor; Pablo García, Board member; Alberto
+Naudon, Board member; Rosanna Costa, Board member.
+
+Present the Finance Minister, Rodrigo Cerda.
+
+Also present: Juan Pablo Araya, Legal Counsel and Attestor; Elías Albagli, Monetary Policy Division Director;
+Beltrán de Ramón Financial Markets Division Director; Solange Berstein, Financial Policy Division Director;
+Gloria Peña, Statistics Division Director; Michel Moure, Institutional Affairs Division Director; Diego Ballivián,
+Corporate Risk Division Director; Markus Kirchner, Macroeconomic Analysis Manager; Enrique Orellana,
+Monetary Policy Strategy and Communication Manager; Miguel Fuentes, International Analysis Manager;
+Andrés Fernández, Economic Research Manager; Felipe Lozano, Communications Manager; Cristóbal
+Gamboni, Advisor to the Finance Minister; Marlys Pabst, Secretary General.
+
+#### 1. Background
+
+The background information for this Meeting was contained in the June Monetary Policy Report that was
+to be published the next morning. That Report noted that the recovery of activity had been a positive
+surprise in the first months of 2021, reflecting the strong macroeconomic stimulus and the economy's
+better adaptation to the sanitary restrictions. At the same time, inflation had performed relatively in line
+with expectations. In the past few quarters, private consumption had risen strongly, fueled by pension
+savings withdrawals and massive fiscal transfers. In addition to this, there were the recently approved
+reforms, which meant that fiscal policy would be significantly more expansionary than had been anticipated
+in March. The recent improved performance combined with increased stimulus to spending, in a context
+of more favorable external conditions, led to a significant increase in growth projections for this year, to
+a range between 8.5% and 9.5% (6% to 7% in March). The Report emphasized that even with these
+advances and better prospects for recovery, the general perception remained marked by the evolution of
+infections and quarantines, the significant lags of some sectors, the fragilities in the labor market and the
+persistence of high uncertainty. It was also stressed that the financial market had reacted to aggregate local
+events with an increase in long rates that diverged from the stability of their external counterparts, a fall in
+the stock market and moderate increases in sovereign risk.
+
+
+-----
+
+The Report emphasized that higher growth in 2021 would bring forward the closing of the wide activity gap
+caused by the Covid-19 crisis, making it less necessary for the monetary impulse to support the economy's
+recovery, so it should begin to moderate sooner than anticipated in the previous Report. This would prevent
+an increase in inflation—around 3.5% at the time—from driving up the cost of living and eroding the
+purchasing power of the households most affected by the crisis. Even so, it was anticipated that, in the
+central scenario, the MPR would remain below its neutral level throughout the policy horizon, underpinning
+a recovery process that would continue to face important challenges.
+
+#### 2. Background analysis and discussion
+
+On the external front, the strengthening of the global recovery, the performance of the stock markets and
+the increases in commodity prices were highlighted. If this were compounded by the greater stability of
+long-term interest rates, the outlook for global financial conditions was very positive. It was added that,
+meanwhile, this process was accompanied by greater cost pressures, which in any case were estimated
+to be transitory, as was reflected in market expectations. It was pointed out that, in any case, the latter
+did not prevent the risk of greater persistence of these cost pressures, which posed a risk in a scenario of
+high liquidity and considerable stimulus to demand. Particularly important was the case of the U.S., where
+inflation was already showing very significant surprises.
+
+Locally, the impact of several factors on the recent evolution of the macroeconomic scenario stood out.
+On one hand, the sanitary situation showed a worsening in the evolution of infections while at the same
+time there was considerable progress in meeting vaccination goals, which gave significant support to the
+assumption that the economy would gradually open up as of the third quarter of the year, which underlay
+the Report's projections. On the other hand, activity figures confirmed that the recovery had been faster
+than expected, even in some services that strongly depended on human interaction. However, it was pointed
+out that this recovery was still very heterogeneous, which was especially evident in the labor market and left
+no doubt that there were still loopholes to be closed in the economy.
+
+It was pointed out that, beyond the recent evolution of the external scenario or the better performance
+of the economy at the beginning of the year, the main novelty of the macroeconomic scenario was the
+substantial increase in the boost to private spending and the impact it would have on aggregate demand.
+This was accompanied by a series of fiscal measures and the implementation of a third withdrawal of
+pension savings. As this boost coincided with progress in the recovery of and improvements in the external
+environment, the activity gap was projected to close much faster than expected, together with an increase
+in inflation, which was already near 3.5%
+
+
+-----
+
+#### 3. Analysis of monetary policy options
+
+All five Board members agreed that the fiscal expansion and the dynamism of consumption configured a
+macroeconomic scenario for the next two years in which it would be unnecessary to maintain such a highly
+expansionary monetary policy stance as the current one for such a long time as was expected until a few
+months back. In this scenario, the Board considered that holding the MPR at 0.5% was no longer the only
+possible option, and that the option of raising it by 25 basis points, to 0.75%, was also plausible.
+
+All the Board Members agreed that deciding on one option or the other was fully consistent with the
+macroeconomic scenario and the required monetary policy stance. In the view of several Board members,
+the biggest difference stemmed from a tactical and communicational component: in particular, the need to
+inform the market of the change the Bank was observing in the macroeconomic scenario—which would be
+attained with the publication of the June Report—and to prepare it for the adjustments that would occur
+shortly. It was further noted that this meant a return to a more traditional way monetary policy making,
+where the Board defined stages, first establishing a bias and then implementing changes in the MPR. One
+Board member added that, in addition to tactical considerations, the decision to hold the MPR was justified
+on the grounds that the widening activity gap in the second quarter pointed to lower immediate pressures
+on inflation, which overlapped with the labor market still being far from a full recovery.
+
+Although the Board considered it important to communicate the launching of the process of withdrawing
+the monetary stimulus, it also deemed it advisable to emphasize that monetary policy would remain
+expansionary for a long period of time. It was recalled that, despite the faster recovery and a greater
+boost to private spending, this would be temporary, as expenditure-boosting measures were phased out.
+Moreover, the economy was still immersed in a context where uncertainty was higher than it had been
+until a couple of years ago and where the prospects for investment and growth were constrained for the
+coming years. In this scenario, excessive tightening of local financial conditions could be counterproductive,
+and the Board would keep a watchful eye on economic developments. In fact, it was recalled that, in the
+central scenario of the June Report, it was anticipated that the MPR would remain below its neutral level
+throughout the entire policy horizon.
+
+#### 4. Monetary policy decision
+
+Governor Marcel, Vice-Governor Vial, and Board members García, Naudon, and Costa voted in favor of
+keeping the monetary policy interest rate at 0.5%.
+
+
+-----
+
+**MONETARY POLICY MEETING**
+JUNE 2021
+
+
+-----
+

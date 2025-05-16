@@ -1,0 +1,1285 @@
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.0.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/hp/Desktop/global-central-banks/src/llm_benchmarking/inference.py", line 9, in <module>
+    from datasets import load_dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/__init__.py", line 17, in <module>
+    from .arrow_dataset import Dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/arrow_dataset.py", line 59, in <module>
+    import pandas as pd
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/__init__.py", line 49, in <module>
+    from pandas.core.api import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/api.py", line 28, in <module>
+    from pandas.core.arrays import Categorical
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/__init__.py", line 1, in <module>
+    from pandas.core.arrays.arrow import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/__init__.py", line 5, in <module>
+    from pandas.core.arrays.arrow.array import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/array.py", line 50, in <module>
+    from pandas.core import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/ops/__init__.py", line 8, in <module>
+    from pandas.core.ops.array_ops import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/ops/array_ops.py", line 56, in <module>
+    from pandas.core.computation import expressions
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/computation/expressions.py", line 21, in <module>
+    from pandas.core.computation.check import NUMEXPR_INSTALLED
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/computation/check.py", line 5, in <module>
+    ne = import_optional_dependency("numexpr", errors="warn")
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/compat/_optional.py", line 135, in import_optional_dependency
+    module = importlib.import_module(name)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/numexpr/__init__.py", line 24, in <module>
+    from numexpr.interpreter import MAX_THREADS, use_vml, __BLOCK_SIZE1__
+AttributeError: _ARRAY_API not found
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.0.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/hp/Desktop/global-central-banks/src/llm_benchmarking/inference.py", line 9, in <module>
+    from datasets import load_dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/__init__.py", line 17, in <module>
+    from .arrow_dataset import Dataset
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/datasets/arrow_dataset.py", line 59, in <module>
+    import pandas as pd
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/__init__.py", line 49, in <module>
+    from pandas.core.api import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/api.py", line 28, in <module>
+    from pandas.core.arrays import Categorical
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/__init__.py", line 1, in <module>
+    from pandas.core.arrays.arrow import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/__init__.py", line 5, in <module>
+    from pandas.core.arrays.arrow.array import ArrowExtensionArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/arrow/array.py", line 64, in <module>
+    from pandas.core.arrays.masked import BaseMaskedArray
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/arrays/masked.py", line 60, in <module>
+    from pandas.core import (
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/core/nanops.py", line 52, in <module>
+    bn = import_optional_dependency("bottleneck", errors="warn")
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/pandas/compat/_optional.py", line 135, in import_optional_dependency
+    module = importlib.import_module(name)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/bottleneck/__init__.py", line 7, in <module>
+    from .move import (move_argmax, move_argmin, move_max, move_mean, move_median,
+Traceback (most recent call last):
+  File "/Users/hp/miniconda3/envs/fomc/lib/python3.12/site-packages/numpy/core/_multiarray_umath.py", line 44, in __getattr__
+    raise ImportError(msg)
+ImportError: 
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.0.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+
+2025-04-19 01:10:59,270 - together_inference - INFO - Starting inference on 2025-04-19
+2025-04-19 01:10:59,270 - together_inference - INFO - Loading dataset...
+2025-04-19 01:11:01,104 - together_inference - INFO - Loaded 150 sentences from the dataset.
+2025-04-19 01:11:01,104 - together_inference - INFO - Using model: together_ai/deepseek-ai/DeepSeek-V3
+2025-04-19 01:11:01,104 - together_inference - INFO - Using seed: 5768
+2025-04-19 01:11:01,104 - together_inference - INFO - Processing 150 documents in 75 batches.
+2025-04-19 01:11:01,104 - together_inference - INFO - Processing batch 1/75 with 2 sentences.
+2025-04-19 01:11:01,104 - together_inference - INFO - Processing batch 1/75
+2025-04-19 01:11:05,251 - together_inference - INFO - Completed batch 1/75
+2025-04-19 01:11:05,251 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses building approvals and regional trends, which are not directly related to monetary policy stance."
+}
+```
+2025-04-19 01:11:05,251 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence mentions a discussion about implications for the exchange rate but does not indicate a clear bias toward tightening or easing monetary policy."
+}
+```
+2025-04-19 01:11:05,251 - together_inference - INFO - Processing batch 2/75 with 2 sentences.
+2025-04-19 01:11:05,251 - together_inference - INFO - Processing batch 2/75
+2025-04-19 01:11:10,709 - together_inference - INFO - Completed batch 2/75
+2025-04-19 01:11:10,710 - together_inference - INFO - Response: ```json
+{
+"label": "hawkish",
+"justification": "The sentence indicates that policy rates are unlikely to decline, which suggests a tightening or restrictive stance contrary to market expectations of easing."
+}
+```
+2025-04-19 01:11:10,710 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence highlights economic challenges such as soft housing conditions and potential fiscal tightening, which typically warrant a more accommodative monetary policy stance."
+}
+```
+2025-04-19 01:11:10,710 - together_inference - INFO - Processing batch 3/75 with 2 sentences.
+2025-04-19 01:11:10,710 - together_inference - INFO - Processing batch 3/75
+2025-04-19 01:11:34,254 - together_inference - INFO - Completed batch 3/75
+2025-04-19 01:11:34,254 - together_inference - INFO - Response: ```json
+{
+"label": "hawkish",
+"justification": "The sentence indicates a reduction in monetary policy accommodation and mentions rate hikes by central banks, signaling a tightening stance."
+}
+```
+2025-04-19 01:11:34,254 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence discusses economic conditions without explicitly indicating a leaning towards tightening or easing monetary policy."
+}
+```
+2025-04-19 01:11:34,254 - together_inference - INFO - Processing batch 4/75 with 2 sentences.
+2025-04-19 01:11:34,254 - together_inference - INFO - Processing batch 4/75
+2025-04-19 01:11:42,500 - together_inference - INFO - Completed batch 4/75
+2025-04-19 01:11:42,500 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence indicates a delay in expected inflation and lower GDP growth forecasts, which typically suggests a more accommodative or dovish monetary policy stance."
+}
+```
+2025-04-19 01:11:42,500 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses labor market participation trends but does not address monetary policy actions or intentions."
+}
+```
+2025-04-19 01:11:42,500 - together_inference - INFO - Processing batch 5/75 with 2 sentences.
+2025-04-19 01:11:42,500 - together_inference - INFO - Processing batch 5/75
+2025-04-19 01:11:47,675 - together_inference - INFO - Completed batch 5/75
+2025-04-19 01:11:47,676 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses the bank's work on the payments system and does not address monetary policy stance directly."
+}
+```
+2025-04-19 01:11:47,676 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence discusses a historical trend in issuance costs without indicating a clear shift in monetary policy stance."
+}
+```
+2025-04-19 01:11:47,676 - together_inference - INFO - Processing batch 6/75 with 2 sentences.
+2025-04-19 01:11:47,676 - together_inference - INFO - Processing batch 6/75
+2025-04-19 01:11:57,413 - together_inference - INFO - Completed batch 6/75
+Running inference for Reserve Bank of Australia
+[ModelResponse(id='nqgANbS-zqrih-9329e6185ab653ee', created=1745039461, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses building approvals and regional trends, which are not directly related to monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=180, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgANa5-zqrih-9329e6185b93bccc', created=1745039461, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence mentions a discussion about implications for the exchange rate but does not indicate a clear bias toward tightening or easing monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=168, total_tokens=211, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgAPnx-zqrih-9329e631f8f3bccc', created=1745039465, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "hawkish",\n"justification": "The sentence indicates that policy rates are unlikely to decline, which suggests a tightening or restrictive stance contrary to market expectations of easing."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=181, total_tokens=226, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgAPno-zqrih-9329e632088abd58', created=1745039465, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence highlights economic challenges such as soft housing conditions and potential fiscal tightening, which typically warrant a more accommodative monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=202, total_tokens=248, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgARTZ-zqrih-9329e6540fb4bccc', created=1745039470, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "hawkish",\n"justification": "The sentence indicates a reduction in monetary policy accommodation and mentions rate hikes by central banks, signaling a tightening stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=196, total_tokens=238, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgARQS-zqrih-9329e6540db5bd58', created=1745039470, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence discusses economic conditions without explicitly indicating a leaning towards tightening or easing monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=183, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgAYTn-zqrih-9329e6e73835bccc', created=1745039494, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence indicates a delay in expected inflation and lower GDP growth forecasts, which typically suggests a more accommodative or dovish monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=202, total_tokens=250, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgAYRT-zqrih-9329e6e75dac7bbe', created=1745039494, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses labor market participation trends but does not address monetary policy actions or intentions."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=180, total_tokens=216, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgAatY-zqrih-9329e71aca1abccc', created=1745039502, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses the bank\'s work on the payments system and does not address monetary policy stance directly."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=186, total_tokens=225, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgAas9-zqrih-9329e71acb267bbe', created=1745039502, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence discusses a historical trend in issuance costs without indicating a clear shift in monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=184, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgAcQX-zqrih-9329e73b2a44bccc', created=1745039507, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence notes an observation about housing interest rates but does not imply a clear directional bias in monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=177, total_tokens=216, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgAcPx-zqrih-9329e73b287e7bbe', created=1745039507, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence highlights persistent economic slowdown and lower commodity prices, which are factors that typically lead to a more accommodative monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=186, total_tokens=232, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 01:11:57,413 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence notes an observation about housing interest rates but does not imply a clear directional bias in monetary policy."
+}
+```
+2025-04-19 01:11:57,413 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence highlights persistent economic slowdown and lower commodity prices, which are factors that typically lead to a more accommodative monetary policy stance."
+}
+```
+2025-04-19 01:11:57,413 - together_inference - INFO - Processing batch 7/75 with 2 sentences.
+2025-04-19 01:11:57,413 - together_inference - INFO - Processing batch 7/75
+2025-04-19 01:12:08,312 - together_inference - INFO - Completed batch 7/75
+2025-04-19 01:12:08,312 - together_inference - INFO - Response: ```json
+{
+"label": "hawkish",
+"justification": "The sentence indicates a likely near-term rate increase due to capacity constraints and rising inflationary pressures, which aligns with a tightening monetary policy stance."
+}
+```
+2025-04-19 01:12:08,312 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses Japan's market performance and does not pertain to the Reserve Bank of Australia's monetary policy stance."
+}
+```
+2025-04-19 01:12:08,312 - together_inference - INFO - Processing batch 8/75 with 2 sentences.
+2025-04-19 01:12:08,312 - together_inference - INFO - Processing batch 8/75
+2025-04-19 01:12:18,225 - together_inference - INFO - Completed batch 8/75
+2025-04-19 01:12:18,226 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence indicates a willingness to add more monetary stimulus, which is characteristic of a dovish stance."
+}
+```
+2025-04-19 01:12:18,226 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence provides factual information about market conditions without indicating a clear bias towards tightening or easing monetary policy."
+}
+```
+2025-04-19 01:12:18,226 - together_inference - INFO - Processing batch 9/75 with 2 sentences.
+2025-04-19 01:12:18,226 - together_inference - INFO - Processing batch 9/75
+2025-04-19 01:12:30,604 - together_inference - INFO - Completed batch 9/75
+2025-04-19 01:12:30,606 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence highlights significant spare capacity, high unemployment, and low capacity utilization, which typically justify accommodative or dovish monetary policy."
+}
+```
+2025-04-19 01:12:30,606 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses exchange rate movements but does not provide any direct information about the Reserve Bank of Australia's monetary policy stance."
+}
+```
+2025-04-19 01:12:30,606 - together_inference - INFO - Processing batch 10/75 with 2 sentences.
+2025-04-19 01:12:30,606 - together_inference - INFO - Processing batch 10/75
+2025-04-19 01:12:39,242 - together_inference - INFO - Completed batch 10/75
+2025-04-19 01:12:39,242 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence discusses an assessment of spare capacity without indicating a clear bias towards tightening or easing monetary policy."
+}
+2025-04-19 01:12:39,242 - together_inference - INFO - Response: ```json
+{
+"label": "hawkish",
+"justification": "The sentence highlights strong housing credit growth and demand, which could signal inflationary pressures and prompt tighter monetary policy."
+}
+```
+2025-04-19 01:12:39,242 - together_inference - INFO - Processing batch 11/75 with 2 sentences.
+2025-04-19 01:12:39,242 - together_inference - INFO - Processing batch 11/75
+2025-04-19 01:12:48,014 - together_inference - INFO - Completed batch 11/75
+2025-04-19 01:12:48,015 - together_inference - INFO - Response: ```json
+{
+"label": "hawkish",
+"justification": "The sentence highlights labor shortages and lower unemployment, which are conditions that could lead to inflationary pressures and prompt tighter monetary policy."
+}
+```
+2025-04-19 01:12:48,015 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses corporate bond issuance in the United States, which is unrelated to the Reserve Bank of Australia's monetary policy stance."
+}
+```
+2025-04-19 01:12:48,015 - together_inference - INFO - Processing batch 12/75 with 2 sentences.
+2025-04-19 01:12:48,015 - together_inference - INFO - Processing batch 12/75
+2025-04-19 01:12:52,066 - together_inference - INFO - Completed batch 12/75
+
+[ModelResponse(id='nqgAfHk-zqrih-9329e777fde4bccc', created=1745039517, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "hawkish",\n"justification": "The sentence indicates a likely near-term rate increase due to capacity constraints and rising inflationary pressures, which aligns with a tightening monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=194, total_tokens=241, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgAfHm-zqrih-9329e777fc987bbe', created=1745039517, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses Japan\'s market performance and does not pertain to the Reserve Bank of Australia\'s monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=173, total_tokens=214, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgAiYE-zqrih-9329e7bc1fbbbccc', created=1745039528, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence indicates a willingness to add more monetary stimulus, which is characteristic of a dovish stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=196, total_tokens=236, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgAiXy-zqrih-9329e7bc1e767bbe', created=1745039528, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence provides factual information about market conditions without indicating a clear bias towards tightening or easing monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=185, total_tokens=223, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgAmaP-zqrih-9329e7fa2c05453e', created=1745039538, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence highlights significant spare capacity, high unemployment, and low capacity utilization, which typically justify accommodative or dovish monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=187, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgAmVK-zqrih-9329e7fa0f4f7bbe', created=1745039538, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses exchange rate movements but does not provide any direct information about the Reserve Bank of Australia\'s monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=180, total_tokens=223, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgAq9z-zqrih-9329e8477f1d7bbe', created=1745039550, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence discusses an assessment of spare capacity without indicating a clear bias towards tightening or easing monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=169, total_tokens=203, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgAqAY-zqrih-9329e8478bf4677c', created=1745039550, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "hawkish",\n"justification": "The sentence highlights strong housing credit growth and demand, which could signal inflationary pressures and prompt tighter monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=178, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgAsnL-zqrih-9329e87d6f1f7bbe', created=1745039559, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "hawkish",\n"justification": "The sentence highlights labor shortages and lower unemployment, which are conditions that could lead to inflationary pressures and prompt tighter monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=177, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgAsjN-zqrih-9329e87d6d28677c', created=1745039559, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses corporate bond issuance in the United States, which is unrelated to the Reserve Bank of Australia\'s monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=177, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgAvLC-zqrih-9329e8b439057bbe', created=1745039568, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses commodity prices and demand but does not address monetary policy or the Reserve Bank of Australia\'s stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=203, total_tokens=244, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgAvLC-zqrih-9329e8b43f71677c', created=1745039568, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence discusses economic growth in resource exports but does not directly indicate a stance on monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=182, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 01:12:52,066 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses commodity prices and demand but does not address monetary policy or the Reserve Bank of Australia's stance."
+}
+```
+2025-04-19 01:12:52,066 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence discusses economic growth in resource exports but does not directly indicate a stance on monetary policy."
+}
+```
+2025-04-19 01:12:52,066 - together_inference - INFO - Processing batch 13/75 with 2 sentences.
+2025-04-19 01:12:52,066 - together_inference - INFO - Processing batch 13/75
+2025-04-19 01:12:58,090 - together_inference - INFO - Completed batch 13/75
+2025-04-19 01:12:58,090 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence indicates that inflation remains below the target, suggesting a lack of urgency to tighten monetary policy."
+}
+```
+2025-04-19 01:12:58,090 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses other central banks' policies, not the Reserve Bank of Australia's monetary stance."
+}
+```
+2025-04-19 01:12:58,090 - together_inference - INFO - Processing batch 14/75 with 2 sentences.
+2025-04-19 01:12:58,090 - together_inference - INFO - Processing batch 14/75
+2025-04-19 01:13:04,828 - together_inference - INFO - Completed batch 14/75
+2025-04-19 01:13:04,828 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses inflation in the United Kingdom, not the Reserve Bank of Australia's monetary policy stance."
+}
+```
+2025-04-19 01:13:04,828 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence discusses a risk to the global outlook but does not directly indicate a change in monetary policy stance."
+}
+```
+2025-04-19 01:13:04,828 - together_inference - INFO - Processing batch 15/75 with 2 sentences.
+2025-04-19 01:13:04,829 - together_inference - INFO - Processing batch 15/75
+2025-04-19 01:13:14,316 - together_inference - INFO - Completed batch 15/75
+2025-04-19 01:13:14,317 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence provides a factual economic forecast without indicating any bias towards tightening or easing monetary policy."
+}
+```
+2025-04-19 01:13:14,317 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The mention of 'negative policy rates' indicates an accommodative monetary policy stance aimed at stimulating the economy."
+}
+```
+2025-04-19 01:13:14,317 - together_inference - INFO - Processing batch 16/75 with 2 sentences.
+2025-04-19 01:13:14,318 - together_inference - INFO - Processing batch 16/75
+2025-04-19 01:13:21,888 - together_inference - INFO - Completed batch 16/75
+2025-04-19 01:13:21,889 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The statement indicates that the current policy stance is deemed appropriate without signaling a need for tightening or easing, reflecting a neutral position."
+}
+```
+2025-04-19 01:13:21,889 - together_inference - INFO - Response: ```json
+{
+"label": "hawkish",
+"justification": "The sentence indicates market expectations have shifted away from a rate cut in 2024, and the Australian dollar's appreciation suggests tighter monetary policy."
+}
+```
+2025-04-19 01:13:21,889 - together_inference - INFO - Processing batch 17/75 with 2 sentences.
+2025-04-19 01:13:21,889 - together_inference - INFO - Processing batch 17/75
+2025-04-19 01:13:26,298 - together_inference - INFO - Completed batch 17/75
+2025-04-19 01:13:26,298 - together_inference - INFO - Response: ```json
+{
+"label": "hawkish",
+"justification": "The sentence indicates stronger-than-expected wage growth, which could signal inflationary pressures and prompt tighter monetary policy."
+}
+```
+2025-04-19 01:13:26,298 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses foreign exchange market observations without directly addressing monetary policy stance."
+}
+```
+2025-04-19 01:13:26,298 - together_inference - INFO - Processing batch 18/75 with 2 sentences.
+2025-04-19 01:13:26,298 - together_inference - INFO - Processing batch 18/75
+2025-04-19 01:13:32,146 - together_inference - INFO - Completed batch 18/75
+
+[ModelResponse(id='nqgAwY1-zqrih-9329e8cd8b737bbe', created=1745039572, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence indicates that inflation remains below the target, suggesting a lack of urgency to tighten monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=178, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgAwbH-zqrih-9329e8cd8cce677c', created=1745039572, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses other central banks\' policies, not the Reserve Bank of Australia\'s monetary stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=177, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgAyLA-zqrih-9329e8f33ae57bbe', created=1745039578, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses inflation in the United Kingdom, not the Reserve Bank of Australia\'s monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=180, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgAyLe-zqrih-9329e8f33c54677c', created=1745039578, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence discusses a risk to the global outlook but does not directly indicate a change in monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=171, total_tokens=210, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgB1PY-zqrih-9329e91d58927bbe', created=1745039585, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence provides a factual economic forecast without indicating any bias towards tightening or easing monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=186, total_tokens=222, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgB1L6-zqrih-9329e91d5e9d677c', created=1745039584, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The mention of \'negative policy rates\' indicates an accommodative monetary policy stance aimed at stimulating the economy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=165, total_tokens=206, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgB4CG-zqrih-9329e958a8a1677c', created=1745039594, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The statement indicates that the current policy stance is deemed appropriate without signaling a need for tightening or easing, reflecting a neutral position."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=190, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgB4A5-zqrih-9329e958bfa47ba5', created=1745039594, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "hawkish",\n"justification": "The sentence indicates market expectations have shifted away from a rate cut in 2024, and the Australian dollar\'s appreciation suggests tighter monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=187, total_tokens=235, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgB6TY-zqrih-9329e987f9847ba5', created=1745039602, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "hawkish",\n"justification": "The sentence indicates stronger-than-expected wage growth, which could signal inflationary pressures and prompt tighter monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=192, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgB6Qu-zqrih-9329e987fd1b677c', created=1745039602, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses foreign exchange market observations without directly addressing monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=33, prompt_tokens=177, total_tokens=210, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgB7iV-zqrih-9329e9a3881a677c', created=1745039606, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "hawkish",\n"justification": "The sentence indicates that inflationary pressures are leading to an earlier policy rate increase, which aligns with a tightening monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=191, total_tokens=235, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgB7iB-zqrih-9329e9a389307ba5', created=1745039606, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence indicates expectations of further monetary policy easing, which aligns with a dovish stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=177, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 01:13:32,147 - together_inference - INFO - Response: ```json
+{
+"label": "hawkish",
+"justification": "The sentence indicates that inflationary pressures are leading to an earlier policy rate increase, which aligns with a tightening monetary policy stance."
+}
+```
+2025-04-19 01:13:32,148 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence indicates expectations of further monetary policy easing, which aligns with a dovish stance."
+}
+```
+2025-04-19 01:13:32,148 - together_inference - INFO - Processing batch 19/75 with 2 sentences.
+2025-04-19 01:13:32,148 - together_inference - INFO - Processing batch 19/75
+2025-04-19 01:13:45,123 - together_inference - INFO - Completed batch 19/75
+2025-04-19 01:13:45,125 - together_inference - INFO - Response: ```json
+{
+"label": "hawkish",
+"justification": "The sentence indicates market expectations for a future increase in the cash rate, which aligns with a tightening monetary policy stance."
+}
+```
+2025-04-19 01:13:45,125 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence acknowledges the resilience of Australian banks but does not indicate any specific monetary policy action or bias."
+}
+```
+2025-04-19 01:13:45,125 - together_inference - INFO - Processing batch 20/75 with 2 sentences.
+2025-04-19 01:13:45,125 - together_inference - INFO - Processing batch 20/75
+2025-04-19 01:13:50,090 - together_inference - INFO - Completed batch 20/75
+2025-04-19 01:13:50,090 - together_inference - INFO - Response: ```json
+{
+"label": "hawkish",
+"justification": "The sentence indicates expectations of a higher federal funds rate, which aligns with a tightening monetary policy stance."
+}
+```
+2025-04-19 01:13:50,090 - together_inference - INFO - Response: ```json
+{
+"label": "hawkish",
+"justification": "The sentence highlights a significant increase in bank bill yields beyond what the cash rate adjustment would explain, suggesting tighter financial conditions or expectations of further rate hikes."
+}
+```
+2025-04-19 01:13:50,090 - together_inference - INFO - Processing batch 21/75 with 2 sentences.
+2025-04-19 01:13:50,090 - together_inference - INFO - Processing batch 21/75
+2025-04-19 01:13:58,245 - together_inference - INFO - Completed batch 21/75
+2025-04-19 01:13:58,253 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence describes strong demand but does not directly indicate a monetary policy stance."
+}
+```
+2025-04-19 01:13:58,253 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses labor market conditions in the United States, which is not directly related to the Reserve Bank of Australia's monetary policy stance."
+}
+```
+2025-04-19 01:13:58,253 - together_inference - INFO - Processing batch 22/75 with 2 sentences.
+2025-04-19 01:13:58,253 - together_inference - INFO - Processing batch 22/75
+2025-04-19 01:14:04,423 - together_inference - INFO - Completed batch 22/75
+2025-04-19 01:14:04,423 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence discusses global inflation factors without indicating a clear bias towards tightening or easing monetary policy."
+}
+```
+2025-04-19 01:14:04,424 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence acknowledges some improvement in private investment growth but notes it remains low, reflecting a balanced assessment without clear bias toward tightening or easing monetary policy."
+}
+```
+2025-04-19 01:14:04,424 - together_inference - INFO - Processing batch 23/75 with 2 sentences.
+2025-04-19 01:14:04,424 - together_inference - INFO - Processing batch 23/75
+2025-04-19 01:14:12,040 - together_inference - INFO - Completed batch 23/75
+2025-04-19 01:14:12,040 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence indicates a lack of urgency for near-term policy adjustments, suggesting a cautious or accommodative stance."
+}
+```
+2025-04-19 01:14:12,040 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses oil price fluctuations and does not pertain to the Reserve Bank of Australia's monetary policy stance."
+}
+```
+2025-04-19 01:14:12,040 - together_inference - INFO - Processing batch 24/75 with 2 sentences.
+2025-04-19 01:14:12,040 - together_inference - INFO - Processing batch 24/75
+2025-04-19 01:14:19,179 - together_inference - INFO - Completed batch 24/75
+
+[ModelResponse(id='nqgB9Te-zqrih-9329e9c81a697ba5', created=1745039612, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "hawkish",\n"justification": "The sentence indicates market expectations for a future increase in the cash rate, which aligns with a tightening monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=197, total_tokens=240, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgB9TJ-zqrih-9329e9c81d53677c', created=1745039612, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence acknowledges the resilience of Australian banks but does not indicate any specific monetary policy action or bias."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=185, total_tokens=223, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgBDJz-zqrih-9329ea192d38677c', created=1745039625, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "hawkish",\n"justification": "The sentence indicates expectations of a higher federal funds rate, which aligns with a tightening monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=190, total_tokens=230, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgBDN4-zqrih-9329ea1929cb7ba5', created=1745039625, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "hawkish",\n"justification": "The sentence highlights a significant increase in bank bill yields beyond what the cash rate adjustment would explain, suggesting tighter financial conditions or expectations of further rate hikes."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=187, total_tokens=237, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgBEoC-zqrih-9329ea383db2677c', created=1745039630, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence describes strong demand but does not directly indicate a monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=33, prompt_tokens=165, total_tokens=198, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgBEnQ-zqrih-9329ea383ecd7ba5', created=1745039630, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses labor market conditions in the United States, which is not directly related to the Reserve Bank of Australia\'s monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=197, total_tokens=243, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgBHEB-zqrih-9329ea6b3c02677c', created=1745039638, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence discusses global inflation factors without indicating a clear bias towards tightening or easing monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=188, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgBHDs-zqrih-9329ea6b6c9eafc2', created=1745039638, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence acknowledges some improvement in private investment growth but notes it remains low, reflecting a balanced assessment without clear bias toward tightening or easing monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=171, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgBK3e-zqrih-9329ea91cc30677c', created=1745039644, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence indicates a lack of urgency for near-term policy adjustments, suggesting a cautious or accommodative stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=195, total_tokens=236, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgBK5o-zqrih-9329ea91c9e0afc2', created=1745039644, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses oil price fluctuations and does not pertain to the Reserve Bank of Australia\'s monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=189, total_tokens=229, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgBMLB-zqrih-9329eac16aff677c', created=1745039652, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses economic conditions in East Asia and does not pertain to the Reserve Bank of Australia\'s monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=182, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgBMJy-zqrih-9329eac16d13afc2', created=1745039652, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence describes market trends without indicating a clear shift in the RBA\'s policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=182, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 01:14:19,181 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses economic conditions in East Asia and does not pertain to the Reserve Bank of Australia's monetary policy stance."
+}
+```
+2025-04-19 01:14:19,181 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence describes market trends without indicating a clear shift in the RBA's policy stance."
+}
+```
+2025-04-19 01:14:19,181 - together_inference - INFO - Processing batch 25/75 with 2 sentences.
+2025-04-19 01:14:19,181 - together_inference - INFO - Processing batch 25/75
+2025-04-19 01:14:25,313 - together_inference - INFO - Completed batch 25/75
+2025-04-19 01:14:25,314 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence describes observed market conditions without indicating any bias towards tightening or easing monetary policy."
+}
+```
+2025-04-19 01:14:25,315 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence describes an economic observation without clear implications for monetary policy tightening or easing."
+}
+```
+2025-04-19 01:14:25,315 - together_inference - INFO - Processing batch 26/75 with 2 sentences.
+2025-04-19 01:14:25,315 - together_inference - INFO - Processing batch 26/75
+2025-04-19 01:14:32,736 - together_inference - INFO - Completed batch 26/75
+2025-04-19 01:14:32,744 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence mentions the ECB foreshadowing additional monetary stimulus, which indicates a dovish stance aimed at easing policy to support inflation."
+}
+```
+2025-04-19 01:14:32,744 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence discusses commodity prices and terms of trade without indicating a clear shift in monetary policy stance."
+}
+```
+2025-04-19 01:14:32,744 - together_inference - INFO - Processing batch 27/75 with 2 sentences.
+2025-04-19 01:14:32,745 - together_inference - INFO - Processing batch 27/75
+2025-04-19 01:14:37,390 - together_inference - INFO - Completed batch 27/75
+2025-04-19 01:14:37,390 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses the Federal Reserve's actions, not the Reserve Bank of Australia's monetary policy stance."
+}
+```
+2025-04-19 01:14:37,390 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence describes an observation about the exchange rate without implying any direct monetary policy action or bias."
+}
+```
+2025-04-19 01:14:37,390 - together_inference - INFO - Processing batch 28/75 with 2 sentences.
+2025-04-19 01:14:37,390 - together_inference - INFO - Processing batch 28/75
+2025-04-19 01:14:44,706 - together_inference - INFO - Completed batch 28/75
+2025-04-19 01:14:44,707 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence discusses economic growth factors but does not directly indicate a stance on monetary policy."
+}
+```
+2025-04-19 01:14:44,707 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence suggests a need for additional policy support, indicating a dovish stance to stimulate the economy."
+}
+```
+2025-04-19 01:14:44,707 - together_inference - INFO - Processing batch 29/75 with 2 sentences.
+2025-04-19 01:14:44,707 - together_inference - INFO - Processing batch 29/75
+2025-04-19 01:14:56,692 - together_inference - INFO - Completed batch 29/75
+2025-04-19 01:14:56,694 - together_inference - INFO - Response: ```json
+{
+"label": "hawkish",
+"justification": "The sentence mentions 'increases' in loan rates, which indicates a tightening of monetary policy, characteristic of a hawkish stance."
+}
+```
+2025-04-19 01:14:56,694 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence indicates no significant change in the economic outlook, suggesting a continuation of the current policy stance without leaning towards tightening or easing."
+}
+2025-04-19 01:14:56,694 - together_inference - INFO - Processing batch 30/75 with 2 sentences.
+2025-04-19 01:14:56,694 - together_inference - INFO - Processing batch 30/75
+2025-04-19 01:15:13,272 - together_inference - INFO - Completed batch 30/75
+
+[ModelResponse(id='nqgBPS6-zqrih-9329eaee0cb5677c', created=1745039659, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence describes observed market conditions without indicating any bias towards tightening or easing monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=182, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgBPS3-zqrih-9329eaee0da6afc2', created=1745039659, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence describes an economic observation without clear implications for monetary policy tightening or easing."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=172, total_tokens=206, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgBRJo-zqrih-9329eb145cc7677c', created=1745039665, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence mentions the ECB foreshadowing additional monetary stimulus, which indicates a dovish stance aimed at easing policy to support inflation."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=183, total_tokens=229, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgBRGK-zqrih-9329eb145ec9afc2', created=1745039665, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence discusses commodity prices and terms of trade without indicating a clear shift in monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=177, total_tokens=214, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgBTXC-zqrih-9329eb42c85f677c', created=1745039673, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses the Federal Reserve\'s actions, not the Reserve Bank of Australia\'s monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=178, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgBTTr-zqrih-9329eb42cc6eafc2', created=1745039672, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence describes an observation about the exchange rate without implying any direct monetary policy action or bias."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=175, total_tokens=212, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgBUqu-zqrih-9329eb5fdacaafc2', created=1745039677, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence discusses economic growth factors but does not directly indicate a stance on monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=181, total_tokens=216, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgBUqu-zqrih-9329eb5fdc83677c', created=1745039677, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence suggests a need for additional policy support, indicating a dovish stance to stimulate the economy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=173, total_tokens=213, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgBX38-zqrih-9329eb8d9d91677c', created=1745039684, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "hawkish",\n"justification": "The sentence mentions \'increases\' in loan rates, which indicates a tightening of monetary policy, characteristic of a hawkish stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=194, total_tokens=240, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgBX33-zqrih-9329eb8d9b73afc2', created=1745039684, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence indicates no significant change in the economic outlook, suggesting a continuation of the current policy stance without leaning towards tightening or easing."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=176, total_tokens=216, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgBaas-zqrih-9329ebd87ad1677c', created=1745039696, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence mentions expectations of further monetary policy easing, which aligns with a dovish stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=182, total_tokens=220, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgBaeE-zqrih-9329ebd88b3cafc2', created=1745039696, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence does not indicate any specific monetary policy action or bias, only a general commitment to learning."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=164, total_tokens=202, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 01:15:13,274 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence mentions expectations of further monetary policy easing, which aligns with a dovish stance."
+}
+```
+2025-04-19 01:15:13,274 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence does not indicate any specific monetary policy action or bias, only a general commitment to learning."
+}
+```
+2025-04-19 01:15:13,274 - together_inference - INFO - Processing batch 31/75 with 2 sentences.
+2025-04-19 01:15:13,274 - together_inference - INFO - Processing batch 31/75
+2025-04-19 01:15:22,171 - together_inference - INFO - Completed batch 31/75
+2025-04-19 01:15:22,171 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses housing price trends in Sydney but does not provide any information about the Reserve Bank of Australia's monetary policy stance."
+}
+```
+2025-04-19 01:15:22,171 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence describes economic conditions without clear indications of tightening or easing monetary policy."
+}
+```
+2025-04-19 01:15:22,171 - together_inference - INFO - Processing batch 32/75 with 2 sentences.
+2025-04-19 01:15:22,172 - together_inference - INFO - Processing batch 32/75
+2025-04-19 01:15:37,352 - together_inference - INFO - Completed batch 32/75
+2025-04-19 01:15:37,354 - together_inference - INFO - Response: ```json
+{
+"label": "hawkish",
+"justification": "The sentence emphasizes the risks of inflation and the potential need for action to maintain credibility, which aligns with a hawkish stance focused on controlling inflation."
+}
+```
+2025-04-19 01:15:37,354 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The statement acknowledges stronger indicators but emphasizes modest employment growth, reflecting a balanced view without clear bias toward tightening or easing policy."
+}
+```
+2025-04-19 01:15:37,354 - together_inference - INFO - Processing batch 33/75 with 2 sentences.
+2025-04-19 01:15:37,354 - together_inference - INFO - Processing batch 33/75
+2025-04-19 01:15:44,459 - together_inference - INFO - Completed batch 33/75
+2025-04-19 01:15:44,460 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses economic conditions in Europe and does not pertain to the Reserve Bank of Australia's monetary policy stance."
+}
+```
+2025-04-19 01:15:44,460 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence highlights constraints on buyer demand due to tighter credit access, which could signal a need for more accommodative monetary policy."
+}
+```
+2025-04-19 01:15:44,460 - together_inference - INFO - Processing batch 34/75 with 2 sentences.
+2025-04-19 01:15:44,460 - together_inference - INFO - Processing batch 34/75
+2025-04-19 01:15:50,972 - together_inference - INFO - Completed batch 34/75
+2025-04-19 01:15:50,973 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence highlights a slowdown in consumer spending, which typically signals weaker economic activity and could prompt a more accommodative monetary policy stance."
+}
+```
+2025-04-19 01:15:50,973 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence discusses lending standards but does not indicate a clear shift toward tightening or easing monetary policy."
+}
+```
+2025-04-19 01:15:50,973 - together_inference - INFO - Processing batch 35/75 with 2 sentences.
+2025-04-19 01:15:50,973 - together_inference - INFO - Processing batch 35/75
+2025-04-19 01:16:01,397 - together_inference - INFO - Completed batch 35/75
+2025-04-19 01:16:01,399 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence describes labor market trends without clear implications for monetary policy tightening or easing."
+}
+```
+2025-04-19 01:16:01,399 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence provides mixed signals about household spending (softened in July but better in August), which does not strongly indicate a tightening or easing bias in monetary policy."
+}
+```
+2025-04-19 01:16:01,399 - together_inference - INFO - Processing batch 36/75 with 2 sentences.
+2025-04-19 01:16:01,399 - together_inference - INFO - Processing batch 36/75
+2025-04-19 01:16:11,676 - together_inference - INFO - Completed batch 36/75
+
+[ModelResponse(id='nqgBfWo-zqrih-9329ec401f5f677c', created=1745039713, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses housing price trends in Sydney but does not provide any information about the Reserve Bank of Australia\'s monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=177, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgBfWj-zqrih-9329ec401e88afc2', created=1745039713, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence describes economic conditions without clear indications of tightening or easing monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=33, prompt_tokens=182, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgBiBc-zqrih-9329ec77bcdcafc2', created=1745039722, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "hawkish",\n"justification": "The sentence emphasizes the risks of inflation and the potential need for action to maintain credibility, which aligns with a hawkish stance focused on controlling inflation."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=189, total_tokens=238, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgBiAY-zqrih-9329ec77cd47b0d9', created=1745039722, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The statement acknowledges stronger indicators but emphasizes modest employment growth, reflecting a balanced view without clear bias toward tightening or easing policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=181, total_tokens=223, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgBnfn-zqrih-9329ecd69f19afc2', created=1745039737, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses economic conditions in Europe and does not pertain to the Reserve Bank of Australia\'s monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=179, total_tokens=220, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgBnfz-zqrih-9329ecd6ad13bd62', created=1745039737, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence highlights constraints on buyer demand due to tighter credit access, which could signal a need for more accommodative monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=176, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgBpny-zqrih-9329ed0309f5afc2', created=1745039744, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence highlights a slowdown in consumer spending, which typically signals weaker economic activity and could prompt a more accommodative monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=196, total_tokens=242, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgBpnJ-zqrih-9329ed030c3bbd62', created=1745039744, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence discusses lending standards but does not indicate a clear shift toward tightening or easing monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=165, total_tokens=202, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgBrnk-zqrih-9329ed2bc8aaafc2', created=1745039751, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence describes labor market trends without clear implications for monetary policy tightening or easing."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=184, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgBrmw-zqrih-9329ed2bcf43bd62', created=1745039751, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence provides mixed signals about household spending (softened in July but better in August), which does not strongly indicate a tightening or easing bias in monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=174, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgBupL-zqrih-9329ed6ceacebd62', created=1745039761, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence discusses electricity prices and government rebates, which are not directly related to monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=183, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgBurW-zqrih-9329ed6cffcfafa8', created=1745039761, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "hawkish",\n"justification": "The sentence indicates rising interest rates and further increases in mortgage payments, which are consistent with a tightening monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=186, total_tokens=229, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 01:16:11,679 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence discusses electricity prices and government rebates, which are not directly related to monetary policy stance."
+}
+2025-04-19 01:16:11,679 - together_inference - INFO - Response: ```json
+{
+"label": "hawkish",
+"justification": "The sentence indicates rising interest rates and further increases in mortgage payments, which are consistent with a tightening monetary policy stance."
+}
+```
+2025-04-19 01:16:11,679 - together_inference - INFO - Processing batch 37/75 with 2 sentences.
+2025-04-19 01:16:11,679 - together_inference - INFO - Processing batch 37/75
+2025-04-19 01:16:17,627 - together_inference - INFO - Completed batch 37/75
+2025-04-19 01:16:17,628 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence describes the Australian dollar's exchange rate movement without indicating any direct monetary policy stance."
+}
+```
+2025-04-19 01:16:17,628 - together_inference - INFO - Response: ```json
+{
+"label": "hawkish",
+"justification": "The sentence mentions 'tighter credit standards' and measures to contain risk, which align with a hawkish stance aimed at reducing financial vulnerabilities."
+}
+```
+2025-04-19 01:16:17,628 - together_inference - INFO - Processing batch 38/75 with 2 sentences.
+2025-04-19 01:16:17,628 - together_inference - INFO - Processing batch 38/75
+2025-04-19 01:16:21,645 - together_inference - INFO - Completed batch 38/75
+2025-04-19 01:16:21,646 - together_inference - INFO - Response: ```json
+{
+"label": "hawkish",
+"justification": "The sentence suggests a potential need for tighter monetary policy to address persistent inflation, which aligns with a hawkish stance."
+}
+```
+2025-04-19 01:16:21,646 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence provides information about economic growth but does not directly indicate a stance on monetary policy."
+}
+```
+2025-04-19 01:16:21,646 - together_inference - INFO - Processing batch 39/75 with 2 sentences.
+2025-04-19 01:16:21,646 - together_inference - INFO - Processing batch 39/75
+2025-04-19 01:16:31,578 - together_inference - INFO - Completed batch 39/75
+2025-04-19 01:16:31,578 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The statement acknowledges both the benefits of a lower exchange rate for growth and the fact that it remains high by historical standards, without clear bias toward tightening or easing policy."
+}
+```
+2025-04-19 01:16:31,578 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence highlights economic weaknesses (housing sector and business sentiment), which typically suggest a dovish stance favoring lower interest rates to stimulate growth."
+}
+```
+2025-04-19 01:16:31,578 - together_inference - INFO - Processing batch 40/75 with 2 sentences.
+2025-04-19 01:16:31,578 - together_inference - INFO - Processing batch 40/75
+2025-04-19 01:16:39,680 - together_inference - INFO - Completed batch 40/75
+2025-04-19 01:16:39,680 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence describes steady employment conditions without indicating any clear bias toward tightening or easing monetary policy."
+}
+2025-04-19 01:16:39,680 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence discusses economic impacts of bushfires without indicating a clear monetary policy stance."
+}
+```
+2025-04-19 01:16:39,680 - together_inference - INFO - Processing batch 41/75 with 2 sentences.
+2025-04-19 01:16:39,680 - together_inference - INFO - Processing batch 41/75
+2025-04-19 01:16:49,295 - together_inference - INFO - Completed batch 41/75
+2025-04-19 01:16:49,297 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence suggests a cautious approach by highlighting no immediate need for rate hikes and concerns about higher unemployment, indicating a dovish stance."
+}
+```
+2025-04-19 01:16:49,297 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The statement merely observes a lack of significant change in global commodity prices, which does not indicate a shift in monetary policy stance."
+}
+```
+2025-04-19 01:16:49,297 - together_inference - INFO - Processing batch 42/75 with 2 sentences.
+2025-04-19 01:16:49,297 - together_inference - INFO - Processing batch 42/75
+2025-04-19 01:16:58,006 - together_inference - INFO - Completed batch 42/75
+
+[ModelResponse(id='nqgBxux-zqrih-9329edad2fc4bd62', created=1745039771, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence describes the Australian dollar\'s exchange rate movement without indicating any direct monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=177, total_tokens=213, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgBxso-zqrih-9329edad2f27afa8', created=1745039771, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "hawkish",\n"justification": "The sentence mentions \'tighter credit standards\' and measures to contain risk, which align with a hawkish stance aimed at reducing financial vulnerabilities."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=178, total_tokens=226, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgBzjo-zqrih-9329edd25de0bd62', created=1745039778, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "hawkish",\n"justification": "The sentence suggests a potential need for tighter monetary policy to address persistent inflation, which aligns with a hawkish stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=196, total_tokens=239, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgBzeN-zqrih-9329edd25e73afa8', created=1745039777, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence provides information about economic growth but does not directly indicate a stance on monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=166, total_tokens=202, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgC1qd-zqrih-9329edeb7a40bd62', created=1745039781, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The statement acknowledges both the benefits of a lower exchange rate for growth and the fact that it remains high by historical standards, without clear bias toward tightening or easing policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=51, prompt_tokens=186, total_tokens=237, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgC1qi-28Eivz-9329edeb78ddafa8', created=1745039781, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence highlights economic weaknesses (housing sector and business sentiment), which typically suggest a dovish stance favoring lower interest rates to stimulate growth."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=172, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgC4nf-zqrih-9329ee298f54bd62', created=1745039791, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence describes steady employment conditions without indicating any clear bias toward tightening or easing monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=32, prompt_tokens=189, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgC4oT-zqrih-9329ee299ab8ed7e', created=1745039791, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence discusses economic impacts of bushfires without indicating a clear monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=193, total_tokens=227, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgC7Fn-zqrih-9329ee5c2c06bd62', created=1745039799, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence suggests a cautious approach by highlighting no immediate need for rate hikes and concerns about higher unemployment, indicating a dovish stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=199, total_tokens=245, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgC7Cj-zqrih-9329ee5c3cf5bcd2', created=1745039799, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The statement merely observes a lack of significant change in global commodity prices, which does not indicate a shift in monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=172, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCA4H-zqrih-9329ee984bc6bcd2', created=1745039809, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses data from China, which is not directly related to the Reserve Bank of Australia\'s monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=167, total_tokens=209, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCA4S-zqrih-9329ee9859b0bd59', created=1745039809, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence describes current market conditions without indicating any bias towards tightening or easing monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=185, total_tokens=220, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 01:16:58,007 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses data from China, which is not directly related to the Reserve Bank of Australia's monetary policy stance."
+}
+```
+2025-04-19 01:16:58,007 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence describes current market conditions without indicating any bias towards tightening or easing monetary policy."
+}
+```
+2025-04-19 01:16:58,007 - together_inference - INFO - Processing batch 43/75 with 2 sentences.
+2025-04-19 01:16:58,007 - together_inference - INFO - Processing batch 43/75
+2025-04-19 01:17:07,385 - together_inference - INFO - Completed batch 43/75
+2025-04-19 01:17:07,387 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses meat prices and demand from China, which is unrelated to monetary policy stance."
+}
+```
+2025-04-19 01:17:07,387 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence highlights concerns about high underemployment and potential labor market damage, which typically suggest a cautious or accommodative monetary policy stance."
+}
+```
+2025-04-19 01:17:07,387 - together_inference - INFO - Processing batch 44/75 with 2 sentences.
+2025-04-19 01:17:07,387 - together_inference - INFO - Processing batch 44/75
+2025-04-19 01:17:11,033 - together_inference - INFO - Completed batch 44/75
+2025-04-19 01:17:11,033 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The statement describes forward-looking indicators without clear implications for tightening or easing monetary policy."
+}
+```
+2025-04-19 01:17:11,033 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence discusses wage growth expectations without clear implications for tightening or easing monetary policy."
+}
+```
+2025-04-19 01:17:11,033 - together_inference - INFO - Processing batch 45/75 with 2 sentences.
+2025-04-19 01:17:11,034 - together_inference - INFO - Processing batch 45/75
+2025-04-19 01:17:16,616 - together_inference - INFO - Completed batch 45/75
+2025-04-19 01:17:16,617 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence describes market volatility due to mixed signals (inflationary risks and credit disruption) without indicating a clear policy bias."
+}
+```
+2025-04-19 01:17:16,617 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses regional housing price trends but does not address monetary policy or interest rate decisions."
+}
+```
+2025-04-19 01:17:16,618 - together_inference - INFO - Processing batch 46/75 with 2 sentences.
+2025-04-19 01:17:16,618 - together_inference - INFO - Processing batch 46/75
+2025-04-19 01:17:20,717 - together_inference - INFO - Completed batch 46/75
+2025-04-19 01:17:20,717 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence discusses economic conditions without clear implications for tightening or easing monetary policy."
+}
+```
+2025-04-19 01:17:20,718 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The statement suggests concern about an appreciating exchange rate complicating economic adjustment, which typically aligns with a dovish stance favoring easier monetary policy."
+}
+```
+2025-04-19 01:17:20,718 - together_inference - INFO - Processing batch 47/75 with 2 sentences.
+2025-04-19 01:17:20,718 - together_inference - INFO - Processing batch 47/75
+2025-04-19 01:17:23,523 - together_inference - INFO - Completed batch 47/75
+2025-04-19 01:17:23,523 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence discusses trade and current account metrics but does not directly indicate a monetary policy stance."
+}
+```
+2025-04-19 01:17:23,523 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence expresses concern about potential global economic weakness and its implications for Australia, suggesting a cautious or accommodative policy stance."
+}
+```
+2025-04-19 01:17:23,523 - together_inference - INFO - Processing batch 48/75 with 2 sentences.
+2025-04-19 01:17:23,523 - together_inference - INFO - Processing batch 48/75
+2025-04-19 01:17:30,197 - together_inference - INFO - Completed batch 48/75
+
+[ModelResponse(id='nqgCCeS-zqrih-9329eecebb0fbd59', created=1745039818, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses meat prices and demand from China, which is unrelated to monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=206, total_tokens=243, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCChy-28Eivz-9329eeceb8b8bcd2', created=1745039818, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence highlights concerns about high underemployment and potential labor market damage, which typically suggest a cautious or accommodative monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=189, total_tokens=235, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCFSf-28Eivz-9329ef095d5bbd59', created=1745039827, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The statement describes forward-looking indicators without clear implications for tightening or easing monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=179, total_tokens=213, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCFUk-zqrih-9329ef0968b57bca', created=1745039827, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence discusses wage growth expectations without clear implications for tightening or easing monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=190, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCGXb-zqrih-9329ef202d17bd59', created=1745039831, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence describes market volatility due to mixed signals (inflationary risks and credit disruption) without indicating a clear policy bias."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=187, total_tokens=230, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCGXw-zqrih-9329ef202a387bca', created=1745039831, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses regional housing price trends but does not address monetary policy or interest rate decisions."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=204, total_tokens=241, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCJBN-zqrih-9329ef42f8f17bca', created=1745039836, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence discusses economic conditions without clear implications for tightening or easing monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=33, prompt_tokens=186, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCJBE-zqrih-9329ef42f905bd59', created=1745039836, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The statement suggests concern about an appreciating exchange rate complicating economic adjustment, which typically aligns with a dovish stance favoring easier monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=163, total_tokens=210, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCKQ8-zqrih-9329ef5cab51bd59', created=1745039840, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence discusses trade and current account metrics but does not directly indicate a monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=188, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCKPz-zqrih-9329ef5caf147bca', created=1745039840, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence expresses concern about potential global economic weakness and its implications for Australia, suggesting a cautious or accommodative policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=191, total_tokens=235, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCLEN-zqrih-9329ef6e2d4ebd59', created=1745039843, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence provides factual data on housing credit growth without indicating any bias towards tightening or easing monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=203, total_tokens=241, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCLEN-zqrih-9329ef6e2b687bca', created=1745039843, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence discusses uncertainty about external factors (China\'s policy measures) without indicating a clear bias toward tightening or easing monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=186, total_tokens=229, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 01:17:30,198 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence provides factual data on housing credit growth without indicating any bias towards tightening or easing monetary policy."
+}
+```
+2025-04-19 01:17:30,198 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence discusses uncertainty about external factors (China's policy measures) without indicating a clear bias toward tightening or easing monetary policy."
+}
+```
+2025-04-19 01:17:30,198 - together_inference - INFO - Processing batch 49/75 with 2 sentences.
+2025-04-19 01:17:30,198 - together_inference - INFO - Processing batch 49/75
+2025-04-19 01:17:32,991 - together_inference - INFO - Completed batch 49/75
+2025-04-19 01:17:32,992 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence indicates that forecasts were similar to previous ones, with only minor adjustments for recent data, suggesting no significant shift in policy stance."
+}
+2025-04-19 01:17:32,992 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The statement 'overall growth was expected to be moderate in the period ahead' does not indicate a clear bias toward tightening or easing monetary policy."
+}
+```
+2025-04-19 01:17:32,992 - together_inference - INFO - Processing batch 50/75 with 2 sentences.
+2025-04-19 01:17:32,992 - together_inference - INFO - Processing batch 50/75
+2025-04-19 01:17:37,876 - together_inference - INFO - Completed batch 50/75
+2025-04-19 01:17:37,877 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses bank profits and does not pertain to monetary policy stance."
+}
+```
+2025-04-19 01:17:37,877 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses commodity prices and export contracts but does not directly relate to monetary policy stance."
+}
+```
+2025-04-19 01:17:37,877 - together_inference - INFO - Processing batch 51/75 with 2 sentences.
+2025-04-19 01:17:37,877 - together_inference - INFO - Processing batch 51/75
+2025-04-19 01:17:43,696 - together_inference - INFO - Completed batch 51/75
+2025-04-19 01:17:43,696 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence indicates weaker-than-expected economic growth outside the resources sector, which typically suggests a more accommodative (dovish) monetary policy stance."
+}
+```
+2025-04-19 01:17:43,696 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses Japan's economic conditions and regional trade, with no direct relevance to the Reserve Bank of Australia's monetary policy stance."
+}
+```
+2025-04-19 01:17:43,696 - together_inference - INFO - Processing batch 52/75 with 2 sentences.
+2025-04-19 01:17:43,696 - together_inference - INFO - Processing batch 52/75
+2025-04-19 01:17:53,374 - together_inference - INFO - Completed batch 52/75
+2025-04-19 01:17:53,375 - together_inference - INFO - Response: ```json
+{
+"label": "hawkish",
+"justification": "The sentence highlights risks of higher inflation and wages growth due to supply constraints and labor shortages, which could prompt tighter monetary policy."
+}
+```
+2025-04-19 01:17:53,375 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence highlights weaker confidence and household spending, along with a mild slowdown in the labor market, suggesting concerns about economic growth that could warrant a more accommodative policy stance."
+}
+```
+2025-04-19 01:17:53,375 - together_inference - INFO - Processing batch 53/75 with 2 sentences.
+2025-04-19 01:17:53,375 - together_inference - INFO - Processing batch 53/75
+2025-04-19 01:17:55,699 - together_inference - INFO - Completed batch 53/75
+2025-04-19 01:17:55,700 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses oil prices but does not directly relate to the Reserve Bank of Australia's monetary policy stance."
+}
+```
+2025-04-19 01:17:55,700 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence provides a factual update on auction clearance rates without clear implications for monetary policy tightening or easing."
+}
+```
+2025-04-19 01:17:55,700 - together_inference - INFO - Processing batch 54/75 with 2 sentences.
+2025-04-19 01:17:55,700 - together_inference - INFO - Processing batch 54/75
+2025-04-19 01:17:58,221 - together_inference - INFO - Completed batch 54/75
+
+[ModelResponse(id='nqgCNDR-zqrih-9329ef97eb85bd59', created=1745039850, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence indicates that forecasts were similar to previous ones, with only minor adjustments for recent data, suggesting no significant shift in policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=192, total_tokens=233, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCNDM-zqrih-9329ef97edaa7bca', created=1745039850, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The statement \'overall growth was expected to be moderate in the period ahead\' does not indicate a clear bias toward tightening or easing monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=47, prompt_tokens=166, total_tokens=213, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCP4C-zqrih-9329efa95ba77bca', created=1745039853, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses bank profits and does not pertain to monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=33, prompt_tokens=172, total_tokens=205, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCP3i-zqrih-9329efa95cb8bd59', created=1745039853, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses commodity prices and export contracts but does not directly relate to monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=179, total_tokens=216, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCQZ5-zqrih-9329efc7ea16bd59', created=1745039858, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence indicates weaker-than-expected economic growth outside the resources sector, which typically suggests a more accommodative (dovish) monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=187, total_tokens=237, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCQXD-zqrih-9329efc7e8b77bca', created=1745039858, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses Japan\'s economic conditions and regional trade, with no direct relevance to the Reserve Bank of Australia\'s monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=193, total_tokens=238, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCSEG-zqrih-9329efec3e1e7bca', created=1745039863, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "hawkish",\n"justification": "The sentence highlights risks of higher inflation and wages growth due to supply constraints and labor shortages, which could prompt tighter monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=201, total_tokens=246, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCSFk-28Eivz-9329efec3db8bd59', created=1745039863, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence highlights weaker confidence and household spending, along with a mild slowdown in the labor market, suggesting concerns about economic growth that could warrant a more accommodative policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=54, prompt_tokens=200, total_tokens=254, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCV9k-zqrih-9329f028ba8bbd59', created=1745039873, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses oil prices but does not directly relate to the Reserve Bank of Australia\'s monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=40, prompt_tokens=167, total_tokens=207, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCV6s-zqrih-9329f028be147bca', created=1745039873, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence provides a factual update on auction clearance rates without clear implications for monetary policy tightening or easing."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=174, total_tokens=212, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCVo8-zqrih-9329f037496ebd59', created=1745039875, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "neutral",\n"justification": "The sentence describes market conditions without indicating a clear bias towards tightening or easing monetary policy."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=31, prompt_tokens=180, total_tokens=211, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCVo8-zqrih-9329f0374f0f7bca', created=1745039875, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence emphasizes caution and the lagged effects of past policy adjustments, suggesting a reluctance to raise rates further, which aligns with a dovish stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=192, total_tokens=242, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 01:17:58,221 - together_inference - INFO - Response: {
+"label": "neutral",
+"justification": "The sentence describes market conditions without indicating a clear bias towards tightening or easing monetary policy."
+}
+2025-04-19 01:17:58,221 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence emphasizes caution and the lagged effects of past policy adjustments, suggesting a reluctance to raise rates further, which aligns with a dovish stance."
+}
+```
+2025-04-19 01:17:58,222 - together_inference - INFO - Processing batch 55/75 with 2 sentences.
+2025-04-19 01:17:58,222 - together_inference - INFO - Processing batch 55/75
+2025-04-19 01:18:00,460 - together_inference - INFO - Completed batch 55/75
+2025-04-19 01:18:00,461 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses fiscal measures and their impact on firms, not monetary policy or interest rate decisions."
+}
+```
+2025-04-19 01:18:00,461 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses administrative leave under the Reserve Bank Act and does not pertain to monetary policy stance."
+}
+```
+2025-04-19 01:18:00,461 - together_inference - INFO - Processing batch 56/75 with 2 sentences.
+2025-04-19 01:18:00,461 - together_inference - INFO - Processing batch 56/75
+2025-04-19 01:18:04,720 - together_inference - INFO - Completed batch 56/75
+2025-04-19 01:18:04,721 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence discusses economic conditions and demand shifts without clear indications of tightening or easing monetary policy."
+}
+```
+2025-04-19 01:18:04,721 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence describes factors affecting inflation but does not explicitly indicate a policy stance or action by the Reserve Bank of Australia."
+}
+```
+2025-04-19 01:18:04,721 - together_inference - INFO - Processing batch 57/75 with 2 sentences.
+2025-04-19 01:18:04,721 - together_inference - INFO - Processing batch 57/75
+2025-04-19 01:18:09,364 - together_inference - INFO - Completed batch 57/75
+2025-04-19 01:18:09,364 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence states that inflation is at the midpoint of the target range, which does not suggest a need for tightening (hawkish) or easing (dovish) monetary policy."
+}
+```
+2025-04-19 01:18:09,364 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The mention of 'continued slow growth in wages' suggests economic weakness, which typically aligns with a dovish stance favoring accommodative monetary policy."
+}
+```
+2025-04-19 01:18:09,364 - together_inference - INFO - Processing batch 58/75 with 2 sentences.
+2025-04-19 01:18:09,364 - together_inference - INFO - Processing batch 58/75
+2025-04-19 01:18:14,682 - together_inference - INFO - Completed batch 58/75
+2025-04-19 01:18:14,683 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence provides factual information about the unemployment rate without indicating any bias towards tightening or easing monetary policy."
+}
+```
+2025-04-19 01:18:14,683 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence indicates a willingness to consider further rate cuts if needed to support growth, which aligns with a dovish stance."
+}
+```
+2025-04-19 01:18:14,683 - together_inference - INFO - Processing batch 59/75 with 2 sentences.
+2025-04-19 01:18:14,683 - together_inference - INFO - Processing batch 59/75
+2025-04-19 01:18:26,045 - together_inference - INFO - Completed batch 59/75
+2025-04-19 01:18:26,055 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence indicates expectations of a low cash rate for an extended period, which aligns with a dovish monetary policy stance aimed at stimulating economic activity."
+}
+```
+2025-04-19 01:18:26,055 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The mention of 'significant weight on the downside risks to consumption' suggests a cautious or accommodative stance, which aligns with a dovish monetary policy."
+}
+```
+2025-04-19 01:18:26,055 - together_inference - INFO - Processing batch 60/75 with 2 sentences.
+2025-04-19 01:18:26,055 - together_inference - INFO - Processing batch 60/75
+2025-04-19 01:18:33,519 - together_inference - INFO - Completed batch 60/75
+
+[ModelResponse(id='nqgCWYp-zqrih-9329f04709a57bca', created=1745039878, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses fiscal measures and their impact on firms, not monetary policy or interest rate decisions."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=183, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCWZH-zqrih-9329f0470950bd59', created=1745039878, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses administrative leave under the Reserve Bank Act and does not pertain to monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=183, total_tokens=221, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCXDH-zqrih-9329f0550ed2bd59', created=1745039880, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence discusses economic conditions and demand shifts without clear indications of tightening or easing monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=36, prompt_tokens=181, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCXD9-zqrih-9329f055091a7bca', created=1745039880, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence describes factors affecting inflation but does not explicitly indicate a policy stance or action by the Reserve Bank of Australia."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=178, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCYUd-zqrih-9329f06fabbbbd59', created=1745039884, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence states that inflation is at the midpoint of the target range, which does not suggest a need for tightening (hawkish) or easing (dovish) monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=55, prompt_tokens=183, total_tokens=238, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCYVG-zqrih-9329f06faff47bca', created=1745039884, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The mention of \'continued slow growth in wages\' suggests economic weakness, which typically aligns with a dovish stance favoring accommodative monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=165, total_tokens=213, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCZt1-zqrih-9329f08cb9babd59', created=1745039889, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence provides factual information about the unemployment rate without indicating any bias towards tightening or easing monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=180, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCZt5-zqrih-9329f08cbf687bca', created=1745039889, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence indicates a willingness to consider further rate cuts if needed to support growth, which aligns with a dovish stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=222, total_tokens=266, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCbSQ-zqrih-9329f0aded7ebd59', created=1745039894, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence indicates expectations of a low cash rate for an extended period, which aligns with a dovish monetary policy stance aimed at stimulating economic activity."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=189, total_tokens=238, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCbSa-zqrih-9329f0adee757bca', created=1745039894, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The mention of \'significant weight on the downside risks to consumption\' suggests a cautious or accommodative stance, which aligns with a dovish monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=50, prompt_tokens=168, total_tokens=218, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCepc-zqrih-9329f0f4f870bd59', created=1745039906, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence mentions both soft GDP outcomes in the region and solid domestic demand growth, which balances positive and negative economic signals without clearly leaning toward tightening or easing monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=51, prompt_tokens=180, total_tokens=231, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCeq5-zqrih-9329f0f4fe1a7bca', created=1745039906, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The statement acknowledges potential inflationary pressures but expects inflation to remain within the target range, indicating a balanced outlook."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=187, total_tokens=226, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 01:18:33,520 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence mentions both soft GDP outcomes in the region and solid domestic demand growth, which balances positive and negative economic signals without clearly leaning toward tightening or easing monetary policy."
+}
+```
+2025-04-19 01:18:33,520 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The statement acknowledges potential inflationary pressures but expects inflation to remain within the target range, indicating a balanced outlook."
+}
+```
+2025-04-19 01:18:33,520 - together_inference - INFO - Processing batch 61/75 with 2 sentences.
+2025-04-19 01:18:33,520 - together_inference - INFO - Processing batch 61/75
+2025-04-19 01:18:42,236 - together_inference - INFO - Completed batch 61/75
+2025-04-19 01:18:42,236 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses equity prices in advanced economies but does not directly relate to the Reserve Bank of Australia's monetary policy stance."
+}
+```
+2025-04-19 01:18:42,236 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence discusses support measures that were implemented to mitigate economic distress, which aligns with a dovish stance aimed at stimulating the economy."
+}
+```
+2025-04-19 01:18:42,236 - together_inference - INFO - Processing batch 62/75 with 2 sentences.
+2025-04-19 01:18:42,237 - together_inference - INFO - Processing batch 62/75
+2025-04-19 01:18:51,295 - together_inference - INFO - Completed batch 62/75
+2025-04-19 01:18:51,297 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence discusses equity prices and resource companies but does not provide any information about monetary policy stance."
+}
+2025-04-19 01:18:51,297 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses liquidity and demand for short-term bonds but does not directly address monetary policy stance."
+}
+```
+2025-04-19 01:18:51,297 - together_inference - INFO - Processing batch 63/75 with 2 sentences.
+2025-04-19 01:18:51,297 - together_inference - INFO - Processing batch 63/75
+2025-04-19 01:18:53,090 - together_inference - INFO - Completed batch 63/75
+2025-04-19 01:18:53,090 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses commercial property weakness but does not directly address monetary policy stance."
+}
+```
+2025-04-19 01:18:53,090 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence suggests that disinflationary forces and lower commodity prices could ease inflationary pressures, which typically supports a more accommodative monetary policy stance."
+}
+```
+2025-04-19 01:18:53,090 - together_inference - INFO - Processing batch 64/75 with 2 sentences.
+2025-04-19 01:18:53,090 - together_inference - INFO - Processing batch 64/75
+2025-04-19 01:18:54,515 - together_inference - INFO - Completed batch 64/75
+2025-04-19 01:18:54,515 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence mentions an 'accommodative setting of monetary policy' aimed at supporting demand and growth, which aligns with a dovish stance."
+}
+```
+2025-04-19 01:18:54,515 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence acknowledges economic improvement but does not suggest a clear bias toward tightening or easing monetary policy."
+}
+```
+2025-04-19 01:18:54,515 - together_inference - INFO - Processing batch 65/75 with 2 sentences.
+2025-04-19 01:18:54,515 - together_inference - INFO - Processing batch 65/75
+2025-04-19 01:18:56,905 - together_inference - INFO - Completed batch 65/75
+2025-04-19 01:18:56,905 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence discusses exchange rate observations and external factors without clear indications of tightening or easing monetary policy."
+}
+```
+2025-04-19 01:18:56,905 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence highlights uncertainty and risks to economic forecasts, which typically suggests a cautious or accommodative monetary policy stance."
+}
+```
+2025-04-19 01:18:56,905 - together_inference - INFO - Processing batch 66/75 with 2 sentences.
+2025-04-19 01:18:56,905 - together_inference - INFO - Processing batch 66/75
+2025-04-19 01:19:00,289 - together_inference - INFO - Completed batch 66/75
+
+[ModelResponse(id='nqgCh37-zqrih-9329f123a8abbd59', created=1745039913, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses equity prices in advanced economies but does not directly relate to the Reserve Bank of Australia\'s monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=169, total_tokens=212, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCh44-zqrih-9329f123ad637bca', created=1745039913, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence discusses support measures that were implemented to mitigate economic distress, which aligns with a dovish stance aimed at stimulating the economy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=195, total_tokens=241, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCjdj-zqrih-9329f15a2ea3bd59', created=1745039922, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence discusses equity prices and resource companies but does not provide any information about monetary policy stance."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=182, total_tokens=216, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCjde-zqrih-9329f15a2e1d7bca', created=1745039922, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses liquidity and demand for short-term bonds but does not directly address monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=38, prompt_tokens=194, total_tokens=232, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCnKe-zqrih-9329f192cfbdbd59', created=1745039931, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses commercial property weakness but does not directly address monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=168, total_tokens=202, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCnLF-zqrih-9329f192ca617bca', created=1745039931, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence suggests that disinflationary forces and lower commodity prices could ease inflationary pressures, which typically supports a more accommodative monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=49, prompt_tokens=177, total_tokens=226, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCnrW-zqrih-9329f19dfab0bd59', created=1745039933, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence mentions an \'accommodative setting of monetary policy\' aimed at supporting demand and growth, which aligns with a dovish stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=192, total_tokens=240, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCnra-zqrih-9329f19dffb97bca', created=1745039933, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence acknowledges economic improvement but does not suggest a clear bias toward tightening or easing monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=180, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCoHE-zqrih-9329f1a6db76bd59', created=1745039934, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence discusses exchange rate observations and external factors without clear indications of tightening or easing monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=37, prompt_tokens=203, total_tokens=240, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCoHA-zqrih-9329f1a6da997bca', created=1745039934, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence highlights uncertainty and risks to economic forecasts, which typically suggests a cautious or accommodative monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=177, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCoza-zqrih-9329f1b5ca00bd59', created=1745039937, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence indicates a decline in prices, which could suggest lower inflationary pressures and support a more accommodative monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=182, total_tokens=226, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCp1i-zqrih-9329f1b5cd5c7bca', created=1745039937, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence indicates caution in hiring and waiting for demand growth, suggesting economic weakness and a potential need for accommodative monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=179, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 01:19:00,291 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence indicates a decline in prices, which could suggest lower inflationary pressures and support a more accommodative monetary policy stance."
+}
+```
+2025-04-19 01:19:00,291 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence indicates caution in hiring and waiting for demand growth, suggesting economic weakness and a potential need for accommodative monetary policy."
+}
+```
+2025-04-19 01:19:00,291 - together_inference - INFO - Processing batch 67/75 with 2 sentences.
+2025-04-19 01:19:00,291 - together_inference - INFO - Processing batch 67/75
+2025-04-19 01:19:03,255 - together_inference - INFO - Completed batch 67/75
+2025-04-19 01:19:03,256 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses local government finances and land sales, which are not directly related to the Reserve Bank of Australia's monetary policy stance."
+}
+```
+2025-04-19 01:19:03,256 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence discusses economic conditions without clear implications for monetary policy tightening or easing."
+}
+```
+2025-04-19 01:19:03,256 - together_inference - INFO - Processing batch 68/75 with 2 sentences.
+2025-04-19 01:19:03,256 - together_inference - INFO - Processing batch 68/75
+2025-04-19 01:19:05,629 - together_inference - INFO - Completed batch 68/75
+2025-04-19 01:19:05,629 - together_inference - INFO - Response: ```json
+{
+"label": "hawkish",
+"justification": "The sentence suggests concern about inflation potentially rising more than expected, which aligns with a hawkish stance focused on tightening monetary policy to control inflation."
+}
+```
+2025-04-19 01:19:05,629 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence suggests concern about weaker demand, which typically aligns with a dovish stance favoring looser monetary policy."
+}
+```
+2025-04-19 01:19:05,629 - together_inference - INFO - Processing batch 69/75 with 2 sentences.
+2025-04-19 01:19:05,630 - together_inference - INFO - Processing batch 69/75
+2025-04-19 01:19:08,944 - together_inference - INFO - Completed batch 69/75
+2025-04-19 01:19:08,955 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses other central banks' actions and fiscal measures in the region, not the Reserve Bank of Australia's monetary policy stance."
+}
+```
+2025-04-19 01:19:08,955 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence highlights a surprisingly large fall in retail spending, which could signal economic weakness and justify a more accommodative monetary policy stance."
+}
+```
+2025-04-19 01:19:08,955 - together_inference - INFO - Processing batch 70/75 with 2 sentences.
+2025-04-19 01:19:08,955 - together_inference - INFO - Processing batch 70/75
+2025-04-19 01:19:11,470 - together_inference - INFO - Completed batch 70/75
+2025-04-19 01:19:11,471 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses Chinese authorities' policy measures, not the Reserve Bank of Australia's monetary policy stance."
+}
+```
+2025-04-19 01:19:11,471 - together_inference - INFO - Response: {
+"label": "irrelevant",
+"justification": "The sentence discusses corporate profits and the mining sector but does not directly address monetary policy or interest rates."
+}
+2025-04-19 01:19:11,471 - together_inference - INFO - Processing batch 71/75 with 2 sentences.
+2025-04-19 01:19:11,471 - together_inference - INFO - Processing batch 71/75
+2025-04-19 01:19:13,720 - together_inference - INFO - Completed batch 71/75
+2025-04-19 01:19:13,720 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence indicates declining inflation and contained domestic pressures, which typically suggest a dovish stance favoring lower interest rates."
+}
+```
+2025-04-19 01:19:13,720 - together_inference - INFO - Response: ```json
+{
+"label": "hawkish",
+"justification": "The sentence highlights strong employment growth without signs of slowing, which could signal upward pressure on wages and inflation, prompting a tighter monetary policy stance."
+}
+```
+2025-04-19 01:19:13,720 - together_inference - INFO - Processing batch 72/75 with 2 sentences.
+2025-04-19 01:19:13,720 - together_inference - INFO - Processing batch 72/75
+2025-04-19 01:19:16,745 - together_inference - INFO - Completed batch 72/75
+
+[ModelResponse(id='nqgCpzq-zqrih-9329f1caff3cbd59', created=1745039940, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses local government finances and land sales, which are not directly related to the Reserve Bank of Australia\'s monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=177, total_tokens=222, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCq3r-zqrih-9329f1cafe9d7bca', created=1745039940, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence discusses economic conditions without clear implications for monetary policy tightening or easing."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=33, prompt_tokens=196, total_tokens=229, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCqsn-zqrih-9329f1dd8c87bd59', created=1745039943, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "hawkish",\n"justification": "The sentence suggests concern about inflation potentially rising more than expected, which aligns with a hawkish stance focused on tightening monetary policy to control inflation."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=186, total_tokens=234, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCqsq-zqrih-9329f1dd8c967bca', created=1745039943, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence suggests concern about weaker demand, which typically aligns with a dovish stance favoring looser monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=175, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCrb2-zqrih-9329f1ec5e67bd59', created=1745039945, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses other central banks\' actions and fiscal measures in the region, not the Reserve Bank of Australia\'s monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=45, prompt_tokens=179, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCrag-zqrih-9329f1ec5ee17bca', created=1745039945, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence highlights a surprisingly large fall in retail spending, which could signal economic weakness and justify a more accommodative monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=182, total_tokens=228, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCsa6-zqrih-9329f2011e78bd59', created=1745039949, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses Chinese authorities\' policy measures, not the Reserve Bank of Australia\'s monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=39, prompt_tokens=185, total_tokens=224, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCsa5-zqrih-9329f201193f7bca', created=1745039949, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='{\n"label": "irrelevant",\n"justification": "The sentence discusses corporate profits and the mining sector but does not directly address monetary policy or interest rates."\n}', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=35, prompt_tokens=175, total_tokens=210, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCtKf-zqrih-9329f210da39bd59', created=1745039951, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence indicates declining inflation and contained domestic pressures, which typically suggest a dovish stance favoring lower interest rates."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=42, prompt_tokens=187, total_tokens=229, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCtKa-zqrih-9329f210db707bca', created=1745039951, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "hawkish",\n"justification": "The sentence highlights strong employment growth without signs of slowing, which could signal upward pressure on wages and inflation, prompting a tighter monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=48, prompt_tokens=198, total_tokens=246, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCtzH-zqrih-9329f21eecc47bca', created=1745039953, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence describes economic conditions without implying any bias toward tightening or easing monetary policy."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=34, prompt_tokens=181, total_tokens=215, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCtzQ-zqrih-9329f21ee955bd59', created=1745039953, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "hawkish",\n"justification": "The cessation of net asset purchases typically signals a tightening of monetary policy, which is a hawkish stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=170, total_tokens=211, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]2025-04-19 01:19:16,746 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence describes economic conditions without implying any bias toward tightening or easing monetary policy."
+}
+```
+2025-04-19 01:19:16,746 - together_inference - INFO - Response: ```json
+{
+"label": "hawkish",
+"justification": "The cessation of net asset purchases typically signals a tightening of monetary policy, which is a hawkish stance."
+}
+```
+2025-04-19 01:19:16,746 - together_inference - INFO - Processing batch 73/75 with 2 sentences.
+2025-04-19 01:19:16,746 - together_inference - INFO - Processing batch 73/75
+2025-04-19 01:19:19,408 - together_inference - INFO - Completed batch 73/75
+2025-04-19 01:19:19,409 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses exchange rate movements but does not provide any direct information about the Reserve Bank of Australia's monetary policy stance."
+}
+```
+2025-04-19 01:19:19,409 - together_inference - INFO - Response: ```json
+{
+"label": "irrelevant",
+"justification": "The sentence discusses business gearing and macroeconomic conditions but does not directly address the Reserve Bank of Australia's monetary policy stance."
+}
+```
+2025-04-19 01:19:19,409 - together_inference - INFO - Processing batch 74/75 with 2 sentences.
+2025-04-19 01:19:19,409 - together_inference - INFO - Processing batch 74/75
+2025-04-19 01:19:26,263 - together_inference - INFO - Completed batch 74/75
+2025-04-19 01:19:26,263 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence mentions a positive economic factor (firm Chinese demand for iron ore) but does not directly imply a change in monetary policy stance."
+}
+```
+2025-04-19 01:19:26,263 - together_inference - INFO - Response: ```json
+{
+"label": "neutral",
+"justification": "The sentence discusses corporate gearing ratios but does not directly indicate any monetary policy stance or action by the Reserve Bank of Australia."
+}
+```
+2025-04-19 01:19:26,263 - together_inference - INFO - Processing batch 75/75 with 2 sentences.
+2025-04-19 01:19:26,264 - together_inference - INFO - Processing batch 75/75
+2025-04-19 01:19:34,277 - together_inference - INFO - Completed batch 75/75
+2025-04-19 01:19:34,278 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The statement indicates a reluctance to withdraw monetary stimulus, suggesting a supportive stance towards maintaining or increasing economic support."
+}
+```
+2025-04-19 01:19:34,278 - together_inference - INFO - Response: ```json
+{
+"label": "dovish",
+"justification": "The sentence indicates a reduction in investment spending, which suggests economic weakness and could prompt a more accommodative monetary policy stance."
+}
+```
+2025-04-19 01:19:34,282 - together_inference - INFO - Inference completed. Returning DataFrame with 150 rows.
+2025-04-19 01:19:34,283 - together_inference - INFO - Time taken for inference: 515.0135228633881
+2025-04-19 01:19:34,295 - together_inference - INFO - Inference completed for stance. Results saved to /Users/hp/Desktop/global-central-banks/llm_inference_output/reserve_bank_of_australia/stance_together_ai/deepseek-ai/DeepSeek-V3_20250419_5768.csv
+
+[ModelResponse(id='nqgCutR-zqrih-9329f231dd3dbd59', created=1745039956, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses exchange rate movements but does not provide any direct information about the Reserve Bank of Australia\'s monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=180, total_tokens=223, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCutZ-zqrih-9329f231dca67bca', created=1745039956, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "irrelevant",\n"justification": "The sentence discusses business gearing and macroeconomic conditions but does not directly address the Reserve Bank of Australia\'s monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=184, total_tokens=227, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCvgM-zqrih-9329f2427f2fbd59', created=1745039959, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence mentions a positive economic factor (firm Chinese demand for iron ore) but does not directly imply a change in monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=46, prompt_tokens=173, total_tokens=219, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCvgH-zqrih-9329f2427a067bca', created=1745039959, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "neutral",\n"justification": "The sentence discusses corporate gearing ratios but does not directly indicate any monetary policy stance or action by the Reserve Bank of Australia."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=43, prompt_tokens=192, total_tokens=235, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]
+[ModelResponse(id='nqgCxiV-zqrih-9329f26d4b7ebd59', created=1745039966, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The statement indicates a reluctance to withdraw monetary stimulus, suggesting a supportive stance towards maintaining or increasing economic support."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=41, prompt_tokens=167, total_tokens=208, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[]), ModelResponse(id='nqgCxia-zqrih-9329f26d4d647bca', created=1745039966, model='together_ai/deepseek-ai/DeepSeek-V3', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='```json\n{\n"label": "dovish",\n"justification": "The sentence indicates a reduction in investment spending, which suggests economic weakness and could prompt a more accommodative monetary policy stance."\n}\n```', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}))], usage=Usage(completion_tokens=44, prompt_tokens=173, total_tokens=217, completion_tokens_details=None, prompt_tokens_details=None, cached_tokens=0), service_tier=None, prompt=[])]

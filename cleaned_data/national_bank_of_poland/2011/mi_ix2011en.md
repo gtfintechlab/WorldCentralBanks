@@ -1,0 +1,127 @@
+**N** **a** **t** **i** **o** **n** **a** **l** **B** **a** **n** **k** **o** **f** **P** **o** **l** **a** **n** **d**
+
+M o n e t a r y P o l i c y C o u n c i l
+
+# MINUTES OF THE MONETARY POLICY COUNCIL DECISION-MAKING  MEETING HELD ON 7 SEPTEMBER 2011
+
+At its meeting, the Monetary Policy Council addressed the situation in the external environment of
+the Polish economy and the outlook for domestic economic growth and inflation. It also discussed
+future decisions concerning the NBP interest rates.
+
+Members of the Council emphasized the recent considerable deterioration of the situation in the
+external environment of the Polish economy, including a stronger than expected slowdown in the
+United States and in the euro area, and weaker GDP growth in emerging economies, notably in
+China, as well as the mounting turmoil in international financial markets. It was pointed out that the
+flagging business sentiment was also, to a considerable extent, the effect of uncertainty about the
+effectiveness of political measures undertaken to resolve the fiscal crisis in the euro area. Moreover,
+the Council emphasised the significant downgrades of global growth forecasts by financial market
+participants, and the end of the cycle of interest rate increases by central banks in a number of small
+open developed economies and some developing ones.
+
+In the opinion of some Council members, the risk of a global recession recurring has increased in
+recent weeks. However, according to other Council members, the current slowdown in key
+developed economies does not presage a forthcoming recession; it is rather a reflection of the
+reduced growth potential of those economies in the aftermath of the global financial crisis. In this
+context, these members emphasised particularly the adverse impact of the steep rise in public
+expenditure following the financial crisis on the private sector's propensity to invest and to
+consume. They also pointed to the constrained potential for funding private spending with more
+debt, since the level of that debt is already high. It was stressed that although it is difficult to assess
+the depth of the global economic slowdown, the risk of a sudden collapse in global business activity
+remains limited.
+
+While discussing the impact of deteriorating external conditions on the prospects for the Polish
+economy, some Council members underlined the relative resilience of this economy to external
+shocks. They assessed that even in the face of slow economic growth in Poland's external
+environment, domestic GDP growth may remain steady, in particular - in the opinion of some
+Council members - exports growth may be sustained at a fairly high level. At the same time, the
+Council pointed to the risk of Polish exports weakening more markedly, should growth in China
+decelerate considerably, resulting in smaller exports from Germany to that country.
+
+With regard to the economic situation in Poland it was emphasised that while GDP data indicate
+sustained relatively robust growth in 2011 Q2, incoming information implies it might lose
+momentum over the subsequent quarters. However, some Council members pointed out that the
+scale of the slowdown may be mitigated by a rise in private investment, which could be stronger
+than in the July NBP projection. In support of their position, those members cited higher than
+anticipated growth in gross fixed capital formation and a marked acceleration in investment outlays
+by large enterprises in 2011 Q2, as well as very good financial performance of enterprises. At the
+same time, it was pointed out, however, that the recently observed heightened uncertainty
+surrounding the outlook for demand may lower enterprises' propensity to invest, as also indicated
+by survey results. A year-on-year decline in the estimated costs of new investment started by large
+
+00 919 Warszawa ul Świętokrzy ska 11/21 telephone (22) 826 99 55 fax (22) 826 37 51
+
+
+-----
+
+companies in 2011 Q2 was also emphasized as a possible sign of corporate investment weakening
+in the coming quarters.
+
+With respect to inflationary processes in Poland, it was highlighted that in spite of a fall in recent
+months, partially due to seasonal factors, CPI and core inflation persist at an elevated level.
+Sustained fast growth in producers' prices was also pointed out. In addition, the Council paid
+attention to the fact that while inflation expectations of market participants have fallen, households'
+inflation expectations continue to run relatively high. It was emphasised, however, that given the
+adaptive nature of these expectations, they are bound to decrease with a decline in current inflation.
+
+The Council members argued that in light of available forecasts, it was reasonable to expect
+elevated inflation levels until the end of 2011, with a subsequent return to the NBP inflation target
+in mid-2012. It was emphasised that the monetary tightening implemented this year will be
+conducive to a fall in inflation. At the same time, it was pointed out that the return of CPI inflation
+to the target may be jeopardised by exchange rate developments, particularly amid the turmoil
+persisting in international financial markets. It was also noted that in the event of an economic
+collapse abroad, weak domestic GDP growth would probably coincide with a zloty depreciation,
+which would hinder the anticipated decline in inflation. Among the threats to lower inflation, a
+possible new increase in commodity prices was also pointed out, along with stronger than currently
+expected rises in fuel, food and administered prices.
+
+As regards the conditions in the credit market, some Council members assessed that lending growth
+at the current rate does not, as for now, fuel inflationary pressures in the economy. They pointed, in
+particular, to a decline in consumer loans and a stabilization of growth in housing loans. However,
+other Council members highlighted the relatively high ratio of total consumer loans to GDP in
+Poland in comparison to other countries, adding that a reduction of this kind of debt would be
+welcome since it would be conducive to greater macroeconomic stability. Moreover, they assessed
+that given robust growth in housing loans and a continuing expansion in lending to corporations, the
+conditions in the credit market were conducive to higher aggregate demand in the economy.
+
+When discussing the situation in the domestic labour market, the Council underscored weaker
+employment growth in the enterprise sector in the recent months, following a period of robust
+expansion, as well as the stabilisation of the unemployment rate at a relatively high level. Some
+Council members assessed that given the deteriorating outlook for demand, employment levels in
+enterprises may be expected to stabilise, or even fall slightly. It was also pointed out that given the
+circumstances, the wage pressure will probably remain limited.
+
+With regard to monetary policy pursued amid mounting adverse trends in the external environment
+of the Polish economy, the Council members emphasised that monetary policy should foster
+sustained macroeconomic equilibrium. They pointed out that a monetary policy which takes
+macroeconomic stability into account will be conducive to maintaining price stability.
+
+While discussing the NBP interest rates, the Council members agreed that these should remain
+unchanged at the current meeting. Arguments in support of this stance included the expected
+decline in inflation in Poland and a weaker outlook for growth in the global economy, and, in
+consequence, also in Poland.
+
+The Council assessed that recently the balance of risks for inflation has become more balanced,
+adding that the current evaluation of the inflation and growth outlook for Poland did not imply a
+need to cut the NBP interest rates. At the same time, some Council members emphasized that the
+current level of the NBP interest rates was low against the background of their historical levels and
+vis-a-vis estimates of Poland’s natural interest rate. Moreover, it was pointed out that the potential
+impact of the developments in global financial markets on the zloty exchange rate will constitute an
+upside risk factor to domestic inflation.
+
+
+-----
+
+In the opinion of the Council, the significant monetary policy tightening implemented since the
+beginning of 2011 should facilitate inflation’s return to the target in the medium term. Given the
+above, the Council decided to keep the NBP interest rates at the current level. The Council does not
+rule out the possibility of further monetary policy adjustment, should the outlook for inflation
+returning to the target deteriorate.
+
+The Council kept the interest rates unchanged at the following levels: reference rate at 4.5%,
+lombard rate at 6.00%, deposit rate at 3.00%, rediscount rate at 4.75%.
+
+_Publication date: 22 September 2011_
+
+
+-----
+

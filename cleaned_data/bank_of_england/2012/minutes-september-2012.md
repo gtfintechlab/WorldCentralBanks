@@ -1,0 +1,550 @@
+### Publication date: 19 September 2012
+
+## MINUTES OF THE 
+# MONETARY POLICY COMMITTEE MEETING
+## 5 AND 6 SEPTEMBER 2012
+
+##### These are the minutes of the Monetary Policy Committee meeting held on 
+
+ 5 and 6 September 2012. 
+
+ They are also available on the Internet 
+
+ http://www.bankofengland.co.uk/publications/minutes/Pages/mpc/pdf/2012/mpc1209.aspx
+
+ The Bank of England Act 1998 gives the Bank of England operational responsibility for setting
+
+ interest rates to meet the Government’s inflation target. Operational decisions are taken by the
+
+ Bank’s Monetary Policy Committee. The Committee meets on a regular monthly basis and
+
+ minutes of its meetings are released on the Wednesday of the second week after the meeting
+
+ takes place. Accordingly, the minutes of the Committee meeting to be held on 
+
+ 3 and 4 October will be published on 17 October 2012.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 5 AND 6 SEPTEMBER 2012
+
+1 Before turning to its immediate policy decision, the Committee discussed financial market
+
+developments; the international economy; money, credit, demand and output; and supply, costs and
+
+prices.
+
+**Financial markets**
+
+2 Trading volumes in financial markets had been unusually light during August, even allowing for
+
+seasonal variations. Market participants had remained focused on the prospects for changes in policy
+
+in the major economies, particularly in the euro area. Some clarification was expected from the ECB
+
+at its September policy meeting on what steps it would take to reduce the perceived risk of currency
+
+redenomination incorporated into the yields on the sovereign debt of some euro-area member states.
+
+In anticipation of this announcement, Spanish and Italian government bond yields had fallen,
+
+particularly for bonds with short residual maturities, but yields on longer-term bonds had risen in the
+
+second half of the month and, at the time of the meeting, the yield on Spanish ten-year government
+
+bonds was over 6½%.
+
+3 In the United States, interest rates had fallen across the yield curve towards the end of the month
+
+in response to heightened expectations of a possible further loosening in monetary policy. In the
+
+United Kingdom, the majority of respondents to the Reuters survey of economists were anticipating a
+
+further expansion of the Committee’s asset purchase programme at some stage, though this was not
+
+generally expected to be announced at the September meeting. Sterling had appreciated a little further
+
+on the month and was close to the top of the range it had traded in since the beginning of 2009.
+
+4 Sterling Libor rates had fallen further relative to rates derived from overnight index swaps,
+
+continuing a trend that had begun following the announcements of the Funding for Lending Scheme
+
+(FLS) and of the activation of the Extended Collateral Term Repo facility (ECTR). That would put
+
+further downward pressure on lending rates for businesses with floating-rate loans linked to Libor. It
+
+remained too early to assess with any confidence the full scale of the effect the FLS would have on
+
+
+-----
+
+2
+
+borrowing by the household and corporate sectors, but there had been encouraging signs about the
+
+impact the Scheme was having on lending rates. Two of the largest lenders to the UK corporate sector
+
+had already announced improvements in the terms on some of their lending and there had also been
+
+some further announcements of reductions in interest rates on certain mortgage products, although
+
+some other banks had announced increases. It would probably take some time for banks to review
+
+fully their lending plans, however, and it was likely that drawings from the FLS would be spread out
+
+over the full window to end-2013.
+
+5 Demand for corporate bonds had been robust and issuance by UK non-financial companies had
+
+been strong considering the usual lull in activity during August. Equity prices had risen on the month,
+
+by around 2% in the United Kingdom and United States, and by more than 6% in the euro area.
+
+**The international economy**
+
+6 The weak tone of data releases on the international economy had continued, and forecasts for
+
+growth in the major economies in 2012 and 2013 had generally been revised down. This weakness
+
+was more marked in indicators of manufacturing and trade, possibly reflecting a slowing in demand for
+
+capital goods against a backdrop of heightened global uncertainty, or a reduction in inventory demand.
+
+7 Activity in the euro area had continued to be subdued. GDP had declined by 0.2% in the second
+
+quarter. Indicators for the third quarter had remained consistent with contraction, and the composite
+
+purchasing managers’ index (PMI) had fallen a little further. Indicators of German output had also
+
+suggested some loss of momentum, following GDP growth of 0.3% in the second quarter.
+
+8 It was likely that activity in many euro-area countries was continuing to be held back by
+
+difficulties in financing public and external deficits. During the month, several regional
+
+administrations in Spain had applied to the central government’s Regional Liquidity Fund, and support
+
+had been announced for individual banks in both Spain and France. Further policy measures at an
+
+area-wide level were expected during the coming months. Alongside possible steps by the ECB to
+
+reduce strains in some sovereign debt markets, European leaders were due to discuss proposals to
+
+introduce a single euro-area bank supervisor and to continue the process of ratifying the European
+
+Stability Mechanism. The European authorities and the IMF were also due to complete their review of
+
+
+-----
+
+3
+
+the Greek programme during the autumn ahead of a decision on whether Greece would be eligible to
+
+receive the next tranche of funds.
+
+9 The news from the United States had on balance been positive but did not suggest any material
+
+strengthening in output growth in the third quarter. Consumption had increased by 0.4% in July,
+
+following a decline of 0.1% in June, and non-farm payrolls had risen by over 160,000, a larger
+
+increase than recorded on average in recent months. There nonetheless remained uncertainty about
+
+how political negotiations over the extent of budgetary tightening in 2013 would be resolved and this,
+
+alongside developments in the euro area, was likely to weigh on sentiment and demand in the second
+
+half of the year.
+
+10 Indicators for the larger emerging economies had generally continued to be consistent with
+
+activity growth below trend. Manufacturing PMIs had fallen further in Russia, India and China in
+
+August. Some of these declines were likely to be linked to the impact of previous domestic measures
+
+to combat inflationary pressures. But external demand had also slowed over the past year, in part
+
+reflecting lower import growth in the euro area. Monetary policy had since been loosened in a number
+
+of countries, and the governments of both China and Brazil had announced plans to increase spending
+
+on infrastructure. Policymakers generally appeared to have scope to provide more stimulus if that
+
+were deemed appropriate. But it was likely that growth in the major emerging economies would for
+
+some time remain weaker than pre-crisis averages.
+
+11 Oil prices had risen by 8% on the month. Although month-to-month changes of this magnitude
+
+were not that unusual, this was during a period of relatively weak global activity growth, suggesting it
+
+had been caused by supply-side developments. Global oil production had continued to be hampered
+
+by supply disruptions, and it was likely that investors were prepared to pay a premium to hold physical
+
+oil given the recent heightened tensions in the Middle East. The production of industrial metals had
+
+suffered fewer supply problems and prices had generally risen by less. The prices of some agricultural
+
+commodities had remained elevated reflecting droughts in both the United States and parts of
+
+Eastern Europe, but they had not changed much on the month.
+
+
+-----
+
+4
+
+**Money, credit, demand and output**
+
+12 The ONS had revised up its estimate of the change in UK GDP in the second quarter by
+
+0.2 percentage points to -0.5%. The revision had largely resulted from smaller estimated contractions
+
+in output in the construction and manufacturing sectors. That would be consistent with the impact on
+
+activity of the additional bank holiday for the Diamond Jubilee having been a little less than the
+
+Committee had previously assumed or underlying growth having been a little stronger. The
+
+breakdown of GDP into its expenditure components suggested that final demand had been particularly
+
+weak, with both investment and net trade subtracting materially from growth, and the only positive
+
+contribution had come from stockbuilding. But these initial expenditure estimates were prone to
+
+revision.
+
+13 Measured GDP could be expected to rise sharply in the third quarter as the Diamond Jubilee
+
+effect unwound, alongside a possible small boost from the Olympics. In line with the usual pre-release
+
+arrangements, the Governor informed the Committee that industrial production had risen by 2.9% in
+
+July, with robust increases in both manufacturing and energy and extraction output. The Markit/CIPS
+
+indices for August had also risen, with increases in activity recorded in both the manufacturing and
+
+service sectors. If the activity indices were to remain at their August levels until the end of the year,
+
+that would be consistent with a modest rate of underlying growth in the fourth quarter. The
+
+expectations and new orders indices, however, which usually gave a better prediction of activity trends
+
+at that horizon, had been weaker and did not yet suggest a return to growth.
+
+14 Any sustained recovery in output would probably need to be accompanied by a pickup in
+
+consumption. The fall in inflation over the previous year and the surprisingly strong rate of
+
+employment growth more recently had together alleviated some of the squeeze on real incomes. There
+
+were some signs that this was beginning to lead to increased spending by households. Retail sales
+
+volumes in the three months to July had been 1.4% stronger than in the previous three months, the
+
+fastest rate of growth since the three months to April 2008. Private car registrations had also risen
+
+firmly over the same period. But other factors cautioned against expecting a lasting upswing at this
+
+stage. Uncertainty remained elevated and this would continue to discourage spending. The
+
+prospective rises in prices for petrol, household energy and some foodstuffs would dampen real
+
+income growth in the second half of the year, and the level of activity in the housing market had
+
+remained moribund. The effect these factors would have on consumption would depend in part on the
+
+impetus given to lending by the introduction of the FLS and the impact of the expansion of the
+
+
+-----
+
+5
+
+Committee’s asset purchase programme. In this regard it was encouraging that household broad
+
+money growth had picked up during the first half of the year to its fastest twelve-month rate since the
+
+beginning of 2009.
+
+15 The outlook for spending in the rest of the economy was generally weaker. Goods export
+
+volumes had fallen by over 7% in June, concentrated in exports to other EU countries. Forward
+
+looking indicators had been mixed, with the CBI survey of manufacturing recording a drop in export
+
+orders in August, but with the Markit/CIPS export orders indices recovering sharply from their fall in
+
+July. Surveys of investment intentions had fallen back more consistently and many of the contacts of
+
+the Bank’s Agents had downgraded their capital spending plans in light of weakening demand.
+
+**Supply, costs and prices**
+
+16 Twelve-month CPI inflation had picked up to 2.6% in July from 2.4% in June. The increase had
+
+reflected a rise in the airfares component, which tended to be volatile, and an increase in the
+
+contribution of clothing and footwear price inflation following some earlier than normal summer sales.
+
+17 In line with the usual pre-release arrangements, the Governor informed the Committee that
+
+producer input prices had risen by 2% between July and August, while output prices had risen by
+
+0.5%, both reflecting the recent rises in oil prices. These rises, together with the prospect of further
+
+increases in utility prices not directly related to wholesale energy costs, meant that CPI inflation was
+
+less likely to fall back further during the second half of the year than the Committee had thought at the
+
+time of the August Inflation Report. The increase in the prices of agricultural commodities earlier in
+
+the summer, other things equal, would also begin to be passed through to consumer prices over the
+
+course of the coming year, although other import price pressures had generally remained subdued.
+
+18 The labour market had remained surprisingly resilient in the face of the contraction in activity.
+
+The unemployment rate had fallen to 8% in the second quarter, its lowest level for around a year, and
+
+employment was estimated to have risen by more than 200,000, with a rise in permanent employees
+
+accounting for more than half the increase. It remained difficult to reconcile this with the persistent
+
+weakness in output. Contacts of the Bank’s Agents had suggested that depressed trading conditions
+
+meant employees in some sectors had to work harder to generate new business. Some companies were
+
+likely to have needed to retain a certain minimum level of staff to continue operating, while the
+
+difficulty in recruiting labour with specialist skills may have led others to hold on to some employees
+
+
+-----
+
+6
+
+currently underemployed. Alternatively, an environment of heightened uncertainty might have led
+
+companies to choose to rely more on increasing staffing as a means of expanding capacity, rather than
+
+investing in plant and machinery which took a long time to come on stream and was more costly to
+
+reverse if demand turned out to be insufficient. Some of the factors contributing to the weakness in
+
+productivity might have persistent effects, for example possible impairment to the efficient allocation
+
+of capital stemming from problems in the financial system. It was unlikely that any one factor alone
+
+could satisfactorily explain all of the conjunction of weak output growth and relatively strong
+
+employment growth.
+
+19 Wage pressures had remained muted. Private sector regular pay in the second quarter had grown
+
+by 2% relative to a year earlier, reflecting subdued settlements. But the continuing weakness in output
+
+growth and strength in employment growth meant that productivity in the second quarter had
+
+disappointed once again, even allowing for the impact of the extra bank holiday. As a result,
+
+notwithstanding the modest rate of wage inflation, growth in unit wage costs had risen. If productivity
+
+growth were to remain weak, wage increases would be held back, but it was also possible that inflation
+
+might fall more slowly than the Committee had previously expected.
+
+**The immediate policy decision**
+
+20 The Committee set monetary policy in order to meet the 2% inflation target in the medium term.
+
+Inflation was now much closer to target than nine months ago, having fallen from a peak of 5.2% in
+
+September 2011. As inflation had fallen back, the near-term outlook had at various points been jolted
+
+by sharp movements in both directions in the prices of commodities; it was not sensible in such an
+
+environment to ascribe a high probability to any particular short-run projection. That remained the
+
+case this month. Nonetheless, the rise in oil prices and the probable increase in utility and some food
+
+prices meant that the near-term outlook was for a less rapid fall in inflation than the Committee had
+
+thought at the time of its August Inflation Report projections. The outlook for inflation beyond that
+
+point continued to depend on the strength of the headwinds confronting both demand and supply, and
+
+the effectiveness of policy measures in the United Kingdom and abroad in leaning against them.
+
+21 Measured output had continued to be affected by transient factors, obscuring the underlying path,
+
+and GDP growth in the third quarter would be boosted by the unwinding of the Diamond Jubilee
+
+effect. The Committee’s August Inflation Report projections had been consistent with a modest
+
+recovery in underlying activity beginning towards the end of the year and into next year, although the
+
+
+-----
+
+7
+
+precise timing was uncertain. The robust July Index of Production numbers would require further
+
+study but, alongside the monthly indicators of consumption and the surveys of output in August, they
+
+suggested some modest underlying expansion. Set against that, however, the more forward-looking
+
+components of the business surveys were weaker, and the rise in energy prices would mean that the
+
+squeeze on real household incomes would not ease further in the short term.
+
+22 The slowdown in the global economy, particularly in the euro area, was probably a factor behind
+
+the relatively weak expectations for activity reported by the UK business surveys. Further steps were
+
+likely over coming weeks and months to alleviate strains in the euro area and to provide additional
+
+support for vulnerable member states as they sought to finance public and external deficits and to
+
+rebalance their economies. Nonetheless very substantial risks were likely to remain for some time to
+
+come, which, if they crystallised, could have a considerable impact on the stability of the global
+
+banking system. Even if a disorderly outcome were avoided, it was probable that the threat of such an
+
+event would continue to weigh on domestic economic activity for some time. The risk of a sharper
+
+slowdown in emerging economies could also not be discounted, although monetary policy had been
+
+loosened in a number of countries and further stimulus was possible. The larger Asian economies and
+
+banks were more important to the global trade and financial system than at the time of the Asian crisis
+
+of the late 1990s, so the potential spillovers from a significant slowdown could be greater, although
+
+these would probably also be mitigated by accompanying falls in commodity prices.
+
+23 The extent of a prospective pickup in domestic activity would also depend on how much the FLS
+
+boosted lending to households and firms in an environment in which some banks could otherwise be
+
+seeking to reduce their lending, perhaps materially. The Committee noted that banks would need time
+
+to review fully their lending plans and products, and it was likely to be some while before there would
+
+be drawdowns on a significant scale. Lending rates were thus a more immediate guide to the
+
+Scheme’s impact and it was encouraging that there had been further cuts announced by some banks on
+
+some of their lending products.
+
+24 Turning to inflation, the Committee continued to judge that there was a substantial margin of
+
+spare capacity in the economy, particularly in the labour market. This would continue to bear down on
+
+domestic inflationary pressures for some time. But oil prices had risen again and continuing tensions
+
+in the Middle East meant they could possibly increase further. The further strong growth in
+
+employment in the second quarter had been very welcome but, set against the continuing weakness in
+
+output growth, it implied another fall in measured productivity. Even though the rate of growth of
+
+
+-----
+
+8
+
+nominal wages remained subdued by historical standards, this continuing fall in productivity meant
+
+that firms’ labour costs were now rising more rapidly. If this continued, businesses were likely at
+
+some point to seek to reduce wage growth or staffing levels. But, in the meantime, there was a risk
+
+that labour cost growth, and so CPI inflation, would fall more slowly than the Committee had
+
+previously anticipated.
+
+25 The Committee discussed whether it was appropriate to modify or continue with the programme
+
+of asset purchases it had agreed at its July meeting. Although there would probably be further
+
+volatility in measured output growth over the rest of the year, the level of demand remained weak and
+
+the outlook was subdued and uncertain. Inflation was considerably lower than a year ago, but it was
+
+still above target and likely to fall back more slowly during the remainder of 2012 than previously
+
+anticipated. The FLS was still in its early stages: it had the potential to reduce funding costs and to
+
+encourage the supply of credit. Set against that, heightened uncertainty, stemming especially from the
+
+euro area, and risk aversion on the part of households and businesses might limit the demand for
+
+credit, making the impact of the FLS difficult to predict.
+
+26 Overall there had been little news regarding the medium-term outlook for inflation. Against that
+
+backdrop, all members agreed that it was appropriate at this meeting to continue with the asset
+
+purchase programme announced at the Committee’s July meeting. For most members this decision
+
+was relatively straightforward, although some of these members felt that additional stimulus was more
+
+likely than not to be needed in due course, while others saw the risks to inflation in the medium term
+
+as being more balanced around the target. Over the next few months, the Committee would gain
+
+further insight into the underlying paths of both supply and demand. It could also take stock of the
+
+impact of past and prospective policy actions, here and abroad. For one member, the decision this
+
+month was more finely balanced, since it was not clear that the uncertainties about the medium-term
+
+outlook would be resolved to any great extent in the coming months and, given the weakness in
+
+demand, a good case could be made at this meeting for announcing more asset purchases.
+
+
+-----
+
+9
+
+27 The Governor invited the Committee to vote on the propositions that:
+
+Bank Rate should be maintained at 0.5%;
+
+The Bank of England should continue with the programme of asset purchases totalling
+
+£375 billion financed by the issuance of central bank reserves.
+
+Regarding Bank Rate, the Committee voted unanimously in favour of the proposition.
+
+Regarding the stock of asset purchases, the Committee voted unanimously in favour of the proposition.
+
+28 Since the Committee’s previous meeting, it had been consulted over the size and terms of the
+
+Bank’s ECTR facility, in advance of the monthly auction on 15 August.
+
+29 The following members of the Committee were present:
+
+Mervyn King, Governor
+Charles Bean, Deputy Governor responsible for monetary policy
+Paul Tucker, Deputy Governor responsible for financial stability
+Ben Broadbent
+Spencer Dale
+Paul Fisher
+Ian McCafferty
+David Miles
+Martin Weale
+
+Dave Ramsden was present as the Treasury representative.
+
+
+-----
+

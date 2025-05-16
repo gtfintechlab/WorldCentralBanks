@@ -1,0 +1,107 @@
+# Minutes of a Meeting of the Board of Directors of Banco de la República on May 23, 2008 
+ A regular meeting of the Board of Directors of Banco de la República was held in the city of Bogotá on May 23, 2008.
+ Present: 
+ Mr. Óscar Iván Zuluaga, Minister of Finance and Public Credit
+ Mr. José Darío Uribe, Governor, Banco de la República
+ Full-time Board Members: Mr. Fernando Tenjo  Mr. Carlos Gustavo Cano  Mr. Juan José Echavarría  Mr. Juan Mario Laserna  Mr. Leonardo Villar 
+ Inflation, economic growth and their prospects for the future were discussed, and monetary-policy decisions were reached. The principal topics addressed during the meeting are summarized below.
+ 1. Background
+ a. Recent Developments in Inflation 
+
+ Annual inflation was 5.73% in April, which is 20 b.p. less than the rate in March. Annual inflation declined for the second month in a row, following the recent peak in February of this year (6.35%). 
+
+ The inflation slowdown in April is explained by the way food prices performed (7.82% in April as opposed to 8.61% in March), particularly perishable food prices. Processed food inflation (8.75%) was down as well, thanks to meat and meat substitutes. 
+
+
+-----
+
+# Non-food inflation was up to 4.74% in April, having been 4.67% the month before. This difference was due primarily to regulated prices, which registered annual increases of 7.7% by March and 8.10% by April. Several core inflation indicators rose and are above the inflation target. 
+ Annual non-tradable inflation, excluding food and regulated prices, which is usually a good indicator of demand-side pressure on inflation, declined from 5.1% in March to 5.05% in April. Less of an adjustment in banking services and the increase in rental inflation (4.65%) - after remaining stable at around 4.3% for several months - were important factors in this respect. 
+ The annual increase in prices for tradable goods, excluding food and regulated prices, was the same as the month before.
+ Regulated price inflation went from 7.7% in March to 8.1% in April, mainly because of the increase in public utility rates (gas 9.8% and electricity 9.4%).
+ The pace of PPI growth picked up by April, with annual inflation going from 3.4% a 3.8%.
+ b. Local Economic Growth 
+
+ Available figures on aggregate demand show the following: 
+ - Imports of consumer durables were up by 13.7% in dollars and 1.7% in volume during the first quarter of 2008 compared to the first quarter of 2007, while imports of consumer non-durables rose 18.3% in dollars, but declined in volume (25.4%). Food products, beverages and clothing were the items that registered the largest reduction in volume. 
+ - The annual variation in retail sales was down again. In March, it was  0%. 
+ - The Fedesarrollo Consumption Survey in April shows high expectations. 
+ - Investment, measured according to imports of capital goods imports by March 2008, continues to grow at a healthy pace. Imports of capital goods for agriculture were up by 46% and 23% for industry. Important increases in volume were reported as well.
+
+
+-----
+
+# - Export momentum remained strong. Traditional exports saw an annual increase of 32.1% and non-traditional exports, 27.3%. Venezuela continued to be the primary recipient of non-traditional Colombian exports, while most traditional exports went to the United States. In fact, there was a major increase in traditional exports (21.2%).
+ The figures related to production demonstrate the following: 
+ - Imports of intermediate goods for industry registered a 13.5% increase in growth accumulated at March 2008.
+ - The Industrial Production Index (IPI), without coffee processing, dropped 9.4% in March. If the series is adjusted by working days, the indicator would be up by 2.4%. An estimate of the effect of the Cerromatoso strike is 2 pp. Therefore, excluding these effects, the IPI without coffee processing would have increased by 4.4%.
+ - A breakdown of the IPI by sub-sectors (adjusted by working days), shows 58% are growing at rates above the historic average (1980-2008). “Basic Iron and steel industries; smelting” and “radio, television and communication equipment and apparatus” are the sub-groups in these sub- sectors that have experienced unusual declines since 2001. 
+ - The questions in the Fedesarrollo Business Opinion Survey that concern productive activity and orders showed major reductions in the findings since the survey began (1980). 
+ - By March 2008, imports of raw materials for agriculture were up by 62% in dollars.
+ - The Fedesarrollo survey shows a slowdown in commerce. The questions associated with the variation in sales, compared to the month before and the same month in 2007, are the ones that reflect the most important changes since the survey began (June 1980).
+ - The building-license indicator continued to decelerate and, by March 2008, the accumulated growth rate for 12 months was 7.6%. There also was less of an increase in cement production. 
+ - The Monthly Activity Index for Colombia (IMACO), estimated up to August 2008, reflects a slowdown that would indicate less GDP growth during the first two quarters of this year. 
+ The variables associated in income reflect the following:
+
+
+-----
+
+# - Despite lower unemployment rates, the slowdown in salaried employment continues and a sizeable reduction was reported in March (2.5%).
+ - Job creation in industry and commerce slowed in March, but continued to register positive growth rates.
+ - The rise in real wages was less in 2007 than in 2006, when the increase was high. Real industrial wage growth (deflated with the total CPI) was negative in 2007. These trends have continued in 2008.
+ - The household financial burden has increased, primarily due to the costs associated with retail loans. 
+ - Appreciation during January-April of this year was 15% compared to the same period in 2007. There continues to be a considerable influx of foreign direct investment, which came to $3,070 million dollars at April. Of this amount, 1,901 million dollars went to the petroleum and mining sector and 1,169 million dollars went to the other sectors. 
+ - The sector surveys at March show positive, but slightly reduced growth rates for employment. 
+ c. The International Situation 
+
+ Available information on the United States shows an economy that is weak, but better than what international analysts expected. The preliminary figure for growth during the first quarter of 2008 (0.6%) was above the forecast. However, data such as the leading indicators for industry and the service sector continue to show less momentum, as do retail sales and consumer confidence. 
+
+ Although this slowdown in growth would help to stabilize core inflation, high oil prices have caused a sharp increase in expectations of future inflation.  This being the case, the market expects the Fed to make no change in its interest rates; in fact, possible hikes are forecast for the end of the year. 
+
+ The financial markets were calmer last month. There was less liquidity pressure in the inter-bank markets and less aversion to international risk. This was reflected by a slight shift in the portfolio of
+
+
+-----
+
+# international investors in search of assets with more profitability and market risk. 
+ Some commodity prices have declined, but are still high. April witnessed a continued increase in price for some of Colombia’s major exports. Oil and coal are a case in point. 
+
+ d. Financial Variables 
+
+ Monetary aggregates, with the exception of base money, continued the slowdown observed since November 2007. The annual increase in M3 was 13.9%, cash 7.51% and liabilities subject to reserve requirements (LSR), 14.8%.  As to deposits, the shift towards certificates of deposit continued throughout the month. 
+
+ The increase in the peso-loan portfolio in the financial system came to 21.65% in March, compared to 24.6% in December 2007. This was due to the retail loan portfolio, which has experienced a more pronounced slowdown in recent months, with 23.7% growth as opposed to 32.6% in December. The commercial loan portfolio increased (21.5%) and the mortgage loan portfolio remained steady.
+
+ Nominal lending and deposit rates increased during April, with the exception of interest on retail and preferred loans. The real lending rate approached its historic average (12.3% actual vs. 12.5% average), while the real fixed-term deposit rate (DTF) has reached it already (4.8%). 
+
+ 2. Discussion and Policy Options 
+
+ The Board emphasized the following points in its deliberations: 
+ i Continued price increases at a rate that exceeds the targets set by the Board of Directors; ii The considerable weight food brings to bear on prices in an international scenario marked by upward pressures; iii Uncertainty about how regulated prices will behave in the future, given the indexation mechanisms used to determine those rates; iv The major increase in production costs for companies in terms of raw materials and labor; v Uncertainty about what is in store for the world economy and Colombia’s main export markets, particularly Venezuela;
+
+
+-----
+
+# vi How recent peso revaluation has affected inflation and the outlook for growth in the tradable sectors; vii The course of inflation expectations, which are still above the targets set by the Board of Directors. 
+ The Board believes the intervention interest rate hikes instituted since April 2006 and the change in reserve requirements midway through 2007 have had an impact on lending and deposit rates, and have helped to slow the increase in loans and local demand, as they were intended to do. 
+ It also emphasized that available information shows more of a slowdown in the economy than was anticipated initially. Various demand and production indicators reflect a drift in that direction, particularly the figures on commerce and certain industrial sectors. However, imports of capital goods suggest that investment is still strong, and the results of the Consumer Opinion Survey show the confidence indicator remains high. The increase in exports is also a factor. 
+ The main points discussed by the Board centered on: (i) the effect of monetary-policy measures, given the time it takes them to work through to the economy; (ii) the elements that influence the inflation forecasts for 2008 and 2009; (iii) the need to bolster the monetary authority’s credibility as a way to anchor inflation expectations, given the possible side-effects of international food and fuel prices; (iv) the advisability of adopting monetary policy measures in an atmosphere of rising international food and fuel prices; (v) a current account deficit that indicates local demand is growing faster than national production; (vi) the possibility that developments on the international scene, in a situation where there is a current account deficit, might lead to future adjustments in the exchange rate; (vii) the uncertainty created by international markets that are extremely volatile and how that volatility might affect the Colombian economy; (viii) the risk posed by the balance between growth and inflation in light of new figures that are now available; and (ix) the effects of appreciation in the exchange rate.
+ Some Board members emphasized that inflation pressures persist worldwide and, given the forecasts for inflation in the coming months, inflation and expectations of inflation should be anchored in the targets. To accomplish this, they believe a monetary-policy stance that facilitates counter-cyclical monetary management in the future, given an eventual slowdown in the economy, is required. They pointed out that steering inflation towards its long-term target is crucial to avoiding a period of economic difficulties in the future and the reduction in growth with respect to local demand and credit relieves inflation pressures and allows the
+
+
+-----
+
+# economy to grow at a sustainable pace.  They emphasized that available figures show that industry and commerce, two sectors that are highly sensitive to internal demand, registered less growth during March than was forecast by Banco de la República and the latest surveys also suggest less growth in demand. In this respect, they believe more information is needed to identify the risk of inflation and the risk of less economic growth this year, and particularly in 2009, before making any change in monetary policy. Despite serious questions about how the world economy will perform, it was noted that the external context remains favorable for economic growth in Colombia, judging by the recent increase in terms of trade, exports and foreign direct investment. Finally, they indicated that, although there is a difference between interest rates in Colombia and the United States, appreciation of the peso is basically due to strong global pressure for dollar devaluation and to the trend in terms of trade and foreign direct investment.
+ Other Board members believe the recent drift in economic indicators suggests the economic slowdown that began at the end of 2007 continues from the standpoint of both supply and demand, and is faster than anticipated initially, even discounting the effects of Easter Week and the  Cerromatoso strike. In addition, there is the negative impact revaluation has had on certain sectors and on the amount of income available to households as a result of less income from remittances. They pointed out that Colombia, like other countries, is facing a supply shock to inflation, led by food prices and, therefore, questioned the advisability of maintaining a restrictive monetary policy. They indicated that the measures implemented by the Board have, and will continue to have the desired effect in terms of curbing the increase in loans, and there already has been a significant downward adjustment in inflation in prices for perishable foods and non- tradables, excluding food and regulated prices. The possible adverse effects of the US recession and the world crisis on economic growth in Colombia should be taken into account as well, apart from the serious concerns about the fate and sustainability of Venezuela’s economic development.  Consequently, for these reasons, they proposed lowering the intervention interest rate by 25 basis points. This would help to reduce the spread between local and external interest rates and the added pressure for peso revaluation resulting from that difference. The rate of peso revaluation during the last five years has been one of the highest in the world. 
+ 3. Policy Decision 
+ The Board decided, by a majority vote, to leave the intervention rate at 9.75% and emphasized the importance of carefully monitoring the effect the international economic situation could have on growth, as well as the
+
+
+-----
+
+# impact of inflationary pressure coming from international prices for food and fuel. 
+ Bogotá D.C. June 6, 2008 
+
+
+-----
+

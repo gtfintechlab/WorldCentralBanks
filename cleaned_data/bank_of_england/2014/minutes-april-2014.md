@@ -1,0 +1,698 @@
+### Publication date: 23 April 2014
+
+## MINUTES OF THE 
+
+# MONETARY POLICY
+ COMMITTEE MEETING
+
+## 9 April 2014
+
+##### These are the minutes of the Monetary Policy Committee meeting held on 9 April 2014. 
+
+ They are also available on the Internet
+
+[http://www.bankofengland.co.uk/publications/minutes/Pages/mpc/pdf/2014/mpc1403.aspx](http://www.bankofengland.co.uk/publications/minutes/Pages/mpc/pdf/2014/mpc1403.aspx)
+
+##### The Bank of England Act 1998 gives the Bank of England operational responsibility for setting
+
+ monetary policy to meet the Government’s inflation target. Operational decisions are taken by
+
+ the Bank’s Monetary Policy Committee. The Committee meets on a regular monthly basis and
+
+ minutes of its meetings are released on the Wednesday of the second week after the meeting
+
+ takes place. Accordingly, the minutes of the Committee meeting to be held on 
+
+ 7 and 8 May will be published on 21 May 2014.
+
+
+-----
+
+#### MINUTES OF THE MONETARY POLICY COMMITTEE MEETING HELD ON 9 APRIL 2014
+
+1 Before turning to its immediate policy decision, the Committee discussed financial market
+
+developments; the international economy; money, credit, demand and output; and supply, costs and
+
+prices. The Committee noted a letter from the Chancellor setting out the remit for the Committee over
+
+the following year, in accordance with Section 12 of the Bank of England Act.
+
+**Financial markets**
+
+2 The most significant event in financial markets over the course of the month had been the
+
+reaction to the Federal Open Market Committee (FOMC) meeting on 19 March. As expected, the
+
+FOMC had announced a further $10 billion reduction in the pace of its asset purchases and a move to a
+
+more qualitative form of forward guidance. But the policy statement and increases in some FOMC
+
+policymakers’ expectations for the federal funds rate at the end of 2015 and 2016 had been interpreted
+
+by some market participants as a change in the FOMC’s reaction function. As a consequence, the
+
+short end of the yield curve had steepened in the United States, with the one-year rates one year and
+
+two years ahead implied by overnight index swaps (OIS) rising by 11 and 25 basis points respectively
+
+shortly after the FOMC meeting.
+
+3 Short-term market interest rates in the United Kingdom had continued to be positively correlated
+
+with corresponding rates in the United States and had also risen around the time of the FOMC meeting.
+
+But over the month as a whole, the one-year OIS rate one year ahead had risen by 11 basis points in
+
+the United Kingdom, less than the 18 basis point increase in the United States. Also, the date at which
+
+the first Bank Rate rise was fully priced in had remained unchanged at the spring of 2015, while the
+
+expected date of the first rise in the federal funds rate had been moved forward by two months to the
+
+late summer of 2015.
+
+4 Implied volatilities around short-term interest rates had remained unusually low internationally,
+
+especially at the twelve-month horizon. This was somewhat surprising, as it could suggest that the
+
+demand for insurance against unexpected movements in short-term interest rates was low. Yet the
+
+
+-----
+
+2
+
+timing of when policy rates in advanced economies would eventually increase from the present
+
+exceptionally low levels was uncertain, as the data flow that would lead to monetary policy tightening
+
+was likely to be unpredictable.
+
+5 Ten-year government bond yields had fallen slightly in the United States, United Kingdom and
+
+Germany. There had been larger falls in the euro-area periphery that would ease the debt burden and
+
+process of adjustment in those countries: for example, ten-year yields on Portuguese government
+
+bonds had fallen by 80 basis points.
+
+6 The Euro Stoxx index had increased by 0.8%, having recovered from falls associated with the
+
+continuing political tensions between Ukraine and Russia earlier in the month. The US S&P 500 index
+
+and the UK FTSE All-Share index had fallen by 1.2% and 2.9% respectively. The underperformance
+
+of UK equities had partly reflected falls in the share prices of life insurance companies following
+
+announcements in the Budget of changes to pension regulations.
+
+7 The sterling effective exchange rate remained around 10% above its recent trough in
+
+March 2013. The Chinese renminbi had depreciated by a further 1.1% against the dollar. Some of this
+
+fall had followed a widening by the Chinese authorities of the currency’s permitted trading band.
+
+**The international economy**
+
+8 There had been further signs of a strengthening recovery in the advanced economies, with
+
+modest positive news on euro-area activity and more evidence of continuing expansion in the
+
+United States. But weaker data from China had highlighted the continuing downside risks to global
+
+activity from the emerging economies.
+
+9 Recent data suggested that the euro-area recovery was a little stronger than previously expected.
+
+Monthly indicators suggested that activity in Germany in particular had picked up markedly at the
+
+beginning of the year, in part boosted by mild weather. More generally, the composite output
+
+Purchasing Managers’ Index (PMI) had remained at a level consistent with continuing moderate
+
+expansion. In the light of more positive data, Bank staff had revised up a little their expectation of
+
+euro-area growth in Q1 to around 0.5%. Growth might well fall back in Q2, but confidence had risen
+
+to its highest level since 2007 and forward-looking indicators pointed to further moderate growth over
+
+the remainder of the year. With sovereign yields falling, especially in the periphery countries, and
+
+
+-----
+
+3
+
+bank funding conditions improving, it was possible that credit conditions for businesses and
+
+households might ease somewhat. Against this, credit markets in the euro area remained impaired and
+
+any additional stimulus to demand from this source was likely to be limited.
+
+10 Consumer price inflation in the euro area had fallen to 0.5% in March. This partly reflected a
+
+base effect arising from the timing of Easter that was expected to unwind in April. Lower inflation
+
+was also likely to reflect falling energy and food price inflation that would support real income growth.
+
+While inflation was likely to edge up if the euro-area recovery proceeded as expected, it remained
+
+below the European Central Bank’s (ECB’s) target and continued very low inflation could make the
+
+process of rebalancing in the euro area more difficult. Inflation expectations at the two-year horizon
+
+had also drifted down. While the Governing Council of the ECB had left policy unchanged at its April
+
+meeting, the ECB President had stated that members were unanimous in their commitment to using
+
+unconventional instruments within the ECB’s mandate to cope with risks of a prolonged period of low
+
+inflation. The Monetary Policy Committee noted, nevertheless, that falls in key nominal interest rates
+
+in periphery countries meant that, despite weaker inflation, real rates there had fallen rather than risen.
+
+11 In the United States, unusually adverse weather had obscured the underlying trends in the recent
+
+data. Nevertheless, there had been few surprises: industrial production had risen by 0.6% in February,
+
+non-farm payrolls had increased by 192,000 in March, both broadly as expected, and the composite
+
+Markit PMI output index had picked up further to a level consistent with continuing robust growth.
+
+With the unemployment rate nearing the 6½% threshold, the FOMC had updated its forward guidance
+
+and reaffirmed its view that a highly accommodative stance of monetary policy remained appropriate;
+
+its future policy decisions would be based on an assessment of a wide range of information, including
+
+measures of labour market conditions, indicators of inflation pressures, and readings on financial
+
+developments.
+
+12 Recent data suggested declining momentum in China’s economy: the rebound in the
+
+manufacturing PMI in March had been modest after a weak February outturn and the growth rates of
+
+retail sales, industrial production and fixed investment had fallen. While these data were likely to have
+
+been distorted by the timing of the lunar new year and similar base effects, slowing momentum in
+
+Chinese activity had prompted the announcement of a modest economic package to stimulate growth.
+
+But there continued to be concerns about the vulnerabilities generated by past rapid credit growth from
+
+non-bank lending institutions. There appeared to be scope for the Chinese authorities to provide
+
+further support to the economy and vulnerable institutions should the need arise, but at the risk of
+
+
+-----
+
+4
+
+complicating the process of rebalancing the economy in the medium term. Activity in other emerging
+
+market economies appeared to have stabilised as expected. Nonetheless several downside risks
+
+remained, including the possibility of renewed capital outflows in response to changed perceptions of
+
+the pace of monetary policy normalisation in the advanced economies and the potential for spillovers
+
+from any protracted slowdown in China.
+
+13 One of the key risks to the global outlook was a sharper slowdown in China that could spill over
+
+to other countries. A slowdown in China might have a larger impact on the United Kingdom than
+
+would be implied by its 4% share of UK exports, through a combination of trade, financial and
+
+confidence channels, with an expected beneficial offset from lower commodity prices. But the effect
+
+was very uncertain and was likely to depend on what had caused the slowdown. On the one hand,
+
+there was a risk of a disorderly response in financial and commodity markets, with possibly large
+
+spillovers to other countries, if a slowdown were to be caused by instability in the Chinese financial
+
+system. Moreover, the monetary policy response in the advanced economies would be constrained by
+
+the effective lower bound on interest rates. But, on the other hand, a slowdown in the Chinese
+
+economy associated with a rebalancing of demand would have a less deleterious effect on other
+
+countries. Some members of the Committee noted that the Chinese economy had already slowed, and
+
+the weakness in the Japanese economy in the 1990s, then the second largest global economy, did not
+
+appear to have impeded UK growth materially. Members attached different weights to these
+
+arguments in considering the consequences of fluctuations in the Chinese economy.
+
+14 Global price pressures had remained subdued. Metals prices had been weak: the S&P GSCI
+
+industrial metals index had fallen by 1% and briefly reached its lowest level since 2010. Oil prices had
+
+ended the month unchanged. In the other direction, the S&P GSCI agricultural index had risen by
+
+16% over the past year, partly due to adverse weather in Latin America, but also as a reaction to
+
+heightened political tensions in Ukraine, which was a major grain exporter.
+
+**Money, credit, demand and output**
+
+15 The estimate for UK GDP growth in the fourth quarter had remained unchanged at 0.7%. The
+
+mix of expenditure had been revised a little, but still pointed to a broadening of the recovery from
+
+household to business spending. Consumption growth in Q4 had been revised up to 0.3%, but
+
+remained weaker than earlier in the year. The contribution of net trade to Q4 growth had been revised
+
+
+-----
+
+5
+
+up to 1 percentage point on the back of very strong estimated export growth, some of which appeared
+
+unlikely to persist. While the trade deficit had narrowed in Q4, the overall current account deficit had
+
+remained at around 5½% of GDP, following a sharp deterioration in net investment income. Having
+
+averaged around ¼% of GDP over the previous year, the deficit on net investment income had
+
+widened to 2.5% of GDP in Q4. The suddenness of the latest deterioration in net investment income
+
+suggested that a portion might be erratic and reversed in due course.
+
+16 Output had grown consistently across all sectors in January and February. Industrial production
+
+had risen by 0.9% in February, with manufacturing output growing by 1%. The signal from business
+
+surveys had remained strong in March, albeit a touch softer than in the previous three months. Bank
+
+staff’s central expectation of the final estimate of growth in 2014 Q1 had been revised up to 1.0%, with
+
+growth in the second quarter expected to be only a little weaker.
+
+17 Some of the near-term indicators suggested that household spending growth had strengthened in
+
+the first quarter. Retail sales had grown by 1.7% in February, above Bank staff’s expectations, and
+
+new car registrations had risen by 2.5% in Q1, mainly due to a 6.2% increase in private registrations.
+
+But, against this, some housing market indicators had been weaker than expected. After several
+
+months of growth, loan approvals for house purchase had fallen by around 10% in February; it was
+
+not clear what had driven this fall. The average of the lenders’ house price indices had fallen by 0.2%
+
+in March. Smoothing through the monthly volatility, however, house prices were growing nationally
+
+at a little under 1% a month on this measure, with stronger growth in London than in other parts of the
+
+country.
+
+18 Household and business spending was likely to be supported by further easing in bank credit
+
+conditions. On the household side, credit conditions had improved markedly since the middle of 2012.
+
+Quoted two-year fixed rates on low loan to value (LTV) mortgages had fallen by around 140 basis
+
+points since the middle of 2012 and personal loan rates had fallen by over 250 basis points over the
+
+same period. The availability of high LTV mortgages had been increasing as lenders introduced new
+
+products, some of which were backed by the mortgage guarantee component of the Help to Buy
+
+scheme. Evidence from the Bank’s Credit Conditions Survey had suggested that the availability of
+
+high LTV mortgages was expected to increase further over the coming three months, but some lenders
+
+were reported to have limited appetite for such lending. Interest rates on credit cards remained
+
+elevated.
+
+
+-----
+
+6
+
+19 On the corporate side, there was a clear difference between the credit conditions facing large
+
+companies with access to the capital markets and those facing small businesses. According to the
+
+_Deloitte CFO Survey, credit was perceived to be cheaper and more easily available for large_
+
+companies than at any time since the survey began in 2007. By contrast, a range of evidence,
+
+including business surveys, suggested that credit conditions for smaller businesses remained more
+
+stringent than before the financial crisis. But there were several indicators, including from the Bank’s
+
+_Credit Conditions Survey, suggesting that availability of credit for small businesses had improved over_
+
+the past year. And, in a special survey conducted by the Bank’s Agents, relatively few businesses had
+
+identified credit availability as a major concern.
+
+20 Despite the improvement in credit supply conditions, bank lending to businesses had remained
+
+weak: the three-month annualised growth rate of lending to private non-financial
+
+corporations (PNFCs) had fallen to around -5% in February on the headline M4Lx measure. The fall
+
+in net lending to PNFCs over the past year largely reflected weaker net lending to the commercial real
+
+estate (CRE) sector. This in turn had been associated with an increase in loan repayments in the
+
+second half of the year, rather than weakness in gross lending. To some extent, the pickup in loan
+
+repayments was likely to be a reaction to a partial strengthening in the CRE market and greater
+
+competition from non-bank lenders allowing some CRE businesses to refinance their existing loan
+
+facilities outside the banking sector.
+
+21 Overall, there appeared to be scope for further improvement in credit supply conditions,
+
+especially in some specific higher risk segments, such as lending to small businesses, the CRE sector
+
+and for high LTV mortgages. Nevertheless, it was likely that credit spreads would remain high
+
+relative to their pre-crisis levels for some time to come and continue to represent a headwind to
+
+activity that would limit the extent to which policy rates would need to rise to contain future
+
+inflationary pressure.
+
+**Supply, costs and prices**
+
+22 CPI inflation had fallen to 1.7% in February. In line with the usual pre-release arrangements, an
+
+advance estimate for CPI inflation of 1.6% for March had been provided via the Governor to the MPC,
+
+ahead of publication; that was in line with Bank staff’s expectations. The near-term outlook had been
+
+revised down slightly, reflecting duty changes announced in the Budget, weak online food price data
+
+and lower sterling oil prices.
+
+
+-----
+
+7
+
+23 Measures of households’ inflation expectations had generally fallen. The YouGov/Citigroup
+
+survey in March had indicated that median inflation expectations had fallen further below their
+
+pre-crisis averages at both the one-year and five to ten-year horizons covered by the survey. And
+
+median one year ahead inflation expectations from the Barclays Basix survey had fallen to their lowest
+
+reading since the survey began in 1986. Around 75% of respondents to the Deloitte CFO Survey
+
+expected CPI inflation to be between 1.5% and 2.5% in two years’ time, up from 45% three months
+
+earlier when a majority of respondents had expected inflation to be above 2.5%. Lower median
+
+inflation expectations in these surveys reflected more respondents expecting inflation to be at levels
+
+consistent with the inflation target, rather than more respondents expecting very low inflation rates.
+
+That was consistent with evidence from financial markets, where the premium paid to provide
+
+protection against deflation in the United Kingdom had remained low in comparison with other
+
+countries.
+
+24 Employment had increased by 105,000 in the three months to January, a slower rate of increase
+
+than throughout most of 2013. This, together with stronger growth in output, meant that productivity
+
+growth appeared to have increased around the turn of the year. The unemployment rate had remained
+
+at 7.2% in the three months to January, higher than expected at the time of the February Inflation
+
+_Report. The number of unemployed had fallen by 63,000 in the three months to January compared_
+
+with three months earlier, within that the number of long-term unemployed had fallen by 38,000. The
+
+claimant count figures for February pointed to a continuing fall in unemployment.
+
+25 A striking feature of the recent labour market data had been the strength in self-employment.
+
+Self-employment had risen by over 200,000 in the three months to January at the same time as there
+
+had been a fall in the number of employees. And self-employment had accounted for almost half of
+
+the rise in employment since 2010. It was possible that some of the increase had come about in
+
+reaction to benefit caps, changes in pension entitlements and rules surrounding access to in-work
+
+benefits. A key question was whether the amount of slack in the labour market was understated by
+
+measured unemployment, as might be the case if many of the self-employed were underemployed and
+
+searching for work as employees. There was some evidence against this. First, part of the rise in
+
+self-employment appeared to be a continuation of a longer-term secular trend, rather than a cyclical
+
+response to a lack of other employment opportunities. Consistent with that, higher self-employment
+
+did not appear to have been associated with inflows of people recently made redundant. Second,
+
+survey evidence suggested that the self-employed were only slightly more likely to be looking for
+
+another job than were employees. For some, self-employment might have been chosen as an
+
+
+-----
+
+8
+
+alternative to retirement, rather than as an alternative to employment. Nevertheless, it was possible
+
+that some of the self-employed were underemployed and would be more productive as employees were
+
+more jobs to become available. Members of the Committee held a range of views about the extent to
+
+which self-employment represented a form of labour market slack. They noted that this would be
+
+tested when more jobs became available.
+
+26 Another noteworthy feature of the recent labour market data was evidence that earnings growth
+
+was beginning to pick up. Private sector regular pay growth had risen to 1.6% in the three months to
+
+January compared with the same period a year earlier. A base effect associated with tax forestalling a
+
+year earlier meant that this exaggerated the underlying increase somewhat. But the annualised growth
+
+rate in private sector regular pay had risen by 0.6 percentage points to 2.1% in the latest three months
+
+compared with the previous three months, suggesting an underlying pickup in wage growth. Other
+
+evidence also pointed to building momentum in pay. For example, respondents to the latest REC
+
+survey reported that starting salaries for people placed in permanent jobs had increased sharply in
+
+March. A pickup in pay growth, supported by strengthening productivity growth, was consistent with
+
+the Committee’s central view set out in the February Inflation Report, and was required for real
+
+incomes to grow sustainably without generating inflationary pressure. But cost pressures would rise if
+
+pay were to accelerate without an equivalent pickup in productivity growth.
+
+**The immediate policy decision**
+
+27 The Committee set monetary policy to meet the 2% inflation target in the medium term, but in a
+
+way that helped to sustain the recovery. In pursuit of that objective, the Committee had, at the time of
+
+its August 2013 Inflation Report, provided guidance regarding the path of monetary policy. That
+
+guidance stated that the Committee did not intend to raise Bank Rate from its current level of 0.5% or
+
+to reduce its stock of purchased assets at least until the LFS headline unemployment rate had fallen to
+
+a threshold of 7%, subject to three ‘knockout’ conditions, relating to: the judged likelihood that
+
+inflation would not exceed 2.5% 18 to 24 months ahead; whether measures of medium-term inflation
+
+expectations remained sufficiently well anchored; and the impact of the stance of monetary policy on
+
+financial stability, as judged by the Bank’s Financial Policy Committee (FPC).
+
+28 As the LFS headline unemployment rate had neared the 7% threshold, the Committee had
+
+provided further guidance regarding the setting of monetary policy once the unemployment threshold
+
+
+-----
+
+9
+
+was reached. That guidance had been described in the February 2014 Inflation Report and stated that
+
+when Bank Rate did begin to rise, the appropriate path so as to eliminate slack over the next two to
+
+three years and keep inflation close to the target was expected to be gradual. The actual path of
+
+Bank Rate over the next few years would, however, depend on economic developments. Even when
+
+the economy had returned to normal levels of capacity, and inflation was close to the target, the
+
+appropriate level of Bank Rate was likely to be materially below the 5% level set on average by the
+
+Committee prior to the financial crisis.
+
+29 Having fallen sharply through the second half of 2013, the LFS headline unemployment rate had
+
+been unchanged at 7.2% in the three months to January, and so remained above the 7% threshold set
+
+out in the Committee’s policy guidance of August 2013. The Committee’s assessment of the outlook
+
+and immediate policy decision therefore continued to be framed with reference to the guidance
+
+provided in August, including the three knockout conditions specified at that time.
+
+30 There had been little change to the outlook for global activity, where the recovery appeared to be
+
+strengthening in the advanced economies and slowing a touch in the emerging economies. While there
+
+was a possibility of a more robust global recovery than currently expected, weaker data from China
+
+highlighted that downside risks to global activity remained. Committee members had a range of views
+
+on how material those risks would be for the UK economy. Global inflationary pressures were
+
+subdued, especially in the euro area where there was a risk that very low inflation would hinder the
+
+rebalancing process. The low levels of implied volatility for a range of asset prices seemed surprising.
+
+Some increase in asset price volatility was likely as monetary policy in the advanced economies was
+
+brought back to a more normal setting. Monetary conditions had tightened a little over the month: the
+
+one-year rate one year ahead implied by overnight index swaps had risen by just over 10 basis points
+
+in the United Kingdom and by around 20 basis points in the United States. The sterling effective
+
+exchange rate had changed little in March but remained around 10% higher than its most recent trough
+
+a year earlier.
+
+31 The domestic recovery was building momentum, with some signs of a modest rebalancing
+
+towards investment. The recent strength of both the business surveys and activity indicators was
+
+consistent with quarterly growth of close to 1% in the first half of the year. Demand was likely to be
+
+bolstered by improving business and consumer confidence and easier credit conditions. But there were
+
+downside risks to activity were the recent widening of the current account deficit to 5½% of GDP,
+
+
+-----
+
+10
+
+driven by lower net investment income, to persist. Some housing market indicators had been a little
+
+weaker on the month, but house prices still showed considerable momentum, especially in London.
+
+32 With employment growth slowing in recent months, it was likely that productivity had started to
+
+rise after several years of stagnation, thereby providing the foundation for more sustained real income
+
+growth. Nominal wage growth had picked up a little in recent months and it was possible that a
+
+sustainable rise in real wages and incomes, consistent with a durable recovery in demand and output,
+
+was in prospect. Cost pressures would rise if pay were to accelerate without an equivalent pickup in
+
+productivity growth. But there was also a risk that nominal wage growth would remain weak even as
+
+productivity picked up and that this would intensify the downward pressure on inflation. This would
+
+partly depend on whether the recent substantial rise in self-employment represented the continuation of
+
+a secular trend, reflecting personal preferences and changing industrial structures, or a disguised form
+
+of labour market slack. More generally, there was considerable uncertainty about the amount of slack
+
+remaining within the economy and Committee members had a range of opinions on this and the
+
+outlook for inflation in the medium term.
+
+33 Regarding the knockout conditions, near-term inflationary pressure appeared to have eased
+
+further. CPI inflation had fallen to 1.6% in March. While inflation was likely to pick up somewhat in
+
+the coming months, all members agreed that the probability that it would be above 2.5% in 18–24
+
+months time remained less than 50%. In addition, the news on inflation expectations had been mainly
+
+to the downside, such that medium-term inflation expectations remained sufficiently well anchored.
+
+34 At its meeting on 19 March 2014, the FPC had agreed that, in the light of its assessment of the
+
+current risks to financial stability, the stance of UK monetary policy did not pose a significant threat to
+
+financial stability that could not be contained by the substantial range of mitigating policy actions
+
+available to the FPC, the Financial Conduct Authority and the Prudential Regulation Authority in a
+
+way consistent with their objectives. This had been communicated to the MPC.
+
+35 All Committee members agreed that neither of the price stability knockout conditions that would
+
+override the policy guidance provided in August 2013 had been breached; and the FPC had agreed that
+
+the financial stability knockout had not been breached. With unemployment remaining above the 7%
+
+threshold, the Committee’s August 2013 policy guidance therefore remained in place and no member
+
+thought it appropriate to tighten, or to loosen, the stance of monetary policy at the current juncture.
+
+
+-----
+
+11
+
+
+36 The Governor invited the Committee to vote on the propositions that:
+
+Bank Rate should be maintained at 0.5%;
+
+The Bank of England should maintain the stock of purchased assets financed by the
+
+issuance of central bank reserves at £375 billion.
+
+Regarding Bank Rate, the Committee voted unanimously in favour of the proposition.
+
+Regarding the stock of purchased assets, the Committee voted unanimously in favour of the
+
+proposition.
+
+37 The following members of the Committee were present:
+
+Mark Carney, Governor
+Charles Bean, Deputy Governor responsible for monetary policy
+Jon Cunliffe, Deputy Governor responsible for financial stability
+Ben Broadbent
+Spencer Dale
+Paul Fisher
+Ian McCafferty
+David Miles
+Martin Weale
+
+Sharon White was present as the Treasury representative.
+
+
+-----
+

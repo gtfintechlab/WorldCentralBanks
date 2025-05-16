@@ -1,0 +1,767 @@
+### May 2020
+
+## Bank of Korea
+
+
+-----
+
+(English version)
+
+#### Minutes of the Monetary Policy Board Meeting[1)]
+
+##### (May 2020)
+```
+Ⅰ. Outline
+
+```
+1. Date of meeting: Thursday, May 28, 2020
+
+2. Place: Monetary Policy Board Meeting Room
+
+3. Monetary Policy Board members present:
+Lee, Juyeol, Chairman (Bank of Korea Governor)
+Koh, Seung Beom
+Yoon, MyunShik (Senior Deputy Governor)
+Lim, Jiwon
+Cho, Yoon-Je
+Suh, Young Kyung
+Joo, Sangyong
+
+4. Monetary Policy Board members absent: none
+
+5. Participants:
+Jang, Ho Hyun, Auditor
+Ryoo, Sangdai, Deputy Governor
+Chung, Kyuil, Deputy Governor
+Lee, Seungheon, Deputy Governor
+Park, Jong Seok, Deputy Governor
+Lee, Hwan Seok, Deputy Governor
+Min, Jwa Hong, Director General of Financial Stability Department
+Lee, Sang Hyeong, Director General of Monetary Policy Department
+Kim, Hyun Kee, Director General of Financial Markets Department
+Yang, Seok Jun, Director General of International Department
+Shin, Woon, Director of BOK Economic Research Institute
+Park, Young Chool, Press Officer
+Suh, Myeongguk, Director of Reserve Management Strategy Division (Acting
+Director General of Reserve Management Group)
+Chae, Byung Deuk, Director General of Monetary Policy Board Secretariat
+Sung, Kwang Jin, Head of MPB Team
+
+1) This English version (summary) of the minutes of the Monetary Policy Board Meeting was produced
+at a working level, and is not an official document.
+
+1
+
+
+-----
+
+```
+Ⅱ. Summary of Discussions on the Current Economic Situation
+
+```
+After briefings by staff on _Economic Outlook,[2)]_ _FX and International Finance_
+
+_Trends, and_ _Financial Market Trends, the discussions of the Monetary Policy Board_
+
+(MPB) members covered the following areas:
+
+Members’ evaluation was that the global economy had been going through a serious
+
+slump due to the COVID-19 pandemic, and as a result, global trade had contracted and
+
+oil prices had remained low. Members assessed that risk-off sentiment had moderated
+
+considerably in the global financial markets, thanks to aggressive policy measures by
+
+countries around the world and expectations of economic reopening, but uncertainties
+
+remained high concerning the future path and impacts of the pandemic.
+
+Members expected that the domestic economy would not be hit as hard by
+
+COVID-19 as economies of major advanced countries, but the economy was extremely
+
+sluggish, recording negative growth in both the first and second quarters, and was likely
+
+to exhibit negative growth in annual terms as well. By sector, members judged that
+
+private consumption had remained sluggish and the recovery in facilities investment had
+
+been subdued. Members expressed concerns that, on top of the slowdown of domestic
+
+demand, the sluggishness of exports that had become apparent since the second quarter
+
+might limit domestic economic growth. With regard to prices, members pointed out that
+
+the slump in aggregate demand, in combination with the drop in global oil prices, had
+
+dragged consumer price inflation down to the 0% level, and core inflation had also
+
+fallen significantly.
+
+Finally, in the domestic financial markets, members’ evaluation was that the
+
+volatility of price variables had eased and credit flows had improved, as global financial
+
+market conditions had stabilized and the Bank of Korea and the Korean government had
+
+taken decisive policy measures. Members stressed, however, that attention should be paid
+
+to the possibility of renewed financial market unrest due to the high uncertainty
+
+surrounding COVID-19, and also to the widening disparity between the recovery of
+
+financial markets and the sluggishness of the real economy.
+
+2) An English version of Economic Outlook is posted on the Bank of Korea website.
+
+2
+
+
+-----
+
+```
+Ⅲ. Discussions Concerning Monetary Policy Decision (Summary)
+
+```
+The main details of the MPB members’ discussions concerning a change in the
+
+Bank of Korea Base Rate were as follows:
+
+All members presented the view that, in overall consideration of the domestic and
+
+international financial and economic environments, it would be desirable to lower the
+
+Base Rate by 25 basis points.
+
+One member presented the view that it would be appropriate to lower the Base
+
+Rate by 25 basis points to 0.50%.
+
+The member mentioned that the global economy had been facing a serious slump
+
+caused by the COVID-19 pandemic. Looking at individual countries, the member’s
+
+assessment was that the Chinese economy had been recovering from the shock of the
+
+previous quarter and showing gradual improvement, while economic activities in the US
+
+and the euro area had contracted drastically since March. The member noted that, in an
+
+effort to cushion economic shocks, most countries had been adopting accommodative
+
+fiscal and monetary policies and major countries had been recently easing lockdown
+
+measures gradually, resulting in partial economic reopening. The member added that all
+
+this had been supporting expectations of economic improvement in the second half. The
+
+member’s diagnosis, however, was that uncertainties surrounding the future growth path
+
+remained high, owing to the uncertainty of pandemic-related developments and to the
+
+signs of a reescalation of US-China trade tensions.
+
+Regarding the domestic economy, the member forecast that, although the COVID-19
+
+shock seemed less severe in Korea than in major advanced countries, domestic GDP
+
+was projected to contract this quarter, representing two consecutive quarters of negative
+
+GDP growth for the first time since 2003. The member forecast that, however, a
+
+somewhat different picture could be in sight from the previous quarter in that exports
+
+would decline at a much faster pace, particularly to the US and the euro area where
+
+preventive measures had been strengthened, while the decline in private consumption
+
+would ease gradually, boosted by various policy support measures. However, the
+
+member mentioned that caution was required in concluding whether the recent
+
+consumption trend could lead to sustainable improvement, since consumer sentiment had
+
+contracted substantially, and employment and income conditions were highly likely to
+
+worsen further for some time.
+
+With regard to financial markets, meanwhile, the member evaluated that risk-off
+
+sentiment had been easing, mostly because of aggressive policy responses by individual
+
+3
+
+
+-----
+
+countries and expectations of economic reopening. The member assessed that credit risk
+
+aversion had not increased further in capital markets, and that ample liquidity had
+
+ensured favorable credit supply in indirect financial markets, which accounted for a
+
+large share of the funding of Korean businesses. In this regard, the member judged that
+
+the possibility of a real-financial vicious circle, in which financial market unrest adds to
+
+the real economic shock, had been prevented to some extent. However, the member
+
+expressed the view that, since the fundamental cause of the current real economic
+
+contraction lay in the pandemic, not in financial issues, it was difficult to consider
+
+improvement in financial conditions as a sufficient condition for economic recovery. The
+
+member emphasized that attention should be paid to the possibility that price variable
+
+volatility would rise again and household and corporate credit risks would increase in
+
+the event of a delay in economic recovery due to prolongation of the pandemic.
+
+Taking all this into consideration, the member’s projection was that, although
+
+financial market unrest caused by the COVID-19 pandemic had been easing
+
+substantially, the negative spillover effects on the domestic real economy were expected
+
+to last for some time due to the worsening overseas economic conditions. The member
+
+also stressed that the possibility of downside risks to the medium- and long-term growth
+
+path could not be ruled out, amid uncertainties regarding when the pandemic, the root
+
+cause of the shock, would significantly subside. In light of this, the member argued that
+
+it would be desirable to cut the Base Rate by 25 basis points to 0.50% this time to
+
+provide a buffer against downside risks to the domestic economy.
+
+Another member presented the view that it would be desirable to cut the Base Rate
+
+from the current 0.75% to 0.50%.
+
+The member assessed that the COVID-19 pandemic and preventive measures taken
+
+in response by countries around the world had put the global economy into a recession
+
+unprecedented since the Great Depression. The member stated that Korea had not
+
+imposed a large-scale lockdown thanks to its effective preventive measures and was
+
+accordingly facing less severe growth loss than major advanced countries. The member,
+
+however, added that it still needed to be kept in mind that the ongoing crisis had come
+
+amid a falling potential growth rate and a sustained low inflation trend.
+
+The member’s evaluation was that, looking at its economic impact, the pandemic
+
+was unusual since it affected both supply and demand, but as the domestic economy
+
+had been able to avoid an extreme lockdown and shutdowns of production facilities, the
+
+shock had been more of a demand nature. The member mentioned that households’
+
+average propensity to consume had declined significantly in the first quarter, and that
+
+consumer price inflation and core inflation had run at only 0.1% in April. In addition,
+
+4
+
+
+-----
+
+regional economic activities in March and April, when the dramatic negative impacts
+
+had peaked, clearly showed a correlation among consumption, employment and inflation
+
+in which a drop in one factor leads to a fall in the others.
+
+The member anticipated that, although the government’s accommodative fiscal policy
+
+was expected to offset the sluggishness of demand to a certain extent, the negative
+
+output gap would inevitably widen. The member’s judgment was that, although the Base
+
+Rate had been lowered from 1.25% to 0.75% at the interim meeting in March, a further
+
+rate cut was inevitable, given the forecasts of the negative output gap exceeding 2%p
+
+and low inflation nearing 0%.
+
+For this year in particular, the member forecast that the private sector would exhibit
+
+a negative growth rate even though the government sector would not. The member took
+
+the view that the current crisis triggered by COVID-19 had been weighing on both the
+
+household and corporate sectors and that the worsening of private sector balance sheets
+
+might create a cycle of contraction in the overall economy in which a decrease in one
+
+sector leads to a decline in another. Regarding government measures such as
+
+government bond issuance and expansionary fiscal policy, the member went on to argue
+
+that it would be necessary to take measures to reduce overall financial expenses
+
+including debt-servicing burdens. The member stressed the need for the central bank to
+
+seek market interest rate stability by lowering the Base Rate and buying Treasury
+
+bonds, as the central bank needed to play a leading role in overcoming the crisis.
+
+The member in this regard expressed the opinion that it would be advisable to
+
+lower the Base Rate from the current 0.75% to 0.50% this time in order to induce a
+
+reduction of financial expenses in the private and government sectors, while coping with
+
+downward pressures on nominal demand. The member’s assessment was that, although
+
+the 0.50% Base Rate would be the lowest in the history of the domestic economy, it
+
+would not be low enough given the unprecedented current environment in which
+
+nominal GDP was almost 0%, nor would it be so low as to trigger sudden capital
+
+flows, considering the gap between domestic interest rates and those of major advanced
+
+countries.
+
+Finally, the member argued that the monetary easing stance should be maintained
+
+for a considerable period of time in order to induce an appropriate level of inflation
+
+expectations under the inflation targeting regime. The member judged that there were
+
+some concerns about the possibility of a Base Rate cut increasing instability in real
+
+estate and other financial sectors, but this should not be a top priority consideration for
+
+the monetary authorities in the current crisis. The member, however, emphasized that
+
+housing supply policies, tax policies and macroprudential policies should be carried out
+
+as planned in order to stabilize the housing market.
+
+5
+
+
+-----
+
+One member presented the view that it would be desirable to adjust the Base Rate
+
+downward from the current 0.75% to 0.50% this time.
+
+Looking at economic developments since the April MPB meeting, the member
+
+assessed that major countries, including the US and European countries, had exhibited
+
+much slower growth due to COVID-19, and as a result, world trade had contracted and
+
+oil prices had remained low. The member noted that these global economic conditions
+
+had been having negative impacts on the domestic real economy as well. The member
+
+forecast that private consumption, although having shown some signs of recovery since
+
+the second quarter, would exhibit negative growth in annual terms, and facilities
+
+investment would be more sluggish than originally projected due to a correction in
+
+non-IT investment. The member expressed concerns that the export slump that had
+
+persisted since the second quarter, along with the slowdown of domestic demand, might
+
+work to restrict growth of the domestic economy this year. Turning to employment
+
+conditions, the member noted that deterioration had thus far been seen mostly in the
+
+services sector, but predicted that an employment downturn would also become evident
+
+in the manufacturing and construction sectors as well. With regard to inflation, the
+
+member pointed out that consumer price inflation had fallen close to 0% and core
+
+inflation had also declined significantly.
+
+The member evaluated that, in consideration of this situation, the Research
+
+Department had made drastic downward adjustments to its growth and consumer price
+
+inflation forecasts for this year, but downside risks related to these forecasts might
+
+materialize, since the possibility of a second wave of COVID-19 could not be ruled out
+
+and the global economy could remain sluggish. The member expressed the view that the
+
+negative output gap was currently widening, as was the negative inflation gap due to
+
+low demand-side inflation pressures, and in light of this, it would be necessary to
+
+strengthen the accommodative monetary policy stance.
+
+Meanwhile, the member judged that uncertainties in the international financial
+
+markets had decreased somewhat and the financial and FX markets in Korea had
+
+become relatively stable thanks to the effectiveness of aggressive measures adopted by
+
+the Korean government and the Bank of Korea. The member stressed the need to
+
+continue to closely monitor financial market developments at home and abroad and seek
+
+additional responses promptly if needed.
+
+The member mentioned that the current pandemic had occurred at a time when
+
+concerns had been raised about the possibility that a surge in liquidity from sustained
+
+accommodative macroeconomic policies in Korea and major countries might act as a
+
+factor for financial market unrest. The member took the view that, although it had been
+
+6
+
+
+-----
+
+pointed out for some time that the issues of excessive liquidity and debt should be
+
+considered in monetary policy decisions, in times of crisis like this priority should be
+
+placed on making policy judgments to cope with the crisis. The member added that it
+
+was time to put the debt issue aside for the moment and take bold macroeconomic
+
+measures to combat the ongoing crisis.
+
+The member judged that, although the Base Rate had been already lowered to the
+
+0% level and opinions might vary regarding its effective lower bound, the central bank
+
+still had room for a further rate cut considering the level of the policy rates of major
+
+countries. The member in this regard argued that it would be desirable to cut the Base
+
+Rate from the current 0.75% to 0.50%. The member expected that the current rate cut
+
+would help ease the burdens on households, small business owners and corporations
+
+troubled by the pandemic and also help the government implement fiscal policy in
+
+pursuit of economic recovery.
+
+Another member expressed the opinion that it would be desirable to adjust the Base
+
+Rate downward by 25 basis points.
+
+The member diagnosed the global economy as suffering huge difficulties, as the
+
+negative impacts of COVID-19 were widely seen across the board in both advanced and
+
+emerging economies and in both domestic demand and exports. The member added that
+
+there were high uncertainties as to how the COVID-19 situation would develop and
+
+how severe its impacts would be.
+
+The member noted that the Research Department was projecting growth for this
+
+year to stand at -0.2%, 2.3 percentage points lower than the previous forecast, even
+
+with the basic assumptions that the global spread of COVID-19 would peak in the
+
+second quarter and there would not be a major second wave in Korea. The member
+
+pointed out that, although this figure was much more favorable than the forecasts for
+
+major economies or the global average, it would represent the first negative growth of
+
+the domestic economy since the Asian Currency Crisis, and would consequently make
+
+the negative output gap widen further and last longer. The member raised the concern
+
+that, if there were a second wave of COVID-19, contrary to the basic assumption, or if
+
+downside risks such as an escalation of the US-China trade conflict and the spread of
+
+economic crises in EMEs materialized, the additional negative impacts on the domestic
+
+economy could be enormous. The member also saw that, with respect to prices,
+
+consumer price inflation would slow to the 0% level and fall further short of the
+
+inflation target due to sluggishness in aggregate demand compounded by the decline in
+
+international oil prices.
+
+7
+
+
+-----
+
+The member noted that, in response to this sluggish growth and inflation and to the
+
+financial unrest immediately following the spread of COVID-19, the MPB had cut the
+
+Base Rate by 50 basis points in March and had supplied liquidity on a large scale by
+
+for instance expanding the Bank Intermediated Lending Support Facility and taking
+
+various open market operation measures. The member’s assessment was that, as a result,
+
+financial stability was able to be achieved, with price variables showing less volatility
+
+and credit flows improving.
+
+The member, however, pointed out that, on the other hand, there had been concern
+
+about whether there was excessive decoupling between sluggishness in the real economy
+
+and improvement in the financial markets. The member expressed the opinion that, if
+
+the improvement in the financial markets did not lead to improvement in the real
+
+economy, the financial markets could undergo a considerable correction. The member
+
+added that, in the medium to long term, active monetary accommodation could cause a
+
+deepening of financial imbalances through economic agents’ stronger search for yield,
+
+concentration of liquidity into certain asset markets coupled with rising asset prices, and
+
+increased debt servicing burdens and default risk stemming from accumulated debt.
+
+The member noted that, considering the above-mentioned matters, macroeconomic
+
+risk and financial stability risk had conflicting implications for monetary policy
+
+decision-making. The member, however, expressed the view that it would be appropriate
+
+to lower the Base Rate by 25 basis points from 0.75% to 0.50% this time, since it
+
+appeared to be more urgent to stimulate growth and inflation than to control the
+
+deepening of financial imbalances. The member added that, if the Base Rate were
+
+lowered at this meeting, there would be only limited scope for further downward
+
+adjustments to the Base Rate, not only in terms of financial imbalances, but also in
+
+terms of policy effectiveness and possible capital outflows, although this judgment could
+
+of course vary depending upon changes in domestic and international financial
+
+conditions and the monetary policy operations of major economies.
+
+One member stated that it would be desirable to adjust the Base Rate downward by
+
+25 basis points.
+
+The member’s assessment was that COVID-19 was simultaneously causing negative
+
+demand-side and supply-side shocks to the domestic economy, thereby weighing on
+
+economic activity and putting downward pressure on prices. The member expressed the
+
+opinion that, in response, accommodative monetary policy should be conducted while
+
+taking into account interactions with fiscal policy.
+
+The member noted that the Research Department was forecasting growth for this
+
+8
+
+
+-----
+
+year to record a low level of -0.2% under a baseline scenario in which the number of
+
+confirmed coronavirus cases would peak in the second quarter. The member pointed out
+
+that Korea could be said to have been less severely impacted by COVID-19 than major
+
+countries in that it had opted for a quarantine, not a lockdown. The member, however,
+
+pointed out that the negative growth was almost unprecedented and the quality of
+
+growth was also very fragile. Specifically, the member expected private consumption to
+
+decrease substantially, with the effects of large-scale transfer payments by the
+
+government excluded, and facilities investment and exports to be very sluggish with the
+
+exception of semiconductors.
+
+The member’s assessment was that the sluggishness in the private sector was due to
+
+the amplification of the coronavirus shock through interactions with structural
+
+vulnerabilities in the domestic economy. The member thus noted that it was necessary
+
+to prevent, as much as possible, the coronavirus shock from leading to permanent
+
+damage to the foundation for growth. The member went on to present the opinion that,
+
+to this end, it was necessary to reduce the financial costs of the private sector and the
+
+fiscal burden of the government through an additional Base Rate cut.
+
+The member commented that, with respect to inflation, active response measures
+
+were needed, particularly since both consumer price inflation and core inflation remained
+
+in the lower-0% range, even raising concerns about deflation. The member’s assessment
+
+was that, although the Phillips curve had flattened, the recent very large slowdowns in
+
+economic activity and employment were having negative impacts on inflation and
+
+income levels. The member thus emphasized the importance of preventing a decline in
+
+inflation expectations through active policy responses and communications.
+
+Meanwhile, the member acknowledged that concerns about financial imbalances and
+
+capital outflows had increased as the Base Rate approached the effective lower bound.
+
+The member, however, commented that household debt was showing modest growth,
+
+while foreign portfolio investment was recording net inflows unlike periods of
+
+international financial unrest in the past thanks to the robust external soundness of the
+
+domestic economy. The member thus expressed the opinion that it was necessary to
+
+closely watch the relevant developments in the future.
+
+Finally, the member commented that interest rate policy should be conducted
+
+flexibly by closely monitoring the possibility of domestic and international economic
+
+sluggishness becoming deeper than expected due to a second wave of COVID-19 or the
+
+possibility of the economy shifting to a recovery trend thanks to the spread of
+
+COVID-19 easing earlier than expected. The member also emphasized the need to
+
+continue to give thought to various monetary policy tools.
+
+9
+
+
+-----
+
+```
+  Ⅳ. Results of Deliberation on Monetary Policy Directions
+
+```
+Incorporating the outcome of the above discussions, the following Monetary Policy
+
+Decision statement was compiled. All MPB members participating in the vote supported
+
+the decision unanimously.
+
+###### Monetary Policy Decision
+
+ □ The Monetary Policy Board of the Bank of Korea decided today to lower the
+
+ Base Rate by 25 basis points, from 0.75% to 0.50%.
+
+ □ Currently available information suggests that the global economy has contracted
+
+ significantly due to constrained economic activity caused by the COVID-19
+
+ pandemic. Unease in global financial markets has moderated considerably. Stock
+
+ prices in major countries have risen, and the volatility of government bond
+
+ yields and exchange rates has lessened thanks to aggressive fiscal and monetary
+
+ measures in major economies and expectations of economic reopening. Looking
+
+ ahead, the Board sees global economic growth and global financial markets as
+
+ likely to be affected largely by the evolution of the pandemic, as well as by the
+
+ effects of national policy responses.
+
+ □ Economic growth in Korea has slowed considerably. Consumption has remained
+
+ sluggish, and exports have fallen significantly. While the recovery in facilities
+
+ investment has been subdued, the correction in construction investment has
+
+ continued. Labor market conditions have worsened with a sharp decline in the
+
+ number of persons employed, especially in the service sector. The Board expects
+
+ that domestic economic growth will remain sluggish for some time due to the
+
+ impact of the COVID-19 pandemic. GDP growth is projected to fall considerably
+
+ below the February forecast of 2.1% to around 0%, and uncertainties around the
+
+ future path of GDP growth are also judged to be very high.
+
+ □ Consumer price inflation has slowed markedly to the lower-0% level due to
+
+ declining prices of petroleum products and public services as well as slower
+
+ growth in the prices of agricultural, livestock, and fisheries products. Core
+
+ inflation (excluding changes in food and energy prices from the CPI) has also
+
+10
+
+
+-----
+
+###### moved down to the lower-0% range, and the inflation expectations of the general
+
+ public have fallen slightly to the mid-1% level. It is forecast that consumer price
+
+ inflation and core inflation will run at the lower-0% and mid-0% level this year,
+
+ respectively, due to the drop in global oil prices and weakening demand-side
+
+ inflationary pressures.
+
+ □ Volatility in domestic financial markets has declined as a result of improved
+
+ global financial market conditions as well as decisive market stabilization
+
+ measures. While long-term market interest rates have fallen, stock prices have
+
+ risen and the Korean won to US dollar exchange rate has fluctuated within a
+
+ narrow range. The increase in household loans has slowed, and the rate of
+
+ increase in housing prices has decelerated.
+
+- The Board will continue to conduct monetary policy in order to support the
+
+###### economy and stabilize consumer price inflation at the target level over a
+
+ medium-term horizon, while paying attention to financial stability. As economic
+
+ growth is expected to be sluggish and inflationary pressures on the demand-side
+
+ are forecast to remain weak due to the COVID-19 pandemic, the Board will
+
+ maintain its accommodative monetary policy stance. In this process it will
+
+ thoroughly assess developments related to the pandemic, the impact on the
+
+ economy and financial markets here and abroad, and changes in financial
+
+ stability.
+
+11
+
+
+-----
+

@@ -1,0 +1,43 @@
+# MONETARY PROGRAM FOR AUGUST 2014
+ BCRP MAINTAINED THE REFERENCE INTEREST RATE AT 3.75%
+
+1. The Board of the Central Reserve Bank of Peru approved to maintain the monetary policy
+reference rate at 3.75 percent.
+
+This level of the reference rate is compatible with an inflation forecast according to which
+inflation will converge to the target range in 2014 and to 2.0 percent in 2015. This forecast
+takes into account that: i) inflation expectations remain anchored within the inflation target
+range; ii) GDP continues to show lower growth rates than the country’s potential level of
+growth, which is expected to be a temporary situation; iii) recent indicators show signals of
+recovery in the U.S. economy, and iv) the supply factors that led inflation to increase are
+moderating at a slower pace than expected.
+
+2. Inflation in July showed a rate of 0.43 percent, as a result of which inflation in the last 12
+months fell from 3.45 percent in June to 3.33 percent in July. The rate of inflation excluding
+food and energy was 0.24 percent, as a result of which the rate of inflation in the last 12
+months fell from 2.77 percent in June to 2.73 percent in July.
+
+Inflation is forecast to remain initially close to the upper band of the target range due to the
+persistent effect of the supply shocks and to converge thereafter to the 2 percent target.
+
+3. Current and advanced indicators of activity continue to show a weaker economic cycle than
+the one expected, with lower GDP growth rates than the potential output due mainly to the
+lower dynamism observed in investment and exports.
+
+4. The Board oversees the inflation forecasts and inflation determinants, and will implement
+additional monetary easing measures if it is necessary.
+
+5. The Board of the Central Bank also approved to maintain the annual interest rates on lending
+and deposit operations in domestic currency (not included in auctions) between the BCRP
+and the financial system, as described below:
+
+a. Overnight deposits: 2.55 percent.
+b. Direct repos and rediscount operations: 4.55 percent.
+c. Swaps: a commission equivalent to a minimum annual effective cost of 4.55 percent.
+
+6. The Monetary Program for September will be approved on the Board’s meeting of
+September 11, 2014.
+
+
+-----
+

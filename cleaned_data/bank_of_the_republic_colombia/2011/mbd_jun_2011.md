@@ -1,0 +1,75 @@
+# Minutes of the Banco de la Republica Board of Director’s meeting on June 17, 2011
+ On June 17, 20101, the regular meeting of the Board of Directors of the Banco de la Republica was held in the city of Bogota.
+ Present were: Juan Carlos Echeverry, Minister of the Treasury and Public Credit  Jose Dario Uribe, the General Director 
+ Full-time Board members present: Carlos Gustavo Cano Sanz Juan Jose Echavarria Soto Fernando Tenjo Galarza Cesar Vallejo Mejia and Juan Pablo Zarate Perdomo
+ The inflationary and economic growth situations as well as the outlook for both were discussed and decisions were made in relation to monetary policy. Below is a summary of the main topics dealt with in this meeting.
+ 1. BACKGROUND
+ a. Recent developments in inflation: 
+ Annual consumer inflation in May was 3.02% (monthly was 0.28%), which was 18 basis points (bp) higher than in April. This figure was in line with what was projected by the Bank’s technical team but was lower than the market expected. 
+ The main upward pressures came from the prices for food–both perishables and processed food. As of May the annual variation for food was 3.6%, a percentage that corrects an unexpected slowdown for this group in the month of April. 
+
+
+-----
+
+# Inflation excluding food (2.81%) just like the average of all of the indicators for core inflation remained relatively stable. The annual variation of the prices for non-tradables excluding food and regulated prices rose 5 bp and came to 3.5% in May. In contrast that of the prices for regulated goods and the one for tradables excluding food and regulated prices declined 26 bp and 4 bp respectively as they stood at 6.15% and -0.1% in May. 
+ Inflation expectations for two and three years from now slowed back down and are within the target range. For the end of the year, the monthly expectations survey done of analysts suggests that inflation will be at 3.2%, a number that is slightly higher than what was obtained in April (3.1%).
+ The annual variation of producer prices (PPI) was 4.8% in May compared to 4.7% in April. The rises have been concentrated in goods from the agricultural sector.
+ b. Growth
+ For the first quarter, the latest activity indicators suggest that the annual rate of growth for the economy could be slightly below what was seen at the end of 2010.  This slowdown is primarily explained by an unexpected fall in construction, especially in public works projects, The support from the net foreign demand will be negative since real imports rose more rapidly than exports. 
+ With respect to expenditures, the GDP has been driven by domestic demand because of both investment other than construction and household consumption in the first quarter of this year. Just like in 2010, during that quarter the greater strength within private consumption was from that of semi-durable and durable goods (i.e., automobiles). This was favored by the low interest rates and wide availability of credit.
+ With respect to investment, the poor result from public works projects implies a significant slowdown in the investment in fixed capital. However, the rest of the components of this area such as investment in machinery and transportation equipment have shown significant growth as shown by the imports of permanent assets.
+ For the second quarter of 2011, the limited indicators available do not make it possible to consider a significant slowdown in growth. The sales of vehicles continued to grow at a good rate which suggests that durable consumption will
+
+
+-----
+
+# remain high. This is being confirmed by the momentum of consumption imports (annual growth as of April 30.5%), the growth of consumer credit (22.4% as of May) and the perception of businessmen about their current sales. 
+ In April, the indicators for the labor market reflected an improvement in the quantity and quality of employment. The creation of employment was concentrated in wage-earning labor and the seasonally adjusted unemployment rate dropped in comparison to what had been seen in March and February. These facts may continue to drive household consumption strength. 
+ The favorable trend in the indicators of household expenditures described above has not been in line with the trend of the consumer confidence index calculated by Fedesarrollo. In April and May, this index deteriorated, especially due to the fall in willingness to buy housing or durable goods. 
+ In April, foreign sales of Colombian products in dollars continued growing at a high rate (34.6% annually in value and 2.5% in volume) although this was lower than what had been seen the month before (46.4% and 7.4% respectively).  Exports were again driven by the positive performance of products like coffee, coal, nickel-iron, gold, petroleum and its derivatives in the international market.  The rest of the foreign sales in dollars grew 9.1% and those for markets other than Venezuela grew 12.8%. Respecting imports, their growth continues to be strong (32.2%). It is estimated that so far this year, the real growth of imports surpasses that of exports. As a result of that, the contribution of net foreign demand to the GDP remains in negative territory. 
+ The indicators associated with supply continued to show positive performance. For example, the total demand for energy as of May grew again in annual terms. Specifically, industry’s demand for non-regulated energy showed a significant strength.
+ In industry, the indicators for orders and inventory still showed positive performance. Nevertheless, the balance on 3-month production expectations fell although that deterioration did not imply a break in the indicator’s tendency component.
+ The possibly transitory character of the performance of public works projects as well as the limited information available for the second quarter does not permit the consideration of any important change in the growth forecast for 2011.  Therefore, a growth range of between 4% and 6% is maintained 2011.
+
+
+-----
+
+# c. Financial variables
+ Total credit in national (NC) and foreign currency (FC) continued rising. As of May, all of the types of credit, including not only households but also companies, registered growth that was much higher than the 2011 GDP estimate. This has occurred in a context of real interest rates that are historically low. 
+ As of May the real credit (NC and FC) rose 22.4% annually, data which is 93 bp higher than that registered in April. The consumer and commercial portfolio (NC and FC) registered increases of 22.4% and 22.8% in May which is 122 bp and 81 bp higher respectively to what had been seen a month earlier. The mortgage portfolio declined 91 bp and was at 17.6% for the month. 
+ In May, real interest rates (discounting the consumer price index without food) for credits on consumption, housing and commerce, were 14,6%, 9,7% y 7,1%, below its historical levels since 1998. 
+ d. Foreign context 
+ In the second quarter of 2011, the world economy confirmed the recovery which started in 2009. However, this recovery could be slower since the latest information available shows that the developed countries have not totally recovered from the consequences of the past recession yet. They could also be facing a temporary slowdown associated with the difficulties Japan is facing. In those conditions the current momentum of the worldwide economy is largely explained by the performance of the emerging countries.
+ In the United States in particular, the recovery continues at a moderate pace and the new information on the indicators of economic activity suggest that the growth in the second quarter could be slowing down. This evolution is primarily explained by the lower strength in domestic demand affected by the cuts in public expenditures and the high prices of fuel. In addition, the unemployment rate rose again in May and the number of jobs created was lower than it was for previous months. In contrast, exports continued growing in nominal and real terms and their rate of expansion for the first four months of the year has been above that for imports. This has made it possible to reduce the trade deficit.
+ In addition, the debt crisis in the most fragile countries in the Euro Zone (Greece, Ireland, Portugal and Spain) has raised the level of concern about the
+
+
+-----
+
+# fiscal sustainability of those economies. The lack of a definite solution for the situation in Greece is having an impact on the stock markets all over the world in view of the fear that US and European banks could be affected. 
+ In the case of Japan, the industrial production index showed evidence of some recovery in April after a sharp fall due to the natural disaster. It is hoped that in the second half of the year this activity will begin to recovery more clearly.
+ The international prices for food and petroleum continue to be historically high in spite of some reductions in the last few months. These drops are due to the increase in uncertainty with respect to the performance of the developed countries and to the fact that the supply seems to be covering the current necessities. 
+ With respect to the emerging economies, the industrial production indices continue to show favorable performance except for the case of Brazil where there was a slight drop. However, in China and India inflation rose in May indicating that the pressures on prices are still present. This situation will continue to affect the monetary policy decisions and should lead to a moderation in the rate of growth for these economies.
+ 2. DISCUSSION AND POLICY OPTIONS
+ The board members’ main points of discussion and analysis focused on the following aspects: (i) the sharp drop in the investment in public works projects in the first quarter. This decline was not expected and probably is transitory in character, (ii) the international uncertainty due to the decline of the indicators of activity for the United States and to the debt crisis in the Euro Zone, (iii) the historically low level of the Bank’s benchmark interest rate and of a large part of the real interest rates and their possible future effect on the solidity of the financial system if this is maintained for an excessively prolonged period of time, (iv) the continuing growth of all of the components of credit and the debt held by households, (v) the historically high level of the terms of trade and their contribution to the growth of national revenue, (vi) the strong performance of private demand in both consumption and investment in machinery and equipment, (vii) the better indicators of employment quality in the labor market, (viii) the high probability that the level of output will be near its potential in the second half of the year, (ix) the inflation expectations for the short and medium term that have corrected downward and are within the target range, (x) the recent appreciation of the peso, (xi) the pressure of food and petroleum prices on international inflation,
+
+
+-----
+
+# (xii) the inflationary pressures in many countries along with increases in the interest rates of some central banks in Latin America and Asia.
+ Some members of the Board expressed their opinion that the Bank’s benchmark rate should be raised 25 bp for the following reasons: (i) although certain uncertainties have been introduced into the growth of the GDP, especially because of the external risks and the carrying out of public works projects, the available information shows a strong momentum in domestic demand including both investment other than construction and household consumption. The later seems to be confirmed by the annual growth of 22.4% in consumer credit and by the strength shown by retail sales so far this year. (ii) The current real rate is below its probable long term balance and is inconsistent with the growth that is expected to be close to its potential in 2011 and 2012 and a projected inflation that is close to the midpoint of the long term target range. (iii) The consecutive, early increase in the Bank’s interest rates contributes to keeping inflation within the target range and reduces the risk of financial imbalances that later lead to an unnecessary volatility in the interest rates, output and employment.
+ In the opinion of this group of members of the Board, a monetary posture corresponding to a benchmark interest rate of a nominal 4.25% is still expansionary.
+ Another member of the Board also considered it appropriate to raise the Bank’s benchmark rate by 25 basis points in order to ensure a positive level in real terms. Nevertheless, he warned that in the current phase of the economic cycle this should be the last movement given that the indicators show that both total and core inflation as well as expectations are controlled and anchored to the goal. He also believed that the difference with respect to the rates of our main trading partner, the United States, should not be widened anymore. The monetary authority there will probably not raise them before the end of next year due to the stagnation of the economy and to the fears of a double-dip recession. The change in the foreign currency portfolio resulting from this differential is alarming since its annual growth has gone from 134% in March to 170% in May. In view of that, complementary measures of macro-prudential regulation should be considered from now on instead of over using the interest rate. Finally, he observed that the export and foreign investment boom is concentrated in the energy-mining sector which explains 80% of the strength of the first one and 85% of the size of the second while it barely generates 200,000 jobs. An unmistakable symptom of the Holland disease.
+
+
+-----
+
+# Another member of the Board considered that it is not convenient to increase the Bank’s benchmark rate in this opportunity. The different inflation indicators are within the target range of 3% +/- 1 percentage point, GDP growth is close to its historical level, and the confidence surveys on consumers, manufacturers and merchants show important reductions. In addition, the international economy has slowed down in the recent months. This scenario justifies waiting to the next meeting of the board, in order to count with additional solid information on interest rates.
+ 3. POLICY DECISION
+ The Board of Directors agreed by majority to raise the benchmark rate of the Banco de la Republica by 25 basis points which will put it at 4.25%.
+ The Board will continue to monitor the international situation, the inflation trend and projections, growth, the performance of the asset markets carefully and reiterates that the monetary policy will depend on the new information available.
+ Bogota D.C. July 1, 2011  
+
+
+-----
+

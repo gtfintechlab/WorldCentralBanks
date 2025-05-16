@@ -1,0 +1,152 @@
+**BANK OF ISRAEL**
+
+### Office of the Spokesperson and Economic Information
+
+June 6, 2022
+
+# Report on the Bank of Israel’s discussions prior to deciding
+ on the interest rate
+
+## The discussions took place on May 22 and 23, 2022.
+
+ General
+
+The Monetary Committee sets the interest rate in a process that includes two
+discussions––the first in a broad forum, and the second in a narrower one.
+
+In the broad-forum discussion, the relevant background economic conditions are
+presented, including the real and financial-monetary developments in Israel’s economy,
+and developments in the global economy. Participants in this discussion include the
+members of the Monetary Committee, senior representatives from the various
+departments of the Bank, and economists from the economic departments (Research
+and Markets), who prepare and present the material for discussion.
+
+In the narrow forum—which consists of the Monetary Committee and a representative
+of the Markets Department—the Research and the Markets Departments present their
+views of the main considerations that should guide the setting of the monetary policy.
+An open discussion on monetary policy follows, which ends with a vote on the level of
+the interest rate. According to Section 18(c) of the Bank of Israel Law, 5770–2010, the
+decision on the interest rate is reached by majority vote of the members of the Monetary
+Committee who participate in the voting.
+
+A summary view of the economic situation available at the time of the Committee’s
+discussion is presented in the [notice regarding the interest rate decision, which was](https://www.boi.org.il/en/NewsAndPublications/PressReleases/Pages/23-05-22.aspx)
+[published on May 23, and in the data file that accompanied the notice.](https://www.boi.org.il/en/NewsAndPublications/PressReleases/Documents/English%20presentation%20-%20May%2023%202022.pptx)
+
+Page 1 of 4
+
+
+-----
+
+## THE NARROW-FORUM DISCUSSION
+
+The members of the Monetary Committee participating in the discussion decide on the
+appropriate rate of interest. After the discussion, it was decided to increase the interest
+rate by 0.40 percentage points, to 0.75 percent.
+
+The discussion focused on the development of inflation in Israel, which is above the
+upper bound of the target range, economic growth data, which remain at a high level,
+the good data on the labor market, wage developments, the shekel depreciation that
+occurred, and the increase in home prices. In addition, the Committee discussed
+developments in the global economy, particularly the effects of the war in Ukraine, and
+the policy in China intended to reduce the COVID-19 pandemic. The Committee also
+discussed developments in capital markets worldwide and in Israel.
+
+## Main points of discussion
+
+The Committee discussed the continued acceleration of inflation in Israel, and its
+standing above the upper bound of the target range. The inflation rate over the preceding
+12 months increased to 4.0 percent. Based on forecasters’ projections, inflation is
+expected to range above the upper bound of the target in the coming months and to
+moderate toward 2023. The Committee pointed to the role of imported inflation as a
+significant inflationary factor. However, the Committee members assessed that the
+increase in domestic demand is also accelerating inflation. The proof of that is the
+dispersal of the increase in inflation across most CPI components. The Committee was
+of the view that that wages in the business sector are at a higher level than the path that
+is in line with its pre-crisis trend, while wages in the public sector have increased at a
+more moderate pace, among other things due to the deferral of wage agreements in the
+crisis period and the freeze that was agreed upon in the package deal between the
+government, the General Federation of Labor (the Histadrut), and employers’
+organizations. The Committee members emphasized that despite the increase in
+inflation in recent months, it remains markedly lower than the inflation rate in most
+advanced economies.
+
+The Committee discussed the good data on economic activity. The members noted that
+the various indicators point to a level of activity that is close to potential and that the
+impact of the pandemic on the economy has decreased notably. Regarding the labor
+market, the Committee members noted that it continues to be tight and close to the full
+employment that characterized the economy before COVID-19.
+
+The Committee discussed the growth rate of home prices, which continued to
+accelerate. Home prices increased in the past 12 months by 16.3 percent, a markedly
+
+Bank of Israel—Minutes of interest rate discussion on May 22–23, 2022. Page **2** Of **4**
+
+
+-----
+
+high rate compared to the pace of recent years. In addition, the Committee discussed
+mortgage volume, which remains high, and its composition. Alongside these, the
+Committee noted that the rent component in the CPI (renewed leases) increased at a
+more moderate annual pace.
+
+The Monetary Committee discussed the global risks that are liable to impact on
+developments in Israel’s economy, particularly the war in Ukraine and the slowdown
+in economic activity in China, which are reflected in the continuing disruptions in
+production chains and the high level of energy prices. These factors increase inflation
+pressures and lead to a slowing of the pace of economic activity worldwide. In view of
+this, it was noted that investment houses revised growth forecasts downward. The
+Committee also discussed the risks deriving from the sharp declines in equity markets
+worldwide, particularly in the high-tech industry in the US. The Committee emphasized
+that some companies in the industry in Israel may face difficulty, but alongside that, the
+sector’s strength is notable for being diverse and with access to sources of funding.
+
+The Committee members discussed the continuing process of contractionary monetary
+policy worldwide against the background of inflation indices that are deviating
+markedly from central banks’ targets. The Committee members noted that in the US,
+the Federal Reserve increased the interest rate by 50 basis points alongside a notice
+about reducing the balance sheet. In the eurozone, the ECB confirmed its intention to
+terminate its government bond purchase program in the coming months, and signaled
+an increase in the interest rate after that. In addition, there have been interest rate
+increases in several additional countries in which the inflation rate is above the central
+bank target.
+
+All six members of the Monetary Committee were of the opinion that the interest rate
+should be increased by 0.40 percentage points, to 0.75 percent. The Committee
+members’ assessment was that the Israeli economy is recording strong growth,
+accompanied by a tight labor market and a continued increase in the inflation
+environment. The Committee has therefore decided to continue the gradual process of
+increasing the interest rate. The members emphasized that the pace of raising the
+interest rate will be determined in accordance with activity data and the development
+of inflation, in order to continue supporting the attainment of the policy goals.
+
+**Participants in the narrow-forum discussion:**
+
+**Members of the Monetary Committee:**
+Prof. Amir Yaron, Governor of the Bank and Chairperson
+Mr. Andrew Abir, Deputy Governor of the Bank of Israel
+Prof. Naomi Feldman
+Prof. Moshe Hazan
+Prof. Zvi Hercowitz
+
+Bank of Israel—Minutes of interest rate discussion on May 22–23, 2022. Page **3** Of **4**
+
+
+-----
+
+Prof. Michel Strawczynski
+
+**Other participants in the narrow-forum discussion:**
+Mr. Tal Biber, Head of the Markets Division, Markets Department
+Dr. Golan Benita, Chief of Staff to the Governor
+Mr. Uri Barazani, Spokesperson of the Bank
+Mr. Gilad Brand, Research Department
+Mr. Arad May, Monetary Committee Secretariat
+Ms. Shulamit Nir, Research Department
+Mr. Daniel Shlomiuk, Bank Spokesperson’s Office
+
+Bank of Israel—Minutes of interest rate discussion on May 22–23, 2022. Page **4** Of **4**
+
+
+-----
+

@@ -1,0 +1,39 @@
+# Central Bank of Egypt
+
+**Press Release**
+
+**March 17, 2016**
+
+**_In its meeting held on March 17, 2016, the Monetary Policy Committee (MPC) decided to raise_**
+**_the overnight deposit rate, overnight lending rate, and the rate of the CBE's main operation_**
+**_by 150 bps to 10.75 percent, 11.75 percent, and 11.25 percent respectively. The discount rate_**
+**_was also raised by 150 bps to 11.25 percent._**
+
+On March 14, 2016, the CBE decided to adopt a more flexible exchange rate regime that better
+reflects the underlying forces of supply and demand and in order to correct the imbalances that
+affected the foreign exchange flows in the banking sector. The more flexible exchange rate has
+restored confidence, creating a favorable investment climate that is expected to raise economic
+growth rates and attract capital inflows. Prior to this, the imbalances led to a widening
+premium between the official and unofficial rates which already had a pass-through effect on
+domestic prices. Both annual headline and core inflation rates reached single digits, registering
+9.1 percent and 7.5 percent, respectively in February 2016, which supported the timing of the
+depreciation decision.
+
+The CBE’s monetary policy will be geared towards maintaining price stability by avoiding
+double digit inflation rates over the medium-term to maintain real incomes. Moreover, stable
+inflation rates are conducive to achieving sustainable economic growth.
+
+The MPC judges that a rate hike is warranted to anchor inflation expectations.
+
+The MPC reiterates its price stability mandate and will continue to closely monitor all economic
+developments, particularly fiscal policy and its effect on the inflation outlook, and will not
+hesitate to adjust the key CBE rates to ensure price stability over the medium-term.
+
+Dr. Rania Al-Mashat
+Sub Governor, Monetary Policy
+Telephone number: 0227701315
+[Email: monetary.policy@cbe.org.eg](mailto:monetary.policy@cbe.org.eg)
+
+
+-----
+

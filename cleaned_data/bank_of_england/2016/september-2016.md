@@ -1,0 +1,739 @@
+# Monetary Policy Summary and minutes of the Monetary
+
+ Policy Committee meeting ending on 14 September
+
+ 2016
+
+## Publication date: 15 September 2016
+
+These are the minutes of the Monetary Policy Committee meeting ending on 14 September 2016.
+
+They are available at http://www.bankofengland.co.uk/publications/Pages/news/2016/009.aspx
+
+The Bank of England Act 1998 gives the Bank of England operational responsibility for setting monetary policy
+
+to meet the Government’s inflation target. Operational decisions are taken by the Bank’s Monetary Policy
+
+Committee. The minutes of the Committee meeting ending on 2 November will be published on 3 November
+
+2016.
+
+
+-----
+
+### Monetary Policy Summary, September 2016
+
+The Bank of England’s Monetary Policy Committee (MPC) sets monetary policy to meet the 2% inflation target
+
+and in a way that helps to sustain growth and employment. At its meeting ending on 14 September 2016, the
+
+MPC voted unanimously to maintain Bank Rate at 0.25%. The Committee voted unanimously to continue with
+
+the programme of sterling non-financial investment-grade corporate bond purchases totalling up to £10 billion,
+
+financed by the issuance of central bank reserves. The Committee also voted unanimously to continue with the
+
+programme of £60 billion of UK government bond purchases to take the total stock of these purchases to
+
+£435 billion, financed by the issuance of central bank reserves.
+
+The package of measures announced by the Committee at its August meeting led to a greater than anticipated
+
+boost to UK asset prices. Short and long-term market interest rates fell notably following the announcement;
+
+corporate bond spreads narrowed, and issuance was strong; and equity prices rose. Since then, some of the
+
+falls in yields have reversed, driven by somewhat stronger-than-expected UK data and a generalised rise in
+
+global yields.
+
+Many banks announced cuts in Standard Variable Rate and Tracker mortgage rates in line with the cut in Bank
+
+Rate. Deposit rates fell in August, although on average these falls were slightly smaller than the cut in Bank
+
+Rate. Fixed rates on new mortgage lending also fell.
+
+Overall, while the evidence on the initial impact of the policy package is encouraging, the Committee will monitor
+
+closely changes in asset prices and in interest rates facing households and firms and their effect on economic
+
+activity.
+
+The MPC set out its most recent detailed assessment of the economic outlook in the August Inflation Report.
+
+Based on the data available at that time, the Committee judged that the UK economy was likely to see little
+
+growth in the second half of 2016. In light of the tendency for survey indicators to overreact to unexpected
+
+events, the Committee expected some bounce-back in surveys of business and consumer sentiment following
+
+the sharp falls in the immediate aftermath of the vote to leave the European Union. Nevertheless, since the
+
+August Inflation Report, a number of indicators of near-term economic activity have been somewhat stronger
+
+than expected. The Committee now expect less of a slowing in UK GDP growth in the second half of 2016.
+
+It was more difficult to draw a strong inference from these data about the Committee’s projections for 2017 and
+
+beyond. Moreover, there had been no new information since the August Inflation Report relevant for
+
+longer-term prospects for the UK economy.
+
+In the August Inflation Report, the Committee judged that some parts of the economy would be more sensitive
+
+than others to heightened uncertainty. Business and housing investment were expected to decline in the
+
+second half of 2016, while consumption growth was expected to slow more gradually, alongside households’
+
+
+-----
+
+real disposable incomes. While most business investment intentions surveys weakened further since the
+
+August Inflation Report, the near-term outlook for the housing market is less negative than expected and the
+
+indicators of consumption have been a little stronger than expected. Overall, these data remain consistent with
+
+the Committee’s judgement in the August Inflation Report that business spending would slow more sharply than
+
+consumer spending in response to the uncertainty associated with the United Kingdom’s vote to leave the
+
+European Union.
+
+Data on global economic activity have generally been in line with the Committee’s August Inflation Report
+
+projections, with growth in the United Kingdom’s major trading partners expected to continue at a modest pace
+
+over the next three years.
+
+Twelve-month CPI inflation remained at 0.6% in August, lower than projected at the time of the August Inflation
+
+_Report, and well below the 2% inflation target. As the unusually large drags from energy and food prices_
+
+attenuate, CPI inflation is expected to rise to around its 2% target in the first half of 2017, consistent with the
+
+August Inflation Report, albeit with the projection a little lower over the remainder of 2016 than had been
+
+anticipated in August.
+
+The Committee’s view of the contours of the economic outlook following the EU referendum had not changed.
+
+News on the near-term momentum of the UK economy had, however, been slightly to the upside relative to the
+
+August Inflation Report projections. The Committee will assess that news, along with other forthcoming
+
+indicators, during its November forecast round. If, in light of that full updated assessment, the outlook at that
+
+time is judged to be broadly consistent with the August Inflation Report projections, a majority of members
+
+expect to support a further cut in Bank Rate to its effective lower bound at one of the MPC’s forthcoming
+
+meetings during the course of this year. The MPC currently judges this bound to be close to, but a little above,
+
+zero.
+
+Against that backdrop, at its meeting ending on 14 September, MPC members judged it appropriate to leave the
+
+stance of monetary policy unchanged.
+
+
+-----
+
+### Minutes of the Monetary Policy Committee meeting ending on 14 September 2016
+
+1 Before turning to its immediate policy decision, the Committee discussed financial market developments;
+
+the international economy; money, credit, demand and output; and supply, costs and prices.
+
+**Financial markets**
+
+2 There had been substantial asset price moves in response to the package of measures announced by the
+
+Committee at its previous meeting. The Committee discussed the immediate market reaction to the package,
+
+as well as the market response to subsequent data releases and the global market context.
+
+3 A 25bp cut in Bank Rate had been priced in by financial markets ahead of the MPC announcement on
+
+4 August. There had therefore been little reaction to the announcement at the very short end of the sterling OIS
+
+curve. Further out, the curve had initially fallen, possibly as markets took a signal that Bank Rate could be cut
+
+to its effective lower bound before the end of the year. Partly following a series of somewhat stronger-than
+expected UK data releases, the OIS curve had subsequently risen and at the three-year point was up around
+
+10 basis points since the Committee’s previous meeting.
+
+4 On the day of the MPC announcement, gilt yields had fallen by 10-20 basis points across maturities, with
+
+the largest falls in the five to fifteen year sector. Swap rates had also fallen across maturities, although by less
+
+than the gilt curve, possibly indicating that the inclusion of £60 billion of gilt purchases in the policy package had
+
+not been fully anticipated by the market. Using surveys to estimate market expectations ahead of the
+
+announcement, the response of gilt yields looked to be more consistent with the size of the effects seen at the
+
+launch of the Committee’s gilt purchase programme in 2009, rather than the smaller effects during subsequent
+
+phases. UK long-term interest rates had initially continued to decline, but had then risen following better UK
+
+data and the rise in global yields. These movements had left gilt yields little changed at maturities up to ten
+
+years, and yields at longer maturities down around 10 basis points, since the Committee’s previous meeting.
+
+5 The announcement of the Corporate Bond Purchase Scheme had been less anticipated by financial
+
+market participants. Consistent with this, in the period immediately following the announcement, spreads
+
+relative to government bond yields on sterling investment grade and high yield non-financial corporate bonds
+
+had fallen sharply. Corporate bond issuance by UK-domiciled firms had also picked up sharply in August,
+
+relative to previous years.
+
+6 The long-term wholesale funding spreads of major UK banks had fallen by around 20 basis points
+
+following the announcement of the Term Funding Scheme, broadly in line with the Committee’s expectations
+
+over the period since the August Inflation Report. UK banks’ issuance in these markets, including of AT1 debt,
+
+had been strong since the announcement compared with the same month in previous years.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 14 September 2016** 1
+
+
+-----
+
+7 Equity prices had risen following the MPC announcement. On the day, the FTSE 100, 250, and All-Share
+
+indices rose around 1.5%, with the UK-focused equity index up 1.2%.
+
+8 Sterling had depreciated immediately following the announcement of the August package, with the sterling
+
+ERI falling 1.3% on the day, and by more than could be explained by interest rate differentials alone. Over the
+
+period since the Committee’s previous meeting, the sterling ERI had also depreciated slightly.
+
+9 Announcements by central banks and expectations of their policies appeared to have been important
+
+factors behind movements in global bond yields since the Committee’s previous meeting. In particular, the
+
+ECB’s decision not to change policy at its September meeting, and market participants’ interpretation of the
+
+accompanying communications, had been followed by widespread increases in global government bond yields,
+
+including in the United States. There had also been a steepening in the Japanese yield curve, possibly related
+
+to market expectations of a change in the composition of the Bank of Japan’s policy stimulus.
+
+10 In summary, the immediate impact of the UK policy package on asset prices had been greater than
+
+expected, and the Committee would monitor closely the extent to which those asset price movements would be
+
+transmitted through to the broader economy. More recently, some of those asset price movements had been
+
+reversed, driven by somewhat stronger-than-expected UK data and a change in market perceptions of the
+
+monetary policy stance of other central banks.
+
+**The international economy**
+
+11 Recent data releases on global economic activity had been consistent with the Committee’s projections for
+
+modest world GDP growth contained in the August Inflation Report. The Committee reviewed the latest data
+
+before discussing the drivers of, and the prospects for, global equilibrium real interest rates.
+
+12 In the United States, despite some modest downward revisions, GDP growth in the second quarter had
+
+remained at 0.3%. Non-farm payrolls had risen by 151,000 in August, below market expectations but above the
+
+level thought to be consistent with continued falls in unemployment, and there had been broadly offsetting
+
+revisions to the data for June and July. The US unemployment rate had remained at 4.9%. Based on the
+
+available official and survey data, Bank staff had revised up their forecast for US GDP growth in the third quarter
+
+by 0.1 percentage points, to 0.7%, though an unusually persistent inventory correction was clouding the
+
+assessment of underlying demand momentum. Euro-area GDP growth in Q2 had been unrevised at 0.3%.
+
+Although the euro-area composite Purchasing Managers’ Index had fallen slightly in August, measures of
+
+economic uncertainty had fallen back and Bank staff had continued to expect that rate of GDP growth to be
+
+maintained in Q3.
+
+13 Chinese GDP growth in Q3 was still expected to be 1.7%, with indicators suggesting robust consumption
+
+growth in particular. Q2 output growth had been weaker than expected in some major emerging market
+
+economies including Brazil, India and Nigeria. But forward-looking indicators for emerging markets had
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 14 September 2016** 2
+
+
+-----
+
+strengthened, portfolio capital inflows had increased and the pace of tightening of credit standards had eased.
+
+Dollar oil prices had risen by around 3% since the August Inflation Report.
+
+14 At its August meeting, the MPC had discussed the possible global spillovers from the EU referendum
+
+result. Overall, there had been little news since then and, in particular, no signs of a significant adverse impact.
+
+15 The Committee had discussed again the low levels of global long-term interest rates. Very long-term
+
+structural factors, such as trends in productivity growth and demography, appeared to have had a depressing
+
+impact on long-term real interest rates over an extended period. It was difficult to believe that these factors had
+
+changed sufficiently to explain the further fall in yields since the start of the year. It was possible that long-term
+
+equilibrium real interest rates had been further depressed by persistent cyclical influences, such as heightened
+
+uncertainty and the weakness of growth since the financial crisis. Such factors would tend to lead to a fall in
+
+investment, or a rise in desired savings, both of which could depress long-term bond yields. It was unclear,
+
+however, how long these factors would persist. In addition, structural reforms or more expansionary fiscal policy
+
+in major economies could act to push up equilibrium interest rates, and therefore long-term bond yields, in the
+
+future.
+
+**Money, credit, demand and output**
+
+16 At the time of the August Inflation Report, the best collective judgement of the Committee was that the UK
+
+economy was likely to see little growth in the second half of 2016.  The focus of the Committee’s discussion
+
+was therefore on whether the latest data had been in line with their expectations in the August Inflation Report
+
+and the impact so far of the package of measures announced by the Committee at its August meeting.
+
+17 UK GDP was estimated to have grown by 0.6% on the quarter in Q2, unchanged from the initial estimate.
+
+There had been relatively little news in the output split in the second estimate with the production and
+
+service-sector data unrevised and a slight downward revision to construction output, although the construction
+
+data had been revised up again in a subsequent ONS data release. On the expenditure side, the data had
+
+been consistent with greater-than-expected momentum in domestic demand – with a larger-than-expected
+
+increase in both consumption and business investment and a smaller-than-expected fall in housing investment
+
+on the quarter – and a correspondingly weaker contribution to GDP growth from net trade.
+
+18 Turning to indicators of activity for the second half of the year, both the Markit/CIPS composite output and
+
+expectations indices had risen sharply in August, following large declines in July, although both remained below
+
+their historical average. The CBI composite survey measures of output and expectations had also picked up a
+
+little in August and were slightly above, and slightly below, their historical averages respectively. While the
+
+Bank’s Agents’ scores for business services, domestic manufacturing and construction output had been
+
+consistent with positive annual rates of output growth for these sectors in Q3, they had weakened on the month.
+
+In addition, industrial production had risen by 0.1% in July, a little less than expected; manufacturing output had
+
+fallen for the third month in a row. Overall, these data were consistent with somewhat less of a slowing in
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 14 September 2016** 3
+
+
+-----
+
+near-term UK GDP growth than envisaged in the August Inflation Report, although that change in the outlook
+
+was well within the range of uncertainty associated with near-term activity projections at this early stage of the
+
+data cycle. The staff’s latest projections were for quarterly growth in Q3 of 0.3% in the mature data and for
+
+0.2% in the preliminary release from the ONS. That compared with 0.1% and 0% respectively at the time of the
+
+August Inflation Report.
+
+19 In the August Inflation Report, the Committee had judged that different sectors of the economy would slow
+
+at different speeds. In those projections, business and housing investment had been expected to fall in the
+
+second half of 2016 as heightened uncertainty weighed on spending decisions that would be costly to reverse.
+
+In contrast, the Committee had expected consumption growth to slow alongside the growth of households’ real
+
+disposable income.
+
+20 Consistent with those projections, most business investment intentions surveys had weakened further
+
+since the August Inflation Report. The Bank’s macroeconomic uncertainty indicator remained above its long-run
+
+average in August, although it had fallen back from its recent peak in July and to a lower level than expected in
+
+the August Inflation Report. Commercial real estate prices had fallen further in July and transactions had also
+
+continued to fall in both July and August.
+
+21 The outlook for the housing market – and therefore dwellings investment – looked somewhat less negative
+
+than at the time of the August Inflation Report. While housing transactions in July had been in line with the
+
+Committee’s expectations, mortgage approvals for house purchase had fallen by less than expected on the
+
+month. The July and August RICS surveys had continued to suggest a fall in new buyer enquiries, but the pace
+
+of decline had slowed since the August Inflation Report. House price inflation had also slowed by less than
+
+expected, from 4.6% in the three months to June to 3.7% in the three months to August on an annualised basis
+
+according to the average of the lenders’ series. In addition, house price expectations three months ahead in the
+
+RICS survey had turned positive in August.
+
+22 The data on consumer spending released since the August Inflation Report had also been a little stronger
+
+than expected. Having fallen sharply in the immediate aftermath of the vote to leave the European Union, the
+
+GfK/EC consumer confidence indicator had improved slightly in August. Retail sales data from the ONS had
+
+increased more strongly than expected, by 1.4% in July following a contraction in June, although the British
+
+Retail Consortium’s retail sales data for August had suggested that the value of sales had fallen in the year to
+
+August. Total new car registrations had increased by 0.3% in the three months to August, turning positive for
+
+the first time in four months.
+
+23 It was possible that the Committee’s actions to ease monetary policy at its August meeting had
+
+contributed to some of the improvement in survey balances and associated sentiment. The prices of UK risky
+
+assets had generally increased and the cost of borrowing for households had declined since the August Inflation
+
+_Report. Many banks had announced their intention to reduce Standard Variable Rates and Tracker mortgage_
+
+rates in line with the cut in Bank Rate. Although some lenders had not yet made public announcements, the
+
+information available to the Committee suggested that the vast majority of borrowers with floating rate
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 14 September 2016** 4
+
+
+-----
+
+mortgages would benefit from this reduction. The announcements made so far suggested that deposit rates
+
+had fallen by more, on average, than expected in August although by less than the cut in Bank Rate. Two and
+
+five-year fixed mortgage rates – which cover the majority of new mortgage lending – had fallen since May,
+
+reflecting the fall in swap rates over that period, which had moved down in anticipation of an easing of monetary
+
+policy. Pass-through to new lending rates had historically taken some time and, absent further movements in
+
+swap rates, the MPC’s expectations were for mortgage rates to fall a little further over the coming months, to
+
+levels lower than expected in the May Inflation Report.
+
+**Supply, costs and prices**
+
+24 Data released since the August Inflation Report had contained relatively little news for the Committee’s
+
+projections for supply, costs and prices, although the increase in CPI inflation over the rest of 2016 was now
+
+likely to be slightly more gradual.
+
+25 Twelve-month CPI inflation had remained at 0.6% in August. That was 0.2 percentage points weaker than
+
+expected at the time of the August Inflation Report. Although starting from a slightly lower level, CPI inflation
+
+was expected to pick up further over the remainder of 2016, reflecting the waning influence of past falls in
+
+energy and food prices, the reduced disinflationary impact from sterling’s appreciation between 2013 and 2015
+
+and the initial effects of the depreciation of the exchange rate over the past year. Further ahead, CPI inflation
+
+was expected to rise to around its 2% target in the first half of 2017. Core inflation – the inflation rate of CPI
+
+excluding energy, food and tobacco – had also remained at 1.3% in August.
+
+26 Domestic labour cost pressures had remained subdued. Total annual pay growth in the whole economy
+
+and in the private sector was 2.3% and 2.4% in the three months to July. The headline rate of unemployment
+
+had remained at 4.9%. The claimant count rate had been unchanged in July and August. The number of job
+
+vacancies had been broadly flat for the past 18 months, increasing fractionally in the three months to August.
+
+Surveys of employment intentions from the REC and CIPS had declined immediately following the referendum,
+
+but they had recovered in the latest data and were now at levels consistent with fairly flat employment.
+
+Intelligence gathered from the Bank’s Agents had suggested a similar picture. Taken together, these data
+
+suggested that there had not been a deterioration in labour market conditions following the referendum. But it
+
+was too soon to tell how businesses would adjust to the longer-run impact of the vote to leave the European
+
+Union and the Committee would continue to monitor closely the prospects for employment and unemployment.
+
+27 Measures of long-term inflation compensation in financial markets had risen since the August Inflation
+
+_Report, reversing the falls seen since the EU referendum. Moreover, these moves appeared UK-specific, and_
+
+stood in contrast to the patterns observed in the United States and euro area. It was possible that some of the
+
+rise in measures of inflation compensation, towards levels more consistent with meeting the inflation target, was
+
+a response to the Committee’s policy package. However, households’ long-term expectations of inflation had
+
+declined a little in Q3.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 14 September 2016** 5
+
+
+-----
+
+**The immediate policy decision**
+
+28 The Committee set monetary policy to meet the 2% inflation target, and in a way that helped sustain
+
+growth and employment. At the time of the August Inflation Report, the best collective judgement of the
+
+Committee had been that the United Kingdom’s vote to leave the European Union would lead, over the forecast
+
+horizon, to a materially lower path for growth and a notably higher path for inflation than would otherwise have
+
+been the case. The Committee had announced a package of policy measures aimed at reducing the amount of
+
+spare capacity in the economy and thus ensuring that inflation returned sustainably to the target over time. As
+
+set out in the August Report, conditional on this package of measures, the MPC had expected that by the
+
+three-year forecast horizon unemployment would have begun to fall back; much of the economy’s spare
+
+capacity would have been re-absorbed; and that inflation would be a little above the 2% target. In preparing
+
+those projections, the Committee had only a limited amount of data to inform its assessment of how the vote to
+
+leave the European Union would affect the underlying momentum and medium-term prospects of the UK
+
+economy. The focus of the Committee’s September discussion had been on the immediate impact of the policy
+
+package and whether the latest economic data had been in line with their projections in the August Inflation
+
+_Report._
+
+29 The August MPC announcement had led to a greater-than-anticipated boost to UK asset prices. While a
+
+25bps cut in Bank Rate had already been priced in by financial markets, short-term market interest rates had
+
+fallen notably following the announcement. Long-term interest rates had also fallen, with gilt yields falling by
+
+more than swap rates, possibly reflecting that the inclusion of £60 billion of gilt purchases, and the overall
+
+breadth of the policy package, had not been fully anticipated by the market. Since then, some of those falls in
+
+yields had reversed, driven by somewhat stronger-than-expected UK data and a generalised rise in global
+
+yields. On the month, the sterling ERI had depreciated slightly.
+
+30 The inclusion of a Corporate Bond Purchase Scheme in the package had been less anticipated by market
+
+participants. Consistent with this, corporate bond spreads had narrowed and sterling issuance by UK-domiciled
+
+firms had been strong. Equity prices had also risen.
+
+31 The long-term wholesale funding costs of major UK banks had fallen by around 20 basis points following
+
+the announcement of the Term Funding Scheme, broadly in line with the Committee’s expectations, and August
+
+issuance of long-term wholesale debt had been strong. Deposit rates also fell in August, although, on average,
+
+these falls had been slightly smaller than the cut in Bank Rate. Many banks had announced their intention to
+
+reduce Standard Variable Rates and Tracker mortgage rates in line with the cut in Bank Rate. Fixed rates on
+
+new mortgage lending had also fallen a little, although pass-through to new lending rates had historically taken
+
+some time and the MPC’s expectation was that mortgage rates would fall a little further over the coming months.
+
+32 Overall, while the evidence on the initial impact of the policy package had been encouraging, the
+
+Committee would monitor closely changes in asset prices and in interest rates facing households and firms and
+
+their effect on economic activity.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 14 September 2016** 6
+
+
+-----
+
+33 The Committee’s August Inflation Report projection had been that the UK economy was likely to see little
+
+growth in the second half of 2016. In light of the tendency for survey indicators to overreact to unexpected
+
+events, the Committee had expected some bounce-back in surveys of business and consumer sentiment,
+
+following the sharp falls seen in the immediate aftermath of the vote to leave the European Union.
+
+Nevertheless, since the August Report, a number of indicators of near-term economic activity had been
+
+somewhat stronger than expected. Albeit to a lesser extent than anticipated in the August Report, the
+
+Committee still expected a material slowing in UK GDP growth in the second half of 2016.
+
+34 It was difficult to draw any strong inferences from these data about the Committee’s projections for 2017
+
+and beyond. Moreover, there had been no new information since the August Inflation Report relevant for the
+
+longer-term prospects for the UK economy.
+
+35 In the August Inflation Report, the Committee had judged that different sectors of the economy would slow
+
+at different rates. A protracted period of heightened uncertainty following the United Kingdom’s vote to leave
+
+the European Union and an expected weakening in the housing market had been projected to weigh particularly
+
+on business and housing investment in the near term, while consumption growth had been expected to slow
+
+more gradually alongside households’ real disposable incomes. The outlook for business spending, including
+
+commercial real estate transactions, seemed consistent with those projections. Indicators of consumption had
+
+been a little stronger than expected, and the near-term outlook for the housing market also appeared somewhat
+
+less weak than projected in August. Overall, though, the early data had remained consistent with the
+
+Committee’s judgement that business spending would slow more sharply than consumer spending in response
+
+to the uncertainty associated with the vote to leave the European Union.
+
+36 There had been limited news on the labour market. The headline rate of unemployment had remained at
+
+4.9% in July and the early official evidence suggested that the number of vacancies had held up in the period
+
+immediately after the referendum. Surveys of employment intentions from the REC and CIPS had recovered in
+
+the latest data, following initial post-referendum declines, and were at levels consistent with stable employment.
+
+Taken together, these data suggested that there had not been a deterioration in labour market conditions
+
+following the referendum. But it had been too soon to tell how businesses would adjust to the longer-run impact
+
+of the vote to leave the European Union and the Committee would continue to monitor closely the prospects for
+
+employment and unemployment.
+
+37 Data on global economic activity had generally been in line with the Committee’s August Inflation Report
+
+projections, with growth in the United Kingdom’s major trading partners expected to continue at a modest pace
+
+over the next three years. Oil prices had risen slightly since the August Inflation Report, but remained volatile.
+
+38 Twelve-month CPI inflation had remained at 0.6% in August, lower than projected at the time of the
+
+August Inflation Report, and well below the 2% inflation target. As the unusually large drags from energy and
+
+food prices attenuated, CPI inflation was expected to rise to around its 2% target in the first half of 2017,
+
+consistent with the August Inflation Report projections, albeit a little lower over the remainder of 2016 than had
+
+been anticipated in August.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 14 September 2016** 7
+
+
+-----
+
+39 The Committee’s view of the contours of the economic outlook following the EU referendum had not
+
+changed. News on the near-term momentum of the UK economy had, however, been slightly to the upside
+
+relative to the August Inflation Report projections. The Committee would assess that news, along with other
+
+forthcoming indicators, during its November forecast round. If, in light of that full updated assessment, the
+
+outlook at that time was judged to be broadly consistent with the August Inflation Report projections, a majority
+
+of members expected to support a further cut in Bank Rate to its effective lower bound at one of the MPC’s
+
+forthcoming meetings during the course of the year. The MPC currently judged this bound to be close to, but a
+
+little above, zero.
+
+40 The Governor invited the Committee to vote on the propositions that:
+
+Bank Rate be maintained at 0.25%;
+
+The Bank of England continue with the programme of sterling non-financial investment-grade corporate
+
+bonds purchases totalling up to £10 billion, financed by the issuance of central bank reserves;
+
+The Bank of England continue with the programme of £60 billion of UK government bond purchases to
+
+take the total stock of these purchases to £435 billion, financed by the issuance of central bank reserves.
+
+The Committee voted unanimously in favour of all three propositions. For Kristin Forbes and Ian McCafferty,
+
+who had opposed the increase in gilt purchases last month, the current outlook still did not fully warrant the
+
+additional stimulus generated by the increase in the size of the gilt purchase programme. However, given the
+
+potential costs to the economy of immediately reversing the programme underway, they would not vote against
+
+the continuation of that programme for now. For Kristin Forbes, these arguments also applied to the corporate
+
+bond purchase programme.
+
+41 As set out in the August Report, the Term Funding Scheme (TFS), which had been introduced as part of
+
+the policy package in August, would have an initial drawdown period of 18 months. Given the need to provide
+
+certainty to participants to allow them to form their initial funding and lending plans, the MPC would not vote on
+
+the TFS at each policy meeting. The MPC only expected to adjust the terms and length of the Scheme should
+
+macroeconomic conditions warrant it, and would not make the Scheme less generous during the initial 18 month
+
+drawdown window.
+
+42 The following members of the Committee were present:
+
+Mark Carney, Governor
+Ben Broadbent, Deputy Governor responsible for monetary policy
+Jon Cunliffe, Deputy Governor responsible for financial stability
+Nemat Shafik, Deputy Governor responsible for markets and banking
+Kristin Forbes
+Andrew Haldane
+Ian McCafferty
+Michael Saunders
+Gertjan Vlieghe
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 14 September 2016** 8
+
+
+-----
+
+Dave Ramsden was present as the Treasury representative.
+
+As permitted under the Bank of England Act 1998, as amended by the Bank of England and Financial Services
+
+Act 2016, Anthony Habgood was also present on 8 September as an observer for the purposes of exercising
+
+oversight functions in his role as a member of the Bank’s Court of Directors. Tim Frost was also present on
+
+both 8 and 9 September as an observer for the purposes of exercising oversight functions in his role as a
+
+member of the Bank’s Court of Directors.
+
+**Bank of England Minutes of the Monetary Policy Committee Meeting ending on 14 September 2016** 9
+
+
+-----
+

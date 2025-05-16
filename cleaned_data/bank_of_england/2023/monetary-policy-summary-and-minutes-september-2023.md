@@ -1,0 +1,657 @@
+# Monetary Policy Summary and
+
+ minutes of the Monetary Policy
+
+ Committee meeting ending on 
+
+ 20 September 2023
+
+### 21 September 2023
+
+
+-----
+
+These are the minutes of the Monetary Policy Committee meeting ending on 20 September
+2023.
+
+[They are available at https://www.bankofengland.co.uk/monetary-policy-summary-and-](https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2023/september-2023)
+[minutes/2023/september-2023.](https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2023/september-2023)
+
+The Bank of England Act 1998 gives the Bank of England operational responsibility for
+setting monetary policy to meet the Government’s inflation target. Operational decisions are
+taken by the Bank’s Monetary Policy Committee. The minutes of the Committee meeting
+ending on 1 November will be published on 2 November 2023.
+
+
+-----
+
+## Monetary Policy Summary, September 2023
+
+The Bank of England’s Monetary Policy Committee (MPC) sets monetary policy to meet the
+2% inflation target, and in a way that helps to sustain growth and employment. At its meeting
+ending on 20 September 2023, the MPC voted by a majority of 5–4 to maintain Bank Rate at
+5.25%. Four members preferred to increase Bank Rate by 0.25 percentage points, to 5.5%.
+The Committee also voted unanimously to reduce the stock of UK government bond
+purchases held for monetary policy purposes, and financed by the issuance of central bank
+reserves, by £100 billion over the next twelve months, to a total of £658 billion.
+
+In the MPC’s August most likely, or modal, Monetary Policy Report projections, conditioned
+on a market-implied path for Bank Rate that averaged just under 5½% over the three-year
+forecast period, CPI inflation was expected to return to the 2% target by 2025 Q2. It was then
+projected to fall below the target in the medium term, as an increasing degree of economic
+slack was expected to reduce domestic inflationary pressures, alongside declining external
+cost pressures. The Committee had continued to judge that the risks around the modal
+inflation forecast were skewed to the upside, albeit by less than in May, reflecting the
+possibility that the second-round effects of external cost shocks on inflation in wages and
+domestic prices take longer to unwind than they did to emerge. The mean projection for CPI
+inflation, which incorporated these risks, was 2.0% and 1.9% at the two and three-year
+horizons respectively.
+
+Since the MPC’s previous meeting, global growth has evolved broadly in line with the August
+Report projections, albeit with some differences across regions. Spot oil prices have risen
+significantly, while underlying inflationary pressures have remained elevated across
+advanced economies.
+
+UK GDP is estimated to have declined by 0.5% in July and the S&P Global/CIPS composite
+output PMI fell in August, although other business survey indicators remain consistent with
+positive GDP growth. While some of this news could prove erratic, Bank staff now expect
+GDP to rise only slightly in 2023 Q3. Underlying growth in the second half of 2023 is also
+likely to be weaker than expected.
+
+There have been some further signs of a loosening in the labour market, although it remains
+tight by historical standards. The vacancies-to-unemployment ratio has continued to decline,
+reflecting both a steady fall in the number of vacancies and rising unemployment. The Labour
+Force Survey unemployment rate rose to 4.3% in the three months to July, higher than
+expected in the August Report. Indicators of employment have generally softened against the
+backdrop of subdued activity.
+
+
+-----
+
+Annual private sector regular Average Weekly Earnings (AWE) growth increased to 8.1% in
+the three months to July, 0.8 percentage points above the August Report projection. The
+recent path of the AWE is, however, difficult to reconcile with other indicators of pay growth.
+Most of these have tended to be more stable at rates of growth that are elevated but not quite
+as high as the AWE series.
+
+Twelve-month CPI inflation fell from 7.9% in June to 6.7% in August, 0.4 percentage points
+below expectations at the time of the Committee’s previous meeting, and triggering the
+exchange of open letters between the Governor and the Chancellor of the Exchequer that is
+being published alongside this monetary policy announcement. Core goods CPI inflation has
+fallen from 6.4% in June to 5.2% in August, much weaker than expected in the August
+Report. Services CPI inflation rose from 7.2% in June to 7.4% in July but declined to 6.8% in
+August, 0.3 percentage points lower than expected in the August Report. Some of those
+movements are linked to services such as airfares and accommodation that tend to be
+volatile over the summer holiday period. Excluding these travel-related components, services
+inflation has been more stable at continued high rates, albeit slightly weaker than expected.
+
+CPI inflation is expected to fall significantly further in the near term, reflecting lower annual
+energy inflation, despite the renewed upward pressure from oil prices, and further declines in
+food and core goods price inflation. Services price inflation, however, is projected to remain
+elevated in the near term, with some potential month-to-month volatility.
+
+The MPC’s remit is clear that the inflation target applies at all times, reflecting the primacy of
+price stability in the UK monetary policy framework. The framework recognises that there will
+be occasions when inflation will depart from the target as a result of shocks and
+disturbances. Monetary policy will ensure that CPI inflation returns to the 2% target
+sustainably in the medium term.
+
+Developments in key indicators of inflation persistence have been mixed, with the recent
+acceleration in the AWE not apparent in other measures of wages and with some downside
+news on services inflation. There are increasing signs of some impact of tighter monetary
+policy on the labour market and on momentum in the real economy more generally. Given
+the significant increase in Bank Rate since the start of this tightening cycle, the current
+monetary policy stance is restrictive. At this meeting, the Committee voted to maintain Bank
+Rate at 5.25%.
+
+The MPC will continue to monitor closely indications of persistent inflationary pressures and
+resilience in the economy as a whole, including the tightness of labour market conditions and
+the behaviour of wage growth and services price inflation. Monetary policy will need to be
+sufficiently restrictive for sufficiently long to return inflation to the 2% target sustainably in the
+medium term, in line with the Committee’s remit. Further tightening in monetary policy would
+be required if there were evidence of more persistent inflationary pressures.
+
+
+-----
+
+The MPC committed in the minutes of its August 2022 meeting to review the reduction in the
+Asset Purchase Facility annually and, as part of that, to set an amount for the reduction in the
+stock of purchased UK government bonds over the subsequent 12-month period. At this
+meeting, the Committee voted to reduce the stock of UK government bond purchases held
+for monetary policy purposes, and financed by the issuance of central bank reserves, by
+£100 billion over the period from October 2023 to September 2024, to a total of £658 billion.
+
+
+-----
+
+## Minutes of the Monetary Policy Committee
+
+ meeting ending on 20 September 2023
+
+1. Before turning to its immediate policy decisions, the Committee discussed: the
+international economy; monetary and financial conditions; demand and output; and supply,
+costs and prices.
+
+### The international economy 
+
+2. UK-weighted global GDP was estimated to have increased by 0.5% in 2023 Q2, broadly
+in line with the August Monetary Policy Report projection. Global GDP growth of 0.3% was
+expected for Q3, also in line with the August Report, but with some differences across
+regions.
+
+3. Euro-area GDP had increased by 0.1% in 2023 Q2 but was expected to contract in Q3,
+weaker than expected in the August Report. Manufacturing and services output PMIs had
+both entered contractionary territory, with weakness in German manufacturing output
+particularly pronounced.
+
+4. In the United States, GDP had increased by 0.5% in 2023 Q2, and growth was expected
+to increase further in Q3, stronger than projected in the August Report for both quarters. In
+contrast to developments in the euro area, the manufacturing output PMI had stopped
+contracting and the services output PMI had remained in expansionary territory.
+
+5. The Committee discussed some possible factors behind the recent relative strength of
+US activity. Real incomes had increased more strongly in the United States, uplifted partly by
+significant fiscal policy actions during the pandemic and a smaller deterioration in the terms
+of trade, whereas government support in Europe had abated as energy prices had fallen
+back. US households had also appeared relatively more willing to spend any excess savings,
+possibly due to higher consumer confidence.
+
+6. Growth appeared to have slowed in China, with the NBS manufacturing PMI having
+remained below the neutral 50 level since April. Consumption and industrial production
+growth were similarly weak, alongside softer investment and falling exports. There had been
+notable headwinds from the property sector, with property prices falling and a major
+developer narrowly avoiding technical default. Taken together, these indicators pointed to
+Chinese growth slowing further in 2023 Q3, weaker than had been expected in the August
+Report.
+
+
+-----
+
+7. Energy prices had increased since the MPC’s previous meeting. The Dutch Title Transfer
+Facility spot price, a measure of European wholesale gas prices, had risen by 26%, owing in
+part to strike action at Australian liquefied natural gas facilities, although the gas futures
+curve had been broadly unchanged. Brent spot oil prices had risen by 17%, to $93 per barrel,
+following supply cuts by the OPEC+ group, as well as oil inventories falling globally.
+
+8. Headline consumer price inflation in the United States and euro area had continued to
+follow a downward trend from the peak rates recorded in 2022, although the impact of volatile
+energy prices had affected recent data. Annual euro-area HICP inflation had decreased
+slightly to 5.2% in August. In the United States, headline CPI inflation had increased to 3.7%
+in August from 3.2% in July, largely accounted for by a reduced drag from annual energy
+price inflation.
+
+9. Underlying inflationary pressures had remained elevated across advanced economies.
+US annual core CPI inflation had fallen to 4.3% in August from 4.7% in July. Annual core
+inflation in the euro area had fallen to 5.3% in August from 5.5% in July. Outturns in pay
+growth in these regions had continued to be strong. Labour markets had remained tight
+though had shown some signs of easing. The vacancies-to-unemployment ratio had
+decreased in the United States and had been broadly flat in the euro area.
+
+### Monetary and financial conditions 
+
+10. Market pricing suggested that policy rates in major advanced economies were expected
+to be nearing their peaks. At its meeting ending on 14 September, the ECB Governing
+Council had raised its key policy rates by 25 basis points, while market expectations were for
+the Federal Open Market Committee to leave the federal funds rate unchanged at its
+forthcoming meeting ending on 20 September. In the United Kingdom, Bank Rate
+expectations implied by market pricing had fallen in the immediate run-up to the MPC’s
+meeting, following the August CPI release. That had left market expectations for the
+September Bank Rate decision finely balanced between a 25 basis point increase and no
+change.
+
+11. There had also been a reduction in market expectations for the path of Bank Rate
+beyond the September MPC decision. Market pricing in the immediate run-up to the MPC’s
+meeting suggested a peak in Bank Rate of around 5.5%, held for around three quarters.
+Since the MPC’s previous meeting, the one-year overnight index swap (OIS) rate, one year
+forward had decreased by around 70 basis points. The market implied path for Bank Rate
+now averaged a little under 5% over the next three years.
+
+12. Ten-year government bond yields in the United Kingdom were down a little relative to the
+MPC’s August meeting, in contrast to global peers, for whom rates at this horizon had risen
+
+
+-----
+
+somewhat. The Committee noted that the level of UK and US 10-year government bond
+yields had converged over the recent period.
+
+13. There had continued to be evidence that interest rates in financial markets had been
+more sensitive to economic data outturns, particularly in the United Kingdom, than had been
+usual over the past decade. Nevertheless, these data outturns could be volatile from month
+to month. Overall, the sensitivity of UK interest rates to data releases relating to the nominal
+environment had remained greater than to releases relating to real activity, although there
+had been some reductions in market rates in response to both the August flash PMI and July
+GDP data releases.
+
+14. As the MPC had previously communicated, it would vote at this meeting on the reduction
+in the stock of gilts held in the Bank’s Asset Purchase Facility for monetary policy purposes
+over the 12-month period from October 2023 to September 2024. According to the Market
+Participants Survey (MaPS), the median market expectation for the MPC’s pace of gilt stock
+reduction over the year ahead was £100 billion.
+
+15. Medium-term inflation compensation measures in the United Kingdom were little
+changed relative to the MPC’s previous meeting. Although interpreting the level of these
+measures continued to be challenging, they had remained lower than their peak in March
+2022, but above their average levels of the previous decade. The median MaPS
+respondent’s expectation for CPI inflation three years ahead was 2.0% in the latest survey,
+down slightly relative to the previous survey. The distribution of survey responses had,
+however, remained skewed to the upside.
+
+16. Aggregate growth in sterling net lending by banks had continued to slow. Within that,
+new mortgage lending had continued to decline. While quoted mortgage rates had fallen
+somewhat since the MPC’s August meeting, largely reflecting pass-through of reductions in
+risk-free reference rates, they had remained substantially higher than at the start of the Bank
+Rate tightening cycle. Over that period, corporate credit conditions had also tightened and,
+consistent with that, and with subdued demand for credit, corporate lending growth had been
+weak.
+
+17. The annual growth rate in aggregate sterling broad money had slowed further to 0% in
+July. The pass-through of increases in Bank Rate to instant-access savings accounts, which
+had previously been much slower than pass-through to time deposit accounts, had increased
+since the Committee’s previous meeting. The overall increase in such sight deposit rates
+had, however, remained substantially smaller than the increase in Bank Rate since the end of
+2021.
+
+
+-----
+
+### Demand and output 
+
+18. According to the ONS’s first quarterly estimate, real GDP had increased by 0.2% in 2023
+Q2, marginally stronger than had been expected in the August Monetary Policy Report.
+Household consumption had risen by 0.6% and business investment by 3.4%, stronger than
+expected in the August Report. Housing investment had continued to fall, down by 2.3% on
+the quarter and by 7.7% on a year earlier.
+
+19. Monthly GDP was estimated to have fallen by 0.5% in July, following a rise of 0.5% in
+June. The July outturn was weaker than had been expected in the August Report, particularly
+within the services sector. Measured government health services output had fallen sharply in
+part reflecting the impact of strikes, and poor weather had also appeared to have dampened
+activity in some sectors. Weakness in private services activity had otherwise been
+concentrated in transport and other business services sectors.
+
+20. The S&P Global/CIPS UK composite output PMI had fallen in August, to 48.6, which was
+consistent with a fall in GDP based on past historical relationships. The future output PMI
+series had risen slightly, however, and remained close to its long-run average. Other
+business survey indicators of activity, including the Lloyds Business Barometer, had also
+remained consistent with positive GDP growth. The latest intelligence from the Bank’s Agents
+suggested that activity had remained subdued and that there were growing concerns about
+the economic outlook, most notably from contacts in consumer-facing businesses but also
+from some in the business services sector.
+
+21. Combining the signals from official data and business surveys, Bank staff now expected
+GDP to rise by only 0.1% in 2023 Q3, compared with the 0.4% increase incorporated in the
+August Report. Although some of this downside news could prove erratic, underlying growth
+was also likely to be weaker than the ¼% per quarter built into the August projection for the
+second half of 2023.
+
+22. The Committee discussed the factors behind a slowing in GDP growth, including the
+impact of the significant tightening in monetary policy since the end of 2021. The clearest
+signs of weakness continued to be in the housing sector, with housing investment and most
+measures of house prices falling somewhat, alongside a low level of property transactions.
+Recent consumer spending indicators had shown fewer signs of softening, with consumer
+confidence recovering in August and real labour incomes now rising. Corporate spending
+indicators had generally weakened over recent months, however, with an increasing number
+of firms responding to the ONS Business Insights and Conditions Survey noting concerns
+about interest rates. The manufacturing export orders PMI had also fallen quite sharply
+recently, in part reflecting global developments.
+
+
+-----
+
+23. Since the MPC’s previous meeting, the ONS had published some estimates of the
+impact of Blue Book 2023. GDP had been revised nearly 2% higher by 2021 Q4, although
+almost all of this news had been accounted for by stronger public sector output, largely
+reversing the revisions in Blue Book 2022. The Committee would consider the implications of
+revisions for supply as well as demand in its November forecast round discussions, by which
+time the Blue Book dataset beyond 2021 would also be available.
+
+### Supply, costs and prices
+
+24. There had been further signs of a loosening in the labour market, although it remained
+tight by historical standards. Contacts of the Bank’s Agents had reported an easing in
+recruitment difficulties, but also persistent skills shortages in some sectors. The vacancies-tounemployment ratio had continued to decline, reflecting both a steady fall in the number of
+vacancies and rising unemployment. The Labour Force Survey (LFS) unemployment rate
+had risen to 4.3% in the three months to July, higher than expected in the August Monetary
+Policy Report forecast. The latest quarterly data had shown an increase in flows from
+inactivity into unemployment, indicative of some of the increase in unemployment having
+been associated with individuals that were previously inactive beginning to look for work, as
+well as a gradual increase in flows from employment into unemployment.
+
+25. Indicators of employment had generally softened against a backdrop of subdued activity.
+LFS employment had fallen by 0.6% in the three months to July, but that had been preceded
+by a 0.8% increase in the previous non-overlapping three months. This series often
+fluctuated from one period to another and sample sizes and response rates to the LFS had
+been declining. The Bank’s Agents had reported that companies were expecting to keep staff
+numbers broadly stable, with few active plans to make redundancies. The KPMG/REC
+Report on Jobs was, however, pointing to a fall in companies hiring new staff. The S&P
+Global/CIPS composite employment PMI had also fallen in August, albeit only to around its
+historical average.
+
+26. The Committee discussed what to infer from the latest developments in indicators of pay.
+Annual private sector regular Average Weekly Earnings (AWE) growth had been 8.1% in the
+three months to July, 0.8 percentage points above the August Report projection, with the
+news largely due to upward revisions to previous months’ data. Three-month-on-three-month
+growth for the same AWE measure had increased in recent months, with that strength seen
+across a number of different sectors.
+
+27. The latest path of the AWE was, however, difficult to reconcile with other pay indicators,
+including measures using HMRC payrolls, the LFS and the Decision Maker Panel (DMP),
+which had tended to be more stable at rates that were elevated but not quite as high as the
+AWE series. The Bank’s Agents were continuing to report that average annual pay
+settlements were in the region of 6 to 6½%, with contacts expecting settlements to begin to
+
+
+-----
+
+drift down and for there to be fewer additional payments provided to compensate for a higher
+cost of living. Only the measures within the KPMG/REC Report were signalling a clear
+decrease in pay growth but, puzzlingly, their relationship with the AWE data had been less
+strong over the recent past.
+
+28. Twelve-month CPI inflation had fallen to 6.8% in July, before edging down to 6.7% in
+August, 0.4 percentage points below the August Report forecast. The latest CPI release had
+triggered the exchange of open letters between the Governor and the Chancellor of the
+Exchequer that was being published alongside these minutes.
+
+29. While declines in CPI inflation had been largely driven by lower energy prices up to July,
+the fall in August had been driven by other components. A combination of past falls in petrol
+pump prices dropping out of the annual comparison and increases on the month had resulted
+in a higher rate of energy price inflation in August. In contrast, core CPI inflation, excluding
+energy, food, beverages and tobacco, had fallen to 6.2%, having been relatively stable at just
+under 7% in preceding months.
+
+30. Lower core goods price inflation had accounted for just under two-thirds of the downside
+surprise in CPI inflation since the August Report. Some of the latest news had been confined
+to the more idiosyncratic used cars component. Downside news elsewhere in core goods,
+however, suggested that the recent easing in input cost pressures, evident in a flattening in
+non-petroleum producer prices, was feeding through to consumer goods prices more quickly
+than had been anticipated previously. There had been relatively modest and offsetting news
+in food and energy prices up to August. If sustained, recent significant increases in oil prices
+would, however, mean that the energy contribution to CPI inflation would be higher than
+assumed in the August Report forecast over coming months.
+
+31. The remainder of the downside surprise in CPI inflation since August had been in
+services prices. Services CPI inflation had unexpectedly risen back to a 31-year high of 7.4%
+in July before falling more sharply than had been expected to 6.8% in August. Some of the
+increase in July and the subsequent unwind, along with the corresponding news, was linked
+to services such as airfares and accommodation that tended to be volatile over the summer
+holiday period. Excluding travel-related components such as these, services inflation had
+been more stable at continued high rates. Nevertheless, there had also been some downside
+news across this wider part of the consumer basket for services.
+
+32. An underlying measure of services inflation produced by Bank staff, which was
+determined by the co-movement of price changes across services components, had begun to
+decline. The S&P Global/CIPS UK services input and output price PMIs had continued to fall
+towards their past averages, while Agents’ contacts were reporting that, although pay
+pressures had remained intense for consumer-facing services companies, other cost
+pressures were easing.
+
+
+-----
+
+33. Abstracting from these underlying trends, the path of services inflation was likely to be
+volatile in coming months, in part reflecting potential noise in the prices of travel-related
+services. A temporary sharp upward spike was also anticipated in January 2024, as large
+and unusual falls in a number of services prices at the beginning of 2023 were not expected
+to be repeated, resulting in a positive base effect early next year.
+
+34. Inflation expectations for the year ahead had remained at elevated levels. Businesses
+responding to the DMP were expecting their own prices to increase by around 5% over the
+next twelve months. Measures of household inflation expectations were broadly unchanged
+in both the Bank/Ipsos and Citi/YouGov surveys, within which the medium-term measures
+were closer to their historical averages.
+
+### The immediate policy decisions
+
+35. The MPC sets monetary policy to meet the 2% inflation target, and in a way that helps to
+sustain growth and employment.
+
+36. In the MPC’s August most likely, or modal, Monetary Policy Report projections,
+conditioned on a market-implied path for Bank Rate that had averaged just under 5½% over
+the three-year forecast period, CPI inflation had been expected to return to the 2% target by
+2025 Q2. It had then been projected to fall below the target in the medium term, as an
+increasing degree of economic slack had been expected to reduce domestic inflationary
+pressures, alongside declining external cost pressures. The Committee had continued to
+judge that the risks around the modal inflation forecast were skewed to the upside, albeit by
+less than in May, reflecting the possibility that the second-round effects of external cost
+shocks on inflation in wages and domestic prices took longer to unwind than they did to
+emerge. The mean projection for CPI inflation, which incorporated these risks, had been
+2.0% and 1.9% at the two and three-year horizons respectively.
+
+37. The Committee discussed the news in recent UK economic data outturns. Past increases
+in Bank Rate were expected to weigh increasingly on the economy, with the impact of tighter
+monetary policy likely to be apparent earlier for indicators of demand and labour market
+tightness than for indicators of domestically generated inflation, such as wage growth and
+services CPI inflation, which were at a later stage in the monetary transmission mechanism.
+
+38. While some of the weakening in recent activity data could prove erratic, Bank staff now
+expected GDP to rise only slightly in 2023 Q3. Underlying growth in the second half of 2023
+was also likely to be weaker than had been expected. Ahead of its final meeting, the
+Committee was made aware of the flash S&P Global/CIPS UK composite PMI for September
+that would be released publically on Friday 22 September.
+
+
+-----
+
+39. There had been some further signs of a loosening in the labour market, although it had
+remained tight by historical standards. The vacancies-to-unemployment ratio had continued
+to decline, reflecting both a steady fall in the number of vacancies and a greater than
+expected rise in unemployment.
+
+40. Annual private sector regular Average Weekly Earnings (AWE) growth had increased to
+8.1% in the three months to July, 0.8 percentage points above the August Report projection.
+Most other indicators of pay had tended to be more stable at rates of growth that were
+elevated but not quite as high as the AWE series.
+
+41. Twelve-month CPI inflation had fallen to 6.7% in August, 0.4 percentage points below
+expectations at the time of the Committee’s previous meeting. Services CPI inflation had
+declined to 6.8% in August, 0.3 percentage points lower than had been expected in the
+August Report. Some of those movements were linked to services such as airfares and
+accommodation that tended to be volatile over the summer holiday period. Excluding these
+travel-related components, services inflation had been more stable at continued high rates,
+albeit slightly weaker than had been expected.
+
+42. The MPC’s remit was clear that the inflation target applied at all times, reflecting the
+primacy of price stability in the UK monetary policy framework. The framework recognised
+that there would be occasions when inflation would depart from the target as a result of
+shocks and disturbances. Monetary policy would ensure that CPI inflation returned to the 2%
+target sustainably in the medium term. Monetary policy was also acting to ensure that longerterm inflation expectations were anchored at the 2% target.
+
+**Bank Rate decision**
+
+43. The Committee turned to its immediate decision on Bank Rate. Developments in key
+indicators of inflation persistence had been mixed, with the recent acceleration in the AWE
+not apparent in other measures of wages and with some downside news on services
+inflation. There were increasing signs of some impact of tighter monetary policy on the labour
+market and on momentum in the real economy more generally. Given the significant increase
+in Bank Rate since the start of this tightening cycle, the current monetary policy stance was
+restrictive. This meant that the decision on whether to increase or to maintain Bank Rate at
+this meeting had become more finely balanced between the risks of not tightening policy
+enough when underlying inflationary pressures could still prove persistent, and not placing
+sufficient weight on the impact of the previous tightening that was still to come through on
+activity and inflation.
+
+44. Five members judged that maintaining Bank Rate at 5.25% was warranted at this
+meeting. There were signs that the labour market was loosening. The recent acceleration in
+the AWE was noteworthy but was not apparent in other measures of wages. Although it was
+
+
+-----
+
+important not to put too much weight on a single data point, headline and services CPI
+inflation had fallen back and were lower than had been expected. Regarding activity, contacts
+of the Bank’s Agents had become more downbeat, and the output PMI in August was now
+consistent with falling GDP. For most members within this group, the latest developments
+meant that the judgement to keep Bank Rate unchanged at this meeting rather than increase
+it was finely balanced. Conditions were likely to warrant a restrictive policy stance being
+maintained until material progress had been made in returning inflation to the 2% target
+sustainably. For one member, however, the risks of overtightening policy had continued to
+build, increasing the likelihood of output losses and volatility that would require sharper
+reversals of policy. Lags in the effects of monetary policy meant that sizeable impacts from
+past rate increases were still to come through.
+
+45. Four members judged that a 0.25 percentage point increase in Bank Rate, to 5.5%, was
+warranted at this meeting. Although there were now some signs of weakening economic
+activity, consumer sentiment appeared to be holding up, real household incomes had started
+to rise, and forward-looking indicators of output had remained positive. The labour market
+was still relatively tight, consistent with a possible rise in the medium-term equilibrium rate of
+unemployment, and the pace of loosening had been slow. Measures of wage growth and
+services inflation had remained at rates above those consistent with meeting the 2% target
+sustainably in the medium term. While services CPI inflation had fallen by more than had
+been expected in the latest data release, this appeared to have been driven mainly by volatile
+components and had followed recent upside surprises. These members judged that overall
+there was evidence of more persistent inflationary pressures. Although the monetary stance
+was weighing increasingly on economic activity, a 0.25 percentage point increase in Bank
+Rate at this meeting was necessary to address the risks of more deeply embedded inflation
+persistence and bring inflation back to the 2% target sustainably in the medium term.
+
+46. The MPC would continue to monitor closely indications of persistent inflationary
+pressures and resilience in the economy as a whole, including the tightness of labour market
+conditions and the behaviour of wage growth and services price inflation. Monetary policy
+would need to be sufficiently restrictive for sufficiently long to return inflation to the 2% target
+sustainably in the medium term, in line with the Committee’s remit. Further tightening in
+monetary policy would be required if there were evidence of more persistent inflationary
+pressures.
+
+**Decision on the annual pace of reduction in the stock of UK government bond**
+**purchases held for monetary policy purposes**
+
+47. As set out in the minutes of its August 2022 meeting, the MPC had committed to review
+the reduction in the Asset Purchase Facility (APF) annually and, as part of that, to set an
+amount for the reduction in the stock of purchased UK government bonds (gilts) over the
+
+
+-----
+
+subsequent 12-month period. Box A of the August 2023 Monetary Policy Report had set out
+an assessment of the process of quantitative tightening over the previous year.
+
+48. The Committee judged that reducing the size of the APF had the important benefit of
+reducing the risk of a ratchet upwards in the size of the central bank balance sheet over time
+if successive policy cycles encountered the effective lower bound on interest rates. That in
+turn should increase the headroom and flexibility for the central bank to be able to use its
+balance sheet in the future should that be needed.
+
+49. The appropriate pace of gilt stock reduction would continue to be guided by a set of key
+principles, which the MPC had first outlined in the August 2021 Monetary Policy Report. First,
+the Committee intended to use Bank Rate as its active policy tool when adjusting the stance
+of monetary policy. Second, sales would be conducted so as not to disrupt the functioning of
+financial markets. Third, to help achieve that, sales would be conducted in a gradual and
+predictable manner over a period of time.
+
+50. As set out in the Box in the August 2023 Report, the Committee judged that quantitative
+tightening was going smoothly. There was no evidence of a negative impact of gilt sales on
+market functioning across a range of financial market measures. APF reduction was likely to
+have had some tightening effect on yields, which, while difficult to measure precisely, was
+judged to have been modest. That was in line with the MPC’s prior expectations, but the
+Committee would continue to learn from monitoring developments as the process
+progressed.
+
+51. The tightening impact of the reduction in the APF on activity and inflation also appeared
+to have been, and was expected to be, modest. While it was hard to measure precisely the
+marginal effect of quantitative tightening, the MPC’s economic forecasts were conditioned on
+asset prices that incorporated announced and expected APF reduction alongside other
+factors. The MPC would therefore take this effect into account when setting the desired
+monetary policy stance using Bank Rate. Any tightening effect from the reduction in the APF
+would lead to a slightly lower path for Bank Rate, all else equal. Given that the impact of APF
+reduction was judged to have been modest, this was unlikely to have made a material
+difference to the appropriate path for Bank Rate over the past year.
+
+52. Drawing on the experience of the first year of quantitative tightening, the Committee
+considered a number of factors which supported a modest increase in the pace of gilt stock
+reduction from £80 billion over the previous year to £100 billion over the 12 months ahead.
+First, an assessment of market conditions, and of market capacity to absorb the pace of gilt
+sales implied by a £100 billion gilt stock reduction, suggested that this pace was unlikely to
+disrupt the functioning of financial markets. Second, the Committee noted that a £100 billion
+gilt stock reduction over the year ahead would leave the pace of gilt sales broadly unchanged
+relative to the previous year, given some increase in APF gilt maturities. As set out in the
+
+
+-----
+
+August 2023 Report, the focus of the MPC was on total gilt stock reduction, comprising both
+maturing gilts and sales, such that variation in the profile of redemptions might also lead to
+variation in the pace of sales over time. Notwithstanding that, the Committee placed some
+weight on continuity in the pace of sales. Third, the Committee noted that over the previous
+year the £80 billion reduction in APF gilt holdings had been accompanied by the nearcomplete unwind of the £20 billion corporate bond portfolio, such that the overall reduction in
+the size of the APF over the past year had also been around £100 billion. Taken together,
+these factors supported a small increase in the pace of reduction in the stock of gilts relative
+to the previous year.
+
+53. In the immediate run-up to this meeting, Bank staff had briefed the MPC on the current
+state of economic and market conditions. Current conditions were judged appropriate for the
+Committee to proceed with its preferred pace of gilt stock reduction. The Financial Policy
+Committee (FPC) had also been briefed.
+
+54. All members of the MPC agreed at this meeting that the Bank of England should reduce
+the stock of UK government bond purchases held for monetary policy purposes, and financed
+by the issuance of central bank reserves, by £100 billion over the 12-month period from
+October 2023 to September 2024, comprising both maturing gilts and sales.
+
+55. The MPC also reaffirmed that there would be a high bar for amending the planned
+reduction in the stock of purchased gilts outside a scheduled annual review. That was in
+order to remain consistent with the principles that Bank Rate should be the active policy tool
+when adjusting the stance of monetary policy, and that APF reduction should be predictable.
+In judging whether that bar was met, the FPC would also have a role through its assessment
+of financial stability.
+
+56. The Chair invited the Committee to vote on the propositions that:
+
+Bank Rate should be maintained at 5.25%;
+
+The Bank of England should reduce the stock of UK government bond purchases held
+for monetary policy purposes, and financed by the issuance of central bank reserves, by
+£100 billion over the next twelve months, to a total of £658 billion.
+
+57. Five members (Andrew Bailey, Ben Broadbent, Swati Dhingra, Huw Pill and Dave
+Ramsden) voted in favour of the first proposition. Four members (Jon Cunliffe, Megan
+Greene, Jonathan Haskel and Catherine L Mann) voted against the proposition, preferring to
+increase Bank Rate by 0.25 percentage points, to 5.5%.
+
+58. The Committee voted unanimously in favour of the second proposition.
+
+
+-----
+
+### Operational considerations
+
+59. On 20 September 2023, the total stock of assets held for monetary policy purposes was
+£759 billion, comprising £759 billion of UK government bond purchases and £0.6 billion of
+sterling non‐financial investment‐grade corporate bond purchases.
+
+60. At its September 2022 meeting, the MPC had voted to reduce the stock of UK
+government bond purchases by £80 billion over the 12-month period from October 2022 to
+September 2023. The Bank of England had set out in a Market Notice on 1 September how
+the 2023 Q3 gilt sales programme would be adjusted in order to meet the MPC's target.
+
+61. At this meeting, the MPC had voted to reduce the stock of UK government bond
+purchases held for monetary policy purposes by £100 billion over the 12-month period from
+October 2023 to September 2024. The details of the first quarter of the associated gilt sales
+programme, covering 2023 Q4, were set out in a Market Notice accompanying these
+minutes. The Bank would continue to set auction sizes each quarter, to meet the MPC’s
+annual target as closely as practicable.
+
+62. The following members of the Committee were present:
+
+Andrew Bailey, Chair
+Ben Broadbent
+Jon Cunliffe
+Swati Dhingra
+Megan Greene
+Jonathan Haskel
+Catherine L Mann
+Huw Pill
+Dave Ramsden
+
+James Bowler was present as the Treasury representative.
+
+Sarah Breeden was present as an observer.
+
+63. On behalf of the Committee, the Chair expressed his appreciation to Jon Cunliffe for his
+contributions to the work of the MPC since becoming a member in 2013 and for his role in
+establishing the monetary policy framework.
+
+
+-----
+

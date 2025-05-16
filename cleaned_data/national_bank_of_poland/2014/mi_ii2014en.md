@@ -1,0 +1,156 @@
+# Minutes from the Monetary Policy Council Decision Making Meeting Held on 5 February 2014 
+
+At its meeting, members of the Monetary Policy Council discussed the current and
+
+future monetary policy decisions in the context of macroeconomic developments in
+Poland and abroad.
+
+While discussing economic activity abroad, it was indicated that the global recovery
+
+is still moderate. Data on euro area point to a slowly improving economic conditions. In
+turn, activity growth in the United States – which is visibly stronger than in the euro area
+– recorded signs of weakening in comparison to previous expectations. At the same time,
+in China and in other emerging economies, where growth has slowed down to a low
+level (considering their past performance), there is persisting uncertainty about future
+developments in GDP. A few members of the Council also highlighted that, taking into
+consideration the significant scale and limited effectiveness of the stimulus provided so
+far to the emerging economies, there is little scope for revival of economic activity
+through additional actions of these countries’ authorities.
+
+While analysing the external environment of the Polish economy, the Council also
+
+discussed reaction of the financial markets to the QE tapering of the Federal Reserve and
+to the increased risk of Argentina suspending its debt servicing. These events have had a
+negative effect on the sentiment of market participants. The deterioration in investor
+sentiment, in particular in relation to certain emerging economies, resulted in an outflow
+of capital from some of these countries and a weakening of their currencies. In order to
+limit the scale of the depreciation, some of the central banks intervened on the currency
+market or raised their interest rates. Some of the Council members pointed to the fact
+that monetary policy tightening was conducted in economies characterised by
+heightened inflation and substantial external imbalances. Therefore, the increase in
+interest rates in these countries was supporting the restoring of their macroeconomic
+equilibrium – both internal and external.
+
+In Poland the exchange rate of the zloty – i.e. the currency of a country usually
+
+included in the group of emerging markets – has weakened relatively slightly.
+According to the Council members, the resilience of the zloty to changes in the sentiment
+of the financial markets is supported by the relatively favourable economic situation in
+Poland, including the lack of any significant imbalances.
+
+Referring to domestic economic growth, it was stressed that preliminary GDP data
+
+for 2013, as well as monthly data on economic activity and indicators of economic
+conditions point to a continued gradual recovery of growth. The Council members drew
+attention to the fact that the implied GDP data for 2013 Q4 confirm that net exports are
+still contributing substantially to GDP growth, while domestic demand remained weak
+(this relates in particular to investment demand). Some of the Council members argued
+
+
+-----
+
+that the current structure of GDP growth – based to a large degree on exports, with only
+a gradual recovery of domestic demand – supports the maintenance of low inflationary
+pressure and, at the same time, contributes to the Polish economy remaining balanced.
+
+According to some members of the Council, in successive quarters – together with
+
+further improvement in growth prospects – investment activity should increase
+significantly. Some of the Council members argued that taking into account good
+financial situation of companies and low credit costs, relatively high capacity utilization
+should be a factor encouraging firms to invest. These Council members emphasised that
+favourable prospects for corporate investment growth are indicated by the NBP business
+tendency surveys, which show an increase in investment outlays planned for 2014, as
+well as an increase in the percentage of companies intending to begin new projects. A
+few of the Council members pointed out that the revival of outlays on fixed assets
+should also be supported by a rebound of investments related to further inflow of EU
+funds, in particular to the local government sector.
+
+While analysing the prospects for further recovery in consumption, the Council
+
+members indicated that growth of disposable income is still low, limiting the increase in
+household expenditure. At the same time, a few Council members assessed that low
+inflation and a gradual improvement in the situation on the labour market will be
+conducive to the revival in individual consumption in the coming quarters.
+
+While discussing the outlook for external trade, some members of the Council
+
+pointed out that low labour costs in Poland continue to support high price
+competitiveness of Polish goods abroad, and hence – exports growth. The favourable
+outlook for exports performance is also related to the anticipated acceleration of growth
+in Poland's main trading partner countries, as signalled by the upward revisions of their
+GDP growth forecasts. At the same time, a few Council members assessed that stronger
+import growth resulting from the expected investment revival will dampen the
+contribution of net exports to GDP growth.
+
+While analysing trends in lending, some of the Council members pointed to the still
+
+weak credit growth. In particular, corporate lending for financing investment continues
+to rise only slowly, which – in the opinion of those Council members – indicates
+persistently high risk aversion on the part of both banks and enterprises. Yet, a few
+Council members stressed that growth in credit to the private sector has accelerated.
+They highlighted, in particular, the increasing availability of corporate credit, evidenced
+by the rising percentage of loan applications being approved. With corporate investment
+expected to accelerate in the subsequent quarters, this will facilitate a revival in lending
+to that sector, especially amidst banks’ declarations of looser lending criteria for some
+types of loans.
+
+Addressing labour market conditions, some members of the Council pointed out that
+
+so far they have been improving very slowly. In particular, employment growth is
+insufficient to bring down the unemployment rate. In effect, as at the end of 2013, the
+unemployment rate was still relatively high. A few Council members were of the
+
+
+-----
+
+opinion that since the probability of finding a job has risen – as has the ratio of nonsubsidised vacancies to the number of the jobless – the outlook for labour market
+developments is favourable. In the opinion of those Council members, positive signs in
+this respect include also some improvement in willingness of increasing employment
+declared by enterprises and a decline in fears of losing a job reported by private
+individuals.
+
+In the context of labour market impact on inflation, some of the Council members
+
+observed that the persistently high unemployment rate has a mitigating effect on both
+cost and demand pressures (on the former, by restricting wage pressure, on the latter, by
+reducing disposable income). Those Council members noted that in the past few years
+wage and unit labour cost (ULC) growth has been slow. A few Council members
+assessed that, also over the next few quarters, ULC growth should remain slow. Yet
+other members of the Council argued that in response to the improving economic
+conditions, wage pressure may materialise fairly promptly, hence the pace of ULC
+growth may pick up substantially within a short span of time.
+
+While analysing inflation developments, the Council members highlighted that
+
+inflation – including core inflation – continued to be very low, and the available forecasts
+point to it likely remaining low also in the subsequent quarters. Low core inflation is
+supported by a further decline in producer prices and sustained low inflation in Poland's
+main trading partners. In turn, the risk of substantial rise in energy or food prices is
+constrained by the conditions in international commodity markets, where the moderate
+scale of global economic recovery is conducive to price stabilisation. Therefore there is
+no significant risk of inflationary pressure rising markedly in Poland in the nearest
+future. At the same time, a few Council members argued that in its monetary policy
+decisions the central bank should take into account the fact that the current low inflation
+is partly related to temporary factors remaining beyond the influence of domestic
+monetary policy.
+
+The Council decided that the NBP interest rates should remain unchanged at the
+
+current meeting. Furthermore, the Council maintained its assessment that the gradual
+improvement in economic conditions was likely to continue over the coming quarters,
+while inflation pressure would remain limited. In this context, the Council confirmed
+that it would be justified to maintain the interest rates at the current level at least until
+the end of the first half of 2014. At the same time, Council members recognized that the
+findings of the March NBP projection would enable a more comprehensive assessment
+of medium-term outlook for inflation and economic growth.
+
+The Council left the basic interest rates unchanged at the following levels: reference
+
+rate at 2.50%, lombard rate at 4.00%, deposit rate at 1.00%, rediscount rate at 2.75%.
+
+Publication date: 20 February 2014
+
+
+-----
+
