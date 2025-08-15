@@ -289,9 +289,9 @@ print(results)
 ```
 
 **Label Interpretation**  
-- `LABEL_0`: Hawkish; supports contractionary monetary policy.  
-- `LABEL_1`: Dovish; supports expansionary monetary policy.  
-- `LABEL_2`: Neutral; neither hawkish nor dovish, or both sentiments present.  
+- `LABEL_0`: Neutral; neither hawkish nor dovish, or both sentiments present.
+- `LABEL_1`: Hawkish; supports contractionary monetary policy.
+- `LABEL_2`: Dovish; supports expansionary monetary policy.
 - `LABEL_3`: Irrelevant; unrelated to monetary policy.  
 
 ---
